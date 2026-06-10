@@ -1,0 +1,23 @@
+{
+  "skill_name": "font-finder",
+  "evals": [
+    {
+      "id": 1,
+      "name": "modern-editorial-wellness",
+      "prompt": "I'm rebranding a wellness brand. Founder is a 40-something nutritionist, the brand sits between premium and approachable, not clinical. They want something modern editorial — feels considered, not cold. Need a display serif and a paired sans for body. Three options each, please.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "alternative-to-soehne",
+      "prompt": "I love Söhne but this client's budget can't stretch to Klim. What's a good free or cheaper alternative I can use across web and print, ideally with a similar feel — that 1950s Akzidenz lineage but with modern proportions?",
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "tech-startup-pairing",
+      "prompt": "B2B SaaS startup, Series A, AI-adjacent infra product. CEO wants 'modern, technical, trustworthy, not boring'. Need display, text, and mono. Lean toward something with a bit of personality but readable at body sizes.",
+      "files": []
+    }
+  ]
+}

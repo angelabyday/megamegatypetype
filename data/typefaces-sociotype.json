@@ -1,0 +1,269 @@
+[
+  {
+    "name": "Avec",
+    "foundry": "Sociotype",
+    "url": "https://socio-type.com/avec",
+    "designer": "Hugh Morse",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "serifless roman / glyphic",
+    "classification_notes": "A serifless Roman in the Incised tradition, drawing on the short-lived Graphie Latine movement of the late 1950s and early 60s and on Enric Crous-Vidal's expressive humanist lettering. Retains Roman proportions and contrasting stroke weight without conventional serifs.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Curve",
+      "Sharp",
+      "Stencil"
+    ],
+    "subfamilies": [
+      "Avec Text",
+      "Avec Curve",
+      "Avec Sharp",
+      "Avec Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serifless roman",
+      "glyphic",
+      "incised",
+      "high contrast",
+      "flared",
+      "humanist",
+      "graphie latine",
+      "editorial",
+      "fashion",
+      "display"
+    ],
+    "summary": "A serifless Roman in four subfamilies, drawing on Enric Crous-Vidal and the Graphie Latine movement for high contrast, flared strokes and a Latin energy.",
+    "description": "A serifless Roman by Hugh Morse, conceived for both display and text in four subfamilies of fourteen styles each. Avec carries the humanist proportions and contrasting stroke weight of a Roman serif but trades the serifs for flared terminals, sharp glyphic points and sweeping cursive curves. The Stencil cut is tuned for headlines, Curve and Sharp suit subheads and large text, and Text holds at sizes as small as 6pt. Each style ships with over 790 glyphs and a variable weight axis, with italics drawn for every weight.",
+    "foundry_blurb": "Sociotype describe Avec as a serifless Roman in four subfamilies for text and display, inspired by the expressive European humanist lettering of Enric Crous-Vidal and the short-lived Graphie Latine movement of the late 1950s and early 60s. Designed by Hugh Morse, the family carries Latin energy and graphic texture through high contrast, flared strokes, sharp glyphic and elegant cursive qualities."
+  },
+  {
+    "name": "Ceno & Meso",
+    "foundry": "Sociotype",
+    "url": "https://socio-type.com/ceno-meso",
+    "designer": "Sociotype",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "humanist sans paired with experimental serif",
+    "classification_notes": "Sociotype's first sans/serif pairing. Ceno is a modern humanist sans grounded in the 'essential form' of Edward Johnston's Underground lettering. Meso is a sibling serif built on the same skeleton, with serifs and flared terminals influenced by 1970s experimental serifs such as Frutiger's Icone and Philip Kelly's Cortez.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ceno",
+      "Meso"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist sans",
+      "johnston",
+      "underground lettering",
+      "experimental serif",
+      "icone",
+      "cortez",
+      "petit serif",
+      "sans serif pairing",
+      "variable",
+      "editorial"
+    ],
+    "summary": "Sociotype's first sans and serif pair, with Ceno's humanist sans rooted in Edward Johnston's Underground lettering and Meso adding 1970s experimental serifs.",
+    "description": "Two sibling families of sixteen styles each, Ceno and Meso share a skeleton built on the 'essential form' of Edward Johnston's 1916 Underground lettering. Ceno is a modern humanist sans with vertical apertures, classic uppercase proportions and selective grotesk traits; Meso grafts serifs and flared terminals onto that frame, drawing on Percy Delf Smith's UERL petit serif and on 1970s experimental serifs such as Frutiger's Icone, Tony Di Spigna's Serif Gothic and Philip Kelly's Cortez. Each style carries 848 glyphs and the variable font lets you blend between sans and serif, weight and italic angle on a single axis.",
+    "foundry_blurb": "Sociotype describe Ceno & Meso as their first sans/serif pairing, two sibling families of sixteen styles each with 848 glyphs per style and a variable font that allows blending between sans and serif, weight and even italic angle. Ceno is a modern humanist sans grounded in the 'essential form' of Edward Johnston's Underground lettering, paired with Meso, a playful serif counterpart inspired by experimental serifs of the 1970s."
+  },
+  {
+    "name": "Gestura",
+    "foundry": "Sociotype",
+    "url": "https://socio-type.com/gestura",
+    "designer": "Sociotype",
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "modern old style superfamily",
+    "classification_notes": "A modern serif superfamily with 16th century old style roots. Draws on Robert Granjon's Gros Cicero, Matthew Carter's Galliard and Monotype Plantin, while subverting convention with wedge-like terminals, calligraphic curves and minimalist serif reductions.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Headline",
+      "Display"
+    ],
+    "subfamilies": [
+      "Gestura Text",
+      "Gestura Headline",
+      "Gestura Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "old style",
+      "modern",
+      "calligraphic",
+      "wedge terminals",
+      "optical sizes",
+      "superfamily",
+      "editorial",
+      "luxury",
+      "fashion"
+    ],
+    "summary": "A modern old style serif superfamily that mixes calligraphic curves with wedge-like terminals across three optical sizes for text, headline and display.",
+    "description": "A 42-style superfamily across three optical sizes, Gestura is rooted in 16th century old style models such as Robert Granjon's Gros Cicero, with reference to Matthew Carter's Galliard and Monotype Plantin. The design balances graceful calligraphic curves with hard-edged wedge terminals, ornate strokes meeting minimalist reductions of traditional serif forms. Six stylistic sets shift the typographic voice between conservative and expressive, with sets four to six tuned for italic only. Text is built for long-form reading, while Headline and Display exaggerate Gestura's character as scale increases.",
+    "foundry_blurb": "Sociotype describe Gestura as a modern serif superfamily, born out of the push and pull between its 16th century roots and a distinctly contemporary appetite to subvert typographic convention. Formally restless but always controlled, with 42 styles, three optical sizes and an abundance of stylistic alternates, it is positioned as a do-it-all serif for long-form copy, striking headlines and expressive display."
+  },
+  {
+    "name": "Onsite",
+    "foundry": "Sociotype",
+    "url": "https://socio-type.com/onsite",
+    "designer": "Sociotype",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "grotesk superfamily",
+    "classification_notes": "An in-house grotesk loosely based on Max Miedinger's Neue Haas Grotesk, with subtly squared letterforms and a system of widths inspired by DIN 1451 German road signage. A retro-futurist hint of Aldo Novarese's Eurostile sits in the flat-bottomed alternates.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "Mono",
+      "SemiMono",
+      "Condensed",
+      "Standard",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Onsite Mono",
+      "Onsite SemiMono",
+      "Onsite Condensed",
+      "Onsite Standard",
+      "Onsite Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesk",
+      "neo-grotesque",
+      "din",
+      "industrial",
+      "squared",
+      "wide range of widths",
+      "mono",
+      "condensed",
+      "extended",
+      "editorial",
+      "interface",
+      "wayfinding"
+    ],
+    "summary": "Sociotype's in-house grotesk, combining a mid-century neo-grotesque base with the systematic widths of DIN 1451 across mono, condensed, standard and extended cuts.",
+    "description": "An in-house grotesk that started as two styles for Sociotype's own use and grew into a superfamily of 42 styles across three core widths plus Mono and SemiMono variants. Onsite blends the evergreen feel of a mid-20th century neo-grotesque with the industrial structure of DIN 1451 German road signage and a hint of Eurostile in its flat-bottomed alternates. Subtly flattened curves, double-point structure and almost imperceptibly flared terminals emerge at display sizes, while a stable form holds legibility for small text. Sixteen stylistic sets, 766 glyphs per style and variable fonts cover everything from single-storey a and double-storey g to circled numerals, lenticular brackets and Hangul brackets.",
+    "foundry_blurb": "Sociotype describe Onsite as their own in-house grotesk, combining the classic utility of a mid 20th-century sans serif with the extraordinary versatility of a contemporary superfamily. Originally designed in just two styles for in-house use, it has grown into a family of three widths and 42 styles with 766 glyphs per style, drawing on the systematic widths of DIN 1451."
+  },
+  {
+    "name": "Rework",
+    "foundry": "Sociotype",
+    "url": "https://socio-type.com/rework",
+    "designer": "Sociotype",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "grotesque workhorse superfamily",
+    "classification_notes": "A historical hybrid sans serif superfamily, descended from a robust geometric model that runs from ancient Greek stone inscription through 19th century architectural lettering, William Caslon IV's Two Lines English Egyptian, copperplate engraving, Stephenson Blake's Grotesques and 20th century phototypesetting.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Micro",
+      "Text",
+      "Headline",
+      "Display"
+    ],
+    "subfamilies": [
+      "Rework Micro",
+      "Rework Text",
+      "Rework Headline",
+      "Rework Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "workhorse",
+      "geometric",
+      "historical hybrid",
+      "optical sizes",
+      "micro",
+      "editorial",
+      "branding",
+      "interface"
+    ],
+    "summary": "A 48-style sans serif workhorse across four optical sizes including a Micro family, drawing on Greco-Roman inscription, 19th century architectural lettering, copperplate engraving and Stephenson Blake grotesques.",
+    "description": "A sans serif superfamily of 48 styles across four optical sizes, including a Micro cut for the smallest screen sizes. Rework collects influences from across the history of the geometric sans, with stately Greco-Roman square proportions sitting alongside the idiosyncrasies of 19th century commercial lettering, William Caslon IV's Two Lines English Egyptian, copperplate engraved type, phototypeset gothics such as Sackers Gothic, and Stephenson Blake's grotesques. The result reads as part man, part machine, with industrial and humanistic qualities held in tension and a pre-digital sense of physicality. The Micro family is engineered for legibility at small sizes, while the Headline and Display cuts release more expressive detail.",
+    "foundry_blurb": "Sociotype describe Rework as a sans serif superfamily and contemporary workhorse, inspired by the 19th century descendants of a foundational sans serif model. A historical hybrid that traces a robust geometric sans from ancient Greek stone inscription through the earliest printed grotesques, copperplate engraving and 20th century phototypesetting, available in 48 styles and four optical sizes including a Micro family."
+  }
+]
