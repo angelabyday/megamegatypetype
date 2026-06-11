@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -22,10 +22,44 @@ type BriefState =
   | { status: "results"; results: ResultItem[] }
   | { status: "error"; message: string };
 
+const STORAGE_KEY = "brief-state";
+
 export function BriefForm() {
   const [brief, setBrief] = useState("");
   const [state, setState] = useState<BriefState>({ status: "idle" });
   const [answers, setAnswers] = useState<string[]>([]);
+
+  // Survive navigation to a result and back: state lives in sessionStorage.
+  useEffect(() => {
+    try {
+      const saved = sessionStorage.getItem(STORAGE_KEY);
+      if (!saved) return;
+      const parsed = JSON.parse(saved) as {
+        brief: string;
+        state: BriefState;
+        answers: string[];
+      };
+      setBrief(parsed.brief ?? "");
+      setAnswers(parsed.answers ?? []);
+      if (parsed.state && parsed.state.status !== "loading") {
+        setState(parsed.state);
+      }
+    } catch {
+      // Corrupt or absent saved state; start fresh.
+    }
+  }, []);
+
+  useEffect(() => {
+    if (state.status === "loading") return;
+    try {
+      sessionStorage.setItem(
+        STORAGE_KEY,
+        JSON.stringify({ brief, state, answers })
+      );
+    } catch {
+      // Storage full or unavailable; nothing to do.
+    }
+  }, [brief, state, answers]);
 
   async function submit(withAnswers?: { question: string; answer: string }[]) {
     setState({ status: "loading" });
