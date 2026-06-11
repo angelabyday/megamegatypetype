@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { hasSpecimen } from "@/components/typeface-card";
 import { getFoundryByName } from "@/lib/foundry-map";
 import {
   getAllTypefaces,
@@ -100,6 +102,19 @@ export default async function TypefacePage({
         {t.has_italic && <Badge variant="outline">italic</Badge>}
         {t.has_mono && <Badge variant="outline">mono</Badge>}
       </div>
+
+      {hasSpecimen(t.foundrySlug, t.slug) && (
+        <div className="relative mt-6 aspect-[16/10] w-full overflow-hidden border-[0.5px] border-border bg-muted">
+          <Image
+            src={`/specimens/${t.foundrySlug}/${t.slug}.webp`}
+            alt={`${t.name} specimen from ${t.foundry}`}
+            fill
+            sizes="(min-width: 768px) 768px, 100vw"
+            className="object-cover"
+            priority
+          />
+        </div>
+      )}
 
       <div className="mt-8 flex flex-col gap-6">
         {t.summary && <p className="text-lg">{t.summary}</p>}
