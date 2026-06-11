@@ -1,10 +1,12 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
+import { hasSpecimen } from "@/components/typeface-card";
 
 type ResultItem = {
   name: string;
@@ -153,37 +155,55 @@ export function BriefForm() {
 
       {state.status === "results" && (
         <ol className="flex flex-col">
-          {state.results.map((r, i) => (
-            <li
-              key={`${r.foundry}/${r.name}`}
-              className="flex gap-4 border-b-[0.5px] border-border py-3 first:border-t-[0.5px]"
-            >
-              <span className="w-6 shrink-0 text-sm text-muted-foreground">
-                {i + 1}
-              </span>
-              <div>
-                <div className="font-bold">
-                  {r.slug && r.foundrySlug ? (
-                    <Link
-                      href={`/t/${r.foundrySlug}/${r.slug}`}
-                      className="hover:underline underline-offset-4"
-                    >
-                      {r.name}
-                    </Link>
-                  ) : (
-                    <>
-                      {r.name}{" "}
-                      <span className="font-normal text-muted-foreground">
-                        (outside the list)
-                      </span>
-                    </>
-                  )}
-                  <span className="font-normal text-muted-foreground"> · {r.foundry}</span>
+          {state.results.map((r, i) => {
+            const specimen =
+              r.slug && r.foundrySlug && hasSpecimen(r.foundrySlug, r.slug);
+            return (
+              <li
+                key={`${r.foundry}/${r.name}`}
+                className="flex gap-4 border-b-[0.5px] border-border py-3 first:border-t-[0.5px]"
+              >
+                <span className="w-6 shrink-0 text-sm text-muted-foreground">
+                  {i + 1}
+                </span>
+                {specimen && (
+                  <Link
+                    href={`/t/${r.foundrySlug}/${r.slug}?from=brief`}
+                    className="relative hidden h-20 w-32 shrink-0 overflow-hidden border-[0.5px] border-border bg-muted sm:block"
+                  >
+                    <Image
+                      src={`/specimens/${r.foundrySlug}/${r.slug}.webp`}
+                      alt={`${r.name} specimen`}
+                      fill
+                      sizes="128px"
+                      className="object-cover"
+                    />
+                  </Link>
+                )}
+                <div>
+                  <div className="font-bold">
+                    {r.slug && r.foundrySlug ? (
+                      <Link
+                        href={`/t/${r.foundrySlug}/${r.slug}?from=brief`}
+                        className="hover:underline underline-offset-4"
+                      >
+                        {r.name}
+                      </Link>
+                    ) : (
+                      <>
+                        {r.name}{" "}
+                        <span className="font-normal text-muted-foreground">
+                          (outside the list)
+                        </span>
+                      </>
+                    )}
+                    <span className="font-normal text-muted-foreground"> · {r.foundry}</span>
+                  </div>
+                  <p className="text-sm text-muted-foreground">{r.reason}</p>
                 </div>
-                <p className="text-sm text-muted-foreground">{r.reason}</p>
-              </div>
-            </li>
-          ))}
+              </li>
+            );
+          })}
         </ol>
       )}
 

@@ -2,8 +2,10 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { Suspense } from "react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { BriefResultNav } from "@/components/brief-result-nav";
 import { hasSpecimen } from "@/components/typeface-card";
 import { getFoundryByName } from "@/lib/foundry-map";
 import {
@@ -77,6 +79,9 @@ export default async function TypefacePage({
 
   return (
     <article className="mx-auto max-w-3xl px-4 py-8 sm:px-6">
+      <Suspense fallback={null}>
+        <BriefResultNav foundrySlug={t.foundrySlug} slug={t.slug} />
+      </Suspense>
       <div className="flex flex-wrap items-start justify-between gap-4">
         <div>
           <h1 className="text-3xl font-bold">{t.name}</h1>
