@@ -5,7 +5,7 @@ import { getAllTypefaces } from "@/lib/typefaces";
 
 export const maxDuration = 60;
 
-const MODEL = "claude-haiku-4-5";
+const MODEL = "claude-fable-5";
 
 type BriefRequest = {
   brief?: string;
@@ -19,11 +19,13 @@ type ResultItem = {
   outside_list?: boolean;
 };
 
-const RESPONSE_TOOL: Anthropic.Tool = {
-  name: "brief_response",
-  description:
-    "Return either clarifying questions for a vague brief, or exactly 10 ranked typeface recommendations.",
-  input_schema: {
+// Fable 5 does not support forced tool use, so the response comes back as
+// structured output (output_config.format) instead. The schema spec forbids
+// minItems/maxItems; the exactly-10 rule is enforced in the prompt and by the
+// correction round below.
+const RESPONSE_FORMAT = {
+  type: "json_schema" as const,
+  schema: {
     type: "object",
     properties: {
       type: {
@@ -63,14 +65,14 @@ const RESPONSE_TOOL: Anthropic.Tool = {
             },
           },
           required: ["name", "foundry", "reason"],
+          additionalProperties: false,
         },
-        minItems: 10,
-        maxItems: 10,
         description:
           "Exactly 10 ranked picks, best first, when type is 'results'. Never fewer, even when the brief asks for a smaller number.",
       },
     },
     required: ["type"],
+    additionalProperties: false,
   },
 };
 
@@ -122,15 +124,21 @@ function buildIndex(): {
   return { json: JSON.stringify(compact), lookup };
 }
 
-function extractToolInput(message: Anthropic.Message) {
-  const block = message.content.find((b) => b.type === "tool_use");
-  return block && block.type === "tool_use"
-    ? (block.input as {
-        type: "questions" | "results";
-        questions?: string[];
-        results?: ResultItem[];
-      })
-    : null;
+type BriefResponse = {
+  type: "questions" | "results";
+  questions?: string[];
+  results?: ResultItem[];
+};
+
+function extractResponse(message: Anthropic.Message): BriefResponse | null {
+  const block = message.content.find((b) => b.type === "text");
+  if (!block || block.type !== "text") return null;
+  try {
+    return JSON.parse(block.text) as BriefResponse;
+  } catch {
+    console.error("brief response parse failure", block.text.slice(0, 500));
+    return null;
+  }
 }
 
 export async function POST(request: Request) {
@@ -174,14 +182,19 @@ export async function POST(request: Request) {
   try {
     const first = await client.messages.create({
       model: MODEL,
-      max_tokens: 2000,
-      system: buildSystemPrompt(index),
+      max_tokens: 8000,
+      system: [
+        {
+          type: "text" as const,
+          text: buildSystemPrompt(index),
+          cache_control: { type: "ephemeral" as const },
+        },
+      ],
       messages,
-      tools: [RESPONSE_TOOL],
-      tool_choice: { type: "tool", name: "brief_response" },
+      output_config: { format: RESPONSE_FORMAT },
     });
 
-    const input = extractToolInput(first);
+    const input = extractResponse(first);
     if (!input) {
       return NextResponse.json(
         { error: "No structured response from the model." },
@@ -226,29 +239,27 @@ export async function POST(request: Request) {
           `You returned ${results.length} picks. The list must be exactly 10, whatever the brief asked for. Keep your picks and extend to 10.`
         );
       }
-      const toolUse = first.content.find((b) => b.type === "tool_use");
       const replacement = await client.messages.create({
         model: MODEL,
-        max_tokens: 2000,
-        system: buildSystemPrompt(index),
+        max_tokens: 8000,
+        system: [
+          {
+            type: "text" as const,
+            text: buildSystemPrompt(index),
+            cache_control: { type: "ephemeral" as const },
+          },
+        ],
         messages: [
           ...messages,
           { role: "assistant", content: first.content },
           {
             role: "user",
-            content: [
-              {
-                type: "tool_result" as const,
-                tool_use_id: toolUse!.id,
-                content: `${problems.join(" ")} Return the full corrected list of exactly 10.`,
-              },
-            ],
+            content: `${problems.join(" ")} Return the full corrected list of exactly 10.`,
           },
         ],
-        tools: [RESPONSE_TOOL],
-        tool_choice: { type: "tool", name: "brief_response" },
+        output_config: { format: RESPONSE_FORMAT },
       });
-      const second = extractToolInput(replacement);
+      const second = extractResponse(replacement);
       if (second?.type === "results" && second.results) {
         results = second.results;
         resolved = resolve(results);
