@@ -64,7 +64,10 @@ const RESPONSE_TOOL: Anthropic.Tool = {
           },
           required: ["name", "foundry", "reason"],
         },
-        description: "Exactly 10 ranked picks, best first, when type is 'results'.",
+        minItems: 10,
+        maxItems: 10,
+        description:
+          "Exactly 10 ranked picks, best first, when type is 'results'. Never fewer, even when the brief asks for a smaller number.",
       },
     },
     required: ["type"],
@@ -77,14 +80,14 @@ function buildSystemPrompt(index: string): string {
 How to work:
 1. Translate the brief into typographic features (contrast, x-height, stress axis, terminals, aperture, width) using the reference material. Words like "modern", "clean" and "elegant" are ambiguous; map them carefully.
 2. If the brief is too vague to recommend with conviction (for example one or two words with no sector, role, mood or references), respond with 1 to 3 clarifying questions instead of guessing. Draw them from: typeface category; role and surfaces; reference brands or typefaces and what to avoid; three adjectives plus one trap; era feel; budget tier; audience; sector. Always say "I don't know" is a fine answer. If the user has already answered questions, do not ask again: recommend.
-3. Otherwise return exactly 10 picks, ranked best first.
+3. Otherwise return exactly 10 picks, ranked best first. Always 10, even when the brief asks for fewer ("three options each" still gets 10); cover the requested split within the 10 and let the ranking show it.
 
 Selection rules:
 - Pick only from the index. Use the exact name and foundry strings from it.
 - Tier priority: best first, then good and okay. Use notgood only when the brief specifically needs something only those have.
 - If the brief signals a free or tight budget, note in the reason that the pick is paid, and prefer lower-cost foundries (atipo foundry is pay-what-you-want); the index has no free fonts.
 - If a brief asks for a full system (display plus text plus mono), cover the roles across the 10 without labelling them.
-- Only if nothing in the index comes close, you may include picks from outside it, marked with outside_list true. Use sparingly.
+- Only if nothing in the index comes close for a needed role, or the brief explicitly asks for free fonts, may you include picks from outside it, marked with outside_list true. Use sparingly; most briefs need none.
 - Reasons cite letterform features tied to the brief. "It feels modern" is not a reason. Under 25 words each.
 
 Reference material:
@@ -208,8 +211,21 @@ export async function POST(request: Request) {
     let resolved = resolve(results);
     const invalid = resolved.filter((r) => !r.match && !r.raw.outside_list);
 
-    // One replacement round for hallucinated in-index picks.
-    if (invalid.length > 0) {
+    // One correction round: hallucinated in-index picks, or fewer than 10.
+    if (invalid.length > 0 || results.length < 10) {
+      const problems: string[] = [];
+      if (invalid.length > 0) {
+        problems.push(
+          `These picks are not in the index: ${invalid
+            .map((r) => `${r.raw.name} (${r.raw.foundry})`)
+            .join(", ")}. Replace them using exact index names.`
+        );
+      }
+      if (results.length < 10) {
+        problems.push(
+          `You returned ${results.length} picks. The list must be exactly 10, whatever the brief asked for. Keep your picks and extend to 10.`
+        );
+      }
       const toolUse = first.content.find((b) => b.type === "tool_use");
       const replacement = await client.messages.create({
         model: MODEL,
@@ -224,9 +240,7 @@ export async function POST(request: Request) {
               {
                 type: "tool_result" as const,
                 tool_use_id: toolUse!.id,
-                content: `These picks are not in the index: ${invalid
-                  .map((r) => `${r.raw.name} (${r.raw.foundry})`)
-                  .join(", ")}. Return the full corrected list of 10, replacing only those, using exact index names.`,
+                content: `${problems.join(" ")} Return the full corrected list of exactly 10.`,
               },
             ],
           },
