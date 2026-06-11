@@ -5,7 +5,8 @@ import { getAllTypefaces } from "@/lib/typefaces";
 
 export const maxDuration = 60;
 
-const MODEL = "claude-fable-5";
+// Override per environment with BRIEF_MODEL (e.g. claude-fable-5 locally).
+const MODEL = process.env.BRIEF_MODEL ?? "claude-sonnet-4-6";
 
 type BriefRequest = {
   brief?: string;
