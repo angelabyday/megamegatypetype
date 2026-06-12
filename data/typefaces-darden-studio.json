@@ -1,0 +1,424 @@
+[
+  {
+    "name": "Omnes",
+    "foundry": "Darden Studio",
+    "url": "https://www.dardenstudio.com/omnes",
+    "designer": "Josh Darden",
+    "year": 2006,
+    "category": "sans-serif",
+    "subcategory": "rounded grotesque",
+    "classification_notes": "Darden Studio classifies it as a Rounded Continental Grotesque; it carries soft terminals and curvaceous letterforms typical of rounded grotesques with a European character.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Condensed",
+      "Semicondensed",
+      "Standard"
+    ],
+    "subfamilies": [
+      "Omnes"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "grotesque",
+      "editorial",
+      "information-design",
+      "branding",
+      "wide-range",
+      "softened"
+    ],
+    "summary": "A rounded continental grotesque by Josh Darden spanning 72 styles across four widths and nine weights, built out for editorial and information design work.",
+    "description": "Released in 2006 and revised with expanded features, it covers four width grades from Narrow to Standard, each running from Hairline to Black with matching italics. The feature set is notably practical: tabular figures, auto fractions via OpenType, index characters in eight variations and an extended arrow set make it well suited to charts and data-heavy layouts. Rounded terminals give it warmth without softening its utility in continuous text or branding contexts.",
+    "foundry_blurb": "Darden Studio describe Omnes as taking the curvaceous yet crisp original and turning it up to eleven. The updated family adds tabular figures and punctuation for chart work, true numerator and denominator figures with OpenType fraction support, eight variations of index characters, eye-catching arrows, extended language support and stylistic sets."
+  },
+  {
+    "name": "Gamay",
+    "foundry": "Darden Studio",
+    "url": "https://www.dardenstudio.com/gamay",
+    "designer": "Viktoriya Grabowska",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Darden Studio classifies Gamay as a geometric sans with calligraphic features; its construction is primarily geometric yet incorporates calligraphic gestures, placing it firmly in the geometric sans category with humanist inflections.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Cond",
+      "Regular",
+      "Editorial",
+      "Expanded",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Gamay Narrow",
+      "Gamay Cond",
+      "Gamay Regular",
+      "Gamay Editorial",
+      "Gamay Expanded",
+      "Gamay Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "calligraphic",
+      "editorial",
+      "extended-family",
+      "wide-range",
+      "multi-width",
+      "contemporary"
+    ],
+    "summary": "A 108-style geometric sans by Viktoriya Grabowska that tempers strict construction with calligraphic gestures across six widths and nine weights.",
+    "description": "Designed by Viktoriya Grabowska with art direction from Eben Sorkin, Gamay spans six width variants from Narrow to Wide, each offered in nine weights from Thin to Black with matching italics. The geometric skeleton carries calligraphic detail that softens its angularity, giving it character at both display and text sizes. At 108 styles, the family is built to sustain complex typographic systems across editorial, branding and digital work.",
+    "foundry_blurb": "Darden Studio describe Gamay as embracing both full-bodied and affable characteristics, noting that while its construction appears strict and geometric at first glance, the typeface appreciates calligraphic gestures. They frame it as angular and voluptuous, designed to enliven design projects with a typeface that sits between rigour and warmth."
+  },
+  {
+    "name": "Kit",
+    "foundry": "Darden Studio",
+    "url": "https://www.dardenstudio.com/kit",
+    "designer": "Eben Sorkin, Onur Yazıcıgil",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Darden Studio classify Kit as a low-contrast humanist sans and modern rounded sans, with gestural drawing and open apertures typical of the humanist tradition.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kit Sans",
+      "Kit Rounded"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "rounded",
+      "workhorse",
+      "gestural",
+      "multi-weight",
+      "branding",
+      "ui"
+    ],
+    "summary": "A humanist sans and rounded sans pairing by Eben Sorkin and Onur Yazıcıgil, spanning eight weights with italics across two subfamilies.",
+    "description": "Released in 2023, Kit comes in two subfamilies — Kit Sans and Kit Rounded — each running from ExtraLight to Black with matching italics across 32 styles. The design has open, gestural drawing that aims to bring energy to a category often defined by neutrality. Suited to branding, editorial and UI work where a humanist sans needs warmth without becoming informal.",
+    "foundry_blurb": "Darden Studio describe Kit as bringing vitality to the workhorse categories of sans and rounded sans. They characterise it as gestural, visceral and awake, calling it the proverbial fox to all the other sans' sleepy dogs."
+  },
+  {
+    "name": "Halyard",
+    "foundry": "Darden Studio",
+    "url": "https://www.dardenstudio.com/halyard",
+    "designer": "Joshua Darden, Eben Sorkin, Lucas Sharp",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Darden Studio classifies Halyard as a Grotesque Sans, drawing on 19th and early 20th century designs from Schelter+Giesecke, Miller and Richard, and Morris Fuller Benton as source material.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Micro",
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Halyard Micro",
+      "Halyard Text",
+      "Halyard Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "optical-sizes",
+      "editorial",
+      "text",
+      "multi-weight",
+      "19th-century-revival",
+      "versatile"
+    ],
+    "summary": "A 48-style grotesque by Joshua Darden, Eben Sorkin and Lucas Sharp, offered across three optical sizes tuned for micro, text and display settings.",
+    "description": "Designed at Darden Studio and released in 2017, the family draws selectively from 19th and early 20th century grotesque sources including Schelter+Giesecke, Miller and Richard, and Morris Fuller Benton to produce something that feels familiar without being derivative. Three subfamilies — Micro, Text and Display — each run from Extralight to Black with matching italics, giving 48 styles in total. The optical calibration makes it genuinely useful from small-print interfaces through to large-scale typesetting.",
+    "foundry_blurb": "Darden Studio describe Halyard's personality as at once familiar and pleasingly distinctive, citing cherry-picked elements from classic grotesque designs of the 19th and early 20th centuries by Schelter+Giesecke, Miller and Richard, and Morris Fuller Benton. The family was designed by Joshua Darden, Eben Sorkin and Lucas Sharp, with production assistance from Viktoriya Grabowska and Noam Berg."
+  },
+  {
+    "name": "Jubilat",
+    "foundry": "Darden Studio",
+    "url": "https://www.dardenstudio.com/jubilat",
+    "designer": "Josh Darden",
+    "year": 2008,
+    "category": "slab",
+    "subcategory": "Clarendon-style slab serif",
+    "classification_notes": "Darden Studio explicitly classifies Jubilat as a slab serif in the Clarendon style, characterised by bracketed serifs, high contrast and a large lowercase — all features consistent with that 19th-century tradition.",
+    "weights": [
+      "Hairline",
+      "Superthin",
+      "Extrathin",
+      "Thin",
+      "Extralight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Jubilat"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "clarendon",
+      "editorial",
+      "headline",
+      "political",
+      "high-contrast",
+      "text"
+    ],
+    "summary": "A Clarendon-style slab serif by Josh Darden spanning twelve weights, designed for headlines, decks and sidebars with generous curves and high contrast.",
+    "description": "Released in 2008 and honoured by the TDC, Jubilat draws on the history of the Clarendon slab to build a 24-style family running from Hairline to Black with matching italics throughout. A large lowercase, high stroke contrast and efficient spacing in both axes make it equally at home in editorial hierarchies and political campaign materials. Its client list includes Bernie Sanders' website, Politico and Monday Design.",
+    "foundry_blurb": "Darden Studio describe Jubilat as exploring the history of the slab serif across six weights, with generous curves and efficient spacing. They note that its large lowercase and high contrast make it well suited to headlines, decks and sidebars. The typeface was commissioned by Michael Picon and received a TDC award."
+  },
+  {
+    "name": "Birra",
+    "foundry": "Darden Studio",
+    "url": "https://www.dardenstudio.com/birra",
+    "designer": "Elena Schneider, Mark De Winne, Josh Darden, Vera Evstafieva, Viktoriya Grabowska",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Birra is a collection of stylistically distinct display faces united under a single family name; Stout, originally described as 'conjuring whimsy', signals an expressive, display-oriented intent across all five styles.",
+    "weights": [
+      "Saison",
+      "Pils",
+      "Bruin",
+      "Lambic",
+      "Stout"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Birra Saison",
+      "Birra Pils",
+      "Birra Bruin",
+      "Birra Lambic",
+      "Birra Stout"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "expressive",
+      "eclectic",
+      "editorial",
+      "branding",
+      "beer-themed",
+      "multi-style",
+      "decorative"
+    ],
+    "summary": "A collection of five characterful display faces, each named after a beer style, unified under a single expanding family conceived at Darden Studio.",
+    "description": "Each of the five styles, Saison, Pils, Bruin, Lambic and Stout, carries its own distinct personality rather than functioning as weight variants of a single design. Stout, the original, dates to a 2008 description by Joshua Darden as 'conjuring whimsy', and the broader Flight was conceived by Joyce Ketterer and David Jonathan Ross with art direction by Eben Sorkin. The project is framed as a continually growing collection, with further styles expected beyond the current five.",
+    "foundry_blurb": "Darden Studio describe Birra as a 'Flight' of fonts, with each style named after a beer variety. Stout was the first release, originally designed by Joshua Darden in 2008, who described it as conjuring whimsy. The wider family was conceived by Joyce Ketterer and David Jonathan Ross with art direction by Eben Sorkin, and the studio intend it as a continually expanding collection."
+  },
+  {
+    "name": "Corundum",
+    "foundry": "Darden Studio",
+    "url": "https://www.dardenstudio.com/corundum",
+    "designer": "Josh Darden",
+    "year": 2006,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Darden Studio classifies it as a Fournier-style serif, placing it in the late 18th-century transitional tradition where baroque ornament gives way to rationalist structure.",
+    "weights": [
+      "Light",
+      "Book",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Corundum Text",
+      "Corundum Pi"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "fournier",
+      "text",
+      "smallcaps",
+      "editorial",
+      "book",
+      "classical"
+    ],
+    "summary": "A Fournier-style text serif by Josh Darden with four weights, matching small caps and a Pi face across 17 styles.",
+    "description": "Drawing on the transitional tradition of Pierre-Simon Fournier, this text face balances late-baroque warmth against rationalist clarity. Four weights from Light to Bold each carry upright and italic cuts, with full small-caps companions throughout, making it well suited to long-form editorial and book work. A supplementary Pi face rounds out the family for reference and annotation use.",
+    "foundry_blurb": "Darden Studio describe Corundum as a serif in the Fournier style, situating its design in the late 18th century when baroque flourishes gave way to stark rationalism. They credit Pierre-Simon Fournier as one of the greatest practitioners of the balance of beauty and function, positioning the typeface within that lineage."
+  },
+  {
+    "name": "Dapifer",
+    "foundry": "Darden Studio",
+    "url": "https://www.dardenstudio.com/dapifer",
+    "designer": "Josh Darden",
+    "year": 2012,
+    "category": "slab",
+    "subcategory": "unbracketed slab serif",
+    "classification_notes": "Darden classifies Dapifer as a slab serif in unbracketed Old-Style, combining the rational structure of a slab with the humanist proportions and optical qualities of an Old Style serif.",
+    "weights": [
+      "Light",
+      "Book",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dapifer",
+      "Dapifer Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "old-style",
+      "stencil",
+      "editorial",
+      "text",
+      "humanist",
+      "commissioned"
+    ],
+    "summary": "A slab serif designed by Josh Darden that applies unbracketed, rational slab construction to Old Style proportions, resulting in a face of considerable typographic character.",
+    "description": "Commissioned by Mucca Design and released in 2012, Dapifer sets out to reconcile the canonical humanist serif model with the formal constraints of a slab serif. Six weights from Light to Black each carry matching italics, giving a total of 18 styles including a stencil variant without italics. The stencil subfamily adds an unusual utilitarian register to what is otherwise a refined text family.",
+    "foundry_blurb": "Darden Studio describe Dapifer as springing forth from the premise of an unbracketed Old Style, expressing the canonical serif face within the rational framework of a slab serif. Designed by Josh Darden and released in 2012, it was originally commissioned by Mucca Design and comprises 18 styles across the Regular and Stencil subfamilies."
+  },
+  {
+    "name": "Darden Studio Merch",
+    "foundry": "Darden Studio",
+    "url": "https://www.dardenstudio.com/merch",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "merchandise",
+    "classification_notes": "This page is a merchandise shop, not a typeface. No typeface classification is possible from the available content.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Darden Studio Merch"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "merchandise",
+      "shop",
+      "branded-goods",
+      "novelty"
+    ],
+    "summary": "A merchandise shop page from Darden Studio selling branded novelty items tied to their typeface catalogue.",
+    "description": "This is not a typeface product page but a shop selling physical merchandise including packing tape branded with Gamay, sponges with Halyard, bandages with Omnes, and pronoun pins for Kit. The items are low-cost novelties that use the foundry's typeface names as product branding. No font licensing or type specimens are available from this URL.",
+    "foundry_blurb": "Darden Studio sells a small range of branded merchandise including sponges, bandages, packing tape, font hair bands, tote bags and novelty items, each tied to one of their typefaces such as Gamay, Halyard, Omnes or Kit."
+  }
+]

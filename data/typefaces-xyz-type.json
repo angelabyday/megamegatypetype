@@ -1,0 +1,384 @@
+[
+  {
+    "name": "Ballast",
+    "foundry": "XYZ Type",
+    "url": "https://xyztype.com/fonts/ballast",
+    "designer": "Ben Kiel",
+    "year": null,
+    "category": "slab",
+    "subcategory": "egyptienne",
+    "classification_notes": "Ballast is explicitly described as an Egyptienne typeface compressed into an extra-narrow width, with exaggerated ball terminals characteristic of a display slab serif.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Ballast Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "egyptienne",
+      "condensed",
+      "display",
+      "ball-terminals",
+      "magazine",
+      "editorial",
+      "narrow"
+    ],
+    "summary": "A compressed Egyptienne with exaggerated ball terminals, originally drawn for New York magazine by Ben Kiel and still in active development.",
+    "description": "Born from a commission for New York magazine, Ballast takes an Egyptienne structure and pushes it into an extra-narrow width designed for tight, dense typesetting. Ben Kiel later refined the concept for Supermajority, pushing the ball terminals further and carving out as much internal space as possible. Currently available in a single Condensed Bold, with additional weights and widths planned.",
+    "foundry_blurb": "XYZ Type describe Ballast as emerging from Ben Kiel's work compressing an Egyptienne for New York magazine. After further development for Supermajority, Kiel continued evolving the concept by exaggerating ball terminals and maximising space for dense typesetting. The typeface is in active development, with additional weights and widths to follow."
+  },
+  {
+    "name": "Cedar",
+    "foundry": "XYZ Type",
+    "url": "https://xyztype.com/fonts/cedar",
+    "designer": "Jesse Ragan",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "sculptural display",
+    "classification_notes": "Cedar uses calligraphic structures wrapped in rudimentary vector shapes with dissonant arcs and corners, giving it a hand-carved, tactile quality that places it firmly in the display category with a distinctive sculptural character.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Semibold",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cedar"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sculptural",
+      "calligraphic",
+      "variable",
+      "hand-carved",
+      "digital",
+      "expressive",
+      "lettering"
+    ],
+    "summary": "A display typeface by Jesse Ragan that fuses calligraphic structure with deliberately dissonant digital geometry to produce a hand-carved, tactile appearance.",
+    "description": "Jesse Ragan's Cedar wraps rudimentary vector shapes around calligraphic letterform structures, creating a tension between tactile warmth and overtly digital construction. The dissonant arcs and corners give each letterform a sculptural, almost chiselled quality that reads as handmade from a distance yet reveals its digital origins on close inspection. Released in 2020 and still in active development at version 0.3, it is available as a variable font spanning five named weights from Thin to Ultra.",
+    "foundry_blurb": "XYZ Type describe Cedar as evoking a hand-carved sculptural aesthetic through rudimentary vector shapes built around calligraphic structures. They note a deliberate paradox: the letterforms appear tactile and organic yet emerge from a distinctly digital construction of dissonant arcs and corners. The typeface is in active development at version 0.3, with continued refinement, character set expansion and improved kerning planned; early adopters receive free updates including the final version."
+  },
+  {
+    "name": "Cortado",
+    "foundry": "XYZ Type",
+    "url": "https://xyztype.com/fonts/cortado",
+    "designer": "Ben Kiel, Jesse Ragan",
+    "year": 2014,
+    "category": "script",
+    "subcategory": "brush script",
+    "classification_notes": "Directly derived from hand-painted brushwork by illustrator Cecilia Carlstedt, Cortado is a pointed-brush script with mid-century character and advanced OpenType automation for natural lettering variation.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cortado"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "brush",
+      "hand-lettered",
+      "mid-century",
+      "opentype",
+      "cursive",
+      "casual",
+      "display"
+    ],
+    "summary": "A digitised brush script by Ben Kiel and Jesse Ragan, drawn from illustrator Cecilia Carlstedt's hand-painted lettering and automated with OpenType to mimic the rhythm of genuine brushwork.",
+    "description": "Based on Cecilia Carlstedt's pointed-brush illustration work, Cortado was drawn by Ben Kiel and Jesse Ragan and released in 2014. OpenType programming handles alternating cursive connections, ligatures to avoid collisions, natural stroke endings and subtle shape variations on repeated letters, removing the mechanical repetition that usually betrays digital scripts. The result carries a mid-century confidence suited to branding, packaging and editorial contexts that want warmth without nostalgia.",
+    "foundry_blurb": "XYZ Type describe Cortado as translating the spontaneous energy of Cecilia Carlstedt's hand-painted script into digital type, with breezy confidence and mid-century cool. Nimble OpenType programming automatically alternates connections and breaks, adds ligatures to prevent collisions, ends words in natural brushstrokes and introduces subtle shape variations on repeated letters. They won a Hiii Brand Typography jury award for it in 2014."
+  },
+  {
+    "name": "Elevator",
+    "foundry": "XYZ Type",
+    "url": "https://xyztype.com/fonts/elevator",
+    "designer": "Jesse Ragan",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Elevator draws from prefabricated geometric letterforms of the 1950s, specifically the Block and Futura styles common in architectural signage, placing it firmly within the geometric sans tradition.",
+    "weights": [
+      "Thin",
+      "Regular",
+      "Semibold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display",
+      "Huge"
+    ],
+    "subfamilies": [
+      "Elevator",
+      "Escalator"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "architectural",
+      "signage",
+      "variable",
+      "optical-sizes",
+      "1950s",
+      "new-york",
+      "phototypesetting"
+    ],
+    "summary": "A geometric sans by Jesse Ragan rooted in the prefabricated Block and Futura signage letterforms of 1950s American architecture, with a variable optical size axis spanning text to Huge.",
+    "description": "Originating from a commission to replicate existing signage for a New York City skyscraper renovation, Elevator and its companion Escalator draw from mid-century prefabricated letterforms while pushing the distinction between their two source styles further apart. Both families are delivered as variable fonts with a weight axis and an optical size axis that adjusts structure, tapering and spacing from small text sizes up through the aptly named Huge. The typefaces are currently in active development under an early access licence, with design refinement and expanded symbols still to come.",
+    "foundry_blurb": "XYZ Type describe Elevator and Escalator as growing from a client commission to replicate signage for a landmark New York City skyscraper renovation. They take inspiration from 1950s prefabricated letterforms in Block and Futura styles, increasing the distinction between those two approaches and incorporating surplus glyphs developed for client customisations. Both families are variable fonts with a weight range and an optical size axis covering text to Huge, evoking architectural lettering and the phototypesetting era. Elevator is currently in active development under early access licensing."
+  },
+  {
+    "name": "Escalator",
+    "foundry": "XYZ Type",
+    "url": "https://xyztype.com/fonts/escalator",
+    "designer": "Jesse Ragan",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Escalator draws from prefabricated geometric letterforms of the 1950s, referencing both 'Block' and 'Futura' style signage. Its geometric construction, optical size axis and variable weight range place it firmly in the geometric sans category.",
+    "weights": [
+      "variable weight range"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Huge"
+    ],
+    "subfamilies": [
+      "Escalator",
+      "Elevator"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "signage",
+      "variable",
+      "architectural",
+      "phototypesetting",
+      "1950s",
+      "optical-sizes",
+      "early-access"
+    ],
+    "summary": "A geometric sans inspired by prefabricated 1950s signage lettering, delivered as a variable font with an optical size axis spanning text to display use.",
+    "description": "Escalator originated from a commission to replicate signage for the renovation of a New York City skyscraper, drawing on prefabricated 'Block' and 'Futura' style letterforms from the 1950s. Designer Jesse Ragan increases the distinction between the two source styles, with the family delivered as a variable font offering a full weight range and an optical size axis that adjusts structure, tapering and spacing from small text to large display. Released under early access, the family is in active development with planned refinements to design, kerning and the italic character set.",
+    "foundry_blurb": "XYZ Type describe Escalator and its sibling Elevator as growing from a client commission to replicate landmark New York City skyscraper signage, taking inspiration from 1950s prefabricated letterforms offered in 'Block' and 'Futura' styles. Both families are delivered as variable fonts with a full weight range and an optical size axis, evoking architectural lettering and the phototypesetting era. Escalator is currently in active development under early access."
+  },
+  {
+    "name": "Export",
+    "foundry": "XYZ Type",
+    "url": "https://xyztype.com/fonts/export",
+    "designer": "Jesse Ragan",
+    "year": 2017,
+    "category": "display",
+    "subcategory": "stencil display",
+    "classification_notes": "An all-caps display typeface drawn from hand-carved flexo lettering on a shipping box, with a stencil variant; the industrial, blocky, uppercase-only construction firmly places it in the display category with stencil subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Export",
+      "Export Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "stencil",
+      "all-caps",
+      "industrial",
+      "vernacular",
+      "found-lettering",
+      "packaging",
+      "bold"
+    ],
+    "summary": "An all-caps display face drawn from hand-carved flexo lettering found on a New York shipping box, available in Regular and Stencil cuts.",
+    "description": "Jesse Ragan traced the source material back to a cardboard shipping box printed from an anonymous hand-carved flexo plate, preserving the bulges, pinches and rough edges of the original marks. The Regular cut carries a blocky industrial rhythm that reads as eccentric in isolation but settles into texture at length; the Stencil variant applies a network of breaks that feel simultaneously practical and absurd. Named a Typographica favourite of 2017.",
+    "foundry_blurb": "XYZ Type describe Export as Jesse Ragan's homage to unconventional letters found bluntly printed on a shipping box from a hand-carved flexo plate. A system of bulges and pinches underlies its internal logic, with rough edges softening the blocky forms, and the Stencil version extends the concept with breaks that are at once pragmatic and illogical."
+  },
+  {
+    "name": "Grep",
+    "foundry": "XYZ Type",
+    "url": "https://xyztype.com/fonts/grep",
+    "designer": "Ben Kiel",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Grep originated from a serif text face stripped of its serifs, retaining humanist warmth and legibility principles; heavier weights introduce stroke modulation inspired by Excoffon's Antique Olive, placing it firmly in the humanist sans tradition with display tendencies at higher weights.",
+    "weights": [
+      "Medium",
+      "Extra Bold",
+      "Black",
+      "Ultra",
+      "Neighbor"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grep"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "screen",
+      "ui",
+      "legibility",
+      "antique-olive-influence",
+      "text",
+      "variable",
+      "early-access"
+    ],
+    "summary": "A screen-oriented humanist sans by Ben Kiel, derived from a serif text face and inflected by the stroke modulation of Roger Excoffon's Antique Olive in its heavier weights.",
+    "description": "Ben Kiel began with a graduate-school text serif from the University of Reading, stripped away the serifs, and found that the underlying legibility logic held up well for screen interfaces. The lighter weights read cleanly in UI contexts while retaining a bookish warmth unusual in utilitarian sans faces; the heavier weights develop dramatic stroke contrast drawn from Antique Olive. Currently in early access at version 0.1, with italics and an expanded character set still to come.",
+    "foundry_blurb": "XYZ Type describe Grep as a design with a circuitous origin: commissioned by a major tech company seeking a screen-oriented sans, Ben Kiel revisited a graduate-school serif project and removed the serifs to expose the legibility principles underneath. When the tech company moved on, Kiel continued developing it, adding dramatic stroke modulation in the heavier weights inspired by Roger Excoffon's Antique Olive. XYZ rely on it for all running text on their own website, and it is available now as an early-access variable font with free updates through to the final release."
+  },
+  {
+    "name": "Plumbago",
+    "foundry": "XYZ Type",
+    "url": "https://xyztype.com/fonts/plumbago",
+    "designer": "Zrinka Buljubašić, Travis Kochel, Chris Skillern",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "geometric slab",
+    "classification_notes": "Plumbago uses organic octagonal letterforms on a monospaced grid with sporadic slab serifs and tapered strokes, placing it firmly in display territory with a geometric-slab character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Regular",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Plumbago"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "slab",
+      "monospaced",
+      "geometric",
+      "octagonal",
+      "identity",
+      "expressive",
+      "funky"
+    ],
+    "summary": "A monospaced display face with octagonal letterforms and sporadic slab serifs, originally commissioned for the Brand New Conference 2024 identity.",
+    "description": "Designed by Zrinka Buljubašić, Travis Kochel and Chris Skillern for UnderConsideration's Brand New Conference 2024, Plumbago draws from Salt Lake City's street grid and the lettering once used on its streetcar network. Organic octagonal shapes sit on a strict monospaced grid, with tapered strokes and unexpected character structures giving each glyph its own dynamic movement within a disciplined rhythm. Currently at version 0.1 in a single weight across Narrow, Regular and Wide widths, the family is in active development with further styles and expanded language coverage planned.",
+    "foundry_blurb": "XYZ Type describe Plumbago as prioritising graphic form over typographic convention, with organic octagonal shapes fitted to a monospaced grid. Tapered strokes, sporadic sprawling slab serifs and an ample x-height produce what they call a funky composition, with each character carrying its own dynamic movement within a rigid measured beat. Originally commissioned by UnderConsideration for Brand New Conference 2024, the design takes inspiration from Salt Lake City's street grid and its historic streetcar lettering. The family is currently in early access at version 0.1, with design refinement, additional styles and expanded language coverage forthcoming."
+  },
+  {
+    "name": "Study",
+    "foundry": "XYZ Type",
+    "url": "https://xyztype.com/fonts/study",
+    "designer": "Jesse Ragan, Rudolph Ruzicka",
+    "year": 2018,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Study draws on calligraphic hand-drawn letterforms with organic, pen-influenced details including rustic serifs and quick stroke transitions in the italic, placing it firmly in the humanist serif tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semibold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Study"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "calligraphic",
+      "editorial",
+      "literary",
+      "serif",
+      "print",
+      "variable"
+    ],
+    "summary": "A humanist serif by Jesse Ragan, rooted in a 1968 hand-drawn alphabet by Czech-American designer Rudolph Ruzicka, with twelve styles and variable font support.",
+    "description": "Drawn from Rudolph Ruzicka's 1968 hand-lettered alphabet, Study pairs calligraphic details with wide proportions and bright counterforms to read well at both display and text sizes. Distinctive features include the poised spine of the S, a wide-eyed lowercase e, and muscular k limbs, while the italic introduces quick pen strokes in place of conventional serifs. Named among Typographica's favourite typefaces of 2018 and used by Dartmouth College, it spans twelve styles including a variable font.",
+    "foundry_blurb": "XYZ Type describe Study as an elegant blend of typographic structure and calligraphic detail, noting that its dramatic twists at display sizes melt into comfortable paragraph text. The family is based on Rudolph Ruzicka's 1968 hand-drawn alphabet, developed by Jesse Ragan into a twelve-style digital family with variable font support and a distinctive humanity expressed through specific quirks in individual letterforms."
+  }
+]

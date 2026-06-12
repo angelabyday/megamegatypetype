@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Balto",
+    "foundry": "Balto / Type Supply",
+    "url": "https://typesupply.com/fonts/balto",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described explicitly as an American Gothic, placing it within the grotesque sans-serif tradition that runs from Franklin Gothic through 20th-century American display type. The weight range and texture confirm a grotesque classification.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Medium",
+      "Bold",
+      "Black",
+      "Super",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Balto"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "american gothic",
+      "display",
+      "editorial",
+      "approachable",
+      "typographic-texture"
+    ],
+    "summary": "An American Gothic sans with eight weights from Thin to Ultra, built for a confident and approachable tone across contemporary typographic work.",
+    "description": "Positioned firmly in the American Gothic tradition, Balto runs from Thin to Ultra across eight weights, giving it considerable range for both text and display use. OpenType features include case-sensitive forms, tabular figures, fractions, subscript and superscript, making it practical for editorial and data-heavy contexts. Latin Extended language support covers a broad sweep of European and Pacific languages.",
+    "foundry_blurb": "Type Supply describe Balto as an American Gothic built for the 21st century, with a rhythmic typographic texture designed to deliver any message with a confident and approachable tone of voice."
+  },
+  {
+    "name": "Epoxy",
+    "foundry": "Balto / Type Supply",
+    "url": "https://typesupply.com/fonts/epoxy",
+    "designer": null,
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "experimental sans",
+    "classification_notes": "Epoxy is a sans-serif designed with intentional legibility constraints for small text use, placing it in an experimental subcategory that tests the limits of readability at small optical sizes.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Epoxy"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "text",
+      "small-sizes",
+      "r&d",
+      "legibility",
+      "sans-serif",
+      "minimal-charset"
+    ],
+    "summary": "An R&D sans-serif from Type Supply built around the challenge of designing a typeface that works against its own construction, optimised for small text sizes.",
+    "description": "Released in beta in March 2022 as part of Type Supply's R&D programme, Epoxy is a six-weight sans-serif conceived around the idea of a typeface designed not to work, yet performing well at both small and large sizes. The character set is intentionally minimal, covering basic Latin, numerals and essential punctuation only. Italics are listed as a planned next step with no confirmed timeline.",
+    "foundry_blurb": "Type Supply describe Epoxy as a typeface designed to work despite being designed not to work, intended for small-size text setting but effective at large sizes too. It is released as a version B1 R&D project, with italics and further development listed as future steps with an unknown ETA."
+  },
+  {
+    "name": "Iota",
+    "foundry": "Balto / Type Supply",
+    "url": "https://typesupply.com/fonts/iota",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as a geometric sans serif with subtle humanist proportions, placing it squarely in the geometric sans subcategory with a nod toward humanist influences.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Medium",
+      "Bold",
+      "Black",
+      "Super",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Iota"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "humanist",
+      "versatile",
+      "clean",
+      "text",
+      "display",
+      "neutral"
+    ],
+    "summary": "A geometric sans with humanist proportions, designed to perform reliably across a wide range of sizes and applications.",
+    "description": "Eight weights from Thin to Ultra give Iota a broad range for both text and display work. Strict geometric construction is tempered by subtle humanist proportions, making it feel less cold than pure geometric designs. Stylistic alternates include a flat-sided M and single-story 'a', with case-sensitive forms and tabular figures rounding out a practical feature set.",
+    "foundry_blurb": "Type Supply describe Iota as a geometric sans serif built to be reliable and relatable, following a strict geometric logic while incorporating subtle humanist proportions. They note it works best big, small and pretty much everywhere."
+  },
+  {
+    "name": "Marigny",
+    "foundry": "Balto / Type Supply",
+    "url": "https://typesupply.com/fonts/marigny",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "casual serif",
+    "classification_notes": "Marigny blends handwriting warmth with text-setting functionality, placing it in the casual serif tradition where informal calligraphic influence meets structured typographic utility.",
+    "weights": [
+      "Thin",
+      "Book",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Marigny"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "casual",
+      "handwriting-influenced",
+      "text",
+      "editorial",
+      "warm",
+      "opentype-features"
+    ],
+    "summary": "A casual serif from Type Supply that bridges handwritten warmth and text-setting practicality across five weights with matching italics.",
+    "description": "Five weights from Thin to Black, each with an italic, give Marigny a working range that covers continuous text, display headlines and everything between. The family leans on calligraphic warmth without sacrificing functional spacing and OpenType features including small capitals, swash capitals, oldstyle figures, tabular figures, ligatures and contextual alternates. Latin Extended coverage spans over fifty languages.",
+    "foundry_blurb": "Type Supply describe Marigny as a casual typeface that takes its job seriously, melding the warmth of handwriting with the functionality of typesetting to give blocks of text, giant headlines and everything in between a welcoming disposition."
+  },
+  {
+    "name": "Ohm",
+    "foundry": "Balto / Type Supply",
+    "url": "https://typesupply.com/fonts/ohm",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "novelty display",
+    "classification_notes": "Drawn to mimic neon tube lettering, Ohm is a display face with a specific vernacular reference; it belongs to the display category as a novelty type with a singular visual concept rather than a general-purpose text or headline design.",
+    "weights": [
+      "Light",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ohm"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neon",
+      "display",
+      "novelty",
+      "vernacular",
+      "postmodern",
+      "signage",
+      "decorative"
+    ],
+    "summary": "A three-weight display family drawn to replicate the visual character of neon tube lettering.",
+    "description": "Each letterform in Ohm mimics the continuous, bent-tube quality of neon signage, with joins and terminals shaped to suggest glass tubing rather than ink on paper. Three weights from Light to Bold allow for variation in apparent tube diameter. OpenType features include discretionary ligatures and fractions, and the family covers a broad range of Latin-based languages.",
+    "foundry_blurb": "Type Supply describe Ohm as a typeface drawn to look like neon tubes, framing it with a tongue-in-cheek dismissal of high-concept design theory."
+  },
+  {
+    "name": "Queue",
+    "foundry": "Balto / Type Supply",
+    "url": "https://typesupply.com/fonts/queue",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Calligraphic origins rendered with geometric precision place Queue in the humanist sans tradition, where organic stroke contrast meets clean, machine-like construction.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Queue"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "calligraphic",
+      "legible",
+      "text",
+      "technology",
+      "clean"
+    ],
+    "summary": "A humanist sans that borrows calligraphic structure and renders it with machine precision across six weights with matching italics.",
+    "description": "Queue pairs calligraphic letterform logic with highly controlled, mechanically precise execution, sitting somewhere between warmth and clinical clarity. Six weights from Thin to Black each carry an italic, and OpenType features include case-sensitive forms, tabular figures, fractions, subscript and superscript. Latin Extended coverage spans over fifty languages, making it practical for multilingual publishing and interface work.",
+    "foundry_blurb": "Type Supply describe Queue as a typeface that represents the intertwinement of technology and humanity, featuring calligraphic shapes rendered with machine precision. They position it as highly legible and suited to conveying any message without ambiguity."
+  },
+  {
+    "name": "Queue Mono",
+    "foundry": "Balto / Type Supply",
+    "url": "https://typesupply.com/fonts/queue-mono",
+    "designer": null,
+    "year": 2021,
+    "category": "mono",
+    "subcategory": "monospaced sans",
+    "classification_notes": "Explicitly a monospaced typeface, derived from the proportional Queue family, with uniform character widths adapted for code and technical settings.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Queue Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "technical",
+      "humanist",
+      "coding",
+      "neutral",
+      "versatile"
+    ],
+    "summary": "A monospaced companion to Queue, sharing its blend of technical and humanist character across six weights.",
+    "description": "Adapted from the proportional Queue typeface, Queue Mono applies uniform widths while retaining the original family's stated 'technology and humanity' balance. Six weights from Thin to Black are available, with OpenType features including a dotted zero, big asterisk and case-sensitive forms suited to code and data contexts. As of its B1 release in May 2021, italics remain in development with no confirmed timeline.",
+    "foundry_blurb": "Type Supply describe Queue Mono as a monospaced version of Queue that retains the same 'technology and humanity' personality as its proportionally spaced sibling, with uniform widths and shapes adapted for clarity in monospaced settings. The Romans are finished as of version B1; italics are listed as the next step with an unknown ETA."
+  },
+  {
+    "name": "Smoosh",
+    "foundry": "Balto / Type Supply",
+    "url": "https://typesupply.com/fonts/smoosh",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "high-contrast display serif",
+    "classification_notes": "Hyper-compressed proportions and extremely high contrast with sharp, exaggerated serifs place this firmly in display territory, designed for impact at large sizes rather than text setting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Smoosh"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "compressed",
+      "serif",
+      "expressive",
+      "decorative",
+      "pointed"
+    ],
+    "summary": "A hyper-compressed, high-contrast display serif with needle-sharp serifs designed to be striking to the point of illegibility.",
+    "description": "Smoosh pushes compression and contrast to an extreme, pairing delicate hairlines with very sharp, pointed serifs that create an aggressively decorative texture on the page. The foundry describes the effect as 'that's pretty, but what does it say?' — a clear signal that this is a typeface chosen for visual presence over readability. Best suited to headlines, logotypes or short display settings where the tension between elegance and illegibility is the point.",
+    "foundry_blurb": "Type Supply describe Smoosh as a hyper-compressed, aggressively high-contrast typeface with extremely pointy serifs, noting that its delicate yet obnoxious forms give text a 'that's pretty, but what does it say!?' quality."
+  },
+  {
+    "name": "Smoosh Bits",
+    "foundry": "Balto / Type Supply",
+    "url": "https://typesupply.com/fonts/smoosh-bits",
+    "designer": null,
+    "year": 2021,
+    "category": "display",
+    "subcategory": "pixel/bitmap",
+    "classification_notes": "A pixelated display face derived from Smoosh, designed for large-scale use. The bitmap grid construction and explicit instruction to use it very big place it firmly in the display category.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Smoosh Bits"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "pixel",
+      "bitmap",
+      "display",
+      "experimental",
+      "r&d",
+      "retro",
+      "large-scale"
+    ],
+    "summary": "A pixelated spin-off of Smoosh, currently a single Bold weight intended for large-scale display use.",
+    "description": "Released as an R&D typeface in September 2021, it takes the underlying forms of Smoosh and renders them through a pixel grid. Only one weight exists at present, covering basic uppercase Latin, numerals and punctuation. The foundry acknowledges further weights are planned with no confirmed timeline.",
+    "foundry_blurb": "Type Supply describe Smoosh Bits as a pixelated interpretation of Smoosh, with no further elaboration needed beyond that single idea. It is an R&D release, currently available in Bold only, and the explicit instruction is to use it very big."
+  },
+  {
+    "name": "Timonium",
+    "foundry": "Balto / Type Supply",
+    "url": "https://typesupply.com/fonts/timonium",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "high-contrast sans",
+    "classification_notes": "Described as a crisp, high-contrast sans serif with an optimistic character; the elevated stroke contrast and clean forms place it closer to a display-oriented geometric or optically refined sans rather than a neutral grotesque.",
+    "weights": [
+      "Light",
+      "Medium",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Timonium"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "sans-serif",
+      "display",
+      "optimistic",
+      "editorial",
+      "clean"
+    ],
+    "summary": "A high-contrast sans serif in five weights, built for forward-looking display and communication work.",
+    "description": "Crisp stroke contrast gives Timonium an upbeat, energetic quality that suits editorial headlines and brand communications. The family runs from Light to Ultra across five weights, with OpenType features including small capitals, case-sensitive forms, tabular figures and fractions. Language support spans a wide range of Latin-based scripts across more than fifty languages.",
+    "foundry_blurb": "Type Supply describe Timonium as a distinctive sans serif with an optimistic voice, noting that its crisp, high-contrast forms make it well suited to forward-looking communications across any context."
+  },
+  {
+    "name": "Torque",
+    "foundry": "Balto / Type Supply",
+    "url": "https://typesupply.com/fonts/torque",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A modern sans-serif with geometric underpinnings, drawing from athletic lettering and sci-fi display traditions. The dual-personality design with standard and futuristic alternates places it firmly in the display-oriented sans-serif category.",
+    "weights": [
+      "Light",
+      "Book",
+      "Medium",
+      "Bold",
+      "Ultra",
+      "Inline"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Torque"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "athletic",
+      "sci-fi",
+      "titling",
+      "alternates",
+      "futuristic"
+    ],
+    "summary": "A display sans with two personalities: classic athletic lettering in its base forms and futuristic sci-fi alternates via titling OpenType features.",
+    "description": "Five weights from Light to Ultra, plus an Inline variant, make up a family designed for medium to large sizes. The base character forms reference classic sports lettering, while titling alternates shift the tone toward video-game and science-fiction aesthetics. Tabular figures, fractions and uppercase-focused features round out the OpenType set for display and headline use.",
+    "foundry_blurb": "Type Supply describe Torque as a modern sans serif with a dual personality: base forms inspired by classic athletic lettering styles, and alternate forms drawn from futuristic video-game and sci-fi movie aesthetics. They note it excels at medium to large sizes."
+  }
+]

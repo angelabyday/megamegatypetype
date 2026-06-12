@@ -1,0 +1,265 @@
+[
+  {
+    "name": "KH Hekto",
+    "foundry": "Kurppa Hosk Type",
+    "url": "https://khtype.com/typeface/kh-hekto/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as a geometric sans serif; the three subfamilies (Vert, Lut, Plan) share a geometric construction with consistent proportions across seven weights and italics.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "KH Hekto Vert",
+      "KH Hekto Lut",
+      "KH Hekto Plan"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "versatile",
+      "corporate",
+      "editorial",
+      "multifamily",
+      "text"
+    ],
+    "summary": "A geometric sans serif from Kurppa Hosk Type offered in three distinct subfamilies — Vert, Lut and Plan — each sharing seven weights and matching italics.",
+    "description": "Three subfamilies built on a shared geometric sans construction give the family range across different tonal registers while maintaining structural consistency. Each of Vert, Lut and Plan runs from Light to Black with corresponding italics, covering 42 styles in total. Extended Latin coverage and a broad glyph set including arrows, fractions and currency symbols make it suited to both editorial and interface work.",
+    "foundry_blurb": "Kurppa Hosk Type describe KH Hekto as a geometric sans serif with a versatile construction, available in three versions: KH Hekto Vert, Lut and Plan."
+  },
+  {
+    "name": "KH Teka",
+    "foundry": "Kurppa Hosk Type",
+    "url": "https://khtype.com/typeface/kh-teka/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described by the foundry as a modern grotesque with a rigid and mechanical approach, placing it firmly in the grotesque sans-serif tradition with an emphasis on geometric precision over humanist warmth.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "KH Teka"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "mechanical",
+      "modern",
+      "versatile",
+      "corporate",
+      "editorial",
+      "extended-latin"
+    ],
+    "summary": "A mechanically rigorous modern grotesque from Kurppa Hosk Type, offered in five weights with matching italics and broad Latin character coverage.",
+    "description": "Built on a rigid, mechanical approach to the grotesque tradition, it runs from Light to Black with italic companions at every weight. The character set is extensive, covering a wide range of extended Latin glyphs alongside OpenType features including oldstyle figures, tabular numbers, fractions and circled numerals. Suited to identity, editorial and UI work where a clean, structured grotesque is needed without humanist softness.",
+    "foundry_blurb": "Kurppa Hosk Type describe KH Teka as a modern grotesque with a rigid and mechanical approach, highlighting its high versatility and wide range of characters and OpenType features."
+  },
+  {
+    "name": "KH Teka Mono",
+    "foundry": "Kurppa Hosk Type",
+    "url": "https://khtype.com/typeface/kh-teka-mono/",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "grotesque mono",
+    "classification_notes": "A monospaced companion to the grotesque KH Teka, sharing its rigid, mechanical approach to curves and metrics. Classified as mono given its fixed-width construction, with grotesque as the underlying design language.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "KH Teka Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "grotesque",
+      "mechanical",
+      "coding",
+      "technical",
+      "extended-latin",
+      "opentype"
+    ],
+    "summary": "A monospaced companion to KH Teka, carrying the same rigid grotesque construction across 14 styles from Light to Black.",
+    "description": "Derived from the grotesque KH Teka, this fixed-width family applies the same mechanical approach to curves and consistent metrics across seven weights, each with a matching italic. The character set is broad, covering extended Latin with a full set of punctuation, currency symbols, arrows and mathematical operators, alongside OpenType features including oldstyle figures, alternate letterforms and case-sensitive forms. Its even spacing and clean construction suit both interface and editorial contexts where a mono is needed without sacrificing typographic range.",
+    "foundry_blurb": "Kurppa Hosk Type describe KH Teka Mono as the monospaced sibling of their best-selling grotesque KH Teka, crafted with the same attention to detail and design philosophy. They note its rigid approach to curves, details and metrics, which they say delivers consistency and clarity, and highlight its versatile functionality and aesthetic appeal."
+  },
+  {
+    "name": "KH Giga",
+    "foundry": "Kurppa Hosk Type",
+    "url": "https://khtype.com/typeface/kh-giga/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "An exaggerated serif with elongated, dramatic serifs that merge in heavier weights to form ligature-like word pictures; the extreme proportions and deliberate optical spectacle place it firmly in the display category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "KH Giga"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "expressive",
+      "large-scale",
+      "editorial",
+      "high-contrast",
+      "headline",
+      "ligating-serifs"
+    ],
+    "summary": "An exaggerated display serif designed for large-scale use, where its elongated serifs bleed together at heavier weights to produce distinctive word-level shapes.",
+    "description": "Five weights from Light to Black, each with a matching italic, built around dramatically extended serifs that at the heaviest settings merge between letterforms to create unusual typographic textures. The effect is intentional and structural rather than decorative, altering the visual rhythm of words set in Black. Suited to headlines, posters and editorial contexts where typographic spectacle is part of the brief.",
+    "foundry_blurb": "Kurppa Hosk Type describe KH Giga as an exaggerated serif intended for large-scale use, noting that its lengthy serifs bleed together in the heavier weights to create interesting word pictures."
+  },
+  {
+    "name": "KH Shutter",
+    "foundry": "Kurppa Hosk Type",
+    "url": "https://khtype.com/typeface/kh-shutter/",
+    "designer": "Thomas Kurppa, Jakob Ekelund, Wille Larsson",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "An uppercase-only monospaced display typeface built on geometric construction and 45-degree angles, drawing structural cues from the Hebrew alphabet. Its expressive headline character and fixed-width construction place it firmly in the display category.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "KH Shutter"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "monospaced",
+      "geometric",
+      "uppercase",
+      "hebrew-inspired",
+      "headline",
+      "expressive",
+      "angular"
+    ],
+    "summary": "An uppercase-only geometric display typeface with fixed-width spacing and structural borrowings from the Hebrew alphabet, originating from an unused identity proposal for Fotografiska New York.",
+    "description": "Designed by Thomas Kurppa, Jakob Ekelund and Wille Larsson between 2018 and 2022, KH Shutter applies the 45-degree angles and geometric construction typical of Kurppa's work to letter forms influenced by Hebrew alphabet characteristics. Originally conceived for a photography exhibition identity, the proposal was set aside but the typeface was developed into a three-weight family. Despite its expressive headline nature, it carries an extensive character set including accented Latin, currency symbols, arrows and mathematical notation.",
+    "foundry_blurb": "Kurppa Hosk Type describe KH Shutter as an expressive monospaced display typeface tied closely to Thomas Kurppa's design DNA, using geometrical construction and 45-degree angles. It was originally proposed for a photography exhibition identity at Fotografiska in New York, where the Hebrew-origin photographer's alphabet influenced the letterforms. The proposal was not taken forward, but the team found the letters compelling enough to develop into a standalone display family of three weights."
+  },
+  {
+    "name": "KH Interference",
+    "foundry": "Kurppa Hosk Type",
+    "url": "https://khtype.com/typeface/kh-interference/",
+    "designer": "Thomas Kurppa, Jakob Ekelund, Wille Larsson",
+    "year": 2021,
+    "category": "mono",
+    "subcategory": "display monospaced",
+    "classification_notes": "A fixed-width, uppercase-only typeface designed explicitly for display use, drawing from receipt printing and low-resolution digital screens. Its monospaced structure and grid-based geometry place it firmly in the display mono subcategory.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "KH Interference"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "display",
+      "uppercase",
+      "pixel-inspired",
+      "receipt",
+      "geometric",
+      "grid-based",
+      "tight-leading"
+    ],
+    "summary": "An uppercase-only display monospaced typeface built on a 45-degree grid, referencing receipt printing and low-resolution screen type.",
+    "description": "Designed by Thomas Kurppa, Jakob Ekelund and Wille Larsson between 2021 and 2022, it draws on analogue sources like ticket stubs and receipts alongside pixelated digital lettering from early low-res screens. Outer corners are rounded while inner corners remain sharp, and alternate diacritic forms keep accented characters within the cap height to allow the super-tight line-spacing the design was built for. Three weights run from Light to Bold, with an extensive set of symbols, arrows, currency signs and mathematical characters.",
+    "foundry_blurb": "Kurppa Hosk Type describe KH Interference as an uppercase-only monospaced typeface inspired by primitive letterforms, both analogue sources like receipts and ticket stubs, and digital ones like pixelated type on old low-resolution screens. It is drawn on a 45-degree grid with rounded outer corners and straight inner corners, and includes alternate characters for accented letters that would otherwise exceed the cap height or descend below the baseline, enabling very tight line-spacing suited to display use."
+  }
+]

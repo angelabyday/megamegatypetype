@@ -64,6 +64,18 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Prioritype", slug: "prioritype", homepage: "https://prioritypeco.com/", tier: "best" },
   { name: "Taylor Penton", slug: "taylor-penton", homepage: "https://www.taylorpenton.com/", tier: "best" },
   { name: "VJ Type", slug: "vj-type", homepage: "https://vj-type.com/", tier: "best" },
+  { name: "Balto / Type Supply", slug: "balto-type-supply", homepage: "https://typesupply.com/", tier: "okay" },
+  { name: "Big Fog Foundry", slug: "big-fog-foundry", homepage: "https://foundry.bigfog.co/", tier: "okay" },
+  { name: "Coppers and Brasses", slug: "coppers-and-brasses", homepage: "https://coppersandbrasses.com/", tier: "okay" },
+  { name: "Darden Studio", slug: "darden-studio", homepage: "https://www.dardenstudio.com/", tier: "okay" },
+  { name: "Colt Type", slug: "colt-type", homepage: "https://wearecolt.com/", tier: "okay" },
+  { name: "Dharma Type", slug: "dharma-type", homepage: "https://dharmatype.com/", tier: "okay" },
+  { name: "XYZ Type", slug: "xyz-type", homepage: "https://xyztype.com/", tier: "okay" },
+  { name: "Kilotype", slug: "kilotype", homepage: "https://kilotype.de/", tier: "okay" },
+  { name: "KOMETA Typefaces", slug: "kometa-typefaces", homepage: "https://www.kometa.xyz/", tier: "okay" },
+  { name: "Kurppa Hosk Type", slug: "kurppa-hosk-type", homepage: "https://khtype.com/", tier: "okay" },
+  { name: "Gradient", slug: "gradient", homepage: "https://wearegradient.net/", tier: "okay" },
+  { name: "Letters from Sweden", slug: "letters-from-sweden", homepage: "https://lettersfromsweden.se/", tier: "okay" },
 ];
 
 export function getFoundryBySlug(slug: string): FoundryInfo | undefined {

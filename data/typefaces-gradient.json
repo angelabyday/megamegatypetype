@@ -1,0 +1,455 @@
+[
+  {
+    "name": "Plang Normal",
+    "foundry": "Gradient",
+    "url": "https://wearegradient.net/typefaces/plang-normal/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Drawn from the tradition of Indonesian sign painters trying to replicate printed type by hand, Plang sits in the humanist sans category, carrying the warmth and slight irregularity of brush-influenced letterforms resolved into a disciplined type system.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal"
+    ],
+    "subfamilies": [
+      "Plang Normal"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic Extended",
+      "Greek",
+      "Vietnamese",
+      "Pan-African"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "signage",
+      "indonesian",
+      "multi-width",
+      "editorial",
+      "wayfinding",
+      "vernacular"
+    ],
+    "summary": "A humanist sans rooted in the hand-painted signage of Keprabon Street in Surakarta, Indonesia, where brush painters earnestly tried to replicate printed type and produced something more interesting in the process.",
+    "description": "Named after the Indonesian word for signage, Plang captures the productive tension between mechanical precision and the human hand. The Normal width is one of six widths across a system of 108 styles, spanning nine weights from Thin to Black each with a matching italic. Language support covers Latin Extended, Cyrillic Extended, Greek, Vietnamese and Pan-African scripts.",
+    "foundry_blurb": "Gradient describe Plang as named after the Indonesian word for signage, inspired by Keprabon Street in Surakarta where sign painters tried to replicate printed fonts by hand with a brush. The tension between the mechanical ideal and the human attempt is built into the type system, which spans 6 weights and 6 widths for 108 styles, with language support including Latin Extended, Cyrillic Extended, Greek, Vietnamese and Pan-African scripts."
+  },
+  {
+    "name": "PolySans",
+    "foundry": "Gradient",
+    "url": "https://wearegradient.net/typefaces/polysans-standard/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A mid-20th-century grotesque with soft-edged inktraps and exaggerated italics that flirt with script forms. The upright cuts maintain classic grotesque proportions while the italics stretch beyond typical oblique conventions.",
+    "weights": [
+      "Slim",
+      "Neutral",
+      "Relax",
+      "Median",
+      "Inky",
+      "Bulky"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "wide"
+    ],
+    "subfamilies": [
+      "PolySans",
+      "PolySans Arabic",
+      "PolySans Hebrew"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Vietnamese",
+      "Cyrillic",
+      "Greek",
+      "Arabic",
+      "Hebrew"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "inktraps",
+      "multiscript",
+      "editorial",
+      "expressive",
+      "mid-century",
+      "wide",
+      "monospaced"
+    ],
+    "summary": "A grotesque sans with soft inktraps and wilfully exaggerated italics, available across proportional, monospaced and wide cuts with Arabic and Hebrew extensions.",
+    "description": "Built on mid-20th-century grotesque proportions, PolySans introduces soft-edged inktraps that quietly disrupt an otherwise steady rhythm. The italics take a different path entirely, stretching and exaggerating to the point of resembling a script serif before pulling back. Six weights run across Latin, Vietnamese, Cyrillic, Greek, Arabic and Hebrew, each script given equal design attention rather than treated as an afterthought.",
+    "foundry_blurb": "Gradient describe PolySans as their response to mid-20th-century grotesque classics, keeping one foot in tradition while adding a soft-edge inktrap twist. The upright styles offer solid proportions and steady rhythm, while the italics stretch and exaggerate, almost becoming a script serif. Available in proportional, monospaced and wide cuts, with Arabic and Hebrew extensions treated to the same level of detail as the Latin."
+  },
+  {
+    "name": "Gosh",
+    "foundry": "Gradient",
+    "url": "https://wearegradient.net/typefaces/gosh/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Explicitly positioned as Futura-adjacent and Bauhaus-inspired, with geometric precision as its defining characteristic — classic markers of the geometric sans tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gosh"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "bauhaus",
+      "futura-inspired",
+      "modernist",
+      "clean",
+      "editorial"
+    ],
+    "summary": "A Futura-inspired geometric sans from Gradient, spanning seven weights with italics and leaning firmly into Bauhaus modernism.",
+    "description": "Built around circular geometry and stripped-back forms, it draws directly from the tradition of Paul Renner's Futura and the Bauhaus school. The family runs across seven weights from Light to Heavy, each with a matching italic, giving 14 styles in total. Suited to editorial, branding and display work where clean geometric structure is the priority.",
+    "foundry_blurb": "Gradient describe Gosh as a geometric sans that faces down Futura without flinching — a love letter to the Bauhaus written with geometric precision, paring back the forms to the essence of modernism without the mid-century dust."
+  },
+  {
+    "name": "MSCHN",
+    "foundry": "Gradient",
+    "url": "https://wearegradient.net/typefaces/mschn/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric industrial",
+    "classification_notes": "Built on a geometric foundation with mechanical precision and sturdy letterforms drawn from factory signage and industrial typography; the expressive, physically distorted italics push it firmly into display territory rather than neutral geometric sans.",
+    "weights": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "optical_sizes_or_widths": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "subfamilies": [
+      "MSCHN"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "industrial",
+      "geometric",
+      "display",
+      "expressive",
+      "signage",
+      "experimental-italic",
+      "mechanical"
+    ],
+    "summary": "A geometric display typeface drawn from industrial signage, with sturdy letterforms softened at the inner corners and an italic cut that twists forms as if subjected to mechanical force.",
+    "description": "The upright styles take their cue from factory-floor lettering and metal signage, using geometric construction with soft inner corners that suggest wear and age rather than pristine draftsmanship. The five weights run from XS to XL, each with a matching italic that abandons conventional slanting in favour of organically rotated and distorted forms. That contrast between the controlled rigidity of the uprights and the wilful strangeness of the italics gives the family its expressive range.",
+    "foundry_blurb": "Gradient describe MSCHN as the product of 20th century factory-floor functionality pushed through experimental design, with letterforms built on geometric precision and mechanical logic. Soft inner corners lend a worn, tactile quality reminiscent of old metal signage, while the italics depart from conventional slanting entirely, rotating and twisting the forms as if subjected to centrifugal force or a mechanical fault."
+  },
+  {
+    "name": "Radial",
+    "foundry": "Gradient",
+    "url": "https://wearegradient.net/typefaces/radial/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described by the foundry as beginning from a geometric concept but resolving as humanist, with an emphasis on motion and informal geometry, placing it firmly in the humanist sans category.",
+    "weights": [
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Radial"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "geometric",
+      "variable",
+      "editorial",
+      "branding",
+      "expressive",
+      "motion"
+    ],
+    "summary": "A humanist sans with geometric roots and variable font support, spanning five weights from Regular to Black with matching italics.",
+    "description": "Built on a concept of motion, Radial began as a geometric exercise and developed into something warmer and more characterful. Five weights with matching italics give it range from heavy display work down to small text, and variable font support is baked into the design rather than added as an afterthought. The foundry positions it as equally comfortable on billboards and in footnotes, which the weight spread broadly supports.",
+    "foundry_blurb": "Gradient describe Radial as an emotionally charged sans serif that started as a geometric concept and became a humanist overachiever. They frame it as an exercise in informal geometry with a dramatic personality range, capable of being muscular at display sizes and clear at small ones. Because motion is central to its DNA, variable font support is presented as a natural extension of the design."
+  },
+  {
+    "name": "Revetra",
+    "foundry": "Gradient",
+    "url": "https://wearegradient.net/typefaces/revetra/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "high-contrast display serif",
+    "classification_notes": "Revetra's high-contrast letterforms and modernist aesthetic place it firmly in the display serif category, with strong stroke variation typical of a Didone or Didone-adjacent style aimed at editorial and luxury applications.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Revetra"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "display",
+      "editorial",
+      "luxury",
+      "modernist",
+      "retro-influenced",
+      "serif"
+    ],
+    "summary": "A high-contrast display serif with modernist proportions and subtle retro inflections, suited to editorial and luxury brand contexts.",
+    "description": "Four weights from Light to Bold carry strong stroke contrast across a clean, modernist structure, with period detailing that nods to mid-century display typography without committing to pastiche. The family is positioned for headline and editorial work where elegance and visual impact are the primary requirements. No italics or condensed cuts are available, keeping it a focused display tool rather than a workhorse text family.",
+    "foundry_blurb": "Gradient describe Revetra as a contemporary typeface with a modernist aesthetic, noting its high-contrast design as central to its visual impact in display and editorial settings. They highlight subtle retro influences that sit alongside modern sophistication, framing it as a strong choice for projects seeking to project an air of modern luxury."
+  },
+  {
+    "name": "NeuSans",
+    "foundry": "Gradient",
+    "url": "https://wearegradient.net/typefaces/neusans/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Described explicitly as a Neo-Grotesque by the foundry, combining geometric discipline with organic fluidity in the tradition of Swiss sans-serifs but with softened, more characterful forms.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "NeuSans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "swiss",
+      "neutral",
+      "layout",
+      "corporate",
+      "versatile",
+      "contemporary"
+    ],
+    "summary": "A neo-grotesque sans in seven weights with italics, positioned as a more characterful alternative to standard Swiss typefaces.",
+    "description": "Fourteen styles span Light to Black with matching italics, covering the range expected of a workhorse layout face. The foundry pitches it as a middle ground between geometric rigour and organic warmth, distinguishing it from the cooler neutrality of Helvetica or Univers. It suits editorial and branding work where a clean sans is needed but strict Swiss austerity feels too impersonal.",
+    "foundry_blurb": "Gradient describe NeuSans as a contemporary Neo-Grotesque that balances geometric precision with organic fluidity, intended as a reliable layout backbone with enough personality to be memorable without competing with the content it sets."
+  },
+  {
+    "name": "Linear Sans",
+    "foundry": "Gradient",
+    "url": "https://wearegradient.net/typefaces/linear-sans/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "The foundry explicitly describes it as a neo-grotesque drawing on 1950s Swiss International Style principles, with tight apertures and geometric construction typical of that tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Linear Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "swiss",
+      "international-style",
+      "geometric",
+      "neutral",
+      "workhorse",
+      "minimalist"
+    ],
+    "summary": "A 14-style neo-grotesque drawing on 1950s Swiss International Style, tempered with a warmer finish to soften its geometric rigidity.",
+    "description": "Built around tight apertures and geometric construction, the family runs from Light to Heavy with matching italics across seven weights. Gradient describe it as a disciplined neo-grotesque that retains the precision of Swiss modernism while avoiding the coldness often associated with that tradition. Suited to editorial, branding and UI work where a structured but approachable sans is needed.",
+    "foundry_blurb": "Gradient describe Linear Sans as their take on the 1950s Swiss design movement, pitched at those who appreciate the International Style but want something less austere. A 14-style workhorse, it applies tight apertures and geometric rigour alongside a laid-back finish and subtle warmth, resulting in what they call a disciplined, high-performance neo-grotesque that knows how to follow the rules."
+  },
+  {
+    "name": "Okay Serif",
+    "foundry": "Gradient",
+    "url": "https://wearegradient.net/typefaces/okay-serif/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "A single-weight display serif with heavy, expressive forms designed primarily for large-scale typesetting rather than extended text. The page describes it as loud and attitude-driven, placing it firmly in the display category.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Okay Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "expressive",
+      "multilingual",
+      "bold",
+      "poster",
+      "editorial"
+    ],
+    "summary": "A single-weight display serif with broad multilingual coverage and an expressive, high-contrast personality suited to poster and editorial work.",
+    "description": "Available in Bold and Bold Italic only, this display serif carries a deliberately loud character, with the foundry citing tropical warmth alongside a heavy attitude. Despite its limited weight range, the design extends to Cyrillic and Greek, making it more broadly useful than many display-only releases. Suited to headlines, packaging and short editorial copy where character takes precedence over versatility.",
+    "foundry_blurb": "Gradient describe Okay Serif as a loud display serif with more personality shifts than a method actor, arriving with attitude, tropical warmth and a sweet aftertaste. The family covers Latin, Cyrillic and Greek, and is available in Bold with a matching italic."
+  },
+  {
+    "name": "Kokoro",
+    "foundry": "Gradient",
+    "url": "https://wearegradient.net/typefaces/kokoro/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "high contrast display serif",
+    "classification_notes": "Kokoro is explicitly positioned as a display serif with high contrast strokes and expressive quirky character, making it unsuitable for extended text and firmly in the display category.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kokoro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "serif",
+      "expressive",
+      "editorial",
+      "quirky",
+      "youthful"
+    ],
+    "summary": "A high-contrast display serif in four weights with matching italics, mixing calm italic forms with an edgier upright character.",
+    "description": "Eight styles spanning Regular to Heavy, each with a carefully drawn italic that takes on a noticeably different personality to its upright counterpart. The roman cuts lean expressive and energetic while the italics pull back towards something more composed and distinctive. Aimed at editorial and display work where a serif with some attitude is needed.",
+    "foundry_blurb": "Gradient describe Kokoro as a high contrast display serif with a pinch of quirkiness, coming in eight styles across four weights with carefully treated italic sets. They note that its personality ranges from calm and distinctive italic forms to a lively and edgy non-italic look, evoking the youthful energy of a punk-rock kid from the block."
+  }
+]

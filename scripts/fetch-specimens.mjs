@@ -89,17 +89,50 @@ const FOUNDRY_SLUGS = {
   Prioritype: "prioritype",
   "Taylor Penton": "taylor-penton",
   "VJ Type": "vj-type",
+  "Balto / Type Supply": "balto-type-supply",
+  "Big Fog Foundry": "big-fog-foundry",
+  "Coppers and Brasses": "coppers-and-brasses",
+  "Darden Studio": "darden-studio",
+  "Colt Type": "colt-type",
+  "Dharma Type": "dharma-type",
+  "XYZ Type": "xyz-type",
+  Kilotype: "kilotype",
+  "KOMETA Typefaces": "kometa-typefaces",
+  "Kurppa Hosk Type": "kurppa-hosk-type",
+  Gradient: "gradient",
+  "Letters from Sweden": "letters-from-sweden",
 };
 
 const COOKIE_SELECTORS = [
+  // OneTrust
   "#onetrust-accept-btn-handler",
+  // Cookiebot
   "button#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+  // Funding Choices / Google consent
+  ".fc-cta-consent",
+  "button.fc-button-label",
+  // Generic class/id patterns
   '[class*="cookie"] button[class*="accept"]',
   '[id*="cookie"] button[class*="accept"]',
+  '[class*="consent"] button[class*="accept"]',
+  '[class*="gdpr"] button[class*="accept"]',
   'button[aria-label*="ccept"]',
+  'button[aria-label*="gree"]',
+  // Named platforms
   ".cc-allow",
   ".cky-btn-accept",
+  ".js-cookie-consent-agree",
+  "#tarteaucitronPersonalize2",
+  ".tarteaucitronAllow",
+  // Generic data attributes
+  'button[data-consent*="accept"]',
+  'button[data-action*="accept"]',
+  '[data-testid*="accept"]',
+  '[data-testid*="consent"]',
 ];
+
+// Text patterns for buttons that CSS selectors miss
+const COOKIE_TEXT_RE = /^(accept( all( cookies)?)?|agree|ok|got it|i agree|allow( all)?|yes( please)?)$/i;
 
 function loadTypefaces() {
   const dataDir = join(root, "data");
@@ -160,6 +193,24 @@ function extractOgImage(html, pageUrl) {
   return null;
 }
 
+async function dismissCookies(page) {
+  // CSS selector pass
+  for (const sel of COOKIE_SELECTORS) {
+    await page.locator(sel).first().click({ timeout: 400 }).catch(() => {});
+  }
+  // Text-based pass — finds visible buttons whose full text matches the accept pattern
+  try {
+    const buttons = await page.locator("button:visible").all();
+    for (const btn of buttons) {
+      const text = (await btn.innerText().catch(() => "")).trim();
+      if (COOKIE_TEXT_RE.test(text)) {
+        await btn.click({ timeout: 400 }).catch(() => {});
+        break;
+      }
+    }
+  } catch {}
+}
+
 // Group work by domain so each domain is hit serially with a delay.
 function groupByDomain(typefaces) {
   const groups = new Map();
@@ -189,6 +240,7 @@ async function runPerDomain(groups, worker) {
 async function main() {
   const foundryFlag = process.argv.indexOf("--foundry");
   const onlyFoundry = foundryFlag > -1 ? process.argv[foundryFlag + 1] : null;
+  const force = process.argv.includes("--force");
 
   const typefaces = loadTypefaces().filter((t) => {
     if (!t.foundrySlug) {
@@ -197,6 +249,17 @@ async function main() {
     }
     return onlyFoundry ? t.foundrySlug === onlyFoundry : true;
   });
+
+  // --force: delete existing screenshots so they get retaken
+  if (force) {
+    const { unlinkSync } = await import("node:fs");
+    let deleted = 0;
+    for (const t of typefaces) {
+      const p = outPath(t);
+      if (existsSync(p)) { unlinkSync(p); deleted++; }
+    }
+    console.log(`--force: deleted ${deleted} existing screenshots\n`);
+  }
 
   const onlyMissing = process.argv.includes("--screenshots-only-missing");
   const stats = { og: 0, screenshot: 0, cached: 0, miss: [] };
@@ -260,14 +323,11 @@ async function main() {
       try {
         await page.goto(t.url, { waitUntil: "domcontentloaded", timeout: 30000 });
         await page.waitForLoadState("networkidle", { timeout: 15000 }).catch(() => {});
-        for (const sel of COOKIE_SELECTORS) {
-          await page
-            .locator(sel)
-            .first()
-            .click({ timeout: 500 })
-            .catch(() => {});
-        }
-        await page.waitForTimeout(1500);
+        await dismissCookies(page);
+        await page.waitForTimeout(800);
+        // Second pass — some banners animate in after first pass
+        await dismissCookies(page);
+        await page.waitForTimeout(800);
         const buf = await page.screenshot({ type: "png" });
         await saveWebp(buf, t);
         stats.screenshot++;

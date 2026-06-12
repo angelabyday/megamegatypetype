@@ -1,0 +1,552 @@
+[
+  {
+    "name": "Frequenz",
+    "foundry": "Kilotype",
+    "url": "https://kilotype.de/families/frequenz",
+    "designer": "Selma Losch",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Frequenz is a sans-serif with deliberately unconventional rhythm and minimal optical correction, placing it within the grotesque tradition but with a nonconformist, design-led sensibility rather than strict neutrality.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Frequenz"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "African languages",
+      "American languages",
+      "Asian languages",
+      "European languages",
+      "Oceanic languages"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "editorial",
+      "rhythm",
+      "nonconformist",
+      "text",
+      "german",
+      "extended-latin"
+    ],
+    "summary": "A deliberately unrefined grotesque by Selma Losch, where minimal optical correction and unconventional letter spacing create a purposefully irregular rhythm.",
+    "description": "Designed by Selma Losch and published in 2018, Frequenz challenges the convention of optically perfecting letterforms, keeping proportions and stroke weights intentionally close to their raw origins. The family runs across six weights from Thin to Extra Bold, each with a matching italic, and covers more than 400 languages using the Latin alphabet. It is a companion to Sequenz, both exploring how far a typeface can deviate from orthodoxy while remaining functional.",
+    "foundry_blurb": "Kilotype describe Frequenz as a typeface that calls established ideas of type design practice into question, asking how faithful a designer can stay to their raw original idea without compromising functionality. Refinements to proportions and stroke thickness were kept to a minimum, producing what they call a nonconformist rhythm that creates its own harmony, accentuated by a few well-positioned ghost notes."
+  },
+  {
+    "name": "Lofi Forest",
+    "foundry": "Kilotype",
+    "url": "https://kilotype.de/families/lofi-forest",
+    "designer": "Selma Losch",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "pixel display",
+    "classification_notes": "A large-scale pixel typeface with two layerable styles (Pixel and Solid), built from individually placed pixels to evoke inscribed stone and polychrome effects rather than screen utility.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lofi Forest Pixel",
+      "Lofi Forest Solid"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "pixel",
+      "display",
+      "layerable",
+      "polychrome",
+      "monumental",
+      "ornamental",
+      "experimental"
+    ],
+    "summary": "A large-scale pixel typeface by Selma Losch built from individually placed pixels to evoke chiselled stone inscriptions, available in two layerable styles for polychrome effects.",
+    "description": "Rather than mimicking screen constraints, Lofi Forest scales the pixel aesthetic up to monumental proportions, each letter constructed from hundreds of discrete pixels that produce sharp lines and soft gradients simultaneously. The Pixel and Solid styles can be used independently or layered in contrasting colours for polychrome display work. Classical letter proportions sit on a coarse grid, producing something that reads simultaneously as ancient inscription and contemporary graphic experiment. Won the German Design Award in 2026 and received a TDC Certificate of Typographic Excellence in 2025.",
+    "foundry_blurb": "Kilotype describe Lofi Forest as a pixel font that has been freed from the constraints that originally defined the genre. Designed by Selma Losch and published in 2024, each letter is constructed from hundreds of individually placed pixels that combine sharp lines and gentle gradients to evoke text chiselled into stone. The Pixel and Solid styles can be used separately or layered for polychrome effects, and the family covers more than 400 languages using the Latin alphabet."
+  },
+  {
+    "name": "Oldschool Grotesk",
+    "foundry": "Kilotype",
+    "url": "https://kilotype.de/families/oldschool-grotesk",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The name and visual character point squarely to the nineteenth-century grotesque tradition, with the breadth of weights and widths typical of contemporary revivals in that lineage.",
+    "weights": [
+      "Air",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Compact",
+      "Condensed",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Oldschool Grotesk",
+      "Oldschool Grotesk Compact",
+      "Oldschool Grotesk Condensed",
+      "Oldschool Grotesk Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "nineteenth-century",
+      "editorial",
+      "poster",
+      "extended-family",
+      "german",
+      "versatile"
+    ],
+    "summary": "A large grotesque family from Kilotype spanning four widths and ten weights, rooted in the nineteenth-century European grotesque tradition.",
+    "description": "The family runs from Air to Heavy across standard, Compact, Condensed and Compressed widths, each with matching italics, giving 80 styles in total. The name signals a deliberate debt to the old-style grotesques that preceded the refined Swiss sanses, preserving some of their rawer proportions and texture. That breadth makes it practical across editorial, identity and poster work wherever width contrast is useful.",
+    "foundry_blurb": "Kilotype offer Oldschool Grotesk as a wide-ranging grotesque family with four width variants — standard, Compact, Condensed and Compressed — each spanning ten weights from Air to Heavy with accompanying italics, drawing on the visual vocabulary of historical European grotesque types."
+  },
+  {
+    "name": "Plastique",
+    "foundry": "Kilotype",
+    "url": "https://kilotype.de/families/plastique",
+    "designer": "William Montrose",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "industrial sans",
+    "classification_notes": "A clear-form industrial sans serif with references to OCR typefaces and functional type history, softened by curves derived from injection moulding; duplexable uprights and italics point to UI and text utility.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plastique Sans",
+      "Plastique Frame"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "industrial",
+      "sans-serif",
+      "ui",
+      "text",
+      "display",
+      "duplexed",
+      "ink-traps",
+      "functional"
+    ],
+    "summary": "An industrial sans serif drawing on injection moulding aesthetics and optical character recognition history, with ink traps and open forms optimised for small-size rendering.",
+    "description": "Designed by William Montrose, Plastique pairs the clear geometry of an industrial sans with small curves and soft transitions that echo injection-moulded plastics. The family cites Matthew Carter's Bell Centennial and Karlgeorg Hoefer's FE type as reference points for crude-condition legibility, deploying ink traps, spread diagonals and open shapes accordingly. Six weights with duplexable uprights and italics suit UI environments, while a parallel Frame subfamily mimics the visual language of the moulding process itself.",
+    "foundry_blurb": "Kilotype describe Plastique as suitable for both body text and display use, with a design language referencing injection moulding reflected in soft curves and transitions set against simple industrial forms. They note its small-size optimisations including ink traps, open shapes and generous spacing, and cite Bell Centennial, Galfra and the FE number-plate typeface as precedents. The family comprises six Sans weights with duplexable italics and six Frame styles, all with variable font support and coverage of more than 400 Latin-script languages."
+  },
+  {
+    "name": "Queens",
+    "foundry": "Kilotype",
+    "url": "https://kilotype.de/families/queens",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Queens presents as a contemporary grotesque sans-serif with a broad weight range and multiple width variants, consistent with the grotesque tradition of workhorse text and display families.",
+    "weights": [
+      "Air",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Condensed",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Queens",
+      "Queens Condensed",
+      "Queens Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "condensed",
+      "compressed",
+      "editorial",
+      "multiwidth",
+      "workhorse"
+    ],
+    "summary": "A versatile grotesque family from Kilotype spanning seven weights across regular, condensed and compressed widths, each with matching italics.",
+    "description": "Forty-two styles in total, running from Air to Extra Bold across three widths and complete italic counterparts. The range makes it well suited to publication and identity work where consistent type across tight columns and open display settings is required. No designer or release year is listed on the page.",
+    "foundry_blurb": "Kilotype offer Queens as a purchase with trial fonts available, presenting the family through multilingual specimen phrases across the full range of forty-two styles."
+  },
+  {
+    "name": "Queens Sans",
+    "foundry": "Kilotype",
+    "url": "https://kilotype.de/families/queens-sans",
+    "designer": "Selma Losch",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Queens Sans is a geometric sans with Art Déco influence, featuring a distinctive tilted 'a' and a split personality between restrained Standard styles and ornate Extra styles with pronounced geometric precision and period poise.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Extra"
+    ],
+    "subfamilies": [
+      "Queens Sans",
+      "Queens Sans Extra"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "art-deco",
+      "elegant",
+      "display",
+      "variable",
+      "opentype-rich",
+      "latin-extended",
+      "decorative"
+    ],
+    "summary": "A geometric sans by Selma Losch that pairs restrained text weights with a high-contrast Art Déco Extra subfamily, sharing the tilted 'a' of its serif companion Queens.",
+    "description": "Released in 2022, Queens Sans offers sixteen styles split between a workhorse Standard range and an ornate Extra range designed for expressive, large-scale use. Both subfamilies share a tilted single-storey 'a' inherited from Queens, giving the family a consistent personality across very different applications. OpenType features include seven numeral styles, arrows, symbols and dynamic mark positioning, alongside variable font support and coverage of over 400 Latin-script languages.",
+    "foundry_blurb": "Kilotype describe Queens Sans as the newest member of the Queens family, united by a shared appreciation of elegance and a distinct tilted 'a'. Where Queens is luxurious and playful, Queens Sans is defined by straightforwardness and warm geometric precision. The Extra styles take things further, living in a register where the excessive is just enough, full of Art Déco poise."
+  },
+  {
+    "name": "Sequenz",
+    "foundry": "Kilotype",
+    "url": "https://kilotype.de/families/sequenz",
+    "designer": "Selma Losch",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Sequenz is a sans-serif with experimental humanist tendencies, deliberately questioning conventional type design rules such as crossbar placement and letter closure, while remaining rooted in Latin text typography.",
+    "weights": [
+      "Air",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sequenz"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "experimental",
+      "text",
+      "multilingual",
+      "extended-latin",
+      "editorial",
+      "unconventional",
+      "pattern"
+    ],
+    "summary": "A text sans by Selma Losch that treats letterforms as a pattern of strokes, deliberately rethinking conventions such as crossbar height and closed apertures.",
+    "description": "Designed by Selma Losch and released in 2018, Sequenz runs eight weights from Air to Heavy, each with a matching italic, totalling sixteen styles. Its design philosophy treats text as an alternating sequence of black and white strokes, and it questions entrenched conventions, such as whether the bar of the t must sit at x-height. The family supports over 400 languages across African, American, Asian, European and Oceanic scripts using the Latin alphabet, and includes proportional, tabular, oldstyle and circled numeral sets alongside arrows and symbols.",
+    "foundry_blurb": "Kilotype describe Sequenz as a typeface that regards text as a pattern of black and white strokes and interrogates established conventions of type design, asking whether the crossbar of the t needs to sit on the x-height, or whether the C can be closed. They note that Sequenz and its companion Frequenz are different manifestations of these principles, designed by Selma Losch and published in 2018."
+  },
+  {
+    "name": "40 Degrees",
+    "foundry": "Kilotype",
+    "url": "https://kilotype.de/families/40-degrees",
+    "designer": "Selma Losch",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A geometric display font whose letterforms are rotated 40 degrees and rendered as multicolour iridescent mosaics; the decorative, colour-font treatment and highly specific visual concept place it firmly in the display category.",
+    "weights": [
+      "Solid"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "40 Degrees"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "color-font",
+      "display",
+      "experimental",
+      "decorative",
+      "mosaic",
+      "concept-font"
+    ],
+    "summary": "A geometric display typeface by Selma Losch in which letters are tilted 40 degrees and rendered as iridescent colour mosaics across 11 predefined palettes.",
+    "description": "Designed by Selma Losch and released in 2022, the typeface takes a geometric skeleton and rotates each letterform 40 degrees, fragmenting the shapes into coloured mosaic segments. Eleven predefined colour palettes shift the tone from ethereal to vivid, while a monochrome Solid style functions as a fallback in apps without colour-font support. The font uses both CPAL/COLR and SVG tables for broad compatibility and is distributed under Kilotype's Concept Font programme, free for individuals and studios under €100k annual revenue.",
+    "foundry_blurb": "Kilotype describe 40 Degrees as a Concept Font by Selma Losch, noting that tilting geometric letterforms to a 40-degree angle and introducing colour palettes dissolves the perceived neutrality of geometric type, producing what they call an iridescent mosaic capable of evoking textures, sounds and sensory experiences. The family ships with 11 predefined colour palettes and a monochrome Solid style, and is made freely available to smaller studios and individuals as part of Kilotype's programme for gathering real-world feedback on work-in-progress designs."
+  },
+  {
+    "name": "Charlottenburg",
+    "foundry": "Kilotype",
+    "url": "https://kilotype.de/families/charlottenburg",
+    "designer": "William Montrose",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "high contrast display serif",
+    "classification_notes": "An all-caps, razor-sharp high contrast serif with exaggerated serifs and Art Nouveau inflections, designed purely for display and titling use at large sizes. The extreme contrast and period proportions place it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Classic",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Charlottenburg Classic",
+      "Charlottenburg Compressed",
+      "Charlottenburg Circles",
+      "Charlottenburg Choices"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "all-caps",
+      "art-nouveau",
+      "titling",
+      "serif",
+      "berlin",
+      "concept-font"
+    ],
+    "summary": "An all-caps, high-contrast display serif by William Montrose, drawing on Roman inscriptional proportions and Art Nouveau flourishes across four distinct subfamilies.",
+    "description": "Charlottenburg is built for large-scale headlines, with sharp serifs, extreme stroke contrast and letter proportions referencing Trajan-era stonecutting. Four variants extend its range: Classic for titling, Compressed for ultra-narrow headlines, Circles for mixed-width settings, and Choices for manual glyph-width switching via keystroke. Released as a concept font, it is free to license for individuals and organisations below €100k annual revenue, with further development including a lowercase and extended language support planned.",
+    "foundry_blurb": "Kilotype describe Charlottenburg as a razor-sharp, all-caps, high-contrast serif display font with proportions like it's AD 113, serifs bordering on the exuberant, and hints of Art Nouveau. The four versions — Classic, Compressed, Circles, and Choices — each offer different approaches to glyph width and headline setting. It is released as a Concept Font, free for smaller users, with potential future additions including a lowercase, text optical sizes, and extended language support."
+  },
+  {
+    "name": "Oldschool Graphic",
+    "foundry": "Kilotype",
+    "url": "https://kilotype.de/families/oldschool-graphic",
+    "designer": "William Montrose",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "compressed display",
+    "classification_notes": "An experimental display sans derived from Oldschool Grotesk, available in extreme compressed and ultra-heavy widths with reversed contrast, interlocking terminals and punch-hole details that push it firmly into display territory.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "100",
+      "1000"
+    ],
+    "subfamilies": [
+      "Oldschool Graphic"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "compressed",
+      "variable",
+      "experimental",
+      "grotesque",
+      "impact-influenced",
+      "concept-font",
+      "expressive"
+    ],
+    "summary": "A sideways spin-off from Oldschool Grotesk by William Montrose, available in two extreme widths with interlocking terminals and reversed contrast.",
+    "description": "Oldschool Graphic emerged from pushing the variable parameters of Oldschool Grotesk to their logical extremes and then beyond. The 100 width is severely compressed with a dense, patterned rhythm, while the 1000 width relies on interlocking letterforms and a lively play of shapes and counter-shapes. Reverse contrast and punch-hole details in the compressed cut give it a distinctly mechanical, stapler-adjacent character that sets it apart from its parent family.",
+    "foundry_blurb": "Kilotype describe Oldschool Graphic as a deliberate accident that spiralled sideways out of Oldschool Grotesk over two years of experimentation. Released as part of their Concepts series, it comes in two distinct widths and a variable font, with the compressed cut offering patterned rhythm and the wide cut delivering interlocking letter shapes. Concept Fonts are available free to individuals and companies with under €100k annual net revenue."
+  },
+  {
+    "name": "Otomauk",
+    "foundry": "Kilotype",
+    "url": "https://kilotype.de/families/otomauk",
+    "designer": "Selma Losch",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "organic display",
+    "classification_notes": "Otomauk is a display typeface designed to evoke the weight and texture of stone without literal material detail; its organic, rounded forms and ornate patterning in heavier weights place it firmly in expressive display territory.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Otomauk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "organic",
+      "stone-inspired",
+      "expressive",
+      "concept",
+      "ornamental",
+      "bold"
+    ],
+    "summary": "A display typeface by Selma Losch that translates the eroded weight of stone into vector outlines, producing organic forms that grow increasingly ornate at heavier weights.",
+    "description": "Designed by Selma Losch and published in 2022, Otomauk takes as its starting point the question of how stone's mass can be conveyed through digital curves rather than surface texture or literal material illustration. Five weights from Regular to Heavy shift the character from relatively plain to dense and patterned, giving the family range across editorial headers and identity work. Released as a Concept Font, it remains a work in progress, with Kilotype offering free commercial licensing to individuals and companies below €100k annual revenue in exchange for real-world feedback.",
+    "foundry_blurb": "Kilotype describe Otomauk as arising from the question of how the weight of stone translates into vector outlines, seeking to bring the look and feel of the natural world to screen without drawing explicit material detail. The organic yet simple shapes form ornate patterns at bolder weights, positioning it as a grounded instrument for the modern world. It is released under their Concept Font programme, which makes work-in-progress typefaces available to early adopters at no cost for smaller users, in order to gather broad feedback."
+  },
+  {
+    "name": "Snapshot",
+    "foundry": "Kilotype",
+    "url": "https://kilotype.de/families/snapshot",
+    "designer": "Selma Losch",
+    "year": 2022,
+    "category": "slab",
+    "subcategory": "slab serif",
+    "classification_notes": "Snapshot is explicitly described in the lineage of 19th-century slab serif display types, with prominent serifs used to grab attention, placing it firmly in the slab category with a display orientation.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Heavy",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Snapshot"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "uniwidth",
+      "display",
+      "expressive",
+      "variable-weight",
+      "concept",
+      "19th-century-revival",
+      "editorial"
+    ],
+    "summary": "A uniwidth slab serif by Selma Losch that deliberately subverts uniform spacing by letting individual letters vary dramatically in width while keeping all weights metrically identical.",
+    "description": "Released in 2022 as part of Kilotype's Concept Fonts series, Snapshot draws on 19th-century display slab tradition while introducing a distinctive quirk: narrow M and W sit alongside wide i and r, creating word shapes that read almost monospaced without the mechanical regularity that implies. Because all ten weights share the same character widths, swapping weights triggers no text reflow, opening up animation and layout tricks unavailable in conventional weight-variable families. Selma Losch frames this as letters working cooperatively rather than uniformly, producing visual tension that holds the eye without collapsing into chaos.",
+    "foundry_blurb": "Kilotype describe Snapshot as a font designed to hold the reader spellbound through unusual word shapes, achieved by allowing each letter to occupy its own natural width rather than conforming to a consistent rhythm. All weights are uniwidth, meaning designers can swap between Thin and Ultra without text reflow, which Kilotype highlight as enabling animated and experimental layouts. As a Concept Font, it is available free to individuals and companies below €100k net annual revenue under a full commercial licence."
+  }
+]
