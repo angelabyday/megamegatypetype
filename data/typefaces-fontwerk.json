@@ -1,0 +1,805 @@
+[
+  {
+    "name": "Sukoon",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/sukoon",
+    "designer": "Jan 'Yanone' Gerner",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Sukoon appears to be a humanist sans-serif with broad Latin and Arabic script support, characterised by organic clarity and warmth consistent with humanist design principles.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "ExtraBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sukoon"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Arabic",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "multilingual",
+      "arabic",
+      "humanist",
+      "tranquil",
+      "editorial",
+      "multi-script",
+      "expressive",
+      "minimalist"
+    ],
+    "summary": "A multi-script typeface by Jan 'Yanone' Gerner grown over ten years from a single letterform drawn during a moment of stillness in a forest cabin.",
+    "description": "Born from a single letter found rather than designed, Sukoon spans ten weights from Thin to ExtraBlack and covers Latin, Arabic, Greek and Cyrillic scripts. The Arabic integration feels central rather than supplementary, reflecting the word 'sukoon' itself, a term for tranquility and a diacritical mark denoting a vowelless consonant in Arabic script. The result is a typeface with an unusually consistent voice across very different writing systems.",
+    "foundry_blurb": "Fontwerk describe Sukoon as growing from a single letter drawn by Jan 'Yanone' Gerner during a moment of deep relaxation in a remote forest cabin, a state he found almost sacred. Over the following ten years, that feeling of tranquility and mental clarity shaped the typeface into its full form, released in 2026."
+  },
+  {
+    "name": "Tausend Collection",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/tausend-collection",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "grotesque display",
+    "classification_notes": "Tausend is a display-oriented grotesque with multiple decorative variants including Stencil and Shaded cuts, clearly positioned as a headline and poster typeface rather than text use, with the Plakat subfamily reinforcing its large-scale application.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "TooBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tausend",
+      "Tausend Plakat",
+      "Tausend Soft",
+      "Tausend Plakat Soft",
+      "Tausend Stencil",
+      "Tausend Shaded"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "grotesque",
+      "poster",
+      "stencil",
+      "shaded",
+      "decorative",
+      "headline",
+      "german"
+    ],
+    "summary": "A six-family display grotesque collection spanning soft, stencil and shaded variants across a ten-weight range up to TooBlack.",
+    "description": "Described by Fontwerk as a homage rather than a revival, the collection covers six sub-families: the base Tausend, a Plakat variant optimised for large-scale setting, softened Soft and Plakat Soft cuts, a Stencil and a Shaded. Ten weights run from Thin through to TooBlack across most families, giving considerable range for poster, headline and display work. The decorative Shaded and Stencil variants extend the collection into more expressive territory while the Soft cuts offer a warmer, less rigid alternative to the standard grotesque forms.",
+    "foundry_blurb": "Fontwerk position the Tausend Collection as a homage rather than a revival, comprising six families including standard, Plakat, Soft, Plakat Soft, Stencil and Shaded variants, each available across a broad weight range up to the extreme TooBlack weight, intended for display, poster and headline use."
+  },
+  {
+    "name": "Push",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/push",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Push is a contemporary grotesque sans-serif with a wide range of widths and weights, characteristic of a utilitarian display and text family without humanist or geometric inflection.",
+    "weights": [
+      "XLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "XBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "XCondensed",
+      "SemiCondensed",
+      "standard",
+      "Wide",
+      "XWide"
+    ],
+    "subfamilies": [
+      "Push",
+      "Push SemiCondensed",
+      "Push XCondensed",
+      "Push Wide",
+      "Push XWide"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "multi-width",
+      "display",
+      "text",
+      "variable",
+      "extended-family",
+      "editorial",
+      "versatile"
+    ],
+    "summary": "A Latin grotesque spanning seven widths and eight weights, built for demanding typographic range across display and text use.",
+    "description": "Push covers an unusually broad stylistic range, from XCondensed through to XWide, each in eight weights from XLight to Black. The family is suited to publications, identities and campaigns that require a single typeface to operate across varied measures and hierarchies. With forty-plus styles available, it handles both headline work and extended body copy within a consistent visual voice.",
+    "foundry_blurb": "Fontwerk present Push as a bold typographic challenge: seven widths in eight weights, making it a highly versatile grotesque for Latin-script typography across a wide range of typographic demands."
+  },
+  {
+    "name": "Hamster",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/hamster",
+    "designer": "Joe Stitzlein",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "variable color display",
+    "classification_notes": "A two-tone variable colour font with multiple chromatic subfamilies named after colour combinations; designed purely for display and expressive use rather than text setting.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "XBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hamster Barbecue",
+      "Hamster Tan White",
+      "Hamster Lavender",
+      "Hamster Gray Pink",
+      "Hamster Colorless",
+      "Hamster Orange Pink"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "color-font",
+      "variable",
+      "two-tone",
+      "expressive",
+      "decorative",
+      "fun"
+    ],
+    "summary": "A two-tone variable colour display font by Joe Stitzlein, released in multiple chromatic subfamilies each named after its colour pairing.",
+    "description": "Designed by Joe Stitzlein and released by Fontwerk in 2023, this display typeface uses variable colour font technology to produce two-tone letterforms across six named subfamilies including Barbecue, Lavender and Gray Pink. Each subfamily ships with the same weight range from Thin to XBlack, giving designers tonal contrast and weight variation in a single typeface. Suited to posters, packaging and editorial headlines where strong visual personality is the brief.",
+    "foundry_blurb": "Fontwerk describe Hamster as a font unlike any other, a two-tone variable colour font bursting with fun, positioned as a lively departure from dry, conventional typefaces."
+  },
+  {
+    "name": "Neue DIN",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/neue-din",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Neue DIN is a reimagining of the classic DIN typeface, a geometric industrial sans-serif with deep roots in German standardisation and signage traditions, extended here with extreme width variants and variable font capabilities.",
+    "weights": [
+      "Thin",
+      "XLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "XBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "XXCondensed",
+      "XCondensed",
+      "Condensed",
+      "SemiCondensed",
+      "standard",
+      "SemiWide",
+      "Wide",
+      "XXWide"
+    ],
+    "subfamilies": [
+      "Neue DIN",
+      "Neue DIN XXCondensed",
+      "Neue DIN XCondensed",
+      "Neue DIN Condensed",
+      "Neue DIN SemiCondensed",
+      "Neue DIN SemiWide",
+      "Neue DIN Wide",
+      "Neue DIN XXWide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Thai"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "din",
+      "german",
+      "variable",
+      "industrial",
+      "wide",
+      "condensed",
+      "signage"
+    ],
+    "summary": "A wide-ranging reimagining of the DIN typeface built around extreme width variants and a variable-first approach, covering eight width axes from XXCondensed to XXWide.",
+    "description": "Rooted in the German industrial tradition of DIN, this family extends the original's utilitarian geometry into a contemporary system with nine weights, italics, reverse italics (Retalic) and eight subfamilies spanning XXCondensed to XXWide. The variable-first architecture makes the full width and weight range accessible as a single file, while script coverage across Latin, Cyrillic, Greek and Thai broadens its reach considerably. The combination of compactness and extreme expansion makes it suited to both tight editorial settings and large-format display work.",
+    "foundry_blurb": "Fontwerk describe Neue DIN as the German type icon reimagined with compactness and elegance, extreme widths and a variable-first approach, positioning it as a thorough rethinking of a classic rather than a simple revival."
+  },
+  {
+    "name": "Change",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/change",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Change presents a clean, upright sans-serif with a wide weight range from Hairline to ExtraBlack, consistent with a contemporary grotesque classification. Its neutral construction and broad weight spectrum place it firmly in the grotesque tradition.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "ExtraBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Change"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "multiweight",
+      "contemporary",
+      "neutral",
+      "editorial",
+      "extended-latin"
+    ],
+    "summary": "A wide-ranging grotesque sans spanning eleven weights from Hairline to ExtraBlack, with full italic companions and support for Latin, Cyrillic and Greek scripts.",
+    "description": "Fontwerk's Change covers an unusually broad weight spectrum, from a delicate Hairline through to a heavy ExtraBlack, each with a matching italic. Script coverage extends to Cyrillic and Greek alongside extended Latin, making it suitable for multilingual setting. The family suits editorial, display and body text work where a reliable, versatile grotesque is needed without strong stylistic personality.",
+    "foundry_blurb": "Fontwerk present Change as a versatile grotesque family suited to a wide range of typographic tasks, offering 22 styles across 11 weights with italic companions and broad language support including Latin, Cyrillic and Greek."
+  },
+  {
+    "name": "Nice Collection",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/nice-collection",
+    "designer": "Jan Fromm",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "optical size serif",
+    "classification_notes": "A serif superfamily structured around four optical sizes (Poster, Headline, Text, Micro), placing it firmly in the tradition of optically-calibrated text and display type systems.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Poster",
+      "Headline",
+      "Text",
+      "Micro"
+    ],
+    "subfamilies": [
+      "Nice Poster",
+      "Nice Headline",
+      "Nice Text",
+      "Nice Micro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "optical-sizes",
+      "superfamily",
+      "editorial",
+      "text",
+      "display",
+      "legibility"
+    ],
+    "summary": "A four-optical-size serif superfamily by Jan Fromm, covering everything from micro caption setting to large-scale poster type within a single harmonised system.",
+    "description": "Designed by Jan Fromm and released in 2022, Nice spans four purpose-built optical sizes: Micro, Text, Headline and Poster, each tuned for its intended environment while sharing a consistent visual language. All four subfamilies run across seven weights from ExtraLight to Black with matching italics, giving 56 styles in total. The system suits editorial and publishing contexts where type must perform cleanly across a full range of scales.",
+    "foundry_blurb": "Fontwerk describe Nice as a complex type system with an enormous range of typographic possibilities, calling it a refreshing serif superfamily that shines with four perfectly harmonised optical sizes."
+  },
+  {
+    "name": "West",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/west",
+    "designer": "Daniel Perraudin",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described by the foundry as a contemporary reinterpretation of the geometric sans-serif concept, with clean, structured letterforms characteristic of the genre.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "West"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "contemporary",
+      "clean",
+      "editorial",
+      "text",
+      "versatile"
+    ],
+    "summary": "A contemporary geometric sans by Daniel Perraudin, released in 2021, spanning nine weights with matching italics.",
+    "description": "Daniel Perraudin's West reinterprets the geometric sans-serif tradition with a practical, concise sensibility rather than strict Bauhaus rigidity. Nine weights from Hairline to Black each carry a matching italic, giving the family a broad range suited to both text and display settings. The Latin character set and even spacing make it a workmanlike choice for editorial and identity applications.",
+    "foundry_blurb": "Fontwerk describe West as a compelling mix of conciseness and pragmatism, with designer Daniel Perraudin reinterpreting the geometric sans-serif concept in a contemporary and original way. Released in 2021, the family covers Latin and spans the full weight range from Hairline to Black."
+  },
+  {
+    "name": "Case Collection",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/case-collection",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Described by Fontwerk as a Neo-Grotesque; the family's neutral, matter-of-fact construction with subtle optical refinements across three subfamilies is characteristic of the neo-grotesque tradition.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "ExtraBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Text",
+      "Micro"
+    ],
+    "subfamilies": [
+      "Case",
+      "Case Text",
+      "Case Micro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "neutral",
+      "corporate",
+      "editorial",
+      "text",
+      "optical-sizes",
+      "workhorse"
+    ],
+    "summary": "A neo-grotesque sans spread across three optically tuned subfamilies covering display, text and micro settings, with 13 weights and matching italics throughout.",
+    "description": "Case is a neutral neo-grotesque from Fontwerk with a quiet pragmatism in its forms, offset by subtle details that prevent it from reading as purely generic. The three subfamilies, Case, Case Text and Case Micro, are each tuned to their intended size range, making the collection a coherent system for continuous reading as well as large-scale display work. Thirteen weights from Hairline to ExtraBlack, each with an italic, give designers considerable tonal range within a consistent structure.",
+    "foundry_blurb": "Fontwerk describe Case Collection as a matter-of-fact Neo-Grotesque with surprising nuances, comprising three subfamilies, Case, Case Text and Case Micro, each available across 13 weights with italics, covering Latin script."
+  },
+  {
+    "name": "Ika Collection",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/ika-collection",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Ika presents clean, refined letterforms with humanist proportions across a broad weight range, including a compact/condensed subfamiy, consistent with humanist sans-serif classification.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ika",
+      "Ika Compact"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "versatile",
+      "editorial",
+      "multi-weight",
+      "contemporary",
+      "clean"
+    ],
+    "summary": "A broad humanist sans family from Fontwerk spanning nine weights with italics, extended by a compact subfamily in three widths.",
+    "description": "Ika covers nine weights from Thin to Ultra, each with a matching italic, giving it a wide tonal range suited to editorial and branding work. The companion Ika Compact offers three widths — Normal, Narrow and Condensed — for tighter settings and display use. Sample text includes Latin, Cyrillic and Greek, indicating multilingual coverage across the collection.",
+    "foundry_blurb": "Fontwerk present Ika Collection under the strapline 'Timelessness of the highest order', offering the main Ika family alongside Ika Compact, which comes in Normal, Narrow and Condensed widths."
+  },
+  {
+    "name": "McQueen Collection",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/mcqueen-collection",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The collection comprises two subfamilies, McQueen and McQueen Grotesk, both sharing a clean, high-contrast grotesque structure with a wide weight range, placing them firmly in the grotesque sans-serif tradition.",
+    "weights": [
+      "XLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "XBold",
+      "Black",
+      "XBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "McQueen",
+      "McQueen Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "editorial",
+      "contemporary",
+      "high-contrast",
+      "wide-range",
+      "display",
+      "text"
+    ],
+    "summary": "A two-subfamily grotesque collection spanning nine weights, pairing a serifed and a pure grotesque variant across a broad weight range from XLight to XBlack.",
+    "description": "The collection pairs McQueen and McQueen Grotesk, offering nine weights each with matching italics for a total of 36 styles. The breadth from XLight to XBlack makes it adaptable across display headlines and running text. Both subfamilies share a common structural logic while the Grotesk variant strips away any serif detail for a cleaner, more neutral voice.",
+    "foundry_blurb": "Fontwerk present the McQueen Collection as two coordinated families, McQueen and McQueen Grotesk, each running from XLight to XBlack with italic companions throughout, suited to a wide range of typographic applications from branding to editorial work."
+  },
+  {
+    "name": "Nikolai",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/nikolai",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Nikolai displays the characteristic features of a grotesque sans-serif, with a refined, classical structure. The specimen text and styling suggest a workhorse text and display typeface in the European grotesque tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Nikolai",
+      "Nikolai Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "text",
+      "editorial",
+      "condensed",
+      "european",
+      "workhorse"
+    ],
+    "summary": "A Latin grotesque family from Fontwerk offered in regular and condensed widths across four weights with matching italics.",
+    "description": "Nikolai covers Light through Bold in both upright and italic across a standard and condensed width, making it adaptable for continuous text and display settings alike. The condensed subfamily extends the family's reach into tighter column measures and headline use. The specimen draws on European literary tradition, hinting at a typeface positioned for editorial and publishing work.",
+    "foundry_blurb": "Fontwerk present Nikolai as a Latin grotesque family with a knowing wink at typographic heritage, dismissing the notion that modern type design merely recycles old ideas. The family is offered in two sub-families, standard and condensed, each spanning Light to Bold with italics throughout."
+  },
+  {
+    "name": "Pangea Collection",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/pangea-collection",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The Pangea Collection is a humanist sans-serif family, with optical size variants (text and display) and multiple width variants suggesting a design rooted in legibility and human warmth rather than geometric abstraction.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Pangea",
+      "Pangea Text"
+    ],
+    "subfamilies": [
+      "Pangea",
+      "Pangea Text",
+      "Pangea Condensed",
+      "Pangea SemiCondensed",
+      "Pangea XCondensed",
+      "Pangea Text Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Arabic",
+      "Hebrew",
+      "Thai",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "multi-script",
+      "optical-sizes",
+      "condensed",
+      "editorial",
+      "multilingual",
+      "text",
+      "display"
+    ],
+    "summary": "A wide-ranging humanist sans family with optical size variants, multiple widths and extensive multi-script coverage spanning Latin, Cyrillic, Arabic, Hebrew, Greek and Thai.",
+    "description": "The Pangea Collection is split into two optical branches: Pangea for display and heading work, and Pangea Text for sustained reading at smaller sizes. Both branches run across five weights from Light to Bold with matching italics, and the family extends through SemiCondensed, Condensed and XCondensed widths. The breadth of script coverage, including Arabic, Hebrew, Thai and Vietnamese alongside Latin, Cyrillic and Greek, makes it suited to global publishing and identity work.",
+    "foundry_blurb": "Fontwerk present the Pangea Collection as a typeface with ambitions beyond aesthetics, asking whether type can contribute to a better world. The family covers a wide range of weights, widths and optical sizes, with script support stretching across Latin, Cyrillic, Greek, Arabic, Hebrew, Thai and more."
+  },
+  {
+    "name": "Romaine",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/romaine",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "old-style serif",
+    "classification_notes": "The tagline references a 450-year-old heritage, pointing to Renaissance or old-style origins; the letterforms visible in the specimen display classical proportions and bracketed serifs consistent with a humanist or Garalde serif tradition.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Romaine"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "oldstyle",
+      "classical",
+      "renaissance",
+      "text",
+      "editorial",
+      "humanist"
+    ],
+    "summary": "A serif revival drawing on 450 years of old-style tradition, offered in Regular and Bold with matching italics.",
+    "description": "Romaine positions itself as a contemporary interpretation of Renaissance serif letterforms, blending historical proportions with present-day refinement. The four-style family covers Regular, Bold and their italics, making it a compact but functional choice for text-heavy editorial work. The specimen leans heavily on long-form prose settings, suggesting the design is optimised for comfortable reading at smaller sizes.",
+    "foundry_blurb": "Fontwerk describe Romaine as a shockingly modern typeface rooted in a 450-year-old tradition, presenting it as a Latin serif family with four styles suited to contemporary use."
+  },
+  {
+    "name": "Supermarker",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/supermarker",
+    "designer": "Ulrike Rausch",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A contemporary sans-serif with a retail and display orientation, sitting within the grotesque tradition with lively proportions suited to packaging and signage contexts.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Supermarker"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "retail",
+      "packaging",
+      "display",
+      "advertising",
+      "commercial"
+    ],
+    "summary": "A grotesque sans by Ulrike Rausch built around retail and point-of-sale communication, released in 2020 with a 2022 update.",
+    "description": "Designed by Ulrike Rausch with an explicit brief around retail persuasion, the family runs six weights from Thin to Black, each with a matching italic. The proportions and weight range suit supermarket packaging, price tags and promotional display work as much as body copy, with sample text drawn from product ingredients lists and sale callouts. Released in 2020 and updated in 2022.",
+    "foundry_blurb": "Fontwerk describe Supermarker as designed to be a typographic influencer for retail, with a mission to sell. Designed by Ulrike Rausch and first released in 2020 with an update in 2022, it covers Latin script across six weights with italics."
+  },
+  {
+    "name": "Turbine",
+    "foundry": "Fontwerk",
+    "url": "https://fontwerk.com/en/fonts/turbine",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Turbine presents as a geometric sans-serif with clean, technically precise letterforms suggested by the product framing around engineering and mechanical precision. The even stroke weight and structured construction place it firmly in the geometric sans tradition.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Turbine"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "technical",
+      "precision",
+      "clean",
+      "editorial",
+      "corporate",
+      "modern"
+    ],
+    "summary": "A geometric sans-serif from Fontwerk built around technical precision, available in seven weights each with a matching italic.",
+    "description": "Fourteen styles span seven weights from Thin to ExtraBold, each paired with an italic, giving the family solid coverage for both text and display work. The design leans into a technically precise aesthetic, making it well suited to engineering, scientific and corporate contexts. Clean proportions and controlled stroke contrast keep it legible at small sizes while the heavier weights hold their own at headline scale.",
+    "foundry_blurb": "Fontwerk describe Turbine as a typeface defined by technical precision that leaves a lasting impression, positioning it as a versatile family for demanding typographic applications."
+  }
+]

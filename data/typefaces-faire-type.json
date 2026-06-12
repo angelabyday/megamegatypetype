@@ -1,0 +1,291 @@
+[
+  {
+    "name": "Sprig",
+    "foundry": "Faire Type",
+    "url": "https://www.fairetype.com/collections/sprig",
+    "designer": "Sabrina Nacmias",
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Sprig draws from Cheltenham's old-style and transitional roots but updates proportions toward a more geometric, contemporary serif; the companion sans and mono subfamilies extend the collection beyond pure serif territory.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Super"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sprig",
+      "Sprig Sans",
+      "Sprig Sans Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "geometric",
+      "friendly",
+      "cheltenham-revival",
+      "editorial",
+      "workhorse",
+      "superfamily"
+    ],
+    "summary": "A contemporary serif family by Sabrina Nacmias, loosely reviving Cheltenham but updated toward geometric proportions, with a matching sans and monospaced companion.",
+    "description": "Sprig retains key details from Bertram Grosvenor Goodhue's Cheltenham, including the open-counter g and round teardrop terminals, while updated proportions make it more legible at text sizes. Eight weights from Hairline to Super run across all three subfamilies, allowing Sprig, Sprig Sans and Sprig Sans Mono to be mixed freely without visual discord. OpenType features include swash caps, ligatures and alternate glyphs, broadening its range for editorial and identity applications.",
+    "foundry_blurb": "Faire Type describe Sprig as a contemporary serif inspired by early Cheltenham, begun as a revival before evolving into something more modern and geometric. The collection includes Sprig Sans, a friendly geometric grotesk with matching proportions drawn alongside the serif, and Sprig Sans Mono. Together the three families share weights and letterform logic, allowing harmonious pairing across any configuration."
+  },
+  {
+    "name": "Octave",
+    "foundry": "Faire Type",
+    "url": "https://www.fairetype.com/collections/octave",
+    "designer": "Maxime Gau",
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "old style serif",
+    "classification_notes": "A revival of Beaudoire's French Elzevir, itself a 19th-century interpretation of Oldstyle forms. Features translation-axis contrast consistent with broad-nib calligraphic origins, placing it firmly within the humanist old style tradition.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Octave",
+      "Octave Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "oldstyle",
+      "revival",
+      "french",
+      "elzevir",
+      "editorial",
+      "elegant",
+      "historical",
+      "book"
+    ],
+    "summary": "A revival of Théophile Beaudoire's 19th-century French Elzevir type, drawn by Maxime Gau from an 1898 book source with a Text and Display subfamily across seven weights.",
+    "description": "Based on Beaudoire's Elzévir as it appeared in Albert Soubies's Histoire de La Musique en Russie (1898), the design preserves the translation-axis contrast, compact serifs and heavy bowls that characterise the French Old Style tradition. Seven weights from Hairline to Black run across both the text-oriented Octave and the optically adjusted Octave Display, each with matching italics added in March 2025. The 28-style family sits well in literary publishing and editorial contexts where a cool, classically French register is wanted.",
+    "foundry_blurb": "Faire Type describe Octave as a revival of Beaudoire's Elzevir, tracing the style back to Louis Perrin's 1846 Lyons capitals and Beaudoire's landmark 1858 expansion of that idea into a full Oldstyle typeface. The revival is sourced from an 1898 printing, kept faithful to the original with optical refinements, and features translation-style contrast, small serifs and heavy bowls. Engineering by Sabrina Nacmias, with releases spanning January 2023 through March 2025."
+  },
+  {
+    "name": "Print Collection",
+    "foundry": "Faire Type",
+    "url": "https://www.fairetype.com/collections/print",
+    "designer": "Sabrina Nacmias",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The serif family in the collection draws on pointed-pen calligraphic influence, producing a slightly condensed roman with contrast logic rooted in copperplate tradition, placing it within a transitional or calligraphic serif subcategory.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Text",
+      "Fine"
+    ],
+    "subfamilies": [
+      "Print Script",
+      "Print Script Text",
+      "Print Script Slab",
+      "Print",
+      "Print Text",
+      "Print Slab",
+      "Print Sans",
+      "Print Sans Text",
+      "Print Sans Fine"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "calligraphic",
+      "copperplate",
+      "editorial",
+      "branding",
+      "type-system",
+      "script",
+      "serif",
+      "sans-serif"
+    ],
+    "summary": "A three-family type system by Sabrina Nacmias drawing on copperplate calligraphy, spanning a connected script, a slightly condensed serif and a contemporary sans-serif across seven weights and multiple optical sizes.",
+    "description": "Designed by Sabrina Nacmias and released in September 2025, the Print Collection unites a connected script, a pointed-pen serif and a sans-serif through shared proportions, contrast logic and weight structure. Each family runs from Hairline to Black with optical size axes covering display and text contexts, producing 84 styles across the three subfamilies. Together they support 93 languages including Vietnamese, making the system well suited to multilingual editorial and identity work.",
+    "foundry_blurb": "Faire Type describe the Print Collection as a cohesive type system of three families drawn in dialogue with one another, exploring the balance between calligraphic rhythm and digital precision. Print Script reinterprets copperplate calligraphy with a connected flow and crisp structures; Print translates the same pointed-pen influence into a slightly condensed roman for text and display; and Print Sans carries shared proportions and contrast logic into a contemporary sans-serif for pairing across styles. All three span Hairline to Black with optical size axes and collectively support 93 languages including Vietnamese."
+  },
+  {
+    "name": "Luma",
+    "foundry": "Faire Type",
+    "url": "https://www.fairetype.com/collections/luma",
+    "designer": "Maxime Gau, Sabrina Nacmias",
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "reverse contrast serif",
+    "classification_notes": "Luma Standard is a proportional serif with organic rounded serifs and modest contrast, while Luma Reverse flips contrast for display use; the family spans both conventional and reverse contrast designs, united by a variable font axis.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Luma",
+      "Luma Reverse",
+      "Luma Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "reverse-contrast",
+      "variable",
+      "organic",
+      "display",
+      "contemporary",
+      "rounded-serifs"
+    ],
+    "summary": "A variable serif family by Maxime Gau and Sabrina Nacmias that spans modest-contrast text to reverse-contrast display via a custom contrast axis.",
+    "description": "Born from an experiment in reforming monospaced geometry into something proportional and organic, Luma retains rounded serifs as evidence of that origin. A weight axis and a custom contrast axis let the variable font move continuously between Luma Standard, a workable text face with traditional proportions, and Luma Reverse, a reverse-contrast display cut built for large-scale work. A companion sans, Luma Sans, extends the family with eight weights and italics, released a year after the original.",
+    "foundry_blurb": "Faire Type describe Luma as a contemporary typeface family with organic round serifs and unexpected details, framed as an exercise in juxtaposition. The design began as a monospaced concept that was gradually transformed into a proportional typeface, with the organic serifs preserved throughout. A custom contrast axis connects Luma Standard to Luma Reverse, and the variable font allows movement between all weights and contrast extremes in a single file."
+  },
+  {
+    "name": "Link",
+    "foundry": "Faire Type",
+    "url": "https://www.fairetype.com/collections/link",
+    "designer": "Maxime Gau",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "geometric rounded",
+    "classification_notes": "A geometric, rounded display typeface with variable width axis and stencil/overlap subfamilies; the transparency of letterform construction and extreme width range push it firmly into display territory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Standard",
+      "Wide",
+      "Extra Wide"
+    ],
+    "subfamilies": [
+      "Link",
+      "Link Overlap",
+      "Link Stencil"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "stencil",
+      "variable",
+      "display",
+      "construction",
+      "width-axis",
+      "experimental"
+    ],
+    "summary": "A three-family geometric rounded collection by Maxime Gau that exposes digital letterform construction through an overlap variant and stretches across an extreme variable width axis.",
+    "description": "Designed by Maxime Gau and engineered by Sabrina Nacmias, the Link Collection comprises three related typefaces sharing identical skeletal forms. Link Overlap pulls back the curtain on digital font construction by making the underlying shape combinations visible, while Link Stencil evolved naturally from stencil alternates that accumulated during that process. All three run a single weight across a variable width axis from Condensed to Extra Wide, making them well-suited to expressive display work where structural curiosity and formal consistency matter equally.",
+    "foundry_blurb": "Faire Type describe the Link Collection as three geometric, rounded typefaces born from the question of how to highlight the construction of digital letterforms while exploring an extreme width axis. Link Overlap makes font architecture transparent by design; Link follows traditional construction but retains the distinctive character of its sibling; and Link Stencil emerged when stencil shapes naturally accumulated during development. All three share their skeletal forms and pair harmoniously."
+  },
+  {
+    "name": "Palme",
+    "foundry": "Faire Type",
+    "url": "https://www.fairetype.com/collections/palme",
+    "designer": "Maxime Gau",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described explicitly as a humanist sans serif, drawing inspiration from Roger Excoffon's Antique Olive and Fonderie Olive, placing it firmly in the humanist tradition with organic, characterful curves rather than geometric or grotesque neutrality.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Super"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Palme"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "excoffon",
+      "antique-olive",
+      "elegant",
+      "organic",
+      "variable",
+      "editorial",
+      "characterful"
+    ],
+    "summary": "A humanist sans inspired by Roger Excoffon and Fonderie Olive, with low x-height, tall ascenders and ink trap details across eight weights.",
+    "description": "Designed by Maxime Gau and released in January 2023, it takes Antique Olive as its spiritual forebear, translating Excoffon's expressive sensibility into a contemporary digital family. The low x-height and tall ascenders give it an elegance unusual among sans serifs, while subtle ink traps add texture at smaller sizes. All sixteen styles are available as variable fonts, covering a range from Hairline to Super.",
+    "foundry_blurb": "Faire Type describe Palme as a humanist sans serif with organic curves and subtle ink trap details, inspired by Roger Excoffon and Fonderie Olive and specifically positioned as carrying forward the legacy of Antique Olive. They highlight the low x-height, tall ascenders and wide weight range as contributing to its elegance and expressive range, and note that all Faire Type typefaces are available as variable fonts for flexibility and precision."
+  }
+]

@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Plat Mono",
+    "foundry": "Due Studio",
+    "url": "https://www.due-studio.com/typefaces/plat-mono",
+    "designer": "Alessio Pompadura",
+    "year": 2023,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "A strictly monospaced typeface built on geometric, monolinear modules within a parametric grid system, with optional slab serifs and circular bowls via stylistic sets.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Ultrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plat Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended-A"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "parametric",
+      "slab",
+      "display",
+      "grotesque",
+      "modular"
+    ],
+    "summary": "A geometric monospaced typeface built on a strict 10-unit grid, with intentional stem collisions in heavier weights that push glyphs towards abstracted shapes.",
+    "description": "Designed by Alessio Pompadura and released in 2023, Plat Mono runs four weights from Light to Ultrabold, each constructed from monolinear modules where glyph heights, stroke widths and spacing all adhere to a parametric grid. At heavier weights, overlapping stems create deliberate black spots that shift individual letters away from legibility and towards graphic form. Six stylistic sets allow the removal of slab serifs for a more grotesque register, the introduction of circular bowls, or a semi-mono variant with wider capitals, giving the family considerable range across body text and display settings.",
+    "foundry_blurb": "Due Studio describe Plat Mono as a modern and rational monospaced typeface whose geometric construction uses repeating monolinear modules within a parametric system based on a grid of 10 units. They note that in heavier weights the collisions between stems generate black spots that stress the concept of the letter, moving glyphs towards shape and adding tension to type compositions. The family's stylistic sets can be mixed to produce varied graphic outputs, from a grotesque register to circular bowls to semi-mono capitals."
+  },
+  {
+    "name": "Neue Brücke",
+    "foundry": "Due Studio",
+    "url": "https://www.due-studio.com/typefaces/neue-brucke",
+    "designer": "Massimiliano Vitti",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Described explicitly as a neo-grotesk with geometric construction, narrow letterforms and tight spacing; its stylistic sets oscillate between rational geometric and softer neo-grotesque forms.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Neue Brücke"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended-A"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "geometric",
+      "display",
+      "narrow",
+      "single-weight",
+      "avant-garde",
+      "opentype"
+    ],
+    "summary": "A narrow, single-weight neo-grotesque by Massimiliano Vitti, drawing on the woodcut lettering of Ernst Ludwig Kirchner and the geometric rigour of square-grid construction.",
+    "description": "Released by Due Studio in 2023, Neue Brücke takes its name from the German Expressionist group Die Brücke and references Kirchner's 1906 woodcut manifesto directly through one of its nine stylistic sets. The family ships in a single weight with 790 glyphs and a tight letter-spacing that gives it a dense, solid texture suited to display work. The stylistic sets shift the forms between rational geometry and softer neo-grotesque conventions, giving designers meaningful variation without additional weights.",
+    "foundry_blurb": "Due Studio describe Neue Brücke as a neo-grotesk with narrow letterforms and a clear geometric construction, released in one weight. Nine stylistic sets mix letters with fluid blacks ranging from the rational and geometric to the soft and neo-grotesque, with one set dedicated to a redesign of the letters Kirchner engraved in his 1906 woodcut manifesto. Dense spacing and 790 glyphs with Latin Extended-A support make it a display-focused face."
+  },
+  {
+    "name": "Grotta",
+    "foundry": "Due Studio",
+    "url": "https://www.due-studio.com/typefaces/grotta",
+    "designer": "Alessio Pompadura, Massimiliano Vitti, Amelie Schaeberle",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Described by the foundry as a neo-grotesque with strong geometric accent and tight apertures, referencing Venus-Grotesk and Monotype Grotesque as historical touchstones. The combination of geometric rigidity and sharp contrast places it firmly in the neo-grotesque subcategory.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grotta"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended-A"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "geometric",
+      "display",
+      "text",
+      "contemporary",
+      "sharp",
+      "italian"
+    ],
+    "summary": "An Italian neo-grotesque with tight apertures and geometric sharpness, drawing on Venus-Grotesk and Monotype Grotesque for a contemporary edge.",
+    "description": "Designed by Alessio Pompadura and Massimiliano Vitti, with a 2024 revision by Amelie Schaeberle, Grotta pairs geometric structure with sharp contrast and closed apertures to create a dynamic tension across its seven weights. The family runs from Light to Heavy with matching italics and four stylistic sets offering alternate forms. It works across both display and text settings, though its expressive character pulls most naturally towards headline use.",
+    "foundry_blurb": "Due Studio describe Grotta as an irreverent contemporary neo-grotesque with strong geometric accent and sharp contrast. Characterised by tight apertures and a dynamic overall feeling, they position it as their interpretation of the 21st-century grotesque, exuberant and irruptive, winking at historical references such as Venus-Grotesk and Monotype Grotesque. Available in seven weights from Light to Heavy with corresponding italics and extended OpenType features."
+  },
+  {
+    "name": "Autaut Grotesk",
+    "foundry": "Due Studio",
+    "url": "https://www.due-studio.com/typefaces/autaut-grotesk",
+    "designer": "Alessio Pompadura",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Explicitly described as neo-grotesque, drawing on 1960s Swiss modernist typographic standards with geometric construction and organic, sharp-cut terminals.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Autaut Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended-A"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "swiss modernism",
+      "geometric",
+      "display",
+      "editorial",
+      "opentype"
+    ],
+    "summary": "A neo-grotesque from Alessio Pompadura that pairs Swiss modernist geometry with sharp, angular terminals for a composed but tense letterform.",
+    "description": "Released in 2021, the typeface takes 1960s Swiss modernism as its starting point but introduces angular connections between curves and stems that give individual letters a sharpness not typical of the tradition. Five weights run from Regular to Black, and seven stylistic sets allow for adaptation across different design contexts. Over 730 glyphs cover Latin Extended-A, making it suitable for Western, Central and South Western European languages as well as Afrikaans.",
+    "foundry_blurb": "Due Studio describe Autaut Grotesk as a neo-grotesque that draws on the aesthetics and typographic standards of 1960s Swiss modernism, reworked for a contemporary perspective. The design alternates subtle geometric construction with organic, sharp-cut terminals and angular connections between curves and stems, adding tension and detail to the letters. The family consists of five styles from Regular to Black, offers more than 730 glyphs, multiple stylistic sets, and supports Latin Extended-A."
+  },
+  {
+    "name": "Slack",
+    "foundry": "Due Studio",
+    "url": "https://www.due-studio.com/typefaces/slack-light",
+    "designer": "Massimiliano Vitti",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "Described by the foundry as a contemporary serif with tight apertures and elastic serif construction; sits between classical serif tradition and expressive, idiosyncratic alternates.",
+    "weights": [
+      "Light"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Slack"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended-A"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "contemporary",
+      "elegant",
+      "alternates",
+      "stylistic-sets",
+      "single-weight",
+      "editorial"
+    ],
+    "summary": "A single-weight contemporary serif by Massimiliano Vitti whose elastic serif terminals mimic the flex of slackline webbing underfoot.",
+    "description": "Designed by Massimiliano Vitti and released in 2020, Slack draws its formal logic from the movement of slackline webbing, translating that oscillating tension into curved, elastic serifs with tight apertures. Available only in Light, the family compensates for its narrow weight range with over 530 glyphs and twenty stylistic sets that shift the character between rounded classicism and sharper, edgier alternates. Coverage extends across Latin Extended-A, supporting Western, Central and South-Western European languages plus Afrikaans.",
+    "foundry_blurb": "Due Studio describe Slack as a contemporary serif that simulates the movement of slackline webbing in motion, resulting in curved, round forms with an elastic quality to the serifs. Tight apertures lend it a deceptively classicist tone, while a broad range of stylistic alternates introduce a straighter, more angular character. The single Light weight comes with 530+ glyphs and supports the Latin Extended-A block."
+  },
+  {
+    "name": "Lay Grotesk",
+    "foundry": "Due Studio",
+    "url": "https://www.due-studio.com/typefaces/lay-grotesk",
+    "designer": "Massimiliano Vitti",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A contemporary neo-grotesque in the Swiss tradition, drawing directly from Helvetica, Neue Haas Grotesk and Folio, with a deliberate softening of classical rigidity through increased contrast and slightly reduced letter widths.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lay Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended-A"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "neo-grotesque",
+      "swiss",
+      "neutral",
+      "corporate",
+      "editorial",
+      "geometric",
+      "display"
+    ],
+    "summary": "A five-weight neo-grotesque by Massimiliano Vitti that softens the rigidity of Helvetica and Folio through increased contrast and slightly reduced letter widths.",
+    "description": "Drawing from Swiss milestones such as Helvetica and Neue Haas Grotesk, Lay Grotesk retains the neutrality of that tradition while introducing a more evident stroke contrast that rounds off the harder edges. At text sizes the reduced width improves density and readability; at display sizes straight-cut terminals assert a geometric, almost digital quality. The family comprises five weights from Regular to Black, with 785 glyphs including stylistic sets, discretionary ligatures and case-sensitive forms across Latin Extended-A.",
+    "foundry_blurb": "Due Studio describe Lay Grotesk as a contemporary sans serif that reinterprets milestone grotesques including Helvetica, Neue Haas Grotesk and Folio. It carries the idea of Swiss neutrality while smoothing out rigidity through more evident contrast, and works across book design, corporate identity and poster design. The name reflects its ambition: a timeless typeface for everyone."
+  },
+  {
+    "name": "Decay",
+    "foundry": "Due Studio",
+    "url": "https://www.due-studio.com/typefaces/decay",
+    "designer": "Alessio Pompadura",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Described as a modern serif with eccentric pointed serifs, sinuous curves and drastic ligatures; variable serif-angle axis and high contrast make it firmly a display typeface despite some claimed text utility.",
+    "weights": [
+      "White"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Decay"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended-A"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "variable",
+      "decadent",
+      "high-contrast",
+      "ligatures",
+      "expressive",
+      "editorial"
+    ],
+    "summary": "A high-contrast display serif by Alessio Pompadura drawing on Decadent Movement aesthetics, with pointed serifs, dramatic ligatures and a variable axis controlling serif angles.",
+    "description": "Released in 2020 as a single weight called Decay White, the family offers two serif cut styles, Std and Alt, alongside a variable font in which the serif angles can be adjusted across a continuous axis. Sinuous curves meet eccentric pointed terminals and multi-letter ligatures in a design that sits somewhere between decorative and functional. With 450+ glyphs covering Latin Extended-A, it suits editorial headlines and display contexts where an unsettling, fin-de-siècle register is wanted.",
+    "foundry_blurb": "Due Studio describe Decay as a modern serif that channels the idiosyncratic philosophy of the Decadent Movement into a darkest-future aesthetic, blending sinuous curves with eccentric pointed serifs and drastic ligatures across both single and multiple letters. They position it on the border between irrational aesthetics and rational function, noting its contrast makes it suited to display use while remaining workable at medium to small sizes."
+  },
+  {
+    "name": "Analo Grotesk",
+    "foundry": "Due Studio",
+    "url": "https://www.due-studio.com/typefaces/analo-grotesk",
+    "designer": "Alessio Pompadura, Massimiliano Vitti",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "pixel",
+    "classification_notes": "A pixel-based display typeface that borrows grotesque proportions but is fundamentally structured on a grid; the 45-degree module rotation in curves and stems places it firmly in the display category rather than a conventional grotesque.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Analo Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "pixel",
+      "grotesk",
+      "grid",
+      "display",
+      "eccentric",
+      "pop",
+      "experimental"
+    ],
+    "summary": "A pixel typeface by Alessio Pompadura and Massimiliano Vitti that rotates its grid modules 45 degrees to soften the jagged edges typical of bitmap fonts.",
+    "description": "Where conventional pixel fonts produce stepped, angular curves, Analo Grotesk tilts its modules to 45 degrees on inclined stems and curves, creating a hybrid system that retains grid logic while rounding the overall texture. The grotesque proportions give it structural familiarity, while the 269-glyph set includes eccentric alternates and pop iconography that push it toward expressive display use. Released in 2019 by the Italian studio Due Studio, it sits between type experiment and working display face.",
+    "foundry_blurb": "Due Studio describe Analo Grotesk as a non-conventional pixel typeface that blends grid rigidity with grotesque character. Its defining feature is the 45-degree rotation of modules on inclined stems and curves, which produces a promiscuous system within individual letters and results in shapes less jagged than a classic pixel font. The set covers 269 glyphs, including eccentric alternates and dirty pop icons."
+  },
+  {
+    "name": "Kovskij Display",
+    "foundry": "Due Studio",
+    "url": "https://www.due-studio.com/typefaces/kovskij-display",
+    "designer": "Massimiliano Vitti",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Described explicitly as a monospaced geometric typeface with a futuristic character; its grid-like, pattern-oriented design places it firmly in the display category rather than functional mono usage.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kovskij Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended-A"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "monospaced",
+      "display",
+      "futuristic",
+      "avant-garde",
+      "pattern",
+      "tribute"
+    ],
+    "summary": "A monospaced geometric display face by Massimiliano Vitti, conceived as a tribute to the Russian Futurist poet Vladimir Mayakovsky.",
+    "description": "Designed in 2021 by Massimiliano Vitti, the face takes its cues from Mayakovsky's revolutionary sharpness, translating that energy into a geometric grid where letterforms edge toward graphic patterning rather than conventional text. A single Regular weight is offered with two stylistic set options, covering Latin Extended-A. The result sits closer to visual texture and poster work than to running copy.",
+    "foundry_blurb": "Due Studio describe Kovskij Display as a monospaced geometric typeface and a tribute to Vladimir Mayakovsky, his blade-sharp words and revolutionary thought. They note its futuristic design investigates new forms of written language, shifting typesetting toward the idea of a graphic pattern rather than text."
+  },
+  {
+    "name": "Nodo",
+    "foundry": "Due Studio",
+    "url": "https://www.due-studio.com/typefaces/nodo",
+    "designer": "Alessio Pompadura, Massimiliano Vitti",
+    "year": 2017,
+    "category": "display",
+    "subcategory": "geometric modular",
+    "classification_notes": "Nodo is a modular display typeface with a monospaced grid structure; its geometric construction and expressive rhythm of forms place it firmly in the display category with a geometric modular subcategory.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nodo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended-A"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "geometric",
+      "display",
+      "monospace",
+      "grid",
+      "experimental",
+      "rational"
+    ],
+    "summary": "A monospaced display typeface built on a modular grid, where rotated and repositioned units produce forms that shift between soft and angular.",
+    "description": "Designed by Alessio Pompadura and Massimiliano Vitti and first released in 2017, Nodo draws on modular alphabet geometries to construct a monospaced grid-based display face. The rotation and placement of modules within the grid generates varied letterforms, some rounded and sinuous, others rigid and squared, producing a rhythmic contrast between black and white areas. Stylistic sets extend the expressive range, and the face maintains legibility even at smaller sizes despite its experimental construction.",
+    "foundry_blurb": "Due Studio describe Nodo as a display typeface inspired by modular alphabet geometries, built around a rational grid aesthetic that preserves legibility even at small sizes. The rigidity of the grid, within which modules are rotated and positioned, generates constantly renewed forms ranging from soft and sinuous to stiff and squared. The resulting rhythm between black and white creates what they call an arithmetical dissimilarity, as if characters from different alphabets had been combined."
+  },
+  {
+    "name": "PVF Display",
+    "foundry": "Due Studio",
+    "url": "https://www.due-studio.com/typefaces/pvf-display",
+    "designer": "Alessio Pompadura, Massimiliano Vitti",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "An all-caps modular geometric typeface built on a grid system with juxtaposed straight and curved segments, intended explicitly for display use with a single weight.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "PVF Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modular",
+      "display",
+      "all-caps",
+      "grid-based",
+      "experimental"
+    ],
+    "summary": "An all-caps modular geometric display face built on a grid of interlocking straight and curved segments that generate tangents and overlaps across 565 glyphs.",
+    "description": "Designed by Alessio Pompadura and Massimiliano Vitti and first released in 2019, PVF Display constructs each letter from a grid where straight and curved segments meet in tangencies and overlaps, producing a dense, systematic visual texture. The typeface supports Latin-1 Supplement and ships with four stylistic sets offering alternate constructions within the same modular logic. Its single-weight, all-caps nature makes it purpose-built for headlines and identity work where structural rigour is the point.",
+    "foundry_blurb": "Due Studio describe PVF Display as an all-caps geometric and modular typeface with 565 glyphs supporting the Latin-1 Supplement block. They explain that letter construction begins from a grid, with straight and curved segments juxtaposed to create a complex system of signs made up of tangents and overlaps suited to display use."
+  }
+]

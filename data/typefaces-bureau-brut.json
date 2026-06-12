@@ -1,0 +1,720 @@
+[
+  {
+    "name": "Boogy Brut",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/boogy-brut",
+    "designer": "Julien Priez, Yoann Minet",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "calligraphic serif",
+    "classification_notes": "Rooted in calligraphic traditions referencing Oscar Ogg and Berthold Wolpe, Boogy Brut synthesises written letterform structures into sharp, digitally refined serif shapes without reproducing handmade imperfections, placing it firmly in the calligraphic serif category.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Poster"
+    ],
+    "subfamilies": [
+      "Boogy Brut",
+      "Boogy Brut Wild",
+      "Boogy Brut Poster"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "calligraphic",
+      "serif",
+      "display",
+      "poster",
+      "lettering",
+      "expressive",
+      "editorial",
+      "text"
+    ],
+    "summary": "A calligraphic serif family by Julien Priez and Yoann Minet spanning text, poster and decorative 'Wild' subfamilies, each with a distinct formal approach.",
+    "description": "Developed from Julien Priez's research into calligraphic models informed by Oscar Ogg and Berthold Wolpe, the family distils structural qualities of written letterforms into sharp digital shapes free of tool-and-paper imperfections. Three subfamilies serve distinct purposes: the text subfamily carries OpenType features and extended character support for small sizes; the Poster subfamily is optimised for tight display spacing with organic letter-to-letter transitions; and the Wild cuts approach initialled lettering at the border of type and graphic art. Ten styles cover Light through Bold with matching italics across the main family.",
+    "foundry_blurb": "Bureau Brut describe Boogy Brut as a collaboration with calligrapher and type designer Julien Priez (Boogy Paper), a member of the High On Type collective. They frame it as a true contemporary digital typographic family rather than a calligraphy-influenced typeface, noting that its sharply modelled shapes retain the structural qualities of written models while eliminating the imperfections of physical tools and paper. The family spans three subfamilies — text, Poster and Wild — each with a specific formal approach, from drop caps and poster type to small-size text setting."
+  },
+  {
+    "name": "Boogy Brut Poster",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/boogy-brut-poster",
+    "designer": "Julien Priez & Yoann Minet",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "calligraphic display",
+    "classification_notes": "A display subfamily of the Boogy Brut family, rooted in calligraphic structure but stripped of handmade imperfection; its sharply modelled shapes and tight-fitting finials make it primarily a poster and headline face rather than a text or script typeface.",
+    "weights": [
+      "White",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Poster"
+    ],
+    "subfamilies": [
+      "Boogy Brut Poster White",
+      "Boogy Brut Poster Black"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "calligraphic",
+      "display",
+      "poster",
+      "expressive",
+      "editorial",
+      "high-contrast",
+      "organic"
+    ],
+    "summary": "A display subfamily of Boogy Brut by Julien Priez and Yoann Minet, built around calligraphic structure with sharply modelled forms tuned for tight poster setting.",
+    "description": "Available in White and Black, each with a matching italic and a Wild ornamental cut, the Poster subfamily sits closest to its calligraphic source material within the broader Boogy Brut family. Finials are drawn to allow very close spacing so letter transitions remain organic, and some pairs produce natural ligatures when set touching. A Wild variant pushes the design toward initials territory, where legibility yields to graphic expression.",
+    "foundry_blurb": "Bureau Brut describe Boogy Brut Poster as the display-oriented subfamily of Boogy Brut, a collaboration between Julien Priez (aka Boogy Paper) and Yoann Minet. Released with Romans in 2020 and Italics in 2022, the Poster subfamily is the calligraphically closest of the three subfamilies, with shapes fine-tuned for narrow fit, organic letter transitions and near-ligature connections between adjacent letters."
+  },
+  {
+    "name": "Boogy Brut Wild",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/boogy-brut-wild",
+    "designer": "Julien Priez & Yoann Minet",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "display script",
+    "classification_notes": "Boogy Brut Wild is positioned as an ornamental initials-style subfamily within a calligraphy-rooted family, designed explicitly to push beyond legibility toward graphic and artistic expression, placing it firmly in display territory.",
+    "weights": [
+      "White",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Boogy Brut",
+      "Boogy Brut Wild",
+      "Boogy Brut Poster"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "calligraphic",
+      "display",
+      "initials",
+      "expressive",
+      "ornamental",
+      "poster",
+      "lettering"
+    ],
+    "summary": "An ornamental initials subfamily by Julien Priez and Yoann Minet, pushing calligraphic structure toward pure graphic art rather than conventional legibility.",
+    "description": "Two styles, White and Black, make up the Wild subfamily of Boogy Brut, a family rooted in the calligraphic research of Julien Priez. Where the Poster and text subfamilies retain functional legibility, Wild is drawn in the tradition of decorative initials, sitting at the boundary between type design and autonomous graphic work. Its sharply modelled forms strip away handmade imperfections to produce a contemporary digital object rather than a historical revival.",
+    "foundry_blurb": "Bureau Brut describe Boogy Brut Wild as designed like initials, departing from any quest for legibility and instead treading the boundaries between graphic design and pure art. The family as a whole emerged from a collaboration between calligrapher and type designer Julien Priez, aka Boogy Paper, and Bureau Brut, with Priez's approach informed by designers such as Oscar Ogg and Berthold Wolpe."
+  },
+  {
+    "name": "Bourrasque",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/bourrasque",
+    "designer": "Yoann Minet",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "Bourrasque is a display typeface built around an extreme 45° slant, combining italic and rotalic principles where each stroke tilts independently rather than the whole glyph rotating. Its radical angle and conceptual underpinning place it firmly in the experimental display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bourrasque Regular",
+      "Bourrasque 45 Ouest",
+      "Bourrasque 45 Est"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "slanted",
+      "rotalic",
+      "conceptual",
+      "french",
+      "expressive"
+    ],
+    "summary": "A three-style display family by Yoann Minet built around a 45° slant, using a hybrid italic-rotalic technique where individual strokes tilt independently along a shared baseline.",
+    "description": "Designed in 2014 and published by Bureau Brut in 2018, Bourrasque extends earlier research into extreme angles begun with Ostia Antica, itself already slanted at 35°. The family comprises three styles: a Regular and two 45° variants named Ouest and Est for their opposing directions of lean. Rather than rotating each glyph as a whole, every stroke is slanted independently while remaining anchored to the baseline, producing a kinetic visual energy that gives the family its name, a French word for a sudden gust of wind.",
+    "foundry_blurb": "Bureau Brut describe Bourrasque as the answer to a design challenge: can a typeface be slanted at 45°? Designed by Yoann Minet, the family extends italic experimentation from Ostia Antica and combines italic and rotalic techniques, tilting each stroke individually rather than rotating entire glyphs. The three styles, Regular, 45 Ouest and 45 Est, take their names from the wind metaphor running through the project, with Bourrasque itself being a French term for a sudden gust."
+  },
+  {
+    "name": "Brut Grotesque",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/brut-grotesque",
+    "designer": "Yoann Minet",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Designed with explicit reference to Helvetica, Akzidenz-Grotesk and Neue Haas Grotesk, positioning it firmly in the neo-grotesque tradition of neutral, impersonal sans-serifs seeking functional invisibility.",
+    "weights": [
+      "Line",
+      "Thin",
+      "Extralight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brut Grotesque",
+      "Brut Grotesque Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "neutral",
+      "workhorse",
+      "helvetica-influenced",
+      "functional",
+      "versatile",
+      "swiss"
+    ],
+    "summary": "A deliberately neutral neo-grotesque spanning ten weights with italics, conceived as Bureau Brut's own workhorse typeface and inspired by Helvetica, Akzidenz-Grotesk and Neue Haas Grotesk.",
+    "description": "Designed by Yoann Minet from 2015 and first published in 2020, it aims for the proud impersonality associated with the Swiss neo-grotesque tradition, keeping the typeface subordinate to the content it carries. The family runs from Line to Black across 20 styles, all with italics, and is mirrored by a full Brut Grotesque Mono subfamily of equal weight range. It serves as the foundational typeface across Bureau Brut's broader type collections.",
+    "foundry_blurb": "Bureau Brut describe Brut Grotesque as an everyday partner: inconspicuous, sturdy and efficient, inspired by Helvetica and the classical neo-grotesque tradition including Folio, Akzidenz-Grotesk and Neue Haas Grotesk. They liken it not to Beatrice Warde's crystal goblet but to a Duralex tumbler: transparent, sturdy and almost unbreakable. Originally conceived as the foundry's own signature typeface, it forms the foundation for every type collection they have developed since."
+  },
+  {
+    "name": "Brut Grotesque Mono",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/brut-grotesque-mono",
+    "designer": "Yoann Minet",
+    "year": 2026,
+    "category": "mono",
+    "subcategory": "grotesque mono",
+    "classification_notes": "A fixed-width companion to Brut Grotesque, inheriting its grotesque sans construction but constrained to monospaced metrics, making it a monospaced grotesque by both design lineage and functional intent.",
+    "weights": [
+      "Line",
+      "Thin",
+      "Extralight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brut Grotesque Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "grotesque",
+      "technical",
+      "data",
+      "programming",
+      "fixed-width",
+      "neutral",
+      "versatile"
+    ],
+    "summary": "A monospaced companion to Brut Grotesque, designed for technical contexts where text aligns to a grid, with the same ten-weight range and character set as its proportional sibling.",
+    "description": "Designed by Yoann Minet and published by Bureau Brut, this fixed-width grotesque carries over the sturdy, understated character of Brut Grotesque into monospaced form. Twenty styles run from Line to Black with matching italics across each weight, making it a direct complement to the proportional family. Bureau Brut use it for technical elements in their own visual identity, positioning it for code, spreadsheets, data display and ASCII work.",
+    "foundry_blurb": "Bureau Brut describe Brut Grotesque Mono as the monomaniac brother of Brut Grotesque, retaining the same design spirit and weight range while introducing the voluntary restraint of monospaced construction. They intend it for contexts where text becomes a grid: programming, spreadsheets, data management and ASCII art. It shares the same character set as Brut Grotesque, allowing both to be used complementarily, and it forms part of Bureau Brut's own visual identity for technical elements and notes."
+  },
+  {
+    "name": "Droulers",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/droulers",
+    "designer": "Yoann Minet",
+    "year": 2017,
+    "category": "mono",
+    "subcategory": "typewriter-inspired slab",
+    "classification_notes": "Droulers is monospaced with rectangular serifs and no stroke contrast, directly referencing the typewriter aesthetic. It qualifies as a slab mono, where the slab details are reinterpreted from typewriter imperfections rather than conventional slab tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Droulers",
+      "Droulers Clarendon"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "typewriter",
+      "slab",
+      "archival",
+      "editorial",
+      "calligraphic-italic",
+      "retro",
+      "french"
+    ],
+    "summary": "A monospaced typeface by Yoann Minet that translates typewriter imperfections, such as ink fill and merged serifs, into precise vector drawing rules.",
+    "description": "Designed in 2016 and published by Bureau Brut in 2017, Droulers takes the physical accidents of typewriter mechanics, closed counterpunches, serifs sticking together, uneven ink deposit, and codifies them as consistent design decisions rather than nostalgia. The italic is a genuine calligraphic italic, not a slanted roman, with each character finding its own angle. The family was originally commissioned for a retrospective publication on choreographer Pierre Drouler, and the archive of typewritten documents underpins its character.",
+    "foundry_blurb": "Bureau Brut describe Droulers as a contemporary interpretation of the typewriter aesthetic rather than an imitation, with its characteristic imperfections, ink fill, closed counters and conjoined serifs, redrawn as vectorial rules. The italic is a true italic with calligraphic elements, not a mere slant. Designed by Yoann Minet in 2016, the typeface originated as a commission for a retrospective on dancer and choreographer Pierre Drouler, drawing specifically from his typewritten archives."
+  },
+  {
+    "name": "Droulers Clarendon",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/droulers-clarendon",
+    "designer": "Yoann Minet",
+    "year": 2024,
+    "category": "slab",
+    "subcategory": "clarendon",
+    "classification_notes": "The foundry explicitly positions this within the Clarendon/Ionic slab serif tradition, characterised by bracketed rectangular serifs and stronger stroke contrast than a typical egyptian. Bureau Brut categorises slab serifs as Clarendons/Ionics, which maps directly to this subcategory.",
+    "weights": [
+      "Line",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Droulers Clarendon"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "clarendon",
+      "slab-serif",
+      "19th-century",
+      "editorial",
+      "text",
+      "bracketed-serifs",
+      "conceptual",
+      "french"
+    ],
+    "summary": "A Clarendon-style companion to the typewriter-inspired Droulers, conceived as a fictional 19th-century ancestor of that family.",
+    "description": "Designed by Yoann Minet and published by Bureau Brut in 2024, Droulers Clarendon imagines the typographic source that might have existed before Droulers, framed as an uchronian hypothesis: what Droulers would have derived from had it been used on a Remington No.2 in 1878. It follows Clarendon and Ionic conventions with bracketed rectangular serifs and increased stroke contrast, while retaining the closed counterpunches and merged serifs that define its companion. The 16-style family runs across eight weights from Line to Black with matching italics, and proportional spacing makes it better suited to sustained text than the original Droulers.",
+    "foundry_blurb": "Bureau Brut describe Droulers Clarendon as a continuation of Droulers, inspired by 19th-century press typography and the Clarendon/Ionic tradition. They frame it as a fantasised prequel: a uchronian hypothesis asking what the source of Droulers would have looked like if it had been used on a Remington No.2 typewriter in 1878. The result keeps Droulers' formal specificities, including filled letters and merging serifs, while adding bracketed rectangular serifs, stronger contrast and proportional spacing for warmer, more flexible text setting."
+  },
+  {
+    "name": "Matorral",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/matorral",
+    "designer": "Yoann Minet",
+    "year": 2019,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Matorral draws on late 19th and early 20th century typeface traditions, with modelled, sculptural letterforms and moderate contrast that place it firmly in the humanist serif camp, referencing sources such as Ehmcke Antiqua and Caxton Old Style.",
+    "weights": [
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Matorral"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "editorial",
+      "text",
+      "mediterranean",
+      "historical-reference",
+      "crafted",
+      "mineral",
+      "arts-and-crafts"
+    ],
+    "summary": "A sculpted humanist serif with compact proportions and Mediterranean character, designed by Yoann Minet and originally commissioned for a pottery museum identity.",
+    "description": "Originally created as a single weight for the Pottery Museum de La Borne, Matorral borrows specific details from historical sources including the t of Ehmcke Antiqua and the R of Caxton Old Style. Its letterforms are pruned and stocky, evoking arid Mediterranean scrubland rather than lush naturalistic ornament, with thickened stroke endings and moderate contrast suited to sustained text setting. Eight styles across four weights, each with matching italic, make it a capable workhorse that retains a distinctive handmade tension.",
+    "foundry_blurb": "Bureau Brut describe Matorral as a solid, almost mineral character shaped by the arid landscapes of the Mediterranean rather than lush nature. Designed by Yoann Minet and first released in 2019, it draws on Arts and Crafts era typefaces for its compact, modelled forms, and has been optimised for text composition with moderate contrasts and a substantial x-height across eight styles."
+  },
+  {
+    "name": "Ostia Antica",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/ostia-antica",
+    "designer": "Yoann Minet, Hugo Anglade",
+    "year": 2015,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A sans-serif grotesque drawing on 19th-century accidental grotesques for the lowercase and Johnston-derived Roman capitals, with an extreme 35-degree italic slant that sets it apart from conventional sans-serif construction.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ostia Antica"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "editorial",
+      "expressive",
+      "dissonant",
+      "19th-century",
+      "display",
+      "cultural",
+      "italian"
+    ],
+    "summary": "A deliberately discordant grotesque by Yoann Minet, with independently drawn capitals and lowercases and a radical 35-degree italic, originally made for a Pasolini exhibition catalogue.",
+    "description": "Originally drawn in collaboration with Spassky Fischer for a 2013 Cinémathèque française exhibition on Pasolini, the family pairs Johnston-proportioned monumental capitals with exaggerated 19th-century grotesque lowercases that have no logical structural continuity between them. Three weights, each individually drawn without linear interpolation, give the family a deliberately uneven typographic colour. The italic's 35-degree slant, far beyond the conventional 10-degree convention for sans-serifs, creates a distinct type colour treated as a material in its own right rather than a stylistic variation.",
+    "foundry_blurb": "Bureau Brut describe Ostia Antica as irreverent, tumultuous and sometimes unsettling, a typeface that claims instability and friction as virtues. Named after the beach where Pasolini was assassinated, it shares his taste for criticising the established order. Capitals were sketched independently of the lowercases, borrowing their proportions from Johnston's Roman capitals while the lowercases root themselves in vibrating 19th-century grotesques with deliberately exaggerated forms. The italic's extreme 35-degree slant, they note, makes fun of the digital era's computing slant while creating a wholly distinct typographic material."
+  },
+  {
+    "name": "Roman Grotesque",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/roman-grotesque",
+    "designer": "Yoann Minet",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Structured around a sans-serif skeleton with humanistic serif details grafted onto its letterforms, creating a hybrid that defies clean classification; closest to humanist sans with glyphic inflections rather than a true serif.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Roman Grotesque"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "hybrid",
+      "serif-grotesque",
+      "text",
+      "identity",
+      "calligraphic",
+      "french",
+      "organic"
+    ],
+    "summary": "A hybrid typeface by Yoann Minet that grafts humanistic serif details onto a grotesque skeleton, originally designed for the École Nationale Supérieure d'Architecture de Paris-Belleville.",
+    "description": "Designed in 2019 and released by Bureau Brut in 2021, the family runs across eight weights from Extralight to Black with matching italics, totalling 16 styles. The serifs become progressively less prominent as weight increases, so the lighter cuts read as text faces while the heavier ones perform well at display sizes. It was commissioned for an architecture school whose identity concept placed the human at the centre of construction, and that tension between the organic and the geometric is literal in the letter shapes.",
+    "foundry_blurb": "Bureau Brut describe Roman Grotesque as born from the tension between tradition and modernity, built on a sans-serif structure with humanistic details borrowed from serif characters. Designed by Yoann Minet, it was originally created for the visual identity of the École Nationale Supérieure d'Architecture de Paris-Belleville, around the concept of placing the human at the heart of construction. The family comprises 16 styles across eight weights with italic equivalents, and the serifs grow more discreet as the weight increases."
+  },
+  {
+    "name": "Round",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/round",
+    "designer": "Yoann Minet",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A geometric sans distinguished by bevelled 45° stroke terminals on rounded letterforms, creating an optical illusion of roundness at small sizes while retaining angular geometry up close. The construction principle — squares and circles in deliberate tension — places it firmly in the geometric sans tradition.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Round",
+      "Round Condensed",
+      "Round Ultra"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "bevelled",
+      "logotype",
+      "branding",
+      "optical-illusion",
+      "round",
+      "display",
+      "text"
+    ],
+    "summary": "A geometric sans by Yoann Minet built on the tension between circle and square, using 45° bevelled terminals that read as rounded at small sizes but reveal sharp angles under scrutiny.",
+    "description": "Designed by Yoann Minet and released by Bureau Brut in 2021, the typeface's defining move is in letters like b, d, p and q, where vertical strokes intersect rounded bowls at precise right angles with bevelled corners rather than true curves. At distance or small sizes the bevels resolve optically into softness; close up the geometry asserts itself. The collection extends to Round Condensed and Round Ultra, giving 42 styles in total across the three subfamilies, suited to logotypes, brand identities and extended text.",
+    "foundry_blurb": "Bureau Brut describe Round as the story of a beautiful contradiction — squaring the circle. The typeface achieves this through 45° bevelled stroke angles on otherwise round letterforms, so that corners optically soften at small sizes while retaining a graphic, geometrical character at display scale. The family is optimised for small-text legibility and extended across Round Condensed and Round Ultra for more radical applications."
+  },
+  {
+    "name": "Round Condensed",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/round-condensed",
+    "designer": "Yoann Minet",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A geometric sans built around circular letter forms that retain full width even within condensed proportions, with straight strokes crossing circular shapes to create a structural tension between geometry and fluidity.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Round",
+      "Round Ultra",
+      "Round Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "condensed",
+      "display",
+      "editorial",
+      "rounded",
+      "identity",
+      "contemporary"
+    ],
+    "summary": "A condensed companion to Round, designed so that circular letterforms retain their full width while every other character narrows, creating graphic tension between round and straight.",
+    "description": "Designed by Yoann Minet and released in 2024, Round Condensed keeps the circular letters of Round at their original size, allowing them to stand out against the narrowed characters around them. The family runs across seven weights from Light to Black, each with an italic, giving 14 styles in total. Intended for display use in titles, editorial layouts and visual identities, it is built to work in direct combination with Round, sharing the same circular forms across both families for mixed-size compositions.",
+    "foundry_blurb": "Bureau Brut describe Round Condensed as narrow in proportion yet faithful to Round's essence, where round letters retain their size. Circular shapes are crossed by straight strokes, giving the typeface a balance between fluidity and geometrical structure. The family is designed to complement Round directly, sharing the same round letterforms with only the metrics differing, and excels at display sizes for titles, editorial design and visual identities."
+  },
+  {
+    "name": "Round Ultra",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/round-ultra",
+    "designer": "Yoann Minet",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A geometric sans with strongly rounded terminals and tight spacing designed for display and title use, sharing letterforms with the Round family but with condensed ultra-wide-spacing metrics optimised for large sizes.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Round Ultra"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "display",
+      "editorial",
+      "titling",
+      "french",
+      "identity"
+    ],
+    "summary": "A display-focused companion to Round, sharing identical letterforms but with tighter metrics suited to titles and large-scale editorial work.",
+    "description": "Designed by Yoann Minet and published by Bureau Brut in 2025, Round Ultra is the display arm of the Round Collection, sitting alongside Round and Round Condensed. Its 14 styles span Light to Black with matching italics, and it shares round letterforms exactly with the text-optimised Round, making the two families interchangeable across different size registers. OpenType features include small caps, multiple figure sets, stylistic alternates for a, g and e, and an extensive range of enclosed letter and numeral sets.",
+    "foundry_blurb": "Bureau Brut describe Round Ultra as part of the Round Collection, designed to work in perfect complementarity with Round. The round letters are strictly identical across both families, with only the metrics differing. While Round suits body text and Round Condensed excels at display sizes, Round Ultra is made for even larger scales: titles, editorial design and visual identities, pushing the concept of squaring the round to its limits."
+  },
+  {
+    "name": "Totentanz",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/totentanz",
+    "designer": "Yoann Minet",
+    "year": 2017,
+    "category": "serif",
+    "subcategory": "didone",
+    "classification_notes": "Rooted in the Didone classification with high contrast and linear serifs, though deliberately departing from canonical elegance towards tombstone engraving and catacomb stencil references. The unconventional slanted styles further distinguish it from orthodox Didone models.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Totentanz"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "display",
+      "editorial",
+      "macabre",
+      "gothic",
+      "high-contrast",
+      "expressive",
+      "unconventional"
+    ],
+    "summary": "A Didone-derived typeface by Yoann Minet that replaces fashion-magazine elegance with tombstone inscription and catacomb stencil as its reference points, producing a three-style family whose slanted cuts contort letterforms rather than simply inclining them.",
+    "description": "Designed by Yoann Minet and published by Bureau Brut in 2017, Totentanz takes the Didone skeleton as a structural starting point but reduces contrast and increases sturdiness to suit running text as well as display use. In place of a conventional italic, the family offers a Slanted style whose strokes are crossed and deformed, and a Backslanted counterpart that leans the opposite direction, both drawing on the medieval Totentanz motif of Death paired with every rank of society. The conceptual framing is rigorous: the non-calligraphic, anti-cursive slanted styles are a direct rebuke to the hand gesture underlying most italic traditions.",
+    "foundry_blurb": "Bureau Brut describe Totentanz as a Didone-based family whose reference point is not the glossy Didone of fashion covers but the lapidary engravings on Parisian tombstones and the stencils found in the catacombs. The italic, renamed the Slanted style, is neither cursive nor simply inclined but deformed and tortured through a technique of crossing and sliding strokes, with a Backslanted version completing the trio. The concept draws on the medieval Death Dance motif, where Death takes everyone regardless of rank, here translated into the pairing of roman and slanted as an unavoidable duo."
+  },
+  {
+    "name": "Traulha",
+    "foundry": "Bureau Brut",
+    "url": "https://bureaubrut.com/family/traulha",
+    "designer": "Yoann Minet",
+    "year": 2017,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Traulha Regulara is a serif with deliberate contrast inversions on certain letters, rooted in humanist structure; the family also includes a sans (Lineara) and italic variants, but the primary design voice is a structured serif informed by the Occitan linguistic tradition.",
+    "weights": [
+      "Regulara",
+      "Italica",
+      "Lineara",
+      "Clinat",
+      "Jornau"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Traulha Regulara",
+      "Traulha Italica",
+      "Traulha Lineara",
+      "Traulha Clinat",
+      "Traulha Jornau"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Occitan"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "occitan",
+      "ligatures",
+      "cultural",
+      "serif",
+      "humanist",
+      "editorial",
+      "press",
+      "signage"
+    ],
+    "summary": "A five-style family by Yoann Minet conceived around the phonetic structures of Occitan, with a system of language-specific ligatures at its core.",
+    "description": "Designed as a final project at the Estienne School of Design in 2013 and published by Bureau Brut in 2017, Traulha takes its formal logic from Occitan diphthongs and recurring letter pairs such as 'lh' and 'nl', turning them into a set of structural ligatures. The flagship Regulara style introduces a selective inversion of stroke contrast on letters like 'o', 'e' and 's', giving the text a distinctive typographic rhythm without resorting to decorative regionalism. The family spans two serif styles, a sans, and two italics, covering use cases from body text in small editions to press and signage.",
+    "foundry_blurb": "Bureau Brut describe Traulha as a typeface family created to answer the question of whether a typeface dedicated to Occitan culture was possible. Rather than illustrating an aesthetic, designer Yoann Minet interrogated the language itself, structuring the family around Occitan diphthongs and ligatures. The result is a five-style family spanning serif, sans, and italic cuts, each tailored for specific applications from headlines to body text."
+  }
+]

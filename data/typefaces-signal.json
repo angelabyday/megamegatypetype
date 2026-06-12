@@ -1,0 +1,867 @@
+[
+  {
+    "name": "Auger Mono",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/auger-mono",
+    "designer": "Seán Mongey, Max Phillips",
+    "year": null,
+    "category": "mono",
+    "subcategory": "geometric monospaced",
+    "classification_notes": "A fixed-width typeface with strong geometric alternates alongside workmanlike grotesque construction; the monospaced category is primary, with geometric sans influences drawn from Leroy lettering templates and Depero.",
+    "weights": [
+      "X-Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Auger Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "grotesque",
+      "stylistic-alternates",
+      "technical",
+      "display",
+      "modular"
+    ],
+    "summary": "A fixed-width grotesque with an unusually broad set of stylistic alternates, shifting between plain utility and assertive geometry across six weights.",
+    "description": "Designed by Seán Mongey and Max Phillips, Auger Mono draws on Leroy lettering templates, Fortunato Depero's Bolted Book and classic grotesque jobbing faces to produce a monospaced type with a wide expressive range. Stylistic alternates let it move between workaday legibility and aggressively geometric forms without losing the open proportions that keep it readable. Six weights from X-Light to Black extend its usefulness across coding environments, editorial work and display settings alike.",
+    "foundry_blurb": "Signal describe Auger Mono as a fixed-width typeface that takes two roads at once: an array of alternates gives it stylistic range from plain and practical to aggressively geometric, with influences including old Leroy lettering templates, Fortunato Depero's Bolted Book and classic grotesk jobbing faces. Open proportions and workmanlike construction keep it balanced and readable even at its quirkiest, while six weights from X-Light to Black provide additional versatility."
+  },
+  {
+    "name": "Ballinger",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/ballinger",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Ballinger presents as a grotesque sans-serif with a wide range of widths from standard to extra-condensed, typical of utility-focused grotesque families designed for versatile typographic use.",
+    "weights": [
+      "Thin",
+      "X-Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "X-Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Condensed",
+      "X-Condensed"
+    ],
+    "subfamilies": [
+      "Ballinger",
+      "Ballinger Condensed",
+      "Ballinger X-Condensed",
+      "Ballinger Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "condensed",
+      "mono",
+      "utility",
+      "wide-range",
+      "workhorse"
+    ],
+    "summary": "A wide-ranging grotesque sans from Signal with standard, condensed and extra-condensed widths, italics throughout, and a companion monospaced family.",
+    "description": "Ballinger covers eight weights from Thin to Black across three widths, with italics for every standard weight, making it a genuinely flexible workhorse for editorial, branding and interface work. The condensed and extra-condensed cuts add nine weights each, giving designers tight columns and headline options without switching families. A dedicated mono subfamily rounds out the system, covering the same weight range for code or tabular contexts.",
+    "foundry_blurb": "Signal present Ballinger as a family spanning narrow, standard and mono subfamilies, with widths ranging from standard through condensed to extra-condensed and weights from Thin to Black throughout."
+  },
+  {
+    "name": "Dashiell",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/dashiell",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The family's three optical subfamilies — Text, Bright, and Fine — with their contrasting stroke modulation suggest a transitional or high-contrast serif designed for versatile editorial use across body and display sizes.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold",
+      "X-Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Bright",
+      "Fine"
+    ],
+    "subfamilies": [
+      "Dashiell Text",
+      "Dashiell Bright",
+      "Dashiell Fine"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "optical-sizes",
+      "text",
+      "display",
+      "magazine",
+      "publishing"
+    ],
+    "summary": "A serif family from Signal split across three optical variants — Text, Bright, and Fine — covering body copy through to high-contrast display settings.",
+    "description": "Three distinct optical subfamilies address different typographic contexts: Text and Bright offer full italic support across six weights from Regular to Black, whilst Fine runs from Light to Black in upright cuts only. The range of weights and optical tuning makes it well suited to editorial environments where a single type family must span long-form reading and headline work.",
+    "foundry_blurb": "Signal present Dashiell as a family of three subfamilies — Text, Bright, and Fine — each offering a range of weights with italic support across Text and Bright, and upright styles for Fine."
+  },
+  {
+    "name": "Exact",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/exact",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "A from-scratch reworking of Times New Roman, itself a transitional serif of the Morison/Monotype school. Signal's redraw retains the reticent, upright character of TNR while correcting its structural inconsistencies and adding a full weight range.",
+    "weights": [
+      "X-Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Exact"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "times-new-roman",
+      "editorial",
+      "newspaper",
+      "revival",
+      "natively-digital",
+      "text"
+    ],
+    "summary": "A ground-up redrawing of Times New Roman by Signal, correcting its structural inconsistencies and extending it into a coherent six-weight family with italic.",
+    "description": "Signal rebuilt Times New Roman from scratch as a natively digital typeface, smoothing out what they describe as 'unlumpy curves' and imposing the organic unity the original Drawing Office process never achieved. The italic sheds its corporate stiffness, the bold weights acquire a hint of 1970s ITC funk, and the X-Light carries a slight Olive Oyl elongation that was left deliberately intact. Seven styles across six weights make it a considered text family for editorial work that wants TNR's cool neutrality without its accumulated baggage.",
+    "foundry_blurb": "Signal describe Exact as a from-scratch redrawing of Times New Roman as a natively digital typeface for the 21st century. They cite the original's haphazard production process, art directed by Stanley Morison and executed by the Monotype Drawing Office with little apparent coordination, as the reason TNR was never quite right despite doing its job brilliantly. Their redraw corrects the curves, rethinks the italic, allows some 70s character into the bold weights, and names the face Exact in honour of the old practice of kerning with an X-Acto knife."
+  },
+  {
+    "name": "Field Gothic",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/field-gothic",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A gothic sans-serif family with numbered weight and width variants across Narrow, Standard and Wide subfamilies, consistent with American grotesque vernacular traditions.",
+    "weights": [
+      "№10",
+      "№11",
+      "№12",
+      "№13",
+      "№14",
+      "№15",
+      "№16",
+      "№17",
+      "№20",
+      "№21",
+      "№22",
+      "№23",
+      "№24",
+      "№25",
+      "№26",
+      "№27",
+      "№30",
+      "№31",
+      "№32",
+      "№33",
+      "№34",
+      "№35",
+      "№36",
+      "№37",
+      "№40",
+      "№41",
+      "№42",
+      "№43",
+      "№44",
+      "№45",
+      "№46",
+      "№47",
+      "№50",
+      "№51",
+      "№52",
+      "№53",
+      "№54",
+      "№55",
+      "№56",
+      "№57",
+      "№60",
+      "№61",
+      "№62",
+      "№63",
+      "№64",
+      "№65",
+      "№66",
+      "№67",
+      "№70",
+      "№71",
+      "№72",
+      "№73",
+      "№74",
+      "№75",
+      "№76",
+      "№77",
+      "№80",
+      "№81",
+      "№82",
+      "№83",
+      "№84",
+      "№85",
+      "№86",
+      "№87"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Standard",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Field Gothic Narrow",
+      "Field Gothic Standard",
+      "Field Gothic Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "gothic",
+      "grotesque",
+      "american",
+      "systematic",
+      "numbered",
+      "editorial",
+      "wide-family"
+    ],
+    "summary": "A large grotesque family organised across three widths and numerically coded weights, drawing on American gothic signage and print traditions.",
+    "description": "Field Gothic spans Narrow, Standard and Wide subfamilies, each offering a grid of numerically designated styles with matching italics, producing a family of considerable breadth for systematic typographic work. The numbering system replaces conventional weight names, giving designers a structured vocabulary for managing typographic hierarchies across widths. Suited to editorial, identity and wayfinding contexts where consistent tone across a wide range of settings is needed.",
+    "foundry_blurb": "Signal present Field Gothic as a gothic sans-serif organised into Narrow, Standard and Wide subfamilies, each containing a full range of numbered styles and their italics."
+  },
+  {
+    "name": "Glammo",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/glammo",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "techno display",
+    "classification_notes": "Glammo is a display typeface with explicit references to techno culture, AKIRA and the Designers Republic, placing it firmly in the techno/industrial display subcategory with a dark 1990s aesthetic.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Glammo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "techno",
+      "display",
+      "90s",
+      "industrial",
+      "poster",
+      "dark",
+      "editorial"
+    ],
+    "summary": "A single-weight display face born from a David Bowie festival poster commission, drawing on techno culture, AKIRA and the Designers Republic for a deliberately unsettling 1990s aesthetic.",
+    "description": "Commissioned for a typographic poster tied to Bowie's BLACK TIE WHITE NOISE, Glammo channels the dark edge of early 1990s techno and anime visual culture into a single display weight. The Designers Republic influence is legible in its sleek-yet-wrong geometry, evoking both the era's graphic maximalism and its undercurrent of anxiety. Available as a single style with desktop, web and app licences.",
+    "foundry_blurb": "Signal describe Glammo as blending references to techno, AKIRA and the Designers Republic to convey a sense of sleek modernity gone badly wrong. The typeface was created for a poster commissioned by the Dublin Bowie Festival, based on Bowie's 1993 album BLACK TIE WHITE NOISE, with the full title-track lyrics set in red and run sideways along the bottom edge suggesting both an audio equaliser and leaping flames."
+  },
+  {
+    "name": "Jarlath",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/jarlath",
+    "designer": "Max Phillips",
+    "year": null,
+    "category": "display",
+    "subcategory": "uncial revival",
+    "classification_notes": "A digital revival of an uncial-style typeface rooted in Insular manuscript traditions, combining semi-serif and sans variants derived from a hacked Helvetica Bold source. The uncial letterforms place it firmly in the display category with a specialised historical subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Jarlath",
+      "Jarlath Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "uncial",
+      "irish",
+      "revival",
+      "insular",
+      "historical",
+      "display",
+      "calligraphic"
+    ],
+    "summary": "A digital revival of Jarlath Hayes's 1974 Tuam Uncial, reworking a dry-transfer typeface rooted in hacked Helvetica Bold into a 150-language family with serif and sans variants.",
+    "description": "Max Phillips designed this revival under the supervision of Hayes's daughter, taking the original Tuam Uncial's extreme squarish forms, derived from sliced Helvetica Bold to evoke Insular manuscript scripts, and moderating them for better readability through reduced contrast and more generous letterspacing. The family extends to four styles: regular and italic with the original's semiserifs, and a sans pair drawing on early drafts that predated those details. Ligatures, directional arrows and expanded punctuation accompany support for over 150 languages.",
+    "foundry_blurb": "Signal describe Jarlath as a digital revival of Jarlath Hayes's Tuam Uncial, a typeface that had only a limited dry-transfer release in 1974 but became an icon of Irish Modernism. Hayes hacked Helvetica Bold, slicing letter tops and bottoms to produce forms reminiscent of wide, pen-formed Insular scripts. The revival, made with Hayes's daughter's involvement, tempers the original's extreme squareness, adds semiserifs absent from early drafts as a sans variant, and broadens the character set to cover over 150 languages."
+  },
+  {
+    "name": "Kōsetsu",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/kosetsu",
+    "designer": "Archie Heaslip",
+    "year": null,
+    "category": "display",
+    "subcategory": "modular geometric display",
+    "classification_notes": "An all-caps modular typeface constructed entirely from a single isosceles right triangle on a grid, placing it firmly in the display category with a geometric-modular subcategory.",
+    "weights": [
+      "Solid",
+      "Outline",
+      "Incised",
+      "Grid"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kōsetsu"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "geometric",
+      "all-caps",
+      "display",
+      "grid-based",
+      "pixel",
+      "angular",
+      "experimental"
+    ],
+    "summary": "An all-caps modular display typeface by Archie Heaslip, built entirely from a single isosceles right triangle and available in four structurally derived styles.",
+    "description": "Constructed from a single isosceles right triangle on a grid, the letterforms reference both broad-nibbed calligraphy and 8-bit video game aesthetics. Letters vary in height to create a syncopated rhythm, with alternates giving the user control over that cadence. The four styles — Solid, Outline, Incised and Grid — each emerge directly from the underlying grid structure, and the typeface originated as a bespoke design for a checkers-style board game set in mountainous terrain.",
+    "foundry_blurb": "Signal describe Kōsetsu as an exercise in restraint: a grid-based all-caps modular typeface assembled from a single isosceles right triangle, with blocky angular forms referencing broad-nibbed calligraphy and 8-bit video games. Originally designed for a checkers-style board game involving mountains and avalanches, its name is the Japanese word for snowfall. It comes in four styles — Solid, Outline, Incised and Grid — all derived from the letterforms' underlying grid, and includes a set of alternates for controlling the syncopated rhythm created by varying letter heights."
+  },
+  {
+    "name": "Milgram",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/milgram",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist rounded sans",
+    "classification_notes": "Milgram merges humanist sans construction with rounded terminals, placing it in a subcategory adjacent to faces like Frankfurter and VAG Rundschrift. The foundry describes it explicitly as a hybrid of humanist and rounded sans intentions.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "X-Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Milgram"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "humanist",
+      "retro",
+      "1960s",
+      "legible",
+      "low-contrast",
+      "editorial",
+      "quirky"
+    ],
+    "summary": "A humanist rounded sans with low contrast and open apertures, drawing on 1960s references from Frankfurter to obscure dry-transfer lettering.",
+    "description": "The family runs six weights from Light to Black, each with a matching italic, covering over 140 languages including Vietnamese. Light weights carry a faint technical precision, described by the foundry as engraved-on-glass, while the Black sits squat and exuberant. Open counters and minimal stroke contrast push readability even at heavier settings, making it functional well beyond its obvious nostalgic appeal.",
+    "foundry_blurb": "Signal describe Milgram as the product of wanting both a humanist sans and a rounded sans, and deciding to combine the two. They cite Frankfurter, VAG Rundschrift and a forgotten all-caps dry-transfer face called Formula One as touchstones, and note that the lighter weights have a slightly technical, engraved quality while the Black is zaftig. A full release including italics is scheduled for mid-2026."
+  },
+  {
+    "name": "Mortise",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/mortise",
+    "designer": "Seán Mongey, Max Phillips",
+    "year": null,
+    "category": "slab",
+    "subcategory": "slab serif",
+    "classification_notes": "A slab serif with monoline strokes, generous x-height and long slightly curved vertical serifs, placing it in the upright slab tradition rather than Clarendon or Egyptian sub-styles.",
+    "weights": [
+      "X-Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "X-Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mortise"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "monoline",
+      "readable",
+      "editorial",
+      "practical",
+      "wide-proportions",
+      "sturdy"
+    ],
+    "summary": "A six-weight slab serif with monoline strokes, open counters and subtly curved vertical serifs, designed by Seán Mongey and Max Phillips for Signal.",
+    "description": "Built around a generous x-height, wide proportions and long, slightly curved vertical serifs, Mortise manages to be both practical and characterful across its range. The lighter weights sit neatly on the page while the X-Bold grows exuberantly blocky, giving the family a considerable expressive span. Signal's first collaboration with outside designers, it arrives in twelve styles covering six weights from X-Light to X-Bold, each with a matching italic.",
+    "foundry_blurb": "Signal describe Mortise as a solidly constructed slab serif, created by an aspiring furniture-maker and an ageing typographer and marking the foundry's first outside collaboration. They note that open counters, wide proportions and monoline strokes make it readable and practical, while the long, slightly curved vertical serifs give it what they call a raffish, mustache-twirling air. The family is available in six carefully crafted weights across twelve styles."
+  },
+  {
+    "name": "Pressio",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/pressio",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "stencil",
+    "classification_notes": "Pressio is explicitly offered in both Solid and Stencil subfamilies, placing it squarely in the display/stencil category. The numbered style system and dual-treatment approach suggest a modular, grid-based display design.",
+    "weights": [
+      "№21",
+      "№22",
+      "№23",
+      "№24",
+      "№25",
+      "№31",
+      "№32",
+      "№33",
+      "№34",
+      "№35",
+      "№41",
+      "№42",
+      "№43",
+      "№44",
+      "№45",
+      "№51",
+      "№52",
+      "№53",
+      "№54",
+      "№55"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pressio Solid",
+      "Pressio Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "display",
+      "modular",
+      "numbered-system",
+      "solid",
+      "industrial",
+      "grid-based"
+    ],
+    "summary": "A dual-treatment display family from Signal, offering matching Solid and Stencil cuts across a grid-referenced numbering system of twenty styles each.",
+    "description": "Pressio pairs a Solid and a Stencil subfamily, each sharing an identical range of twenty styles identified by a two-digit numbering convention rather than conventional weight names. The numeric system suggests a structured, modular approach to width and weight, offering designers a systematic toolkit for display and headline work. The matching cuts between Solid and Stencil allow direct typographic contrast within a single coherent system.",
+    "foundry_blurb": "Signal present Pressio in two treatments, Solid and Stencil, each available in twenty styles organised under a numbered classification system running from №21 through №55."
+  },
+  {
+    "name": "Reckham",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/reckham",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "scotch roman",
+    "classification_notes": "Described as a mutant Scotch Roman with origins in Century Expanded, the family spans from near-Didone contrast in the №1 Series to near-monoline Egyptian in the №4 Series, with unbracketed serifs and eccentric detailing throughout.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "№1",
+      "№2",
+      "№3",
+      "№4"
+    ],
+    "subfamilies": [
+      "Reckham №1 Series",
+      "Reckham №2 Series",
+      "Reckham №3 Series",
+      "Reckham №4 Series"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "scotch-roman",
+      "century-expanded",
+      "fat-face",
+      "egyptian",
+      "variable",
+      "editorial",
+      "display",
+      "contrast"
+    ],
+    "summary": "A self-described mutant Scotch Roman that runs four contrast series from near-Didone to near-monoline Egyptian, each across six weights with matching italics and variable font support.",
+    "description": "Starting from Century Expanded as a reference and drifting toward Clarendon at heavier weights, Reckham ended up somewhere stranger: unbracketed serifs, eccentric details and four discrete contrast series totalling 48 styles. The №1 Series sits close to Didone at its lightest and Fat Face at its heaviest; the №4 Series reads typewriterish in lighter cuts and Egyptian in darker ones. Variable roman and italic fonts are included in the complete family, allowing contrast and weight to be dialled continuously between those poles.",
+    "foundry_blurb": "Signal describe Reckham as a mutant Scotch Roman that began as an attempt to draw a Century Expanded that turned Clarendon at heavier weights, but lost its bracketed serifs along the way and accumulated eccentric details. Four degrees of contrast are offered across six weights with matching italics, totalling 48 styles, and the complete family includes variable roman and italic fonts for continuous fine-tuning of weight and contrast."
+  },
+  {
+    "name": "Sinter",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/sinter",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Built on a rounded rectangle base with ruler-straight vertical and horizontal strokes, open counters, and angled branches referencing OCR-A; firmly geometric with a squarish, technological character akin to City, Melior and Microgramma.",
+    "weights": [
+      "Thin",
+      "X-Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sinter"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "squarish",
+      "onscreen",
+      "display",
+      "technological",
+      "ocr-influenced",
+      "rounded-rectangle"
+    ],
+    "summary": "A squarish geometric sans with OCR-A-influenced branch angles and a rounded-rectangle skeleton, spanning nine weights for on-screen display use.",
+    "description": "Signal cite Georg Trump's City, Hermann Zapf's Melior and Alessandro Butti's Microgramma as the lineage that Sinter continues, taking a rounded-rectangle geometry and refining it for readability on screen. Open counters, unambiguous curves and straight vertical and horizontal strokes make it well suited to display setting, while angled branches reference OCR-A's mechanical character. Eighteen styles cover Thin to Ultra, each with a matching italic, and tabular figures are duplexed across all weights with case-sensitive punctuation and support for over 130 languages.",
+    "foundry_blurb": "Signal describe Sinter as rooted in the squarish geometric tradition of City, Melior and Microgramma, built on a rounded-rectangle foundation with geometry subtly refined for smoother reading. Its branches are angled in homage to OCR-A, and open counters combined with straight strokes suit it for on-screen display. Nine weights from Thin to Ultra each have a matching italic, with tabular figures duplexed across all weights and support for over 130 languages."
+  },
+  {
+    "name": "Tenon",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/tenon",
+    "designer": "Seán Mongey, Max Phillips",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "hybrid grotesque-geometric",
+    "classification_notes": "Derived from the slab serif Mortise by removing the serifs, the result sits between a grotesque and a geometric sans with nearly circular bowls, placing it in a hybrid subcategory rather than squarely in either tradition.",
+    "weights": [
+      "X-Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "X-Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tenon"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "screen",
+      "editorial",
+      "signage",
+      "functional",
+      "wide",
+      "optimistic"
+    ],
+    "summary": "A sans-serif derived by stripping the serifs from Signal's slab family Mortise, sitting between grotesque and geometric with nearly circular bowls and wide, open proportions.",
+    "description": "Born from Mortise, Signal's slab serif, by removing the serifs to reveal a plain, efficient structure that occupies the territory between grotesque and geometric. Wide proportions, open counters and a generous x-height make it practical at small sizes on screen, while at larger settings the brisk, upright character suits editorial and signage work. Six weights from X-Light to X-Bold each carry matching italics, giving twelve styles in total.",
+    "foundry_blurb": "Signal describe Tenon as an efficient sans that marches through the uncanny valley between grotesque and geometric, with almost circular bowls that lend extra energy to the line. Like its sibling Mortise it has open counters, a generous x-height and wide proportions suited to small sizes and small screens, while at larger sizes its brisk, optimistic air suits editorial design and signage. Designed by Seán Mongey at Post and Max Phillips, it is available in six weights from X-Light to X-Bold."
+  },
+  {
+    "name": "Vibro",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/vibro",
+    "designer": "Theo Rosendorf",
+    "year": null,
+    "category": "display",
+    "subcategory": "chromatic/optical",
+    "classification_notes": "Vibro is a display typeface built around chromatic vibration and optical dazzle effects, sacrificing legibility and classical letterform construction in favour of pattern-making and visual disruption.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vibro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "optical",
+      "chromatic",
+      "dazzle",
+      "experimental",
+      "decorative",
+      "op-art"
+    ],
+    "summary": "A single-weight display face built on chromatic vibration principles, deliberately sacrificing legibility for maximum optical disruption.",
+    "description": "Designed by Theo Rosendorf at Post Studio, Vibro strips out counters in favour of continuous striping and exploits chromatic vibration to create an intense optical dazzle effect. Dingbats and exotic ligatures amplify the visual noise, while a full diacritic set extends coverage to over 130 languages. It won a TDC Certificate of Excellence and sits firmly in territory where spectacle is the point.",
+    "foundry_blurb": "Signal describe Vibro as an ice cream headache of a typeface that exploits chromatic vibration to send high voltage through the viewer's visual cortex. Pattern-making takes precedence over classical construction, counters are dispensed with for maximum stripiness, and dingbats with exotic ligatures add to the ruckus. A full diacritic set enables the face to cover over 130 languages, and it carries a TDC Certificate of Excellence."
+  },
+  {
+    "name": "Lorber",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/lorber",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "calligraphic script",
+    "classification_notes": "Based on the hand-lettering of a midcentury calligrapher, the typeface derives from informal cursive book jacket lettering, placing it firmly in the calligraphic script category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lorber"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "calligraphic",
+      "script",
+      "midcentury",
+      "book-jacket",
+      "lettering",
+      "hand-drawn",
+      "historical-revival"
+    ],
+    "summary": "A calligraphic script drawn from the 1961 book jacket lettering of overlooked midcentury designer Rosalind Lorber, currently a work in progress.",
+    "description": "Signal's Lorber takes its forms from hand-lettering Rosalind Lorber produced for a Scribner's Book Club edition of The Forsyte Chronicles, rescued from relative obscurity after the foundry encountered her covers in thrift shops. Lorber worked for Random House, Scribners and other New York publishers through the mid-twentieth century, producing quietly accomplished calligraphic work that has gone largely undocumented. The typeface is currently available as a trial licence on request, with full release pending.",
+    "foundry_blurb": "Signal describe Lorber as loosely based on the lettering of Rosalind Lorber, a midcentury calligrapher and book jacket designer who did quietly distinguished work for Random House, Scribners and other New York publishers. The foundry discovered her covers at thrift shops and became, as they put it, slightly obsessed. The typeface draws specifically from her lettering for the 1961 Scribner's Book Club edition of The Forsyte Chronicles, and is currently offered as a work-in-progress trial."
+  },
+  {
+    "name": "Łucja",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/lucja",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric sans",
+    "classification_notes": "A blocky, slightly rounded display sans extrapolated from a 1974 Polish exhibition poster, with origins in the Idźkowski foundry's Blok Ciężki. Its monumental weight and tight, squared geometry place it firmly in display territory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Łucja"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "blocky",
+      "polish",
+      "rounded",
+      "monumental",
+      "poster",
+      "exclusive"
+    ],
+    "summary": "A single-weight display sans extrapolated from a 1974 Polish exhibition poster, with a sharp-cornered variant offering a subtle tonal shift.",
+    "description": "Originally commissioned as an exclusive typeface for Dublin-based studio Together We Create, it was drawn from just ten letters on a poster for Polish visual artist Łucja Oźmin's 1974 graphic show. The letterforms are blocky and slightly rounded, later identified as related to the Idźkowski foundry's Blok Ciężki, though by that point Signal had already developed their own distinct interpretation. A sharp-cornered variant sits alongside the rounded original, giving the family a spare but useful tonal range.",
+    "foundry_blurb": "Signal describe Łucja as derived from a 1974 exhibition poster showing the name of Polish visual artist Łucja Oźmin in a blocky, slightly rounded sans they had never encountered before. Commissioned by the artist's granddaughter Kasia Oźmin for her Dublin studio, the full typeface was extrapolated from those ten letters. The mystery source was later identified as the Idźkowski foundry's Blok Ciężki by Florian Hardwig, but by then Łucja had already become its own thing. A sharp-cornered version provides a subtle variation in tone."
+  },
+  {
+    "name": "Stoker",
+    "foundry": "Signal",
+    "url": "https://signalfoundry.com/typefaces/stoker",
+    "designer": "Seán Mongey, Max Phillips",
+    "year": null,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Rooted in a revival of Miller & Richard's Oldstyle Antique No. 6, Stoker is a wide, high-contrast display serif with exaggerated x-height and pronounced fang-like serifs, placing it firmly in the Victorian-revival display tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Stoker"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "victorian",
+      "revival",
+      "display",
+      "high-contrast",
+      "decorative",
+      "wide",
+      "editorial",
+      "hotel"
+    ],
+    "summary": "A wide, high-contrast revival of Miller & Richard's Oldstyle Antique No. 6, expanded with a lowercase and figures by Seán Mongey and Max Phillips, with fang-like serifs that nod to 1970s Victorian revivals like ITC Benguiat.",
+    "description": "Commissioned by Post Studio for boutique hotel Haddington House, the design began as a strict all-caps revival before growing into a full typeface with lowercase and figures. Wide proportions, exaggerated x-height and open counters give it presence at display sizes, while contrast remains controlled enough for short runs of text. The name Stoker was chosen in reference to the fang-like serifs and the stylised decadence of the Victorian era Bram Stoker inhabited.",
+    "foundry_blurb": "Signal describe Stoker as a revival of Miller & Richard's all-caps Oldstyle Antique No. 6, originally commissioned for boutique hotel Haddington House. The foundry note that curiosity about what a lowercase might look like drove the expansion of the face, resulting in wide forms with exaggerated x-height, open counters and pronounced contrast. The fang-like serifs prompted the name, with the design nodding to 1970s Victorian revivals such as ITC Benguiat. Designed by Seán Mongey at Post and Max Phillips, it is currently available as a work in progress."
+  }
+]

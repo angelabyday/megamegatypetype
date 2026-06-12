@@ -1,0 +1,718 @@
+[
+  {
+    "name": "Maíz",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/maiz/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "An experimental variable display face built on a single-case uppercase geometric structure, with star-shaped counterforms that expand across three states. Its purely formal variability and decorative counterforms place it firmly in the display category.",
+    "weights": [
+      "Uno",
+      "Dos",
+      "Tres"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Maíz"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "variable",
+      "experimental",
+      "uppercase",
+      "latin-american",
+      "decorative",
+      "counterform"
+    ],
+    "summary": "A single-case variable display typeface from Bastarda in which star-shaped counterforms expand progressively across three states, evoking the burst of a popcorn kernel.",
+    "description": "Built entirely from uppercase letters owing to its geometric complexity, the family offers three styles — Uno, Dos and Tres — in which the interior counterforms grow larger with each step, following a logic of formal transformation rather than the conventional axes of weight or width. The variability is explicitly experimental rather than functional, though the foundry notes that even the most expanded version retains usable typographic qualities. Extended Latin diacritics are supported alongside a small set of custom ornamental glyphs labelled as grass forms.",
+    "foundry_blurb": "Bastarda describe Maíz as a variable typeface with three states, each defined by progressively larger star-shaped counterforms that expand like popcorn kernels exposed to heat. Designed from a single uppercase case due to its geometric structure, the concept of variability here plays with pure form rather than traditional font attributes such as bold or italic."
+  },
+  {
+    "name": "Fammilia BT",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/fammilia-bt/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The specimen and weight range suggest a contemporary grotesque sans-serif with a broad weight spectrum from Thin to Black, typical of neo-grotesque or humanist grotesque families aimed at editorial and branding use.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fammilia BT"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "editorial",
+      "branding",
+      "wide-weight-range",
+      "contemporary",
+      "space-themed"
+    ],
+    "summary": "A wide-ranging grotesque sans from Bastarda with nine weights and matching italics, aimed at editorial and identity work.",
+    "description": "Spanning nine weights from Thin to Black, each with a matching italic, this grotesque covers the full spectrum of typographic weight needed for publication and branding projects. The specimen leans heavily on an astronomy theme, suggesting the family is positioned for editorial contexts where contrast between weights is the primary tool. Latin Extended coverage includes diacritics for Western and Central European languages.",
+    "foundry_blurb": "Bastarda offer Fammilia BT as a full-featured grotesque family with eighteen styles running from Thin to Black with italics throughout, available to purchase or trial directly from their site."
+  },
+  {
+    "name": "Orca BT",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/orca-bt/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The warmth of the letterforms and the fluid italics suggest a humanist sans construction, with a Display optical size and a range of text weights pointing to a family designed for editorial versatility.",
+    "weights": [
+      "Light",
+      "Normal",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "Orca BT"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "editorial",
+      "text",
+      "display",
+      "multilingual",
+      "contemporary"
+    ],
+    "summary": "A humanist sans from Bastarda spanning six weights with matching italics and a separate Display cut for headline use.",
+    "description": "The family runs from Light to Bold across both upright and italic styles, with a dedicated Display variant for larger settings. Extended Latin coverage reaches across Western, Central and Northern European languages, including Baltic, Slavic and Nordic character sets. The pairing of a Display optical size alongside text weights gives it range across editorial and branding contexts.",
+    "foundry_blurb": "Bastarda offer Orca BT as a multi-weight humanist sans with a full italic companion and a Display variant, covering an extensive Latin character set suited to multilingual typesetting."
+  },
+  {
+    "name": "Orca Sans BT",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/orca-sans-bt/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A clean, upright sans-serif with a range of weights from Light to Bold and matching italics, fitting the grotesque category with no obvious geometric or humanist inflection evident from the specimen.",
+    "weights": [
+      "Light",
+      "Normal",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Orca Sans BT"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "multilingual",
+      "functional",
+      "clean",
+      "text"
+    ],
+    "summary": "A workaday grotesque sans from Bastarda with six weights, matching italics and broad Latin Extended coverage.",
+    "description": "Six weights running from Light to Bold, each with a corresponding italic, give the family enough range for editorial hierarchies and interface work. The character set covers Latin Extended, including Baltic, Central European and Scandinavian diacritics. Nothing in the specimen points to a distinctive voice, but the construction is clean and the coverage practical.",
+    "foundry_blurb": "Bastarda offer Orca Sans BT as a multi-weight grotesque sans with Light, Normal, Regular, Medium, Semibold and Bold styles, each available in upright and italic cuts, with broad Latin Extended language support."
+  },
+  {
+    "name": "Active BT",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/active-bt/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "speed/motion display",
+    "classification_notes": "A high-energy display sans with three style variants including a back-slanted cut, designed for kinetic and action-oriented typographic contexts rather than extended reading.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Active BT"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "slanted",
+      "back-slanted",
+      "motion",
+      "action",
+      "speed",
+      "editorial",
+      "poster"
+    ],
+    "summary": "A three-style display typeface offering Regular, Slanted and BackSlanted cuts, built around kinetic energy and motion-oriented aesthetics.",
+    "description": "The family's three cuts — Regular, Slanted and BackSlanted — give designers directional contrast within a single typeface, useful for posters, headlines and screen work where speed or tension is the visual language. The character set covers extended Latin, including Central and Eastern European diacritics. Preview copy referencing the 2009 animated film Redline signals the intended register: fast, aggressive, subcultural.",
+    "foundry_blurb": "Bastarda present Active BT as a display typeface with three stylistic variants — Regular, Slanted and BackSlanted — suited to high-energy graphic contexts."
+  },
+  {
+    "name": "Digging BT",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/digging-bt/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "decorative display",
+    "classification_notes": "A display typeface with strong Hip Hop cultural references, designed for expressive headline use rather than body text. Its character set and sample text point to street culture and graffiti-adjacent aesthetics.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Digging BT"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "hip-hop",
+      "street",
+      "cultural",
+      "headline",
+      "expressive",
+      "urban"
+    ],
+    "summary": "A display typeface from Bastarda rooted in Hip Hop culture, built for expressive headline and graphic use.",
+    "description": "Inspired by the origins of Hip Hop in the South Bronx, the typeface carries a street-culture sensibility suited to album art, editorial and campaign work in that vernacular. A single Regular weight covers an extensive Latin Extended character set, including support for Central and Eastern European languages. The sample text leans heavily into 1990s rap references, placing the design firmly within a specific cultural moment.",
+    "foundry_blurb": "Bastarda present Digging BT as a typeface rooted in Hip Hop culture, drawing on the origins of the genre in New York's Bronx and the new stars it produced who would go on to become the rappers of following generations."
+  },
+  {
+    "name": "HD Sans",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/hd-sans/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A contemporary grotesque sans with no visible humanist or geometric influence; upright and slanted styles across a wide weight range suggest a workhorse display grotesque.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "HD Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "display",
+      "branding",
+      "entertainment",
+      "bold",
+      "contemporary"
+    ],
+    "summary": "A six-weight grotesque from Bastarda with slanted counterparts to each upright, pitched at entertainment and digital branding contexts.",
+    "description": "Twelve styles span Regular through Black with a matching slanted cut at every weight, giving designers a compact but flexible grotesque for display work. The character set covers extended Latin with a broad range of diacritics, making it usable across most Western and Central European languages. Its sample contexts — streaming platforms, TV titles and short-form editorial — suggest a face built for bold, screen-led identities rather than extended text.",
+    "foundry_blurb": "HD Sans is a grotesque typeface from Bastarda offered in six weights from Regular to Black, each with a slanted variant, totalling twelve styles. Trial files are available for download directly from the foundry's site."
+  },
+  {
+    "name": "Lamina BT",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/lamina-bt-2-manu/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A geometric-leaning grotesque with extended and condensed width variants and a slanted cut, placing it firmly in the display sans-serif grotesque tradition.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Regular",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Lamina BT"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "extended",
+      "condensed",
+      "display",
+      "hiphop",
+      "editorial",
+      "geometric",
+      "slanted"
+    ],
+    "summary": "A grotesque sans with condensed and extended width variants, a slanted cut, and a visual identity rooted in 1980s and 1990s hip-hop culture.",
+    "description": "The family spans seven weights across condensed, regular and extended widths, supplemented by a slanted style, giving designers a broad range of display options within a single system. The demo text throughout the page quotes N.W.A, Wu-Tang Clan and Tupac, signalling a clear cultural reference point in late-20th-century American rap aesthetics. Latin Extended character coverage makes it viable across Western European languages.",
+    "foundry_blurb": "Bastarda present Lamina BT as a versatile grotesque with condensed and extended width options, a slanted variant, and a character set rooted in hip-hop visual culture, with specimen copy drawn from N.W.A, Wu-Tang Clan and other rap icons."
+  },
+  {
+    "name": "Oregano BT",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/oregano-bt/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Oregano BT is a display-oriented sans with a counterculture, street-level aesthetic, suited to headlines and graphic contexts rather than running text. Its character set includes circled numerals, geometric shapes and decorative glyphs that reinforce its expressive, display intent.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Oregano BT"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "counterculture",
+      "street",
+      "decorative",
+      "latin-extended",
+      "single-weight",
+      "graphic"
+    ],
+    "summary": "A single-weight display sans from Bastarda with a counterculture edge, drawing on 1960s and 1970s graphic vernacular.",
+    "description": "Released by Colombian foundry Bastarda, Oregano BT carries the visual language of underground print culture, with sample copy referencing Woodstock, cannabis culture and hippie iconography. The family ships in one weight with broad Latin Extended coverage, circled numeral variants and a generous set of geometric and decorative symbols. Its scope is limited to headline and poster use, where its personality is an asset rather than a constraint.",
+    "foundry_blurb": "Bastarda present Oregano BT as a typeface steeped in 1960s counterculture, with specimen copy evoking Woodstock and the era of hippie culture. The font includes a wide character set with circled digits, geometric shapes and extended Latin diacritics, aimed at graphic and display applications."
+  },
+  {
+    "name": "Kiffo BT",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/kiffo-bt/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The specimen text labels it a 'Grotesk' and the letterforms shown are consistent with a contemporary grotesque sans-serif with broad weight range and upright-italic structure.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kiffo BT"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "contemporary",
+      "multilingual",
+      "editorial",
+      "institutional",
+      "latin-extended",
+      "cyrillic"
+    ],
+    "summary": "A seven-weight grotesque sans from Bastarda with broad Latin Extended and Cyrillic coverage, aimed at institutional and editorial use.",
+    "description": "Kiffo BT spans seven weights from Thin to Bold, each with a matching italic, giving a total of fourteen styles. The specimen leans heavily on museum, gallery and cultural institution contexts, suggesting a design sensibility suited to arts and civic communication. Character coverage extends across Latin Extended and Cyrillic, with the full set including diacritics for Central and Eastern European languages.",
+    "foundry_blurb": "Bastarda present Kiffo BT as a grotesque typeface with wide language support, demonstrating it across multilingual institutional copy referencing museums, curators and cultural organisations. The specimen mixes Spanish, German and English text to highlight its suitability for international cultural contexts."
+  },
+  {
+    "name": "Penitente Sans BT",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/penitente-bt-2-manu/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "The page name and Bastarda's design sensibility point to a display-oriented sans with expressive, vernacular qualities rooted in Latin American graphic culture, making it a display sans rather than a neutral text face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Penitente Sans BT"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "latin-american",
+      "vernacular",
+      "editorial",
+      "expressive",
+      "poster",
+      "reggaeton",
+      "caribbean"
+    ],
+    "summary": "A display sans from Bastarda rooted in the graphic vernacular of Latin American street culture, newspapers and urban music promotion.",
+    "description": "The specimen copy leans heavily into Colombian and Caribbean cultural references, from Cartagena newspaper printing to reggaeton lyrics and concert flyers, positioning this as a typeface built for expressive, street-level communication. The character set covers an extensive range of Latin Extended glyphs, accommodating a wide spread of European and Latin American languages. Best suited to posters, event collateral and editorial work where a strong regional voice is needed.",
+    "foundry_blurb": "Bastarda present Penitente Sans BT as a typeface charged with the energy of Latin American urban culture, with specimen text drawn from reggaeton lyrics, Cartagena newspaper printing and concert line-ups featuring artists such as Rosalía, J Balvin and Karol G."
+  },
+  {
+    "name": "Penitente Serif BT",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/penitente-bt-serif/",
+    "designer": "Juan Pablo Fajardo",
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Revived from the masthead of a 1907 Colombian newspaper, the typeface carries sharp, expressive serifs suited to display and headline use rather than extended text setting.",
+    "weights": [
+      "Regular",
+      "Slanted",
+      "Distorted",
+      "Slanted Distorted"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Penitente Serif BT",
+      "Penitente BT Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "revival",
+      "latin-american",
+      "reggaeton",
+      "variable",
+      "distorted",
+      "editorial",
+      "colombian"
+    ],
+    "summary": "A display serif revived from the masthead of a 1907 Cartagena newspaper, extended into a variable font with axes for distortion and slant.",
+    "description": "Rooted in archival research by Juan Pablo Fajardo of Piedra Tijera Papel, the typeface takes its structure from the heading of Penitente, a Colombian newspaper printed in Cartagena in 1907. The variable font includes four style variants spanning regular, slanted, distorted and slanted-distorted cuts, allowing animated or expressive typesetting across digital and print contexts. A companion sans-serif version, Penitente BT Sans, emerged from a reggaeton club project for Invade Design in Medellín.",
+    "foundry_blurb": "Bastarda describe Penitente BT as stemming from the analysis and revival of the heading of Penitente, a newspaper printed in Cartagena in 1907, with early versions inspired by research from Juan Pablo Fajardo of Piedra Tijera Papel. The typeface was originally conceived as a serif, but a sans-serif version arose during redesign and was used in a reggaeton club project commissioned by Invade Design in Medellín. In its current variable form it allows movement through distortion and inclination axes."
+  },
+  {
+    "name": "Jazz BT",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/jazz-bt/",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "display slab",
+    "classification_notes": "A slab serif with heavy teardrop terminals and Art Nouveau influences in the uppercase, positioned by the foundry as semi-display; the ornamental proportions and decorative counterforms place it firmly in display slab territory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Jazz BT"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "display",
+      "art-nouveau",
+      "editorial",
+      "branding",
+      "semi-display",
+      "ornamental",
+      "magazine"
+    ],
+    "summary": "A semi-display slab serif with heavy teardrop terminals and Art Nouveau proportions in the uppercase, suited to editorial and branding work at headline scale.",
+    "description": "Two styles, Regular and Italic, built around generous proportions and pronounced teardrop-shaped terminals that give the face a bold graphic presence without collapsing into purely decorative territory. The uppercase letterforms carry clear Art Nouveau references in their counterforms and ornamental details, making all-caps settings particularly effective for headlines, section titles and logotypes. The foundry positions it for mid-length reading contexts such as magazines and brochures, though its character reads most strongly at display sizes.",
+    "foundry_blurb": "Bastarda describe Jazz BT as a slab serif with generous proportions and a bold, sturdy design, distinguished by heavy teardrop-shaped terminals that emphasise its semi-display character. They note Art Nouveau influences in the uppercase letterforms, particularly in proportions and the treatment of counterforms, and recommend it for magazines, brochures, catalogues and editorial projects requiring a distinctive typographic identity that blends sophistication with visual warmth."
+  },
+  {
+    "name": "Brutman",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/brutman/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Brutman presents as a modernist grotesque sans-serif with reference points in International Style typography. The weight naming system (70 through 150) and sample texts referencing modernist architecture and Bauhaus-adjacent graphic design suggest a constructed, rationalist grotesque lineage.",
+    "weights": [
+      "70",
+      "85",
+      "100",
+      "120",
+      "135",
+      "150"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brutman"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "modernist",
+      "international-style",
+      "editorial",
+      "architectural",
+      "display"
+    ],
+    "summary": "A modernist grotesque with six weights and matching italics, built around International Style reference points and architectural graphic vernacular.",
+    "description": "Brutman is a grotesque sans-serif from Bastarda with a weight scale running from 70 to 150, each paired with an italic. The design draws on mid-century modernist typography, with specimen texts referencing Bauhaus-adjacent graphic education and International Style architecture. Latin Extended character support covers a broad range of Western and Central European languages.",
+    "foundry_blurb": "Bastarda present Brutman as a grotesque family available in six weights with italics, using weight numbers rather than conventional names. The specimen leans into modernist and architectural themes, with sample text in English and German drawing from discourse around conservation, International Modernism and graphic design education."
+  },
+  {
+    "name": "Gregor",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/gregor/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Gregor presents as a display-weight sans with a bold, confrontational character suited to headlines and branding. The upright and slanted cuts, along with the expressive specimen copy, place it firmly in the display category rather than a workhorse grotesque.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gregor"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sans",
+      "editorial",
+      "bold",
+      "expressive",
+      "branding",
+      "headlines"
+    ],
+    "summary": "A single-weight display sans from Bastarda with an upright and slanted cut, built for bold headlines and confrontational graphic work.",
+    "description": "A display sans offered in upright and slanted styles, with specimen copy that leans into attitude and irreverence. The character set covers extended Latin, supporting a broad range of Western and Central European languages. Suited to editorial titles, poster work and identity projects that want weight without historical reference.",
+    "foundry_blurb": "Bastarda present Gregor as a display typeface with upright and slanted styles, demonstrated through provocative specimen text that mixes pop-culture references with expressive typography. A trial download is available directly from the product page."
+  },
+  {
+    "name": "Trujillo BT",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/trujillo-bt/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "The limited weight offering, the foundry's Latin American identity, and the expressive character set suggest a display-oriented serif designed for editorial and headline use rather than extended text setting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trujillo BT"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "latin-american",
+      "editorial",
+      "headline",
+      "expressive"
+    ],
+    "summary": "A single-weight display serif from Bastarda with broad Latin Extended coverage and a regional Latin American identity.",
+    "description": "Released by Bastarda, a foundry with a Latin American perspective, Trujillo BT is a display serif offered in a single Regular weight. The character set is extensive, covering a wide range of Latin Extended glyphs suited to Western and Central European languages alongside Spanish and Portuguese diacritics. The foundry offers discounts to students and those based in Latin America, signalling a deliberate relationship with the region.",
+    "foundry_blurb": "Bastarda offer Trujillo BT as a desktop and web font, with both file types included on purchase. They extend a discount to students and buyers based in Latin America, inviting contact for a discount code before purchase."
+  },
+  {
+    "name": "Salsa BT",
+    "foundry": "Bastarda",
+    "url": "https://bastardatype.com/font/salsa-bt-2/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "A single-weight display typeface with rounded, expressive letterforms inspired by Afro-Cuban and Latin music culture, placing it firmly in the display category with a vernacular, poster-oriented character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Salsa BT"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "latin-music",
+      "afro-cuban",
+      "poster",
+      "expressive",
+      "single-weight",
+      "vernacular"
+    ],
+    "summary": "A single-weight display typeface drawing on Afro-Cuban and Latin music vernacular, with broad Latin and Cyrillic script coverage.",
+    "description": "Built around the visual language of Afro-Cuban jazz and 1970s Latin music graphics, it carries a warm, rounded character suited to posters, record sleeves and editorial headings. Only one weight is offered, which keeps the design focused but limits its flexibility. The character set is unusually broad for a display face, covering Latin Extended, Cyrillic and a handful of Greek characters.",
+    "foundry_blurb": "Bastarda present Salsa BT as a typeface steeped in Afro-Cuban jazz culture, with sample texts drawing on themes of swing, rumba and Latin America. The design is shown at large display sizes, evoking the energy of salsa music and 1970s typographic vernacular."
+  }
+]

@@ -1,0 +1,744 @@
+[
+  {
+    "name": "Black Mamba",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/black-mamba/",
+    "designer": "Swiss Typefaces",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Black Mamba is derived from the SangBleu typeface family by Swiss Typefaces, a transitional serif with strong classical proportions and refined stroke contrast. The alternate character set suggests a display-oriented variant with distinct stylistic personality.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Black Mamba"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "serif",
+      "display",
+      "alternate-characters",
+      "classical",
+      "editorial"
+    ],
+    "summary": "A display serif derived from Swiss Typefaces' SangBleu family, distinguished by a custom set of alternate characters.",
+    "description": "Built on the foundations of the SangBleu typeface, Black Mamba introduces a suite of alternate characters designed by Liudmila Bredikhina to give the family a distinct expressive register. Font engineering is credited to Christoph Koeberlin. The result sits between classical transitional proportions and something more characterful, suited to editorial titles and brand work where SangBleu's refinement is wanted with added personality.",
+    "foundry_blurb": "Black Mamba is art directed by Swiss Typefaces and based on the SangBleu typeface. Alternate character design is by Liudmila Bredikhina in collaboration with Swiss Typefaces, with font engineering by Christoph Koeberlin."
+  },
+  {
+    "name": "Brrr",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/brrr/",
+    "designer": "Emmanuel Rey",
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "The name and foundry context suggest an expressive display typeface; Swiss Typefaces typically produces distinctive, characterful display and text faces with strong graphic personality.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brrr"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "swiss",
+      "expressive",
+      "graphic"
+    ],
+    "summary": "A display typeface designed by Emmanuel Rey at Swiss Typefaces, engineered by Christoph Koeberlin.",
+    "description": "Designed by Emmanuel Rey under the art direction of Swiss Typefaces, Brrr is a display typeface with font engineering by Christoph Koeberlin. The page provides limited detail on weights or styles, suggesting a focused release rather than an extensive family. Swiss Typefaces consistently produces work with strong graphic character suited to editorial and identity contexts.",
+    "foundry_blurb": "Art direction by Swiss Typefaces, with typeface design by Emmanuel Rey and font engineering by Christoph Koeberlin."
+  },
+  {
+    "name": "Euclid",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/euclid/",
+    "designer": "Emmanuel Rey",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The name and Swiss foundry origin signal a geometric sans tradition; the naming convention and foundry context place it firmly in the geometric sans category with clean, constructed letterforms.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Euclid"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "swiss",
+      "clean",
+      "corporate",
+      "modern",
+      "neutral"
+    ],
+    "summary": "A geometric sans from Swiss Typefaces with Cyrillic support, designed by Emmanuel Rey with script development by Liudmila Bredikhina.",
+    "description": "Designed by Emmanuel Rey under art direction from Swiss Typefaces, this geometric sans carries the precise, constructed quality associated with Swiss typographic tradition. Cyrillic development by Liudmila Bredikhina and font engineering by Christoph Koeberlin give the family solid technical foundations across both scripts. A dependable choice for branding and interface work where a neutral, geometric voice is required.",
+    "foundry_blurb": "Swiss Typefaces describe Euclid as a typeface designed by Emmanuel Rey with art direction from Swiss Typefaces, Cyrillic development by Liudmila Bredikhina, and font engineering by Christoph Koeberlin."
+  },
+  {
+    "name": "Euclid Mono",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/euclid-mono/",
+    "designer": "Emmanuel Rey, Quentin Schmerber",
+    "year": null,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "A monospaced typeface from the Euclid family, which is rooted in geometric sans-serif principles; the mono variant retains the geometric construction of the broader Euclid system.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Euclid Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "technical",
+      "code",
+      "euclid-family",
+      "swiss"
+    ],
+    "summary": "A monospaced extension of the Euclid geometric sans family, designed for technical and code-adjacent settings.",
+    "description": "Part of Swiss Typefaces' Euclid system, this mono variant carries the geometric construction of the wider family into fixed-width territory. Designed by Emmanuel Rey and Quentin Schmerber, with font engineering by Christoph Koeberlin, it offers a consistent optical language across mono and proportional settings. Suited to interface design, code environments and contexts where typographic consistency with the broader Euclid family is required.",
+    "foundry_blurb": "Euclid Mono is a typeface from Swiss Typefaces with art direction by the studio, typeface design by Emmanuel Rey and Quentin Schmerber, and font engineering by Christoph Koeberlin."
+  },
+  {
+    "name": "Euclid Stencil",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/euclid-stencil/",
+    "designer": "Emmanuel Rey",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric stencil",
+    "classification_notes": "A stencil variant of the geometric Euclid family, the interrupted strokes and cut forms place it firmly in display territory while retaining the geometric sans skeleton of its parent.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Euclid Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "geometric",
+      "display",
+      "swiss",
+      "euclid",
+      "angular"
+    ],
+    "summary": "A stencil extension of the Euclid geometric sans family, designed by Emmanuel Rey at Swiss Typefaces.",
+    "description": "Euclid Stencil applies stencil interruptions to the geometric forms of the Euclid family, producing a display-oriented cut suited to editorial, signage and identity work that needs a harder industrial edge. The underlying geometry of Euclid is preserved, so the stencil reads as a considered variant rather than a separate departure. Font engineering was handled by Christoph Koeberlin.",
+    "foundry_blurb": "Euclid Stencil is a typeface designed by Emmanuel Rey at Swiss Typefaces, with art direction by Swiss Typefaces and font engineering by Christoph Koeberlin."
+  },
+  {
+    "name": "IKanSeeYouAll",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/ikanseeyouall/",
+    "designer": "Ian Party",
+    "year": null,
+    "category": "display",
+    "subcategory": "expressive display",
+    "classification_notes": "The name and Swiss Typefaces' broader catalogue suggest an expressive, idiosyncratic display typeface; the unconventional naming convention points toward a distinctive, non-neutral design intent.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "IKanSeeYouAll"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "expressive",
+      "swiss",
+      "experimental",
+      "identity"
+    ],
+    "summary": "An expressive display typeface by Ian Party for Swiss Typefaces, engineered by Christoph Koeberlin.",
+    "description": "Designed by Ian Party under the Swiss Typefaces banner, IKanSeeYouAll is an expressive display face with font engineering by Christoph Koeberlin. The page provides limited detail on weights or stylistic variants, but the typeface sits within Swiss Typefaces' broader output of distinctive, character-driven designs. Art direction is credited to Swiss Typefaces themselves, suggesting a closely collaborative origin.",
+    "foundry_blurb": "IKanSeeYouAll is a typeface from Swiss Typefaces with art direction by Swiss Typefaces, typeface design by Ian Party, and font engineering by Christoph Koeberlin."
+  },
+  {
+    "name": "Kopy Me",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/kopy-me/",
+    "designer": "Liudmila Bredikhina",
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Kopy Me is described as based on the BRRR Typeface, suggesting a display-oriented design with strong visual character; the display category fits its art-directed, expressive origins.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kopy Me"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "art-directed",
+      "expressive",
+      "swiss"
+    ],
+    "summary": "A display typeface by Liudmila Bredikhina for Swiss Typefaces, derived from the BRRR Typeface with art direction by the foundry.",
+    "description": "Designed by Liudmila Bredikhina under art direction from Swiss Typefaces, Kopy Me draws its formal starting point from the BRRR Typeface. Font engineering was handled by Christoph Koeberlin. The page provides minimal detail on weights or language coverage, pointing to a tightly focused display release rather than a broad text family.",
+    "foundry_blurb": "Swiss Typefaces list Kopy Me as a typeface designed by Liudmila Bredikhina in collaboration with the foundry, based on the BRRR Typeface, with art direction from Swiss Typefaces and font engineering by Christoph Koeberlin."
+  },
+  {
+    "name": "Krsna",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/krsna/",
+    "designer": "Emmanuel Rey",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The name and Swiss Typefaces' typical output suggest a refined serif; without further detail the most reasonable default classification is transitional serif, though the sparse page content limits certainty.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Krsna"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "swiss",
+      "refined",
+      "text"
+    ],
+    "summary": "A serif typeface designed by Emmanuel Rey for Swiss Typefaces, with font engineering by Christoph Koeberlin.",
+    "description": "Designed by Emmanuel Rey under the art direction of Swiss Typefaces, Krsna is a serif release from the Geneva-based foundry known for precise, considered type design. Font engineering was handled by Christoph Koeberlin. The page offers minimal detail on weights or character set, suggesting a focused rather than expansive family.",
+    "foundry_blurb": "Swiss Typefaces credit art direction to the studio itself, typeface design to Emmanuel Rey, and font engineering to Christoph Koeberlin."
+  },
+  {
+    "name": "Only Extended",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/only-extended/",
+    "designer": "Emmanuel Rey, Quentin Schmerber",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "extended sans",
+    "classification_notes": "The name and foundry context suggest a wide or extended grotesque or geometric sans; Swiss Typefaces consistently produce clean, contemporary Latin-Cyrillic sans-serif families with strong typographic rigour.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "Extended"
+    ],
+    "subfamilies": [
+      "Only Extended"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "extended",
+      "sans-serif",
+      "contemporary",
+      "swiss",
+      "cyrillic",
+      "latin",
+      "wide"
+    ],
+    "summary": "An extended sans by Emmanuel Rey and Quentin Schmerber, with Cyrillic development by CSTM Fonts and Vietnamese consulting by Donny Trương.",
+    "description": "Designed at Swiss Typefaces by Emmanuel Rey and Quentin Schmerber, Only Extended is a wide-cut sans with notable multilingual reach, covering Latin, Cyrillic and Vietnamese. Cyrillic was developed by Ilya Ruderman and Yury Ostromentsky of CSTM Fonts, lending that script genuine authority. Font engineering was handled by Benedikt Bramböck, consistent with Swiss Typefaces' in-house production rigour.",
+    "foundry_blurb": "Only Extended was designed by Emmanuel Rey and Quentin Schmerber at Swiss Typefaces, with Cyrillic development by Ilya Ruderman and Yury Ostromentsky of CSTM Fonts, Vietnamese consulting by Donny Trương of Vietnamese Typography, and font engineering by Benedikt Bramböck."
+  },
+  {
+    "name": "New Panam",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/newpanam/",
+    "designer": "Ian Party and Emmanuel Rey",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "New Panam follows in the tradition of humanist sans-serifs, drawing on mid-century airline lettering and travel graphics with organic, calligraphic stroke modulation typical of the humanist genre.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "New Panam"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "mid-century",
+      "travel",
+      "editorial",
+      "swiss",
+      "lettering"
+    ],
+    "summary": "A humanist sans by Ian Party and Emmanuel Rey taking cues from mid-century airline and travel lettering.",
+    "description": "Designed at Swiss Typefaces by Ian Party and Emmanuel Rey, New Panam draws on the visual language of mid-century aviation and travel graphics. The letterforms carry the organic stroke modulation of humanist sans-serifs, giving it warmth and readability across editorial and branding contexts. Font engineering was handled by Christoph Koeberlin.",
+    "foundry_blurb": "New Panam was designed by Ian Party and Emmanuel Rey at Swiss Typefaces, with art direction by Swiss Typefaces and font engineering by Christoph Koeberlin."
+  },
+  {
+    "name": "New Paris",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/newparis/",
+    "designer": "Ian Party",
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "New Paris is a serif typeface with a contemporary editorial character, likely drawing on high-contrast display traditions suited to fashion and cultural publishing contexts typical of Swiss Typefaces releases.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "New Paris"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "editorial",
+      "fashion",
+      "contemporary",
+      "high-contrast",
+      "swiss",
+      "display",
+      "serif"
+    ],
+    "summary": "A high-contrast contemporary serif by Ian Party, designed for editorial and cultural publishing contexts.",
+    "description": "Designed by Ian Party at Swiss Typefaces, New Paris carries the sharp, high-contrast character associated with fashion publishing and upmarket cultural print. The typeface sits in a tradition of refined display serifs while retaining a contemporary sensibility suited to both editorial spreads and identity work. Swiss Typefaces engaged Christoph Koeberlin for font engineering, reflecting the studio's commitment to technical rigour alongside its design ambitions.",
+    "foundry_blurb": "New Paris is a typeface designed by Ian Party of Swiss Typefaces, with art direction by Swiss Typefaces and font engineering by Christoph Koeberlin."
+  },
+  {
+    "name": "Raskal Oner",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/raskal-oner/",
+    "designer": "Emmanuel Rey",
+    "year": null,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "The name and foundry context suggest a display or expressive typeface; insufficient page content to determine a more specific subcategory beyond display.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Raskal Oner"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "swiss",
+      "expressive",
+      "editorial"
+    ],
+    "summary": "A display typeface by Emmanuel Rey for Swiss Typefaces, with font development by Benedikt Bramböck.",
+    "description": "Designed by Emmanuel Rey under the art direction of Swiss Typefaces, Raskal Oner is a display typeface developed with technical work by Benedikt Bramböck. The page provides limited descriptive detail, but the Swiss Typefaces stable typically favours considered, contemporary type with a strong editorial bent. Further detail on weights, language support and intended use is not available from the provided copy.",
+    "foundry_blurb": "Raskal Oner was designed by Emmanuel Rey under the art direction of Swiss Typefaces, with font development and technology by Benedikt Bramböck, also of Swiss Typefaces."
+  },
+  {
+    "name": "Riviera",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/riviera/",
+    "designer": "Ian Party, Quentin Schmerber",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The name and Swiss Typefaces' house style suggest a refined serif with transitional characteristics; the split design credit between Party and Schmerber implies a family developed across multiple optical or weight registers.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Riviera"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "transitional",
+      "swiss",
+      "refined",
+      "editorial"
+    ],
+    "summary": "A serif from Swiss Typefaces with design credits split between Ian Party (Regular) and Quentin Schmerber across the remaining styles.",
+    "description": "Riviera is a Swiss Typefaces serif with art direction handled in-house and font engineering by Christoph Koeberlin. The family divides its design credit between Ian Party, who drew the Regular, and Quentin Schmerber, who handled the remaining cuts. Details beyond the immediate credits are sparse, but the release sits within Swiss Typefaces' broader catalogue of controlled, refined text and display typefaces.",
+    "foundry_blurb": "Riviera lists art direction by Swiss Typefaces, typeface design by Ian Party for the Regular weight and Quentin Schmerber for all other styles, with font engineering by Christoph Koeberlin."
+  },
+  {
+    "name": "SangBleu",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/sangbleu/",
+    "designer": "Ian Party",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "SangBleu sits within the transitional serif tradition, drawing on 18th-century French and Swiss type models with refined contrast and classical proportions typical of that genre.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "SangBleu"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "classical",
+      "editorial",
+      "high-contrast",
+      "swiss",
+      "luxury",
+      "18th-century"
+    ],
+    "summary": "A refined transitional serif by Ian Party with Cyrillic support developed by CSTM Fonts, rooted in 18th-century French and Swiss typographic tradition.",
+    "description": "Designed by Ian Party at Swiss Typefaces, SangBleu draws on the high-contrast, classical proportions of 18th-century French and Swiss type models. Cyrillic development was handled by Ilya Ruderman and Yury Ostromentsky of CSTM Fonts, with font engineering by Christoph Koeberlin. The family suits editorial, fashion and luxury contexts where historical pedigree and precision of form are required.",
+    "foundry_blurb": "SangBleu is a typeface with art direction by Swiss Typefaces and typeface design by Ian Party. Cyrillic was developed by Ilya Ruderman and Yury Ostromentsky of CSTM Fonts, with font engineering by Christoph Koeberlin."
+  },
+  {
+    "name": "SangBleu OG",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/sangbleu-og/",
+    "designer": "Ian Party",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "SangBleu OG belongs to the SangBleu family from Swiss Typefaces, which draws on transitional serif traditions with refined stroke contrast and classical proportions typical of Swiss typographic heritage.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "SangBleu OG"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "transitional",
+      "classical",
+      "swiss",
+      "editorial",
+      "refined",
+      "luxury"
+    ],
+    "summary": "A classically proportioned transitional serif from Ian Party at Swiss Typefaces, drawn with high stroke contrast and restrained elegance.",
+    "description": "Part of the broader SangBleu family, SangBleu OG refines the transitional serif model with precise stroke contrast and considered letterform construction. Designed by Ian Party with font engineering by Christoph Koeberlin, it sits comfortably in editorial and luxury brand contexts. The family reflects Swiss Typefaces' consistent interest in European typographic heritage reinterpreted with contemporary rigour.",
+    "foundry_blurb": "SangBleu OG was designed by Ian Party at Swiss Typefaces, with font development and updates by Quentin Schmerber and font engineering by Christoph Koeberlin. Art direction was handled by Swiss Typefaces."
+  },
+  {
+    "name": "Simplon",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/simplon/",
+    "designer": "Emmanuel Rey",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Simplon is a Swiss grotesque sans-serif, consistent with the clean, rational tradition associated with Swiss type design and the grotesque genre.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Simplon",
+      "Simplon Condensed",
+      "Simplon Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "swiss",
+      "neutral",
+      "corporate",
+      "clean",
+      "rational"
+    ],
+    "summary": "A Swiss grotesque from Emmanuel Rey and Swiss Typefaces, engineered for neutral, functional typesetting across print and screen.",
+    "description": "Designed by Emmanuel Rey at Swiss Typefaces, Simplon sits within the clean, rational grotesque tradition associated with Switzerland. The family extends to condensed and monospaced variants, broadening its usefulness for interface, editorial and identity work. Font engineering was handled by Christoph Koeberlin, supporting technical rigour across the range.",
+    "foundry_blurb": "Simplon is a typeface from Swiss Typefaces, with art direction by the studio, type design by Emmanuel Rey, and font engineering by Christoph Koeberlin."
+  },
+  {
+    "name": "Suisse Int'l",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/suisse/",
+    "designer": "Ian Party",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Suisse Int'l is a neo-grotesque sans-serif in the tradition of Swiss-style neutrality, drawing on the mid-century grotesque canon with broad multilingual coverage and systematic weight range.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Suisse Int'l"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Arabic",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "neo-grotesque",
+      "swiss",
+      "neutral",
+      "editorial",
+      "multilingual",
+      "systematic"
+    ],
+    "summary": "A neo-grotesque sans designed by Ian Party at Swiss Typefaces, built to a high degree of multilingual coverage including Latin, Cyrillic, Arabic and Vietnamese.",
+    "description": "Designed by Ian Party at Swiss Typefaces, it follows the neutral grotesque tradition of mid-century Swiss typography with a broad, methodically extended character set. Arabic development was handled by Pascal Zoghbi and Naïma Ben Ayed, Cyrillic by Ilya Ruderman and Yury Ostromentsky, and Vietnamese consulting by Donny Trương, giving the family genuine depth across scripts. Font engineering by Benedikt Bramböck and Christoph Koeberlin rounds out a production quality rarely matched in contemporary grotesque releases.",
+    "foundry_blurb": "Suisse Int'l was designed by Ian Party at Swiss Typefaces with art direction by the studio. The family involved specialist contributors for Arabic, Cyrillic and Vietnamese, with font engineering by Benedikt Bramböck and Christoph Koeberlin, and ongoing development and updates managed by Quentin Schmerber."
+  },
+  {
+    "name": "Thew",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/thew/",
+    "designer": "Ian Party",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Swiss Typefaces categorise Thew as a grotesque sans-serif, consistent with Ian Party's wider body of work at Swiss Typefaces, which draws on European grotesque traditions.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Thew"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "swiss",
+      "neutral",
+      "editorial"
+    ],
+    "summary": "A grotesque sans-serif designed by Ian Party for Swiss Typefaces, engineered by Christoph Koeberlin.",
+    "description": "Designed by Ian Party and engineered by Christoph Koeberlin, Thew is a grotesque sans from Swiss Typefaces, a Geneva-based foundry known for clean, disciplined typefaces in the European tradition. The page provides minimal detail about weights and variants, suggesting a restrained, focused release. Swiss Typefaces' output consistently favours precision over ornamentation, and Thew sits within that ethos.",
+    "foundry_blurb": "Thew is a typeface designed by Ian Party of Swiss Typefaces, with font engineering by Christoph Koeberlin."
+  },
+  {
+    "name": "Vogy",
+    "foundry": "Swiss Typefaces",
+    "url": "https://www.swisstypefaces.com/fonts/vogy/",
+    "designer": "Liudmila Bredikhina",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Based on the Swiss Typefaces provenance and the designer's background, Vogy is likely a geometric or rational sans-serif, consistent with Swiss Typefaces' catalogue of precise, modernist typefaces.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vogy"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "swiss",
+      "modernist",
+      "clean",
+      "rational"
+    ],
+    "summary": "A geometric sans-serif from Swiss Typefaces, designed by Liudmila Bredikhina with engineering by Christoph Koeberlin.",
+    "description": "Designed by Liudmila Bredikhina under the Swiss Typefaces label, Vogy follows the foundry's tendency toward precise, rationally constructed letterforms. Font engineering was handled by Christoph Koeberlin, with development and updates by Quentin Schmerber. Limited information is publicly available about its full weight range and language support.",
+    "foundry_blurb": "Vogy is a typeface from Swiss Typefaces, with art direction by the foundry, type design by Liudmila Bredikhina, font development by Quentin Schmerber, and font engineering by Christoph Koeberlin."
+  }
+]

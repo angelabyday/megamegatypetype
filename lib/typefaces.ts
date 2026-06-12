@@ -130,6 +130,7 @@ export type DirectoryEntry = Pick<
   | "foundry"
   | "foundrySlug"
   | "slug"
+  | "url"
   | "year"
   | "category"
   | "tags"
@@ -147,6 +148,7 @@ export function toDirectoryEntry(t: Typeface): DirectoryEntry {
     foundry: t.foundry,
     foundrySlug: t.foundrySlug,
     slug: t.slug,
+    url: t.url,
     year: t.year,
     category: t.category,
     tags: t.tags,

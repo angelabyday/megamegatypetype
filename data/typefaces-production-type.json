@@ -1,0 +1,571 @@
+[
+  {
+    "name": "Super Castel",
+    "foundry": "Production Type",
+    "url": "https://productiontype.com/font/super-castel",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The name 'Castel' references a classical serif lineage in the transitional style, and the condensed-only release with high-contrast letterforms suggests a refined, editorial serif suited to vertical measure and display settings.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "XCond",
+      "Cond"
+    ],
+    "subfamilies": [
+      "Super Castel XCond",
+      "Super Castel Cond"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "serif",
+      "editorial",
+      "high-contrast",
+      "display",
+      "elegant",
+      "classical"
+    ],
+    "summary": "A condensed serif family from Production Type offered in Extra Condensed and Condensed widths, spanning six weights with italics throughout.",
+    "description": "Available exclusively in condensed cuts, Super Castel runs from ExtraLight to Black across both Extra Condensed and Condensed widths, each weight paired with a matching italic. The family's proportions and apparent contrast point to a transitional serif sensibility, making it suited to editorial headlines, book covers and display contexts where vertical economy matters. Twenty-four styles in total give it reasonable range within its narrow-width brief.",
+    "foundry_blurb": "Production Type offers Super Castel in two condensed widths, Extra Condensed and Condensed, each available in six weights from ExtraLight to Black with accompanying italics, totalling twenty-four styles priced from €70 per style."
+  },
+  {
+    "name": "Ciel",
+    "foundry": "Production Type",
+    "url": "https://productiontype.com/font/ciel",
+    "designer": "Léa Bruneau",
+    "year": 2025,
+    "category": "script",
+    "subcategory": "copperplate calligraphy",
+    "classification_notes": "Rooted in British copperplate pointed nib calligraphy with ornamental interlaced capitals, Ciel is a script-derived family that spans functional text weights and highly decorative display initials.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ciel"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "calligraphy",
+      "copperplate",
+      "ornamental",
+      "display",
+      "interlaced",
+      "decorative",
+      "editorial",
+      "monospaced-caps"
+    ],
+    "summary": "A five-weight copperplate calligraphy family by Léa Bruneau, notable for three styles of interlaced monospaced capitals that blur the boundary between letterform and image.",
+    "description": "Drawn from British copperplate pointed nib calligraphy, the family spans ExtraLight to ExtraBold with a restrained slant that keeps text settings orderly and sharp. The ornamental capital styles are the defining proposition: each glyph is confined to a monospaced square, with interlacing flourishes dense enough to read as pattern before they resolve as letters. Suited to drop caps, posters, book covers and editorial work where the typography is expected to carry visual weight rather than efface itself.",
+    "foundry_blurb": "Production Type describe Ciel as a typeface that opens with appearance before it is read, where ornamental interlaced capitals overflow their linguistic function. Designer Léa Bruneau cites copperplate calligraphy as the structural basis, deploying it into a five-weight family with three styles of knotted monospaced initials. The foundry frame Ciel as a system in which ornament is not decorative excess but a condition of meaning itself, capable of moving between graceful headlines and commanding poster or architectural inscription."
+  },
+  {
+    "name": "Europa Prima",
+    "foundry": "Production Type",
+    "url": "https://productiontype.com/font/europa-prima",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The forms show warmth and optical refinement consistent with humanist sans design, with a wide weight range from ExtraLight to Black and matching italics suited to both text and display use.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Europa Prima"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "european",
+      "multilingual",
+      "editorial",
+      "corporate",
+      "clean",
+      "contemporary"
+    ],
+    "summary": "A multilingual humanist sans from Production Type covering Latin, Greek and Cyrillic across six weights with matching italics.",
+    "description": "Six weights from ExtraLight to Black, each with a corresponding italic, give the family range across both text and display settings. Latin, Greek and Cyrillic support positions it for pan-European publishing, institutional and identity work. The specimen leans into a connected, intercontinental European theme, suggesting an intended audience in infrastructure, travel and technology sectors.",
+    "foundry_blurb": "Production Type present Europa Prima as a typeface evoking connectivity and the spirit of a united, open Europe, with specimen copy drawing on imagery of illuminated cities, shared languages and intercontinental networks. The family covers Greek and Cyrillic alongside Latin, and is offered in twelve styles across six weights."
+  },
+  {
+    "name": "House of Cassandre",
+    "foundry": "Production Type",
+    "url": "https://productiontype.com/font/house-of-cassandre",
+    "designer": "Cassandre",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "art deco display",
+    "classification_notes": "A revival of Cassandre's original Peignot typeface, a distinctly art deco display face characterised by its hybrid uppercase and lowercase letterforms and strongly geometric, poster-oriented construction.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "House of Cassandre"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "art-deco",
+      "revival",
+      "poster",
+      "display",
+      "geometric",
+      "french",
+      "cassandre",
+      "peignot"
+    ],
+    "summary": "A revival of Peignot, Cassandre's 1937 art deco display typeface, released with approval from the Estate of A.M. Cassandre.",
+    "description": "Three weights — Light, Regular and Bold — recover Cassandre's Peignot, the typeface defined by its fusion of uppercase and lowercase letterforms into a single geometric register. Released by Production Type in 2024 with the blessing of the Cassandre estate, it carries Cassandre's original tension between formal rigour and lyrical expression. Best suited to display settings, posters and editorial contexts where a strong historical French graphic voice is appropriate.",
+    "foundry_blurb": "House of Cassandre is a revival of Peignot, designed by A.M. Cassandre and released by Production Type in April 2024. The family carries the © and TM of A.M. Cassandre and has been approved by the Estate of A.M. Cassandre. It includes Light, Regular and Bold weights in static OTF and WOFF2 formats, with production support from Hugues Gentile, Léa Bruneau and Charly Derouault."
+  },
+  {
+    "name": "Image Future",
+    "foundry": "Production Type",
+    "url": "https://productiontype.com/font/image-future",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The specimen copy and naming conventions evoke digital, screen-based and sci-fi aesthetics, but the letterforms follow a clean geometric sans construction across a wide range of weights. No explicit historical classification is given on the page.",
+    "weights": [
+      "Hairline",
+      "ExtraThin",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Image Future"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sci-fi",
+      "digital",
+      "futuristic",
+      "editorial",
+      "wide-weight-range",
+      "screen"
+    ],
+    "summary": "A geometric sans from Production Type spanning ten weights from Hairline to Black, styled around digital and screen-culture aesthetics.",
+    "description": "Twenty styles cover the full weight range from Hairline to Black with matching italics, giving considerable typographic range for both text and display use. The specimen leans into digital glitch and broadcast imagery — timecodes, ghost signals, playback errors — framing the typeface firmly in tech-adjacent editorial and branding contexts. Clean geometric construction keeps it usable beyond pure mood work, though the aesthetic positioning is its clearest selling point.",
+    "foundry_blurb": "Production Type offer Image Future across twenty styles, from Hairline to Black with italics throughout, priced from €60 per style. The specimen copy draws on digital imagery — signal loss, playback errors, subpixels and ghost data — giving the family a distinct screen-culture and speculative-fiction character."
+  },
+  {
+    "name": "Terrane",
+    "foundry": "Production Type",
+    "url": "https://productiontype.com/font/terrane",
+    "designer": "Emmanuel Besse",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Terrane Sans is explicitly positioned within the humanist sans tradition, characterised by low contrast, organic curves and culturally grounded forms. The accompanying Terrane Serif shares identical proportions but draws on inscriptional and Petit Serif influences.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "ExtraBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Terrane Sans",
+      "Terrane Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "inscriptional",
+      "editorial",
+      "dual-family",
+      "low-contrast",
+      "cultural",
+      "versatile",
+      "french"
+    ],
+    "summary": "A paired sans and serif family by Emmanuel Besse, sharing identical proportions and drawing on humanist tradition and inscriptional lettering for editorial and brand systems.",
+    "description": "Terrane Sans is a low-contrast humanist sans with measured apertures suited to demanding reading environments, while Terrane Serif borrows from stone-cut inscription and 1970s photo-lettering to bring architectural weight without resorting to high contrast. Both families share the same proportions, making them readily interchangeable within a single typographic system. The family has received recognition from the Club des Directeurs Artistiques and Hiiibrand Awards, and sits comfortably across academic, museum and brand contexts.",
+    "foundry_blurb": "Production Type describe Terrane as a humanist typeface designed to open dialogues, balancing apparent simplicity with subtle complexity. The sans is characterised by low contrast and restrained apertures that ensure readability, while the serif counterpart introduces inscriptional gravitas informed by classical traditions and photo-lettering exploration of the 1970s. Sharing identical proportions, the two styles form a miniature design system suited to storytelling across print and digital mediums."
+  },
+  {
+    "name": "Mars",
+    "foundry": "Production Type",
+    "url": "https://productiontype.com/font/mars",
+    "designer": "Alaric Garnier",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Mars draws directly from American Gothic vernacular sign-painting traditions, sharing the low contrast, large x-height and sharp terminals of that genre. Its multi-width structure and handcrafted elliptical forms place it squarely within the grotesque tradition.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "SemiCondensed",
+      "Standard",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Mars Condensed",
+      "Mars SemiCondensed",
+      "Mars Standard",
+      "Mars Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "vernacular",
+      "sign-painting",
+      "american-gothic",
+      "multi-width",
+      "editorial",
+      "handcrafted",
+      "low-contrast"
+    ],
+    "summary": "A vernacular grotesque by Alaric Garnier rooted in American Gothic sign-painting traditions, built across four widths with sharp terminals, bevelled uppercase strokes and flared lowercase endings.",
+    "description": "Garnier began the project after encountering a metal typeface called Venus at a New Orleans letterpress studio in 2014, and the family grew from a two-width minifamily in 2016 to four widths by 2024. Across Condensed, SemiCondensed, Standard and Extended, the design maintains a large x-height and low stroke contrast, while the uppercases follow a distinct bevelling rule most visible in E, F, G, L, T and Z. The lowercase stroke connections shift character across widths, running ultra-smooth in narrow cuts and angular in wider ones, giving the family genuine optical variety without losing its identity.",
+    "foundry_blurb": "Production Type describe Mars as a sturdy interpretation of select vernacular signs from North America, with its designer Alaric Garnier blending references conjured by the rocky beaches of Seattle, the streets of New Orleans and the harbour of Marseille. The family originated as a two-width minifamily in 2016, gained a Standard cut in 2021 and expanded to four widths for its 2024 release. Key design features include bevelled uppercase strokes, flared terminals across many glyphs, elliptical O's that lend a handcrafted quality, and trapezoidal i and j dots."
+  },
+  {
+    "name": "Cardinal",
+    "foundry": "Production Type",
+    "url": "https://productiontype.com/font/cardinal",
+    "designer": "Jean-Baptiste Levée",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Cardinal draws on the forms of Garamont and Granjon but introduces a dryness and rigidity that places it between classical old-style serifs and contemporary digital type, making transitional serif the closest accurate subcategory.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraLight",
+      "Light"
+    ],
+    "optical_sizes_or_widths": [
+      "Short",
+      "Mid",
+      "Long"
+    ],
+    "subfamilies": [
+      "Cardinal Classic Short",
+      "Cardinal Classic Mid",
+      "Cardinal Classic Long",
+      "Cardinal Fruit",
+      "Cardinal Photo"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "high-contrast",
+      "phototypesetting",
+      "old-style",
+      "headlines",
+      "digital-vernacular",
+      "display"
+    ],
+    "summary": "A serif family by Jean-Baptiste Levée that positions itself between Garamont-lineage classicism and the dry rigidity of early digital type, across three x-height variants and two specialist display subfamilies.",
+    "description": "Conceived around the idea of an android — organic in appearance but synthetic in origin — Cardinal borrows traits from Garamont and Granjon while maintaining a deliberate stiffness that recalls the first wave of digital typefaces. The family is structured across three x-height variants (Short, Mid, Long) for different body copy contexts, a condensed branch called Cardinal Fruit referencing 1980s computer advertising, and Cardinal Photo for high-contrast, tight-spaced headline work drawn from photojournalism layout. Cyrillic support is being extended across the Photo subfamily.",
+    "foundry_blurb": "Production Type describe Cardinal as the typographic equivalent of a synthetic android from the Alien films: closely resembling classical text typefaces in its Garamont and Granjon references, yet bearing its own dryness and rigidity. The system spans Cardinal Classic Short, Mid and Long for different point sizes and line lengths; Cardinal Fruit, a condensed with sharp italics recalling early computer advertising; and Cardinal Photo, a high-contrast, tightly spaced headline face derived from photojournalism magazine typography and phototypesetting conventions."
+  },
+  {
+    "name": "PVC",
+    "foundry": "Production Type",
+    "url": "https://productiontype.com/font/pvc",
+    "designer": "Hélène Marian",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "expressive display",
+    "classification_notes": "A deliberately eclectic display family rooted in lettering and sign-painting traditions, spanning brush scripts, compressed grotesques, spiky serifs and speed-gesture styles — too varied and expressive to sit under any single conventional category.",
+    "weights": [
+      "Banner",
+      "Banner Ultra",
+      "Menu",
+      "Promo",
+      "Dynasty",
+      "Dynasty Italic",
+      "Express"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "PVC Banner",
+      "PVC Banner Ultra",
+      "PVC Menu",
+      "PVC Promo",
+      "PVC Dynasty",
+      "PVC Dynasty Italic",
+      "PVC Express"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Japanese",
+      "Korean"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "lettering",
+      "sign-painting",
+      "expressive",
+      "editorial",
+      "poster",
+      "multi-style",
+      "brush"
+    ],
+    "summary": "A seven-style display family by Hélène Marian, each style drawn from a distinct lettering tradition — brush script, compressed grotesque, spiky serif and gestural sign-painting.",
+    "description": "Designed by Hélène Marian and released in 2018, PVC takes shop signs, truck tarps, brush lettering and speed-gesture sign-painting as its starting points, producing six radically distinct styles under a single family name. PVC Dynasty introduces a spiky, space-filling serif with deliberate imbalance, while PVC Express preserves the looping gestures of fast sign-painting practice; PVC Banner and Banner Ultra push horizontal filling to extremes. Korean support is provided in collaboration with Sandoll, extending the family's reach into Hangul.",
+    "foundry_blurb": "Production Type describe PVC as a rambunctious font family that plays at the edges of width and weight, drawing a parallel to polyvinyl chloride for its durability and versatility. They note that all six styles share a backbone rooted in lettering and shop sign design, but differ radically in the tools and methods used to draw them, yielding disparate design personalities suited to different briefs."
+  },
+  {
+    "name": "Wigrum",
+    "foundry": "Production Type",
+    "url": "https://productiontype.com/font/wigrum",
+    "designer": "Anouk Pennel, Raphael Daudelin (Studio Feed)",
+    "year": 2011,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Wigrum draws explicitly from geometric sans serifs of the 1930s while introducing optical corrections and humanist details, placing it in the geometric sans tradition with a humanist inflection.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Wigrum"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Japanese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "humanist",
+      "1930s-reference",
+      "book",
+      "editorial",
+      "montreal",
+      "neutral"
+    ],
+    "summary": "A geometric sans from Montréal studio Feed, originally drawn in 2011 for a book design and refined with optical corrections that soften its rationalist structure.",
+    "description": "Born as a custom typeface for Daniel Canty's novel, Wigrum takes the rational forms of 1930s geometric grotesques and tempers them with optical adjustments and idiosyncratic details in the 'W', 'g', 'R' and 'S'. The family spans seven weights from Thin to Black, each with a matching italic, covering an extensive range of Latin scripts alongside Japanese support via Type Project's TP Sky Fitfont. It suits book-length text and editorial work where geometric clarity is wanted without the coldness of pure construction.",
+    "foundry_blurb": "Production Type describe Wigrum as possessing a 'sensitive geometry', tracing its origins to a 2011 commission by Montréal studio Feed for a novel by Québécois writer Daniel Canty. The typeface references geometric sans serifs of the 1930s while incorporating the optical corrections and humanistic details its designers felt were needed to make geometry feel warm rather than mechanical."
+  },
+  {
+    "name": "Kessler",
+    "foundry": "Production Type",
+    "url": "https://productiontype.com/font/kessler",
+    "designer": "Alaric Garnier",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Kessler features diamond-shaped tittle details, hairline serifs, spurred lowercase r and aristocratic capital forms that point to a transitional serif structure with high contrast and formal elegance across Display, Text and Mono subfamilies.",
+    "weights": [
+      "Light",
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Super Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "Kessler Display",
+      "Kessler Super Display",
+      "Kessler Text",
+      "Kessler Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Japanese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "high-contrast",
+      "editorial",
+      "literary",
+      "display",
+      "mono",
+      "elegant",
+      "refined"
+    ],
+    "summary": "A high-contrast transitional serif by Alaric Garnier, spanning Display, Text and Mono subfamilies with a consistent system of diamond details and aristocratic letterforms.",
+    "description": "Designed by Alaric Garnier and awarded a Type Directors Club Certificate of Excellence in 2020, Kessler is built around a coherent formal vocabulary: diamond-shaped tittles, hairline serifs, a spurred lowercase r and a looping italic g that carries rhythm across all sizes. The family divides into Display and Super Display for titling, a Text subfamily optimised for long-form reading from 8pt upwards, and a Mono cut that applies the same detail to a fixed-pitch structure. Japanese support extends the system via TP Mincho Fitfont from Type Project.",
+    "foundry_blurb": "Production Type describe Kessler as a family built around systemic thinking, with Kessler Text serving as a companion to Kessler Display that distils the same personality for smaller scales without losing weight or reading comfort. Kessler Mono extends the logic further into a monospace structure notable for its wide spacing and preserved detail, while Kessler Japanese support is powered by TP Mincho Fitfont."
+  },
+  {
+    "name": "NSType",
+    "foundry": "Production Type",
+    "url": "https://productiontype.com/font/nstype",
+    "designer": "Superscript²",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Monolinear capitals built on a rigid grid structure, with stylised strokes derived from architectural forms and rhythmic divisions evoking music — unambiguously a display typeface conceived for visual expression rather than continuous text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "NSType A",
+      "NSType B",
+      "NSType Mono A",
+      "NSType Mono B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "monolinear",
+      "caps",
+      "modular",
+      "festival",
+      "illustrative",
+      "architectural"
+    ],
+    "summary": "A grid-based, monolinear display type system created for the Nuit Sonores festival in Lyon, with architectural stroke details and rhythmic segmentation across four subfamilies.",
+    "description": "Developed over three years by Lyon studio Superscript² as the typographic identity for the Nuit Sonores electronic music and design festival, NSType is built entirely from monolinear capitals on a rigid grid. The two main subfamilies replace conventional strokes with architectural fragments drawn from Lyon's built environment, while NSType Mono divides strokes at rhythmic intervals to evoke beats and sound. Each subfamily ships in two fonts, A and B, with contrasting forms assigned to upper- and lowercase slots, yielding eight mixable variants per capital letter.",
+    "foundry_blurb": "Production Type describe NSType as a type system exemplifying both the sonic and the visual, originating as the typographic voice of the Nuit Sonores festival in Lyon. The typographic model is simple and almost primitive — monolinear caps on a rigid grid — but personality emerges in the strokes: architectural forms from Lyon's landmarks in NSType, and rhythmic line divisions evoking music in NSType Mono. Expanded for retail, the system now comprises four subfamilies, each in A and B variants, offering eight mixable variations of every capital letter."
+  }
+]

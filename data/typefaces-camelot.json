@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Eliza",
+    "foundry": "Camelot",
+    "url": "https://camelot-typefaces.com/eliza",
+    "designer": "Pawel Wolowitsch",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Described explicitly as a conceptual exploration of transitional typefaces, with humanistic serif construction modified by square, pixel-like details that introduce a digital rigidity to the letterforms.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Eliza",
+      "Eliza Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "humanist",
+      "pixel-influenced",
+      "editorial",
+      "serif",
+      "conceptual",
+      "text"
+    ],
+    "summary": "A transitional serif by Pawel Wolowitsch that introduces square, pixel-derived details into a humanistic construction, creating a tension between organic letterform tradition and digital rigidity.",
+    "description": "Designed by Pawel Wolowitsch at Camelot, Eliza grafts square pixel-like terminals and serifs onto a humanistic serif framework, framing the contrast as an allegory for human and machine. The family runs four weights from Regular to Bold, each with a matching italic, and is accompanied by a monospace sibling. Stylistic sets allow certain letters to shift toward even more geometric forms, giving designers control over how far the digital quality asserts itself.",
+    "foundry_blurb": "Camelot describe Eliza as a conceptual exploration of transitional typefaces in which the square, taken as a reference to the pixel and the smallest unit of contemporary communication, is introduced into humanistic serif construction. They frame this as a dialogue between two extremes: familiar humanistic liveliness and artificial modern rigidity, and present Eliza as an allegory for the conjunction of human and machine. The system includes stylistic sets to push select letters toward more rigid forms, and is accompanied by a monospace version."
+  },
+  {
+    "name": "Eliza Mono",
+    "foundry": "Camelot",
+    "url": "https://camelot-typefaces.com/eliza-mono",
+    "designer": "Pawel Wolowitsch",
+    "year": null,
+    "category": "mono",
+    "subcategory": "humanist mono",
+    "classification_notes": "A monospaced serif with humanistic construction disrupted by square, pixel-like terminals — sits clearly in the mono category with a transitional serif basis made rigid by digital geometry.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Eliza Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "mono",
+      "serif",
+      "transitional",
+      "humanist",
+      "pixel",
+      "digital",
+      "conceptual",
+      "coding"
+    ],
+    "summary": "A monospaced companion to Eliza, introducing square pixel-like terminals into a humanist serif skeleton to create tension between organic warmth and digital rigidity.",
+    "description": "Designed by Pawel Wolowitsch, Eliza Mono applies a conceptual framework borrowed from transitional serif construction, then disrupts it with squared terminals referencing the pixel as the base unit of digital communication. The result sits between humanist legibility and machine regularity, available in a single weight with a matching italic. The proportional Eliza family extends to four weights, making this the fixed-width counterpart for coding or tabular contexts.",
+    "foundry_blurb": "Camelot describe Eliza as a conceptual exploration of transitional typefaces, with the square as a key structural element referencing the pixel and the digital age. Introduced into a humanistic serif construction, it creates a dialogue between human warmth and artificial rigidity, and can be read as an allegory for the conjunction of human and machine. Eliza Mono is the fixed-width version; the proportional cut comes in four weights with roman and italic styles."
+  },
+  {
+    "name": "Gräbenbach",
+    "foundry": "Camelot",
+    "url": "https://camelot-typefaces.com/graebenbach",
+    "designer": "Wolfgang Schwärzler",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Inspired by early grotesque typefaces with details borrowed from brush-painted signs, blending the precision of digital design with hand-drawn warmth — a clear grotesque lineage with humanist inflections.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gräbenbach",
+      "Gräbenbach Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "humanist",
+      "sign-painting",
+      "monospaced",
+      "warmth",
+      "opentype",
+      "editorial"
+    ],
+    "summary": "A grotesque sans by Wolfgang Schwärzler that draws on early grotesque typefaces and brush-painted sign lettering across four weights with matching italics and a companion mono family.",
+    "description": "Designed by Wolfgang Schwärzler, the typeface takes early grotesque forms as its starting point and layers in details drawn from hand-painted signs, producing a cut that sits between the crispness of digital drawing and the irregularity of hand work. Four weights from Regular to Black each come with a true italic, while a separate Gräbenbach Mono extends the family to five monospaced weights. A broad OpenType feature set includes alternate single-storey and double-storey forms for 'a' and 'g', alongside case-sensitive forms, fractions and tabular figures.",
+    "foundry_blurb": "Camelot describe Gräbenbach as a typeface inspired by early grotesque letterforms and brush-painted signs, combining the sharpness of the digital design process with the warmth of hand-drawn type. The family comprises four roman and italic weights alongside five monospaced weights, and was designed by Wolfgang Schwärzler."
+  },
+  {
+    "name": "Gräbenbach Mono",
+    "foundry": "Camelot",
+    "url": "https://camelot-typefaces.com/graebenbach-mono",
+    "designer": "Wolfgang Schwärzler",
+    "year": null,
+    "category": "mono",
+    "subcategory": "grotesque mono",
+    "classification_notes": "A monospaced typeface drawing on early grotesque letterforms and brush-painted sign traditions; the mono constraint is central to the design rather than incidental.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gräbenbach Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "grotesque",
+      "sign-painting",
+      "digital",
+      "functional",
+      "editorial"
+    ],
+    "summary": "A monospaced grotesque by Wolfgang Schwärzler that fuses early grotesque sharpness with the warmth of brush-painted lettering across five weights.",
+    "description": "Designed by Wolfgang Schwärzler, it belongs to the wider Gräbenbach family, which pairs four weights in roman and italic with this five-weight monospaced branch. The mono constraint is treated as a design driver rather than a concession, pushing the tension between digital precision and hand-drawn warmth to its limits. A generous OpenType feature set includes alternate single-storey a and g, a sans-serif mode and a slashed zero, making it adaptable for coding environments and editorial use alike.",
+    "foundry_blurb": "Camelot describe Gräbenbach Mono as inspired by early grotesque typefaces and borrowing details from brush-painted signs, combining digital sharpness with the warmth of hand-drawn type, taken to extremes through the monospaced format. It supports approximately 250 Latin-based languages and dialects."
+  },
+  {
+    "name": "Lelo",
+    "foundry": "Camelot",
+    "url": "https://camelot-typefaces.com/lelo",
+    "designer": "Katharina Köhler",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as a geometric sans serif with roots in early 20th century grotesques, influenced by Letter Gothic's typewriter origins, giving it a geometric-grotesque hybrid character.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lelo",
+      "Lelo Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grotesque",
+      "typewriter-influence",
+      "monospaced",
+      "multi-weight",
+      "latin-extended"
+    ],
+    "summary": "A geometric sans with typewriter heritage, designed by Katharina Köhler, distinguished by pointed terminals in diagonal letters set against otherwise circular forms.",
+    "description": "Designed by Katharina Köhler, Lelo draws on early 20th century grotesques while retaining traces of its origins in a quattro-spaced typewriter font, with Letter Gothic cited as a direct influence. The tension between the sharply pointed endings on V, W, N and M and the broadly circular geometry of other letters gives the family a distinctive internal contrast. Six weights run from Thin to Black with matching italics, and a monospaced variant, Lelo Mono, extends its utility to coding and tabular contexts.",
+    "foundry_blurb": "Camelot describe Lelo as a simple geometric sans serif with roots in early 20th century grotesques, noting that its origins as a quattro-spaced typewriter font — with Letter Gothic as a strong influence — still show. They highlight the formal tension between the pointy endings in V, W, N and M and the typeface's predominantly round geometric letters as its original twist. The family comes in six weights with roman and italic styles, plus a monospaced version."
+  },
+  {
+    "name": "Lelo Mono",
+    "foundry": "Camelot",
+    "url": "https://camelot-typefaces.com/lelo-mono",
+    "designer": "Katharina Köhler",
+    "year": null,
+    "category": "mono",
+    "subcategory": "geometric monospaced",
+    "classification_notes": "A fixed-width typeface with geometric sans characteristics drawn from early 20th-century grotesque sources, making it a monospaced geometric sans. The page explicitly categorises it as part of a geometric sans serif family with a fixed-width constraint.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lelo Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "grotesque",
+      "typewriter-influenced",
+      "editorial",
+      "technical"
+    ],
+    "summary": "A geometric monospaced sans with early grotesque roots, offering six weights with italics and alternate glyph options via OpenType.",
+    "description": "Part of the wider Lelo family by Katharina Köhler, this is a fixed-width geometric sans that draws on early 20th-century grotesque forms. Pointy stroke terminals on diagonal letters like V, W, N and M contrast with the otherwise round geometric construction, and the design traces its origins to an abandoned quattro-spaced typewriter concept. Six weights from Thin to Black, each with a matching italic, are supported by a rich OpenType feature set including single and double-storey alternates and several stylistic sets.",
+    "foundry_blurb": "Camelot describe Lelo Mono as a simple geometric sans serif rooted in early 20th-century grotesques, noting the formal tension between the pointed endings of diagonal letters and the very round geometric forms. The design originally began as a quattro-spaced typewriter font before being reworked into a conventional fixed-width typeface. It comes in six weights in roman and italic with extensive OpenType features and support for approximately 250 Latin-based languages."
+  },
+  {
+    "name": "Rando",
+    "foundry": "Camelot",
+    "url": "https://camelot-typefaces.com/rando",
+    "designer": "Maurice Göldner",
+    "year": null,
+    "category": "serif",
+    "subcategory": "romanesque",
+    "classification_notes": "Rando is explicitly described as a homage to German romanesque typefaces of the late 19th and early 20th century, a distinct Latin serif tradition characterised by sturdy, upright forms with bracketed serifs and a roman-style construction.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Rando",
+      "Rando Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "romanesque",
+      "historical revival",
+      "german type",
+      "editorial",
+      "text",
+      "display",
+      "19th-century"
+    ],
+    "summary": "A contemporary revival of German romanesque typefaces from the late 19th and early 20th centuries, designed by Maurice Göldner in five weights with text and display versions.",
+    "description": "Drawing on models such as Anker Romanisch by Schelter & Giesecke and Hamburger Römisch by Schriftguß A.G., Rando brings a largely overlooked category of German type back into circulation. The family runs across five weights from Regular to Black, each with a matching italic, and splits into text and display versions for different optical requirements. A comprehensive OpenType feature set includes alternate letterforms, old-style figures, contextual alternates and localised forms across approximately 250 Latin-based languages.",
+    "foundry_blurb": "Camelot describe Rando as a contemporary homage to German romanesque typefaces from the late 19th and early 20th centuries, citing Anker Romanisch and Hamburger Römisch as reference points. They note that many foundries of the period published their own romanesque versions under different names, and that the Rando family is offered in both text and display versions across five weights in roman and italic."
+  },
+  {
+    "name": "Rando Display",
+    "foundry": "Camelot",
+    "url": "https://camelot-typefaces.com/rando-display",
+    "designer": "Maurice Göldner",
+    "year": null,
+    "category": "serif",
+    "subcategory": "romanesque",
+    "classification_notes": "Rando is explicitly described as a homage to German romanesque typefaces of the late 19th and early 20th centuries, a specific serif subgenre characterised by compact proportions and sturdy strokes distinct from classical old-style or transitional serifs.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Rando Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "romanesque",
+      "historical revival",
+      "german",
+      "display",
+      "editorial",
+      "text",
+      "revival",
+      "19th-century"
+    ],
+    "summary": "A display revival of German romanesque typefaces from the late 19th and early 20th centuries, drawing on models such as Anker Romanisch and Hamburger Römisch.",
+    "description": "Designed by Maurice Göldner, Rando Display is one half of a family that also includes a text version, together spanning five weights from Regular to Black with corresponding italics. The reference points are German foundry romanesque types of the Wilhelmine period, a category where multiple foundries issued near-identical designs under competing names. OpenType features include alternate g and t forms, old-style figures, discretionary ligatures and contextual alternates, with character coverage across approximately 250 Latin-based languages.",
+    "foundry_blurb": "Camelot describe Rando as a contemporary homage to German romanesque typefaces from the late 19th and early 20th centuries, citing Anker Romanisch by Schelter & Giesecke and Hamburger Römisch by Schriftguß A.G. as reference points. They note that during this period many foundries published their own romanesque variants, often with identical designs under different names. The family is offered in text and display versions, each with five weights in roman and italic."
+  },
+  {
+    "name": "Rosart",
+    "foundry": "Camelot",
+    "url": "https://camelot-typefaces.com/rosart",
+    "designer": "Katharina Köhler",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Based on an 18th-century specimen by Jacques-François Rosart from 1768, with references to Fournier and Fleischman, placing it firmly in the Baroque/transitional tradition of the Dutch and French punchcutters.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rosart"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "historical revival",
+      "text",
+      "18th-century",
+      "baroque",
+      "editorial",
+      "classical"
+    ],
+    "summary": "A digital revival of Jacques-François Rosart's 1768 specimen, drawn by Katharina Köhler across four weights with matching italics for contemporary text use.",
+    "description": "Katharina Köhler distilled the idiosyncrasies of Rosart's letterforms by comparing them against Fournier and Fleischman, arriving at a clean interpretation of the 18th-century Dutch tradition. The family runs from Regular to Bold with matching italics, and the construction deliberately keeps Bézier points to a minimum as a point of contemporary discipline. OpenType features include small caps throughout, swash alternates in the italic, old-style and lining figures, and support for approximately 250 Latin-based languages.",
+    "foundry_blurb": "Camelot describe Rosart as a text typeface based on Jacques-François Rosart's 1768 specimen, developed with reference to Fournier and Fleischman to isolate the distinct character of Rosart's forms. Originally cut in steel, it is an interpretation for today's digital era, designed with a modicum of Bézier points as a feature of contemporary type design."
+  }
+]
