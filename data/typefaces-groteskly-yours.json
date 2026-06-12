@@ -1,0 +1,630 @@
+[
+  {
+    "name": "Arlen",
+    "foundry": "Groteskly Yours",
+    "url": "https://groteskly.xyz/fonts/arlen",
+    "designer": null,
+    "year": 2022,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "High-contrast flaring stems and dynamic letterforms drawn from 1980s visual culture and hand-painted sign traditions place this firmly in the display category despite claims of text usability. The exaggerated stroke contrast and expressive construction make it a display sans rather than a functional text face.",
+    "weights": [
+      "Light",
+      "Regular",
+      "SmBold",
+      "Bold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Tight",
+      "Narrow",
+      "Standard",
+      "Relaxed",
+      "Expanded",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Arlen"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "variable",
+      "1980s",
+      "hand-painted",
+      "high-contrast",
+      "expressive",
+      "wide-range",
+      "packaging"
+    ],
+    "summary": "A 36-style variable display sans with high contrast and flaring stems, drawing on 1980s visual culture and hand-painted signage traditions.",
+    "description": "Spanning six width grades from Tight to Wide and six weights from Light to Heavy, the family ships with a Weight and Width variable font axis alongside the static styles. Flaring stems and dynamic letterforms give it a distinctive character rooted in 20th-century sign-painting, while 950+ characters per font cover most Latin and Cyrillic languages with alternates and ligatures included. Best suited to headlines, packaging and advertising work where expressive weight is required.",
+    "foundry_blurb": "Groteskly Yours describe Arlen as a funky variable sans serif type family in 36 styles, inspired by 20th-century hand-painted signs and 1980s visual culture. They highlight its high contrast, flaring stems and dynamic letterforms, and note that despite being a display font it can be used for larger bodies of text. The family supports most Latin and Cyrillic languages and includes alternates toggled via stylistic sets."
+  },
+  {
+    "name": "Oktah Neue",
+    "foundry": "Groteskly Yours",
+    "url": "https://groteskly.xyz/fonts/oktah-neue",
+    "designer": null,
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Simple geometric letterforms with low contrast across all styles, minimal humanist influence, and a neutral, clean construction typical of geometric sans-serif design.",
+    "weights": [
+      "Thin",
+      "ExLight",
+      "UltraLight",
+      "Light",
+      "Normal",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Oktah Neue"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "neutral",
+      "workhorse",
+      "variable",
+      "legible",
+      "minimal",
+      "web",
+      "branding"
+    ],
+    "summary": "A 22-style geometric sans with variable font support, built as an expanded successor to the more limited Oktah family.",
+    "description": "Released in 2020, it extends the original Oktah's simple geometric construction with a broader weight range running from Thin to Heavy, full italic coverage, and a variable font option. Over 2,500 characters provide wide language support, and reworked letterforms aim for greater neutrality across UI, branding and editorial contexts. At its core it is a clean, low-contrast geometric sans suited to workhorse roles at any size.",
+    "foundry_blurb": "Groteskly Yours describe Oktah Neue as a geometric sans serif family released in 2020, building on the original Oktah with expanded language support, enhanced OpenType features and greater versatility. Available in 22 static fonts and a variable font, it is pitched as a workhorse family for web, mobile, graphic design and branding, retaining Oktah's simple geometric letterforms and low contrast while reworking select characters for neutrality and adaptability."
+  },
+  {
+    "name": "Oktah Round",
+    "foundry": "Groteskly Yours",
+    "url": "https://groteskly.xyz/fonts/oktah-round",
+    "designer": null,
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A rounded geometric sans derived from Oktah Neue, with softened terminals and uniform curves characteristic of the geometric sans tradition adapted for a friendly, approachable register.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Oktah Round"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "geometric",
+      "branding",
+      "variable",
+      "friendly",
+      "legible",
+      "packaging",
+      "corporate"
+    ],
+    "summary": "A rounded geometric sans derived from Oktah Neue, offered in 16 styles and a variable font covering weight and slant axes.",
+    "description": "Built as a softer counterpart to Oktah Neue, the family applies rounded corners and refined terminals to a geometric sans structure across eight weights from Thin to Black, each with an italic. Over 1,600 characters per font cover Latin-extended and Extended Cyrillic scripts, alongside geometric shapes and symbols. A variable font handles both weight and slant in a single file, making it practical for screen and branding applications where range and flexibility matter.",
+    "foundry_blurb": "Groteskly Yours describe Oktah Round as a minimalist, geometric rounded sans that retains the qualities of Oktah Neue while reinterpreting letterforms with smooth corners and refined terminals. They position it as warm and friendly yet highly functional, suited to logos, branding, web design and packaging, and highlight its 16 styles, variable font, and broad character set covering most Latin-based languages and Extended Cyrillic."
+  },
+  {
+    "name": "Resist Mono",
+    "foundry": "Groteskly Yours",
+    "url": "https://groteskly.xyz/fonts/resist-mono",
+    "designer": "Eugene Tantsurin, Anna Remm",
+    "year": 2022,
+    "category": "mono",
+    "subcategory": "monospaced sans",
+    "classification_notes": "A monospaced sans-serif designed explicitly for coding and technical use, derived from Resist Sans with inktraps and angled terminals characteristic of functional screen-oriented type.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Resist Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "coding",
+      "inktraps",
+      "technical",
+      "screen",
+      "branding",
+      "calligraphic-italic",
+      "variable"
+    ],
+    "summary": "A coding-oriented monospaced family derived from Resist Sans, with deep inktraps, angled terminals and true italics across seven weights.",
+    "description": "Built as a companion to Resist Sans, the family retains the parent's deep inktraps and angled terminals in a fixed-width format suited to code editors and terminal interfaces. Seven weights from Thin to Bold each carry a true italic with calligraphic influence, while a stylistic set via OpenType provides slanted upright letterforms for those who prefer them. The 1,300-plus character set covers Latin and Cyrillic scripts, and a variable font is offered alongside the 14 static styles.",
+    "foundry_blurb": "Groteskly Yours describe Resist Mono as a monospaced family for coding that draws on the distinctive features of Resist Sans, including deep inktraps and angled terminals. They highlight its true italics with calligraphic influence, an OpenType stylistic set for slanted romans, and a character set of over 1,300 glyphs. The family is positioned for coding, UX, web, graphic design, product design and branding."
+  },
+  {
+    "name": "Gelatic",
+    "foundry": "Groteskly Yours",
+    "url": "https://groteskly.xyz/fonts/gelatic",
+    "designer": "Eugene Tantsurin, Anna Remm",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "variable display",
+    "classification_notes": "Designed explicitly for display use with a concept built around weight increasing as width increases; the six static styles and variable font are intended for headlines and titles rather than text setting.",
+    "weights": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06"
+    ],
+    "optical_sizes_or_widths": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06"
+    ],
+    "subfamilies": [
+      "Gelatic"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "variable",
+      "playful",
+      "headline",
+      "branding",
+      "rounded",
+      "expressive",
+      "wide"
+    ],
+    "summary": "A six-style display family by Eugene Tantsurin and Anna Remm in which width and weight increase together, available as static fonts and a variable font.",
+    "description": "The six styles progress from narrower and lighter to wider and heavier, giving the family a distinctive internal logic suited to expressive headlines and logotypes. Tight spacing, a high x-height and flattened diacritical marks are built in to support compact display setting across Latin-based languages. A variable font accompanies the six static cuts for finer layout control in dynamic or digital contexts.",
+    "foundry_blurb": "Groteskly Yours describe Gelatic as a playful display family where boldness is tied to width, with weight increasing as each style gets wider. Designed for short headlines, titles and logos, it features tight spacing, a high x-height and flattened diacritics for better vertical spacing. The family ships with six static fonts, a variable font and 700+ characters per style covering most Latin-based languages."
+  },
+  {
+    "name": "Greisen",
+    "foundry": "Groteskly Yours",
+    "url": "https://groteskly.xyz/fonts/greisen",
+    "designer": null,
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "industrial sans",
+    "classification_notes": "Described explicitly as an industrial sans serif with narrow proportions, tight spacing and a minimalist functional aesthetic, placing it within the condensed industrial branch of grotesque-influenced sans-serifs.",
+    "weights": [
+      "Thin",
+      "ExLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Greisen"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "industrial",
+      "condensed",
+      "grotesque",
+      "functional",
+      "editorial",
+      "branding",
+      "multilingual",
+      "variable"
+    ],
+    "summary": "A condensed industrial sans in 18 styles with a variable font option, built for space-efficient layouts across editorial, packaging and branding work.",
+    "description": "Greisen runs from Thin to Black with matching italics across all nine weights, and is also available as a variable font. Narrow proportions and tight spacing give it a structured, utilitarian character suited to dense editorial settings and packaging. A broad character set with extended OpenType support adds multilingual reach.",
+    "foundry_blurb": "Groteskly Yours describe Greisen as an industrial sans serif with narrow proportions, tight spacing and sturdy letterforms that balance a minimalist aesthetic with a sense of strength. They position it across editorial, web, packaging and branding, noting that the condensed structure supports space-efficient layouts while the italic styles add movement and emphasis. The family includes multilingual support and extended OpenType features."
+  },
+  {
+    "name": "Porte Neue",
+    "foundry": "Groteskly Yours",
+    "url": "https://groteskly.xyz/fonts/porte-neue",
+    "designer": "Eugene Tantsurin, Anna Remm",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "high-contrast sans",
+    "classification_notes": "A sans-serif with sharp, high contrast inspired by stone-carved letterforms, positioned as a display face for branding and editorial headlines rather than continuous text.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Porte Neue"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "sans-serif",
+      "branding",
+      "editorial",
+      "luxury",
+      "stone-carved",
+      "variable"
+    ],
+    "summary": "A high-contrast display sans drawn from Eastern European stone-carved plaques, updated from the original 2019 Porte with expanded language support and a variable font.",
+    "description": "Inspired by the incised letterforms of stone plaques, Porte Neue uses sharp contrast within a sans-serif structure to produce a typeface suited to luxury branding and editorial headlines. The family runs across six weights from Thin to Bold, plus a variable font, and covers over 200 languages across Latin and Cyrillic scripts. Alternate narrow characters and extensive OpenType features round out a family positioned at the refined end of display typography.",
+    "foundry_blurb": "Groteskly Yours describe Porte Neue as an elegant font family inspired by Eastern European stone-carved plaques, blending sharp contrast with a sans-serif structure and a luxury aesthetic. Originally released as Porte in 2019, the 2025 update refines the outlines, improves diacritic integration and rhythmic consistency, and expands the family to six styles plus a variable font with support for over 200 languages."
+  },
+  {
+    "name": "Refrankt",
+    "foundry": "Groteskly Yours",
+    "url": "https://groteskly.xyz/fonts/refrankt",
+    "designer": null,
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A wide-set grotesque sans with explicit cyberpunk and futuristic styling cues; expanded proportions and angular character place it within the grotesque genre with a strong display bias.",
+    "weights": [
+      "Thin",
+      "ExLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Refrankt"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "futuristic",
+      "cyberpunk",
+      "wide",
+      "display",
+      "branding",
+      "ui",
+      "technology"
+    ],
+    "summary": "An expanded grotesque sans in 18 styles, built around wide proportions and a cyberpunk-inflected aesthetic suited to display and branding work.",
+    "description": "Released in 2023, Refrankt runs from Thin to Black with matching italics across all nine weights, plus a variable font covering the full range. Wide character proportions define its visual personality, pointing the family towards display headlines, packaging and technology branding rather than continuous text. Over 800 glyphs include tabular and old-style figures, superiors, inferiors, fractions, and stylistic alternates, giving it reasonable typographic depth for a display-first design.",
+    "foundry_blurb": "Groteskly Yours describe Refrankt as a clean, modern take on the futuristic grotesque sans serif genre, combining expanded proportions with cyberpunk aesthetics. They position it across UI/UX, packaging, branding, technology, athletics and industrial design, noting its multilingual support and OpenType features including Case-Sensitive Punctuation and Stylistic Alternates alongside a character set of over 800 glyphs."
+  },
+  {
+    "name": "Jouter Sans",
+    "foundry": "Groteskly Yours",
+    "url": "https://groteskly.xyz/fonts/jouter-sans",
+    "designer": null,
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "gothic grotesque",
+    "classification_notes": "Described explicitly as a Gothic sans serif inspired by early Gothic fonts from Farmer Type, with sharp contrast within letterforms and idiosyncratic historical characters typical of nineteenth-century American gothic grotesques.",
+    "weights": [
+      "Thin",
+      "ExLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Jouter Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "gothic",
+      "grotesque",
+      "vintage",
+      "historical",
+      "editorial",
+      "branding",
+      "variable"
+    ],
+    "summary": "A nine-weight sans serif family drawing on nineteenth-century American Gothic types from Farmer Type, with sharp internal contrast and historically idiosyncratic letterforms.",
+    "description": "Released in 18 styles across nine weights from Thin to Black with matching italics and a variable font, Jouter Sans takes its cues from early gothic types issued by Farmer Type. Sharp contrast within strokes and tight spacing give it a period flavour, while multiple stylistic sets allow designers to swap historical forms for more conventional alternatives. With over 700 characters per font and support for more than 200 Latin languages, it functions across body text and headline settings.",
+    "foundry_blurb": "Groteskly Yours describe Jouter Sans as a vintage sans serif inspired by early Gothic fonts from Farmer Type, reinterpreting that heritage through a modern, function-first lens. The family ships in 18 styles with a variable font, over 700 characters, and extensive OpenType features including stylistic sets, fractions, case-sensitive punctuation and tabular figures, all mastered for use at both text and display sizes."
+  },
+  {
+    "name": "Rothek",
+    "foundry": "Groteskly Yours",
+    "url": "https://groteskly.xyz/fonts/rothek",
+    "designer": null,
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Rothek draws on Bauhaus influences with flattened terminals and clean, economical letterforms, placing it firmly in the geometric sans tradition.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExLight",
+      "Light",
+      "Normal",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rothek"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "bauhaus",
+      "minimalist",
+      "sharp",
+      "workhorse",
+      "packaging",
+      "web",
+      "variable"
+    ],
+    "summary": "A sharp geometric sans with Bauhaus influences, spanning 11 weights with matching italics and a variable font option.",
+    "description": "Released in 2019 and updated to version 3.00, this 22-style family runs from Hairline to Black with tight, economical spacing and flattened terminals throughout. Coverage extends to Cyrillic and Vietnamese alongside Latin, supported by OpenType features including Case Sensitive Punctuation and Stylistic Alternates. Suited to packaging, web and app design where a clean, minimal sans is needed across a broad weight range.",
+    "foundry_blurb": "Groteskly Yours describe Rothek as a sharp sans serif type family with Bauhaus influences, comprising 22 static fonts and one variable font. Designed in 2019 as one of the studio's first original releases, it has since become one of their bestselling families. The design prioritises clean outlines, flattened terminals and tight spacing, with those principles carried through to Cyrillic and Vietnamese character sets for global use."
+  },
+  {
+    "name": "Rothek Stencil",
+    "foundry": "Groteskly Yours",
+    "url": "https://groteskly.xyz/fonts/rothek-stencil",
+    "designer": null,
+    "year": 2022,
+    "category": "display",
+    "subcategory": "stencil sans-serif",
+    "classification_notes": "A stencil variant of the Rothek sans-serif family, designed for industrial and display applications while retaining legibility at smaller sizes. The stencil interruptions and geometric structure place it firmly in the display category with a sans-serif skeleton.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExLight",
+      "Light",
+      "Normal",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rothek Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "industrial",
+      "display",
+      "variable",
+      "branding",
+      "editorial",
+      "geometric"
+    ],
+    "summary": "A stencil sans-serif family of 22 styles spanning Hairline to Black, developed as an industrial counterpart to the Rothek family.",
+    "description": "Built as a stencilled extension of the Rothek sans-serif, this family preserves the original proportions while introducing optical adjustments specific to stencil construction. Twenty-two static styles run from Hairline to Black with matching italics, and a variable font covers Weight and Slant axes for flexible use. Coverage exceeds 1,000 characters per style, supporting over 200 languages including Latin, Extended Cyrillic and Vietnamese, with OpenType features including oldstyle figures, tabular numerals and multiple stylistic sets.",
+    "foundry_blurb": "Groteskly Yours describe Rothek Stencil as a stencilled counterpart to their Rothek typeface, preserving the original family's proportions and structure while adding optical adjustments suited to industrial stencil design. They position it as functional across both large-scale display and smaller text uses, available in 22 static styles and as a variable font with Weight and Slant axes, covering more than 200 languages."
+  },
+  {
+    "name": "Noad Sans",
+    "foundry": "Groteskly Yours",
+    "url": "https://groteskly.xyz/fonts/noad-sans",
+    "designer": "Eugene Tantsurin, Anna Remm",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "experimental sans",
+    "classification_notes": "Although rooted in Swiss-style closed-aperture sans serif structure, the defining feature is the visualised Bézier control points, which produce a grunge aesthetic that makes it primarily a display typeface rather than a functional text face.",
+    "weights": [
+      "Mini",
+      "Regular",
+      "Extra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Noad Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grunge",
+      "experimental",
+      "display",
+      "swiss-structure",
+      "variable",
+      "bezier",
+      "expressive",
+      "graphic"
+    ],
+    "summary": "A Swiss-structured sans serif with deliberately visible Bézier control points, producing a grunge texture most effective at display sizes.",
+    "description": "Built on a closed-aperture grotesque skeleton, Noad Sans exposes the node positions of its Bézier curves as visible design elements, creating a rhythmic, textured pattern across headlines and large bodies of text. At smaller sizes the nodes recede and a subtler visual fuzz takes over, maintaining the grunge character without overwhelming legibility. The family ships in three weight levels, Mini, Regular and Extra, each with an italic, plus a variable font that allows users to adjust node size and slant angle independently.",
+    "foundry_blurb": "Groteskly Yours describe Noad Sans as a grunge sans serif built on a sturdy Swiss typographic foundation with closed apertures and straightforward letterforms. Its defining feature is the intentional visualisation of Bézier curve control points, which create a rhythmic node pattern in display use and a subtle visual fuzz at text sizes. Six styles and a variable font are included, supported by over 570 glyphs, OpenType features including ligatures and stylistic alternates, and broad Latin-based language coverage."
+  },
+  {
+    "name": "Bardamu",
+    "foundry": "Groteskly Yours",
+    "url": "https://groteskly.xyz/fonts/bardamu",
+    "designer": null,
+    "year": 2023,
+    "category": "slab",
+    "subcategory": "reverse contrast slab serif",
+    "classification_notes": "Bardamu is a slab serif with deliberate reverse contrast, meaning horizontal strokes are heavier than verticals. The foundry explicitly classifies it as a display slab serif, and the reverse contrast treatment places it firmly in expressive, idiosyncratic display territory.",
+    "weights": [
+      "ExLight",
+      "Light",
+      "Normal",
+      "SmBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bardamu",
+      "Bardamu Reverse",
+      "Bardamu Half Reverse",
+      "Bardamu Half Italic",
+      "Bardamu Italic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "display",
+      "reverse-contrast",
+      "variable",
+      "expressive",
+      "branding",
+      "editorial",
+      "friendly"
+    ],
+    "summary": "A reverse contrast display slab serif in 25 styles, with italic angles ranging from -20° to +20° and a variable font included.",
+    "description": "Reverse contrast runs through all 25 styles, flipping the conventional stroke weight relationship to give the letterforms a lively, unconventional character. The family spans five weights from ExLight to Bold, each available in standard, Reverse, Half Reverse, Half Italic and Italic cuts, with the italic range extending from -20° reverse italic to +20° standard italic. A variable font accompanies the static styles, and OpenType features include stylistic alternates, case-sensitive punctuation and tabular figures.",
+    "foundry_blurb": "Groteskly Yours describe Bardamu as a versatile display slab serif family of 25 fonts with inherent friendliness and good vibes. They highlight its reverse contrast as a defining idiosyncratic quality, and point to its range of italic angles and OpenType features as tools for creating typographic hierarchy. The family is available as a free-to-try font before purchasing a commercial licence."
+  }
+]

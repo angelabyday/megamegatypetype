@@ -345,6 +345,199 @@ const FOUNDRIES = [
       } catch { return false; }
     },
   },
+
+  // ---- Batch 4 ----
+  {
+    name: "Almarena",
+    slug: "almarena",
+    homepage: "https://almarenafoundry.com/",
+    listingUrl: "https://almarenafoundry.com/",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("almarenafoundry.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "collection" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "A2-Type",
+    slug: "a2-type",
+    homepage: "https://a2-type.co.uk/",
+    listingUrl: "https://a2-type.co.uk/fonts",
+    tier: "best",
+    scrollCount: 30,
+    // typefaces at root-level paths (/a2-gothic etc.) — same pattern as Camelot
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("a2-type.co.uk")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        const NAV = new Set(["fonts", "about", "terms-conditions", "privacy-policy", "cookies",
+          "distributors", "in-use", "news", "contact", "licensing", "trial"]);
+        return !NON_TYPEFACE_SLUGS.has(parts[0]) && !NAV.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Binnenland",
+    slug: "binnenland",
+    homepage: "https://www.binnenland.ch/",
+    listingUrl: "https://www.binnenland.ch/",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("binnenland.ch")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typeface" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Catalogue (Florian Karsten)",
+    slug: "catalogue",
+    homepage: "https://fonts.floriankarsten.com/",
+    listingUrl: "https://fonts.floriankarsten.com/catalogue",
+    tier: "best",
+    // typefaces at root-level paths (/fk-grotesk etc.)
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("floriankarsten.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        const NAV = new Set(["catalogue", "eula", "about", "contact", "impressum"]);
+        return !NON_TYPEFACE_SLUGS.has(parts[0]) && !NAV.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Frost",
+    slug: "frost",
+    homepage: "https://frostype.xyz/",
+    listingUrl: "https://frostype.xyz/typefaces",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("frostype.xyz")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typeface" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Groteskly Yours",
+    slug: "groteskly-yours",
+    homepage: "https://groteskly.xyz/",
+    listingUrl: "https://groteskly.xyz/fonts",
+    tier: "best",
+  },
+  {
+    name: "General Type Studio",
+    slug: "general-type-studio",
+    homepage: "https://www.generaltypestudio.com/",
+    listingUrl: "https://www.generaltypestudio.com/fonts",
+    tier: "best",
+  },
+  {
+    name: "Leinster Type",
+    slug: "leinster-type",
+    homepage: "https://www.leinstertype.com/",
+    listingUrl: "https://www.leinstertype.com/fonts",
+    tier: "best",
+  },
+  {
+    name: "Playtype",
+    slug: "playtype",
+    homepage: "https://playtype.com/",
+    listingUrl: "https://playtype.com/typefaces",
+    tier: "best",
+    scrollCount: 30,
+  },
+  {
+    name: "Studio Rene Bieder",
+    slug: "studio-rene-bieder",
+    homepage: "https://www.renebieder.com/",
+    listingUrl: "https://www.renebieder.com/fonts",
+    tier: "best",
+  },
+  {
+    name: "The Designers Foundry",
+    slug: "the-designers-foundry",
+    homepage: "https://thedesignersfoundry.com/",
+    listingUrl: "https://thedesignersfoundry.com/typefaces",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("thedesignersfoundry.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typeface" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Prioritype",
+    slug: "prioritype",
+    homepage: "https://prioritypeco.com/",
+    listingUrl: "https://prioritypeco.com/product-category/font",
+    tier: "best",
+    // Shopify-style: typefaces at /product/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("prioritypeco.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "product" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Taylor Penton",
+    slug: "taylor-penton",
+    homepage: "https://www.taylorpenton.com/",
+    listingUrl: "https://www.taylorpenton.com/fonts",
+    tier: "best",
+    // Shopify: typefaces at /products/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("taylorpenton.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "VJ Type",
+    slug: "vj-type",
+    homepage: "https://vj-type.com/",
+    listingUrl: "https://vj-type.com/collections",
+    tier: "best",
+    // Shopify: typefaces at /collections/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("vj-type.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "collections" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
 ];
 
 // ---- URL filter ----

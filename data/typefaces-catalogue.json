@@ -1,0 +1,408 @@
+[
+  {
+    "name": "FK Grotesk",
+    "foundry": "Catalogue (Florian Karsten)",
+    "url": "https://fonts.floriankarsten.com/fk-grotesk",
+    "designer": "Florian Karsten",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A mechanically constructed grotesque with sharp corners and ink traps, sitting firmly in the grotesque sans-serif tradition with a rigid, systematic appearance rather than humanist warmth.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FK Grotesk",
+      "FK Grotesk Italic",
+      "FK Grotesk Semi-Mono",
+      "FK Grotesk Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended-A",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "mechanical",
+      "sharp",
+      "ink-traps",
+      "variable",
+      "mono-variant",
+      "systematic",
+      "display"
+    ],
+    "summary": "A rigidly mechanical grotesque by Florian Karsten, first released in 2018 and completely redrawn in 2021 across a full weight range with italic, semi-mono and mono companions.",
+    "description": "Originally drawn in 2014 and tested across live projects before its 2018 release, FK Grotesk was fully redrawn in 2021 to cover thin through black with matching italics. Sharp corners and subtle ink traps give it character at large sizes without undermining its legibility at text sizes. The family extends into semi-mono and mono styles, and the whole range is available as a three-axis variable font, covering Latin Extended-A and Vietnamese.",
+    "foundry_blurb": "Catalogue describe FK Grotesk as a rigid typeface with a mechanical appearance suited to both small text and large headlines, with subtle ink traps and sharp corners providing distinctive detail at display sizes. Originally dating to 2014 and released in 2018, the typeface was completely redrawn in 2021 and now spans thin to black with italic, semi-mono and mono styles, as well as a three-axis variable font. It supports Latin Extended-A, Vietnamese and several OpenType features."
+  },
+  {
+    "name": "FK Grotesk Neue",
+    "foundry": "Catalogue (Florian Karsten)",
+    "url": "https://fonts.floriankarsten.com/fk-grotesk-neue",
+    "designer": "Florian Karsten",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Directly inspired by Helvetica and Univers, the canonical neo-grotesque references, but takes a more geometric and mechanistic approach with lower contrast and wider proportions than its predecessors.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FK Grotesk Neue"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended-A",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "helvetica-influenced",
+      "utilitarian",
+      "geometric",
+      "western-european",
+      "opentype"
+    ],
+    "summary": "A neo-grotesque sans drawing on Helvetica and Univers but pushing towards wider proportions and more mechanical outlines.",
+    "description": "Florian Karsten's FK Grotesk Neue takes the familiar cues of the neo-grotesque genre, the double-storey 'a', the splayed 'R', and runs them through a more rigid, lower-contrast lens. Wider proportions borrowed from FK Grotesk and a leaning toward geometric construction distinguish it from the Swiss originals it references. OpenType features include stylistic alternates, a thin punctuation set and a wide range of numeral variants, with coverage across Western, Central and Southeastern European Latin scripts plus Vietnamese.",
+    "foundry_blurb": "Catalogue describe FK Grotesk Neue as a down-to-earth sans-serif inspired by Helvetica and Univers, taking a contemporary, more mechanical approach to the neo-grotesque with lower contrast, wider proportions and rather geometric outlines. It supports Latin Extended-A and Vietnamese, and makes full use of OpenType features including stylistic alternates, thin punctuation and numeral variants."
+  },
+  {
+    "name": "FK Screamer",
+    "foundry": "Catalogue (Florian Karsten)",
+    "url": "https://fonts.floriankarsten.com/fk-screamer",
+    "designer": "Florian Karsten",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "condensed display",
+    "classification_notes": "A tightly spaced condensed display family designed explicitly for headlines and wordmarks, with block-like massed text and compact diacritics placing it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FK Screamer",
+      "FK Screamer Legacy"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended-A",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "display",
+      "headline",
+      "wordmark",
+      "block",
+      "tight-spacing",
+      "western-european",
+      "central-european"
+    ],
+    "summary": "A condensed display family with tight spacing and compact diacritics that produces a dense, block-like texture well suited to headlines and wordmarks.",
+    "description": "Designed by Florian Karsten and first released in 2018, FK Screamer prioritises compactness: tight letter-spacing and reduced diacritic heights create a visually solid mass that reads as a single unit at display sizes. The family covers Latin Extended-A and Vietnamese, making it workable across Western, Central and Southeastern European languages. The original single-weight release, which included slanted and backslanted styles, is preserved as FK Screamer Legacy.",
+    "foundry_blurb": "Florian Karsten describes FK Screamer as a condensed family primarily intended for display use, noting that its tight spacing and compact diacritical marks produce a robust, block-like appearance ideal for headlines and wordmarks. Latin Extended-A and Vietnamese support were added from v2.0.0, with the original single-weight version including slanted and backslanted styles now available as FK Screamer Legacy."
+  },
+  {
+    "name": "FK Roman Standard",
+    "foundry": "Catalogue (Florian Karsten)",
+    "url": "https://fonts.floriankarsten.com/fk-roman-standard",
+    "designer": "Florian Karsten",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Inspired by Times New Roman, a transitional serif with vertical metrics calibrated to pair with FK Grotesk Neue; sits in the workhorse newspaper-derived tradition.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FK Roman Standard"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended-A",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "times-inspired",
+      "workhorse",
+      "text",
+      "newspaper",
+      "neutral",
+      "pairing"
+    ],
+    "summary": "A neutral text serif by Florian Karsten, drawn from the Times New Roman tradition and sized to pair directly with FK Grotesk Neue.",
+    "description": "Vertical metrics are matched exactly to FK Grotesk Neue, making the two families a ready-made workhorse combination for editorial and utility work. The design draws on newspaper typography conventions without trying to depart from them, landing in familiar and reliable territory. Coverage includes Latin Extended-A and Vietnamese, covering Western, Central and Southeastern European languages.",
+    "foundry_blurb": "Catalogue describe FK Roman Standard as a neutral serif inspired by the newspaper typography giant Times New Roman, released following FK Grotesk Neue in 2020. They position it as a friendly, familiar-looking utilitarian typeface whose vertical metrics are calibrated to match FK Grotesk Neue, making the two an ideal workhorse pairing for almost any occasion."
+  },
+  {
+    "name": "FK Raster Grotesk",
+    "foundry": "Catalogue (Florian Karsten)",
+    "url": "https://fonts.floriankarsten.com/fk-raster-grotesk",
+    "designer": "Florian Karsten",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "pixel/raster sans",
+    "classification_notes": "A pixel-based sans-serif designed on a 12-pixel grid, with a variable axis that transitions between sharp pixelated forms and fully rounded shapes. The Compact variant shifts toward display use, making this a hybrid between pixel type and conventional grotesque.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FK Raster Grotesk",
+      "FK Raster Grotesk Compact"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended-A"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "pixel",
+      "raster",
+      "variable",
+      "grotesque",
+      "display",
+      "grid-based",
+      "screen"
+    ],
+    "summary": "A pixel-grid sans with a variable axis that transitions between sharply pixelated and fully rounded forms, optimised for 12-pixel rendering.",
+    "description": "Built on a pixel grid and sharpest at 12px, the typeface uses a variable font axis to move smoothly between hard-edged raster forms and completely rounded shapes, producing strong visual contrast between the two poles. The Compact variant steps away from the strict pixel grid for use as a tightly spaced display face with careful kerning to close superfluous gaps. Latin Extended-A coverage spans Western, Central and Southeastern European languages.",
+    "foundry_blurb": "Catalogue describe FK Raster Grotesk as a pixel-based sans-serif that is sharpest at 12 pixels. Its Compact variant partially abandons the pixel grid to function as a tightly kerned display typeface. The variable font transitions smoothly between sharp, pixelated forms and completely rounded shapes, creating strong contrast between the two states. The typeface supports Latin Extended-A and several OpenType features."
+  },
+  {
+    "name": "FK Raster Roman",
+    "foundry": "Catalogue (Florian Karsten)",
+    "url": "https://fonts.floriankarsten.com/fk-raster-roman",
+    "designer": "Florian Karsten",
+    "year": null,
+    "category": "serif",
+    "subcategory": "pixel serif",
+    "classification_notes": "A pixel-based serif designed on a 12-pixel grid, placing it firmly in the bitmap/pixel typeface tradition despite its variable font implementation that can interpolate to fully rounded forms.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FK Raster Roman",
+      "FK Raster Roman Compact"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended-A"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "pixel",
+      "bitmap",
+      "serif",
+      "variable",
+      "display",
+      "grid-based",
+      "experimental"
+    ],
+    "summary": "A pixel-based serif by Florian Karsten, sharpest at 12 pixels, with a variable axis that interpolates from hard-edged bitmap forms to fully rounded shapes.",
+    "description": "Built on a pixel grid and designed for use at 12 pixels, FK Raster Roman has a Compact variant that loosens the grid constraints for tightly kerned display setting. The variable font spans from crisp, pixelated letterforms to completely rounded shapes, producing a stark visual contrast across the axis. Latin Extended-A coverage reaches Western, Central and Southeastern European languages.",
+    "foundry_blurb": "FK Raster Roman is described by Catalogue as a pixel-based serif at its sharpest at 12 pixels. Its Compact variant partially departs from the pixel grid to function as a tightly spaced display face with careful kerning. The variable font transitions between sharp pixelated forms and fully rounded shapes, with support for Latin Extended-A and several OpenType features."
+  },
+  {
+    "name": "FK Display",
+    "foundry": "Catalogue (Florian Karsten)",
+    "url": "https://fonts.floriankarsten.com/fk-display",
+    "designer": "Florian Karsten",
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "A single-weight sans-serif designed expressly for headline and large-scale use, with exaggerated proportions and optical quirks that place it firmly in the display category rather than general-purpose sans-serif.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FK Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended-A",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "headlines",
+      "expressive",
+      "single-weight",
+      "quirky",
+      "sans-serif",
+      "large-scale"
+    ],
+    "summary": "A single-weight display sans with strongly contrasting uppercase widths and deliberately quirky letterforms built for headline use.",
+    "description": "Designed by Florian Karsten for headlines and large-scale settings, FK Display leans on exaggerated width contrasts between uppercase letters, pushed optical compensations and idiosyncratic details to give it a distinctive voice at size. It comes in one weight only, which focuses its use case squarely on titling and display work rather than body or mixed-weight systems. Language coverage spans Latin Extended-A, covering Western, Central and Southeastern European languages, plus Vietnamese.",
+    "foundry_blurb": "FK Display is a single-weight sans-serif intended for headlines and larger-scale applications, with an expressive character drawn from significantly contrasting uppercase width proportions, exaggerated optical compensations and some quirky letterforms. It supports Latin Extended-A as well as Vietnamese and several OpenType features."
+  },
+  {
+    "name": "Space Grotesk",
+    "foundry": "Catalogue (Florian Karsten)",
+    "url": "https://fonts.floriankarsten.com/space-grotesk",
+    "designer": "Florian Karsten",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A proportional grotesque sans derived from a fixed-width source, retaining monospace quirks while adapting for general text and display use. Its idiosyncratic details sit outside clean geometric or humanist traditions, placing it firmly in grotesque territory.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Space Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Vietnamese",
+      "Pinyin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "monospace-derived",
+      "quirky",
+      "text",
+      "proportional",
+      "latin-extended"
+    ],
+    "summary": "A proportional grotesque adapted from Colophon Foundry's Space Mono, preserving its distinctive monospace character while improving legibility at text sizes.",
+    "description": "Florian Karsten drew Space Grotesk in 2018 as a proportional variant of Space Mono, retaining the fixed-width original's idiosyncratic stroke details and terminals rather than smoothing them away. The result sits between a conventional grotesque and something with more mechanical personality, making it a reasonable choice for interfaces, editorial work or branding that wants a technical edge without committing to a monospace. Language support covers Latin Vietnamese, Pinyin, and Western, Central and South-Eastern European scripts, with OpenType features including old-style figures, tabular figures, fractions and stylistic alternates.",
+    "foundry_blurb": "Space Grotesk is a proportional sans-serif based on Colophon Foundry's Space Mono family from 2016, originally designed by Florian Karsten in 2018. It retains the source typeface's idiosyncratic details while optimising for improved readability at non-display sizes, and includes broad Latin language support alongside several OpenType features."
+  },
+  {
+    "name": "Montagu Slab",
+    "foundry": "Catalogue (Florian Karsten)",
+    "url": "https://fonts.floriankarsten.com/montagu-slab",
+    "designer": "Florian Karsten",
+    "year": null,
+    "category": "slab",
+    "subcategory": "display slab serif",
+    "classification_notes": "A 19th-century-inspired slab serif with a variable optical size axis that shifts from text-friendly to high-contrast display. The upturned tails and variable contrast place it firmly in the classical display slab tradition.",
+    "weights": [
+      "Variable weight axis"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Montagu Slab"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Vietnamese",
+      "Pinyin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "display",
+      "variable",
+      "19th-century",
+      "classical",
+      "high-contrast",
+      "editorial"
+    ],
+    "summary": "A variable slab serif by Florian Karsten drawing on 19th-century classical design, with an optical size axis that shifts x-height, contrast and aperture from text to display use.",
+    "description": "The optical size axis is the defining feature here: at the text end it offers a generous x-height and open apertures suited to body copy, while at the display end it tightens spacing, heightens contrast and introduces prominent upturned tails. A single variable file covers both extremes and everything between. Language support extends to Latin Vietnamese, Pinyin and all Western, Central and South-Eastern European scripts, alongside OpenType features including superscript and subscript numerals, fractions and stylistic alternates.",
+    "foundry_blurb": "Catalogue describes Montagu Slab as a slab-serif display typeface designed by Florian Karsten, inspired by 19th-century classic designs. It is available as a variable font with weight and optical size axes; the optical size axis controls x-height, spacing, contrast and aperture, ranging from a low-contrast text variant to a tight, high-contrast display version with prominent upturned tails. The typeface supports Latin Vietnamese, Pinyin and Western, Central and South-Eastern European languages, with OpenType features including superscript and subscript numerals, fractions and stylistic alternates."
+  },
+  {
+    "name": "Privacy & Cookies",
+    "foundry": "Catalogue (Florian Karsten)",
+    "url": "https://fonts.floriankarsten.com/privacy-cookies",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The page scraped is a privacy and cookies policy page, not a typeface product page. No typeface information is present to classify.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "privacy",
+      "policy",
+      "no-typeface-data"
+    ],
+    "summary": "This page contains only the privacy and cookie policy for Florian Karsten Typefaces, with no typeface information present.",
+    "description": "The scraped URL points to a privacy and cookies policy document for the Florian Karsten Typefaces website. No typeface name, design details, weights, or specimen information are included on this page. A valid typeface entry cannot be produced from this content.",
+    "foundry_blurb": "Florian Karsten Typefaces outlines their data collection, storage and cookie practices in this policy, effective from 30 September 2020, covering how user information is handled across their website."
+  }
+]

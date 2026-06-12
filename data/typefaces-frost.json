@@ -1,0 +1,712 @@
+[
+  {
+    "name": "Scenik",
+    "foundry": "Frost",
+    "url": "https://www.frostype.xyz/typeface/scenik",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Scenik presents as a contemporary grotesque sans-serif with a wide weight range and distinctive stylistic alternates, suggesting a rational yet expressive typeface in the grotesque tradition.",
+    "weights": [
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Heavy",
+      "Extraheavy",
+      "Black",
+      "Extrablack",
+      "Super"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Scenik Text",
+      "Scenik Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "contemporary",
+      "extended-family",
+      "stylistic-alternates",
+      "editorial",
+      "multi-weight",
+      "italic",
+      "mono"
+    ],
+    "summary": "A 78-style grotesque family from Frost spanning 13 weights, with matching italic, retalic and monospaced variants alongside multiple stylistic alternates.",
+    "description": "Running from Medium through to Super, the family offers three style variants per weight: upright, italic and a distinctive retalic cut. Stylistic sets include at least four alternate configurations, and a separate mono subfamily extends its use into typographic systems and code. The breadth of weights and the inclusion of a retalic make it a versatile choice for editorial and branding work that needs range without switching families.",
+    "foundry_blurb": "Frost present Scenik as a 78-style family across 13 weights, available in Text and Mono subfamilies, with case-sensitive forms, tabular figures and multiple stylistic set options accessible through the interactive tester on their site."
+  },
+  {
+    "name": "Scenik Text",
+    "foundry": "Frost",
+    "url": "https://www.frostype.xyz/typeface/scenik-text",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "contemporary sans",
+    "classification_notes": "Scenik Text presents clean, contemporary letterforms without strong historical grotesque or geometric references, positioned as a text-optimised sans with a wide weight range and both upright and italic variants.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Scenik Text",
+      "Scenik Text Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "contemporary",
+      "text",
+      "editorial",
+      "wide-weight-range",
+      "retalic",
+      "mono",
+      "opentype"
+    ],
+    "summary": "A 54-style text sans from Frost spanning 13 weights with upright, italic and 'retalic' variants, plus a companion monospaced subfamily.",
+    "description": "Scenik Text covers 13 weights from Thin to Heavy, each offered in Regular, Italic and a distinctive oblique-style 'Retalic' cut, amounting to 54 styles in total. A Mono subfamily extends the family for code or tabular contexts. Multiple OpenType stylistic sets offer alternate letterforms for refinement across different settings.",
+    "foundry_blurb": "Frost present Scenik Text as a 54-style family across 13 weights, available in Standard and Mono subfamilies, with stylistic set options for customising the appearance of individual characters."
+  },
+  {
+    "name": "Scenik Mono",
+    "foundry": "Frost",
+    "url": "https://www.frostype.xyz/typeface/scenik-mono",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced grotesque",
+    "classification_notes": "Scenik Mono is the monospaced cut of the Scenik family, designed for monospaced applications and body copy, drawing on modernist grotesque influences from Margate's coastal typography heritage.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Scenik Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "grotesque",
+      "modernist",
+      "editorial",
+      "coding",
+      "body-copy",
+      "variable"
+    ],
+    "summary": "The monospaced cut of the Scenik family, spanning nine weights from Thin to Heavy and aimed at body copy and technical typesetting.",
+    "description": "Part of the three-family Scenik system inspired by the modernist typography of Margate, this mono cut is pitched specifically at monospaced applications and smaller body copy. Nine weights are available across the family, with a variable font included when purchasing the full family. OpenType features include stylistic alternates, case-sensitive forms, tabular and proportional figures and fractions, alongside broad Latin Extended language support covering over 100 languages.",
+    "foundry_blurb": "Frost describe Scenik as a typeface inspired by the modernist typography of Margate, blending influences from the 1930s to the present day. The mono cut is one of three families within the wider Scenik system — alongside the standard and text cuts — and is designed specifically for monospaced applications and smaller body copy. The overall family spans 142 styles across 13 weights and three families."
+  },
+  {
+    "name": "Lambert",
+    "foundry": "Frost",
+    "url": "https://www.frostype.xyz/typeface/lambert",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Lambert presents as a contemporary grotesque sans-serif with a wide weight range from Hairline to Black, including a distinctive Skeleton style. The clean, upright roman and matching italics are characteristic of neo-grotesque or refined grotesque traditions.",
+    "weights": [
+      "Black",
+      "Heavy",
+      "Bold",
+      "Semibold",
+      "Medium",
+      "Regular",
+      "Book",
+      "Light",
+      "Ultralight",
+      "Thin",
+      "Ultrathin",
+      "Hairline",
+      "Skeleton"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lambert"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "editorial",
+      "wide-range",
+      "hairline",
+      "skeleton",
+      "neutral",
+      "contemporary"
+    ],
+    "summary": "A 26-style grotesque sans spanning 13 weights from Hairline to Black, with a notable Skeleton cut at the extreme end of the range.",
+    "description": "Lambert covers an unusually broad weight spectrum, running from Hairline and Skeleton through to Black, with italic counterparts for each weight. Five stylistic sets offer alternate character options, and features such as tabular figures and case-sensitive punctuation are included across the family. The range makes it adaptable across editorial, identity and display contexts where weight contrast is a primary design tool.",
+    "foundry_blurb": "Frost present Lambert as a 26-style family across 13 weights, with interactive specimen controls for tracking, case-sensitive forms, tabular figures and five stylistic sets."
+  },
+  {
+    "name": "System Blank",
+    "foundry": "Frost",
+    "url": "https://www.frostype.xyz/typeface/system-blank",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "System Blank is labelled a grotesk by the foundry, presenting clean upright and italic cuts across an extremely wide weight range typical of contemporary grotesque sans-serif families. A companion mono subfamily further anchors it in the grotesque tradition.",
+    "weights": [
+      "Ultrathin",
+      "Thin",
+      "Hairline",
+      "Ultralight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Skeleton"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "System Blank",
+      "System Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "mono",
+      "wide-weight-range",
+      "contemporary",
+      "editorial",
+      "skeleton",
+      "system"
+    ],
+    "summary": "A 26-style grotesque family spanning 13 weights from Hairline to Black, with a companion mono and an unusual Skeleton cut at the extreme light end.",
+    "description": "The family runs from Ultrathin and Hairline through to Heavy and Black, each weight paired with an italic, making 26 styles in total. A Skeleton variant sits at the lightest extreme, offering a stroked outline treatment rather than a conventional thin weight. System Mono extends the family into monospaced territory, broadening its use across editorial and technical contexts.",
+    "foundry_blurb": "Frost present System Blank as a grotesk and mono pairing, offering 26 styles across 13 weights with features including case-sensitive forms and tabular figures."
+  },
+  {
+    "name": "System Grotesk",
+    "foundry": "Frost",
+    "url": "https://www.frostype.xyz/typeface/system-grotesk",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "System Grotesk is a grotesque sans-serif with a wide weight range from Hairline to Black, including a Skeleton cut, consistent with the neo-grotesque tradition adapted for contemporary use.",
+    "weights": [
+      "Ultrathin",
+      "Hairline",
+      "Thin",
+      "Ultralight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Skeleton"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Wide"
+    ],
+    "subfamilies": [
+      "System Grotesk",
+      "System Grotesk Wide"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "editorial",
+      "wide-range",
+      "contemporary",
+      "neutral",
+      "versatile"
+    ],
+    "summary": "A 26-style grotesque family from Frost spanning 13 weights, from Hairline to Black, with a distinctive Skeleton cut alongside the standard and italic styles.",
+    "description": "The family covers an unusually broad tonal range, running from Ultrathin and Hairline through to Heavy and Black, with matching italics throughout. A Skeleton weight adds a structural, open-counter variant that sits outside the typical weight progression. A Wide subfamily extends the range further for display and headline use at expanded proportions.",
+    "foundry_blurb": "System Grotesk is offered by Frost in 26 styles across 13 weights, including a Skeleton variant and a Wide subfamily, with tabular figures and case-sensitive features built in."
+  },
+  {
+    "name": "System Mono",
+    "foundry": "Frost",
+    "url": "https://www.frostype.xyz/typeface/system-mono",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced grotesque",
+    "classification_notes": "A monospaced neo-grotesque with slab serif details introduced to distinguish it within the constraints of fixed-width spacing, making it a hybrid mono rather than a pure grotesque.",
+    "weights": [
+      "Black",
+      "Heavy",
+      "Bold",
+      "Semibold",
+      "Medium",
+      "Regular",
+      "Book",
+      "Light",
+      "Ultralight",
+      "Thin",
+      "Ultrathin",
+      "Hairline",
+      "Skeleton"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "System Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "neo-grotesque",
+      "slab",
+      "technical",
+      "system",
+      "extended-weights",
+      "ui"
+    ],
+    "summary": "A monospaced neo-grotesque with 13 weights that introduces slab serifs to give the fixed-width format a more distinct character.",
+    "description": "Part of Frost's System family, this mono cut departs from the proportional grotesque by adding slab serifs and tighter curves to cope with the restrictions of fixed-width spacing. The weight range runs from Skeleton to Black, giving it unusual depth for a monospaced face and allowing it to hold up from display headings down to small body text. The glyph set exceeds 750 characters, covering extended Latin, multiple numeral styles, symbols, arrows and case-sensitive forms.",
+    "foundry_blurb": "Frost describe System Mono as a monospaced neo-grotesque that, working within the restrictions of limited space, has developed its own personality through the addition of slab serifs and tighter curves. It inherits the graphic attributes of the broader System family while offering a more extensive glyph set, and was expanded further following commission work on Our Time with Catherine Garcia."
+  },
+  {
+    "name": "Meyer",
+    "foundry": "Frost",
+    "url": "https://www.frostype.xyz/typeface/meyer",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The foundry explicitly describes Meyer as a transitional serif, with characteristics drawn from traditional and gothic-esque serifs. Its slightly condensed proportions and references to 1970s–80s advertising typography place it firmly in the transitional category.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Meyer"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "serif",
+      "advertising",
+      "editorial",
+      "condensed",
+      "retro",
+      "running",
+      "1980s"
+    ],
+    "summary": "A slightly condensed transitional serif drawn from the typographic conventions of 1970s and 80s running-shoe advertising, released in 16 styles across 8 weights.",
+    "description": "Inspired by the editorial typography of American sneaker advertising from the 1970s and 80s, Meyer combines traditional serif construction with gothic-esque details and slightly condensed proportions. The family spans Light to Black with matching italics and includes a notable set of OpenType features: uppercase discretionary ligatures, alternate umlaut accents placed within character counters, circled numerals and a broad arrow set. Language support extends across a wide range of Latin-script languages, from Afrikaans to Slovenian.",
+    "foundry_blurb": "Frost describe Meyer as a transitional serif family shaped by the editorial typography of 1970s and 80s running-sneaker advertising. The design mixes traditional and gothic-esque serif characteristics with a slightly condensed stance, and offers features including uppercase discretionary ligatures, counter-positioned umlaut alternates, circled numbers and a wide arrow set."
+  },
+  {
+    "name": "Calhern",
+    "foundry": "Frost",
+    "url": "https://www.frostype.xyz/typeface/calhern",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Calhern presents as a grotesque sans-serif with a wide range of weights from Hairline to Black, plus a Skeleton style and condensed variant, consistent with the neo-grotesque tradition extended into contemporary type design.",
+    "weights": [
+      "Hairline",
+      "Ultrathin",
+      "Thin",
+      "Ultralight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Skeleton"
+    ],
+    "optical_sizes_or_widths": [
+      "Wide",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Calhern",
+      "Calhern Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "wide-range",
+      "condensed",
+      "editorial",
+      "contemporary",
+      "skeleton",
+      "display",
+      "text"
+    ],
+    "summary": "A grotesque sans in 26 styles spanning 13 weights, from Hairline to Black, with matching italics, a Condensed subfamily and an unusual Skeleton cut.",
+    "description": "The family runs an exceptionally wide weight range from Hairline and Ultrathin through to Heavy and Black, with every weight accompanied by an italic. A Wide and a Condensed variant extend its typographic range further, while a Skeleton style offers an inline or outline effect for display use. The combination of extreme weight contrast and a dedicated Condensed subfamily makes it well suited to editorial hierarchies and headline-led design.",
+    "foundry_blurb": "Frost present Calhern as a 26-style family across 13 weights, offered in both Wide and Condensed proportions, with case-sensitive and tabular figure features throughout."
+  },
+  {
+    "name": "Calhern Wide",
+    "foundry": "Frost",
+    "url": "https://www.frostype.xyz/typeface/calhern-wide",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Calhern Wide reads as a grotesque sans-serif, with a wide proportioned cut across an extensive weight range from Hairline to Black, suggesting a contemporary take on classical grotesque forms.",
+    "weights": [
+      "Ultrathin",
+      "Thin",
+      "Hairline",
+      "Ultralight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Skeleton"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Calhern",
+      "Calhern Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "wide",
+      "editorial",
+      "contemporary",
+      "extended-family",
+      "display",
+      "text"
+    ],
+    "summary": "A wide-set grotesque spanning 13 weights from Hairline to Black, with a companion Skeleton style and full italics throughout.",
+    "description": "Part of the Calhern family alongside a standard and condensed cut, Calhern Wide offers 26 styles across 13 weights, running from Ultrathin and Hairline through to Heavy and Black. Each weight carries a matching italic, and the family includes a Skeleton variant at the extreme end. The range gives designers broad coverage for both text and display use within a single, cohesive grotesque system.",
+    "foundry_blurb": "Frost presents Calhern Wide as a 26-style, 13-weight wide-proportioned grotesque, part of the broader Calhern family that also includes Standard and Condensed cuts."
+  },
+  {
+    "name": "Calhern Condensed",
+    "foundry": "Frost",
+    "url": "https://www.frostype.xyz/typeface/calhern-condensed",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Calhern Condensed is a condensed grotesque sans-serif with a wide weight range from Hairline to Black, including a Skeleton variant. Its upright, tightly fitted letterforms and extensive weight range place it firmly in the grotesque tradition.",
+    "weights": [
+      "Hairline",
+      "Ultrathin",
+      "Thin",
+      "Ultralight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Skeleton"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Calhern Condensed",
+      "Calhern"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "condensed",
+      "editorial",
+      "display",
+      "wide-weight-range",
+      "posters",
+      "identity"
+    ],
+    "summary": "A condensed grotesque running 26 styles across 13 weights, from Hairline to Black, with a companion Skeleton cut.",
+    "description": "The family spans an unusually broad weight range, from Hairline and Ultrathin through to Heavy and Black, each with a matching italic. A Skeleton weight adds an outline variant at the extreme end of the range. Calhern Condensed sits alongside a Wide companion under the broader Calhern family, making it suited to editorial hierarchies, poster work and identity systems that need tightly fitted letterforms across a wide tonal range.",
+    "foundry_blurb": "Calhern Condensed is presented by Frost as a 26-style, 13-weight condensed typeface, available alongside a Wide variant as part of the wider Calhern family."
+  },
+  {
+    "name": "Bureau",
+    "foundry": "Frost",
+    "url": "https://www.frostype.xyz/typeface/bureau",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The foundry describes Bureau as a Renaissance-inspired transitional serif, citing influences from old-style metal punch cuts and letterforms associated with Granjon and Garamond, with sharp serifs and horizontal flat ink traps in the italic cuts placing it squarely in transitional territory.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bureau"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "serif",
+      "editorial",
+      "renaissance",
+      "print",
+      "text",
+      "ligatures",
+      "oldstyle-figures"
+    ],
+    "summary": "A transitional serif in 16 styles, drawn from Renaissance metal punch-cutting traditions and the letterform language of Garamond and Granjon.",
+    "description": "Bureau runs from Light to Black with matching italics, totalling 16 styles across 8 weights. The sharp serifs and horizontal flat ink traps in the italic cuts are a direct product of digital drawing methods, and the family ships with discretionary ligatures, oldstyle figures, circled numerals and a wide arrow set. Language support spans an extensive range of Latin-based languages, covering most of Western and Central Europe.",
+    "foundry_blurb": "Frost describe Bureau as a Renaissance-inspired transitional serif, first influenced by handcrafted metal punch cuts from early European printing. The typeface reflects hard edges and elegant curves drawn from old-style serifs such as Granjon and Garamond, with digital construction introducing sharp vectors, flat ink traps in the italics and a suite of OpenType features including discretionary ligatures, oldstyle figures, decorative italics and an alternate double-storey at symbol."
+  },
+  {
+    "name": "Polar",
+    "foundry": "Frost",
+    "url": "https://www.frostype.xyz/typeface/polar",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "Polar is explicitly labelled as a mono typeface by the foundry. Its specimen shows a geometric, structured letterform consistent with a monospaced geometric sans tradition, with a distinctive Skeleton weight suggesting an architectural design approach.",
+    "weights": [
+      "Hairline",
+      "Ultrathin",
+      "Thin",
+      "Ultralight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Skeleton"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Polar"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "mono",
+      "geometric",
+      "technical",
+      "editorial",
+      "wide-weight-range",
+      "skeleton",
+      "structured",
+      "minimalist"
+    ],
+    "summary": "A monospaced geometric family from Frost spanning 13 weights, including an unusual Skeleton cut, across 26 styles with full italic coverage.",
+    "description": "Spanning Hairline to Black with matching italics, this monospaced geometric family offers an unusually wide tonal range for a mono typeface. The standout Skeleton weight strips letters to their outlines, giving the family a technical, architectural edge that extends its usefulness beyond coding or tabular work into editorial and display contexts. Opentype features include case-sensitive forms, tabular figures and two stylistic sets, pointing to considered typographic utility alongside its formal ambition.",
+    "foundry_blurb": "Polar is a mono typeface from Frost offered in 26 styles across 13 weights, with features including case-sensitive forms, tabular figures and stylistic alternates."
+  },
+  {
+    "name": "Polar Mono",
+    "foundry": "Frost",
+    "url": "https://www.frostype.xyz/typeface/polar-mono",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "A monospaced typeface offered in both a strict mono and a semi-mono variant across 13 weights, placing it firmly in the mono category with geometric construction evident in its even spacing and clean forms.",
+    "weights": [
+      "Hairline",
+      "Ultrathin",
+      "Thin",
+      "Ultralight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Skeleton"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Polar Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "technical",
+      "editorial",
+      "wide-weight-range",
+      "semi-mono",
+      "coding",
+      "contemporary"
+    ],
+    "summary": "A monospaced family spanning 13 weights from Hairline to Black, offered in both strict Mono and Semi Mono variants across 26 styles.",
+    "description": "Each weight ships in two spacing variants: a strict fixed-pitch Mono and a Semi Mono with slightly relaxed proportions, giving the family practical range across both editorial and technical contexts. The 13-weight ladder runs from an extreme Hairline and Skeleton through to Black, making it one of the more exhaustively graded mono families available from an independent foundry. The Skeleton weight, sitting at the light extreme, is an outlined or inline variant that adds a display option to the range.",
+    "foundry_blurb": "Frost describe Polar Mono as a 26-style, 13-weight family available in both Mono and Semi Mono variants, presented across weights from Skeleton and Hairline through to Black."
+  }
+]

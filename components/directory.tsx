@@ -10,6 +10,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
+import { FoundrySelect } from "@/components/foundry-select";
 import { TypefaceCard } from "@/components/typeface-card";
 import { CATEGORIES, TIERS, type Category, type DirectoryEntry, type Tier } from "@/lib/typefaces";
 import type { FoundryInfo } from "@/lib/foundry-map";
@@ -127,19 +128,11 @@ export function Directory({
           <h2 className="mb-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
             Foundry
           </h2>
-          <div className="flex flex-col gap-1.5">
-            {foundries.map((f) => (
-              <label key={f.slug} className="flex items-center gap-2 text-sm">
-                <Checkbox
-                  checked={selectedFoundries.has(f.name)}
-                  onCheckedChange={() =>
-                    toggle(selectedFoundries, f.name, setSelectedFoundries)
-                  }
-                />
-                {f.name}
-              </label>
-            ))}
-          </div>
+          <FoundrySelect
+            foundries={foundries}
+            selected={selectedFoundries}
+            onChange={setSelectedFoundries}
+          />
         </div>
 
         <div className="mt-5">

@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Micronova",
+    "foundry": "Binnenland",
+    "url": "https://www.binnenland.ch/typeface/micronova",
+    "designer": "Michael Mischler and Nik Thoenen",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Micronova is a geometric sans built on a mathematical, super-elliptical system derived from Eurostile and Microgramma lineage, with clean linear strokes and precisely tuned proportions consistent with the International Style tradition.",
+    "weights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Standard",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Micronova"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "eurostile-lineage",
+      "variable",
+      "swiss",
+      "modernist",
+      "systematic",
+      "superelliptical",
+      "corporate"
+    ],
+    "summary": "A Swiss geometric sans by Michael Mischler and Nik Thoenen, reworking the Eurostile and Microgramma lineage through a three-axis variable font with weight, width and x-height controls.",
+    "description": "Rooted in Aldo Novarese's super-elliptical forms from Eurostile (1962) and Microgramma (1952), Micronova builds a precise mathematical system offering eight weights from 100 to 800, each with italic, and three defined widths accessible via OpenType features or variable font sliders. The x-height axis adds a further layer of control, making it a disciplined tool for fine-tuned typesetting at any size in print or screen contexts. It also serves as Binnenland's own corporate typeface, released in 2025.",
+    "foundry_blurb": "Binnenland describe Micronova as building on progressive modernist principles, tracing its study back to Novarese's Eurostile and its predecessor Microgramma, both products of 1950s International Style technological optimism. The clean, linear design rests on a mathematical system with three variable axes — weight, width and x-height — intended for precise, subtle typographic control rather than exaggerated variation, and suited to any environment at any size."
+  },
+  {
+    "name": "Formale Grotesque",
+    "foundry": "Binnenland",
+    "url": "https://www.binnenland.ch/typeface/formale-grotesque",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A Swiss grotesque with humanistic tendencies, sitting in the tradition of early 20th-century rationalist type design. The page explicitly positions it within the grotesque idea and the radical rationalisation movement of the 1890s.",
+    "weights": [
+      "Light",
+      "Normal",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "subfamilies": [
+      "Formale Grotesque"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "swiss",
+      "humanist",
+      "rationalist",
+      "editorial",
+      "text",
+      "opentype"
+    ],
+    "summary": "A Swiss grotesque in three weights and four optical grades, balancing technical construction with humanistic details drawn from early rationalist type design.",
+    "description": "Three weights, Light, Normal and Bold, each available across four grades with matching italics, giving twelve styles in total plus an OpenType alternate set. Characteristic details include wide open round letters, angled cuts on f, r and t, and conspicuously equal widths on B, P and R. The design sits at the intersection of technical rigour and humanistic warmth, most evident in the contrast between the constructed a and g and the more open b and e.",
+    "foundry_blurb": "Binnenland describe Formale Grotesque through its formal characteristics: oblique inclinations repeated at consistent angles across related glyph groups, wide open round characters, and accentuated downswings. They frame the typeface conceptually around the grotesque as an idea, citing Bruno Latour and the radical rationalisation movement of the 1890s, positioning the grotesque as something that resists fixed order and remains strangely present."
+  },
+  {
+    "name": "Blender",
+    "foundry": "Binnenland",
+    "url": "https://www.binnenland.ch/typeface/blender",
+    "designer": "Nik Thoenen",
+    "year": 2003,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Blender is built on a strict construction grid using modular, segmented letterforms synthesised from geometric and CAD-derived sources, placing it firmly in the geometric sans tradition with a technical edge.",
+    "weights": [
+      "Thin",
+      "Book",
+      "Medium",
+      "Bold",
+      "Strong"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blender"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modular",
+      "grid-based",
+      "technical",
+      "swiss",
+      "constructed",
+      "editorial"
+    ],
+    "summary": "A modular geometric sans built on a strict construction grid, synthesised from two font sketches including a CAD type source and a typeface by Norm.",
+    "description": "Designed by Nik Thoenen in 2003 and substantially revised in 2017, Blender assembles letterforms from cut segments of hybrid source material, rearranged over a geometric grid. The result sits somewhere between technical rigour and restrained softness, with five weights from Thin to Strong each accompanied by italics. Language coverage extends to Latin Extended, Cyrillic and Greek, and OpenType features include tabular figures, fractions, superiors and inferiors.",
+    "foundry_blurb": "Blender takes its name from a linguistic process of mixing morphemes, the smallest meaningful units of form and content. The typeface blends segments cut from two source sketches, an early CAD type and Norm's Regular, recombined over a strict construction grid. Following this rational, modular tradition of early 20th-century type construction, it retains a quietly soft yet technical appearance. Designed by Nik Thoenen in 2003 and last revised in 2017 in collaboration with Vienna-based Schriftlabor, it now supports OpenType features and covers Latin Extended, Cyrillic and Greek."
+  },
+  {
+    "name": "Catalog",
+    "foundry": "Binnenland",
+    "url": "https://www.binnenland.ch/typeface/catalog",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "constructed serif",
+    "classification_notes": "Catalog is described as a tribute to classic serif typefaces, characterised by heavy vertical serifs transitioning to simplified linear horizontals, constructed shapes, uniform horizontal cuts, and reduced forms. This places it firmly in a constructed, display-oriented serif tradition.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Catalog",
+      "Catalog Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "constructed",
+      "display",
+      "editorial",
+      "swiss",
+      "monospace",
+      "reduced",
+      "semiotic"
+    ],
+    "summary": "A constructed serif from Swiss foundry Binnenland that abstracts classic display type into simplified, reduced forms with uniform horizontal cuts and no round corners on the serifs.",
+    "description": "Three weights from Regular to Black, each with italic, are joined by a Mono subfamily in the same weight range, giving the family unusual range across editorial and screen settings. The design strips the conventional serif back to its graphic essentials: heavy verticals, simplified linear horizontals, and constructed shapes that make the historical reference legible without reproducing it faithfully. Wide Latin Extended, Cyrillic and Greek coverage across all styles makes it viable for multilingual European publishing.",
+    "foundry_blurb": "Binnenland describe Catalog as a tribute to the classic serif typeface, drawing on the simple principles and graphic style of display typography alongside the imitation effect of a text face. Its typographical characteristics include heavy vertical serifs that simplify to linear horizontal forms, no round corners, constructed shapes, uniform horizontal cuts, and a deliberately reduced overall shape."
+  },
+  {
+    "name": "FRAC",
+    "foundry": "Binnenland",
+    "url": "https://www.binnenland.ch/typeface/frac",
+    "designer": "Nik Thoenen",
+    "year": 2003,
+    "category": "display",
+    "subcategory": "geometric modular",
+    "classification_notes": "FRAC is a strictly geometric uppercase-only display typeface built on a seven-by-seven dot grid using only straight lines and sharp angles, placing it firmly in the modular geometric display tradition derived from early CAD and constructivist lettering.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FRAC"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modular",
+      "uppercase",
+      "grid",
+      "constructivist",
+      "signage",
+      "cad-inspired",
+      "display"
+    ],
+    "summary": "A grid-based geometric display face built for signage and corporate identity, constructed entirely from straight lines on a seven-by-seven dot matrix.",
+    "description": "Designed by Nik Thoenen in 2003 for the Fonds régional d'art contemporain de Lorraine in Metz, FRAC is an uppercase-only typeface in which every letterform is resolved through minimal dot connections on a rigid seven-by-seven grid. All strokes are straight, all terminals are abrupt, and weight increases follow a halving ratio applied to the same underlying skeleton. The approach follows early CAD single-stroke lettering conventions, prioritising independence and legibility of each character over decorative expression.",
+    "foundry_blurb": "Binnenland describe FRAC as a simple geometric uppercase typeface designed for signage, building lettering and corporate identity. Built on a seven-by-seven dot grid with connections solved only by straight lines and sharp angles, the design followed the principle of early CAD fonts used for labelling architectural and 3D drawings. It was revised in 2019 with a stylistic set for arrows, with the current version dating to February 2021."
+  },
+  {
+    "name": "Korpus",
+    "foundry": "Binnenland",
+    "url": "https://www.binnenland.ch/typeface/korpus",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Korpus is a serif with distinctive imbalanced upstrokes and serifs, diagonally tapered brackets, and angled links simulating pressure-related print distortion, placing it within a considered transitional serif tradition with strong editorial character.",
+    "weights": [
+      "A10",
+      "B12"
+    ],
+    "optical_sizes_or_widths": [
+      "A",
+      "B",
+      "C"
+    ],
+    "subfamilies": [
+      "Korpus A",
+      "Korpus B",
+      "Korpus C"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "text",
+      "literary",
+      "swiss",
+      "optical-sizes",
+      "intellectual",
+      "book"
+    ],
+    "summary": "A text serif from Binnenland with three optical subfamilies, distinguished by deliberately imbalanced serifs that simulate the distortions of mechanical printing pressure.",
+    "description": "Korpus is organised into three subfamilies — A, B and C — each tuned to different optical sizes, with both upright and italic cuts. Its most distinctive feature is the calculated asymmetry between upstrokes and serifs, where diagonal tapers and angled links evoke the irregularities of print reproduction rather than correcting for them. Horizontally flattened joins on characters like a, d, m, n, r and u, alongside open terminals on C, E, F, G, S, T and Z, give the family a considered and slightly archaic texture suited to literary and long-form typesetting.",
+    "foundry_blurb": "Binnenland describe Korpus as a typeface whose most striking feature is an imbalance between upstrokes and serifs, referencing the way type does not sit perfectly parallel on the printed sheet. Serifs and stem brackets are emphasised through diagonally tapering areas, while horizontally flattened links on key characters offer highly individual interpretations. Open terminals and inner hooks with kinks further simulate the formal breakdown that occurs under insufficient printing pressure."
+  },
+  {
+    "name": "Korpus Grotesk",
+    "foundry": "Binnenland",
+    "url": "https://www.binnenland.ch/typeface/korpus-grotesk",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A sans-serif grotesque developed as a companion to the serif typeface Korpus, retaining its proportions and rhythm while interpreting phototype exposure characteristics from offset printing.",
+    "weights": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Korpus Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended-A"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "swiss",
+      "companion",
+      "modernist",
+      "text",
+      "editorial",
+      "latin-extended"
+    ],
+    "summary": "A sans-serif companion to the Binnenland serif typeface Korpus, translating its proportions and rhythm into a grotesque with four named weights and matching italics.",
+    "description": "Developed as a direct continuation of Korpus, the design interprets phototype exposure characteristics from offset printing rather than the hot-metal references that inform its serif counterpart. Four weights run from A through D, each with an italic, and the family includes an extensive Latin Extended-A character set covering over forty European languages. OpenType features include small caps, proportional oldstyle figures, tabular figures, fractions, superior and inferior numerals, and a stylistic set offering alternate single-storey forms for 'a' and 'g'.",
+    "foundry_blurb": "Binnenland describe Korpus Grotesk as a continuation and translation of the typographic vocabulary of the serif typeface Korpus into a sans-serif family, retaining the proportions and rhythm of the underlying design. While Korpus references features of hot metal typesetting, Korpus Grotesk imitates the technical characteristics of phototype exposure in offset printing, making it both an interpretation and a development of the original form."
+  },
+  {
+    "name": "Lexik",
+    "foundry": "Binnenland",
+    "url": "https://www.binnenland.ch/typeface/lexik",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "wedge serif",
+    "classification_notes": "Lexik features sharp wedge-shaped serifs and beak terminals applied without curvature, placing it firmly in the wedge or incised serif category rather than conventional bracketed or slab forms.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lexik"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "wedge-serif",
+      "text",
+      "contemporary",
+      "pointed",
+      "body-text",
+      "editorial",
+      "multilingual"
+    ],
+    "summary": "A wedge-serif text typeface with sharply cut, unbracketed terminals and generous round letterforms intended for both body text and headline use.",
+    "description": "Lexik's defining characteristic is its wedge-shaped serifs and beaks, each constructed with a minimum of anchor points and no curvature, giving the face a precise, almost incised quality. Despite the sharpness of the terminals, the round letters are drawn generously, balancing austerity with readability at text sizes. Five weights from Light to Black cover Latin Extended, Cyrillic and Greek, with a comprehensive OpenType feature set including small caps, oldstyle figures and ligatures.",
+    "foundry_blurb": "Binnenland describe Lexik as a highly readable body text typeface with a contemporary look and a pointy touch suited to headline use. Its rough-cut shape comes from pointed serifs and radically minimalistic endings, while the round letters are shaped generously. The name references the linguistic concept of lexis, the complete vocabulary of a language, drawing an analogy between a typeface's visual shapes and the words of a language as the source of its character and voice."
+  },
+  {
+    "name": "Relevant",
+    "foundry": "Binnenland",
+    "url": "https://www.binnenland.ch/typeface/relevant",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A single-storey 'a', simplified open forms, a reduced 'G' and a straight-legged 'R' all point firmly to the grotesque tradition. The page's own characteristic shapes notes reinforce this with references to consistent round rhythm and simplified straight terminals.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Normal",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Relevant"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "swiss",
+      "neutral",
+      "functional",
+      "editorial",
+      "multilingual"
+    ],
+    "summary": "A six-weight grotesque from Swiss foundry Binnenland, built on simplified open forms and a consistent structural rhythm across uprights and italics.",
+    "description": "Six weights from Thin to Black, each with a matching italic, give the family range for both text and display use. Characteristic details include a single-storey 'a' with terminal, a simplified 'G', a straight-legged 'R' and diagonals held at constant angles, all contributing to an even, disciplined texture. Latin Extended coverage spans dozens of European languages, with Cyrillic support for Belarusian, Bulgarian, Macedonian and Russian.",
+    "foundry_blurb": "Binnenland describe Relevant through its characteristic shapes: a one-eyed 'a' with terminal, simplified straight open forms, a consistent rhythm visible on round letters, a simplified 'G', diagonals in constant settings and a straight 'R' leg as a counterpoint to the round shapes throughout the family."
+  },
+  {
+    "name": "T-Star",
+    "foundry": "Binnenland",
+    "url": "https://www.binnenland.ch/typeface/t-star",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "T-Star displays classic grotesque traits: barely tapered junctions, flattened round shapes, low contrast with uniform stroke width, and a narrow M. These are defining characteristics of the nineteenth-century grotesque tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "T-Star",
+      "T-Star TW"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Arabic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "swiss",
+      "neutral",
+      "editorial",
+      "mono",
+      "arabic",
+      "workhorse"
+    ],
+    "summary": "A Swiss grotesque with a companion monospaced variant and an Arabic cut available on request.",
+    "description": "T-Star follows the formal logic of the nineteenth-century grotesque: barely tapered junctions, flattened round shapes and a uniform stroke width with almost equal upper and lower bodies. Five weights from Light to Heavy are offered with italics, while the T-Star TW subfamily provides a monospaced version in Regular, Medium and Bold for tabular and technical work. An Arabic variant extends the family's reach beyond Latin.",
+    "foundry_blurb": "Binnenland describe T-Star through its characteristic shapes: barely tapered junctions, flatted round forms, low contrast with uniform stroke width, an upper and lower body of near-equal size, a narrow M, and a t that reaches the same height as capital letters. The family includes a monospaced TW subfamily and an Arabic cut available on request."
+  }
+]

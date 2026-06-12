@@ -49,6 +49,21 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Interval Type", slug: "interval-type", homepage: "https://intervaltype.com/", tier: "best" },
   { name: "Due Studio", slug: "due-studio", homepage: "https://www.due-studio.com/", tier: "best" },
   { name: "Typespec", slug: "typespec", homepage: "https://typespec.co.uk/", tier: "best" },
+  { name: "Almarena", slug: "almarena", homepage: "https://almarenafoundry.com/", tier: "best" },
+  { name: "A2-Type", slug: "a2-type", homepage: "https://a2-type.co.uk/", tier: "best" },
+  { name: "Binnenland", slug: "binnenland", homepage: "https://www.binnenland.ch/", tier: "best" },
+  { name: "Catalogue (Florian Karsten)", slug: "catalogue", homepage: "https://fonts.floriankarsten.com/", tier: "best" },
+  { name: "Frost", slug: "frost", homepage: "https://frostype.xyz/", tier: "best" },
+  { name: "Groteskly Yours", slug: "groteskly-yours", homepage: "https://groteskly.xyz/", tier: "best" },
+  { name: "General Type Studio", slug: "general-type-studio", homepage: "https://www.generaltypestudio.com/", tier: "best" },
+  { name: "Leinster Type", slug: "leinster-type", homepage: "https://www.leinstertype.com/", tier: "best" },
+  { name: "Playtype", slug: "playtype", homepage: "https://playtype.com/", tier: "best" },
+  { name: "Studio Rene Bieder", slug: "studio-rene-bieder", homepage: "https://www.renebieder.com/", tier: "best" },
+  { name: "TIGHTYPE", slug: "tightype", homepage: "https://tightype.com/", tier: "best" },
+  { name: "The Designers Foundry", slug: "the-designers-foundry", homepage: "https://thedesignersfoundry.com/", tier: "best" },
+  { name: "Prioritype", slug: "prioritype", homepage: "https://prioritypeco.com/", tier: "best" },
+  { name: "Taylor Penton", slug: "taylor-penton", homepage: "https://www.taylorpenton.com/", tier: "best" },
+  { name: "VJ Type", slug: "vj-type", homepage: "https://vj-type.com/", tier: "best" },
 ];
 
 export function getFoundryBySlug(slug: string): FoundryInfo | undefined {

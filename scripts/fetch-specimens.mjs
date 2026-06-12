@@ -74,6 +74,21 @@ const FOUNDRY_SLUGS = {
   "Interval Type": "interval-type",
   "Due Studio": "due-studio",
   Typespec: "typespec",
+  Almarena: "almarena",
+  "A2-Type": "a2-type",
+  Binnenland: "binnenland",
+  "Catalogue (Florian Karsten)": "catalogue",
+  Frost: "frost",
+  "Groteskly Yours": "groteskly-yours",
+  "General Type Studio": "general-type-studio",
+  "Leinster Type": "leinster-type",
+  Playtype: "playtype",
+  "Studio Rene Bieder": "studio-rene-bieder",
+  TIGHTYPE: "tightype",
+  "The Designers Foundry": "the-designers-foundry",
+  Prioritype: "prioritype",
+  "Taylor Penton": "taylor-penton",
+  "VJ Type": "vj-type",
 };
 
 const COOKIE_SELECTORS = [

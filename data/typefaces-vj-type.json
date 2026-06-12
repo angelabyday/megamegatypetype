@@ -1,0 +1,588 @@
+[
+  {
+    "name": "Cako",
+    "foundry": "VJ Type",
+    "url": "https://vj-type.com/collections/cako",
+    "designer": "Jérémy Schneider",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Cako is a display serif with high stroke contrast, spiky terminals and graphic letterforms designed primarily for large sizes; its three contrasted weights and stylistic alternates reinforce its display orientation.",
+    "weights": [
+      "Thin",
+      "Regular",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cako"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "high-contrast",
+      "editorial",
+      "spiky",
+      "alternates",
+      "poster",
+      "graphic"
+    ],
+    "summary": "A high-contrast display serif by Jérémy Schneider with graphic letterforms, spiky terminals and a generous set of stylistic alternates across three weights.",
+    "description": "Designed by Jérémy Schneider and released in 2019, Cako spans Thin, Regular and Black with matching italics, each weight offering a different degree of typographic impact. The Black is defined by pronounced thick-thin contrast and fine spiky terminals, while the alternates, ligatures and round or diamond dot variants introduce considerable rhythmic variety. Latin Extended language support covers over forty European languages.",
+    "foundry_blurb": "VJ Type describe Cako as a display typeface distinguished by its graphic letterforms and serifs, and by its numerous stylistic alternates that give the typeface great rhythm. The Black weight is characterised by strong contrast between thicks and thins, fine details and spiky terminals, with three weights offering several degrees of impact."
+  },
+  {
+    "name": "Canopée",
+    "foundry": "VJ Type",
+    "url": "https://vj-type.com/collections/canopee",
+    "designer": "Jérémy Schneider",
+    "year": 2016,
+    "category": "display",
+    "subcategory": "geometric display serif",
+    "classification_notes": "Sharp, geometric serifs on organic, rounded letterforms make this a display serif with an intentional tension between rigidity and looseness. The dramatic width variation between letters and the absence of italics point firmly toward display use.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Canopée"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "geometric",
+      "organic",
+      "editorial",
+      "french",
+      "expressive",
+      "alternates"
+    ],
+    "summary": "A display serif by Jérémy Schneider that holds geometric, sharp serifs in deliberate tension with rounded, organic letterforms and extreme rhythmic width variation.",
+    "description": "Originally released in 2016 and substantially revised to version 2.2026, Canopée pairs needle-sharp serifs with letterforms that are full and softly rounded, creating a friction the designer describes as structural rather than accidental. The rhythm is built into the width relationships between letters, tight then wide in alternation, giving the typeface an unmistakable pulse at large sizes. A rich set of OpenType alternates for A, K, M, V, W and Y, alongside ligatures and diacritics for broad Latin coverage, makes it well-suited to editorial display, poster and identity work.",
+    "foundry_blurb": "VJ Type describe Canopée as a typeface defined by contradiction held in tension: geometric, precise serifs inhabiting organic, rounded forms. Its rhythm is structural, with condensed and wide letters alternating throughout. The lowercase, completed over two years, was the hardest part to resolve, particularly the O, which needed to feel full without becoming heavy. Version 2.2026 marks a return to the typeface a decade after its original release, adding a complete lowercase, new weights and new styles."
+  },
+  {
+    "name": "Category",
+    "foundry": "VJ Type",
+    "url": "https://vj-type.com/collections/category",
+    "designer": "Jérémy Schneider assisted by Liana Korios",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "Category originates from geometric shapes with low contrast, placing it squarely in the geometric grotesque tradition, though deliberate eccentric details in the lowercase a, g, j and y introduce a humanist warmth that keeps it from being purely geometric.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Category"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric-grotesque",
+      "display",
+      "text",
+      "eccentic-details",
+      "multilingual",
+      "french",
+      "editorial",
+      "friendly"
+    ],
+    "summary": "A geometric grotesque from VJ Type with eight weights and a handful of eccentric lowercase letterforms that stop it reading as purely utilitarian.",
+    "description": "Designed by Jérémy Schneider with assistance from Liana Korios and released in 2023, Category runs from Regular to Black with matching italics across all four weights. The family is built on low-contrast geometric foundations but introduces deliberate singularities, particularly in the lowercase a, g, j and y, and angled details in certain capitals. It covers over forty Latin-script languages and ships in OTF, WOFF and WOFF2 formats, intended for use across long text, body copy, headlines and identity work.",
+    "foundry_blurb": "VJ Type describe Category as a sensible and mocking expression of their working process, born from an intention to draw a useful, legible and elegant text font before the urge to add stronger stylistic details took over. They position it as a universal and friendly sans with a slight touch of eccentricity, mixing utilitarian function with geometric-grotesque design and asking, with deliberate cheek, whether it might be considered square yet round."
+  },
+  {
+    "name": "Dahlia",
+    "foundry": "VJ Type",
+    "url": "https://vj-type.com/collections/dahlia",
+    "designer": "Jérémy Schneider",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "A high-contrast display serif with Art Nouveau ornamental qualities, designed explicitly for headlines and short texts. Its expressive counter forms, stylistic alternates and ligature-heavy character set place it firmly in display rather than text use.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Dahlia",
+      "Dahlia Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "art-nouveau",
+      "display",
+      "serif",
+      "high-contrast",
+      "editorial",
+      "ornamental",
+      "floral",
+      "french"
+    ],
+    "summary": "A display serif by Jérémy Schneider drawing on 1910s Italian lake posters and Art Nouveau, with 93 stylistic ligatures and expressive alternate letterforms.",
+    "description": "Designed in 2021 for VJ Type, Dahlia pairs high contrast with floral-inspired terminals and counter forms drawn from flower stems, buds and spines. The six styles span three weights in upright and condensed widths, with the Bold leaning into contrast for maximum presence at large sizes. Ninety-three stylistic ligatures and a generous set of alternates give the family considerable expressive range for editorial, packaging and poster work.",
+    "foundry_blurb": "VJ Type describe Dahlia as growing from a world of elegance, 1910s Italian lake posters and Art Nouveau feeling. Designed by Jérémy Schneider, it balances eccentricity with delicacy through atypical curves, refined details and expressive counter forms in the uppercase. Its 93 stylistic ligatures are drawn in the spirit of how the vegetal world naturally combines species, with all circular glyphs included in the standard ligatures and enabled by default."
+  },
+  {
+    "name": "Dida",
+    "foundry": "VJ Type",
+    "url": "https://vj-type.com/collections/dida",
+    "designer": "Jérémy Schneider",
+    "year": 2016,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A single-weight display typeface with large rounded shapes and geometric construction, designed expressly for theatrical use and expressive pairing contexts rather than text setting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dida"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "rounded",
+      "theatrical",
+      "playful",
+      "heavy",
+      "single-weight"
+    ],
+    "summary": "A single-weight display face with rounded geometric forms, originally drawn for the Parisian Théâtre des Bouffes du Nord in 2016.",
+    "description": "Designed by Jérémy Schneider for a Parisian theatre commission, Dida takes a heavy, rounded approach to geometric display lettering. Its large forms and soft construction give it a playful quality despite the weight, and it was conceived alongside Scalie as an expressive pairing. Available in one weight, it suits posters, logotypes and cultural identity work where typographic personality is the point.",
+    "foundry_blurb": "VJ Type describes Dida as a display typeface full of surprises, generous in its large rounded shapes, geometric construction and soft lines. Designed by Jérémy Schneider in 2016 for the Parisian Théâtre des Bouffes du Nord, it is playful, heavy yet breezy, and was created alongside Scalie as an expressive pairing."
+  },
+  {
+    "name": "Eros",
+    "foundry": "VJ Type",
+    "url": "https://vj-type.com/collections/eros",
+    "designer": "Jérémy Schneider",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "art nouveau display",
+    "classification_notes": "Eros is a display typeface drawing on Jugendstil and Vienna Secession aesthetics, with organic letterforms, elaborate ligatures and contextual alternates that place it firmly in the decorative display category rather than text use.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Light Condensed",
+      "Regular Condensed",
+      "Bold Condensed"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Eros",
+      "Eros Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "art-nouveau",
+      "jugendstil",
+      "display",
+      "editorial",
+      "ligatures",
+      "organic",
+      "fashion",
+      "decorative"
+    ],
+    "summary": "A display typeface rooted in Jugendstil and Vienna Secession aesthetics, grown from two custom commissions for a Paris theatre and a Pharrell Williams restaurant project.",
+    "description": "Designed by Jérémy Schneider and released in 2022, Eros merges two previously bespoke typefaces into a single family of six styles across standard and condensed widths. The Condensed variant goes beyond a simple squeeze: its oval O is programmed to adapt contextually depending on whether it sits next to upper or lowercases, adding optical flow to running text. Sixty pairs of ligatures across upper and lowercases, plus a full set of alternates for characters such as v, w, k and y, give the family considerable range for editorial, cultural and luxury brand work.",
+    "foundry_blurb": "VJ Type describe Eros as a loving fusion of two custom typefaces drawn for Le Théâtre des Bouffes du Nord and for a joint project by Pharrell Williams and Jean Imbert in Saint-Tropez. The aesthetic draws on Jugendstil and Vienna Secession, redrawn with a contemporary sharpness. The contextual condensed O, 30 pairs of uppercase ligatures and 30 pairs of lowercase ligatures are cited as key features of the family."
+  },
+  {
+    "name": "Jager",
+    "foundry": "VJ Type",
+    "url": "https://vj-type.com/collections/jager",
+    "designer": "Jérémy Schneider",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "craft display",
+    "classification_notes": "Jager is explicitly a display typeface with counter forms inspired by engraving, wood-cutting and chisel work, placing it firmly in the display category with a craft-influenced subcategory distinct from geometric or humanist traditions.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Jager Classic",
+      "Jager Master"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "craft",
+      "engraving",
+      "chisel",
+      "headline",
+      "editorial",
+      "artisanal"
+    ],
+    "summary": "A craft-inspired display typeface by Jérémy Schneider, with counter forms drawn from engraving, wood-cutting and chisel work.",
+    "description": "Designed by Jérémy Schneider and released in 2020, Jager began as drawings developed for an exhibition at the Musées des Arts Décoratifs in Paris. The hollowed counter forms recall engraving and sculpture, while angled terminals suggest cuts in wood, with rounded rather than sharp contours throughout. Each weight comes in two versions: Jager Master, the bolder and more angular original, and Jager Classic, in which the open counter tops are filled in for a smoother result.",
+    "foundry_blurb": "VJ Type describe Jager as a tribute to fine craftsmanship, with forms directly inspired by techniques used by craftsmen including engraving, sculpture and chisel work. The hollowed counters, wood-cut angles and rounded contours each reference a specific making process. The family offers two versions per weight — the more daring Jager Master and the smoother, more versatile Jager Classic — covering over forty languages in Latin Extended script."
+  },
+  {
+    "name": "Kobe",
+    "foundry": "VJ Type",
+    "url": "https://vj-type.com/collections/kobe",
+    "designer": "Jérémy Schneider",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Kobe is built on a modular geometric structure with playful terminals and an exaggerated oblique slant, placing it firmly in the geometric sans-serif tradition with a display-leaning personality.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kobe"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modular",
+      "display",
+      "japanese-influenced",
+      "ligatures",
+      "alternates",
+      "oblique",
+      "editorial"
+    ],
+    "summary": "A modular geometric sans originally released as a single weight in 2018, expanded in 2021 to six weights with obliques and a rich set of alternates drawing on Japanese letterform shapes.",
+    "description": "Built on a clean modular structure, Kobe balances functional proportions for text with playful terminals and an unusually steep oblique slant that reads distinctly at display sizes. An extensive set of ligatures and stylistic alternates for both upper and lowercase take visual cues from Japanese writing, giving the typeface a character uncommon in Western geometric sans designs. The 2021 update refined the Regular and introduced Bold and Black weights, each with a matching oblique, broadening the family's range from body copy to headline use.",
+    "foundry_blurb": "VJ Type describe Kobe as their new classic and a house favourite, praising its straight-forward, well-proportioned modular structure for text use alongside its playful terminals and alternates for display. Originally released as a one-weight font in 2018, it was expanded in 2021 to six weights with obliques. Ligatures and stylistic sets take inspiration from Japanese writing shapes, and the studio notes its daring oblique slant as a testament to their quirky approach to type design."
+  },
+  {
+    "name": "Love",
+    "foundry": "VJ Type",
+    "url": "https://vj-type.com/collections/love",
+    "designer": "Jérémy Schneider",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "psychedelic display",
+    "classification_notes": "An all-caps display typeface with exaggerated counter-forms and thin stems, designed explicitly as a display font in a single weight. Its psychedelic rock inspiration and expressive alternates place it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Love"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "all-caps",
+      "psychedelic",
+      "alternates",
+      "ligatures",
+      "expressive",
+      "1960s",
+      "single-weight"
+    ],
+    "summary": "An all-caps display typeface inspired by the 1967 Love album Forever Changes, built around exaggerated counter-forms, thin stems and a generous set of alternates per letter.",
+    "description": "Designed by Jérémy Schneider in 2018, the typeface draws directly from the visual world of American psychedelic rock, each letter offered in at least two stylistic variants with some receiving far more. The contrast between swelling counters and thread-like stems gives individual characters strong personality while still maintaining equilibrium across set words. An extensive ligature set and interchangeable alternates covering both upper and lowercase make it unusually flexible for a single-weight display font.",
+    "foundry_blurb": "VJ Type describe Love as an all-caps display font inspired by the American psychedelic rock band Love and their 1967 album Forever Changes. Each letter is available in at least two styles, some with an even wider selection of alternates. The design plays on exaggerated counter-forms paired with thin stems to create contrasts and varied rhythms, while its straight yet elastic structure supports many elegant ligatures."
+  },
+  {
+    "name": "Nord",
+    "foundry": "VJ Type",
+    "url": "https://vj-type.com/collections/nord",
+    "designer": "Jérémy Schneider",
+    "year": 2015,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "A bold, single-weight display typeface with irregular letter widths and rounded angles, designed expressly for a theatre identity rather than text use, placing it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nord"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "bold",
+      "rounded",
+      "theatre",
+      "identity",
+      "single-weight",
+      "irregular-width"
+    ],
+    "summary": "A bold display typeface with irregular letter widths and rounded angles, originally drawn for the 2015–2016 identity of the Théâtre des Bouffes du Nord in Paris.",
+    "description": "Designed by Jérémy Schneider as part of a theatre identity commission, Nord pairs a confident weight with softened corners and deliberately varied letter widths that give it an unsystematic, expressive rhythm. It was conceived alongside a companion typeface, Sud, with both intended to coexist within the same graphic identity at different weights. Available in a single Regular weight with broad Latin Extended language support across OTF, WOFF and WOFF2 formats.",
+    "foundry_blurb": "VJ Type describe Nord as a bold font punctuated by irregular letter widths, with softness and delicacy derived from its rounded angles. It was originally designed for the 2015–2016 identity of the Théâtre des Bouffes du Nord in Paris, and was conceived alongside Sud, a thinner sister version, the two intended to co-exist harmoniously within the theatre's graphic identity."
+  },
+  {
+    "name": "Pilote",
+    "foundry": "VJ Type",
+    "url": "https://vj-type.com/collections/pilote",
+    "designer": "Jérémy Schneider",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "A high-contrast extended serif designed explicitly for display use, with angular pointed terminals, expressive swash italics and a fashion-editorial sensibility that places it firmly outside text serif territory.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pilote"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "fashion",
+      "editorial",
+      "high-contrast",
+      "swash",
+      "extended",
+      "elegant"
+    ],
+    "summary": "A high-contrast display serif in ten styles, with expressive swash italics and a generous glyph set aimed squarely at fashion editorial.",
+    "description": "Designed by Jérémy Schneider and released in 2025, the family runs from Light to Black with matching italics, each roman carrying alternates and ligatures while the italics add a full set of swash characters. Angular pointed terminals meet smooth diagonal transitions, giving the design a sharp but comfortable rhythm across large settings. The glyph set extends to 77 symbols and 18 stylised arrows, with broad Latin language coverage across more than 40 languages.",
+    "foundry_blurb": "VJ Type describe Pilote as a contemporary extended typeface built for fashion editorials and photo shoots, designed to balance feminine and masculine accents in equal measure. The roman is characterised as mature and elegant, while the italic is deliberately experimental and expressive, representing VJ Type's first serious exploration of italic design. The family is available in 10 styles and is noted for its wide range of ligatures, alternates, swashes, symbols and arrows."
+  },
+  {
+    "name": "Sud",
+    "foundry": "VJ Type",
+    "url": "https://vj-type.com/collections/sud",
+    "designer": "Jérémy Schneider",
+    "year": 2015,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "A single-weight display typeface with deliberately irregular letter widths, designed for a theatre identity rather than extended text use, placing it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sud"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "identity",
+      "theatre",
+      "irregular-width",
+      "single-weight",
+      "parisian",
+      "custom-origin"
+    ],
+    "summary": "A single-weight display typeface designed for the 2015–2016 identity of the Théâtre des Bouffes du Nord in Paris, characterised by unexpectedly variable letter widths.",
+    "description": "Designed by Jérémy Schneider in 2015, Sud originated as part of the graphic identity for the Théâtre des Bouffes du Nord in Paris. Its defining trait is a deliberate inconsistency in letter widths, with individual characters expanding or contracting in ways that feel studied rather than accidental. It was created alongside Nord, a bolder companion, the two intended to work together within the theatre's visual system.",
+    "foundry_blurb": "VJ Type describe Sud as a 2015 display typeface by Jérémy Schneider, created for the 2015–2016 identity of the Théâtre des Bouffes du Nord. They note its distinctive variable widths, where letters unexpectedly expand or contract, and its relationship to Nord, a bolder companion designed to coexist within the same graphic identity."
+  },
+  {
+    "name": "Traviata",
+    "foundry": "VJ Type",
+    "url": "https://vj-type.com/collections/traviata",
+    "designer": "Jérémy Schneider",
+    "year": 2017,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "A single-weight display typeface combining classical serif structure with geometric and expressive details; the high contrast, unconventional apex and mixed construction place it firmly in the display serif category rather than a conventional text serif classification.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Traviata"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "theatrical",
+      "high-contrast",
+      "editorial",
+      "single-weight",
+      "french",
+      "identity"
+    ],
+    "summary": "A single-weight display serif designed for the 2017–2018 identity of the Théâtre des Bouffes du Nord in Paris, blending classical structure with geometric details.",
+    "description": "Designed by Jérémy Schneider of Violaine & Jérémy for a theatrical production identity, it pairs a conventional serif skeleton with unusual details: an elongated apex, extended strokes and a tension between traditional construction and geometric forms. The result is a high-contrast, elegant face suited to poster and headline work, particularly where strong colour is involved. Language support covers a broad range of Latin-script European languages.",
+    "foundry_blurb": "VJ Type describe Traviata as a display font inspired by Benjamin Lazar, Florent Hubert and Judith Chemla's adaptation of La Traviata. They note it begins with a large classical structure with shy serifs before becoming expressive through unusual details such as a long apex and strokes, and a mix of traditional construction with very geometrical shapes, making it well-balanced, contrasted and elegant for display use alongside strong colour."
+  },
+  {
+    "name": "Voyage",
+    "foundry": "VJ Type",
+    "url": "https://vj-type.com/collections/voyage",
+    "designer": "Jérémy Schneider assisted by Liana Korios",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "high-contrast display serif",
+    "classification_notes": "Voyage is classified as a display typeface with strong contrast between thick and thin strokes, featuring delicate hairlines and curvilinear letterforms that place it firmly in the high-contrast display serif category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Voyage"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "editorial",
+      "headlines",
+      "ligatures",
+      "romantic",
+      "curvy"
+    ],
+    "summary": "A high-contrast display serif from VJ Type with pronounced curves, delicate hairlines and an extensive set of 55 stylistic ligatures and 26 alternates.",
+    "description": "Designed by Jérémy Schneider and expanded from two weights to five in 2024, it pairs dramatic thick-thin contrast with distinctive curvilinear details, including an adventurous lowercase 'e' and a curly 'h'. The OpenType feature set is unusually generous for a display face, with multiple alternate ampersands, old-style figures and programmed ligature variants the user can toggle individually. Best suited to headlines, short editorial runs and branding where a romantic, slightly adventurous tone is wanted.",
+    "foundry_blurb": "VJ Type describe Voyage as a romantic and curvy display typeface suited to headlines and short to medium length texts. Originally released in 2020, the family was expanded in 2024 with three new weights and refined details across all cuts for improved stylistic consistency. It features 55 stylistic ligatures and 26 open-type programmed alternates, with the user controlling which glyphs to switch."
+  }
+]

@@ -43,7 +43,7 @@ export default function RootLayout({
                 Directory
               </Link>
               <Link href="/brief" className="hover:underline underline-offset-4">
-                Brief
+                Font Brief
               </Link>
               <Link href="/about" className="hover:underline underline-offset-4">
                 About

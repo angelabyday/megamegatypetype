@@ -1,0 +1,390 @@
+[
+  {
+    "name": "Cambon",
+    "foundry": "General Type Studio",
+    "url": "https://www.generaltypestudio.com/fonts/cambon",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "flared serif",
+    "classification_notes": "Cambon is described as a flared serif drawing on the historical sensibilities of Louis Perrin's revivals and Berthold Wolpe's lettering traditions, placing it firmly in the humanist-influenced flared or lapidary serif category rather than a conventional old-style or transitional classification.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Book",
+      "Demi",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cambon",
+      "Cambon Narrow",
+      "Cambon Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "flared-serif",
+      "humanist",
+      "historical-revival",
+      "editorial",
+      "lapidary",
+      "french",
+      "extended-family",
+      "text"
+    ],
+    "summary": "A 48-style flared serif drawing on Louis Perrin's lapidary revivals and Berthold Wolpe's lettering instincts, offered in standard, narrow and condensed widths.",
+    "description": "Built across three widths and eight weights each with matching italics, the family totals 48 styles that span delicate text settings at Thin through to commanding display work at Black. The design sits at the intersection of 19th-century French inscriptional letterforms and early 20th-century continental lettering, a lineage that gives it historical grounding without antiquarian stiffness. OpenType features include oldstyle figures, small capitals, tabular figures and discretionary ligatures, with alternates for v, w and z in italic styles.",
+    "foundry_blurb": "General Type Studio describe Cambon as a contemporary flared serif that layers different visions from the turn of the 20th century, positioning its focal point between the backward-looking intuition of Louis Perrin and the raw virtuosity of Berthold Wolpe."
+  },
+  {
+    "name": "Pilat",
+    "foundry": "General Type Studio",
+    "url": "https://www.generaltypestudio.com/fonts/pilat",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A constructed grotesque built on a superellipse or Lamé curve structure, giving letterforms a geometry that sits between circular and rectangular. The post-war industrial aesthetic and systematic width range place it firmly in the geometric-grotesque tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Book",
+      "Demi",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Narrow",
+      "Standard",
+      "Wide",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Pilat",
+      "Pilat Narrow",
+      "Pilat Condensed",
+      "Pilat Compressed",
+      "Pilat Wide",
+      "Pilat Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "superellipse",
+      "industrial",
+      "post-war",
+      "width-system",
+      "systematic",
+      "display"
+    ],
+    "summary": "A 48-style constructed grotesque built on a superellipse structure, spanning six widths from Compressed to Extended across eight weights each.",
+    "description": "Built around the superellipse or Lamé curve, a letterform geometry that traps a circle inside a box, Pilat draws on a post-war design sensibility that merges craft with industrial precision. The superfamily runs six width variants from Compressed through to Extended, each in eight weights from Thin to Black, giving 48 styles in total. Specimen copy referencing motorsport, aerospace and Italian industrial design reflects the typeface's intended register: confident, technical and period-flavoured.",
+    "foundry_blurb": "General Type Studio describe Pilat as a constructed grotesque developed with a large range of weight and width variations. Its base structure, the superellipse or Lamé curve, resembles a circle trapped inside a box. Though the letterform predates the 20th century, they frame it as an expression of the post-World War II era, a combination of craft and technology."
+  },
+  {
+    "name": "Mier",
+    "foundry": "General Type Studio",
+    "url": "https://www.generaltypestudio.com/fonts/mier",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Mier sits between geometric and grotesque canons, deliberately drawing on both traditions rather than committing to either. The foundry describes this duality as structural to the design, with alternate glyph sets (A and B) making the distinction explicit.",
+    "weights": [
+      "Hair",
+      "Thin",
+      "Light",
+      "Regular",
+      "Book",
+      "Demi",
+      "Bold",
+      "ExtraBold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mier A",
+      "Mier B"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "hybrid",
+      "alternate-glyphs",
+      "superfamily",
+      "editorial",
+      "text",
+      "neutral"
+    ],
+    "summary": "A 40-style superfamily that splits into two subfamilies, Mier A and Mier B, each using alternate key glyphs to articulate the typeface's position between geometric and grotesque traditions.",
+    "description": "Ten weights from Hair to Black, each with italics, are duplicated across the A and B subfamilies, which differ in a handful of characters including J, M, a, t, u and the ampersand. This glyph-level distinction lets the two variants occupy subtly different tonal registers while sharing the same underlying structure and proportions. The result is a versatile text and display family that can shift between warmth and neutrality depending on which subfamily is chosen.",
+    "foundry_blurb": "General Type Studio describe Mier as a family whose shape, structure and contrast draw equally from geometric and grotesque canons. To make that duality tangible, a small set of key glyphs varies between Mier A and Mier B, offering two distinct typographic voices within a single 40-style superfamily."
+  },
+  {
+    "name": "General Grotesque",
+    "foundry": "General Type Studio",
+    "url": "https://www.generaltypestudio.com/fonts/general-grotesque",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Described explicitly as a reassessment of the neo-grotesque category, combining moderately high waisted crossbars with early 20th-century constructed letterforms and a nod to 19th-century backslanted cartography fonts.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Book",
+      "Demi",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "General Grotesque",
+      "General Grotesque Reclined",
+      "General Grotesque Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "backslanted",
+      "monospaced",
+      "editorial",
+      "constructed",
+      "reclined",
+      "oblique",
+      "versatile"
+    ],
+    "summary": "A 32-style neo-grotesque superfamily that critiques its own category through high-waisted crossbars, early 20th-century constructed details and a backslanted reclined subfamily borrowed from 19th-century cartography.",
+    "description": "Rather than reprising canonical 1950s neo-grotesques such as Helvetica, this family introduces moderately high-waisted crossbars on E, F and G alongside constructed forms on r, t, f, y and the numerals. The superfamily spans three subfamilies: a standard upright-and-italic set across eight weights, a Reclined variant drawing on 19th-century backslanted cartographic lettering, and a Mono cut sharing the same eight weights. OpenType alternates include single-storey a and g, an alternate y, oldstyle figures and a slashed zero.",
+    "foundry_blurb": "General Type Studio describe General Grotesque as a reassessment of the neo-grotesque category that deliberately steers away from the ideological and canonical baggage of 1950s grotesques. They highlight its moderately high-waisted crossbars on letters such as E, F and G, its early 20th-century constructed shapes on characters including r, t, f and y, and a nod to 19th-century backslanted cartography fonts. The superfamily totals 32 styles across the standard, reclined and monospaced versions."
+  },
+  {
+    "name": "Nysé",
+    "foundry": "General Type Studio",
+    "url": "https://www.generaltypestudio.com/fonts/nyse",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "art nouveau serif",
+    "classification_notes": "Nysé draws directly on the Art Nouveau tradition, referencing the 1910 Bellery-Desfontaines alphabet commissioned by G. Peignot & Fils, with characteristic organic letterforms and decorative alternate glyphs placing it firmly in expressive display serif territory.",
+    "weights": [
+      "Regular",
+      "Book",
+      "Demi",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nysé"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "art-nouveau",
+      "display",
+      "editorial",
+      "historical-revival",
+      "decorative",
+      "serif",
+      "alternates",
+      "expressive"
+    ],
+    "summary": "A 12-style Art Nouveau serif drawn in the tradition of Henri Bellery-Desfontaines' 1910 alphabet for G. Peignot & Fils, with a wide range of OpenType alternates for individual letterforms.",
+    "description": "Six weights from Regular to Black, each with a matching italic, give Nysé a broad typographic range while retaining the organic, ornamented character of early twentieth-century Parisian type. OpenType features include oldstyle figures, small capitals, discretionary ligatures and individual alternates for A, M, N, R, a, e and the ampersand, allowing fine control over the decorative quality of a setting. The name references the mythological birthplace of Dionysus, and that sense of classical exoticism runs through the design's fluid, slightly theatrical stroke modulation.",
+    "foundry_blurb": "General Type Studio describe Nysé as sharing many of the design features of the Bellery-Desfontaines alphabet, commissioned by the Parisian foundry G. Peignot & Fils in the early 1900s at a moment when Art Nouveau was broadly seen as a symbol of modernity. The typeface was released in 1910 and became immediately popular; Nysé is clearly distinct from that original while acknowledging the same heritage. The name references an exotic place in Greek mythology where Dionysus was born and raised by nymphs."
+  },
+  {
+    "name": "Radion",
+    "foundry": "General Type Studio",
+    "url": "https://www.generaltypestudio.com/fonts/radion",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Radion is explicitly positioned within the geometric sans tradition, drawing on Rudolph Koch's Kabel as its primary reference. The characteristic single-storey alternates and geometric construction confirm the subcategory.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Book",
+      "Demi",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Radion A",
+      "Radion B"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "kabel-inspired",
+      "expressive",
+      "editorial",
+      "superfamily",
+      "dual-family",
+      "historical-revival"
+    ],
+    "summary": "A 32-style geometric sans superfamily split into two subfamilies, each reinterpreting Rudolph Koch's Kabel through a small set of alternate glyphs.",
+    "description": "Radion A and Radion B share the same weight range, from Thin to Black with italics throughout, but differ in a handful of key characters including the G, a, e, g, w and 2. The split gives designers two tonal registers from the same geometric skeleton, one closer to Koch's expressive originals, the other a contemporary recasting. OpenType features include titling alternates, oldstyle and tabular figures, and a slashed zero.",
+    "foundry_blurb": "General Type Studio describe Radion as a new interpretation of Rudolph Koch's Kabel, one of the few expressive typefaces within the geometric sans category that emerged in the early 1900s and never went out of style. The A and B families are two distinct flavours produced through variations in a small set of glyphs, offered individually or as a 32-style superfamily."
+  },
+  {
+    "name": "Aro",
+    "foundry": "General Type Studio",
+    "url": "https://www.generaltypestudio.com/fonts/aro",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Explicitly described as an 'Industrial Grotesk', drawing on the heavy, high-contrast grotesques of the 1950s used in poster and phototypesetting contexts. A single heavy weight across five widths places it firmly in the display grotesque tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Narrow",
+      "Normal",
+      "Wide",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Aro"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "industrial",
+      "display",
+      "1950s",
+      "bold",
+      "phototypesetting",
+      "heavy",
+      "widths"
+    ],
+    "summary": "A single-weight industrial grotesque offered across five widths from Condensed to Extended, modelled on the heavy display types of 1950s press and advertising.",
+    "description": "Aro takes its cue from the 'Industrial Grotesk' tradition, the impactful heavy grotesques that bridged metal and wood poster types with phototypesetting for press and advertising. It comes in one weight with a large x-height, spanning five widths from Condensed to Extended, each with a matching italic, giving ten styles in total. Alternate glyphs for the ampersand, M and the g and y are available across all styles via OpenType features.",
+    "foundry_blurb": "General Type Studio describe Aro as an Industrial Grotesk, a term they use to capture the trend of bold, impactful grotesques prominent in the 1950s and the transition from poster-size metal and wood types to phototypesetting fonts for press and advertising. With a large x-height and widths from condensed to extended in a single heavy weight, Aro aims to capture and renew the feel of that period."
+  },
+  {
+    "name": "Senes",
+    "foundry": "General Type Studio",
+    "url": "https://www.generaltypestudio.com/fonts/senes",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "The foundry explicitly positions Senes within the neo-grotesque tradition, with geometric precision tempered by organic modulation — placing it squarely in that category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Demi",
+      "Bold",
+      "ExtraBold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Senes"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "geometric",
+      "interface",
+      "text",
+      "functional",
+      "neutral",
+      "contemporary"
+    ],
+    "summary": "An 18-style neo-grotesque from General Type Studio that introduces subtle organic modulation into an otherwise controlled geometric framework.",
+    "description": "Running from Thin to Black with matching italics across nine weights, Senes is built for text and interface work while holding enough character to carry display sizes. The family includes slashed zero and tabular figures as OpenType options, and the interplay between geometric structure and slight organic softening gives it more warmth than a strict Swiss grotesque. It occupies ground between workhorse and considered typeface.",
+    "foundry_blurb": "General Type Studio describe Senes as revisiting the neo-grotesque tradition through a contemporary lens, balancing geometric precision with subtle organic modulation. They position its tone as modest yet distinct, designed to perform reliably in text and interface contexts while retaining character at display sizes, embodying a quiet, functional modernity."
+  }
+]
