@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
@@ -30,28 +30,32 @@ export function BriefForm() {
   const [brief, setBrief] = useState("");
   const [state, setState] = useState<BriefState>({ status: "idle" });
   const [answers, setAnswers] = useState<string[]>([]);
+  const restored = useRef(false);
 
   // Survive navigation to a result and back: state lives in sessionStorage.
   useEffect(() => {
     try {
       const saved = sessionStorage.getItem(STORAGE_KEY);
-      if (!saved) return;
-      const parsed = JSON.parse(saved) as {
-        brief: string;
-        state: BriefState;
-        answers: string[];
-      };
-      setBrief(parsed.brief ?? "");
-      setAnswers(parsed.answers ?? []);
-      if (parsed.state && parsed.state.status !== "loading") {
-        setState(parsed.state);
+      if (saved) {
+        const parsed = JSON.parse(saved) as {
+          brief: string;
+          state: BriefState;
+          answers: string[];
+        };
+        setBrief(parsed.brief ?? "");
+        setAnswers(parsed.answers ?? []);
+        if (parsed.state && parsed.state.status !== "loading") {
+          setState(parsed.state);
+        }
       }
     } catch {
       // Corrupt or absent saved state; start fresh.
     }
+    restored.current = true;
   }, []);
 
   useEffect(() => {
+    if (!restored.current) return;
     if (state.status === "loading") return;
     try {
       sessionStorage.setItem(
