@@ -39,9 +39,6 @@ export default function RootLayout({
               MegaMegaTypeType
             </Link>
             <nav className="flex gap-5 text-sm">
-              <Link href="/" className="hover:underline underline-offset-4">
-                Directory
-              </Link>
               <Link href="/brief" className="hover:underline underline-offset-4">
                 Font Brief
               </Link>
