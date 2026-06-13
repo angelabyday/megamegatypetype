@@ -85,7 +85,7 @@ export function FoundrySelect({ foundries, selected, onChange }: Props) {
               className="h-7 text-xs"
             />
           </div>
-          <div className="max-h-60 overflow-y-auto">
+          <div className="max-h-[50vh] overflow-y-auto">
             {filtered.length === 0 ? (
               <p className="px-3 py-2 text-xs text-muted-foreground">No match</p>
             ) : (

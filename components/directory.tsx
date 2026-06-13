@@ -196,7 +196,7 @@ export function Directory({
             Nothing matches those filters. Loosen one and try again.
           </p>
         ) : (
-          <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
+          <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 xl:grid-cols-3 min-[2200px]:grid-cols-4">
             {filtered.map((t) => (
               <TypefaceCard key={`${t.foundrySlug}/${t.slug}`} typeface={t} />
             ))}

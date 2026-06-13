@@ -34,7 +34,7 @@ export default function RootLayout({
     <html lang="en" className="h-full antialiased">
       <body className="min-h-full flex flex-col bg-background text-foreground">
         <header className="border-b-[0.5px] border-border">
-          <div className="mx-auto flex items-center justify-between px-4 py-3 sm:px-6">
+          <div className="mx-auto flex items-center justify-between px-4 pt-3 pb-2 sm:px-6">
             <Link href="/" className="font-bold tracking-tight">
               MegaMegaTypeType
             </Link>
@@ -50,6 +50,9 @@ export default function RootLayout({
               </Link>
             </nav>
           </div>
+          <p className="px-4 pb-3 text-xs text-muted-foreground sm:px-6">
+            The world&apos;s biggest index of the world&apos;s best typefaces
+          </p>
         </header>
         <main className="flex-1">{children}</main>
         <footer className="border-t-[0.5px] border-border">
