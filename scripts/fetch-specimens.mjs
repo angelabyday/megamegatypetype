@@ -279,6 +279,8 @@ async function runPerDomain(groups, worker) {
 async function main() {
   const foundryFlag = process.argv.indexOf("--foundry");
   const onlyFoundry = foundryFlag > -1 ? process.argv[foundryFlag + 1] : null;
+  const slugsFlag = process.argv.indexOf("--slugs");
+  const onlySlugs = slugsFlag > -1 ? new Set(process.argv[slugsFlag + 1].split(",")) : null;
   const force = process.argv.includes("--force");
   const screenshotsOnly = process.argv.includes("--screenshots-only");
 
@@ -287,7 +289,9 @@ async function main() {
       console.warn(`SKIP unknown foundry for ${t.name}`);
       return false;
     }
-    return onlyFoundry ? t.foundrySlug === onlyFoundry : true;
+    if (onlyFoundry && t.foundrySlug !== onlyFoundry) return false;
+    if (onlySlugs && !onlySlugs.has(t.slug)) return false;
+    return true;
   });
 
   // --force: delete existing screenshots so they get retaken
