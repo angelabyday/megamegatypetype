@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { ThemeToggle } from "@/components/theme-toggle";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -31,27 +32,35 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="h-full antialiased">
+    <html lang="en" className="h-full antialiased" suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{__html: `(function(){var s=localStorage.getItem('theme'),d=window.matchMedia('(prefers-color-scheme:dark)').matches;if(s==='dark'||(s===null&&d))document.documentElement.classList.add('dark');})()`}} />
+      </head>
       <body className="min-h-full flex flex-col bg-background text-foreground">
         <header className="border-b-[0.5px] border-border">
           <div className="mx-auto flex items-center justify-between px-4 pt-3 pb-2 sm:px-6">
-            <Link href="/" className="font-bold tracking-tight">
-              MegaMegaTypeType
+            <Link href="/" className="text-lg font-bold tracking-tight">
+              *MegaMegaTypeType*
             </Link>
-            <nav className="flex gap-5 text-sm">
-              <Link href="/brief" className="hover:underline underline-offset-4">
+            <div className="flex items-center gap-4">
+            <ThemeToggle />
+            <nav className="flex items-center gap-0 rounded-full bg-foreground text-background text-sm overflow-hidden">
+              <Link href="/brief" className="px-4 py-1.5 hover:opacity-75 transition-opacity">
                 Font Brief
               </Link>
-              <Link href="/wtf" className="hover:underline underline-offset-4">
+              <span className="w-px self-stretch bg-background/20" aria-hidden="true" />
+              <Link href="/wtf" className="px-4 py-1.5 hover:opacity-75 transition-opacity">
                 WTF is this font?
               </Link>
-              <Link href="/about" className="hover:underline underline-offset-4">
+              <span className="w-px self-stretch bg-background/20" aria-hidden="true" />
+              <Link href="/about" className="px-4 py-1.5 hover:opacity-75 transition-opacity">
                 About
               </Link>
             </nav>
+            </div>
           </div>
           <p className="px-4 pb-3 text-xs text-muted-foreground sm:px-6">
-            The world&apos;s biggest index of the world&apos;s best typefaces
+            The world&apos;s biggest index of typefaces from the world&apos;s best type foundries
           </p>
         </header>
         <main className="flex-1">{children}</main>

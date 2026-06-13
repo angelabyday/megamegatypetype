@@ -8,13 +8,20 @@
 //
 // ANTHROPIC_API_KEY is auto-loaded from .env.local if not already in env.
 
-import { existsSync, readFileSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { chromium } from "playwright";
 import Anthropic from "@anthropic-ai/sdk";
+import sharp from "sharp";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
+const SPECIMENS_DIR = join(root, "public", "specimens");
+const MANIFEST_PATH = join(root, "lib", "specimens.json");
+const SPECIMEN_WIDTH = 640;
+const SPECIMEN_HEIGHT = 400;
+const UA_IMG =
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36";
 
 // Load .env.local so ANTHROPIC_API_KEY works when running standalone
 try {
@@ -538,6 +545,657 @@ const FOUNDRIES = [
       } catch { return false; }
     },
   },
+
+  // ---- Batch 5 ----
+  {
+    name: "Balto / Type Supply",
+    slug: "balto-type-supply",
+    homepage: "https://typesupply.com/",
+    listingUrl: "https://typesupply.com/fonts",
+    tier: "okay",
+  },
+  {
+    name: "Big Fog Foundry",
+    slug: "big-fog-foundry",
+    homepage: "https://foundry.bigfog.co/",
+    listingUrl: "https://foundry.bigfog.co/typefaces",
+    tier: "okay",
+  },
+  {
+    name: "Coppers and Brasses",
+    slug: "coppers-and-brasses",
+    homepage: "https://coppersandbrasses.com/",
+    listingUrl: "https://coppersandbrasses.com/typefaces",
+    tier: "okay",
+    // exclude /accounts/... nav links
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("coppersandbrasses.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Darden Studio",
+    slug: "darden-studio",
+    homepage: "https://www.dardenstudio.com/",
+    listingUrl: "https://www.dardenstudio.com/typefaces",
+    tier: "okay",
+    // typefaces at root-level paths (/omnes, /gamay etc.)
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("dardenstudio.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        const NAV = new Set(["typefaces", "catalog", "about", "contact", "news", "work", "services"]);
+        return !NON_TYPEFACE_SLUGS.has(parts[0]) && !NAV.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Colt Type",
+    slug: "colt-type",
+    homepage: "https://wearecolt.com/",
+    listingUrl: "https://wearecolt.com/typefaces",
+    tier: "okay",
+    // Shopify: typefaces at /product/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("wearecolt.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "product" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Dharma Type",
+    slug: "dharma-type",
+    homepage: "https://dharmatype.com/",
+    listingUrl: "https://dharmatype.com/",
+    tier: "okay",
+    scrollCount: 40,
+    // typefaces at root-level paths; exclude nav slugs and section pages
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("dharmatype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        const NAV = new Set(["typefaces", "fonts", "about", "contact", "blog", "shop",
+          "cart", "checkout", "licensing", "distributors", "press"]);
+        return !NON_TYPEFACE_SLUGS.has(parts[0]) && !NAV.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "XYZ Type",
+    slug: "xyz-type",
+    homepage: "https://xyztype.com/",
+    listingUrl: "https://xyztype.com/fonts",
+    tier: "okay",
+  },
+  {
+    name: "Kilotype",
+    slug: "kilotype",
+    homepage: "https://kilotype.de/",
+    listingUrl: "https://kilotype.de/fonts",
+    tier: "okay",
+    // typefaces at /families/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("kilotype.de")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "families" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "KOMETA Typefaces",
+    slug: "kometa-typefaces",
+    homepage: "https://www.kometa.xyz/",
+    listingUrl: "https://www.kometa.xyz/typefaces/",
+    tier: "okay",
+    // redirects to kometatype.com — can't use strict hostname filter
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("kometatype.com") && !u.hostname.includes("kometa.xyz")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Kurppa Hosk Type",
+    slug: "kurppa-hosk-type",
+    homepage: "https://khtype.com/",
+    listingUrl: "https://khtype.com/fonts",
+    tier: "okay",
+    // typefaces at /typeface/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("khtype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typeface" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Gradient",
+    slug: "gradient",
+    homepage: "https://wearegradient.net/",
+    listingUrl: "https://wearegradient.net/typefaces",
+    tier: "okay",
+  },
+  {
+    name: "Letters from Sweden",
+    slug: "letters-from-sweden",
+    homepage: "https://lettersfromsweden.se/",
+    listingUrl: "https://lettersfromsweden.se/typefaces",
+    tier: "okay",
+    // typefaces at /font/[slug], not /typefaces/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("lettersfromsweden.se")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "font" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+
+  // ---- Batch 6 ----
+  {
+    name: "East of Rome",
+    slug: "east-of-rome",
+    homepage: "https://eastofrome.com/",
+    listingUrl: "https://eastofrome.com/typefaces",
+    tier: "okay",
+    // typefaces at /fonts/[slug], not /typefaces/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("eastofrome.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Commercial Classics",
+    slug: "commercial-classics",
+    homepage: "https://commercialclassics.com/",
+    listingUrl: "https://commercialclassics.com/catalogue",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("commercialclassics.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "catalog" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "HvD Fonts",
+    slug: "hvd-fonts",
+    homepage: "https://www.hvdfonts.com/",
+    listingUrl: "https://www.hvdfonts.com/fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("hvdfonts.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 2 || parts[0] !== "fonts") return false;
+        const CATS = new Set(["text", "free", "new", "variable", "bestseller", "all"]);
+        return !NON_TYPEFACE_SLUGS.has(parts[1]) && !CATS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Connary Fagen",
+    slug: "connary-fagen",
+    homepage: "https://connary.com/",
+    listingUrl: "https://connary.com/fonts",
+    tier: "okay",
+  },
+  {
+    name: "Narrow Type",
+    slug: "narrow-type",
+    homepage: "https://www.narrowtype.com/",
+    listingUrl: "https://www.narrowtype.com/typefaces",
+    tier: "okay",
+    // listing at /typefaces but individual typefaces live at /fonts/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("narrowtype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "TypeTogether",
+    slug: "type-together",
+    homepage: "https://www.type-together.com/",
+    listingUrl: "https://www.type-together.com/fonts",
+    tier: "okay",
+    scrollCount: 30,
+    // typefaces at root level /[slug]; exclude known nav paths
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("type-together.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        const NAV = new Set([
+          "font-catalogue", "fonts", "typefaces", "type-designers", "about", "contact",
+          "blog", "custom-type", "news", "education", "resellers", "licensing", "faq",
+          "ebooks", "corporate", "services", "awards", "in-use", "recent", "privacy-policy",
+          "cookie-policy", "terms-conditions",
+        ]);
+        return !NON_TYPEFACE_SLUGS.has(parts[0]) && !NAV.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Suitcase Type Foundry",
+    slug: "suitcase-type",
+    homepage: "https://www.suitcasetype.com/",
+    listingUrl: "https://www.suitcasetype.com/fonts",
+    tier: "okay",
+  },
+  {
+    name: "Lettermatic",
+    slug: "lettermatic",
+    homepage: "https://lettermatic.com/",
+    listingUrl: "https://lettermatic.com/fonts",
+    tier: "okay",
+  },
+  {
+    name: "Radim Pesko",
+    slug: "radim-pesko",
+    homepage: "https://radimpesko.com/",
+    listingUrl: "https://radimpesko.com/fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("radimpesko.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "The Foundry Types",
+    slug: "the-foundry-types",
+    homepage: "https://www.thefoundrytypes.com/",
+    listingUrl: "https://www.thefoundrytypes.com/fonts",
+    tier: "okay",
+  },
+  {
+    name: "Type Forward",
+    slug: "type-forward",
+    homepage: "https://www.typeforward.com/",
+    listingUrl: "https://www.typeforward.com/typefaces",
+    tier: "okay",
+  },
+  {
+    name: "Nikolas Type",
+    slug: "nikolas-type",
+    homepage: "https://www.nikolastype.com/",
+    listingUrl: "https://www.nikolastype.com/typefaces",
+    tier: "okay",
+    // listing at /typefaces; individual typefaces at /fonts/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("nikolastype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Death of Typography",
+    slug: "death-of-typography",
+    homepage: "https://deathoftypography.com/",
+    listingUrl: "https://deathoftypography.com/typefaces",
+    tier: "okay",
+    // typefaces at root-level /[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("deathoftypography.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        const NAV = new Set(["typefaces", "about", "contact", "workshops", "news", "services"]);
+        return !NON_TYPEFACE_SLUGS.has(parts[0]) && !NAV.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Monkey Type",
+    slug: "monkey-type",
+    homepage: "https://monkeytype.xyz/",
+    listingUrl: "https://monkeytype.xyz/fonts",
+    tier: "okay",
+    // small foundry; typefaces at root-level /[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("monkeytype.xyz")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        const NAV = new Set(["fonts", "about", "contact", "portfolio"]);
+        return !NON_TYPEFACE_SLUGS.has(parts[0]) && !NAV.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "TypeType",
+    slug: "type-type",
+    homepage: "https://typetype.org/",
+    listingUrl: "https://typetype.org/fonts",
+    tier: "okay",
+    scrollCount: 40,
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("typetype.org")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 2 || parts[0] !== "fonts") return false;
+        const CATS = new Set([
+          "bestseller", "new", "free", "all", "text", "display", "sans-serif", "serif",
+          "mono", "script", "variable", "cyrillic", "latin", "extended",
+        ]);
+        return !NON_TYPEFACE_SLUGS.has(parts[1]) && !CATS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "ECAL Typefaces",
+    slug: "ecal-typefaces",
+    homepage: "https://ecal-typefaces.ch/",
+    listingUrl: "https://ecal-typefaces.ch/typefaces",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("ecal-typefaces.ch")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typeface" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "WELTKERN",
+    slug: "weltkern",
+    homepage: "https://www.weltkern.com/",
+    listingUrl: "https://www.weltkern.com/typeface",
+    tier: "okay",
+    // listing at /typeface (singular); individual pages at /typefaces/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("weltkern.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Village",
+    slug: "village",
+    homepage: "https://vllg.com/",
+    listingUrl: "https://vllg.com/fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("vllg.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Dirty Line Studio",
+    slug: "dirty-line-studio",
+    homepage: "https://dirtylinestudio.com/",
+    listingUrl: "https://dirtylinestudio.com/product-category/fonts",
+    tier: "okay",
+    // WooCommerce: typefaces at /product/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("dirtylinestudio.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "product" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Mojomox",
+    slug: "mojomox",
+    homepage: "https://fonts.mojomox.com/",
+    listingUrl: "https://fonts.mojomox.com/en-gb/fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("mojomox.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "205TF",
+    slug: "205tf",
+    homepage: "https://www.205.tf/",
+    listingUrl: "https://www.205.tf/typefaces",
+    tier: "okay",
+    // typefaces at /typefaces/[slug] depth-2
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("205.tf")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Fable",
+    slug: "fable",
+    homepage: "https://fable.design/",
+    listingUrl: "https://fable.design/typefaces",
+    tier: "best",
+    // typefaces at root-level /[slug]; /typefaces /About are nav
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("fable.design")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        const slug = parts[0].toLowerCase();
+        const NAV = new Set(["typefaces", "about", "contact", "studio", "work", "news", "design",
+          "licence", "license", "type-pack", "bundles", "newsletter"]);
+        return !NON_TYPEFACE_SLUGS.has(slug) && !NAV.has(slug);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Arkitype",
+    slug: "arkitype",
+    homepage: "https://www.arkitype.co/",
+    listingUrl: "https://www.arkitype.co/typefaces",
+    tier: "best",
+    // typefaces at root-level /[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("arkitype.co")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        const NAV = new Set([
+          "typefaces", "fonts-in-use", "about", "contact", "news",
+          "custom-type", "licensing", "legal", "privacy", "cookies",
+        ]);
+        return !NON_TYPEFACE_SLUGS.has(parts[0]) && !NAV.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Crescenzi",
+    slug: "crescenzi",
+    homepage: "https://crescenzi.co/",
+    listingUrl: "https://crescenzi.co/fonts",
+    tier: "best",
+    // small foundry; typefaces at root-level /[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("crescenzi.co")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        const NAV = new Set(["fonts", "about", "contact", "info", "work", "faq", "services"]);
+        return !NON_TYPEFACE_SLUGS.has(parts[0]) && !NAV.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Lift Type",
+    slug: "lift-type",
+    homepage: "https://www.lift-type.fr/",
+    listingUrl: "https://www.lift-type.fr/collections/all",
+    tier: "best",
+    // Shopify: typefaces at /products/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("lift-type.fr")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Ultra Kuhl",
+    slug: "ultra-kuhl",
+    homepage: "https://ultra-kuhl.com/",
+    listingUrl: "https://ultra-kuhl.com/en/typefaces",
+    tier: "best",
+    // URLs are /en/typefaces/[slug] (depth 3)
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("ultra-kuhl.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return (
+          parts.length === 3 &&
+          parts[0] === "en" &&
+          parts[1] === "typefaces" &&
+          !NON_TYPEFACE_SLUGS.has(parts[2])
+        );
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Bold Monday",
+    slug: "bold-monday",
+    homepage: "https://www.boldmonday.com/",
+    listingUrl: "https://www.boldmonday.com/typefaces",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("boldmonday.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Letterjuice",
+    slug: "letterjuice",
+    homepage: "http://letterjuice.cat/",
+    listingUrl: "http://letterjuice.cat/fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("letterjuice.cat")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "SilverStag Type",
+    slug: "silverstag-type",
+    homepage: "https://silverstagtype.com/",
+    listingUrl: "https://silverstagtype.com/collections/all",
+    tier: "okay",
+    // Shopify: typefaces at /products/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("silverstagtype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Milieu Grotesque",
+    slug: "milieu-grotesque",
+    homepage: "http://www.milieugrotesque.com/",
+    listingUrl: "http://www.milieugrotesque.com/typefaces",
+    tier: "okay",
+  },
 ];
 
 // ---- URL filter ----
@@ -650,6 +1308,103 @@ ${JSON.stringify(EXAMPLE, null, 2)}`;
 // ---- Helpers ----
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+function slugify(name) {
+  return name
+    .normalize("NFKD")
+    .replace(/[̀-ͯ]/g, "")
+    .toLowerCase()
+    .replace(/['']/g, "")
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function specimenPath(foundrySlug, typefaceSlug) {
+  return join(SPECIMENS_DIR, foundrySlug, `${typefaceSlug}.webp`);
+}
+
+async function fetchImgBuffer(url) {
+  const res = await fetch(url, {
+    redirect: "follow",
+    headers: { "User-Agent": UA_IMG, Accept: "text/html,image/*,*/*" },
+    signal: AbortSignal.timeout(20000),
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  return Buffer.from(await res.arrayBuffer());
+}
+
+function extractOgImage(html, pageUrl) {
+  const metas = html.match(/<meta[^>]+>/gi) ?? [];
+  for (const key of ["og:image", "twitter:image"]) {
+    for (const m of metas) {
+      if (!new RegExp(`(property|name)=["']${key}(:secure_url)?["']`, "i").test(m)) continue;
+      const content = m.match(/content=["']([^"']+)["']/i);
+      if (content?.[1]) {
+        try { return new URL(content[1].replace(/&amp;/g, "&").trim(), pageUrl).href; }
+        catch { return null; }
+      }
+    }
+  }
+  return null;
+}
+
+async function saveSpecimen(buffer, foundrySlug, typefaceSlug) {
+  mkdirSync(join(SPECIMENS_DIR, foundrySlug), { recursive: true });
+  await sharp(buffer)
+    .resize(SPECIMEN_WIDTH, SPECIMEN_HEIGHT, { fit: "cover", position: "centre" })
+    .webp({ quality: 75 })
+    .toFile(specimenPath(foundrySlug, typefaceSlug));
+}
+
+// Uses the already-loaded page (saves a second HTTP round-trip).
+async function fetchSpecimenFromPage(page, foundrySlug, typefaceSlug) {
+  const out = specimenPath(foundrySlug, typefaceSlug);
+  if (existsSync(out)) return "cached";
+
+  const SKIP = /logo|icon|avatar|placeholder|sprite|flag|badge/i;
+
+  // 1. Largest landscape <img>
+  const imgSrc = await page.evaluate((skip) => {
+    const SKIP_RE = new RegExp(skip);
+    const candidates = [...document.querySelectorAll("img")].map((el) => ({
+      src: el.currentSrc || el.src,
+      w: el.naturalWidth,
+      h: el.naturalHeight,
+    })).filter((c) =>
+      c.src &&
+      !c.src.startsWith("data:") &&
+      !/\.svg(\?|$)/i.test(c.src) &&
+      !SKIP_RE.test(c.src) &&
+      c.w >= 400 && c.h >= 150 && c.w / c.h >= 1.2
+    ).sort((a, b) => b.w * b.h - a.w * a.h);
+    return candidates[0]?.src ?? null;
+  }, SKIP.source);
+
+  if (imgSrc) {
+    try {
+      const buf = await fetchImgBuffer(imgSrc);
+      await saveSpecimen(buf, foundrySlug, typefaceSlug);
+      return "page-img";
+    } catch { /* fall through */ }
+  }
+
+  // 2. og:image fallback
+  const html = await page.content();
+  const og = extractOgImage(html, page.url());
+  if (og) {
+    try {
+      const buf = await fetchImgBuffer(og);
+      await saveSpecimen(buf, foundrySlug, typefaceSlug);
+      return "og";
+    } catch { /* fall through */ }
+  }
+
+  // 3. Screenshot fallback
+  const buf = await page.screenshot({ type: "png" });
+  await saveSpecimen(buf, foundrySlug, typefaceSlug);
+  return "screenshot";
+}
+
 async function dismissCookies(page) {
   for (const sel of COOKIE_SELECTORS) {
     await page.locator(sel).first().click({ timeout: 600 }).catch(() => {});
@@ -755,7 +1510,7 @@ async function main() {
 
   const client = dryRun ? null : new Anthropic();
   const browser = await chromium.launch();
-  const ctx = await browser.newContext({ viewport: { width: 1280, height: 900 }, userAgent: UA });
+  const ctx = await browser.newContext({ viewport: { width: 1280, height: 900 }, userAgent: UA, ignoreHTTPSErrors: true });
   const stats = { ok: 0, fail: 0 };
 
   try {
@@ -817,9 +1572,22 @@ async function main() {
           entries.push(entry);
           indexed.add(url);
           stats.ok++;
-          console.log(`✓ ${entry.name}`);
           // Write after each entry so a kill/crash loses at most one entry
           writeFileSync(outPath, JSON.stringify(entries, null, 2) + "\n");
+          // Fetch specimen using the already-loaded page
+          const typefaceSlug = slugify(entry.name);
+          try {
+            const specimenResult = await fetchSpecimenFromPage(page, foundry.slug, typefaceSlug);
+            console.log(`✓ ${entry.name} [specimen: ${specimenResult}]`);
+            // Update manifest incrementally
+            const manifest = existsSync(MANIFEST_PATH)
+              ? JSON.parse(readFileSync(MANIFEST_PATH, "utf8"))
+              : {};
+            manifest[`${foundry.slug}/${typefaceSlug}`] = true;
+            writeFileSync(MANIFEST_PATH, JSON.stringify(manifest) + "\n");
+          } catch (specimenErr) {
+            console.log(`✓ ${entry.name} [specimen: miss – ${specimenErr.message.slice(0, 60)}]`);
+          }
         } catch (err) {
           stats.fail++;
           console.log(`✗ ${err.message.slice(0, 100)}`);

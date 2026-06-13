@@ -37,9 +37,21 @@ const RESPONSE_FORMAT = {
       },
       questions: {
         type: "array",
-        items: { type: "string" },
+        items: {
+          type: "object",
+          properties: {
+            question: { type: "string", description: "The clarifying question." },
+            options: {
+              type: "array",
+              items: { type: "string" },
+              description: "3 to 5 short suggested answers the user can pick from.",
+            },
+          },
+          required: ["question", "options"],
+          additionalProperties: false,
+        },
         description:
-          "1 to 3 clarifying questions, only when type is 'questions'. Each must note that 'I don't know' is a fine answer.",
+          "1 to 3 clarifying questions, only when type is 'questions'. Each has a question and 3–5 short suggested options. Note in each question that 'I don't know' is always fine.",
       },
       results: {
         type: "array",
@@ -69,7 +81,7 @@ const RESPONSE_FORMAT = {
           additionalProperties: false,
         },
         description:
-          "Exactly 10 ranked picks, best first, when type is 'results'. Never fewer, even when the brief asks for a smaller number.",
+          "Exactly 20 ranked picks, best first, when type is 'results'. Never fewer, even when the brief asks for a smaller number.",
       },
     },
     required: ["type"],
@@ -82,8 +94,8 @@ function buildSystemPrompt(index: string): string {
 
 How to work:
 1. Translate the brief into typographic features (contrast, x-height, stress axis, terminals, aperture, width) using the reference material. Words like "modern", "clean" and "elegant" are ambiguous; map them carefully.
-2. If the brief is too vague to recommend with conviction (for example one or two words with no sector, role, mood or references), respond with 1 to 3 clarifying questions instead of guessing. Draw them from: typeface category; role and surfaces; reference brands or typefaces and what to avoid; three adjectives plus one trap; era feel; budget tier; audience; sector. Always say "I don't know" is a fine answer. If the user has already answered questions, do not ask again: recommend.
-3. Otherwise return exactly 10 picks, ranked best first. Always 10, even when the brief asks for fewer ("three options each" still gets 10); cover the requested split within the 10 and let the ranking show it.
+2. If the brief is too vague to recommend with conviction (for example one or two words with no sector, role, mood or references), respond with 1 to 3 clarifying questions instead of guessing. Draw them from: typeface category; role and surfaces; reference brands or typefaces and what to avoid; three adjectives plus one trap; era feel; budget tier; audience; sector. For each question, provide 3–5 short suggested options the user can pick from (each under 5 words). Always say "I don't know" is a fine answer. If the user has already answered questions, do not ask again: recommend.
+3. Otherwise return exactly 20 picks, ranked best first. Always 20, even when the brief asks for fewer or more.
 
 Selection rules:
 - Pick only from the index. Use the exact name and foundry strings from it.
@@ -125,9 +137,11 @@ function buildIndex(): {
   return { json: JSON.stringify(compact), lookup };
 }
 
+type BriefQuestion = { question: string; options: string[] };
+
 type BriefResponse = {
   type: "questions" | "results";
-  questions?: string[];
+  questions?: BriefQuestion[];
   results?: ResultItem[];
 };
 
@@ -225,8 +239,8 @@ export async function POST(request: Request) {
     let resolved = resolve(results);
     const invalid = resolved.filter((r) => !r.match && !r.raw.outside_list);
 
-    // One correction round: hallucinated in-index picks, or fewer than 10.
-    if (invalid.length > 0 || results.length < 10) {
+    // One correction round: hallucinated in-index picks, or fewer than 2.
+    if (invalid.length > 0 || results.length < 20) {
       const problems: string[] = [];
       if (invalid.length > 0) {
         problems.push(
@@ -235,9 +249,9 @@ export async function POST(request: Request) {
             .join(", ")}. Replace them using exact index names.`
         );
       }
-      if (results.length < 10) {
+      if (results.length < 2) {
         problems.push(
-          `You returned ${results.length} picks. The list must be exactly 10, whatever the brief asked for. Keep your picks and extend to 10.`
+          `You returned ${results.length} picks. The list must be exactly 20. Keep your picks and extend to 20.`
         );
       }
       const replacement = await client.messages.create({
@@ -255,7 +269,7 @@ export async function POST(request: Request) {
           { role: "assistant", content: first.content },
           {
             role: "user",
-            content: `${problems.join(" ")} Return the full corrected list of exactly 10.`,
+            content: `${problems.join(" ")} Return the full corrected list of exactly 20.`,
           },
         ],
         output_config: { format: RESPONSE_FORMAT },
@@ -269,7 +283,7 @@ export async function POST(request: Request) {
 
     const final = resolved
       .filter((r) => r.match || r.raw.outside_list)
-      .slice(0, 10)
+      .slice(0, 20)
       .map((r) =>
         r.match
           ? {

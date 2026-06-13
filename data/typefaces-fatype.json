@@ -272,5 +272,55 @@
     "summary": "A contemporary text serif rooted in Plantin, with triangular serifs, arched strokes and terminal drops that give the family a distinct texture at reading sizes.",
     "description": "Designed by Thibaud Tissot and initially developed for a book project at Onlab, Make Way takes Plantin as its starting point while introducing transitional rather than purely Renaissance characteristics. Triangular serifs combine with arched strokes and terminal drops, and OpenType stylistic sets include a schoolbook variant where the a, g and y switch forms, alongside more formal alternates for Q and R. Currently five weights with a single italic, the family sits within a broader Make family still in development.",
     "foundry_blurb": "Fatype describe Make Way as a colourful and lively contemporary serif, initiated for a book project by Onlab's Thibaud Tissot and later adapted for magazine use. Primarily inspired by Plantin, it retains a solid appearance with relatively low contrast suited to reading sizes, while triangular serifs, arched strokes and terminal drops mix round, straight, organic and geometric ingredients to give it a distinct texture. The full version includes OpenType alternates such as a schoolbook variant and more formal Q and R forms, and the foundry notes that additional italics and family members are planned."
+  },
+  {
+    "name": "Baton Nouveau",
+    "foundry": "Fatype",
+    "url": "https://fatype.com/typefaces/baton",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Baton Nouveau is a grotesque sans with practical, straightforward letterforms; its Art Nouveau and French vernacular influences introduce eccentric details within an otherwise clean grotesque structure.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Baton Nouveau",
+      "Baton Nouveau Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "art-nouveau",
+      "french-vernacular",
+      "editorial",
+      "magazine",
+      "variable",
+      "multilingual",
+      "elegant"
+    ],
+    "summary": "Originally commissioned for GQ France, this grotesque draws on French vernacular typography and Art Nouveau to produce letter shapes that are eccentric without being decorative.",
+    "description": "Baton Nouveau is a 28-style grotesque family spanning seven weights in two widths, Regular and Condensed, each with matching italics. The design was born from a magazine commission but carries a broader range, with character set coverage extending to Cyrillic and Greek and a full suite of OpenType features including stylistic sets, tabular and lowercase figures, and fractions. A variable font is included with the complete family, covering weight, width and slant axes.",
+    "foundry_blurb": "Fatype describe Baton Nouveau as a practical grotesque that combines a straightforward formal approach with eccentric letter shapes inspired by French vernacular typography and Art Nouveau. Originally commissioned for GQ France magazine, it is designed to look simple yet sophisticated, elegant yet unpretentious, and is available in 28 styles across two widths with an extended character set including Cyrillic and Greek."
   }
 ]

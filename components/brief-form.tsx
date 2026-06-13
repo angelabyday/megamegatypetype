@@ -17,10 +17,12 @@ type ResultItem = {
   outsideList: boolean;
 };
 
+type BriefQuestion = { question: string; options: string[] };
+
 type BriefState =
   | { status: "idle" }
   | { status: "loading" }
-  | { status: "questions"; questions: string[] }
+  | { status: "questions"; questions: BriefQuestion[] }
   | { status: "results"; results: ResultItem[] }
   | { status: "error"; message: string };
 
@@ -30,6 +32,7 @@ export function BriefForm() {
   const [brief, setBrief] = useState("");
   const [state, setState] = useState<BriefState>({ status: "idle" });
   const [answers, setAnswers] = useState<string[]>([]);
+  const [selectedOptions, setSelectedOptions] = useState<(string | null)[]>([]);
   const restored = useRef(false);
 
   // Survive navigation to a result and back: state lives in sessionStorage.
@@ -82,6 +85,7 @@ export function BriefForm() {
       }
       if (data.type === "questions") {
         setAnswers(new Array(data.questions.length).fill(""));
+        setSelectedOptions(new Array(data.questions.length).fill(null));
         setState({ status: "questions", questions: data.questions });
       } else {
         setState({ status: "results", results: data.results });
@@ -95,6 +99,11 @@ export function BriefForm() {
 
   return (
     <div className="flex flex-col gap-6">
+      {loading && (
+        <div className="h-0.5 w-full overflow-hidden bg-border">
+          <div className="h-full animate-brief-progress bg-foreground" />
+        </div>
+      )}
       <form
         onSubmit={(e) => {
           e.preventDefault();
@@ -123,31 +132,60 @@ export function BriefForm() {
             e.preventDefault();
             submit(
               state.questions.map((q, i) => ({
-                question: q,
+                question: q.question,
                 answer: answers[i]?.trim() || "I don't know",
               }))
             );
           }}
-          className="flex flex-col gap-4 border-[0.5px] border-border p-4"
+          className="flex flex-col gap-6 rounded-md border-[0.5px] border-border p-4"
         >
-          <p className="text-sm">
-            A bit more detail would sharpen the matches. &ldquo;I don&rsquo;t
-            know&rdquo; is a fine answer; leave anything blank and we&rsquo;ll
-            decide for you.
+          <p className="text-sm text-muted-foreground">
+            A bit more detail would sharpen the matches. Skip anything you&rsquo;re not sure about.
           </p>
           {state.questions.map((q, i) => (
-            <label key={q} className="flex flex-col gap-1.5 text-sm">
-              {q}
-              <Input
-                value={answers[i] ?? ""}
-                onChange={(e) => {
-                  const next = [...answers];
-                  next[i] = e.target.value;
-                  setAnswers(next);
-                }}
-                placeholder="I don't know"
-              />
-            </label>
+            <div key={q.question} className="flex flex-col gap-2">
+              <p className="text-sm font-medium">{q.question}</p>
+              <div className="flex flex-wrap gap-2">
+                {q.options.map((opt) => (
+                  <button
+                    key={opt}
+                    type="button"
+                    onClick={() => {
+                      const nextSel = [...selectedOptions];
+                      const nextAns = [...answers];
+                      nextSel[i] = nextSel[i] === opt ? null : opt;
+                      nextAns[i] = nextSel[i] === null ? "" : opt === "Other" ? "" : opt;
+                      setSelectedOptions(nextSel);
+                      setAnswers(nextAns);
+                    }}
+                    className={`rounded-full border-[0.5px] px-3 py-1 text-sm transition-colors ${
+                      selectedOptions[i] === opt
+                        ? "border-foreground bg-foreground text-background"
+                        : "border-border hover:bg-muted"
+                    }`}
+                  >
+                    {opt}
+                  </button>
+                ))}
+              </div>
+              {(selectedOptions[i] === "Other" || (selectedOptions[i] === null)) && (
+                <Input
+                  value={selectedOptions[i] === "Other" ? (answers[i] ?? "") : (answers[i] ?? "")}
+                  onChange={(e) => {
+                    const next = [...answers];
+                    next[i] = e.target.value;
+                    setAnswers(next);
+                    if (e.target.value && selectedOptions[i] !== "Other") {
+                      const nextSel = [...selectedOptions];
+                      nextSel[i] = null;
+                      setSelectedOptions(nextSel);
+                    }
+                  }}
+                  placeholder="Or type your own answer…"
+                  className="mt-1"
+                />
+              )}
+            </div>
           ))}
           <div>
             <Button type="submit" disabled={loading}>
@@ -158,52 +196,44 @@ export function BriefForm() {
       )}
 
       {state.status === "results" && (
-        <ol className="flex flex-col">
+        <ol className="grid grid-cols-2 gap-4">
           {state.results.map((r, i) => {
             const specimen =
               r.slug && r.foundrySlug && hasSpecimen(r.foundrySlug, r.slug);
+            const href = r.slug && r.foundrySlug
+              ? `/t/${r.foundrySlug}/${r.slug}?from=brief`
+              : null;
             return (
               <li
                 key={`${r.foundry}/${r.name}`}
-                className="flex gap-4 border-b-[0.5px] border-border py-3 first:border-t-[0.5px]"
+                className="rounded-[12px] border-[0.5px] border-border overflow-hidden"
               >
-                <span className="w-6 shrink-0 text-sm text-muted-foreground">
-                  {i + 1}
-                </span>
-                {specimen && (
-                  <Link
-                    href={`/t/${r.foundrySlug}/${r.slug}?from=brief`}
-                    className="relative hidden h-20 w-32 shrink-0 overflow-hidden border-[0.5px] border-border bg-muted sm:block"
-                  >
+                {specimen && href && (
+                  <Link href={href} className="block relative aspect-[16/10] w-full bg-muted">
                     <Image
                       src={`/specimens/${r.foundrySlug}/${r.slug}.webp`}
                       alt={`${r.name} specimen`}
                       fill
-                      sizes="128px"
+                      sizes="(min-width: 768px) 672px, 100vw"
                       className="object-cover"
                     />
                   </Link>
                 )}
-                <div>
-                  <div className="font-bold">
-                    {r.slug && r.foundrySlug ? (
-                      <Link
-                        href={`/t/${r.foundrySlug}/${r.slug}?from=brief`}
-                        className="hover:underline underline-offset-4"
-                      >
-                        {r.name}
-                      </Link>
-                    ) : (
-                      <>
-                        {r.name}{" "}
-                        <span className="font-normal text-muted-foreground">
-                          (outside the list)
-                        </span>
-                      </>
-                    )}
-                    <span className="font-normal text-muted-foreground"> · {r.foundry}</span>
+                <div className="flex gap-3 p-4">
+                  <span className="text-sm text-muted-foreground w-4 shrink-0">{i + 1}</span>
+                  <div>
+                    <div className="font-bold">
+                      {href ? (
+                        <Link href={href} className="hover:underline underline-offset-4">
+                          {r.name}
+                        </Link>
+                      ) : (
+                        <>{r.name} <span className="font-normal text-muted-foreground">(outside the list)</span></>
+                      )}
+                      <span className="font-normal text-muted-foreground"> · {r.foundry}</span>
+                    </div>
+                    <p className="mt-1 text-sm text-muted-foreground">{r.reason}</p>
                   </div>
-                  <p className="text-sm text-muted-foreground">{r.reason}</p>
                 </div>
               </li>
             );
@@ -212,7 +242,7 @@ export function BriefForm() {
       )}
 
       {state.status === "error" && (
-        <p className="border-[0.5px] border-destructive/50 p-4 text-sm text-destructive">
+        <p className="rounded-md border-[0.5px] border-destructive/50 p-4 text-sm text-destructive">
           {state.message}
         </p>
       )}

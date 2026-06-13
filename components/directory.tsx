@@ -12,7 +12,7 @@ import {
 } from "@/components/ui/select";
 import { FoundrySelect } from "@/components/foundry-select";
 import { TypefaceCard } from "@/components/typeface-card";
-import { CATEGORIES, TIERS, type Category, type DirectoryEntry, type Tier } from "@/lib/typefaces";
+import { CATEGORIES, type Category, type DirectoryEntry } from "@/lib/typefaces";
 import type { FoundryInfo } from "@/lib/foundry-map";
 import { cn } from "@/lib/utils";
 
@@ -23,12 +23,30 @@ function fold(s: string): string {
   return s.normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 }
 
-const TIER_LABELS: Record<Tier, string> = {
-  best: "Best",
-  good: "Good",
-  okay: "Okay",
-  notgood: "Not good",
-};
+
+const USE_CASES: { label: string; tags: string[] }[] = [
+  { label: "Display",         tags: ["display"] },
+  { label: "Editorial",       tags: ["editorial"] },
+  { label: "Body Copy",        tags: ["text", "book", "body", "long-form", "reading"] },
+  { label: "Branding",        tags: ["branding", "identity", "logo", "logotype"] },
+  { label: "Headline",        tags: ["headline", "headlines", "poster"] },
+  { label: "Signage",         tags: ["signage", "wayfinding"] },
+  { label: "UI / Screen",     tags: ["ui", "screen", "interface"] },
+  { label: "Coding",          tags: ["coding", "code", "monospaced", "monospace", "mono"] },
+];
+
+const STYLES: { label: string; tags: string[] }[] = [
+  { label: "Geometric",       tags: ["geometric"] },
+  { label: "Humanist",        tags: ["humanist", "humanist-sans", "humanist-serif", "humanist sans", "humanist serif"] },
+  { label: "Grotesque",       tags: ["grotesque", "neo-grotesque", "grotesk"] },
+  { label: "Swiss / Neutral", tags: ["swiss", "neutral"] },
+  { label: "Expressive",      tags: ["expressive"] },
+  { label: "Decorative",      tags: ["decorative"] },
+  { label: "Retro / Revival", tags: ["retro", "vintage", "revival"] },
+  { label: "High Contrast",   tags: ["high-contrast", "high contrast"] },
+  { label: "Rounded",         tags: ["rounded"] },
+  { label: "Industrial",      tags: ["industrial"] },
+];
 
 export function Directory({
   typefaces,
@@ -40,7 +58,8 @@ export function Directory({
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState<Category | "all">("all");
   const [selectedFoundries, setSelectedFoundries] = useState<Set<string>>(new Set());
-  const [selectedTiers, setSelectedTiers] = useState<Set<Tier>>(new Set());
+  const [selectedUseCases, setSelectedUseCases] = useState<Set<string>>(new Set());
+  const [selectedStyles, setSelectedStyles] = useState<Set<string>>(new Set());
   const [condensedOnly, setCondensedOnly] = useState(false);
   const [italicOnly, setItalicOnly] = useState(false);
   const [monoOnly, setMonoOnly] = useState(false);
@@ -51,13 +70,26 @@ export function Directory({
     const list = typefaces.filter((t) => {
       if (category !== "all" && t.category !== category) return false;
       if (selectedFoundries.size > 0 && !selectedFoundries.has(t.foundry)) return false;
-      if (selectedTiers.size > 0 && !selectedTiers.has(t.tier)) return false;
+      if (selectedUseCases.size > 0) {
+        const tagSet = new Set(t.tags);
+        const match = [...selectedUseCases].some((label) =>
+          USE_CASES.find((u) => u.label === label)?.tags.some((tag) => tagSet.has(tag))
+        );
+        if (!match) return false;
+      }
+      if (selectedStyles.size > 0) {
+        const tagSet = new Set(t.tags);
+        const match = [...selectedStyles].some((label) =>
+          STYLES.find((s) => s.label === label)?.tags.some((tag) => tagSet.has(tag))
+        );
+        if (!match) return false;
+      }
       if (condensedOnly && !t.has_condensed) return false;
       if (italicOnly && !t.has_italic) return false;
       if (monoOnly && !t.has_mono) return false;
       if (q) {
         const haystack = fold(
-          [t.name, t.foundry, t.designer ?? "", t.summary, ...t.tags].join(" ")
+          [t.name, t.foundry, t.designer ?? "", t.summary, t.subcategory ?? "", t.description ?? "", t.classification_notes ?? "", ...t.tags].join(" ")
         );
         if (!haystack.includes(q)) return false;
       }
@@ -82,7 +114,7 @@ export function Directory({
           return a.name.localeCompare(b.name);
       }
     });
-  }, [typefaces, query, category, selectedFoundries, selectedTiers, condensedOnly, italicOnly, monoOnly, sort]);
+  }, [typefaces, query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, sort]);
 
   function toggle<T>(set: Set<T>, value: T, update: (next: Set<T>) => void) {
     const next = new Set(set);
@@ -96,7 +128,7 @@ export function Directory({
       <aside className="w-full shrink-0 lg:w-60 lg:sticky lg:top-6 lg:self-start">
         <Input
           type="search"
-          placeholder="Search name, foundry, designer, tags"
+          placeholder="Name, foundry, style, tags…"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           aria-label="Search typefaces"
@@ -112,7 +144,7 @@ export function Directory({
                 key={c}
                 onClick={() => setCategory(c as Category | "all")}
                 className={cn(
-                  "border-[0.5px] border-border px-2 py-1 text-xs transition-colors",
+                  "rounded-full border-[0.5px] border-border px-2 py-1 text-xs transition-colors",
                   category === c
                     ? "bg-foreground text-background"
                     : "hover:bg-muted"
@@ -137,16 +169,33 @@ export function Directory({
 
         <div className="mt-5">
           <h2 className="mb-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
-            Tier
+            Use Case
           </h2>
           <div className="flex flex-col gap-1.5">
-            {TIERS.map((tier) => (
-              <label key={tier} className="flex items-center gap-2 text-sm">
+            {USE_CASES.map(({ label }) => (
+              <label key={label} className="flex items-center gap-2 text-sm">
                 <Checkbox
-                  checked={selectedTiers.has(tier)}
-                  onCheckedChange={() => toggle(selectedTiers, tier, setSelectedTiers)}
+                  checked={selectedUseCases.has(label)}
+                  onCheckedChange={() => toggle(selectedUseCases, label, setSelectedUseCases)}
                 />
-                {TIER_LABELS[tier]}
+                {label}
+              </label>
+            ))}
+          </div>
+        </div>
+
+        <div className="mt-5">
+          <h2 className="mb-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
+            Style
+          </h2>
+          <div className="flex flex-col gap-1.5">
+            {STYLES.map(({ label }) => (
+              <label key={label} className="flex items-center gap-2 text-sm">
+                <Checkbox
+                  checked={selectedStyles.has(label)}
+                  onCheckedChange={() => toggle(selectedStyles, label, setSelectedStyles)}
+                />
+                {label}
               </label>
             ))}
           </div>
@@ -196,9 +245,9 @@ export function Directory({
             Nothing matches those filters. Loosen one and try again.
           </p>
         ) : (
-          <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 xl:grid-cols-3 min-[2200px]:grid-cols-4">
-            {filtered.map((t) => (
-              <TypefaceCard key={`${t.foundrySlug}/${t.slug}`} typeface={t} />
+          <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 sm:gap-4 xl:grid-cols-3 min-[2200px]:grid-cols-4">
+            {filtered.map((t, i) => (
+              <TypefaceCard key={`${t.foundrySlug}/${t.slug}`} typeface={t} priority={i < 2} />
             ))}
           </div>
         )}
