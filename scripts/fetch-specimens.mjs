@@ -18,6 +18,7 @@ const MANIFEST = join(root, "lib", "specimens.json");
 const UA =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36";
 const WIDTH = 640;
+const HEIGHT = 400; // 16:10 to match card aspect ratio
 const DOMAIN_DELAY_MS = 1500;
 const DOMAIN_CONCURRENCY = 4;
 
@@ -151,7 +152,10 @@ function outPath(t) {
 
 async function saveWebp(buffer, t) {
   mkdirSync(join(OUT_DIR, t.foundrySlug), { recursive: true });
-  await sharp(buffer).resize({ width: WIDTH, withoutEnlargement: false }).webp({ quality: 70 }).toFile(outPath(t));
+  await sharp(buffer)
+    .resize(WIDTH, HEIGHT, { fit: "cover", position: "centre" })
+    .webp({ quality: 75 })
+    .toFile(outPath(t));
 }
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -261,56 +265,16 @@ async function main() {
     console.log(`--force: deleted ${deleted} existing screenshots\n`);
   }
 
-  const onlyMissing = process.argv.includes("--screenshots-only-missing");
-  const stats = { og: 0, screenshot: 0, cached: 0, miss: [] };
+  const stats = { pageImg: 0, og: 0, screenshot: 0, cached: 0, miss: [] };
 
-  // ---- Pass 1: collect og:image URLs ----
-  const ogUrls = new Map(); // typeface -> og url
-  if (!onlyMissing) {
-    await runPerDomain(groupByDomain(typefaces), async (t) => {
-      if (existsSync(outPath(t))) {
-        stats.cached++;
-        return;
-      }
-      try {
-        const res = await fetchWithRetry(t.url);
-        const html = await res.text();
-        const og = extractOgImage(html, res.url || t.url);
-        if (og) ogUrls.set(t, og);
-        console.log(`og-scan ${t.foundrySlug}/${t.slug} -> ${og ?? "none"}`);
-      } catch (err) {
-        console.warn(`og-scan FAIL ${t.foundrySlug}/${t.slug}: ${err.message}`);
-      }
-    });
+  // ---- Browser pass: page-image → og:image → screenshot ----
+  const todo = typefaces.filter((t) => {
+    if (existsSync(outPath(t))) { stats.cached++; return false; }
+    return true;
+  });
+  console.log(`\nBrowser pass: ${todo.length} pages\n`);
 
-    // Discard generic share cards: same image URL on >2 typefaces of one foundry.
-    const counts = new Map();
-    for (const [t, og] of ogUrls) {
-      const key = `${t.foundrySlug}|${og}`;
-      counts.set(key, (counts.get(key) ?? 0) + 1);
-    }
-    for (const [t, og] of [...ogUrls]) {
-      if (counts.get(`${t.foundrySlug}|${og}`) > 2) ogUrls.delete(t);
-    }
-
-    // Download the survivors.
-    await runPerDomain(groupByDomain([...ogUrls.keys()]), async (t) => {
-      try {
-        const res = await fetchWithRetry(ogUrls.get(t));
-        const buf = Buffer.from(await res.arrayBuffer());
-        await saveWebp(buf, t);
-        stats.og++;
-        console.log(`og-image ${t.foundrySlug}/${t.slug} saved`);
-      } catch (err) {
-        console.warn(`og-image FAIL ${t.foundrySlug}/${t.slug}: ${err.message}`);
-      }
-    });
-  }
-
-  // ---- Pass 2: screenshot whatever is still missing ----
-  const missing = typefaces.filter((t) => !existsSync(outPath(t)));
-  console.log(`\nScreenshot pass: ${missing.length} pages\n`);
-  if (missing.length > 0) {
+  if (todo.length > 0) {
     const browser = await chromium.launch();
     const context = await browser.newContext({
       viewport: { width: 1280, height: 960 },
@@ -318,23 +282,68 @@ async function main() {
       deviceScaleFactor: 1,
     });
 
-    await runPerDomain(groupByDomain(missing), async (t) => {
+    await runPerDomain(groupByDomain(todo), async (t) => {
       const page = await context.newPage();
       try {
         await page.goto(t.url, { waitUntil: "domcontentloaded", timeout: 30000 });
         await page.waitForLoadState("networkidle", { timeout: 15000 }).catch(() => {});
         await dismissCookies(page);
         await page.waitForTimeout(800);
-        // Second pass — some banners animate in after first pass
         await dismissCookies(page);
         await page.waitForTimeout(800);
+
+        // 1. Find the largest landscape <img> on the page.
+        const imgSrc = await page.evaluate(() => {
+          const SKIP = /logo|icon|avatar|placeholder|sprite|flag|badge/i;
+          const candidates = [...document.querySelectorAll("img")].map((el) => ({
+            src: el.currentSrc || el.src,
+            w: el.naturalWidth,
+            h: el.naturalHeight,
+          })).filter((c) =>
+            c.src &&
+            !c.src.startsWith("data:") &&
+            !/\.svg(\?|$)/i.test(c.src) &&
+            !SKIP.test(c.src) &&
+            c.w >= 400 &&
+            c.h >= 150 &&
+            c.w / c.h >= 1.2
+          ).sort((a, b) => b.w * b.h - a.w * a.h);
+          return candidates[0]?.src ?? null;
+        });
+
+        if (imgSrc) {
+          try {
+            const res = await fetchWithRetry(imgSrc);
+            const buf = Buffer.from(await res.arrayBuffer());
+            await saveWebp(buf, t);
+            stats.pageImg++;
+            console.log(`page-image ${t.foundrySlug}/${t.slug} saved`);
+            return;
+          } catch { /* fall through */ }
+        }
+
+        // 2. og:image fallback.
+        const html = await page.content();
+        const og = extractOgImage(html, t.url);
+        if (og) {
+          try {
+            const res = await fetchWithRetry(og);
+            const buf = Buffer.from(await res.arrayBuffer());
+            await saveWebp(buf, t);
+            stats.og++;
+            console.log(`og-image ${t.foundrySlug}/${t.slug} saved`);
+            return;
+          } catch { /* fall through */ }
+        }
+
+        // 3. Screenshot fallback.
         const buf = await page.screenshot({ type: "png" });
         await saveWebp(buf, t);
         stats.screenshot++;
         console.log(`screenshot ${t.foundrySlug}/${t.slug} saved`);
       } catch (err) {
         stats.miss.push(`${t.foundrySlug}/${t.slug}`);
-        console.warn(`screenshot FAIL ${t.foundrySlug}/${t.slug}: ${err.message}`);
+        console.warn(`FAIL ${t.foundrySlug}/${t.slug}: ${err.message}`);
       } finally {
         await page.close();
       }
@@ -351,7 +360,7 @@ async function main() {
   writeFileSync(MANIFEST, JSON.stringify(manifest, null, 0) + "\n");
 
   console.log(
-    `\nDone. og:image ${stats.og}, screenshots ${stats.screenshot}, already present ${stats.cached}, ` +
+    `\nDone. page-image ${stats.pageImg}, og-fallback ${stats.og}, screenshots ${stats.screenshot}, cached ${stats.cached}, ` +
       `misses ${stats.miss.length}, manifest entries ${Object.keys(manifest).length}/${typefaces.length}`
   );
   if (stats.miss.length) console.log("Missed:", stats.miss.join(", "));
