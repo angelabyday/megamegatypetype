@@ -92,7 +92,7 @@ export function Directory({
   }
 
   return (
-    <div className="mx-auto flex max-w-7xl flex-col gap-6 px-4 py-6 sm:px-6 lg:flex-row">
+    <div className="mx-auto flex flex-col gap-6 px-4 py-6 sm:px-6 lg:flex-row">
       <aside className="w-full shrink-0 lg:w-60 lg:sticky lg:top-6 lg:self-start">
         <Input
           type="search"
@@ -196,7 +196,7 @@ export function Directory({
             Nothing matches those filters. Loosen one and try again.
           </p>
         ) : (
-          <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 xl:grid-cols-3">
+          <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
             {filtered.map((t) => (
               <TypefaceCard key={`${t.foundrySlug}/${t.slug}`} typeface={t} />
             ))}
