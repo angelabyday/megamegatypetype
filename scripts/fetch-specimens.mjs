@@ -276,6 +276,7 @@ async function main() {
   const foundryFlag = process.argv.indexOf("--foundry");
   const onlyFoundry = foundryFlag > -1 ? process.argv[foundryFlag + 1] : null;
   const force = process.argv.includes("--force");
+  const screenshotsOnly = process.argv.includes("--screenshots-only");
 
   const typefaces = loadTypefaces().filter((t) => {
     if (!t.foundrySlug) {
@@ -323,51 +324,53 @@ async function main() {
         await dismissCookies(page);
         await page.waitForTimeout(800);
 
-        // 1. Find the largest landscape <img> on the page.
-        const imgSrc = await page.evaluate(() => {
-          const SKIP = /logo|icon|avatar|placeholder|sprite|flag|badge/i;
-          const candidates = [...document.querySelectorAll("img")].map((el) => ({
-            src: el.currentSrc || el.src,
-            w: el.naturalWidth,
-            h: el.naturalHeight,
-          })).filter((c) =>
-            c.src &&
-            !c.src.startsWith("data:") &&
-            !/\.svg(\?|$)/i.test(c.src) &&
-            !SKIP.test(c.src) &&
-            c.w >= 400 &&
-            c.h >= 150 &&
-            c.w / c.h >= 1.2
-          ).sort((a, b) => b.w * b.h - a.w * a.h);
-          return candidates[0]?.src ?? null;
-        });
+        if (!screenshotsOnly) {
+          // 1. Find the largest landscape <img> on the page.
+          const imgSrc = await page.evaluate(() => {
+            const SKIP = /logo|icon|avatar|placeholder|sprite|flag|badge/i;
+            const candidates = [...document.querySelectorAll("img")].map((el) => ({
+              src: el.currentSrc || el.src,
+              w: el.naturalWidth,
+              h: el.naturalHeight,
+            })).filter((c) =>
+              c.src &&
+              !c.src.startsWith("data:") &&
+              !/\.svg(\?|$)/i.test(c.src) &&
+              !SKIP.test(c.src) &&
+              c.w >= 400 &&
+              c.h >= 150 &&
+              c.w / c.h >= 1.2
+            ).sort((a, b) => b.w * b.h - a.w * a.h);
+            return candidates[0]?.src ?? null;
+          });
 
-        if (imgSrc) {
-          try {
-            const res = await fetchWithRetry(imgSrc);
-            const buf = Buffer.from(await res.arrayBuffer());
-            await saveWebp(buf, t);
-            stats.pageImg++;
-            console.log(`page-image ${t.foundrySlug}/${t.slug} saved`);
-            return;
-          } catch { /* fall through */ }
+          if (imgSrc) {
+            try {
+              const res = await fetchWithRetry(imgSrc);
+              const buf = Buffer.from(await res.arrayBuffer());
+              await saveWebp(buf, t);
+              stats.pageImg++;
+              console.log(`page-image ${t.foundrySlug}/${t.slug} saved`);
+              return;
+            } catch { /* fall through */ }
+          }
+
+          // 2. og:image fallback.
+          const html = await page.content();
+          const og = extractOgImage(html, t.url);
+          if (og) {
+            try {
+              const res = await fetchWithRetry(og);
+              const buf = Buffer.from(await res.arrayBuffer());
+              await saveWebp(buf, t);
+              stats.og++;
+              console.log(`og-image ${t.foundrySlug}/${t.slug} saved`);
+              return;
+            } catch { /* fall through */ }
+          }
         }
 
-        // 2. og:image fallback.
-        const html = await page.content();
-        const og = extractOgImage(html, t.url);
-        if (og) {
-          try {
-            const res = await fetchWithRetry(og);
-            const buf = Buffer.from(await res.arrayBuffer());
-            await saveWebp(buf, t);
-            stats.og++;
-            console.log(`og-image ${t.foundrySlug}/${t.slug} saved`);
-            return;
-          } catch { /* fall through */ }
-        }
-
-        // 3. Screenshot fallback.
+        // 3. Screenshot (always runs when --screenshots-only; fallback otherwise).
         const buf = await page.screenshot({ type: "png" });
         await saveWebp(buf, t);
         stats.screenshot++;
