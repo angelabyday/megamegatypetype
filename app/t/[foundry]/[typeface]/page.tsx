@@ -54,7 +54,7 @@ function ChipList({ items }: { items: string[] }) {
       {items.map((item) => (
         <span
           key={item}
-          className="border-[0.5px] border-border px-1.5 py-0.5 text-xs"
+          className="rounded-full border-[0.5px] border-border px-1.5 py-0.5 text-xs"
         >
           {item}
         </span>
@@ -109,7 +109,7 @@ export default async function TypefacePage({
       </div>
 
       {hasSpecimen(t.foundrySlug, t.slug) && (
-        <div className="relative mt-6 aspect-[16/10] w-full overflow-hidden border-[0.5px] border-border bg-muted">
+        <div className="relative mt-6 aspect-[16/10] w-full overflow-hidden rounded-[12px] border-[0.5px] border-border bg-muted">
           <Image
             src={`/specimens/${t.foundrySlug}/${t.slug}.webp`}
             alt={`${t.name} specimen from ${t.foundry}`}
