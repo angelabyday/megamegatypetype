@@ -6,7 +6,7 @@
 // Run locally: node scripts/fetch-specimens.mjs [--screenshots-only-missing]
 // Never runs on Vercel.
 
-import { readdirSync, readFileSync, mkdirSync, writeFileSync, existsSync } from "node:fs";
+import { readdirSync, readFileSync, mkdirSync, writeFileSync, existsSync, statSync, unlinkSync as _unlinkSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import sharp from "sharp";
@@ -181,12 +181,16 @@ function outPath(t) {
   return join(OUT_DIR, t.foundrySlug, `${t.slug}.webp`);
 }
 
+// Minimum bytes for a valid specimen — anything below is likely a generic placeholder.
+const MIN_SIZE = 5000;
+
 async function saveWebp(buffer, t) {
   mkdirSync(join(OUT_DIR, t.foundrySlug), { recursive: true });
   await sharp(buffer)
     .resize(WIDTH, HEIGHT, { fit: "cover", position: "centre" })
     .webp({ quality: 75 })
     .toFile(outPath(t));
+  return statSync(outPath(t)).size;
 }
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -288,11 +292,10 @@ async function main() {
 
   // --force: delete existing screenshots so they get retaken
   if (force) {
-    const { unlinkSync } = await import("node:fs");
     let deleted = 0;
     for (const t of typefaces) {
       const p = outPath(t);
-      if (existsSync(p)) { unlinkSync(p); deleted++; }
+      if (existsSync(p)) { _unlinkSync(p); deleted++; }
     }
     console.log(`--force: deleted ${deleted} existing screenshots\n`);
   }
@@ -348,10 +351,14 @@ async function main() {
             try {
               const res = await fetchWithRetry(imgSrc);
               const buf = Buffer.from(await res.arrayBuffer());
-              await saveWebp(buf, t);
-              stats.pageImg++;
-              console.log(`page-image ${t.foundrySlug}/${t.slug} saved`);
-              return;
+              const size = await saveWebp(buf, t);
+              if (size >= MIN_SIZE) {
+                stats.pageImg++;
+                console.log(`page-image ${t.foundrySlug}/${t.slug} saved`);
+                return;
+              }
+              _unlinkSync(outPath(t));
+              console.log(`page-image too small (${size}b), trying og:image`);
             } catch { /* fall through */ }
           }
 
@@ -362,10 +369,14 @@ async function main() {
             try {
               const res = await fetchWithRetry(og);
               const buf = Buffer.from(await res.arrayBuffer());
-              await saveWebp(buf, t);
-              stats.og++;
-              console.log(`og-image ${t.foundrySlug}/${t.slug} saved`);
-              return;
+              const size = await saveWebp(buf, t);
+              if (size >= MIN_SIZE) {
+                stats.og++;
+                console.log(`og-image ${t.foundrySlug}/${t.slug} saved`);
+                return;
+              }
+              _unlinkSync(outPath(t));
+              console.log(`og-image too small (${size}b), falling back to screenshot`);
             } catch { /* fall through */ }
           }
         }
@@ -387,9 +398,11 @@ async function main() {
   }
 
   // ---- Manifest ----
-  const manifest = {};
+  // Merge with existing manifest so --foundry runs don't wipe other entries.
+  const existing = existsSync(MANIFEST) ? JSON.parse(readFileSync(MANIFEST, "utf8")) : {};
+  const manifest = { ...existing };
   for (const t of typefaces) {
-    if (existsSync(outPath(t))) manifest[`${t.foundrySlug}/${t.slug}`] = true;
+    manifest[`${t.foundrySlug}/${t.slug}`] = existsSync(outPath(t));
   }
   writeFileSync(MANIFEST, JSON.stringify(manifest, null, 0) + "\n");
 

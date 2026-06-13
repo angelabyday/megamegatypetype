@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { Suspense } from "react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { ArrowRight } from "lucide-react";
 import { BriefResultNav } from "@/components/brief-result-nav";
 import { hasSpecimen } from "@/components/typeface-card";
 import { getFoundryByName } from "@/lib/foundry-map";
@@ -94,8 +95,8 @@ export default async function TypefacePage({
           </p>
         </div>
         <Button asChild>
-          <a href={t.url} target="_blank" rel="noopener noreferrer">
-            View on {foundryInfo?.name ?? t.foundry}
+          <a href={t.url} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5">
+            View on {foundryInfo?.name ?? t.foundry} <ArrowRight size={14} />
           </a>
         </Button>
       </div>

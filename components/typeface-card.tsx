@@ -59,7 +59,7 @@ export function TypefaceCard({ typeface, priority }: { typeface: DirectoryEntry;
       <div className="absolute inset-x-0 bottom-0 translate-y-full group-hover:translate-y-0 transition-transform duration-200 flex border-t-[0.5px] border-border bg-background rounded-b-[12px]">
         <Link
           href={detailUrl}
-          className="flex-1 py-3 text-xs font-medium text-center border-r-[0.5px] border-border hover:bg-muted transition-colors"
+          className="flex-1 py-3 text-xs font-medium text-center border-r-[0.5px] border-border hover:bg-foreground hover:text-background transition-colors"
         >
           Font info
         </Link>
@@ -67,7 +67,7 @@ export function TypefaceCard({ typeface, priority }: { typeface: DirectoryEntry;
           href={typeface.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="flex-1 py-3 text-xs font-medium text-center hover:bg-muted transition-colors"
+          className="flex-1 py-3 text-xs font-medium text-center hover:bg-foreground hover:text-background transition-colors"
         >
           Get the font
         </a>

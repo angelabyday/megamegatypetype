@@ -183,6 +183,23 @@ const FOUNDRIES = [
     scrollCount: 35,
   },
   {
+    name: "Sociotype",
+    slug: "sociotype",
+    homepage: "https://socio-type.com/",
+    listingUrl: "https://socio-type.com/",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("socio-type.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        return !NON_TYPEFACE_SLUGS.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
     name: "Signal",
     slug: "signal",
     homepage: "https://signalfoundry.com/",
