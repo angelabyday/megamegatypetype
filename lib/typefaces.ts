@@ -297,8 +297,6 @@ export type DirectoryEntry = Pick<
   | "designer"
   | "summary"
   | "subcategory"
-  | "description"
-  | "classification_notes"
   | "tier"
   | "has_condensed"
   | "has_italic"
@@ -318,8 +316,6 @@ export function toDirectoryEntry(t: Typeface): DirectoryEntry {
     designer: t.designer,
     summary: t.summary,
     subcategory: t.subcategory,
-    description: t.description,
-    classification_notes: t.classification_notes,
     tier: t.tier,
     has_condensed: t.has_condensed,
     has_italic: t.has_italic,

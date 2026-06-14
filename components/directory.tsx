@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { Checkbox } from "@/components/ui/checkbox";
 import { Input } from "@/components/ui/input";
 import {
@@ -64,6 +64,8 @@ export function Directory({
   const [italicOnly, setItalicOnly] = useState(false);
   const [monoOnly, setMonoOnly] = useState(false);
   const [sort, setSort] = useState<SortKey>("name");
+  const [visibleCount, setVisibleCount] = useState(60);
+  const loadMoreRef = useRef<HTMLDivElement>(null);
 
   const filtered = useMemo(() => {
     const q = fold(query.trim());
@@ -89,7 +91,7 @@ export function Directory({
       if (monoOnly && !t.has_mono) return false;
       if (q) {
         const haystack = fold(
-          [t.name, t.foundry, t.designer ?? "", t.summary, t.subcategory ?? "", t.description ?? "", t.classification_notes ?? "", ...t.tags].join(" ")
+          [t.name, t.foundry, t.designer ?? "", t.summary, t.subcategory ?? "", ...t.tags].join(" ")
         );
         if (!haystack.includes(q)) return false;
       }
@@ -115,6 +117,23 @@ export function Directory({
       }
     });
   }, [typefaces, query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, sort]);
+
+  useEffect(() => {
+    setVisibleCount(60);
+  }, [query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, sort]);
+
+  useEffect(() => {
+    const el = loadMoreRef.current;
+    if (!el) return;
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) setVisibleCount((n) => n + 60);
+      },
+      { rootMargin: "200px" }
+    );
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, [filtered]);
 
   function toggle<T>(set: Set<T>, value: T, update: (next: Set<T>) => void) {
     const next = new Set(set);
@@ -245,11 +264,18 @@ export function Directory({
             Nothing matches those filters. Loosen one and try again.
           </p>
         ) : (
-          <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 sm:gap-4 xl:grid-cols-3 min-[2200px]:grid-cols-4">
-            {filtered.map((t, i) => (
-              <TypefaceCard key={`${t.foundrySlug}/${t.slug}`} typeface={t} priority={i < 2} />
-            ))}
-          </div>
+          <>
+            <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 sm:gap-4 xl:grid-cols-3 min-[2200px]:grid-cols-4">
+              {filtered.slice(0, visibleCount).map((t, i) => (
+                <TypefaceCard key={`${t.foundrySlug}/${t.slug}`} typeface={t} priority={i < 2} />
+              ))}
+            </div>
+            {visibleCount < filtered.length && (
+              <div ref={loadMoreRef} className="py-8 text-center text-sm text-muted-foreground">
+                Loading more…
+              </div>
+            )}
+          </>
         )}
       </section>
     </div>
