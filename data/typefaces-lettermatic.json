@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Really Sans",
+    "foundry": "Lettermatic",
+    "url": "https://lettermatic.com/fonts/really-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Really Sans exhibits geometric construction with round dots, circular 'o' forms and vertically cut open terminations, placing it firmly in the geometric sans tradition, though its Small optical size introduces humanist warmth suited to running text.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "Extra Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Large",
+      "Small"
+    ],
+    "subfamilies": [
+      "Really Sans Large",
+      "Really Sans Small"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "optical-sizes",
+      "interface",
+      "legibility",
+      "text",
+      "display",
+      "multi-weight",
+      "app-design"
+    ],
+    "summary": "A two-optical-size sans family with nine large weights and five small weights, drawn specifically to handle both headline and running-text settings.",
+    "description": "Really Sans splits into a Large optical size, with a generous x-height and tight spacing for headlines, and a Small optical size, with a lower x-height and more open spacing for body copy and small-point settings. Both share open, vertically cut terminations and round dots on the 'i' and 'j', keeping legibility consistent across sizes. The family spans 28 styles in total, with features including proportional and tabular figures, old-style figures, dynamic fractions, circled figures and support for over 200 languages.",
+    "foundry_blurb": "Lettermatic describe Really Sans as a type family built for both large and small point sizes, noting that the two optical sizes are drawn differently in purposeful ways. Really Sans Small carries a lower x-height and looser spacing for running text, while Really Sans Large offers a larger x-height and tighter spacing for eye-catching headlines. They highlight its suitability for mobile app interfaces, buttons and labels, and point to features such as tabular figures, dynamic fractions and 200-plus language support."
+  },
+  {
+    "name": "Parclo Serif",
+    "foundry": "Lettermatic",
+    "url": "https://lettermatic.com/fonts/parclo-serif",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "A contemporary text and display serif with true italics and an unusually wide weight range from Hairline to Ultra, featuring distinctive lowercase details and expressive curves suited to both paragraph and headline use.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "ExtraBlack",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Parclo Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "contemporary",
+      "text",
+      "display",
+      "wide-weight-range",
+      "true-italic",
+      "editorial",
+      "versatile"
+    ],
+    "summary": "A contemporary serif spanning nine weights from Thin to Ultra, with true italics and distinctive lowercase hook details designed to carry both body text and headline work.",
+    "description": "With nine weights running from Thin to Ultra and matching italics across all of them, Parclo Serif is built to cover a broad tonal range within a single family. The true italic means every lowercase letter is redrawn rather than simply slanted, and recurring hook details in the lowercase and numerals give the face a consistent underlying character. A companion sans is also available, and the family covers 200-plus languages with a full suite of figure styles including lining, old style and tabular.",
+    "foundry_blurb": "Lettermatic describe Parclo Serif as packed with sleek details and character, positioning it as a workhorse that can perform across contexts: from hairline for sparkle to regular for paragraphs to ultra for impactful headlines. The family ships with 18 total styles, case punctuation, multiple figure styles, dynamic fractions, circled figures, directional arrows and support for over 200 languages, alongside a companion sans typeface."
+  },
+  {
+    "name": "Bezzia",
+    "foundry": "Lettermatic",
+    "url": "https://lettermatic.com/fonts/bezzia",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "slab serif",
+    "classification_notes": "Bezzia is explicitly described as a slab serif typeface. Its design mixes sharp beak terminations with round hook terminations, and features distinctive slab serifs throughout, placing it firmly in the slab category.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bezzia"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "editorial",
+      "academic",
+      "naturalist",
+      "text",
+      "expressive",
+      "multilingual",
+      "contemporary"
+    ],
+    "summary": "A slab serif in 8 weights with matching italics, drawn with a naturalist precision inspired by entomological collections at the California Academy of Sciences.",
+    "description": "Lettermatic describe Bezzia as a new evolution of the slab serif, with its design vocabulary rooted in the entomology collections at the California Academy of Sciences. Sixteen styles run from Hairline to Ultra with matching italics, and the design distinguishes itself through a continuous bowl-and-tail on the 'g', a split-bar fraction system, and selective serif omission at heavier weights to protect interior negative space. Coverage runs to 200-plus languages, with lining and old-style figures, tabular figures, circled figures and directional arrows rounding out an extensive glyph set.",
+    "foundry_blurb": "Lettermatic position Bezzia as a new evolution of the slab serif, inspired by entomological collections at the California Academy of Sciences. They describe it as bringing academic gravity and timeless style, offering 8 weights with matching italics across 16 total styles, with features including case punctuation, lining and old-style figures, dynamic fractions, circled figures and support for 200-plus languages."
+  },
+  {
+    "name": "Parclo Sans",
+    "foundry": "Lettermatic",
+    "url": "https://lettermatic.com/fonts/parclo-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Lettermatic positions Parclo Sans within the humanist sans tradition, citing legibility from fine print to signage and open terminations that aid readability at small sizes. The design shares qualities with a companion serif, suggesting a text-oriented humanist approach.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "ExtraBlack",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Narrow",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Parclo Sans",
+      "Parclo Sans Narrow",
+      "Parclo Sans Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "legibility",
+      "multi-width",
+      "text",
+      "interface",
+      "signage",
+      "extended-range"
+    ],
+    "summary": "A humanist sans in three widths and nine weights, built for legibility across sizes from fine print to signage, with open terminations and a companion serif.",
+    "description": "Fifty-four styles span three widths — Standard, Narrow and Condensed — each running from Thin to Ultra with matching italics, giving it genuine range for complex typographic systems. Open terminations allow negative space to breathe at small sizes, and details such as the bowed tops of the R, B and P add texture to all-caps settings. Designed alongside Parclo Serif and suited to mobile interfaces, editorial work and signage.",
+    "foundry_blurb": "Lettermatic describe Parclo Sans as a humanist typeface ready for anything from fine print to roadside signage, coming fully loaded with three widths, nine weights and matching italics for 54 total styles. It supports over 200 languages, includes features such as old-style figures, tabular figures, dynamic fractions and directional arrows, and was designed in tandem with its companion, Parclo Serif."
+  }
+]

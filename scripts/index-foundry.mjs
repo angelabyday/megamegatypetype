@@ -756,16 +756,18 @@ const FOUNDRIES = [
   {
     name: "Commercial Classics",
     slug: "commercial-classics",
-    homepage: "https://commercialclassics.com/",
-    listingUrl: "https://commercialclassics.com/catalogue",
+    homepage: "https://showcase.commercialclassics.com/",
+    listingUrl: "https://showcase.commercialclassics.com/",
     tier: "okay",
+    scrollCount: 30,
     filterFn: (href) => {
       try {
         const u = new URL(href);
         if (!u.hostname.includes("commercialclassics.com")) return false;
         if (u.search || u.hash) return false;
         const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
-        return parts.length === 2 && parts[0] === "catalog" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+        if (parts.length !== 1) return false;
+        return !NON_TYPEFACE_SLUGS.has(parts[0]);
       } catch { return false; }
     },
   },
@@ -815,10 +817,10 @@ const FOUNDRIES = [
     name: "TypeTogether",
     slug: "type-together",
     homepage: "https://www.type-together.com/",
-    listingUrl: "https://www.type-together.com/fonts",
+    listingUrl: "https://www.type-together.com/font-catalogue",
     tier: "okay",
     scrollCount: 30,
-    // typefaces at root level /[slug]; exclude known nav paths
+    // typefaces at /[slug]-font or /[slug]; exclude nav and category pages
     filterFn: (href) => {
       try {
         const u = new URL(href);
@@ -826,13 +828,19 @@ const FOUNDRIES = [
         if (u.search || u.hash) return false;
         const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
         if (parts.length !== 1) return false;
+        const slug = parts[0];
         const NAV = new Set([
           "font-catalogue", "fonts", "typefaces", "type-designers", "about", "contact",
           "blog", "custom-type", "news", "education", "resellers", "licensing", "faq",
           "ebooks", "corporate", "services", "awards", "in-use", "recent", "privacy-policy",
-          "cookie-policy", "terms-conditions",
+          "cookie-policy", "terms-conditions", "newsletter-archive", "subscribe-to-newsletter",
+          "careers", "press-resources", "payment-form", "customtypes", "catalogue",
+          "merchandising", "my-account", "profile", "order-history", "my-downloads", "logout",
+          "wishlist", "checkout", "cart", "register", "sign-in",
         ]);
-        return !NON_TYPEFACE_SLUGS.has(parts[0]) && !NAV.has(parts[0]);
+        // Category pages end in -fonts (e.g. display-fonts, book-fonts)
+        if (slug.endsWith("-fonts") || slug.endsWith("-font-collection")) return false;
+        return !NON_TYPEFACE_SLUGS.has(slug) && !NAV.has(slug);
       } catch { return false; }
     },
   },
@@ -949,11 +957,8 @@ const FOUNDRIES = [
         if (u.search || u.hash) return false;
         const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
         if (parts.length !== 2 || parts[0] !== "fonts") return false;
-        const CATS = new Set([
-          "bestseller", "new", "free", "all", "text", "display", "sans-serif", "serif",
-          "mono", "script", "variable", "cyrillic", "latin", "extended",
-        ]);
-        return !NON_TYPEFACE_SLUGS.has(parts[1]) && !CATS.has(parts[1]);
+        // All TypeType fonts are prefixed tt-; everything else is a category/filter page
+        return parts[1].startsWith("tt-");
       } catch { return false; }
     },
   },
@@ -1124,14 +1129,18 @@ const FOUNDRIES = [
     homepage: "https://www.lift-type.fr/",
     listingUrl: "https://www.lift-type.fr/collections/all",
     tier: "best",
-    // Shopify: typefaces at /products/[slug]
+    // Shopify: typefaces at /products/[slug]; exclude license purchases and weight variants
     filterFn: (href) => {
       try {
         const u = new URL(href);
         if (!u.hostname.includes("lift-type.fr")) return false;
         if (u.search || u.hash) return false;
         const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
-        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+        if (parts.length !== 2 || parts[0] !== "products") return false;
+        const slug = parts[1];
+        if (slug.includes("license") || slug.includes("pack")) return false;
+        if (/-(bold|medium|regular|light|thin|black|heavy|italic|oblique|condensed|expanded|extended|narrow|wide|ultra|semi|extra)$/.test(slug)) return false;
+        return !NON_TYPEFACE_SLUGS.has(slug);
       } catch { return false; }
     },
   },
@@ -1212,6 +1221,94 @@ const FOUNDRIES = [
     homepage: "http://www.milieugrotesque.com/",
     listingUrl: "http://www.milieugrotesque.com/typefaces",
     tier: "okay",
+  },
+
+  // ---- Batch 7 ----
+  {
+    name: "Hot Type",
+    slug: "hot-type",
+    homepage: "https://hottype.co/",
+    listingUrl: "https://hottype.co/fonts",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("hottype.co")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Order",
+    slug: "order",
+    homepage: "https://order.design/",
+    listingUrl: "https://order.design/otf",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("order.design")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "otf" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Luzi Type",
+    slug: "luzi-type",
+    homepage: "https://www.luzi-type.ch/",
+    listingUrl: "https://www.luzi-type.ch/fonts",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("luzi-type.ch")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        const NAV = new Set([
+          "fonts", "about", "contact", "support", "notes", "test-fonts",
+          "news", "imprint", "terms", "privacy", "legal", "custom",
+          "services", "licensing", "team", "studio", "shop", "cart",
+        ]);
+        return !NON_TYPEFACE_SLUGS.has(parts[0]) && !NAV.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Double Dagger",
+    slug: "double-dagger",
+    homepage: "https://www.doubledagger.xyz/",
+    listingUrl: "https://www.doubledagger.xyz/type",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("doubledagger.xyz")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 3 && parts[0] === "type" && parts[1] === "p" && !NON_TYPEFACE_SLUGS.has(parts[2]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Indian Type Foundry",
+    slug: "indian-type-foundry",
+    homepage: "https://www.indiantypefoundry.com/",
+    listingUrl: "https://www.indiantypefoundry.com/fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("indiantypefoundry.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
   },
 ];
 
@@ -1365,10 +1462,10 @@ function extractOgImage(html, pageUrl) {
   return null;
 }
 
-async function saveSpecimen(buffer, foundrySlug, typefaceSlug) {
+async function saveSpecimen(buffer, foundrySlug, typefaceSlug, position = "centre") {
   mkdirSync(join(SPECIMENS_DIR, foundrySlug), { recursive: true });
   await sharp(buffer)
-    .resize(SPECIMEN_WIDTH, SPECIMEN_HEIGHT, { fit: "cover", position: "centre" })
+    .resize(SPECIMEN_WIDTH, SPECIMEN_HEIGHT, { fit: "cover", position })
     .webp({ quality: 75 })
     .toFile(specimenPath(foundrySlug, typefaceSlug));
 }
@@ -1405,20 +1502,9 @@ async function fetchSpecimenFromPage(page, foundrySlug, typefaceSlug) {
     } catch { /* fall through */ }
   }
 
-  // 2. og:image fallback
-  const html = await page.content();
-  const og = extractOgImage(html, page.url());
-  if (og) {
-    try {
-      const buf = await fetchImgBuffer(og);
-      await saveSpecimen(buf, foundrySlug, typefaceSlug);
-      return "og";
-    } catch { /* fall through */ }
-  }
-
-  // 3. Screenshot fallback
+  // 2. Screenshot fallback (og:image intentionally skipped — foundries share site-wide og images)
   const buf = await page.screenshot({ type: "png" });
-  await saveSpecimen(buf, foundrySlug, typefaceSlug);
+  await saveSpecimen(buf, foundrySlug, typefaceSlug, "top");
   return "screenshot";
 }
 
@@ -1538,6 +1624,16 @@ async function main() {
       console.log(`\n=== ${foundry.name} ===`);
       console.log(`Listing: ${foundry.listingUrl}`);
 
+      // Skip foundries that already have a complete data file (no Playwright needed)
+      const outPath = join(root, "data", `typefaces-${foundry.slug}.json`);
+      if (!dryRun && existsSync(outPath)) {
+        const existing = JSON.parse(readFileSync(outPath, "utf8"));
+        if (existing.length > 0) {
+          console.log(`  Already indexed (${existing.length} entries) — skipping`);
+          continue;
+        }
+      }
+
       const page = await ctx.newPage();
 
       let urls;
@@ -1563,7 +1659,6 @@ async function main() {
       }
 
       // Resume: load any entries already written for this foundry
-      const outPath = join(root, "data", `typefaces-${foundry.slug}.json`);
       const existing = existsSync(outPath) ? JSON.parse(readFileSync(outPath, "utf8")) : [];
       const indexed = new Set(existing.map((e) => e.url));
       const entries = [...existing];

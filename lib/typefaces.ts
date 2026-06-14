@@ -10,6 +10,7 @@ import bastarda from "@/data/typefaces-bastarda.json";
 import bigFogFoundry from "@/data/typefaces-big-fog-foundry.json";
 import binnenland from "@/data/typefaces-binnenland.json";
 import blazeType from "@/data/typefaces-blaze-type.json";
+import boldMonday from "@/data/typefaces-bold-monday.json";
 import britishStandardType from "@/data/typefaces-british-standard-type.json";
 import bureauBrut from "@/data/typefaces-bureau-brut.json";
 import camelot from "@/data/typefaces-camelot.json";
@@ -17,9 +18,12 @@ import cast from "@/data/typefaces-cast.json";
 import catalogue from "@/data/typefaces-catalogue.json";
 import coltType from "@/data/typefaces-colt-type.json";
 import commercialType from "@/data/typefaces-commercial-type.json";
+import connaryFagen from "@/data/typefaces-connary-fagen.json";
 import coppersAndBrasses from "@/data/typefaces-coppers-and-brasses.json";
+import crescenzi from "@/data/typefaces-crescenzi.json";
 import daltonMaag from "@/data/typefaces-dalton-maag.json";
 import dardenStudio from "@/data/typefaces-darden-studio.json";
+import deathOfTypography from "@/data/typefaces-death-of-typography.json";
 import dharmaType from "@/data/typefaces-dharma-type.json";
 import dinamo from "@/data/typefaces-dinamo.json";
 import displaay from "@/data/typefaces-displaay.json";
@@ -62,6 +66,31 @@ import typespec from "@/data/typefaces-typespec.json";
 import typotheque from "@/data/typefaces-typotheque.json";
 import vjType from "@/data/typefaces-vj-type.json";
 import xyzType from "@/data/typefaces-xyz-type.json";
+// Batch 6
+import eastOfRome from "@/data/typefaces-east-of-rome.json";
+import hvdFonts from "@/data/typefaces-hvd-fonts.json";
+import narrowType from "@/data/typefaces-narrow-type.json";
+import typeTogether from "@/data/typefaces-type-together.json";
+import suitcaseType from "@/data/typefaces-suitcase-type.json";
+import lettermatic from "@/data/typefaces-lettermatic.json";
+import radimPesko from "@/data/typefaces-radim-pesko.json";
+import theFoundryTypes from "@/data/typefaces-the-foundry-types.json";
+import nikolasType from "@/data/typefaces-nikolas-type.json";
+import typeType from "@/data/typefaces-type-type.json";
+import ecalTypefaces from "@/data/typefaces-ecal-typefaces.json";
+import weltkern from "@/data/typefaces-weltkern.json";
+import dirtyLineStudio from "@/data/typefaces-dirty-line-studio.json";
+import mojomox from "@/data/typefaces-mojomox.json";
+import fable from "@/data/typefaces-fable.json";
+import arkitype from "@/data/typefaces-arkitype.json";
+import liftType from "@/data/typefaces-lift-type.json";
+import silverstag from "@/data/typefaces-silverstag-type.json";
+// Batch 7
+import hotType from "@/data/typefaces-hot-type.json";
+import order from "@/data/typefaces-order.json";
+import luziType from "@/data/typefaces-luzi-type.json";
+import doubleDagger from "@/data/typefaces-double-dagger.json";
+import indianTypeFoundry from "@/data/typefaces-indian-type-foundry.json";
 
 import { FOUNDRIES, getFoundryByName, type FoundryInfo } from "./foundry-map";
 
@@ -164,6 +193,7 @@ export function getAllTypefaces(): Typeface[] {
         bigFogFoundry,
         binnenland,
         blazeType,
+        boldMonday,
         britishStandardType,
         bureauBrut,
         camelot,
@@ -171,9 +201,12 @@ export function getAllTypefaces(): Typeface[] {
         catalogue,
         coltType,
         commercialType,
+        connaryFagen,
         coppersAndBrasses,
+        crescenzi,
         daltonMaag,
         dardenStudio,
+        deathOfTypography,
         dharmaType,
         dinamo,
         displaay,
@@ -216,6 +249,31 @@ export function getAllTypefaces(): Typeface[] {
         typotheque,
         vjType,
         xyzType,
+        // Batch 6
+        eastOfRome,
+        hvdFonts,
+        narrowType,
+        typeTogether,
+        suitcaseType,
+        lettermatic,
+        radimPesko,
+        theFoundryTypes,
+        nikolasType,
+        typeType,
+        ecalTypefaces,
+        weltkern,
+        dirtyLineStudio,
+        mojomox,
+        fable,
+        arkitype,
+        liftType,
+        silverstag,
+        // Batch 7
+        hotType,
+        order,
+        luziType,
+        doubleDagger,
+        indianTypeFoundry,
       ] as RawTypeface[][]
     )
       .flat()

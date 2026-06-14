@@ -1,9 +1,10 @@
 // Harvest a specimen image for every typeface in data/typefaces-*.json.
-// Pass 1 takes the page's og:image (discarding site-generic share cards);
-// pass 2 screenshots the page with Playwright for whatever remains.
+// Pass 1 takes the largest landscape <img> on the page (page-image).
+// Pass 2 screenshots the page with Playwright for whatever remains.
+// og:image is never used — foundries share site-wide og images across all fonts.
 // Output: public/specimens/[foundrySlug]/[slug].webp + lib/specimens.json.
 //
-// Run locally: node scripts/fetch-specimens.mjs [--screenshots-only-missing]
+// Run locally: node scripts/fetch-specimens.mjs
 // Never runs on Vercel.
 
 import { readdirSync, readFileSync, mkdirSync, writeFileSync, existsSync, statSync, unlinkSync as _unlinkSync } from "node:fs";
@@ -78,7 +79,7 @@ const FOUNDRY_SLUGS = {
   Almarena: "almarena",
   "A2-Type": "a2-type",
   Binnenland: "binnenland",
-  "Catalogue (Florian Karsten)": "catalogue",
+  "Florian Karsten": "catalogue",
   Frost: "frost",
   "Groteskly Yours": "groteskly-yours",
   "General Type Studio": "general-type-studio",
@@ -133,6 +134,12 @@ const FOUNDRY_SLUGS = {
   "Letterjuice": "letterjuice",
   "SilverStag Type": "silverstag-type",
   "Milieu Grotesque": "milieu-grotesque",
+  // Batch 7
+  "Hot Type": "hot-type",
+  "Order": "order",
+  "Luzi Type": "luzi-type",
+  "Double Dagger": "double-dagger",
+  "Indian Type Foundry": "indian-type-foundry",
 };
 
 const COOKIE_SELECTORS = [
@@ -184,10 +191,10 @@ function outPath(t) {
 // Minimum bytes for a valid specimen — anything below is likely a generic placeholder.
 const MIN_SIZE = 5000;
 
-async function saveWebp(buffer, t) {
+async function saveWebp(buffer, t, position = "centre") {
   mkdirSync(join(OUT_DIR, t.foundrySlug), { recursive: true });
   await sharp(buffer)
-    .resize(WIDTH, HEIGHT, { fit: "cover", position: "centre" })
+    .resize(WIDTH, HEIGHT, { fit: "cover", position })
     .webp({ quality: 75 })
     .toFile(outPath(t));
   return statSync(outPath(t)).size;
@@ -304,7 +311,7 @@ async function main() {
     console.log(`--force: deleted ${deleted} existing screenshots\n`);
   }
 
-  const stats = { pageImg: 0, og: 0, screenshot: 0, cached: 0, miss: [] };
+  const stats = { pageImg: 0, screenshot: 0, cached: 0, miss: [] };
 
   // ---- Browser pass: page-image → og:image → screenshot ----
   const todo = typefaces.filter((t) => {
@@ -366,28 +373,13 @@ async function main() {
             } catch { /* fall through */ }
           }
 
-          // 2. og:image fallback.
-          const html = await page.content();
-          const og = extractOgImage(html, t.url);
-          if (og) {
-            try {
-              const res = await fetchWithRetry(og);
-              const buf = Buffer.from(await res.arrayBuffer());
-              const size = await saveWebp(buf, t);
-              if (size >= MIN_SIZE) {
-                stats.og++;
-                console.log(`og-image ${t.foundrySlug}/${t.slug} saved`);
-                return;
-              }
-              _unlinkSync(outPath(t));
-              console.log(`og-image too small (${size}b), falling back to screenshot`);
-            } catch { /* fall through */ }
-          }
+
         }
 
         // 3. Screenshot (always runs when --screenshots-only; fallback otherwise).
+        // Use position "top" so the hero area fills the frame rather than being cropped from centre.
         const buf = await page.screenshot({ type: "png" });
-        await saveWebp(buf, t);
+        await saveWebp(buf, t, "top");
         stats.screenshot++;
         console.log(`screenshot ${t.foundrySlug}/${t.slug} saved`);
       } catch (err) {
@@ -411,7 +403,7 @@ async function main() {
   writeFileSync(MANIFEST, JSON.stringify(manifest, null, 0) + "\n");
 
   console.log(
-    `\nDone. page-image ${stats.pageImg}, og-fallback ${stats.og}, screenshots ${stats.screenshot}, cached ${stats.cached}, ` +
+    `\nDone. page-image ${stats.pageImg}, screenshots ${stats.screenshot}, cached ${stats.cached}, ` +
       `misses ${stats.miss.length}, manifest entries ${Object.keys(manifest).length}/${typefaces.length}`
   );
   if (stats.miss.length) console.log("Missed:", stats.miss.join(", "));

@@ -1,0 +1,827 @@
+[
+  {
+    "name": "Maskots",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/maskots/",
+    "designer": "Jonathan Bruun",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Maskots draws explicitly on early grotesque models with narrow proportions associated with advertising and signage, placing it squarely in the grotesque sans-serif tradition with a display-oriented character.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Maskots"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "display",
+      "advertising",
+      "narrow",
+      "expressive",
+      "signage",
+      "cheerful"
+    ],
+    "summary": "A narrow grotesque by Jonathan Bruun rooted in early advertising and signage models, ranging from Regular to Black with matching italics.",
+    "description": "Designed by Jonathan Bruun between 2024 and 2026, Maskots emerged from a class on optical sizes at ECAL, originally conceived as a display cut alongside a body text style before the display strand developed into its own full family. Its narrow proportions echo early grotesque letterforms tied to advertising and signage, giving the family an expressive, direct character at large scale. The range from Regular to Black with matching italics keeps it functional at smaller sizes without sacrificing its display origins.",
+    "foundry_blurb": "ECAL Typefaces describe Maskots as expressive and cheerful yet sturdy and direct, a typeface that emerged from a class on optical sizes at ECAL. What began as a single-weight display cut alongside a body text style evolved into a family spanning Regular to Black with matching italics, drawing on the narrow proportions of early grotesque models associated with advertising and signage. Designed by Jonathan Bruun between 2024 and 2026, it excels at large-scale display use while remaining solid at smaller sizes."
+  },
+  {
+    "name": "Faisan Display",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/faisan/",
+    "designer": "Pauline Heppeler",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "calligraphic display",
+    "classification_notes": "Designed explicitly for large sizes with calligraphic roots in French and Spanish italic traditions, featuring swashes and alternates that mark it firmly as a display typeface rather than a text or script face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Faisan Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "calligraphic",
+      "italic",
+      "swash",
+      "expressive",
+      "angular",
+      "editorial"
+    ],
+    "summary": "A calligraphic display typeface by Pauline Heppeler, inspired by Pheasant Island and shaped by the italic traditions of both French and Spanish penmanship.",
+    "description": "Drawing on the shared Franco-Spanish territory of Pheasant Island as its conceptual anchor, the design departs from the strict conventions of either calligraphic tradition to find something more angular and personal. Crisp corners and sharp angles give it a strong rhythm at large sizes, while a range of alternates and swashes add variety and movement. It works best in editorial headlines and expressive display settings where its calligraphic energy has room to breathe.",
+    "foundry_blurb": "Faisan Display was designed by Pauline Heppeler in 2023 as a visual interpretation of Pheasant Island, a small territory shared between France and Spain. By moving beyond the conventional rules of French and Spanish calligraphy, the typeface develops its own shapes while retaining the energy and flow of an italic slant, resulting in crisp angles, sharp corners and a strong expressive character. A wide range of alternates and swashes make it particularly suited to large display sizes."
+  },
+  {
+    "name": "Yanagi",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/yanagi/",
+    "designer": "Jamie Michiki",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "brush display",
+    "classification_notes": "Drawn entirely with poster paper and brushes, Yanagi has a reversed stroke contrast and compact structure rooted in Japanese calligraphic tradition, placing it firmly in the display category with a brush-derived subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Yanagi"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "brush",
+      "display",
+      "japanese-influenced",
+      "reversed-contrast",
+      "compact",
+      "calligraphic",
+      "handmade"
+    ],
+    "summary": "A brush-drawn display typeface inspired by the design practice of Sori Yanagi, with reversed contrast and a compact structure suited to large-scale use.",
+    "description": "Drawn from scratch using only poster paper and brushes, Yanagi emerged from a making process rather than a predetermined plan. The reversed stroke contrast and tight proportions give it a weight and presence at display sizes that feels rooted in physical gesture rather than digital construction. Designer Jamie Michiki worked between 2024 and 2026, channelling the understated simplicity associated with Sori Yanagi's industrial design philosophy.",
+    "foundry_blurb": "ECAL Typefaces describe Yanagi as a typeface inspired by the design practice of Sori Yanagi, with particular attention to process. Sketches were made using only poster paper and brushes from the earliest stages, aiming to capture primitive letterforms. The tools used tell a story of Japanese tradition and understated simplicity, and the resulting typeface features slightly reversed contrast and a compact structure suited to impactful display sizes."
+  },
+  {
+    "name": "Oktika",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/oktika/",
+    "designer": "Niklas Herrmann",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "calligraphic serif",
+    "classification_notes": "Oktika draws explicitly from broad nib calligraphy and stone carving traditions, producing chiselled serifs and sharp counters that place it firmly in the calligraphic serif subcategory rather than a purely historical revival model.",
+    "weights": [
+      "Regular",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Oktika"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "calligraphic",
+      "stone-carving",
+      "chiselled",
+      "text",
+      "contemporary",
+      "serif",
+      "elegant"
+    ],
+    "summary": "A calligraphic serif by Niklas Herrmann that translates broad nib and stone-carving influences into sharp, warm forms suited to extended reading.",
+    "description": "Chiselled serifs, diamond-shaped punctuation and sharply cut counters on the a and n give Oktika a distinctive material quality rooted in broad nib calligraphy and stone carving. The family runs from Regular to Black with matching italics, maintaining legibility across the range and making it reliable for text setting at length. Its warmth sits inside sharp forms, a balance that comes from a process grounded in tool and material exploration.",
+    "foundry_blurb": "ECAL Typefaces describe Oktika as a lively companion with a grounded page presence, shaped by carved clarity. Drawing from classical broad nib calligraphy and stone carving precision, it distils their inherent beauty into a contemporary design carrying warmth within its sharpness, expressed through chiselled serifs, diamond-shaped punctuation and sharply cut counters. Released by Niklas Herrmann in 2025, it spans Regular to Black with matching italics for dependable text setting and extended reading."
+  },
+  {
+    "name": "Parabole",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/parabole/",
+    "designer": "Dávid Molnár, Chandra Sperle",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "The Display cut uses counter-and-stem inversion to produce a continuous-line, inside-out letterform with a pixel-like quality at small sizes; the Text cut is a neo-grotesque companion. The experimental construction of the Display face places the family firmly in the display category.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "Parabole Display",
+      "Parabole Text"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "neo-grotesque",
+      "pixel",
+      "optical-illusion",
+      "two-cut",
+      "intersecting-lines"
+    ],
+    "summary": "A two-cut typeface by Dávid Molnár in which the Display face is an inside-out inversion of its neo-grotesque Text companion, each letter traceable as a single continuous line.",
+    "description": "The Display cut achieves its forms by flipping the counters and stems of the Text face, producing letters that read as a continuous line and take on a pixel-like quality at small sizes while appearing multilayered at larger settings. The Text cut is a straightforward neo-grotesque designed to pair with the Display either in combination or for extended passages. Originally designed in 2019, the family was expanded by Chandra Sperle in 2025.",
+    "foundry_blurb": "Parabole grew from experiments with intersecting lines in letterforms. Its Display cut inverts the counters and stems of the Text face, creating an inside-out effect; each Display letter can be drawn in one continuous stroke, producing a mesmerising pixel-like quality at small sizes and a multilayered appearance at larger ones. The Text cut is a matching neo-grotesque that can be used alongside the Display or independently for longer passages."
+  },
+  {
+    "name": "Parabole Text",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/parabole-text/",
+    "designer": "Dávid Molnár, Chandra Sperle",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "The Text cut is described as a Neo-grotesque companion to the experimental Display face, functioning as a conventional sans-serif for longer text settings.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Parabole Text",
+      "Parabole Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "experimental",
+      "display",
+      "geometric",
+      "modular",
+      "pixel",
+      "optical-illusion"
+    ],
+    "summary": "A Neo-grotesque text companion to an experimental display face whose counters and stems are inverted to create a continuous-line, inside-out letterform.",
+    "description": "Parabole exists in two cuts: a workable Neo-grotesque Text face and a Display variant whose forms are produced by flipping counters and stems, so each letter can be traced with a single unbroken line. At small sizes the Display reads with a pixel-like quality; at large sizes it presents a layered optical effect. The Text cut is designed to run alongside the Display or independently for longer passages.",
+    "foundry_blurb": "Parabole grew from experiments with intersecting lines in letterforms. The Display cut inverts the counters and stems of its Text counterpart, producing an inside-out effect where each letter can be drawn in one continuous line — appearing pixel-like at small sizes and multilayered at large ones. The matching Neo-grotesque Text face can be used in combination with Display or for longer passages. Designed by Dávid Molnár in 2019 and expanded by Chandra Sperle in 2025."
+  },
+  {
+    "name": "Magnette",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/magnette/",
+    "designer": "Edouard Berard",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "Magnette is a display typeface built around distorted, unconventional letterforms derived from a distinctive 'n' shape, with stylistic alternates shifting between rounded and angular forms. Its primary purpose is expressive rather than functional, placing it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Magnette"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "distorted",
+      "playful",
+      "expressive",
+      "alternates",
+      "unconventional"
+    ],
+    "summary": "A display typeface by Edouard Berard built from distorted letterforms inspired by shapes found on an unidentified cassette tape, offering rounded and angular stylistic variants.",
+    "description": "The initial structure derives from a single 'n' shape discovered on a mystery cassette tape, which Berard then stretched and warped into a full alphabet that sits between legibility and abstraction. Two stylistic sets are included: one with rounded forms, one with angular and dynamic shapes, each pulling the letterforms in a different direction. The result reads as both typographically grounded and genuinely strange, suited to editorial and cultural contexts where visual discomfort is the point.",
+    "foundry_blurb": "ECAL Typefaces describe Magnette as inspired by mysterious shapes found on an unidentifiable cassette tape bought from a thrift store. The typeface began with a distinctive 'n' shape that evolved through playful distortions into an alphabet that plays with legibility, balancing traditional structure against spontaneous form variations. The complete character set offers two stylistic variations: rounded forms and angular, dynamic shapes."
+  },
+  {
+    "name": "Arkbro",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/arkbro/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Arkbro is built on strict geometric construction and functions as a display typeface; its variable axis blends extreme weights within a single line, making it unsuitable for body text and firmly in the display category.",
+    "weights": [
+      "Thin",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Arkbro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "geometric",
+      "display",
+      "high-contrast",
+      "experimental",
+      "animated",
+      "weight-blend"
+    ],
+    "summary": "A variable display typeface built on geometric proportions, inspired by Ellen Arkbro's drone music, with a weight axis that mixes ultra-heavy and ultra-thin characters within a single setting.",
+    "description": "The variable axis blends characters at opposite weight extremes within a single line of text, producing a stark visual contrast that suits animated and kinetic typesetting. Its geometric construction draws on the spatial quality of Ellen Arkbro's track 'Mountain of Air', treating letterforms as shapes that fill a given space. Case-sensitive numerals, punctuation and symbols address the height disparity between upper- and lowercase, making the family more practically usable despite its experimental premise.",
+    "foundry_blurb": "ECAL Typefaces describe Arkbro as a variable typeface based on strict geometric principles and proportions, inspired by Ellen Arkbro's track 'Mountain of Air' and the concept of shapes filling space much like the sound and feeling of that track. The variable axis blends characters of different weights at the extremes, creating heavy characters alongside ultra-thin ones in a single setting. They position it for playful, animated typesetting and display applications, and note that case-sensitive numerals, punctuation and symbols are included to address the height differences between upper- and lowercase letters."
+  },
+  {
+    "name": "Sticky",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/sticky/",
+    "designer": "Simon Memel, Lucrezia Noro, Eran Ben Barak",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "display script",
+    "classification_notes": "Sticky mimics the gestural marks of masking tape applied in strips, referencing sign painting and pichação graffiti; it functions as a display script with constructed, tape-width strokes rather than a conventional calligraphic hand.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sticky"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "graffiti",
+      "sign-painting",
+      "tape",
+      "pichação",
+      "ligatures",
+      "headline",
+      "expressive"
+    ],
+    "summary": "A display typeface built around the physical constraints of writing with masking tape, drawing on sign painting and pichação graffiti traditions.",
+    "description": "Constructed from the simple, economic strokes that masking tape allows, Sticky carries the energy of sign painting and Brazilian pichação lettering into a digital typeface. Multiple ligatures and automatic letter alternates help create the tight spacing and rhythmic flow typical of hand-applied tape lettering. Suited to headlines and short-form copy where a raw, gestural quality is wanted without sacrificing legibility.",
+    "foundry_blurb": "Sticky is described by ECAL Typefaces as a typeface exploiting the limitations of writing with masking tape, inspired by sign painting, classical italics and pichação graffiti. It includes multiple ligatures and automatic alternates to achieve tight spacing and a convincing sign-painting character, and was initiated by Simon Memel, Lucrezia Noro and Eran Ben Barak in the class of Kai Bernau, then finalised by Eran Ben Barak in 2023."
+  },
+  {
+    "name": "Krimi",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/krimi/",
+    "designer": "János Hunor Vári",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "brush display",
+    "classification_notes": "A condensed display face with out-strokes that evoke brush-painted lettering, derived from 1935 Swiss movie poster lettering; best classified as a display type with strong brush script influence.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Krimi"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "brush",
+      "condensed",
+      "poster",
+      "lettering",
+      "playful",
+      "retro",
+      "swiss"
+    ],
+    "summary": "A condensed display face revived from 1935 Swiss cinema poster lettering, with brush-painted out-strokes and a tall x-height suited to dense poster work.",
+    "description": "Designed by János Hunor Vári and released in 2022, Krimi draws on lettering from a Cinémathèque Suisse archive poster made by Affiches Atar Genève for the 1935 film 'Le Criminel Inconnu'. Its condensed proportions and tall x-height allow for tight, characterful typesetting at display sizes, while distinctive out-strokes give the impression of a brush-painted hand. An extended range of diacritical marks broadens its usability across European languages.",
+    "foundry_blurb": "ECAL Typefaces describe Krimi as a revised and contemporary typeface inspired by lettering found on a movie poster in the Cinémathèque Suisse archive. They highlight its condensed proportions, tall x-height, and brush-evocative out-strokes as key features that make it suited to dense, playful poster and display typesetting. The original source poster was created by Affiches Atar Genève in 1935 for 'Le Criminel Inconnu' by Jean Brocher."
+  },
+  {
+    "name": "Kolonia",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/kolonia/",
+    "designer": "Dominik Bissem",
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "revival serif",
+    "classification_notes": "A revival of Schneidler's 1923 Deutsch-Römisch, Kolonia retains the calligraphic eccentricities and low contrast of the original text face, placing it within the humanist or calligraphic serif tradition.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kolonia"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "revival",
+      "calligraphic",
+      "text",
+      "quirky",
+      "humanist",
+      "historical",
+      "low-contrast"
+    ],
+    "summary": "A revival of Ernst Schneidler's 1923 Deutsch-Römisch, retaining its calligraphic oddities and low contrast for contemporary text use.",
+    "description": "Dominik Bissem's Kolonia updates Schneidler's eccentric Deutsch-Römisch for modern text applications, preserving its peculiar letterforms while moderating contrast for improved readability. Details like the dancing g, the dagger-shaped seven and an idiosyncratic question mark carry through the calligraphic personality of the 1923 original. The result sits in the territory between historical revival and contemporary text face, with enough character to avoid anonymity.",
+    "foundry_blurb": "Kolonia is described as a revival and contemporary interpretation of Deutsch-Römisch, originally designed by F. H. Ernst Schneidler in 1923. The foundry notes that Bissem maintained the crucial characteristics and humour of the original while adapting its proportions and lowering contrast to suit today's text applications, with playful details referencing the typeface's calligraphic roots."
+  },
+  {
+    "name": "Mobil",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/mobil/",
+    "designer": "Anne Seseke",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "Puffy, round letterforms with deliberately exaggerated ink-trap cuts derived from mechanically engraved railway signage place this firmly in experimental display territory rather than any conventional text category.",
+    "weights": [
+      "Dark"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mobil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "ink-trap",
+      "rounded",
+      "signage",
+      "experimental",
+      "geometric",
+      "bold"
+    ],
+    "summary": "A display typeface by Anne Seseke built around exaggerated ink-trap cuts lifted from an engraved railway station sign, rendered in round, puffy letterforms pushed to their structural limits at heavy weight.",
+    "description": "Originating from a study of an old rack railway metal plate, the design translates mechanical engraving marks into a systematic vocabulary of horizontal and vertical cuts across swollen, rounded letters. The dark weight presses the ink-trap principle to breaking point, creating a tense interplay between open counters and tight incisions. Letters stack closely for a dense, compact presence suited to short-run headline and screen display work.",
+    "foundry_blurb": "Mobil began with a carved metal sign from an old rack railway, using its mechanically engraved letterforms as the basis for a drawing exercise in ink-trap interpretation. Horizontal and vertical cuts define the round, puffy character of the face, and the dark weight takes the principle to its limit in a balancing act between tension and legibility. The typeface is designed to stack tightly for a striking, rounded presence on page or screen, and was designed by Anne Seseke in 2021."
+  },
+  {
+    "name": "Bulk",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/bulk/",
+    "designer": "Charly Derouault",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "titling display",
+    "classification_notes": "Bulk is a titling typeface with two stylistically opposed cuts — one classical and static, one angular and aggressive — placing it firmly in the display category with no conventional text application intended.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bulk Down",
+      "Bulk Up"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "titling",
+      "sculptural",
+      "angular",
+      "logotype",
+      "expressive",
+      "contrasting-cuts"
+    ],
+    "summary": "A two-cut titling typeface by Charly Derouault that pits a calm classical ductus against sharply angular, hollowed-out letterforms.",
+    "description": "Designed at ECAL and released in 2022, Bulk takes its conceptual cue from stone and body sculpting, producing two cuts at opposite ends of a spectrum. Bulk Down is static and classically proportioned; Bulk Up is aggressive, with sharp protrusions and carved-out counters. Thin alternates complement the strong primary forms, making both cuts well suited to daring headline work and logotypes.",
+    "foundry_blurb": "ECAL Typefaces describe Bulk as a titling typeface in two cuts of the same weight with radically opposite dynamics. Bulk Down is static and calm with a classical ductus; Bulk Up reinvents sharp, angular and protruding shapes with letters that appear carved and hollowed. Sculpted by Charly Derouault in 2022, the family includes thin alternates and is positioned for daring titling and logotype use."
+  },
+  {
+    "name": "Mule",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/mule/",
+    "designer": "Samira Schneuwly",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Mule draws from an early 20th century Inland Type specimen, exhibiting concise serifs, optimised contrast and warmth consistent with transitional serif conventions adapted for text use.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mule"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "book",
+      "newspaper",
+      "historical-revival",
+      "warm",
+      "legibility",
+      "editorial"
+    ],
+    "summary": "A warm text serif by Samira Schneuwly drawn from an early 20th century Inland Type specimen, reinterpreted for contemporary small-size use.",
+    "description": "Rooted in the 'Specimen Book and Catalog' of the American foundry Inland Type, Mule preserves the spirit of its source while correcting its period flaws. Concise serifs, rounded forms and controlled contrast make it well-suited to newspaper and book settings at smaller sizes, though the details hold up in display use too. Released in 2022, it sits comfortably in editorial contexts where warmth and legibility are equally important.",
+    "foundry_blurb": "Mule is characterised by concise serifs, roundness, optimised contrasts and a warm appearance. Its starting point is an early 20th century source, the 'Specimen Book and Catalog' by American foundry Inland Type. While certain flaws have been set aside, the newspaper and book typeface retains the spirit and charm of the original and has been reinterpreted for contemporary use, with design decisions favouring smaller type sizes without sacrificing detail at larger scales. Designed by Samira Schneuwly and released in 2022."
+  },
+  {
+    "name": "Bezier",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/bezier/",
+    "designer": "Chiachi Chao",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "organic display",
+    "classification_notes": "Constructed entirely from curves with no straight lines, the letterforms are sculptural and three-dimensional in character, placing it firmly in the display category with an organic, abstract subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bezier"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "organic",
+      "curvilinear",
+      "sculptural",
+      "tight-spacing",
+      "abstract",
+      "art-inspired"
+    ],
+    "summary": "A display typeface by Chiachi Chao built entirely from curves, drawing its letterforms from the organic sculptures of Jean Arp, Henry Moore and Isamu Noguchi.",
+    "description": "Conceived without a single straight line, each character in Bezier reads as the silhouette of a three-dimensional sculptural form. The interplay of positive and negative space, likened by the designer to the Yin-Yang symbol, gives the typeface a dynamic rhythm and allows it to be set at tight spacing for display use. The result is a typeface that sidesteps nib-drawn letterform convention entirely in favour of a purely plastic, sculptural logic.",
+    "foundry_blurb": "Bezier is described by ECAL Typefaces as a friendly display typeface constructed without any straight lines, with letterforms conceived as silhouettes of three-dimensional forms inspired by the organic sculptures of Jean Arp, Henry Moore and Isamu Noguchi. Like the Yin-Yang symbol, its characters are defined by the dynamic interplay between negative and positive space, enabling tight spacing at display sizes. Designed by Chiachi Chao in 2021."
+  },
+  {
+    "name": "Teta",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/teta/",
+    "designer": "Romain Tronchin",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "A uni-case display typeface with irregular contrast and rigid geometric construction, placing it firmly in the experimental display category rather than any conventional serif or sans-serif tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Teta"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "uni-case",
+      "experimental",
+      "geometric",
+      "high-contrast",
+      "art-inspired",
+      "editorial"
+    ],
+    "summary": "A uni-case display typeface by Romain Tronchin, built on rigid letterform construction and irregular contrast drawn from the abstract work of artist Bettina Pousttchi.",
+    "description": "Designed in 2021 at ECAL, Teta takes its formal cues from Bettina Pousttchi's abstract sculptures and installations, translating their dynamic tension into letterforms through strict construction and uneven stroke contrast. The uni-case approach collapses the distinction between upper and lower case, opening up unconventional typesetting arrangements. Best suited to short-form display work where its structural rigidity and visual tension can be read at larger sizes.",
+    "foundry_blurb": "Teta is a display typeface inspired by the abstract structures and dynamic forms found in the work of German artist Bettina Pousttchi. The typeface recreates a similar world through rigid letter construction, irregular contrast and line tension. As a uni-case design, it opens up new and surprising possibilities for typesetting. Designed by Romain Tronchin in 2021."
+  },
+  {
+    "name": "Hémon",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/hemon/",
+    "designer": "Chiachi Chao",
+    "year": 2020,
+    "category": "script",
+    "subcategory": "display script",
+    "classification_notes": "Classified as a display script due to its connecting letterforms and expressive, irregular character construction designed for large-scale setting. Its fragmented, noisy aesthetic draws more from abstract graphic experimentation than calligraphic tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hémon"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "script",
+      "expressive",
+      "irregular",
+      "experimental",
+      "music-inspired",
+      "indie"
+    ],
+    "summary": "A connecting display script by Chiachi Chao that translates the fragmented, noisy energy of indie rock into irregular letterforms.",
+    "description": "Designed at ECAL as part of a music-to-typography translation exercise, the typeface embodies the sonic qualities of indie rock through fragmental forms, inconsistent character sizing and connective joints. Vowel alternates prevent any two identical vowels appearing consecutively in the same word, introducing genuine typographic irregularity rather than a simulated one. Suited to large-scale display use where visual rhythm and unpredictability are the point.",
+    "foundry_blurb": "Hémon is described by ECAL Typefaces as a display script typeface intended for large sizes, born from an exercise translating music genres into abstract letterforms. It represents indie rock, with fragmented characters, irregular sizing and connecting joints evoking the crispy, noisy and consecutive qualities of the genre. Vowel alternates ensure no two identical vowels repeat within the same word."
+  },
+  {
+    "name": "Augustyn Display",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/augustyn/",
+    "designer": "Sascha Bente",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Derived from an 18th-century Antiqua specimen, Augustyn Display is a high-contrast serif designed specifically for large and medium sizes, placing it firmly in the display serif subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Augustyn Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "historical",
+      "antiqua",
+      "high-contrast",
+      "elegant",
+      "18th-century"
+    ],
+    "summary": "A high-contrast display serif drawn from an 18th-century Antiqua specimen found in the Plantin Moretus Museum in Antwerp.",
+    "description": "Designed by Sascha Bente in 2020, Augustyn Display traces its origins to a letter-proof of an obscure 18th-century Antiqua, revived with careful attention to its historical character. The generous proportions and strong stroke contrast make it suited to large-scale headings and editorial display work. Its source material gives it a period warmth that distinguishes it from more generic revival serifs.",
+    "foundry_blurb": "Augustyn Display is described by ECAL Typefaces as an elegant and carefully drawn serif, with initial sketches derived from a letter-proof of an obscure 18th-century Antiqua discovered in the Plantin Moretus Museum in Antwerp. Designed to work at large and medium sizes, it was drawn by Sascha Bente and released in 2020."
+  },
+  {
+    "name": "Max Fett",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/maxfett/",
+    "designer": "Weichi He",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "grotesque",
+    "classification_notes": "A heavy, squarish grotesque in the Fette Grotesk tradition, designed for display use at large sizes where its bold weight and geometric rigidity are most effective.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Max Fett"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "fette-grotesk",
+      "display",
+      "heavy",
+      "swiss",
+      "historical-revival",
+      "squarish"
+    ],
+    "summary": "A contemporary interpretation of Fette Grotesk, tracing a lineage through Max Bill's 1930s work back to a Herrlinger & Schmidt source from 1881.",
+    "description": "Weichi He's single-cut display grotesque draws on the heavy, squarish Fette Grotesk tradition that circulated across German type foundries under several names in the nineteenth and early twentieth centuries. The design acknowledges Max Bill's use of the style during the 1930s for Zett-Haus, and takes the Herrlinger & Schmidt source of 1881 as its primary reference. The result is a bold, compact grotesque suited to headline and poster work where weight and historical resonance are required.",
+    "foundry_blurb": "ECAL Typefaces describe Max Fett as a free interpretation of a Fette Grotesk, tracing connections to Max Bill's 1930s Zett-Haus work and a historical source by Herrlinger & Schmidt from 1881. The typeface existed across German foundries under multiple names and this contemporary reworking by Weichi He takes a fresh approach to the heavy, squarish grotesque tradition."
+  },
+  {
+    "name": "Miniature",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/miniature/",
+    "designer": "Benedek Takács",
+    "year": 2019,
+    "category": "serif",
+    "subcategory": "reversed-contrast serif",
+    "classification_notes": "Described explicitly as a reversed-contrast typeface with expressive inktraps, placing it in a niche serif subcategory where horizontal strokes are heavier than verticals, historically associated with Italian or Dutch-influenced display type.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Miniature"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "reversed-contrast",
+      "inktraps",
+      "display",
+      "small-sizes",
+      "historical-research",
+      "hungarian",
+      "soviet-era",
+      "serif"
+    ],
+    "summary": "A reversed-contrast serif with expressive inktraps, designed for extremely small print but equally distinctive at display scale.",
+    "description": "Designed by Benedek Takács as part of his master diploma project 'Miniatűr Utópia', a research and exhibition on miniature books from the Soviet era in Hungary. The reversed contrast, where horizontal strokes carry more weight than verticals, paired with prominent inktraps, gives it a character suited to both fine-print legibility and bold display use. The historical research context behind the design adds depth beyond its formal qualities.",
+    "foundry_blurb": "Miniature is a reversed-contrast typeface designed by Benedek Takács in 2019, originally developed as part of his master diploma project 'Miniatűr Utópia', a research and exhibition on Soviet-era miniature books from Hungary. Built for extremely small sizes, its expressive inktraps and reversed contrast reveal a distinctive character when set large."
+  },
+  {
+    "name": "Mediaan",
+    "foundry": "ECAL Typefaces",
+    "url": "https://ecal-typefaces.ch/typeface/mediaan/",
+    "designer": "Dávid Molnár",
+    "year": 2019,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Directly inspired by Nicholas Kis's Dutch specimen cuts, Mediaan sits firmly in the transitional serif tradition, blending Dutch Baroque origins with a deliberate digital sharpness.",
+    "weights": [
+      "Roman"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mediaan"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "dutch",
+      "historical-revival",
+      "calligraphic",
+      "text",
+      "serif",
+      "kis"
+    ],
+    "summary": "A digitally inflected transitional serif by Dávid Molnár, drawn from Nicholas Kis's Dutch specimen cuts with a calligraphic italic and semi-historical alternates.",
+    "description": "Based on the 'Mediaen Romein' and 'Mediaen Cursiv' cuts from Nicholas Kis's Amsterdam specimen, the design brings Dutch transitional flavour into a contemporary digital register. The roman keeps a workmanlike composure while the italic introduces a more expressive, calligraphic character. A stylistic set provides semi-historical alternates for letters such as 'a', 'G' and the ampersand.",
+    "foundry_blurb": "Mediaan Roman and Italic were inspired by cuts found in Nicholas Kis's Amsterdam specimen, conveying a Dutch transitional taste in the manner of Kis with a strong digital flavour. The roman is described as subtle and workhorse-like, while the italic has a calligraphic and expressive quality. The fonts include a stylistic set with semi-historical alternates for select letters."
+  }
+]

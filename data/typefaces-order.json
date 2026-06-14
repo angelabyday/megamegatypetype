@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Sita",
+    "foundry": "Order",
+    "url": "https://order.design/otf/sita",
+    "designer": "Edouard Berard",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The collection pairs a transitional serif with a grotesque sans on a shared skeleton, both rooted in 19th-century Scottish typographic tradition. The serif family is the primary classification anchor, though the superfamily equally encompasses a grotesque sans counterpart.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sita Serif",
+      "Sita Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "superfamily",
+      "transitional",
+      "grotesque",
+      "scottish-heritage",
+      "paired-families",
+      "print",
+      "editorial",
+      "historical-revival"
+    ],
+    "summary": "A superfamily of two styles sharing a common skeleton, drawing on 19th-century Scottish typographic traditions across transitional serif and grotesque sans genres.",
+    "description": "Designed by Edouard Berard and mastered by Tiny Type Co., Sita pairs a transitional serif with a grotesque sans built on identical underlying structures, allowing the two families to sit together in harmony without sacrificing the genre-specific character of either. Each style runs through four weights from Regular to Black with corresponding italics, giving sixteen fonts in total. The historical grounding in Scottish 19th-century typography gives both families a considered specificity that lifts them beyond generic revival territory.",
+    "foundry_blurb": "Order describe the Sita Collection as a superfamily rooted in 19th-century Scottish typographic history, offering a contemporary interpretation suited to modern digital and print typesetting. Sita Sans and Sita Serif share the same skeleton and are designed for optimal form and weight harmony when set side by side, while each retains the distinctive characteristics of the transitional and grotesque genres of their era."
+  },
+  {
+    "name": "Etude",
+    "foundry": "Order",
+    "url": "https://order.design/otf/etude",
+    "designer": "Emily Atwood",
+    "year": null,
+    "category": "display",
+    "subcategory": "stencil",
+    "classification_notes": "Etude is a stencil typeface with translation contrast derived from broad nib calligraphy and historical handwritten music notation; its exposed entry and exit points and calligraphic construction distinguish it clearly from broken-roman stencils, placing it firmly in the display category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Etude"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "calligraphic",
+      "music-notation",
+      "broad-nib",
+      "editorial",
+      "historical-reference",
+      "display",
+      "expressive"
+    ],
+    "summary": "A calligraphic stencil typeface by Emily Atwood, drawing on broad nib music notation history and the 18th-century stencil manuscripts of Jean-Pierre Rousselet.",
+    "description": "Designed by Emily Atwood and mastered by Alphabet Type, Etude takes its construction logic from the exposed entry and exit points of a broad nib pen rather than from the more common broken-roman stencil tradition. Its three weights, Light, Regular and Bold, are framed as a crescendo: delicate and soft in Light, increasingly prominent in Bold. Historical reference points include Hermann Zapf's Alkor Notenschrift, Louis Simmoneau's 1701 engravings and Rousselet's 1719 liturgical manuscript for Louis XV.",
+    "foundry_blurb": "Order describe Etude as a study of the broad nib pen, the history of handwritten music notation and the constructed stencil forms of Jean-Pierre Rousselet. The name echoes the French verb étudier and the musical étude, a composition used to explore technique. As the family moves from Light to Bold, the weights are conceived as a crescendo from soft and delicate to loud and prominent on the page."
+  },
+  {
+    "name": "Haltung",
+    "foundry": "Order",
+    "url": "https://order.design/otf/haltung",
+    "designer": "Joe Moore",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Haltung is explicitly described as a neo-grotesk typeface, drawing directly from the Basel school tradition, Walter Käch's lettering and Univers, placing it squarely in the neo-grotesque sans-serif lineage.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Haltung"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "basel-school",
+      "swiss",
+      "editorial",
+      "contemporary",
+      "refined"
+    ],
+    "summary": "A neo-grotesque rooted in the Basel school tradition, tracing a lineage from Walter Käch through Univers and Emil Ruder's students.",
+    "description": "Designed by Joe Moore and mastered by Tiny Type Co., Haltung takes its name from Ernst Schmid's monograph 'Gestaltung ist Haltung' (Design is Attitude), framing the typeface as a conceptual bridge between three generations of Swiss typographic thinking. Seven weights from Light to Extrabold, each with a matching italic, produce 14 styles with the open, airy quality the foundry associates with its source material. The result sits between the warmth of mid-century Swiss grotesques and the demands of contemporary typographic practice.",
+    "foundry_blurb": "Order describe Haltung as a neo-grotesk inspired by a shared attitude spanning Walter Käch's sans-serif lettering, Frutiger's Univers and the Basel school students under Emil Ruder. The aim was to bridge teacher and student by reimagining their common approach to the sans-serif as a refined contemporary typeface that retains the airy quality of its sources. The name derives from the title of a monograph on Schmid's work, 'Gestaltung ist Haltung', meaning Design is Attitude."
+  },
+  {
+    "name": "Pastiche Grotesque",
+    "foundry": "Order",
+    "url": "https://order.design/otf/pastiche-grotesque",
+    "designer": "Benjamin Tuttle",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A neo-grotesque in structure but with deliberately higher stroke contrast derived from late 19th-century slab-derived gothics, placing it between the historical American gothic tradition and mid-20th century European neo-grotesques like Helvetica and AG Book.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pastiche Grotesque"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "historical",
+      "neo-grotesque",
+      "high-contrast",
+      "19th-century",
+      "experimental",
+      "concept-driven",
+      "editorial"
+    ],
+    "summary": "A conceptual sans that asks what neo-grotesque type might look like if it had descended from higher-contrast 19th-century slab-derived gothics rather than from low-contrast forebears like Akzidenz-Grotesk.",
+    "description": "Designed by Benjamin Tuttle and rooted in research into Gothic No. 578, a peculiar 1898 American gothic that sits between Franklin Gothic and Akzidenz, Pastiche Grotesque takes the clean construction of mid-20th century neo-grotesques and reintroduces the higher stroke contrast characteristic of early gothics lopped from Clarendons and Egyptiennes. The result is a five-weight family with branching structure and weight distribution that read as neo-grotesque at a glance but carry a distinctly older tension in details like the top of the 't' and the weight axis through the 'n'. It is a typeface built from a specific historical hypothesis rather than a straightforward revival.",
+    "foundry_blurb": "Order describe Pastiche Grotesque as type design fanfiction, framing it as a lens through which late 19th-century gothics are reread via mid-20th century neo-grotesque conventions. Designed by Benjamin Tuttle and mastered by Alphabet Type, the project originated in a 2019 digitisation of Gothic No. 578 and expanded into a broader investigation of slab-derived sans serifs, asking what the neo-grotesque genre might look like had its lower-contrast forebears like Akzidenz or Venus never existed."
+  },
+  {
+    "name": "Plebeian",
+    "foundry": "Order",
+    "url": "https://order.design/otf/plebeian",
+    "designer": "Benjamin Tuttle",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "experimental sans",
+    "classification_notes": "Described as an experimental sans serif, Plebeian applies Frank E Blokland's lettermodel concept to break curves into discrete strokes drawn with a fat-nibbed marker, producing visible thick/thin contrast and squared bowls rather than smooth geometric or humanist curves.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plebeian"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "brutalist",
+      "text",
+      "thick-thin",
+      "modular",
+      "sans-serif",
+      "editorial"
+    ],
+    "summary": "An experimental text sans by Benjamin Tuttle that reconstructs Latin letterforms as discrete marker strokes, producing squared bowls and visible thick/thin contrast.",
+    "description": "Drawing on Frank E Blokland's lettermodel theory, Tuttle breaks curves into individual strokes as if drawn with a fat-nibbed marker. The squared bowls read chunky at display sizes but settle into a legible rhythm at small text sizes where the thick/thin contrast aids differentiation. Ten styles cover five weights from Regular to Black, each with a matching italic.",
+    "foundry_blurb": "Order describe Plebeian as an experimental sans serif text typeface exploring the modularity of Latin letterforms. Based on the concept of the lettermodel as defined by Frank E Blokland, it deconstructs curves into individual strokes treated as if drawn with a fat-nibbed marker, resulting in a chunky, brutish appearance at large sizes that transitions into an enjoyable reading experience at small sizes, owing to its squared bowls and thick/thin contrast."
+  },
+  {
+    "name": "Spades",
+    "foundry": "Order",
+    "url": "https://order.design/otf/spades",
+    "designer": "Sascha Hopson",
+    "year": null,
+    "category": "serif",
+    "subcategory": "baroque oldstyle",
+    "classification_notes": "Spades is grounded in 18th-century oldstyle construction, drawing specifically on Fleischmann's scalloped-serif letterforms, with inktraps introduced as a modern structural device. The foundry describes it as a contemporary Baroque typeface, placing it squarely in the historical serif tradition with a distinctly expressive character.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Spades"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "baroque",
+      "oldstyle",
+      "inktrap",
+      "expressive",
+      "display",
+      "cultural",
+      "editorial",
+      "serif"
+    ],
+    "summary": "A Baroque oldstyle typeface by Sascha Hopson that draws on Fleischmann's scalloped serifs and the visual tensions of the Black Arts Movement to forge something ornate and subversive.",
+    "description": "Designed by Sascha Hopson and mastered by Tiny Type Co., Spades combines 18th-century Baroque construction with the deliberate friction of inktraps, producing a serif that is simultaneously archival and charged with contemporary attitude. The conceptual frame pulls from David Hammons and the Black Arts Movement, treating expressive freedom and formal exuberance as shared ground with the Rococo era rather than opposing forces. Five weights from Thin to Black offer a broad range for display and editorial use, each carrying the distinctive scalloped-serif construction and inktrap interruptions that define the family.",
+    "foundry_blurb": "Order describes Spades as a contemporary Baroque typeface blending ornate 18th-century typographic influences with the modern device of an inktrap. The family explores the juxtaposition of the Black Arts Movement and the Baroque Era, finding shared ground in extravagance, expression and attitude across two seemingly contradictory historical periods. The design pays homage to artist David Hammons and draws on the BAM's refusal to set limits on what Black art can be."
+  },
+  {
+    "name": "Stringer",
+    "foundry": "Order",
+    "url": "https://order.design/otf/stringer",
+    "designer": "Emily Klaebe",
+    "year": null,
+    "category": "slab",
+    "subcategory": "ionic slab",
+    "classification_notes": "A bracketed slab-serif explicitly revived from Ionic No. 3 by Miller & Richard, a style developed for newspaper legibility. The Ionic subtype is characterised by its large x-height, wide proportions, and sturdy bracketed serifs.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Stringer"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "ionic",
+      "newspaper",
+      "revival",
+      "editorial",
+      "legible",
+      "bracketed-serifs"
+    ],
+    "summary": "A bracketed slab-serif revived from Miller & Richard's Ionic No. 3 by Emily Klaebe, adapted from 1926 printed specimens for contemporary typesetting.",
+    "description": "Drawing on 12-point printed specimens from Miller & Richard's 1926 type catalogue as the primary source, the design preserves the wide proportions, large x-height, and gently curved bracketed serifs that made the Ionic style a newspaper standard. Subtle details from the printing process, including slightly sloped serif endings and inktraps in the joins, were treated as intentional and carried through the revival. Five weights from Thin to Bold are available individually or as a family package.",
+    "foundry_blurb": "Order describe Stringer as a bracketed slab-serif revived from Ionics of the early 20th century and adapted for modern typesetting. The name references the journalistic slang term for a freelance reporter, nodding to the Ionic style's long association with newspaper printing. The design was drawn by Emily Klaebe and mastered by Tiny Type Co."
+  },
+  {
+    "name": "Vanity",
+    "foundry": "Order",
+    "url": "https://order.design/otf/vanity",
+    "designer": "Emily Klaebe",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "unicase display",
+    "classification_notes": "An octic unicase display typeface derived from the engineer-constructed letterforms of New Jersey licence plates; its geometric rigidity, rounded corners and deliberate material imperfections place it firmly in the display category rather than any conventional sans-serif lineage.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Vanity Condensed",
+      "Vanity Expanded"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "unicase",
+      "display",
+      "geometric",
+      "licence-plate",
+      "engineer-constructed",
+      "revival",
+      "motorsport",
+      "americana"
+    ],
+    "summary": "A two-width unicase typeface drawn from the embossed and painted letterforms of New Jersey licence plates spanning the 1930s to the 1990s.",
+    "description": "Concept by Jesse Reed and designed by Emily Klaebe at Order, the family treats licence plate typography as source material rather than mere reference, preserving the octic geometry, rounded corners and paint-bleed idiosyncrasies that make those letterforms recognisable. The two widths — Condensed and Expanded — mirror the typographic hierarchy found on the plates themselves, where a tighter style carried the registration number and a wider style supported secondary information. Diagonal letters such as M and W retain the deliberate weight variation seen on 1920s and 1930s New Jersey plates, keeping the rhythm of the original material intact.",
+    "foundry_blurb": "Order describe Vanity as an octic unicase typeface that captures the printed effect of letterforms found on New Jersey licence plates from the 1930s to the 1990s. The family originated as a typographic revival for a client branding project in 2024, extracting two widths from a source plate to establish visual hierarchy. Rather than harmonising the mechanical inconsistencies typical of engineer-drawn plate typography, Order chose to preserve them — including paint bleed at rounded joins and selective weight variation in diagonal strokes — treating these as defining characteristics of the form."
+  },
+  {
+    "name": "OTF EULA",
+    "foundry": "Order",
+    "url": "https://order.design/otf/eula",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The page is a legal EULA document for Order Type Foundry's font licensing terms, not a typeface specimen page. No typeface design details, category, or stylistic information are present.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "OTF EULA"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "licensing",
+      "legal",
+      "eula",
+      "foundry"
+    ],
+    "summary": "This page contains the end user licence agreement for Order Type Foundry, covering desktop, app and web font usage terms rather than any specific typeface.",
+    "description": "The page is a legal document governing the purchase and use of font software from Order Design, LLC, trading as Order Type Foundry. It covers permitted uses across desktop, app and web contexts, including restrictions on redistribution, modification and embedding. No typeface specimen, design details or stylistic information are present on this page.",
+    "foundry_blurb": "Order Type Foundry's EULA, updated November 2024, sets out licensing terms for their font software across desktop, app and web use cases, with provisions covering unique users, service bureau use, embedding restrictions and geographic limitations."
+  }
+]

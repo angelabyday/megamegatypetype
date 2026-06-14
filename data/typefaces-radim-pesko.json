@@ -1,0 +1,879 @@
+[
+  {
+    "name": "A Gothic",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/a-gothic",
+    "designer": "Radim Peško",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A Gothic is a grotesque sans-serif drawn in two weights with italics; the companion AA Gothic introduces reversed ink traps as a display feature, placing the family firmly in the grotesque tradition with a distinctive structural twist.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "A Gothic",
+      "AA Gothic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "ink-traps",
+      "display",
+      "multilingual",
+      "editorial",
+      "distinctive"
+    ],
+    "summary": "A two-weight grotesque with italics, distinguished by a companion display set that reverses the ink-trap principle to add decorative dents at large sizes.",
+    "description": "Drawn between 2014 and 2019, A Gothic covers Latin, Cyrillic and Greek in two weights with matching italics. The companion AA Gothic inverts the ink-trap concept, removing material at junctions to create visible notches intended for titles, headings and inscriptions rather than small text. The result is a family with a disciplined text face and a display variant with an immediately recognisable quirk, used on headlines for Best of The Atlantic.",
+    "foundry_blurb": "Radim Peško describes A Gothic as drawn in two weights with italics and a complementary AA Gothic set. The AA styles reverse the ink-trap idea, originally used to let ink spread at small sizes, turning removed areas into a decorative feature for titles and headings. Designed between 2014 and 2019, the family supports Latin, Cyrillic and Greek."
+  },
+  {
+    "name": "AA Gothic",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/aa-gothic",
+    "designer": "Radim Peško",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A Gothic-derived grotesque sans designed explicitly for display use, with reversed ink traps that add decorative notching to letterforms at large sizes rather than serving a functional printing purpose.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "AA Gothic"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "display",
+      "ink-traps",
+      "decorative",
+      "titling",
+      "editorial",
+      "distinctive"
+    ],
+    "summary": "A display companion to A Gothic that inverts the logic of ink traps, turning functional notches into a decorative feature for headlines and inscriptions.",
+    "description": "Where ink traps were originally cut to compensate for ink spread at small sizes, AA Gothic reverses the conceit entirely: the notched forms are purely ornamental, adding a distinctive personality at large scale. Designed by Radim Peško over five years between 2014 and 2019, the family covers Latin, Cyrillic and Greek. It has appeared in headline use for Best of The Atlantic, and pairs directly with the text-intended A Gothic.",
+    "foundry_blurb": "AA Gothic is described by RP Digital Type Foundry as a complementary set to A Gothic, reversing the idea of ink traps — originally a device for small type — so that the removed areas become a source of character and detail rather than a technical necessity. Designed for titles, headings and inscriptions, Peško compares the notches to dents du bonheur. The family was designed between 2014 and 2019 and supports Latin, Cyrillic and Greek."
+  },
+  {
+    "name": "Agipo",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/agipo",
+    "designer": "Radim Peško",
+    "year": 2014,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described as an elementary sans serif with plain character; its neutral structure and stylistic alternates place it firmly in the grotesque tradition, with subtle regional inflections via its southern (round) and northern (square) character sets.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Agipo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "elementary",
+      "stylistic-sets",
+      "editorial",
+      "multilingual",
+      "neutral",
+      "regional"
+    ],
+    "summary": "An elementary grotesque by Radim Peško with two stylistic sets — southern (round) and northern (square) — that inflect the typeface like a regional accent.",
+    "description": "Designed between 2011 and 2014, Agipo offers three weights with italics and three additional styles, all extended by northern and southern stylistic sets that swap in alternative characters and punctuation to gently shift the texture of text. The dual-set approach gives designers tonal range without changing the typeface's fundamentally plain character. It covers both Latin and Cyrillic scripts, and has been used in headlines for The New Yorker.",
+    "foundry_blurb": "Radim Peško describes Agipo as an elementary sans serif whose plain character works across a diverse range of languages. Two stylistic sets — southern (round) and northern (square) — offer alternative characters and punctuation that colour text like a regional accent. Designed between 2011 and 2014, the family spans three weights with italics and three additional styles, with Latin and Cyrillic script support."
+  },
+  {
+    "name": "Boymans",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/boymans",
+    "designer": "Radim Pesko",
+    "year": 2003,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Inspired by Lance Wyman's 1968 Mexico City Olympics lettering, Boymans uses a modular, geometric construction with layerable single, double, and triple line variants — firmly placing it in the display category with an op-art, experimental character.",
+    "weights": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Boymans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "layered",
+      "op-art",
+      "identity",
+      "experimental",
+      "modular",
+      "museum"
+    ],
+    "summary": "A layerable display typeface created for Museum Boijmans van Beuningen's identity, drawing on Lance Wyman's 1968 Mexico City Olympics lettering.",
+    "description": "Designed in 2003 by Radim Pesko as part of an identity system developed with Mevis & Van Deursen, Boymans takes its formal cues from Lance Wyman's geometric Mexico City Olympics type. Ten weights each come in three line variants — single, double and triple — which can be combined, layered or coloured to produce an extensive range of graphic effects. The typeface is not available for licensing, remaining a bespoke commission for the Rotterdam museum.",
+    "foundry_blurb": "Boymans was originally created in 2003 for the identity of Museum Boijmans van Beuningen in Rotterdam, developed by Mevis & Van Deursen. Inspired by Lance Wyman's typeface for the 1968 Mexico City Olympics, it was designed to be flexible and playful, with ten weights each offered in single line, double line, and triple line versions that can be layered or coloured to generate countless variations. It is not available for licensing."
+  },
+  {
+    "name": "Correspondance",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/correspondance",
+    "designer": "Radim Pesko",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A memory-reconstruction of Adrian Frutiger's Parisian Metro signage typeface, placing it squarely in the grotesque sans-serif tradition associated with mid-century European signage and wayfinding.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Correspondance"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "signage",
+      "wayfinding",
+      "uppercase",
+      "paris-metro",
+      "frutiger-lineage",
+      "display",
+      "single-weight"
+    ],
+    "summary": "A single-weight, uppercase-only grotesque reconstructed from memory after Adrian Frutiger's typeface for the Paris Métro signage system.",
+    "description": "Designed by Radim Pesko as a mnemonic reconstruction rather than a forensic revival, it draws on Frutiger's lettering for the Paris Métro without attempting strict historical fidelity. Available in one weight with alternate characters, it is capitals only and best suited to headline and display settings. Its use on Le Monde headlines gives a sense of its register: clean, authoritative and rooted in European public-space typography.",
+    "foundry_blurb": "Correspondance takes its inspiration from the typeface Adrian Frutiger created for the Parisian Métro signage system, reconstructed here from memory rather than documentation. It comes in a single bold weight, uppercase only, with alternate versions of certain characters, and is accompanied by a PDF specimen."
+  },
+  {
+    "name": "Dear Sir Madam",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/dear-sir-madam",
+    "designer": "Radim Peško",
+    "year": null,
+    "category": "display",
+    "subcategory": "calligraphic display",
+    "classification_notes": "Rooted in sign-writer lettering guides, the typeface reduces straight lines to preserve an organic, calligraphic quality with deliberate inconsistencies, placing it firmly in calligraphic display territory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dear Sir Madam"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "calligraphic",
+      "sign-writing",
+      "display",
+      "organic",
+      "exhibition",
+      "lettering",
+      "alternates"
+    ],
+    "summary": "Originally a one-off typeface for exhibition labels, this calligraphic display face draws on classical sign-writer lettering guides and treats inconsistency as a feature.",
+    "description": "Conceived for wall texts and object labels in an exhibition context, the design reduces straight lines to retain the organic rhythm of hand-drawn sign-writing. Twelve stylistic alternates and an italic were added when the typeface moved from private distribution among exhibition contributors to general release. Its deliberate embrace of imperfection and calligraphic irregularity makes it a considered choice for editorial and cultural work where mechanical precision would feel wrong.",
+    "foundry_blurb": "Radim Peško describes Dear Sir Madam as an ode to classical shapes used as guides for sign-writers, conceived as a one-off typeface for exhibition object labels and wall texts. By reducing straight lines, the design preserves its organic and calligraphic character and embraces rather than corrects its inconsistencies. Originally sent only to exhibition contributors for personal use, it has since been made publicly available with the addition of an italic and twelve stylistic alternates."
+  },
+  {
+    "name": "F Grotesk",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/f-grotesk",
+    "designer": "Radim Peško",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Explicitly linked to late nineteenth-century anonymous sans serifs, placing it firmly in the grotesque tradition with a bold, lively contemporary interpretation.",
+    "weights": [
+      "Text",
+      "Text Italic",
+      "Bold",
+      "Bold Italic",
+      "Display",
+      "Display Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "T",
+      "B",
+      "D"
+    ],
+    "subfamilies": [
+      "F Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "19th-century",
+      "editorial",
+      "headline",
+      "bbc",
+      "bold",
+      "anonymous-sans"
+    ],
+    "summary": "A three-weight grotesque by Radim Peško, drawn with bold, lively forms rooted in late nineteenth-century anonymous sans serifs, and used on BBC News headlines.",
+    "description": "Three weights with matching italics, each including tabular and proportional figures, give F Grotesk range across text and display settings. Its forms are deliberately bold and singular, drawing on the unnamed grotesques of the 1880s and 1890s without directly reviving any single source. Real-world use on BBC News headlines speaks to its credibility at large sizes in demanding editorial contexts.",
+    "foundry_blurb": "Radim Peško describes F Grotesk as notable for its boldly drawn, adaptable forms that work across a wide range of type sizes and applications. Its singular and lively appearance is linked to anonymous late nineteenth-century sans serif typefaces. The family is available in three weights with italics, including both tabular and proportional figures, and is used on headlines at BBC News."
+  },
+  {
+    "name": "Fugue",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/fugue",
+    "designer": "Radim Pesko",
+    "year": 2008,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Fugue is explicitly conceived as a return to Paul Renner, placing it firmly in the geometric sans tradition, though its alternates and stylistic sets suggest some humanist inflection.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fugue",
+      "Fugue Head",
+      "Fugue Tails"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "renner",
+      "editorial",
+      "book",
+      "pitchfork",
+      "alternates",
+      "monospace"
+    ],
+    "summary": "A geometric sans conceived as a dialogue with Paul Renner, first used in a commemorative book for the Werkplaats Typografie in 2008.",
+    "description": "Originally drawn at a single size of twelve points, Fugue was built as a considered return to the principles behind Futura and its designer Paul Renner. The family includes Regular and Regular Italic, each with two stylistic sets and double-storey alternates for 'a' and 't', alongside a Monospace and the display-oriented Head and Tails styles added in 2016. It covers Latin and Cyrillic and has been used editorially by Pitchfork.",
+    "foundry_blurb": "Fugue was first used in 'Wonder Years', a book marking the tenth anniversary of the Werkplaats Typografie in Arnhem, published in late 2008. Originally conceived and used solely at twelve point, it was designed as an appreciation of Paul Renner and a going-back-to-the-future-and-back-again with his legacy. The family now includes Regular, Regular Italic with two stylistic sets and alternates, a Monospace, and the Head and Tails styles added in 2016, supporting Latin and Cyrillic."
+  },
+  {
+    "name": "Girott",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/girott",
+    "designer": "Radim Peško",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "compressed grotesque",
+    "classification_notes": "Described as a subtractive typeface with compressed shapes, placing it within the grotesque sans-serif tradition but with a distinctly geometric, cut-form character. The compression and subtractive construction distinguish it from conventional grotesques.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Girott"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "compressed",
+      "grotesque",
+      "subtractive",
+      "geometric",
+      "headline",
+      "editorial",
+      "stencil-influenced"
+    ],
+    "summary": "A compressed, subtractive sans-serif in two weights, designed by Radim Peško between 2012 and 2016 with Latin and Cyrillic support.",
+    "description": "Girott's forms are defined by a subtractive approach, as though shapes have been cut away rather than drawn, resulting in a tightly compressed grotesque suited to headline work. Available in Regular and Bold, the family covers both Latin and Cyrillic scripts. It has been used in headlines for Best of The Atlantic, suggesting an editorial aptitude for display settings.",
+    "foundry_blurb": "Radim Peško describes Girott as a new subtractive typeface whose compressed shapes were cut out in two weights, Regular and Bold. Designed between 2012 and 2016, it supports Latin and Cyrillic languages and is available for desktop, web and other licensing formats."
+  },
+  {
+    "name": "Kin",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/kin",
+    "designer": "Radim Pesko",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "A caps-and-small-caps serif with pronounced diacritics structurally integrated into the letterforms, placing it firmly in contemporary display serif territory with an idiosyncratic typographic voice.",
+    "weights": [
+      "Normal"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kin"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "caps",
+      "small-caps",
+      "diacritics",
+      "editorial",
+      "contemporary",
+      "single-weight"
+    ],
+    "summary": "A single-weight, caps-only serif designed over nearly three years in London, distinguished by diacritics that are structurally welded into each letterform rather than added as accents.",
+    "description": "Designed between April 2017 and January 2020, Kin takes an unusual approach to diacritical marks, treating them as integral components of letter construction rather than floating appendages. The family consists of capitals and small caps only, available in one weight, giving it a focused and uncompromising character. It has appeared in headlines for Le Monde, suggesting a practical application in high-quality editorial contexts.",
+    "foundry_blurb": "Radim Pesko describes Kin as designed in London over a period spanning April 2017 to January 2020, with pronounced diacritics welded directly into the letter shapes. The typeface consists of caps and small caps in a single style and weight, covering Latin only, and is related to the typeface Correspondance."
+  },
+  {
+    "name": "Larish Alte",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/larish-alte",
+    "designer": "Radim Peško",
+    "year": 2006,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Larish Alte draws on early twentieth-century lettering and calligraphic print traditions associated with Rudolf von Larisch, resulting in a distinctive display serif with expressive, calligraphically influenced strokes rather than a conventional text-serif structure.",
+    "weights": [
+      "Semibold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Larish Alte"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "calligraphic",
+      "viennese",
+      "editorial",
+      "identity",
+      "historical-reference",
+      "single-weight"
+    ],
+    "summary": "A single-weight display serif by Radim Peško, rooted in the early twentieth-century lettering prints of Rudolf von Larisch and originally drawn for the Secession art space in Vienna.",
+    "description": "Developed in 2006 for the visual identity of Secession in Vienna, Larish Alte takes its formal cues from the calligraphic lettering books of Rudolf von Larisch. The family offers a single Semibold weight with two stylistic sets centred on single and double-storey lowercase 'a' variants, paired with alternates for the lowercase 'y' and uppercase 'A', alongside lining and old-style figures, ligatures and an interfinity mark. Its use in headlines for Der Standard points to a typeface that holds up at large scale in editorial contexts.",
+    "foundry_blurb": "Larish Alte was originally developed for the visual identity of the contemporary art space Secession in Vienna in 2006, with primary inspiration drawn from the lettering prints and books of Rudolf von Larisch published around the turn of the twentieth century. Freshly redrawn and extended, it is now available in a single weight featuring two stylistic sets, each defined by different forms of the lowercase 'a' combined with alternates for 'y' and 'A', along with lining and old-style figures, ligatures and an interfinity mark."
+  },
+  {
+    "name": "Larish Neue",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/larish-neue",
+    "designer": "Radim Peško",
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "Described as a contemporary-looking derivative of Larish Alte, retaining the DNA of the original while presenting a more modern character; the limited specimen suggests a refined serif with display qualities.",
+    "weights": [
+      "Semibold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Larish Neue"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "contemporary",
+      "editorial",
+      "headline",
+      "display",
+      "serif",
+      "derivative"
+    ],
+    "summary": "A contemporary spin-off of Larish Alte by Radim Peško, retaining the original's genetic material while aiming for a more modern character.",
+    "description": "Born as a by-product of Larish Alte, this typeface strips the original back to its underlying structure and rebuilds it toward a contemporary register. The family is slim in scope, offering a Semibold with matching italic, and has seen use in editorial headline settings including Pitchfork. Its positioning as a derivative rather than a standalone design gives it a clear conceptual identity without overclaiming originality.",
+    "foundry_blurb": "Radim Peško describes Larish Neue as a by-product of Larish Alte, resulting from an attempt to create a contemporary-looking typeface with the DNA of the original, pointing readers to Larish Alte for further context."
+  },
+  {
+    "name": "Lÿno",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/l-no",
+    "designer": "Karl Nawrot, Radim Pesko",
+    "year": 2009,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "Lÿno resists conventional classification by design; its four named styles propose playful, unstable typologies of form that reject normative letterform conventions, placing it firmly in experimental display territory.",
+    "weights": [
+      "Ulys",
+      "Stan",
+      "Jean",
+      "Walt"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lÿno"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "avant-garde",
+      "editorial",
+      "conceptual",
+      "postmodern",
+      "graphic"
+    ],
+    "summary": "Four stylistically distinct cuts designed by Karl Nawrot and Radim Pesko over three years, each named after a cultural figure and built to resist any single, definitive form.",
+    "description": "Designed between 2009 and 2012, Lÿno comprises four styles named Ulys(ses 31), Stan(ley Kubrick), Jean (Arp) and Walt (Disney), each negotiating the freedoms of digital type production through deliberately open and unstable letterforms. The project is explicitly anti-normative: the characters refuse resolution into a fixed typographic identity, making each style a distinct proposition rather than a weight variation. Used on Artforum headlines, it sits comfortably in avant-garde editorial and cultural publishing contexts.",
+    "foundry_blurb": "Radim Pesko describe Lÿno as a project in which four character sets negotiate the digital freedoms of their production through playful typologies of form. Named after Ulysses 31, Stanley Kubrick, Jean Arp and Walt Disney, the styles are open and various, designed to resist normative tendencies and reject the idea of definitive form."
+  },
+  {
+    "name": "Merkury",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/merkury",
+    "designer": "Radim Peško",
+    "year": 2001,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Merkury's rounded character and clean construction place it firmly in the geometric sans tradition, with a distinctive softness that sets it apart from purely neutral grotesques.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Merkury",
+      "Merkury Monospaced"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "editorial",
+      "multiscript",
+      "monospaced",
+      "display",
+      "type-design"
+    ],
+    "summary": "A rounded geometric sans by Radim Peško, first sketched in 2001 and refined over many years into four weights with italics and a monospaced variant.",
+    "description": "Originally conceived for a 2001 exhibition of self-initiated graphic design projects, Merkury has been redrawn and customised across numerous commissions before settling into its current form. Four weights run from Light to Bold, each with a matching italic, and an additional Monospaced style is drawn from the Medium weight. The family covers both Latin and Cyrillic scripts, and its quietly rounded character gives it personality without veering into novelty.",
+    "foundry_blurb": "Radim Peško notes that the first sketches of Merkury, formerly spelled Mercury, were made in 2001 for the exhibition 'From Mars: Self-initiated Projects in Graphic Design'. The typeface has since been redrawn and adapted for various projects before arriving at its current form, characterised by a curious rounded quality. It is available in four weights with italics and an additional Monospaced style based on the Medium weight, with support for Latin and Cyrillic languages."
+  },
+  {
+    "name": "Mitim",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/mitim",
+    "designer": "Radim Peško",
+    "year": 2005,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Characterised by triangular serifs derived from references including Broadway and BLAST, designed for text use in a magazine context but with a distinctly structural, display quality rooted in its geometric serif construction.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mitim Alpha",
+      "Mitim Beta",
+      "Mitim Gamma",
+      "Mitim Delta",
+      "Mitim Epsilon",
+      "Mitim Zeta",
+      "Mitim Eta",
+      "Mitim Theta",
+      "Mitim Iota",
+      "Mitim Kappa",
+      "Mitim Lambda"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "triangular-serifs",
+      "magazine",
+      "editorial",
+      "experimental",
+      "commission",
+      "palindrome",
+      "dot-dot-dot",
+      "text"
+    ],
+    "summary": "A bespoke serif with triangular serifs grown issue by issue for Dot Dot Dot magazine between 2005 and 2010, each variant responding to the changing conditions of production.",
+    "description": "Designed by Radim Peško on commission from Dot Dot Dot magazine, the family expanded one member per issue across eleven instalments, with each new cut responding to the magazine's context, theme and production constraints. The brief cited Broadway display type and Wyndham Lewis's BLAST as references, asking for a semibold-weight text face suited to essays, captions and cover setting. Not available for licensing, Mitim remains a document of a typeface developed in public, shaped as much by editorial dialogue as by the designer's own decisions.",
+    "foundry_blurb": "Mitim is an ongoing project designed to a specific brief for Dot Dot Dot magazine, characterised by its triangular serifs. The family grew with each new issue of the magazine from 2005 to 2010, responding to changing production conditions, themes and the needs of individual contributions. It is not available for licensing."
+  },
+  {
+    "name": "Paabo",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/paabo",
+    "designer": "Radim Peško",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described as strictly geometric in construction, Paabo follows geometric sans conventions while introducing occasional irregular strokes that break from pure Euclidean form.",
+    "weights": [
+      "13 styles"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Paabo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sports",
+      "headline",
+      "multilingual",
+      "fifa",
+      "display"
+    ],
+    "summary": "A strictly geometric sans in 13 styles, designed for headline use and adopted by FIFA, with deliberate irregularities that interrupt its otherwise Euclidean construction.",
+    "description": "Paabo is built on geometric principles but punctuated by occasional departures from that rigidity, which the foundry describes as the flight of a non-Euclidean fly. Its 13 styles support Latin, Greek and Cyrillic with localised forms, giving it broad reach across editorial and brand applications. The typeface has been used in FIFA headline typography, grounding it firmly in large-scale sports communications.",
+    "foundry_blurb": "Radim Peško describes Paabo as simple as a ball game typeface, characterised by strictly geometric construction that is occasionally disrupted by non-Euclidean irregularities. It comes in 13 styles and supports Latin, Greek and Cyrillic with localised forms, and has been used in FIFA headline settings."
+  },
+  {
+    "name": "Renotype",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/renotype",
+    "designer": "Radim Peško",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Renotype is described as aesthetically functional with letterforms avoiding historical or tool-based reference, spanning styles from traditional roman and italic to mono, quasitalic and medieval, suggesting a humanist sans at its core with experimental extensions.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Renotype Regular",
+      "Renotype Italic",
+      "Renotype Mono",
+      "Renotype Quasitalic",
+      "Renotype Medieval"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "functional",
+      "multi-style",
+      "editorial",
+      "contemporary",
+      "humanist",
+      "le-monde"
+    ],
+    "summary": "A five-style family by Radim Peško spanning traditional roman and italic through to mono, quasitalic and medieval, built around deliberately non-historical letterforms.",
+    "description": "Designed by Radim Peško in collaboration with 205TF, the family deliberately sidesteps period or tool references in favour of what the designer calls aesthetic functionality. Its five styles — Regular, Italic, Mono, Quasitalic and Medieval — are framed as distinct narrative registers rather than mere weight or width variants. The family appears in headlines for Le Monde, signalling its credibility at editorial scale.",
+    "foundry_blurb": "Radim Peško describes Renotype as presenting letterforms that avoid evoking any specific era or tool, aiming instead for aesthetic functionality akin to a bathroom. The five styles — traditional, standardised, erratic and fictionalized — are positioned as establishing narrative while suggesting further possibilities. The family was created in collaboration with French foundry 205TF, where it is available for licensing, and is used in headlines by Le Monde."
+  },
+  {
+    "name": "Septima",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/septima",
+    "designer": "Radim Peško",
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced grotesque",
+    "classification_notes": "Septima is explicitly described as a monospaced font with asymmetrical, individually adjusted letterforms, placing it firmly in the mono category with a grotesque character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Septima",
+      "Septima Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "grotesque",
+      "asymmetrical",
+      "single-weight",
+      "editorial",
+      "cyrillic",
+      "bbc"
+    ],
+    "summary": "A single-weight monospaced typeface with individually adjusted asymmetrical letterforms designed to maintain equal tone across the character set.",
+    "description": "Each glyph in Septima is individually tuned to the space it occupies within its fixed-width window, a process Peško uses to balance visual tone and produce distinctive, recognisable forms. Available in one weight, the family supports twenty-three Latin and five Cyrillic languages, with the Cyrillic extension developed in collaboration with Roman Gornitsky. The typeface has seen editorial use at BBC News, where its idiosyncratic forms read well at headline scale.",
+    "foundry_blurb": "Radim Peško describes Septima as a monospaced font whose asymmetrical letterforms are individually adjusted according to the space each occupies in its glyph window, achieving equal tone throughout while creating highly recognisable characters. It supports twenty-three Latin and five Cyrillic languages, with the Cyrillic developed in collaboration with Roman Gornitsky of abstrkt.ru."
+  },
+  {
+    "name": "Sol",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/sol",
+    "designer": "Radim Pesko",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Sol is a conceptual display typeface where each letterform is derived from the spatial geometry of an open cube, placing it firmly in experimental geometric display territory with abstract, constructed forms.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sol"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "conceptual",
+      "experimental",
+      "display",
+      "abstract",
+      "art-reference",
+      "constructed"
+    ],
+    "summary": "A typeface derived from Sol LeWitt's 1974 open cube variations, where each character is constructed from the spatial geometry of an incomplete cube.",
+    "description": "Each letterform is built from the structural logic of Sol LeWitt's '122 variations on incomplete open cubes', treating the cube's spatial potential as a typographic system. Letters sit at the boundary of abstraction and legibility, asking the reader to complete the form in their imagination. The typeface is not available for purchase and has appeared in headlines for NYT Style.",
+    "foundry_blurb": "Radim Pesko describes Sol as a continuation of Sol LeWitt's 1974 project of 122 views of unfinished wooden cubes. The character set is defined by the spatial potential of a cube, with letterforms dependent on the viewer's imagination to resolve seemingly abstract compositions into recognisable glyphs."
+  },
+  {
+    "name": "Union",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/union",
+    "designer": "Radim Pesko",
+    "year": 2001,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A synthesis of Arial and Helvetica, two canonical neo-grotesque sans-serifs, placing Union squarely in the grotesque tradition with a conceptual twist on its sources.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Union"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "neo-grotesque",
+      "conceptual",
+      "synthesis",
+      "helvetica",
+      "arial",
+      "minimal"
+    ],
+    "summary": "A deliberate synthesis of Arial and Helvetica, occupying the middle ground between the two most ubiquitous sans-serifs of the PC and Mac era.",
+    "description": "Designed by Radim Pesko, Union merges the contours of Arial and Helvetica into a single typeface intended to sit between the perceived vulgarity of Arial and the sophistication of Helvetica. Available in two weights, Regular and Bold, each with matching italics. Its conceptual premise is as clear as its form: a functional grotesque with an explicit lineage.",
+    "foundry_blurb": "Union is described as a synthesis of Arial and Helvetica, the two most commonly used typefaces on PC and Mac platforms, with contours adjusted to retain the flexibility of both. It is intended for situations where Helvetica seems too sophisticated and Arial too vulgar, or vice versa, and is available in two weights with italics."
+  },
+  {
+    "name": "Union SMA",
+    "foundry": "Radim Pesko",
+    "url": "https://radimpesko.com/fonts/union-sma",
+    "designer": "Radim Peško",
+    "year": 2012,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Custom display extensions of the Union typeface, developed for a museum identity; the letterforms are bespoke headline styles not suited to body text, placing them firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Union SMA"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "custom",
+      "identity",
+      "museum",
+      "headline",
+      "bespoke",
+      "extended"
+    ],
+    "summary": "A bespoke set of display extensions to the Union typeface, created for the visual identity of Stedelijk Museum Amsterdam in 2012.",
+    "description": "Developed as a series of custom headline styles for the Stedelijk Museum Amsterdam, Union SMA extends Radim Peško's Union family into display territory specific to a single institutional identity. The styles were used across museum communications and remain visible in headlines on nu.nl. The typeface is not available for licensing, existing solely as a record of the commission.",
+    "foundry_blurb": "Union SMA is described as a series of custom display styles developed as extensions of the Union typeface for the visual identity of Stedelijk Museum Amsterdam in 2012. It is not available for licensing."
+  }
+]

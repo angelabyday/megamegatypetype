@@ -1,0 +1,676 @@
+[
+  {
+    "name": "Dx Neuegrid",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-neuegrid/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The name and specimen suggest a geometric, grid-based construction typical of neo-grotesque or geometric sans-serif designs, with a structured, modular quality implied by the 'Neue' and 'Grid' naming.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dx Neuegrid"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grid-based",
+      "variable",
+      "modern",
+      "clean",
+      "sans-serif"
+    ],
+    "summary": "A geometric sans-serif family from Dirty Line Studio spanning seven weights with matching slanted cuts and a variable font option.",
+    "description": "The family runs from Light to Black across 14 static styles, each weight paired with a slanted companion, plus a variable font covering the full range. The 'Neue' and 'Grid' naming signals a structured, modular approach to letterform construction. Available for desktop, web, logo, app and corporate licensing at tiered price points.",
+    "foundry_blurb": "Dirty Line Studio offer Dx Neuegrid as a full 14-style family plus variable font, with seven upright weights from Light to Black and matching slanted versions. Buying options range from individual weights to the complete family, with licensing available for desktop, web, logo, mobile apps and worldwide corporate use."
+  },
+  {
+    "name": "DX Form",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-form/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Listed under sans-serif on the foundry site; the name and minimal page content suggest a clean geometric or constructed sans form, typical of the foundry's display-oriented sans offerings.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "DX Form"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "display",
+      "constructed",
+      "minimal"
+    ],
+    "summary": "A single-weight geometric sans from Dirty Line Studio, positioned for display and logo use.",
+    "description": "A geometric sans offered in one weight, aimed at display and branding contexts. The licensing tiers suggest it is intended for logo, web and mobile applications rather than extended text setting. Limited style range restricts its versatility.",
+    "foundry_blurb": "Dirty Line Studio offer DX Form as a geometric sans-serif available in a single Regular weight, with licensing options covering desktop, web, logo, mobile and extended corporate use."
+  },
+  {
+    "name": "Dx Burst",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-burst/",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "brush script",
+    "classification_notes": "Marketed as a brush typeface with a 'Regular' and 'Smooth' variant, placing it firmly in the brush script category typical of display hand-lettering work.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "DxBurst-Regular",
+      "DxBurst-Smooth",
+      "Dx Burst Brush"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "brush",
+      "script",
+      "handlettering",
+      "display",
+      "expressive",
+      "informal"
+    ],
+    "summary": "A brush script typeface from Dirty Line Studio offered in a regular and smoothed variant, aimed at display and logo use.",
+    "description": "Comes in three variants: a textured Regular, a Smooth version with cleaner strokes, and a dedicated Brush cut. The family targets display, logo and branding contexts where a handmade brush quality is wanted. Licensing tiers range from desktop through to worldwide corporate, suggesting a commercial focus on identity work.",
+    "foundry_blurb": "Dirty Line Studio offer Dx Burst as a brush-style display font with both a standard and a smooth variant, alongside a dedicated brush version, available across a range of licensing options from desktop to worldwide corporate use."
+  },
+  {
+    "name": "DX Wideground",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-wideground/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "variable display",
+    "classification_notes": "Marketed explicitly as a display font for headlines and large-scale typography, with a variable width axis spanning UltraCondensed to UltraExpanded, placing it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "UltraCondensed",
+      "ExtraCondensed",
+      "Condensed",
+      "SemiCondensed",
+      "Regular",
+      "SemiExpanded",
+      "Expanded",
+      "ExtraExpanded",
+      "UltraExpanded"
+    ],
+    "subfamilies": [
+      "DX Wideground"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "variable",
+      "width-axis",
+      "headline",
+      "large-scale",
+      "condensed",
+      "expanded"
+    ],
+    "summary": "A variable-width display typeface offering nine width variants from UltraCondensed to UltraExpanded, designed for headline and large-format work.",
+    "description": "Built around a single variable width axis, the family spans nine named instances from UltraCondensed to UltraExpanded, giving designers considerable flexibility across a single licence. There is no weight axis or italic, keeping the focus squarely on width-driven typographic expression at large sizes. Best suited to posters, editorial covers and branding where width contrast is the primary tool.",
+    "foundry_blurb": "Dirty Line Studio describe DX Wideground as a modern variable-width display font built to dominate headlines and large-scale typography, available in a full range of width variants from UltraCondensed to UltraExpanded."
+  },
+  {
+    "name": "DX Sillage",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-sillage/",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "The name and the fashion-adjacent positioning of the foundry suggest a refined display serif; the page offers Regular and Italic cuts with no weight range, consistent with a single-weight display face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "DX Sillage"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "fashion",
+      "editorial",
+      "serif",
+      "elegant",
+      "single-weight"
+    ],
+    "summary": "A single-weight display serif with a matching italic, aimed at fashion and editorial contexts.",
+    "description": "Offered in Regular and Italic only, this is a focused display face without weight variations. The foundry's other releases sit in fashion and script territory, placing DX Sillage in a similar aesthetic bracket. Licensing tiers range from desktop to worldwide corporate, with a logo licence available separately.",
+    "foundry_blurb": "Dirty Line Studio offer DX Sillage in Regular and Italic cuts, positioned alongside their display, fashion and script releases. Licensing options cover desktop, web, mobile, logo, extended and worldwide corporate use."
+  },
+  {
+    "name": "Dx Ruiga",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-ruiga/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The clean, even stroke widths and wide weight range from Thin to Black suggest a geometric or neo-grotesque sans-serif construction typical of contemporary display-oriented families.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dx Ruiga"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "variable",
+      "display",
+      "contemporary",
+      "clean",
+      "wide-range"
+    ],
+    "summary": "A nine-weight sans-serif family from Dirty Line Studio, available as a variable font spanning Thin to Black.",
+    "description": "The family covers nine static weights from Thin to Black, with a variable font version allowing continuous interpolation across the full range. Suited to branding and display work where weight contrast between headline and body is needed. No italic or condensed cuts are offered, keeping the family focused on upright settings.",
+    "foundry_blurb": "Dirty Line Studio offer Dx Ruiga as a full family of nine fonts plus a variable font, available under desktop, web, branding, and corporate licence tiers, with individual weights also sold separately from $29 each."
+  },
+  {
+    "name": "DxPlayhigh Variable",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-playhigh-variable/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "variable display",
+    "classification_notes": "A variable display typeface with extensive width variants from Condensed to Ultra Expanded, plus Back and Italic cuts, placing it firmly in the display category with no clear serif or sans-serif subfamily identity from the available copy.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "SemiCondensed",
+      "Regular",
+      "SemiExpanded",
+      "Expanded",
+      "ExtraExpanded",
+      "UltraExpanded"
+    ],
+    "subfamilies": [
+      "DxPlayhigh-Regular",
+      "DxPlayhigh-Back",
+      "DxPlayhigh-Condensed",
+      "DxPlayhigh-CondensedBack",
+      "DxPlayhigh-CondensedItalic",
+      "DxPlayhigh-SemiCondensed",
+      "DxPlayhigh-SemiCondensedBack",
+      "DxPlayhigh-SemiCondIta",
+      "DxPlayhigh-SemiExpanded",
+      "DxPlayhigh-SemiExpandedBack",
+      "DxPlayhigh-SemiExpandedItalic",
+      "DxPlayhigh-Expanded",
+      "DxPlayhigh-ExpandedBack",
+      "DxPlayhigh-ExpandedItalic",
+      "DxPlayhigh-ExtraExpanded",
+      "DxPlayhigh-ExtraExpandedBack",
+      "DxPlayhigh-UltraExpanded",
+      "DxPlayhigh-UltraExpandedBack",
+      "DxPlayhigh-ExtExpIta",
+      "DxPlayhigh-UltExpIta",
+      "DxPlayhigh-Italic"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "display",
+      "wide",
+      "condensed",
+      "expanded",
+      "multi-width",
+      "experimental"
+    ],
+    "summary": "A variable display typeface from Dirty Line Studio spanning an unusually wide range of widths, from Condensed to Ultra Expanded, with Back and Italic variants throughout.",
+    "description": "The family offers 21 named styles covering condensed, semi-condensed, regular, semi-expanded, expanded, extra-expanded and ultra-expanded widths, each available in standard, Back and Italic cuts. The variable font format allows fluid interpolation across the width axis, making it suited to display and branding work where width contrast is a design tool. The breadth of the family is its main selling point, though the foundry provides little context about the typeface's underlying design language.",
+    "foundry_blurb": "Dirty Line Studio offer DxPlayhigh Variable as a complete variable font family with 21 styles, available under desktop, web, branding, logo, mobile app and corporate licensing tiers, with extended and worldwide corporate options available on request."
+  },
+  {
+    "name": "DX Figgle",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-figgle/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "Listed under the Display category on the foundry's own site, with a companion italic suggesting an expressive, non-text typeface intended for headlines or decorative use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dx Figgle",
+      "DX Figgle Italic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "decorative",
+      "headline",
+      "expressive"
+    ],
+    "summary": "A display typeface from Dirty Line Studio offered in a regular and italic style, priced from $35.",
+    "description": "A two-style display family comprising an upright and an italic cut. The page provides little detail on its formal characteristics, though its placement alongside decorative and display-oriented releases suggests it targets headline and branding contexts. Available under a range of licensing tiers from desktop to worldwide corporate.",
+    "foundry_blurb": "Dirty Line Studio offer DX Figgle as a display typeface available in standard and italic styles, with licensing options spanning desktop, web, logo, branding, mobile apps and corporate use, starting from $35."
+  },
+  {
+    "name": "Dx Lactos Vol.02",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-lactos-vol-02/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The clean, structured naming and variable weight range suggest a geometric or neo-grotesque sans-serif aimed at branding and display applications.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dx Lactos Vol.02"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "branding",
+      "variable",
+      "display",
+      "wide-weight-range",
+      "logo"
+    ],
+    "summary": "A nine-weight variable sans from Dirty Line Studio, spanning Thin to Black for branding and display use.",
+    "description": "The family covers nine static weights alongside a variable font file, giving designers flexibility across a broad weight axis. Sold in individual weights, an essentials bundle or as a full family, it is priced for commercial branding, web and corporate licensing tiers. The offering is straightforward and workmanlike, suited to identity and packaging projects that need a clean, neutral sans with weight variety.",
+    "foundry_blurb": "Dirty Line Studio offer Dx Lactos Vol.02 as a full nine-font family plus variable font, with individual weights available separately and an essentials bundle covering Light, Regular and Black. Licensing tiers run from standard desktop and web through to branding, extended, national corporate and worldwide corporate use."
+  },
+  {
+    "name": "Dx Kord",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-kord/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The family's optical size axis spanning Fine, Normal and Inktrap subfamilies, combined with its wide width range, points to a contemporary grotesque designed for demanding print and display conditions.",
+    "weights": [
+      "Variable"
+    ],
+    "optical_sizes_or_widths": [
+      "Fine",
+      "Normal",
+      "Inktrap",
+      "Compressed",
+      "Expanded",
+      "Extended Expanded",
+      "Ultimate Compressed",
+      "Ultimate Expanded"
+    ],
+    "subfamilies": [
+      "DxKord Fine",
+      "DxKord Fine Compressed",
+      "DxKord Fine Expanded",
+      "DxKord Fine Extended Expanded",
+      "DxKord Fine Ultimate Compressed",
+      "DxKord Fine Ultimate Expanded",
+      "DxKord Inktrap",
+      "DxKord Inktrap Compressed",
+      "DxKord Inktrap Expanded",
+      "DxKord Inktrap Extended Expanded",
+      "DxKord Inktrap Ultimate Compressed",
+      "DxKord Inktrap Ultimate Expanded",
+      "DxKord Normal",
+      "DxKord Normal Compressed",
+      "DxKord Normal Expanded",
+      "DxKord Normal Extended Expanded",
+      "DxKord Normal Ultimate Expanded",
+      "DxKord Ultimate Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "grotesque",
+      "inktrap",
+      "display",
+      "multi-width",
+      "contemporary",
+      "branding"
+    ],
+    "summary": "A variable grotesque with optical size and width axes, offering Fine, Normal and Inktrap subfamilies across an unusually broad range of widths from Ultimate Compressed to Ultimate Expanded.",
+    "description": "Dx Kord is a variable grotesque from Dirty Line Studio that spans eighteen named style instances across three optical categories: Fine, Normal and Inktrap. The width axis runs from Ultimate Compressed through to Ultimate Expanded, giving designers substantial flexibility for both tight setting and broad display work. The Inktrap subfamily adds ink-trap details suited to small sizes or as a stylistic feature at larger scales.",
+    "foundry_blurb": "Dirty Line Studio offer Dx Kord as a variable font family available in a complete package starting at $35, with licensing tiers covering standard desktop, web, mobile, branding, logo and corporate use up to worldwide corporate level."
+  },
+  {
+    "name": "Dx Restcal",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-restcal/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The clean, structured naming conventions and variable font offering suggest a geometric or neutral sans-serif optimised for text and display use across a broad weight range.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dx Restcal"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "variable",
+      "multi-weight",
+      "neutral",
+      "contemporary",
+      "text",
+      "branding"
+    ],
+    "summary": "A nine-weight variable sans from Dirty Line Studio covering Thin through Black with a clean, neutral character suited to branding and editorial work.",
+    "description": "Available as individual weights or a full variable family, Dx Restcal spans nine weights from Thin to Black with no condensed or italic cuts. The variable font format makes it practical for web and screen use, and the licensing tiers run from standard desktop through to worldwide corporate. It sits comfortably in branding and UI contexts where a neutral, even-tempered sans is needed.",
+    "foundry_blurb": "Dirty Line Studio offer Dx Restcal as a full family of nine static fonts plus a variable font, available in a range of licensing tiers from standard desktop at $125 up to worldwide corporate licensing. An essentials package covering Light, Regular and Bold is also available."
+  },
+  {
+    "name": "Dx Alegant",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-alegant/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The name and specimen suggest a clean, elegant geometric sans-serif with a variable weight axis spanning Thin to Bold, typical of contemporary display-oriented geometric families.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dx Alegant"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "elegant",
+      "variable",
+      "display",
+      "contemporary",
+      "clean"
+    ],
+    "summary": "A seven-weight geometric sans with a variable font included, pitched at display and branding use.",
+    "description": "Spanning Thin through Bold with a matching variable font, Dx Alegant is a clean geometric sans aimed at titles and branding. The family offers no italics or condensed cuts, keeping the range focused on weight contrast. Licensing tiers run from desktop to worldwide corporate, with individual weights also available separately.",
+    "foundry_blurb": "Dirty Line Studio offer Dx Alegant as a full family of seven static fonts plus a variable font, available for desktop, web, logo, and corporate licensing. The family spans Thin to Bold and is sold either as a complete package or as individual weights."
+  },
+  {
+    "name": "Dx Grove",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-grove/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The family offers regular, italic, condensed and condensed italic cuts consistent with a functional grotesque sans-serif. No decorative or script characteristics are evident from the page content.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Dx Grove"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "condensed",
+      "functional",
+      "editorial",
+      "display"
+    ],
+    "summary": "A compact grotesque sans offered in regular and condensed cuts with matching italics, suited to display and editorial use.",
+    "description": "Dx Grove is a grotesque sans from Dirty Line Studio available in four styles: Regular, Italic, Condensed and Condensed Italic. The condensed variant extends its range into tighter column settings and headline work. Licensing is available across desktop, web, mobile and server tiers, with a complete family bundle from $25.",
+    "foundry_blurb": "Dirty Line Studio offer Dx Grove as a complete family bundle covering regular and condensed widths with italics for each, available under desktop, web, mobile, server and extended licences."
+  },
+  {
+    "name": "Dx Lactos",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-lactos/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "The family includes Regular, Expanded and Ultra width variants, with a variable font axis, suggesting a display-oriented sans designed for expressive typographic use rather than extended text setting.",
+    "weights": [
+      "Regular",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Expanded",
+      "Ultra"
+    ],
+    "subfamilies": [
+      "Dx Lactos"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "variable",
+      "expanded",
+      "sans-serif",
+      "branding",
+      "fashion",
+      "quirky"
+    ],
+    "summary": "A variable display sans from Dirty Line Studio offering width variants from Regular through to Ultra for expressive branding and editorial use.",
+    "description": "Dx Lactos comes in three named cuts — Regular, Expanded and Ultra — with a variable font axis allowing fluid movement across the width range. The design leans towards fashion and branding contexts where exaggerated proportions and a clean but characterful structure are needed. Licensing tiers cover desktop, web, mobile apps and branding, with an extended option for broader commercial use.",
+    "foundry_blurb": "Dirty Line Studio present Dx Lactos as a display sans with variable font capabilities, available in Regular, Expanded and Ultra styles. It is listed under display and fashion categories and offered with a range of licensing options including logo, branding, web and mobile app use."
+  },
+  {
+    "name": "Dx Glitar",
+    "foundry": "Dirty Line Studio",
+    "url": "https://dirtylinestudio.com/product/dx-glitar/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "The page groups Dx Glitar alongside display and script offerings from Dirty Line Studio, and the name alongside its italic companion suggests a decorative display serif positioned for titles and branding rather than body text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dx Glitar"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "decorative",
+      "branding",
+      "logo",
+      "title",
+      "editorial"
+    ],
+    "summary": "A two-style display serif from Dirty Line Studio, offered in Regular and Italic cuts for headline and logo work.",
+    "description": "Offered in Regular and Italic, Dx Glitar is a display serif aimed at title and logo applications. The licensing structure covers desktop, web, mobile and corporate use, suggesting a broad commercial audience. Little detail is available on its design origins or script coverage beyond standard Latin.",
+    "foundry_blurb": "Dirty Line Studio present Dx Glitar as a Regular and Italic display font pair, available under a range of licences from standard desktop use through to worldwide corporate, with logo and extended options also listed."
+  }
+]

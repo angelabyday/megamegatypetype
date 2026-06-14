@@ -1,0 +1,942 @@
+[
+  {
+    "name": "ActionType",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/action-type",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "sports display",
+    "classification_notes": "Bold, modular display type designed specifically for sports branding, jersey numbering, and high-impact contexts; the emphasis on aggression, legibility at scale, and athletic identity places it firmly in the display category with a sports-specific subcategory.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "ActionType"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sports",
+      "jersey",
+      "modular",
+      "bold",
+      "branding",
+      "numerals"
+    ],
+    "summary": "A sports-focused type offering from Arkitype, covering bold display faces and purpose-built jersey numeral systems for athletic branding.",
+    "description": "Dedicated entirely to sports-driven design, ActionType produces custom display typefaces and numeral sets engineered for legibility at speed, distance, and scale. Jersey numbers form a core part of the offering, with each set designed for instant readability and strong personality across grassroots and professional contexts. The work targets sports, e-sports, and tech brands needing type that performs on kit, signage, and stadium screens alike.",
+    "foundry_blurb": "Arkitype describe ActionType as a dedicated sports type offering built for moments of movement, competition, and intensity. It covers bold display type, modular systems, and highly legible numeral sets, with each design balancing aggression and clarity for use across jersey backs, stadium screens, and brand identity in sports, e-sports, and tech."
+  },
+  {
+    "name": "ATF Manarola",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/atf-manarola",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "A bold, all-caps-leaning display family drawn from Mediterranean hand-painted signage traditions; the textured Soft Riso variant and rounded cuts push it firmly into display rather than text use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "ATF Manarola Regular",
+      "ATF Manarola Soft",
+      "ATF Manarola Soft Riso"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "mediterranean",
+      "vintage",
+      "signage",
+      "textured",
+      "packaging",
+      "editorial",
+      "retro"
+    ],
+    "summary": "A bold display family drawn from Italian Riviera hand-painted signage, offered in three stylistic cuts including a Risograph-textured variant.",
+    "description": "Three subfamilies cover distinct moods: Regular gives clean, high-contrast letterforms; Soft rounds the terminals for a warmer feel; Soft Riso introduces a grainy ink-bleed texture that mimics Risograph printing. OpenType alternates and stylistic sets allow considerable glyph variation across all three cuts. Best suited to packaging, poster work and brand identities where a retro Mediterranean flavour is the brief.",
+    "foundry_blurb": "Arkitype describe ATF Manarola as a sun-drenched tribute to the golden era of Mediterranean hand-painted signage, built as a bridge between vintage craftsmanship and contemporary versatility. They position the three-personality family — Regular, Soft and Soft Riso — as a toolkit for designers working on brand identity, artisanal packaging and editorial layouts who want expressive, high-impact type with a DIY-chic edge."
+  },
+  {
+    "name": "Contempo Gothic",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/contempo-gothic",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The foundry describes a geometric approach to a modern sans serif, with clean construction typical of geometric grotesques suited to display and editorial use.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Thin",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Contempo Gothic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "display",
+      "editorial",
+      "versatile",
+      "multi-weight",
+      "opentype"
+    ],
+    "summary": "A geometric sans serif in nine weights with matching italics, built for display use with broad Latin language coverage and OpenType features including stylistic sets, tabular figures and arrows.",
+    "description": "Eighteen styles span nine weights from ExtraLight to Black, each with a matching italic, covering a wide range of Latin Extended characters including diacritics for Central and Eastern European languages. OpenType features include three stylistic sets that offer alternate forms for i, l and t, plus tabular figures, standard ligatures and fractions. Suited to graphic design, signage, editorial and corporate identity work.",
+    "foundry_blurb": "Arkitype describe Contempo Gothic as a modern sans serif with a geometric approach, available in 18 weights across 9 uprights and matching italics. It includes OpenType features such as stylistic sets, tabular figures, fractions, arrows and ligatures, with extensive language support, making it suited to graphic design, display, websites, signage, corporate identities and editorial design."
+  },
+  {
+    "name": "Heidth Variable",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/heidth-variable",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "variable display",
+    "classification_notes": "Explicitly designed as a display font with variable axes controlling height and width extremes; the expressive, shape-shifting nature places it firmly in the display category with no conventional weight classification.",
+    "weights": [
+      "Regular",
+      "Slant"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Wide",
+      "Tall",
+      "Tall Wide"
+    ],
+    "subfamilies": [
+      "Heidth Variable",
+      "Heidth Slant Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "display",
+      "expressive",
+      "poster",
+      "branding",
+      "width",
+      "height",
+      "geometric"
+    ],
+    "summary": "A variable display typeface with independent height and width axes, producing extremes from regular to tall-wide in two styles: upright and slanted.",
+    "description": "Two variable fonts, one upright and one slanted, each offering continuous control over both the height and width of letterforms across four named instances: Regular, Wide, Tall and Tall Wide. The axes allow dramatic shifts in proportion suited to posters, packaging and branding layouts where orientation and space vary. Glyph coverage extends through Latin Extended-A and -B with a handful of alternates for descender characters.",
+    "foundry_blurb": "Arkitype describe Heidth Variable as a display font built for fun, expressive typography, with variable height and width axes making it adaptable to any artwork layout or orientation. They recommend it for branding, posters, print campaigns and packaging, noting it requires software with variable font support such as Adobe Illustrator or Photoshop."
+  },
+  {
+    "name": "Kicker FC",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/kickerfc",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "sports display",
+    "classification_notes": "A narrow, multi-weight display typeface designed explicitly for sports branding and headline use, with shadow variants and stylistic alternates that place it firmly in the display category rather than a neutral sans-serif.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kicker FC",
+      "Kicker FC Shadow"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sports",
+      "narrow",
+      "shadow",
+      "collegiate",
+      "headline",
+      "branding",
+      "alternates"
+    ],
+    "summary": "A narrow display family built for sports branding, offered in eight weights with matching shadow variants and stylistic alternates for each.",
+    "description": "Built for sports-facing work across college, soccer, basketball and beyond, the family runs from Extra Light to Black with a full parallel set of shadow styles adding a graphic dimension to each weight. Stylistic alternates across two sets allow lettering-style variation on key characters including B, E, K, R and T. The narrow proportions make it well suited to headline and poster work where tight column widths demand impact without sacrifice of legibility.",
+    "foundry_blurb": "Arkitype describe Kicker FC as a typeface made for the love of sport, designed with the right elements for sports display branding. It offers a wide weight range, stylistic alternates for flexibility, and shadow versions for every weight to create a custom graphic feel. Though built for sports including soccer, college, baseball, basketball and football, they note it works equally well in beverage, tech and other industries."
+  },
+  {
+    "name": "Tektype",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/tektype",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Tektype presents with a strong geometric character and alternates that suggest a technical or constructed aesthetic, placing it firmly in the display category with geometric underpinnings rather than conventional text-oriented grotesque or humanist traditions.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tektype"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "technical",
+      "constructed",
+      "alternates",
+      "single-weight"
+    ],
+    "summary": "A single-weight geometric display typeface from Arkitype with stylistic alternates that shift its character noticeably.",
+    "description": "Available in one weight, Tektype carries a constructed, technical feel suited to display and identity work. The stylistic alternates, accessible via OpenType features, offer meaningfully different letter shapes for several key characters including A, B, C, D, E, F, P and R, giving designers control over the overall tone. Latin Extended coverage handles most Western European languages.",
+    "foundry_blurb": "Arkitype present Tektype as a typeface with OpenType alternate sets that allow switching between different letterform variants, giving users the ability to shift its visual register through glyph substitution."
+  },
+  {
+    "name": "Storica",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/storica",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Storica carries roman-style serifs with a historical character intended for large-scale display use; the Heavy Rough and Heavy Hand variants push it firmly into expressive display territory rather than text setting.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Extra Bold",
+      "Heavy",
+      "Heavy Rough",
+      "Heavy Hand"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Storica"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "branding",
+      "beverage",
+      "poster",
+      "magazine",
+      "rustic",
+      "historical"
+    ],
+    "summary": "A roman display serif in seven weights with textured Heavy Rough and Heavy Hand variants aimed at branding and editorial work.",
+    "description": "Built around roman-style serifs that evoke craft and history, Storica runs from Light to Heavy across seven standard weights, with two additional variants adding a roughened or hand-drawn quality for more rustic applications. OpenType features include stylistic alternates, small caps, old-style figures and discretionary ligatures, giving designers enough variation to build typographic layouts without relying on additional faces. The foundry positions it for beverage branding, posters and magazine work where a heritage feel is required.",
+    "foundry_blurb": "Arkitype describe Storica as a display typeface with roman-style serifs that evoke history and culture. The family includes seven weights plus Heavy Rough and Heavy Hand variants for rustic or hand-drawn effects, an expansive character set with wide language support, and a full suite of OpenType features including stylistic alternates, ligatures, small caps and old-style numbers. They recommend it for branding, particularly in the beverage industry, as well as magazine layouts, posters and books."
+  },
+  {
+    "name": "Compose",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/compose",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Clean, minimal letterforms with a high x-height and geometric character suggest a geometric sans classification; the double-storey 'a' alternate and oblique rather than true italic style support this reading.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Compose"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "minimal",
+      "clean",
+      "editorial",
+      "corporate",
+      "branding",
+      "high-x-height",
+      "versatile"
+    ],
+    "summary": "A clean, minimal geometric sans in nine weights with obliques, Latin Extended and Cyrillic coverage, and alternates for 'a' and 'y'.",
+    "description": "The family runs from Thin to Black, each with a matching oblique, giving eighteen styles in total. A higher x-height aids legibility at smaller sizes, and OpenType features include stylistic alternates, circled numerals and arrows. Suited to editorial, signage, web and corporate identity work.",
+    "foundry_blurb": "Arkitype describe Compose as a clean, modern and minimal sans-serif with nine weights and obliques, alternate 'a' and 'y' options as stylistic sets, circled numerals and arrows. They position it as an excellent editorial typeface and a versatile option for web, signage, corporate and branding work, noting its higher x-height delivers good legibility at smaller sizes."
+  },
+  {
+    "name": "Super League",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/super-league",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "sports display",
+    "classification_notes": "Designed explicitly for the sports industry with a broad, versatile structure suited to kit numbering, badges and headlines; the oblique variants and wide weight range are characteristic of sports display typography.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi-Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Super League"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sports",
+      "oblique",
+      "headlines",
+      "kit",
+      "badges",
+      "wide-weight-range",
+      "versatile"
+    ],
+    "summary": "A sports-oriented display family spanning eight weights with matching obliques, small caps and ordinal ligatures built specifically for fixture graphics and kit typography.",
+    "description": "Designed with the sports industry in mind, the family avoids locking itself to a single sport aesthetic, making it workable across football, basketball, rugby and beyond. Eight weights from Extra Light to Black each carry an oblique, giving 16 fonts in total, and OpenType features include small caps, stylistic alternates, and discretionary ligatures for VS, st, nd, rd and th ordinals. Suited to printed kits, digital scoreboards, badge design and broadcast graphics.",
+    "foundry_blurb": "Arkitype describe Super League as a display typeface created for the sports industry, deliberately kept versatile so it can work across different sporting categories. They highlight its OpenType features including small caps, stylistic alternates, and ligatures for vs, st, nd, rd and th as particularly useful for sports typography, and note that all eight weights come with an oblique, totalling 16 fonts."
+  },
+  {
+    "name": "Hudson NY Pro",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/hudson-ny-pro",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Hudson NY Pro is a display family with three distinct sub-styles (sans, serif, slab), designed for headline use in sports, beverage and entertainment contexts, with strong stylistic alternate options and a broad weight range suited to expressive, large-scale applications.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hudson NY Pro",
+      "Hudson NY Pro Serif",
+      "Hudson NY Pro Slab"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sports",
+      "beverage",
+      "entertainment",
+      "multi-style",
+      "headline",
+      "alternate-glyphs",
+      "slab"
+    ],
+    "summary": "A three-style display family spanning sans, serif and slab cuts, each offered in six weights with italics, small caps and ten stylistic sets.",
+    "description": "An expanded reworking of Arkitype's original Hudson NY, the Pro edition rebuilds all glyphs from scratch and adds six weights plus italics across the sans, serif and slab sub-families. OpenType features include small caps, small caps from capitals, and ten stylistic sets covering alternate forms for letters such as B, K, O, R, S and U. Arkitype position it for sports, beverage and entertainment branding where a versatile display family is needed across a single consistent visual language.",
+    "foundry_blurb": "Arkitype describe Hudson NY Pro as a major upgrade to the original Hudson NY, with completely re-drawn glyphs, six weights, italics and a full suite of OpenType features including small caps and stylistic alternates. Press versions from the original family have been dropped in favour of a cleaner, more usable family aimed at sports, beverage and entertainment applications."
+  },
+  {
+    "name": "Neumatic Gothic",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/neumaticgothic",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "condensed grotesque",
+    "classification_notes": "A condensed sans-serif with tall cap height and moderate x-height, fitting the condensed grotesque tradition. No humanist or geometric traits are apparent from the description.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Neumatic Gothic"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "grotesque",
+      "headline",
+      "display",
+      "editorial",
+      "opentype-features",
+      "small-caps"
+    ],
+    "summary": "A condensed grotesque with a tall cap height and a generous OpenType feature set including small caps, stylistic alternates and circled numbers.",
+    "description": "Built for headline and text use at tighter column widths, Neumatic Gothic offers seven weights from Light to Black, each with an oblique companion. The family includes small caps, superscript uppercase, stylistic alternates and scientific inferiors, giving graphic designers more typographic options within a single family. Latin Extended coverage supports a wide range of Western European languages.",
+    "foundry_blurb": "Arkitype describe Neumatic Gothic as a condensed sans-serif with a tall cap height and a balancing x-height, suitable as both a headline and text font. They highlight its extensive glyph set, which includes small caps, a stylistic uppercase superscript, stylistic alternates and circled numbers, all designed to help graphic designers create typographic pieces with greater ease."
+  },
+  {
+    "name": "Protrakt Variable",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/protrakt-variable",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "expanded display sans",
+    "classification_notes": "A variable sans built around an expanding width axis, intended primarily for display use in sport and urban contexts. Its nine discrete width steps and bold weight range push it firmly into display territory.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi-Bold",
+      "Bold",
+      "Extra Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Exp-One",
+      "Exp-Two",
+      "Exp-Three",
+      "Exp-Four",
+      "Exp-Five",
+      "Exp-Six",
+      "Exp-Seven",
+      "Exp-Eight",
+      "Exp-Nine"
+    ],
+    "subfamilies": [
+      "Protrakt Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "sport",
+      "display",
+      "expanded",
+      "urban",
+      "width-axis",
+      "geometric",
+      "poster"
+    ],
+    "summary": "A variable display sans with nine discrete width steps and seven weights, built around sport and city aesthetics.",
+    "description": "Designed with sport and urban life as its reference points, this variable font offers continuous control over both weight and width through a single file. Nine static width variants are also included for software without variable font support, running from standard to Exp-Nine across seven weights from Light to Heavy. Alternate characters for a broad set of glyphs add further styling latitude for headline and poster work.",
+    "foundry_blurb": "Arkitype describe Protrakt as inspired by city life and sport, designed as a variable font to give the widest creative range. Nine width variants and seven weights are available as static styles, but the variable version condenses the entire family into one file and allows free movement across weight and width axes, with alternate characters and stylistic sets included for additional customisation."
+  },
+  {
+    "name": "Neumatic Gothic Round",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/neumatic-gothic-round",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "condensed gothic",
+    "classification_notes": "A condensed sans-serif with tall cap height and x-height, sitting in the gothic grotesque tradition with rounded terminals, designed for both headline and text use.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Neumatic Gothic Round"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "gothic",
+      "rounded",
+      "headline",
+      "small-caps",
+      "display",
+      "graphic-design",
+      "versatile"
+    ],
+    "summary": "A condensed rounded gothic with a tall cap height, offered in seven weights with obliques and a broad OpenType feature set including small caps and stylistic alternates.",
+    "description": "Built for graphic designers who want flexibility in typographic layouts, the family runs from Light to Black with matching obliques across all weights. OpenType features include small caps, small caps from capitals, stylistic alternates, superscript uppercase, circled numbers and multiple stylistic sets. The rounded terminals soften the gothic structure, making it workable at text sizes as well as in large headline settings.",
+    "foundry_blurb": "Arkitype describe Neumatic Gothic Round as a condensed sans-serif family with a tall cap height and x-height to balance it, versatile as both a headline and text font. They highlight its range of OpenType options including small caps, a stylistic uppercase superscript, stylistic alternates and circled numbers, noting it was designed with the graphic designer in mind for creating beautiful typographic layouts with ease."
+  },
+  {
+    "name": "Neumatic Compressed",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/neumatic-compressed",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "compressed sans",
+    "classification_notes": "A super-compressed display sans designed explicitly for headlines and poster work, with an increased cap height and tight kerning that place it firmly in the display category rather than a general-purpose sans.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Neumatic Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "compressed",
+      "display",
+      "headline",
+      "poster",
+      "sans-serif",
+      "high-cap",
+      "opentype"
+    ],
+    "summary": "A super-compressed display sans in eight weights, built for tall, tightly set headlines in posters, magazines and books.",
+    "description": "With an exaggerated cap height and extreme compression, it maximises vertical impact at large sizes while remaining legible across a full weight range from ExtraLight to Black. Squared dots on i, j and punctuation are the default, with a stylistic set swapping these to round dots, and OpenType superscript support adds further typographic utility. Suited to editorial and print contexts where column width is tight and headlines need height.",
+    "foundry_blurb": "Arkitype describe Neumatic Compressed as having a super compressed character set, increased cap height and tight kerning that together enable large, beautiful and effective headlines and copy. They highlight its versatility across eight weights, its suitability for posters, display copy and printed materials like magazines and books, and its OpenType features including stylistic sets that swap the default squared dots on i, j and punctuation to round dots."
+  },
+  {
+    "name": "State Wide",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/state-wide",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Listed under a design practice known for sport and identity work; the name and context suggest a wide, display-oriented sans intended for headlines and branding rather than body text.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "State Wide"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "wide",
+      "identity",
+      "sport",
+      "branding",
+      "bespoke"
+    ],
+    "summary": "A wide display typeface from Arkitype, a practice focused on sport, tech and music identity work, currently listed as coming soon.",
+    "description": "State Wide is an upcoming release from Arkitype, an independent design studio whose output spans sport, beverage and music branding. The foundry specialises in bespoke typefaces built around brand systems, suggesting this is designed with identity applications in mind. No weights or specimen details are yet publicly available.",
+    "foundry_blurb": "Arkitype describes itself as an independent design practice shaping bold, distinctive visual identities across sport, tech, beverage and music, collaborating with brands and agencies to craft thoughtful design systems and bespoke typefaces."
+  },
+  {
+    "name": "Modulus Pro",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/modulus-pro",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A rounded sans-serif with geometric construction, featuring soft terminals and a clean, even stroke weight typical of geometric sans designs.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Modulus Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "geometric",
+      "display",
+      "branding",
+      "playful",
+      "edgy",
+      "opentype"
+    ],
+    "summary": "A rounded geometric sans in eight weights with extensive OpenType alternates and broad Latin language coverage.",
+    "description": "Built as a substantial update to the original Modulus, this family runs from Extra Light to Black across eight weights with no italics. Four stylistic sets and a wide range of individual alternates give designers room to vary letterforms for custom typographic work. Coverage spans Latin Extended, with superscripts, subscripts, fractions and tabular figures included.",
+    "foundry_blurb": "Arkitype describe Modulus Pro as an extensive update to Modulus, retaining the original rounded sans-serif character while expanding the glyph set for broader language support. The family comes in eight weights from Extra Light to Black, and includes multiple stylistic sets and alternates intended to give designers flexibility for expressive, customised typography."
+  },
+  {
+    "name": "Coastal",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/coastal",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "A display-weight sans with multiple decorative variants including rough, rounded, hand-drawn and outline treatments, clearly intended for large-scale headline use rather than text setting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Coastal Clean",
+      "Coastal Round",
+      "Coastal Rough",
+      "Coastal Hand",
+      "Coastal Outline",
+      "Coastal Outline Rough"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "headlines",
+      "poster",
+      "rough",
+      "outline",
+      "hand-drawn",
+      "informal",
+      "alternates"
+    ],
+    "summary": "A 12-font display sans family spanning clean, rounded, rough, hand-drawn and outline variants, aimed at headlines and poster work.",
+    "description": "Six stylistic subfamilies each with an oblique companion give designers a range of tonal options from polished clean cuts to textured rough and hand-drawn treatments. Alternate glyphs for characters including C, E and O extend the creative toolkit further. Best suited to large-scale applications where the informal character can read clearly.",
+    "foundry_blurb": "Arkitype describe Coastal as a fun and informal display sans made up of 12 fonts, with rounded, rough, hand and outline versions offering plenty of options to play around with. They recommend it for headlines, posters and artwork where larger type is needed, and highlight its alternate glyphs as additional tools for getting creative."
+  },
+  {
+    "name": "Comply Slab",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/comply-slab",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "geometric slab",
+    "classification_notes": "A slab serif with sharp, geometric construction and pronounced serifs, positioned as a display-oriented family with strong stroke contrast and distinctive alternate glyphs inspired by action sports aesthetics.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi-Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Comply Slab"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "display",
+      "sports",
+      "editorial",
+      "headline",
+      "geometric",
+      "bold",
+      "poster"
+    ],
+    "summary": "A nine-weight slab serif inspired by skate culture, built for headline use across editorial, apparel and poster work.",
+    "description": "Named after the skateboard trick the No Comply, this slab serif family runs from Thin to Black with a matching italic for each weight. The design leans geometric, with sharp default glyphs for R and S and alternate chamfered versions available via OpenType stylistic sets. Coverage spans Latin Extended, making it serviceable across Western European languages.",
+    "foundry_blurb": "Arkitype describe Comply Slab as inspired by action and extreme sports, offering nine weights from thin to black, each with an italic, suited to headlines, posters, apparel, packaging and editorial work. The family features alternate R and S glyphs, letting users switch between sharp default forms and more traditional chamfered-corner versions."
+  },
+  {
+    "name": "Poster Compressed",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/poster-compressed",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "compressed display",
+    "classification_notes": "A super-condensed display face built explicitly for large-scale editorial and poster headlines, with tight kerning and a single weight optimised for impact at scale.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Poster Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "compressed",
+      "display",
+      "editorial",
+      "poster",
+      "headline",
+      "condensed",
+      "bold"
+    ],
+    "summary": "A single-weight compressed display face from Arkitype, built for large headlines and poster work with extremely tight spacing.",
+    "description": "Designed with a super-compressed character set and tight kerning throughout, it suits editorial layouts and typographic posters where vertical scale matters. The family offers Regular and Italic cuts, with OpenType stylistic alternates for R and r. Latin coverage includes Extended-A characters for broad European language support.",
+    "foundry_blurb": "Arkitype describe Poster Compressed as a display font made specifically for editorial and posters, featuring a super compressed character set and super tight kerning, giving designers the ability to create large headlines and copy for bold typographic posters and editorial pieces."
+  },
+  {
+    "name": "Technol",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/technol",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The page content and glyph set suggest a straightforward Latin grotesque with a single Regular weight; no italic or condensed variants are indicated.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Technol"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "single-weight",
+      "minimal",
+      "latin",
+      "display",
+      "neutral"
+    ],
+    "summary": "A single-weight grotesque from Arkitype with a clean Latin glyph set and no stylistic variants.",
+    "description": "Technol is a Regular-only grotesque offering basic Latin coverage alongside standard punctuation, mathematical operators and geometric shapes. With no italic, condensed or additional weight options visible, it sits as a stripped-back display or text companion for projects that need a dependable, unfussy sans. The limited variant count keeps it niche, best suited to contexts where one weight is enough.",
+    "foundry_blurb": "Arkitype offer Technol as a single-style grotesque typeface available to purchase directly from their site."
+  },
+  {
+    "name": "ActionType",
+    "foundry": "Arkitype",
+    "url": "https://www.arkitype.co/shop",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Described as 'New' and positioned within a practice focused on sport, tech, beverage and music branding, suggesting a bold display-oriented sans intended for identity and campaign work.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "ActionType"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "identity",
+      "sport",
+      "branding",
+      "bold",
+      "bespoke"
+    ],
+    "summary": "A newly released display typeface from Arkitype, an independent studio specialising in bold visual identities across sport, tech and music.",
+    "description": "ActionType is the latest release from Arkitype, a design practice known for bespoke typefaces built around brand identity work. The studio's focus on sport, tech, beverage and music suggests a typeface aimed at high-energy, expressive applications. Limited information is currently available, as the release is newly announced.",
+    "foundry_blurb": "Arkitype is an independent design practice that crafts bold, distinctive visual identities across sport, tech, beverage and music, working with brands and agencies to produce thoughtful design systems and bespoke typefaces."
+  }
+]

@@ -18,7 +18,7 @@ export function TypefaceCard({ typeface, priority }: { typeface: DirectoryEntry;
         className="block transition-colors hover:bg-muted/50"
       >
         {specimen && (
-          <div className="relative aspect-[16/10] w-full overflow-hidden rounded-b-[12px] border-b-[0.5px] border-border bg-muted">
+          <div className={`relative aspect-[16/10] w-full overflow-hidden rounded-b-[12px] border-b-[0.5px] border-border ${typeface.foundrySlug === "catalogue" ? "bg-black" : "bg-muted"}`}>
             <Image
               src={`/specimens/${typeface.foundrySlug}/${typeface.slug}.webp`}
               alt={`${typeface.name} specimen from ${typeface.foundry}`}

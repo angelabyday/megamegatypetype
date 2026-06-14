@@ -1,0 +1,1293 @@
+[
+  {
+    "name": "Albaro",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/albaro",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "calligraphic serif",
+    "classification_notes": "Albaro derives its forms directly from a broad-nib pen, giving it a calligraphic warmth with visible stroke contrast. It falls within the humanist or calligraphic serif tradition, differentiated by its two optical versions for display and text use.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "Albaro Display",
+      "Albaro Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "calligraphic",
+      "humanist-serif",
+      "display",
+      "editorial",
+      "text",
+      "variable",
+      "pen-drawn",
+      "contrast"
+    ],
+    "summary": "A broad-nib-derived serif from Luzi Type, offered in separate Display and Text versions with a variable axis spanning Light to Black.",
+    "description": "Grounded in broad-nib pen exploration, Albaro carries the rhythm and stroke contrast of calligraphic writing into a well-structured type family. The Display version splits into Normal and Tall x-height variants for expressive headline work, while the Text version softens contrast and opens spacing to hold legibility at smaller sizes. Both subfamilies are available as variable fonts, with the Display version carrying an additional axis for the Normal-to-Tall x-height range.",
+    "foundry_blurb": "Luzi Type describe Albaro as an elegant serif typeface born from detailed exploration with a broad-nib pen, which defines its style and gives its forms warmth and elegance. The family comes in Display and Text versions: Display offers Normal and Tall styles, the latter with a larger x-height for expressiveness, while Text reduces stroke contrast and increases letterspacing to improve legibility at smaller sizes."
+  },
+  {
+    "name": "Beirut",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/beirut",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "calligraphic serif",
+    "classification_notes": "Beirut is described as based on a calligraphic principle with strong shapes and contrasting stroke elements, placing it in the calligraphic or pen-derived serif tradition rather than a classical or transitional model.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "Beirut Display",
+      "Beirut Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "calligraphic",
+      "serif",
+      "display",
+      "text",
+      "variable",
+      "editorial",
+      "contrast",
+      "swiss"
+    ],
+    "summary": "A calligraphically inspired serif family from Luzi Type, split into Display and Text subfamilies across six weights with variable font support.",
+    "description": "Drawing on a calligraphic principle, Beirut pairs strong stroke contrast with distinctive letterforms suited to both large titles and continuous reading. The family divides cleanly between a Display cut for bold headlines and a Text cut optimised for smaller sizes, each running from Light to Black with matching italics. Variable font versions are included in the family package, covering a Light to Black axis for both desktop and web deployment.",
+    "foundry_blurb": "Luzi Type describe Beirut as characterised by strong shapes and contrasting elements, based on an innovative calligraphic principle. The family comprises a Display version for bold titles and a Text version for comfortable reading at smaller sizes, available in individual weights and as a variable font with a Light to Black axis."
+  },
+  {
+    "name": "Buenos Aires",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/buenosaires",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Explicitly inspired by Avenir and Futura, Buenos Aires follows a geometric construction with circular forms and a rational structure, softened by humanist details such as swash terminals on the lowercase a and l.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Buenos Aires"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "friendly",
+      "futura-lineage",
+      "variable",
+      "body-text",
+      "headings",
+      "warmth",
+      "swiss"
+    ],
+    "summary": "A geometric sans inspired by Futura and Avenir, with swash details on the lowercase a and l that temper its structural rigidity.",
+    "description": "Built on a geometric skeleton drawn from Futura and Avenir, Buenos Aires introduces a distinct warmth through swash terminals on the lowercase a and l, and an idiosyncratic lowercase y. Open counters keep it legible at small sizes, while the range of seven weights from Thin to Black with matching italics makes it workable across body text and display settings. The family ships in static OTF and variable TTF formats, with the weight axis spanning the full Thin to Black range.",
+    "foundry_blurb": "Luzi Type describe Buenos Aires as a typeface inspired by Avenir and Futura, featuring a friendly geometric structure with playful details. Open shapes give it a clear appearance suited to both body text and headings, while swashes on the lowercase a and l, along with a distinctive lowercase y, soften the geometry. Alternate forms for the a and l add further flexibility. The family is available in individual weights and as a variable font with a Thin to Black axis."
+  },
+  {
+    "name": "Cádiz",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/cadiz",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Derived from a film-setting serif used in Du magazine circa 1960, exhibiting the space-economy and refined detail typical of mid-century transitional serifs with early 20th-century typographic influences.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cádiz"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "transitional",
+      "magazine",
+      "elegant",
+      "variable",
+      "mid-century",
+      "editorial",
+      "space-saving"
+    ],
+    "summary": "A revival of a film-setting serif from the 1960s Swiss magazine Du, refined into a six-weight family with italics and a variable font axis.",
+    "description": "Drawn from a phototypesetting typeface used in Du magazine from 1960, Cádiz carries the compact proportions and restrained elegance characteristic of that era. Six weights run from Light to Black, each with a matching italic, and the family is also available as a variable font with a continuous Light-to-Black axis. OpenType features include contextual alternates, tabular figures, fractions and superscripts, with Latin Extended-A coverage across a broad range of European languages.",
+    "foundry_blurb": "Luzi Type describe Cádiz as derived from a film-setting font used in Du magazine from 1960, calling it an elegant and space-saving typeface that incorporates unique features of early 20th-century typography, capturing the classic charm and style of that period with careful attention to detail. The family is available in individual weights and as a variable font with a Light to Black axis."
+  },
+  {
+    "name": "Escalles",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/escalles",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "neoclassical serif",
+    "classification_notes": "Luzi Type describes Escalles as a contemporary neoclassical serif with high contrast, vertical stress and thin flat serifs, drawing directly from Firmin Didot and Walbaum — hallmarks of the Didone subcategory, here called neoclassical.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Poster",
+      "Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "Escalles Poster",
+      "Escalles Display",
+      "Escalles Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neoclassical",
+      "didone",
+      "high-contrast",
+      "french",
+      "editorial",
+      "optical-sizes",
+      "variable"
+    ],
+    "summary": "A high-contrast neoclassical serif with Didot and Walbaum influences, offered in three optical sizes for titles, leads and extended text.",
+    "description": "Built on strong verticals, thin flat serifs and high stroke contrast, Escalles takes its letterforms from Firmin Didot and its proportions from Walbaum, then tempers the coldness typical of that lineage with rounded terminals and slightly stressed counters. Three optical subfamilies — Poster, Display and Text — each tune contrast and detail for their intended setting, from large display work down to body copy. The family ships in six weights with matching italics, and both upright and italic are available as variable fonts spanning Light to Black.",
+    "foundry_blurb": "Luzi Type describe Escalles as a contemporary neoclassical serif built on a principle of reduction, with letterforms referencing Firmin Didot and proportions drawn from Walbaum. They note it balances softer curves with strong verticals, avoiding coldness through rounded terminals and carefully stressed counters. Escalles Poster is designed for large titles, Display for leads and Text for extended reading, positioning the family as a clear serif voice against today's monolinear Grotesk palettes."
+  },
+  {
+    "name": "Faro",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/faro",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Faro is a geometric sans-serif with a distinctive expressive axis running between two emotional states, Lucky and Sad, built on clean, constructed letterforms across a range of weights.",
+    "weights": [
+      "Light",
+      "Regular",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Faro",
+      "Faro Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "expressive",
+      "variable",
+      "display",
+      "branding",
+      "playful",
+      "mood",
+      "identity"
+    ],
+    "summary": "A geometric sans-serif with a variable emotional axis that shifts letterforms between a cheerful 'Lucky' and a downcast 'Sad' state.",
+    "description": "Faro is built around a concept of typographic mood: its variable font includes both a weight axis from Light to Bold and a second axis that morphs the letterforms between Lucky and Sad expressions. Faro Display is offered as a separate variable font with the same emotional axis, suited to headline use. The family covers a broad Latin character set and has been used in brand identity work for Blasercafé and the Hackney Forest School, among others.",
+    "foundry_blurb": "Luzi Type describe Faro as a typeface that can smile or be sad, giving every word its own personality through the Lucky and Sad design states. Available as static fonts in individual weights and as variable fonts with both a weight axis and a mood axis, with Faro Display offered as a standalone variable font."
+  },
+  {
+    "name": "First Aid Kit",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/first-aid-kit",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "A collection of 13 standalone mini typefaces, each with distinct letterform character, designed primarily for expressive branding and poster work rather than text setting. The eclectic, standalone-weight structure places it firmly in the display category.",
+    "weights": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "First Aid Kit"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "experimental",
+      "branding",
+      "poster",
+      "expressive",
+      "multi-style",
+      "collection"
+    ],
+    "summary": "Thirteen standalone mini typefaces packaged as a single family, each weight carrying its own distinct letterform personality rather than forming a coherent weight progression.",
+    "description": "Rather than a conventional weight range, First Aid Kit offers 13 discrete styles labelled A through M, each conceived as an independent mini typeface. The approach grew out of the designer's interest in exploring individual ideas to completion without the constraint of interpolating cleanly between Thin and Black. The result suits branding and poster work where variety and character take priority over systematic consistency.",
+    "foundry_blurb": "Luzi Type describe First Aid Kit as a typographic toolkit offering designers a range of letter forms, with each font weight standing alone as a mini typeface full of character. They position it as an excellent starting point for branding or expressive poster design, and frame it as a personal exploration born of a desire to develop favourite weights without the obligations of a large typographic system. They call it a tutti-frutti of 13 font weights."
+  },
+  {
+    "name": "Isola",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/isola",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Isola is a remake of Venus Grotesk, a classic early 20th-century hot-metal grotesque, featuring the characteristic monoline strokes, high-waisted capitals and angled terminals associated with Jugendstil-era grotesque design.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Isola",
+      "Isola SemiMono",
+      "Isola Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "venus-grotesk",
+      "jugendstil",
+      "monoline",
+      "backslanted",
+      "variable",
+      "warm",
+      "historical-revival"
+    ],
+    "summary": "A careful remake of Venus Grotesk, the early 20th-century hot-metal grotesque, with Jugendstil-inflected proportions, angled stroke terminals and a full suite of upright, slanted and backslanted styles.",
+    "description": "Drawn in the tradition of Venus Grotesk, Isola inherits its predecessor's high-waisted capitals and monoline construction while introducing deliberate irregularities that give the face warmth and rhythm. The family spans six weights from Light to Black across three subfamilies: the full Isola with backslanted, upright and slanted cuts; Isola SemiMono; and Isola Mono, making it unusually versatile for coding, editorial and display work. A variable font is included, with axes running from Light to Black and from Backslanted to Slanted.",
+    "foundry_blurb": "Luzi Type describe Isola as a precisely crafted remake of the legendary hot-metal typeface Venus Grotesk, inspired by Jugendstil graphic design and early 20th-century grotesque proportions. They highlight its high-waisted capitals, angled stroke terminals and deliberate irregularities as sources of warmth and personality, and note that like its model, Isola offers backslanted, upright and slanted versions alongside Mono and SemiMono variants."
+  },
+  {
+    "name": "Koper",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/koper",
+    "designer": "Diano Kitanovski",
+    "year": null,
+    "category": "serif",
+    "subcategory": "Art Nouveau serif",
+    "classification_notes": "Koper draws on the calligraphic and woodcut-inflected letterforms of Czech Art Nouveau, particularly Vojtěch Preissig, with linear stroke construction that places it in an expressive, historicist serif tradition.",
+    "weights": [
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Display"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Display"
+    ],
+    "subfamilies": [
+      "Koper"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "art-nouveau",
+      "calligraphic",
+      "woodcut",
+      "expressive",
+      "serif",
+      "variable",
+      "editorial",
+      "display"
+    ],
+    "summary": "A serif drawn from Art Nouveau calligraphy and woodcut textures, referencing the work of Czech artist Vojtěch Preissig across four weights with a variable Regular–Display axis.",
+    "description": "Built on linear strokes that echo both calligraphic hand and the rough grain of woodcut printing, Koper sits comfortably at text sizes while its particular elegance becomes legible at display scale. The family ships as static OTFs in Regular, SemiBold, Bold and Display, plus two variable fonts covering the upright and italic with a weight-and-optical-size axis. Latin Extended-A coverage supports a wide range of European languages.",
+    "foundry_blurb": "Luzi Type describe Koper as a fusion of calligraphic craft and the natural texture of woodcut work, citing the Art Nouveau output of Vojtěch Preissig as its key reference. At smaller sizes they position it as functionally flexible with a traditional character; at larger sizes they say its straightforward but striking design becomes fully apparent. The family is available as individual weights or as a variable font with a Regular–Display axis, with the full package including both upright and italic variable fonts."
+  },
+  {
+    "name": "Lynstone",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/lynstone",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Explicitly rooted in Edward Johnston's Johnston Sans tradition, Lynstone carries the open counters, calm rhythm and upright warmth associated with British humanist sans-serifs, tempered by a modernist sensibility in its proportions.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lynstone"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "british",
+      "johnston-heritage",
+      "variable",
+      "print",
+      "screen",
+      "editorial",
+      "understated"
+    ],
+    "summary": "A British humanist sans rooted in Johnston Sans, offering a calm rhythm and open counters across five weights with a companion variable font axis.",
+    "description": "Built in the tradition of Edward Johnston's Johnston Sans, Lynstone brings a measured, unhurried quality to text and display work alike. Its generous x-height and open counters suit both print and screen, while five weights from Light to Bold each carry a matching italic. The family ships as individual static fonts and as two variable fonts covering the full Light to Black axis, one upright and one italic.",
+    "foundry_blurb": "Luzi Type describe Lynstone as a typeface that reflects the heritage of Edward Johnston and his Johnston Sans, with a calm British character, smooth rhythm and open counters that read well in print and on screen. They position it as a mix of British sans-serif heritage and a modernist approach, calling it the definition of understated refinement, available in individual weights or as a variable font spanning Light to Black."
+  },
+  {
+    "name": "Messina Sans",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/messina-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Explicitly rooted in the 20th-century International Typographic Style, with clean construction and optical neutrality characteristic of neo-grotesque sans-serifs in the Swiss modernist tradition.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Messina Sans",
+      "Messina Sans Condensed",
+      "Messina Sans Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "swiss",
+      "modernist",
+      "corporate",
+      "editorial",
+      "neutral",
+      "variable"
+    ],
+    "summary": "A neo-grotesque sans in the Swiss modernist tradition, offered across three subfamilies covering normal, condensed and monospaced variants in eight weights each.",
+    "description": "Built on the conventions of the International Typographic Style, Messina Sans offers clean, evenly spaced letterforms across eight weights from Hairline to Black, each with matching italics. The family extends into Messina Sans Condensed and Messina Sans Mono, and is available as both static OTF and variable TTF files. Latin script coverage is broad, reaching most European and American languages as well as Vietnamese.",
+    "foundry_blurb": "Luzi Type describe Messina Sans as a flexible typeface based on the 20th-century International Style, whose clean lines and simple construction lend a modernist character and subtle elegance suited to timeless typographic work. The family comprises three subfamilies — Normal, Condensed and Mono — available as individual weights or as a variable font, with Latin Complete language support."
+  },
+  {
+    "name": "Messina Modern",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/messina-modern",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "modern slab serif",
+    "classification_notes": "Described by the foundry as inspired by early slab serif typography with a solid structure reminiscent of nineteenth-century modern serif typefaces; the combination of strong stroke contrast with slab serifs places it firmly in the modern slab category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Messina Modern"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "modern",
+      "variable",
+      "editorial",
+      "contemporary",
+      "text",
+      "nineteenth-century-inspired"
+    ],
+    "summary": "A modern slab serif drawing on nineteenth-century form, offering six weights with italics and a variable font axis from Thin to Bold.",
+    "description": "Part of the broader Messina family alongside a sans and a serif, Messina Modern takes its cues from early slab serif typography, pairing strong visual structure with refined stroke weight. Six weights from Thin to Bold are available as static OTF files or as two variable fonts covering the upright and italic axes. Latin Extended coverage supports a wide range of languages including Vietnamese and many African scripts.",
+    "foundry_blurb": "Luzi Type describe Messina Modern as inspired by early slab serif typography, combining timeless design elements with contemporary sensibilities. Its solid structure references nineteenth-century modern serif typefaces, and it stands out through refined stroke weight and strong visual impact. The family is available as individual weights and as a variable font with a Thin to Bold axis, with the family package including both upright and italic variable fonts."
+  },
+  {
+    "name": "Messina Serif",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/messina-serif",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "renaissance serif",
+    "classification_notes": "Inspired by French Renaissance proportions and 17th-century design traditions, Messina Serif sits within the humanist or renaissance serif category, characterised by graceful letterforms, moderate contrast and classical construction updated for contemporary use.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Messina Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "renaissance-serif",
+      "classical",
+      "contemporary",
+      "editorial",
+      "variable",
+      "humanist",
+      "text",
+      "book"
+    ],
+    "summary": "A French Renaissance-inspired serif with a complete weight range from Thin to Bold, available as static and variable fonts.",
+    "description": "Part of the broader Messina type system alongside a sans and a modern variant, Messina Serif draws on French Renaissance proportions and 17th-century letterform traditions to produce a text face suited to both editorial and longer-form setting. Twelve styles run across six weights from Thin to Bold, each with a matching italic, and the family ships as two variable fonts covering the full upright and italic axes. Language support spans Latin Complete, covering most of Europe, the Americas, Africa and Vietnamese.",
+    "foundry_blurb": "Luzi Type describe Messina Serif as taking inspiration from the elegance of French Renaissance proportions, merging the lasting beauty of 17th-century design with a careful balance suited to contemporary work. Graceful letterforms mix tradition with contemporary refinement, giving the typeface an inviting, distinctive character. It is available as individual weights and as a variable font with a Thin to Bold axis, with the family package including two variable fonts covering the upright and italic."
+  },
+  {
+    "name": "Nantes",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/nantes",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Nantes draws from Clearface, a late 19th-century typeface with strong stroke contrast and refined curves, placing it within the transitional serif tradition with display-leaning characteristics. The teardrop terminals and high contrast align it with expressive editorial serifs rather than purely utilitarian text faces.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nantes"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "high-contrast",
+      "editorial",
+      "clearface",
+      "arts-and-crafts",
+      "variable",
+      "expressive",
+      "text"
+    ],
+    "summary": "A high-contrast serif drawing on Clearface and Arts and Crafts sensibilities, distinguished by teardrop-shaped terminals in the lowercase.",
+    "description": "Available in five weights from Light to Bold, each with a matching italic, the family also ships as two variable fonts covering the full Light-to-Bold axis for both upright and italic. Teardrop terminals in the lowercase and strong stroke contrast give the design a refined, rhythmic quality suited to editorial and typographic applications. Language support spans Latin Extended-A, covering a broad range of European languages.",
+    "foundry_blurb": "Luzi Type describe Nantes as a typeface with rich, expressive character featuring teardrop-shaped terminals that add fine detail and a refined appearance. Inspired by Clearface, it honours the Arts and Crafts movement by combining curves with precise, well-defined shapes, with strong contrast and careful lines generating a rhythm that enhances the overall design."
+  },
+  {
+    "name": "Portonovo",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/portonovo",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "old-style serif",
+    "classification_notes": "Inspired by early Garamond and Caslon models via a 1690 Plantin Press source, Portonovo is firmly in the old-style serif tradition with classical proportions and humanist letterform characteristics.",
+    "weights": [
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Normal"
+    ],
+    "subfamilies": [
+      "Portonovo",
+      "Portonovo Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "old-style",
+      "garamond-inspired",
+      "book",
+      "classical",
+      "variable",
+      "editorial",
+      "text-setting",
+      "historical"
+    ],
+    "summary": "An old-style serif drawn from a 1690 Plantin Press printing, interpreting early Garamond and Caslon forms for contemporary use across two optical-size subfamilies.",
+    "description": "The design takes its cue from a historic typeface found in the Martyrologium Romanum, printed by the Plantin Press in 1690, translating that source material's classical warmth into a refined digital family. Portonovo is optimised for display and general body use, while Portonovo Text handles small sizes below 8pt. Both subfamilies span Book to Black with matching italics, and the family is also available as a variable font with separate weight and optical-size axes. OpenType features include small caps, oldstyle figures and swashes.",
+    "foundry_blurb": "Luzi Type describe Portonovo as inspired by a historic font from the Martyrologium Romanum printed by the Plantin Press in 1690, capturing the essence of early Garamond and Caslon. The design distils the character of that printed source, deliberately leaving room for interpretation, and aims to convey a streamlined manner with a classical feel evoking the golden era of book manufacturing. The family is split into Portonovo for larger settings and Portonovo Text for sizes under 8pt, and includes an extended feature set with small caps, oldstyle numbers and swashes."
+  },
+  {
+    "name": "Recife",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/recife",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Recife draws explicitly from Dutch antique models such as Plantin and Times, placing it firmly in the transitional serif tradition. The two optical size families — Text and Display — reflect a classical editorial approach to type design.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Recife Text",
+      "Recife Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "editorial",
+      "dutch-antique",
+      "optical-sizes",
+      "variable",
+      "text-serif",
+      "print"
+    ],
+    "summary": "A transitional serif with two optical size families — Text and Display — drawing on Dutch antique models such as Plantin and Times.",
+    "description": "Structured around the Dutch antique tradition, Recife introduces a distinctive detail: extra space worked into the counterspaces of letters such as a, f and s, giving it a measured openness at small sizes. The Text family prioritises clarity and sharpness for running copy, while the Display family increases contrast for expressive headline use. Both are available as variable fonts with a weight axis from Light to Black and an interpolating axis between Text and Display.",
+    "foundry_blurb": "Luzi Type describe Recife as reflecting the spirit of Dutch antique fonts such as Plantin and Times, carefully crafted for editorial use today. Its calligraphic approach integrates extra space within the counterspaces of letters like a, f and s for a distinctive aesthetic. The family offers two styles — Text for clarity at small sizes and Display for expressive, high-contrast use — blending classic forms with a contemporary sensibility."
+  },
+  {
+    "name": "Spezia",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/spezia",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Described explicitly as a neo-grotesque with a simple monoline structure and consistent character widths, hallmarks of the neo-grotesque tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Extra Condensed",
+      "Condensed",
+      "Narrow",
+      "Normal",
+      "Wide",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Spezia Compressed",
+      "Spezia Extra Condensed",
+      "Spezia Condensed",
+      "Spezia Narrow",
+      "Spezia Normal",
+      "Spezia Wide",
+      "Spezia Extended",
+      "Spezia SemiMono",
+      "Spezia Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "monoline",
+      "variable",
+      "wide-range",
+      "extended-family",
+      "system",
+      "neutral",
+      "contemporary"
+    ],
+    "summary": "A neo-grotesque sans with nine width variants and a monospaced cut, designed as part of a broader typographic system alongside Spezia Serif.",
+    "description": "With 128 font files spanning nine subfamilies from Compressed to Mono, Spezia covers an unusually wide range of widths for a single sans-serif family. Eight weights from Thin to Black run across each width, all with matching italics, and the family is available as a variable font. It pairs with Spezia Serif to form a coordinated typographic system for Latin-script projects across a wide range of languages.",
+    "foundry_blurb": "Luzi Type describe Spezia as a sans-serif designed for maximum adaptability, with a balanced, contemporary look grounded in a neo-grotesque monoline structure and consistent character widths. The nine-subfamily range, from Compressed to Extended plus SemiMono and Mono, gives 128 font files in total, and the family is intended to form a unified typographic system alongside its companion Spezia Serif."
+  },
+  {
+    "name": "Spezia Serif",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/spezia-serif",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Inspired explicitly by 18th-century transitional typefaces, Spezia Serif combines the contrast and period detail associated with the transitional model with a modernised, clean expression suited to contemporary use across multiple optical sizes.",
+    "weights": [
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "A (Display)",
+      "B (Text)",
+      "C (Text/Body)",
+      "D (Small Text)"
+    ],
+    "subfamilies": [
+      "Spezia Serif Normal",
+      "Spezia Serif Narrow",
+      "Spezia Serif Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "editorial",
+      "optical-sizes",
+      "variable",
+      "system",
+      "multi-width",
+      "text",
+      "magazine"
+    ],
+    "summary": "A transitional serif in 144 styles, spanning four optical sizes and three widths, designed to pair with its sans counterpart in a unified typographic system.",
+    "description": "Built on 18th-century transitional models, Spezia Serif is structured around four versions tuned for specific reading conditions: Version A is high-contrast for display work, while Version D opens up with a near-monolinear stroke for small text. Six weights from Book to Black, each with italics, run across Normal, Narrow and Condensed widths, and the full family is available as a variable font. It completes a typographic system alongside the Spezia sans, offering designers a coherent tool for complex, multi-scale layouts.",
+    "foundry_blurb": "Luzi Type describe Spezia Serif as a typeface designed to be as adaptable as possible, inspired by 18th-century transitional models and combining classic character with modern clarity. Its 144 fonts span styles tailored from footnotes to prominent magazine headings, with Version A offering contrast and fine detail for headlines and Version D providing open, monolinear forms for small text. The collection includes Condensed, Narrow and Normal subfamilies and is available as a variable font, pairing with the Spezia sans to form a unified typographic system."
+  },
+  {
+    "name": "Termoli",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/termoli",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "scotch serif",
+    "classification_notes": "Termoli is explicitly positioned within the Scotch type genre, drawing on Century Roman as a reference point. Its square serifs, slight contrast and drop terminals align it with 19th-century Scotch Modern revivals rather than strictly transitional or Didone styles.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Termoli"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "scotch",
+      "serif",
+      "century-roman",
+      "variable",
+      "editorial",
+      "text",
+      "warm"
+    ],
+    "summary": "A Scotch-genre serif drawing on Century Roman, with square serifs, slight contrast and drop terminals across six weights and a variable font axis.",
+    "description": "Referencing the Scotch type tradition and Century Roman in particular, Termoli takes a contemporary approach with square serifs and drop terminals that give the letterforms a warm, lively quality. Six weights run from Light to Black, each with a matching italic, and the full family is available as individual static fonts or as two variable fonts covering the upright and italic respectively on a Light-to-Black axis. Language support covers Basic Latin, Latin-1 Supplement and Latin Extended-A, spanning a broad range of European scripts.",
+    "foundry_blurb": "Luzi Type describe Termoli as a modern take on the classic Scotch type genre, paying tribute to Century Roman by Linn Boyd Benton and its 18th-century origins. The typeface features square serifs and slight contrast alongside unique drop terminals and lively characters that create a warm and inviting feel. It is available as individual weights or as a variable font with a Light to Black axis, with the family package including both upright and italic variable fonts."
+  },
+  {
+    "name": "Valizas",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/valizas",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described explicitly as a grotesque typeface evolved from the ideas behind Recife, a serif family; it exhibits a generous x-height, open counters and the rational structure typical of neo-grotesque sans-serifs.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Valizas"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "friendly",
+      "high-x-height",
+      "variable",
+      "text",
+      "latin-extended",
+      "swiss"
+    ],
+    "summary": "A grotesque sans-serif developed as a companion to Luzi Type's Recife, distinguished by generous counters and a high x-height that gives it an open, legible character.",
+    "description": "Born from the conceptual groundwork of Recife, Valizas translates those ideas into a grotesque sans with particular attention paid to counter spacing, as seen in the lowercase 'a'. The family runs across seven weights from Thin to Black, each with a matching italic, and is also available as a variable font with a continuous weight axis. Latin Extended-A coverage supports a broad range of Western European and minority Latin-script languages.",
+    "foundry_blurb": "Luzi Type describe Valizas as an evolution of the ideas behind Recife, transforming that serif's conceptual foundation into a grotesque typeface developed over several years. They highlight its lively and friendly character, generous x-height for readability, and the deliberate extra spacing in counters such as the lowercase 'a', positioning it as a complement to Recife that nonetheless stands on its own terms."
+  },
+  {
+    "name": "Valpo",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/valpo",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Valpo occupies a position between grotesque and calligraphic, with letterforms derived from Edding marker sketches that retain warmth and personality while adhering to the structural consistency of a grotesque sans.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Valpo",
+      "Valpo Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "calligraphic",
+      "warm",
+      "marker-inspired",
+      "editorial",
+      "headline",
+      "variable"
+    ],
+    "summary": "A grotesque sans drawn from Edding marker sketches that sits somewhere between rigid grid typography and calligraphic expression.",
+    "description": "Derived from sketches made with an Edding 3300 marker, Valpo blends the structural consistency expected of a grotesque with the warmth of a calligraphic hand. The family spans seven weights from Thin to Black with matching italics, and extends into a Condensed subfamily, totalling 28 styles across both widths. Available as variable fonts with a weight axis, it suits both lead text and display use.",
+    "foundry_blurb": "Luzi Type describe Valpo as an exploration of the subtle differences between calligraphy, which is flexible and expressive, and typography, which demands consistent, uniform letterforms. Based on Edding 3300 marker sketches, Valpo sits between a Grotesk and a purely calligraphic typeface, charming with its warm and unique form and lending personality to both body text and headlines."
+  },
+  {
+    "name": "Walney",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/walney",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Walney is explicitly described as sitting close to the neo-grotesque model, with oval rather than circular curves and softened details that give it a warmer, more animated rhythm than a strict neutral grotesque.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Walney"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "warmth",
+      "editorial",
+      "text",
+      "variable",
+      "tight-spacing",
+      "animated",
+      "latin"
+    ],
+    "summary": "A neo-grotesque sans with oval curves and softer proportions that give it a springy, animated quality while staying close to the neutral grotesque model.",
+    "description": "Built on neo-grotesque proportions, Walney departs from strict circular geometry in favour of oval curves and more vertically stretched, rounded letterforms, particularly in the o and n. Moderate stroke contrast adds energy, and details such as the rounded leg of the R and the shaped upper bowl of the B introduce quiet character without compromising legibility. Its tight default spacing makes it assertive at medium sizes, and a variable font covers a Light-to-Black weight axis alongside a backslanted-to-slanted axis.",
+    "foundry_blurb": "Luzi Type describe Walney as a sans serif with precise structure and a distinctive tone, close to the neo-grotesque model but enlivened by softer details. Oval curves replace strict circular geometry to create a warm, springy rhythm, while tighter spacing gives the text a dense, confident feel that suits medium sizes particularly well."
+  },
+  {
+    "name": "Yetson",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/yetson",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "renaissance serif",
+    "classification_notes": "Described as a French Renaissance Grotesque, the serif subfamily draws on Antiqua traditions with a slight axis tilt and minimal serifs; the paired sans carries calligraphic touches, making the overall family a hybrid rooted in renaissance forms viewed through a grotesque lens.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Yetson Serif",
+      "Yetson Sans",
+      "Yetson Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "renaissance",
+      "grotesque-serif",
+      "hybrid",
+      "calligraphic",
+      "paired-families",
+      "variable",
+      "multilingual",
+      "text"
+    ],
+    "summary": "A French Renaissance Grotesque family from Luzi Type pairing a low-contrast serif, a calligraphic sans, and a monospaced variant on a shared design foundation.",
+    "description": "Built around the question of how grotesque a serif can become, Yetson distils renaissance Antiqua into its essentials: a slight axis tilt and spare, decisive serifs. The sans counterpart retains subtle calligraphic qualities, visible in the lowercase 'a' and the italic cuts, and the mono extends the system into code and tabular contexts. All three subfamilies share the same structural DNA, making cross-family pairing straightforward across seven weights from Light to Black, each available as variable fonts in both upright and italic axes.",
+    "foundry_blurb": "Luzi Type describe Yetson as a French Renaissance Grotesque that blends Antiqua elegance with modernism, capturing the subtle qualities of serif letterforms through a grotesque viewpoint and emphasising integral clarity. Developed in serif, sans-serif and mono variants on a shared design foundation, the family is intended to pair seamlessly, with the serif version reducing to a slight axis tilt and minimal serifs, and the sans retaining calligraphic touches particularly in the lowercase 'a' and italics."
+  },
+  {
+    "name": "Yport",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/yport",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Explicitly described as a humanist sans-serif, combining calligraphic influence with warmth and a unique spirit. The letterforms feature calligraphic expression and alternate glyphs that reflect humanist drawing traditions.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Yport"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "calligraphic",
+      "warm",
+      "editorial",
+      "multilingual",
+      "alternates",
+      "variable"
+    ],
+    "summary": "A humanist sans-serif in six weights with calligraphic character, offering alternate glyphs for R, Z, a, g, v and w to vary typographic expression.",
+    "description": "Drawing on calligraphic traditions within the humanist sans-serif genre, Yport delivers twelve styles across six weights from Light to Black, each with a matching italic. A set of alternate glyphs for key characters including R, Z, a and g gives designers room to shift register within a single family. Language support covers Basic Latin, Latin-1 Supplement and Latin Extended-A, spanning dozens of European languages from Catalan to Turkish.",
+    "foundry_blurb": "Luzi Type describe Yport as a new take on the humanist sans-serif, combining calligraphy with a distinctive spirit and warmth. The family offers twelve complementary weights and encourages typographic exploration through alternate glyphs for characters such as R, Z, a, g, v and w."
+  },
+  {
+    "name": "Zeist",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/zeist",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Zeist is explicitly described as a geometric sans serif drawing on early 20th-century modernism, with reference points in Futura, Neuzeit Grotesk and Avenir — placing it firmly in the geometric sans tradition.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "L1",
+      "L2",
+      "N1",
+      "N2",
+      "T1",
+      "T2"
+    ],
+    "subfamilies": [
+      "Zeist L1",
+      "Zeist L2",
+      "Zeist N1",
+      "Zeist N2",
+      "Zeist T1",
+      "Zeist T2"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modernist",
+      "variable",
+      "bauhaus-lineage",
+      "minimal",
+      "constructed",
+      "1920s-inspired"
+    ],
+    "summary": "A geometric sans with variable axes for terminal angle, x-height, weight and italic slant, referencing Neuzeit Grotesk and Avenir while taking a more relaxed stance than Futura.",
+    "description": "Built on open counters and uniform strokes, Zeist offers a precise, minimal character rooted in 1920s geometric modernism. Four variable axes — terminal style, x-height, weight and italic angle — allow considerable adaptation across contexts, from fine display setting to small-size text use. Six named subfamilies (L1, L2, N1, N2, T1, T2) organise the available configurations, and the family ships as both static OTF and variable TTF formats.",
+    "foundry_blurb": "Luzi Type describe Zeist as a geometric sans serif inspired by early 20th-century modernism, paying tribute to Neuzeit Grotesk with more consistent form and respecting Avenir with a more constructed appearance. Open counters and uniform strokes give it a minimal, precise feel. Four variable axes — Terminal, x-Height, Weight and Italic — let designers adapt the typeface widely, complemented by three stylistic sets including an option to switch round dots to rectangular ones."
+  },
+  {
+    "name": "Assembly",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/assembly",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "icon font",
+    "classification_notes": "Assembly is a pictogram/symbol font rather than a text typeface, organised into five thematic categories. Its closest classification is display, as icon fonts serve a specialised graphic function rather than running text.",
+    "weights": [
+      "Human",
+      "Nature",
+      "Transit",
+      "Media",
+      "Commerce"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Assembly"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "icons",
+      "pictograms",
+      "symbols",
+      "infographics",
+      "ui",
+      "isotype",
+      "wayfinding",
+      "thematic"
+    ],
+    "summary": "A collection of 480 pictogram symbols across five thematic categories, drawing on the Isotype tradition of Otto Neurath and Gerd Arntz.",
+    "description": "Five fonts, each mapping symbols to keyboard characters, cover Human, Nature, Transit, Media and Commerce themes. The 480 icons are designed for cross-cultural legibility, taking their visual cues from the Isotype picture system. Suited to infographics, UI design and e-commerce contexts where a consistent, culturally neutral symbol set is needed.",
+    "foundry_blurb": "Luzi Type describe Assembly as a broad archive of symbols designed to represent the globalised world, covering both technical and social themes through concrete and abstract images. The 480 icons span five categories and draw inspiration from the Isotype picture system developed by Otto Neurath and Gerd Arntz, with intended applications ranging from book infographics to user interfaces and online shops."
+  },
+  {
+    "name": "Newsletter",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/newsletter",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "No typeface page was provided; the URL leads to a newsletter signup page with no typographic content to classify.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Newsletter"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "unknown"
+    ],
+    "summary": "No typeface data is available as this URL resolves to a newsletter signup page rather than a font product page.",
+    "description": "The page scraped contains only a newsletter subscription form for Luzi Type, with no typeface name, specimen, weights, or descriptive copy. No meaningful classification or description can be produced from this content. A valid typeface URL from the Luzi Type catalogue would be required to generate an accurate entry.",
+    "foundry_blurb": "Luzi Type invites visitors to subscribe to their newsletter, promising insights and new release announcements approximately three times per year."
+  },
+  {
+    "name": "Luzi Type Licence Explainer",
+    "foundry": "Luzi Type",
+    "url": "https://luzi-type.ch/licence",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "This page is a licence explainer, not a typeface product page. No specific typeface is described, so classification defaults cannot be meaningfully applied.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Luzi Type Licence Explainer"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "licence",
+      "legal",
+      "foundry",
+      "web",
+      "desktop",
+      "app"
+    ],
+    "summary": "A licence explainer page from Luzi Type outlining the terms for Desktop, Web and App font usage across their type library.",
+    "description": "This page is not a typeface product listing but a plain-language breakdown of Luzi Type's three licence types: Desktop, Web and App. Each licence is perpetual and worldwide, with no recurring fees, and covers specific use cases from print production and social media through to embedded app fonts. The page lists the full Luzi Type catalogue in the navigation, including Messina Sans, Spezia, Nantes and around two dozen others.",
+    "foundry_blurb": "Luzi Type describes their licensing approach as fair and straightforward, offering three licence kinds — Desktop, Web and App — all perpetual, worldwide and without recurring fees. They distinguish clearly between what each licence permits, from installing fonts on computers and creating print or video output, to serving web fonts by page view tier or embedding fonts in iOS and Android applications."
+  }
+]

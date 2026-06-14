@@ -52,7 +52,7 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Almarena", slug: "almarena", homepage: "https://almarenafoundry.com/", tier: "best" },
   { name: "A2-Type", slug: "a2-type", homepage: "https://a2-type.co.uk/", tier: "best" },
   { name: "Binnenland", slug: "binnenland", homepage: "https://www.binnenland.ch/", tier: "best" },
-  { name: "Catalogue (Florian Karsten)", slug: "catalogue", homepage: "https://fonts.floriankarsten.com/", tier: "best" },
+  { name: "Florian Karsten", slug: "catalogue", homepage: "https://fonts.floriankarsten.com/", tier: "best" },
   { name: "Frost", slug: "frost", homepage: "https://frostype.xyz/", tier: "best" },
   { name: "Groteskly Yours", slug: "groteskly-yours", homepage: "https://groteskly.xyz/", tier: "best" },
   { name: "General Type Studio", slug: "general-type-studio", homepage: "https://www.generaltypestudio.com/", tier: "best" },
@@ -107,6 +107,12 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Letterjuice", slug: "letterjuice", homepage: "http://letterjuice.cat/", tier: "okay" },
   { name: "SilverStag Type", slug: "silverstag-type", homepage: "https://silverstagtype.com/", tier: "okay" },
   { name: "Milieu Grotesque", slug: "milieu-grotesque", homepage: "http://www.milieugrotesque.com/", tier: "okay" },
+  // Batch 7
+  { name: "Hot Type", slug: "hot-type", homepage: "https://hottype.co/", tier: "best" },
+  { name: "Order", slug: "order", homepage: "https://order.design/", tier: "okay" },
+  { name: "Luzi Type", slug: "luzi-type", homepage: "https://www.luzi-type.ch/", tier: "best" },
+  { name: "Double Dagger", slug: "double-dagger", homepage: "https://www.doubledagger.xyz/", tier: "okay" },
+  { name: "Indian Type Foundry", slug: "indian-type-foundry", homepage: "https://www.indiantypefoundry.com/", tier: "okay" },
 ];
 
 export function getFoundryBySlug(slug: string): FoundryInfo | undefined {

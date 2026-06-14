@@ -1,0 +1,1204 @@
+[
+  {
+    "name": "TT Neoris Pro",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-neoris-pro/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Explicitly described as a neo-grotesque throughout the page, with neutral character, archetypal letterforms and upright-to-italic ratio typical of the genre. Extensive stylistic sets and Cyrillic calligraphic italic forms add depth without departing from the category.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Neoris Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Arabic",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "neutral",
+      "variable",
+      "multilingual",
+      "versatile",
+      "corporate",
+      "contemporary"
+    ],
+    "summary": "A neo-grotesque from TypeType developed over two and a half years, spanning 21 styles with extensive OpenType features and broad script coverage including Latin, Cyrillic, Greek, Arabic and Vietnamese.",
+    "description": "Built around research into what an archetypal contemporary grotesque should look like, the family runs from Hairline to Black with matching italics and a variable font package. Italic styles are drawn slightly narrower than the uprights, with an optional stylistic set of true italic Cyrillic forms honouring calligraphic tradition. Version 2.000 adds Greek, Vietnamese and an Arabic variant combining Kufi and Naskh influences with minimalist, humanist-touched terminals.",
+    "foundry_blurb": "TypeType describe TT Neoris Pro as a concise neo-grotesque for universal use, the result of two and a half years of development beginning with market research into the ideal grotesque. The goal was a font with a neutral, basic character that is nonetheless original and contemporary, capable of replacing multiple typefaces through its many stylistic sets and options. Version 2.000 extends the family with Greek, Vietnamese and an Arabic variant that blends Kufi and Naskh styles with simple, minimalist graphics and subtle humanist details."
+  },
+  {
+    "name": "TT Norms® Pro",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-norms-pro/",
+    "designer": null,
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "TypeType describe it as a geometric sans serif; its circular, optically balanced letterforms and even stroke weight are characteristic of the geometric tradition rather than humanist or grotesque approaches.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "DemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compact",
+      "Condensed",
+      "Regular",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "TT Norms Pro",
+      "TT Norms Pro Condensed",
+      "TT Norms Pro Compact",
+      "TT Norms Pro Expanded",
+      "TT Norms Pro Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Arabic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "corporate",
+      "branding",
+      "versatile",
+      "multilingual",
+      "variable",
+      "functional",
+      "neutral"
+    ],
+    "summary": "A wide-ranging geometric sans from TypeType, used in brand identities for DreamWorks, AliExpress, Crocs and CBS, with 104 styles spanning condensed, expanded and monospaced subfamilies.",
+    "description": "First released in 2017 and substantially expanded since, TT Norms Pro covers a large range of widths and weights, from Thin to Black across condensed, compact, regular and expanded cuts, plus a monospaced subfamily and two variable fonts. Arabic script support arrived in 2025, bringing the total language coverage to Latin, Cyrillic and Arabic. Twenty stylistic sets give designers access to alternate letterforms including single-storey 'a', slashed zero and circled figures.",
+    "foundry_blurb": "TypeType describe TT Norms Pro as their flagship typeface and an all-purpose geometric sans serif for refined design solutions. First released in 2017, the family has been continually developed and now comprises 104 styles, including 44 upright and 44 italic fonts, two variable fonts, and subfamilies for condensed, compact, expanded and monospaced settings. Arabic script support was added in 2025."
+  },
+  {
+    "name": "TT Commons™ Pro",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-commons-pro/",
+    "designer": null,
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Explicitly described as a geometric sans serif by the foundry. The forms are clean and circular with optional stylistic alternates including single-storey 'a' and bowl-shaped 'y', consistent with geometric sans conventions.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compact",
+      "Condensed",
+      "Regular",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "TT Commons Pro",
+      "TT Commons Pro Compact",
+      "TT Commons Pro Condensed",
+      "TT Commons Pro Expanded",
+      "TT Commons Pro Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Arabic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "workhorse",
+      "ui",
+      "branding",
+      "multilingual",
+      "variable",
+      "corporate"
+    ],
+    "summary": "A large geometric sans serif from TypeType, grown over seven years from an internal tool into a 104-style family covering Latin, Cyrillic and Arabic scripts.",
+    "description": "Originally drawn in 2017 to meet TypeType's own production needs, TT Commons Pro has expanded steadily into a family of five subfamilies — standard, compact, condensed, expanded and mono — with 102 static styles and two variable fonts. Extensive OpenType features include small caps, old-style figures, stylistic alternates for single-storey 'a', alternative 'l' and 'y', plus localisations for Bashkir, Chuvash, Serbian and other scripts. It has seen use in brand identities ranging from Domino's Pizza and Uniqlo to real estate and solar energy companies.",
+    "foundry_blurb": "TypeType describe TT Commons Pro as a versatile geometric sans serif and one of their most popular releases, adaptable to virtually any design challenge. Starting from two trial styles in 2017, the family grew through seven years of redraws, new subfamilies and expanded language support, with Arabic script added in 2025. The foundry note its use by tech startups, fashion brands, charitable foundations and food producers, and highlight its suitability for interfaces, packaging and brand books alike."
+  },
+  {
+    "name": "TT Hoves Pro",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-hoves-pro/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described by TypeType as a Scandinavian geometric sans, the name itself derives from 'horizontals + verticals', pointing to its construction logic. The forms are geometric but moderated, sitting between strict neutrality and mild personality.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Compact",
+      "Condensed",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "TT Hoves Pro",
+      "TT Hoves Pro Condensed",
+      "TT Hoves Pro Compact",
+      "TT Hoves Pro Expanded",
+      "TT Hoves Pro Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "scandinavian",
+      "corporate",
+      "neutral",
+      "multi-width",
+      "variable",
+      "extended-latin",
+      "cyrillic"
+    ],
+    "summary": "A Scandinavian geometric sans in 96 styles spanning multiple widths, a mono variant and variable fonts, aimed at corporate and technical applications.",
+    "description": "Built around horizontal and vertical construction logic, TT Hoves Pro sits between strict neutrality and mild character, making it practical for branding, UI and editorial contexts. The family covers Compact, Condensed, standard and Expanded widths alongside a monospaced package, with Latin and Cyrillic script support and a substantial set of OpenType features including small caps, old-style figures and multiple stylistic alternates. Real-world adoption by clients including PayByPhone, Branch.io and Telefónica illustrates its positioning as a dependable corporate workhorse.",
+    "foundry_blurb": "TypeType describe TT Hoves Pro as a Scandinavian sans serif that balances neutrality with character, combining utility, style and aesthetic refinement for diverse applications. The name is drawn from an abbreviated combination of 'horizontals' and 'verticals', reflecting the typeface's geometric construction principles. They position it as suited to architecture, design, industry, science, high tech and research contexts."
+  },
+  {
+    "name": "TT Norms® Pro Serif",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-norms-pro-serif/",
+    "designer": "Marina Khodak, Ksenia Karataeva, Antonina Samokhina, Yuriy Nakonechny",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Low stroke contrast, slanted oval axis and open aperture place this in a transitional zone, though the brutal serifs and geometric proportions tie it closely to the sans-serif TT Norms Pro from which it was derived.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "DemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Heavy",
+      "ExtraBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Norms Pro Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic Extended",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "neutral",
+      "pairing",
+      "variable",
+      "corporate",
+      "editorial",
+      "publishing",
+      "text"
+    ],
+    "summary": "A low-contrast serif developed as a companion to the bestselling TT Norms Pro sans, sharing its proportional logic and open aperture across 24 styles.",
+    "description": "Drawn over a full year with the explicit aim of pairing with TT Norms Pro, the family carries recognisable traits from the sans: dynamic widths, slanted oval axis and low stroke contrast. True italics rather than mere obliques were designed separately, with lowercase letterforms shifting toward handwritten shapes to mark emphasis without disrupting reading flow. The 1380-glyph character set covers 235 or more languages, with variable fonts available for both roman and italic axes.",
+    "foundry_blurb": "TypeType describe TT Norms Pro Serif as a self-sufficient, elegant yet neutral serif built directly on the proportional DNA of TT Norms Pro. They highlight its brutal serifs that adjust in length by weight, true italics with rounded lowercase forms, and broad usability across websites, printed materials and packaging. The 2023 update extended the character set from 1236 to 1380 glyphs and added Bulgarian and Serbian localisations."
+  },
+  {
+    "name": "TT Livret",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-livret/",
+    "designer": "Yulia Gonina, Anna Tikhonova, Yuriy Nakonechny, Ivan Gladkikh",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "A high-contrast modern serif with optical size subfamilies; the display cuts favour tight spacing and near-circular rounds while the text cuts use open apertures and static proportions, placing it broadly in the transitional-to-modern serif range.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "DemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Subhead",
+      "Display"
+    ],
+    "subfamilies": [
+      "TT Livret Text",
+      "TT Livret Subhead",
+      "TT Livret Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "display",
+      "text",
+      "optical-sizes",
+      "cyrillic",
+      "magazine",
+      "modern-serif"
+    ],
+    "summary": "A 32-style serif family from TypeType with three optical subfamilies covering text, subheading and display work, released in 2022.",
+    "description": "The family splits into Text, Subhead and Display subfamilies, each tuned for its intended size range: the Text cuts use open apertures, loose spacing and oval rounds for calm readability, while the Display cuts close the apertures, tighten the spacing and push rounds toward perfect circles for expressive impact. Thirty styles plus two variable fonts cover Light through Black with matching italics, and each style contains 1031 glyphs with 26 OpenType features including oldstyle figures, small caps and extensive Cyrillic alternates. Suited to books, magazines, posters and brand identity work requiring a single family to span both body copy and headlines.",
+    "foundry_blurb": "TypeType describe TT Livret as an elegant, modern and functional serif designed to challenge the perception that serifs carry an unavoidable historical character. The family consists of 32 styles across Text, Subhead and Display subfamilies, with the Text offering static proportions and calm readability and the Display offering dynamic proportions and expressive contrast. It supports over 200 languages and includes 26 OpenType features."
+  },
+  {
+    "name": "TT Dott",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-dott/",
+    "designer": "Kseniya Karataeva, Antonina Zhulkova, Ivan Gladkikh",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "pixel display",
+    "classification_notes": "A display typeface built on circular pixels rather than square ones, creating a fluid, organic rhythm distinctly at odds with conventional pixel typography. Its experimental, decorative character places it firmly in the display category.",
+    "weights": [
+      "Solid",
+      "Outline"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Dott"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Extended Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "pixel",
+      "display",
+      "experimental",
+      "decorative",
+      "organic",
+      "techno",
+      "circular",
+      "outline"
+    ],
+    "summary": "A pixel grotesque that replaces the conventional square pixel with a circle, producing a warm, embroidery-like rhythm suited to festival, branding and packaging work at large sizes.",
+    "description": "Developed within TypeType's Creative Lab, TT Dott mixes upright and slanted glyphs to introduce a sense of movement and irregularity that pushes it away from the cold, mechanical associations of most pixel fonts. Two styles, Solid and Outline, can be used independently or layered, and a Static stylistic set offers calmer, upright alternatives to the default dynamic characters. Each style carries 605 glyphs, coverage for over 120 languages, and a set of thematic icons.",
+    "foundry_blurb": "TypeType describe TT Dott as an experimental display pixel grotesque created in their Creative Lab, born from the idea of substituting a circle for the square as the base pixel unit. They wanted to move away from static, mechanistic pixel typography and create something fluid, alive, and rhythmic, mixing slanted and upright glyphs across two styles, Solid and Outline, each with 605 glyphs and support for over 120 languages."
+  },
+  {
+    "name": "TT Supermolot Neue",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-supermolot-neue/",
+    "designer": null,
+    "year": 2013,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A modular geometric sans with squared, angular forms and cut corners giving it a distinctly technical and futuristic character, placing it firmly in the geometric sans category with a display-leaning sensibility.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Regular",
+      "Expanded",
+      "Extended"
+    ],
+    "subfamilies": [
+      "TT Supermolot Neue",
+      "TT Supermolot Neue Condensed",
+      "TT Supermolot Neue Expanded",
+      "TT Supermolot Neue Extended",
+      "TT Supermolot Neue Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "futuristic",
+      "modular",
+      "gaming",
+      "tech",
+      "squared",
+      "variable",
+      "ui"
+    ],
+    "summary": "A modular geometric sans with squared forms and cut corners, built for video game interfaces and tech branding across 91 styles.",
+    "description": "Originally developed in 2013 from the free Molot typeface, TT Supermolot Neue has been expanded repeatedly into a 91-style family spanning five widths from Compressed to Extended, each with nine weights and italics. Its squared ovals, deliberate corner cuts and stepped junctions give it a mechanical character that reads well in gaming UI, automotive branding and high-tech identities. A variable font package is available alongside the full static collection, with OpenType features including circled figures, oldstyle numerals and localisation sets for Serbian, Bashkir and Chuvash.",
+    "foundry_blurb": "TypeType describe TT Supermolot Neue as an advanced modular sans serif with a futuristic mood, noting its squared shapes lend a sense of brutality while cut corners make it plastic and ergonomic. First released in 2013 using the classic free Molot typeface as a reference, the family has been updated repeatedly over a decade and is particularly popular in the gaming industry for interface design. The latest version adds a Compressed subfamily and expanded Cyrillic-based language support."
+  },
+  {
+    "name": "TT Rationalist",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-rationalist/",
+    "designer": "Marina Khodak, Pavel Eliseev, Stanislav Tikhonov, Roman Avdushkin",
+    "year": 2021,
+    "category": "slab",
+    "subcategory": "geometric slab",
+    "classification_notes": "A slab serif with low contrast and trapezoidal rather than rectangular serifs, giving it a contemporary geometric character that distances it from historical slab traditions.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Rationalist"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "contemporary",
+      "geometric",
+      "text",
+      "headline",
+      "variable",
+      "cyrillic",
+      "multilingual"
+    ],
+    "summary": "A contemporary slab serif from TypeType with trapezoidal serifs and low contrast, designed to work across both headline and running text.",
+    "description": "Released in 2021 and substantially updated in 2026, TT Rationalist distinguishes itself from conventional slabs through trapezoidal rather than rectangular serifs and a deliberately low contrast that avoids period associations. The Black weight was carefully balanced to shed any Wild West retro character, making it serviceable for posters without feeling historical. The family spans 22 styles including two variable fonts, covers over 235 languages across Latin and Cyrillic, and offers 31 OpenType features including small caps and oldstyle figures.",
+    "foundry_blurb": "TypeType describe TT Rationalist as a functional and original slab serif that deliberately avoids the excessive historicism common to the genre. Version 1.100 brings redrawn proportions, softer text texture, more rounded italic forms, and expanded language support to over 235 languages, with the Black weight positioned as ideal for headlines and posters."
+  },
+  {
+    "name": "TT Commons™ Classic",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-commons/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Geometric forms, minimal stroke contrast and a closed aperture place this firmly in the geometric sans tradition, designed for neutral, universal application across text and display sizes.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "DemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Commons™ Classic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "corporate",
+      "neutral",
+      "universal",
+      "multilingual",
+      "variable",
+      "text",
+      "branding"
+    ],
+    "summary": "Originally TypeType's internal corporate font, this geometric sans has grown into a 21-style commercial family with broad Cyrillic and Latin coverage and extensive OpenType features.",
+    "description": "Minimal stroke contrast, a closed aperture and averaged letter construction make it well-suited to long text settings, while the individually tuned glyphs hold up at display sizes. The family ships with a variable font and includes stylistic alternates for single-storey 'a', alternative 'l', bowl-shaped 'y' and localisation sets for Serbian, Bashkir and Chuvash. It has found wide adoption in SaaS, logistics and education branding, most notably as the basis for Pluralsight's custom typeface.",
+    "foundry_blurb": "TypeType describe TT Commons™ Classic as a universal sans serif for everyday tasks, originally created as the studio's own corporate font before being released commercially. The name comes from the word 'common', reflecting its intended universality, and version 2.200 adds new glyphs, features and language support across more than 260 languages."
+  },
+  {
+    "name": "TT Runs",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-runs/",
+    "designer": "Marina Khodak, Antonina Zhulkova, Anastasia Pogorelova, Lada Sobchenko",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "wide display sans",
+    "classification_notes": "Described by the foundry as a wide display sans serif with inverse stroke contrast relative to the vertical axis, creating unconventional proportions suited to sports branding rather than general text use.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Runs"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese",
+      "Extended Latin",
+      "Extended Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sports",
+      "wide",
+      "display",
+      "inverse-contrast",
+      "branding",
+      "variable",
+      "cyrillic",
+      "dynamic"
+    ],
+    "summary": "A wide display sans with deliberately inverted stroke contrast, designed around research into Olympic venue identities and sports branding.",
+    "description": "The typeface uses unusually wide proportions and a contrast that reverses the classical axis, most visible in uppercase and Cyrillic characters such as K, R and Ж, giving letterforms an energetic, unfamiliar quality. Nineteen styles span nine upright weights, nine italics and a variable font with weight and slant axes, with 1,160 glyphs per style covering over 245 languages. Though purpose-built for sportswear and athletic identity, the proportions work equally well in editorial display contexts requiring strong visual accent.",
+    "foundry_blurb": "TypeType describe TT Runs as a wide display sans serif built specifically for the sports industry, developed after detailed research into Olympic venue identities and current sports brands. Version 3.000 adds Greek and Vietnamese support, minuscule currency symbols, and expands the glyph count to 1,160 per style, with a variable font spanning weight and slant axes."
+  },
+  {
+    "name": "TT Bluescreens Pro",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-bluescreens/",
+    "designer": "Marina Khodak, Antonina Zhulkova, Anastasia Pogorelova, Ksenia Karataeva",
+    "year": 2015,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A modular neo-grotesque with no stroke contrast and geometric, modular construction. The family spans extreme width variants from condensed to extended, originally designed for narrow display use in film contexts.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "DemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Normal",
+      "Expanded",
+      "Extended"
+    ],
+    "subfamilies": [
+      "TT Bluescreens Pro",
+      "TT Bluescreens Pro Condensed",
+      "TT Bluescreens Pro Normal",
+      "TT Bluescreens Pro Expanded",
+      "TT Bluescreens Pro Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "display",
+      "modular",
+      "film",
+      "variable",
+      "wide",
+      "narrow",
+      "multi-width"
+    ],
+    "summary": "Originally designed for film posters and credits in 2015, this modular neo-grotesque now spans five width subfamilies from condensed to extended across 91 styles.",
+    "description": "Created by the TypeType team for movie poster and credits work, TT Bluescreens Pro has grown from a narrow display sans into a full-width system covering Condensed, Normal, Expanded and Extended subfamilies alongside the base family. The fourth version, released in early 2026, unifies all five widths into a single variable font with axes for weight, width and slant, and covers over 240 languages across Latin and Cyrillic. With 877 glyphs per style and 30 OpenType features including stylistic sets and localisation support, it suits branding, packaging, posters and event materials.",
+    "foundry_blurb": "TypeType describe TT Bluescreens Pro as a modular sans serif with a distinctive character, originally built for film posters and credits in 2015. The fourth version, released in January 2026, adds three new subfamilies — Normal, Expanded and Extended — bringing the total to 91 styles united by a variable font. They note the wide range of widths offers virtually unlimited design possibilities, and cite use cases including branding, packaging, cover design, posters and film credits."
+  },
+  {
+    "name": "TT Bells",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-bells/",
+    "designer": "Marina Khodak, Nadyr Rakhimov, Ivan Gladkikh",
+    "year": 2016,
+    "category": "serif",
+    "subcategory": "old-style serif",
+    "classification_notes": "TT Bells draws on broad-nib old-style conventions with wedge serifs and straight stroke terminals, overlaid with sharp geometric touches that place it firmly in the old-style serif tradition with a contemporary edge.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Bells"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "oldstyle",
+      "serif",
+      "geometric",
+      "editorial",
+      "multilingual",
+      "text",
+      "display",
+      "antiqua"
+    ],
+    "summary": "An old-style serif from TypeType that grafts sharp geometric terminals onto a broad-nib structure, intended for both display and continuous text.",
+    "description": "Built on broad-nib conventions associated with pre-digital old-style typefaces, TT Bells introduces straight stroke terminals and wedge serifs alongside clean geometric details. The family spans 14 styles including upright and italic variable fonts, covering 195 languages with 691 glyphs per style and 22 OpenType features. At smaller sizes the sharpness recedes and the face reads more classically, making it genuinely functional at both ends of the size range.",
+    "foundry_blurb": "TypeType describe TT Bells as a serif where elegant softness meets a complex, daring character, achieved through straight stroke terminals and wedge serifs drawn from the old-style tradition. Version 3.000, released January 2026, added variable font styles, extended the character set to 691 glyphs per style, expanded language support to 195 languages, and fully reworked hinting and kerning."
+  },
+  {
+    "name": "TT Severs",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-severs/",
+    "designer": "Marina Khodak, Antonina Samokhina, Ravid Balaliev, Lada Sobchenko",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described by the foundry variously as geometric and humanist sans serif; the counters are defined by Arabic calligraphy-inspired bracket junctions, placing it firmly in the geometric sans category with humanist detailing at the joins.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Severs"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grotesque",
+      "arabic-inspired",
+      "display",
+      "text",
+      "cyrillic",
+      "variable",
+      "multilingual"
+    ],
+    "summary": "A geometric sans with Arabic calligraphy-inspired counter junctions that functions credibly at both display and text sizes across 19 styles.",
+    "description": "The defining feature is the internal bracket shape at the junction of ovals, drawn from traditional Arabic writing, which gives counters an unusually soft and distinctive profile at large sizes. Low stroke contrast and a carefully balanced black-and-white ratio allow those details to recede at small sizes, keeping the font readable in running text. The 2025 update expanded OpenType features to 27, added a variable font with weight and slant axes, and extended language support to over 180 languages across Latin and Cyrillic scripts.",
+    "foundry_blurb": "TypeType describe TT Severs as a two-in-one typeface: expressive and characterful at display sizes, yet legible enough for running text thanks to moderate stroke contrast and calibrated black-and-white balance. The counters reference traditional Arabic calligraphy. Version 2.000, updated December 2025, adds a variable font, new stylistic sets, 720 glyphs per style, 27 OpenType features, and support for over 180 languages."
+  },
+  {
+    "name": "TT Turns",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-turns/",
+    "designer": "Pavel Emelyanov, Yulia Gonina, Anna Tikhonova, Yuriy Nakonechny",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Built on strictly balanced geometric proportions with humanist inflections, particularly in the Cyrillic letterforms and terminal details. TypeType describe it as a synthesis of geometric and humanist styles.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Turns"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "humanist-inflected",
+      "universal",
+      "text",
+      "display",
+      "cyrillic",
+      "variable",
+      "opentype"
+    ],
+    "summary": "A geometric sans with subtle humanist touches across 19 styles, designed to work from running text to display sizes without switching families.",
+    "description": "Structured around balanced geometric proportions, TT Turns introduces expressive details — sharp terminals on 'S', 'C' and 'a', a pronounced leg on 'R', and broad-nib pen forms in the Cyrillic 'Дд' and 'Лл' — that give the family a slight display quality at larger sizes. Six stylistic sets allow alternates for 'a', 'g', 'G', 'K', 'Q' and 'y', shifting the typographic tone from neutral to characterful. Coverage extends to over 230 languages across Latin and Cyrillic, with a variable font spanning weight and slant axes.",
+    "foundry_blurb": "TypeType describe TT Turns as a new universal typeface calibrated for virtually any field, from running text and web use to branding and packaging. They frame it as a fresh take on the symbiosis of geometric and humanist styles, built on strictly balanced proportions with a deliberate 5% touch of expressive character introduced through distinctive terminals, Cyrillic letterform details and six stylistic sets."
+  },
+  {
+    "name": "TT Jenevers",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-jenevers/",
+    "designer": "Antonina Zhulkova, Marina Khodak, Vika Usmanova, Ivan Gladkikh",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "dutch modern serif",
+    "classification_notes": "A Dutch modern serif with asymmetrical serifs and irregular oval stress, designed primarily for display use but with proportions that allow text setting. The foundry explicitly classifies it as a display typeface.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Jenevers"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "dutch",
+      "serif",
+      "display",
+      "contrast",
+      "cyrillic",
+      "opentype",
+      "variable",
+      "editorial"
+    ],
+    "summary": "A Dutch-influenced display serif from TypeType with asymmetrical serifs, irregular oval stress and broad Latin and Cyrillic coverage across 14 styles.",
+    "description": "Released in 2018 and substantially updated in 2025, the family draws on the Dutch modern serif tradition, with serifs that are asymmetrical in cut and ovals that carry stress inconsistently between letters — absent in 'o', present in 'p' and 'q'. Fourteen styles span Light to Black in both upright and true italic, with two variable font files added in the 2025 update, and 30 OpenType features including small caps, oldstyle figures and five stylistic sets. The generous x-height and open semi-oval construction give it a strong headline presence while retaining enough legibility for continuous text.",
+    "foundry_blurb": "TypeType describe TT Jenevers as a Dutch modern serif with characteristic asymmetrical serifs and an irregular slant of the ovals. The updated version 1.200 adds two variable fonts, fractions, expanded language support covering 195 languages, manual kerning and hinting across all styles, and raises the glyph count to 997 per style."
+  },
+  {
+    "name": "TT Regins",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-regins/",
+    "designer": "Marina Khodak, Anastasia Vrublevskaya, Antonina Samokhina, Anna Kondrashova",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "modern serif",
+    "classification_notes": "Described by the foundry as a Neoclassical (Modern) serif with high stroke contrast and sharp triangular serifs, placing it firmly in the Didone/Modern tradition. Three optical subfamilies (Text, Subhead, Display) confirm its classical editorial lineage.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Subhead",
+      "Display"
+    ],
+    "subfamilies": [
+      "TT Regins Text",
+      "TT Regins Subhead",
+      "TT Regins Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Bulgarian",
+      "Serbian",
+      "Romanian",
+      "Dutch",
+      "Catalan",
+      "Bashkir",
+      "Chuvash"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modern-serif",
+      "didone",
+      "high-contrast",
+      "editorial",
+      "display",
+      "cultural",
+      "variable",
+      "optical-sizes"
+    ],
+    "summary": "A high-contrast Neoclassical serif with sharp triangular serifs, split across three optically calibrated subfamilies for text, subheading and display use.",
+    "description": "Built in the Didone tradition, TT Regins pairs extreme stroke contrast with sharp triangular serifs and a slightly condensed upright proportion. Three subfamilies, Text, Subhead and Display, each tune contrast and spacing to their intended point-size range, while two variable fonts cover the full weight and optical-size axes. The true italic, slanted at 14°, switches to semi-rounded bottom serifs to create a sense of forward motion distinct from the upright.",
+    "foundry_blurb": "TypeType describe TT Regins as a Scottish modern serif with a royal character, its high contrast and sharp triangular serifs giving it a stern, commanding quality, while enlarged lowercase letters and slightly condensed proportions add grace. The family spans 38 styles across Display, Subhead and Text subfamilies, includes two variable fonts, supports over 230 languages, and features 34 OpenType features alongside a themed icon set of chess and playing card imagery."
+  },
+  {
+    "name": "TT Frantz",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-frantz/",
+    "designer": "Vika Usmanova, Ivan Gladkikh",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "display grotesque",
+    "classification_notes": "A narrow, experimental display grotesque with variable axis controlling midline height, drawing on Art Deco proportions. Its decorative intent and large-size focus place it firmly in the display category.",
+    "weights": [
+      "A",
+      "B",
+      "C"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Frantz A",
+      "TT Frantz B",
+      "TT Frantz C",
+      "TT Frantz Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "art-deco",
+      "variable",
+      "grotesque",
+      "condensed",
+      "decorative",
+      "experimental",
+      "packaging"
+    ],
+    "summary": "A narrow display grotesque with a variable axis that shifts the midline height up or down, producing Art Deco-influenced letterforms across three fixed static styles and one variable font.",
+    "description": "Designed by Vika Usmanova and Ivan Gladkikh at TypeType, TT Frantz uses a single variable axis to raise or lower the waistline of its letters, changing the aperture closure of certain characters as a side effect. The family includes three static styles — A, B and C — each locking the midline in a high, mid or low position, alongside a variable font for continuous adjustment. Suited to packaging, fashion editorial and poster work at medium to large sizes, with support for 165 languages across Latin and Cyrillic scripts.",
+    "foundry_blurb": "TypeType describe TT Frantz as an experimental display grotesque with narrow proportions and subtle Art Deco references, expressed through an adjustable midline height that shifts the waistline of letters from extremely low to extremely high. The variable axis is designed to be uniwidth, preserving character proportions regardless of axis position. The typeface includes ligatures, contextual alternates, oldstyle figures and support for over 165 languages, and is positioned for use in packaging, fashion and art magazine covers, and poster design."
+  },
+  {
+    "name": "TT Quaris",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-quaris/",
+    "designer": "Antonina Zhulkova, Anna Kondrashova, Lada Sobchenko, Roman Avdushkin",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "high-contrast sans",
+    "classification_notes": "A high-contrast display sans with marked stroke variation akin to a serif but without serifs, placing it firmly in the display category; the optional spiky stylistic set (SS01) adds sharp spurs and spikes, extending its expressive range further toward the decorative end of the spectrum.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Quaris"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Extended Latin",
+      "Extended Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "display",
+      "luxury",
+      "branding",
+      "editorial",
+      "variable",
+      "elegant",
+      "decorative"
+    ],
+    "summary": "A high-contrast display sans from TypeType, built for luxury branding and editorial work, with an optional spiky stylistic set that shifts its character from refined to provocative.",
+    "description": "Developed over two years and 2,500 hours, TT Quaris pairs fluid, rounded letterforms with sharp details including a geometric apex on the 't', diamond-shaped punctuation and optional spurs via the SS01 OpenType feature. The family spans six upright and six italic styles plus two variable fonts on a weight axis, with true italic forms that are narrower and lighter than the uprights. Coverage extends to over 230 languages across Latin and Cyrillic, and the glyph set includes medieval-themed ornamental icons alongside 29 OpenType features.",
+    "foundry_blurb": "TypeType describe TT Quaris as a luxurious, modern high-contrast sans where elegance, mystery and audacity converge. They conducted in-depth research into high-contrast sans archetypes before development, resulting in a typeface whose name alludes to smooth precious stones given sharp edges when cut. The family includes 14 styles, 1,015 glyphs per upright style, 29 OpenType features and support for over 230 languages, with a spiky stylistic set that can transform the typeface from refined and noble to daring and provocative."
+  },
+  {
+    "name": "TT Ricordi Allegria",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-ricordi-allegria/",
+    "designer": "Antonina Zhulkova",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "high-contrast sans",
+    "classification_notes": "Described by TypeType as a Florentine grotesque, the typeface sits between classical Antiqua and grotesque: it has no traditional serifs but features strong stroke contrast and wedge-shaped terminals drawn from stone-carved inscriptions.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "DemiBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Ricordi Allegria"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "florentine",
+      "inscription",
+      "display",
+      "glyphic",
+      "variable",
+      "stylistic-sets",
+      "editorial"
+    ],
+    "summary": "A high-contrast display sans drawn from semi-erased stone inscriptions at Florence's Basilica di Santa Croce, with multiple stylistic sets that shift its character from austere to fluid.",
+    "description": "Designed by Antonina Zhulkova as part of TypeType's Ricordi series, which mines historical plaques and inscriptions for contemporary type. The family sits at the boundary between classical Antiqua and Florentine grotesque, with hyperbolised dynamic proportions, strong stroke contrast and wedge-shaped stroke ends in place of serifs. A major 2025 update added a full lowercase, three new weights, a variable font, and support for over 230 languages across extended Latin and Cyrillic.",
+    "foundry_blurb": "TypeType describe TT Ricordi Allegria as a sleek, intelligent contemporary Florentine grotesque inspired by inscriptions in the Basilica di Santa Croce in Florence. They frame the Ricordi series as a search for typographic treasures in old stone-carved texts, revived as modern fonts. The typeface's key feature, they say, is its ability to shift character entirely through stylistic sets, moving from a stern, stone-carved feel to something rounder and more fluid."
+  },
+  {
+    "name": "TT Bakers",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-bakers/",
+    "designer": "Marina Khodak, Anastasia Pogorelova, Anastasia Vrublevskaya",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Described by TypeType as a fluid serif with brush-like strokes and asymmetrical serifs; the combination of display expressiveness at large sizes with adequate text readability places it squarely in the display serif category with humanist calligraphic influences.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "DemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Bakers"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Extended Latin",
+      "Extended Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "brush",
+      "food-branding",
+      "calligraphic",
+      "packaging",
+      "variable",
+      "multilingual"
+    ],
+    "summary": "A fluid serif with brush-like strokes and asymmetrical serifs, released by TypeType in 2025 across 15 styles with variable font support.",
+    "description": "Balanced contrast and generous spacing keep the type readable at body sizes, while the calligraphic, brush-inflected strokes become more pronounced at display scale. Asymmetrical serifs introduce a directional rhythm that suits editorial headlines, food packaging and brand identities. The family spans seven weights from Light to Black with matching italics, plus a variable font running along weight and slant axes, and covers over 230 languages including extended Latin and Cyrillic.",
+    "foundry_blurb": "TypeType describe TT Bakers as a warm, fluid serif with a soft and gentle character, suited to food-related projects from packaging and menus to full brand identities. They highlight its asymmetrical serifs, balanced contrast and brush-like strokes, and note that 15 styles, 33 OpenType features and support for over 230 languages make it a versatile choice beyond purely food-themed work."
+  },
+  {
+    "name": "TT Modernoir",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-modernoir/",
+    "designer": "Antonina Zhulkova, Toma Streltsova, Stanislav Tikhonov, Elizabeth Ostrovskaya",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "art nouveau display sans",
+    "classification_notes": "An all-caps-origin display sans with extreme contrast between narrow square and wide oval characters, curved legs, and decorative swirls drawn from Art Nouveau and film noir aesthetics. Its ornamental character and large-size focus place it firmly in the display category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "DemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Modernoir"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "art-nouveau",
+      "display",
+      "jazz",
+      "film-noir",
+      "decorative",
+      "poster",
+      "variable",
+      "french-inspired"
+    ],
+    "summary": "A display sans drawing on 20th-century French typography and Art Nouveau, built around extreme contrast between narrow square and wide oval characters.",
+    "description": "The defining tension in TT Modernoir is proportional: square characters are set very narrow while oval ones spread wide, producing a syncopated rhythm across a line. Curved legs and dynamic swirls reinforce the Art Nouveau and film noir references that give the family its name. Six styles span Light to Bold plus a variable weight axis, with 38 OpenType features including condensed ovals, underlined glyphs, a curly set and a small icon collection of cats, arrows and musical notes.",
+    "foundry_blurb": "TypeType describe TT Modernoir as a display sans serif with dynamic proportions, combining the fluid lines and elegant forms of Art Nouveau with the rhythm and improvisational freedom of jazz. Inspired by 20th-century French typography and the aesthetic of film noir, the family is defined by its significant difference in proportions between square and oval characters. Version 2.000 adds a full lowercase set, new numerals, currency symbols and additional stylistic sets, bringing the total to 1,445 glyphs per style and support for over 230 languages."
+  },
+  {
+    "name": "TT Moons",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-moons/",
+    "designer": "Nadyr Rakhimov, Anna Kondrashova, Ravid Balaliev, Elizabeth Ostrovskaya",
+    "year": 2016,
+    "category": "serif",
+    "subcategory": "modern serif",
+    "classification_notes": "TT Moons belongs to the Didone or glyptal modern tradition, characterised by its high stroke contrast, narrow proportions, and hairline serifs typical of that genre.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Moons"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modern-serif",
+      "high-contrast",
+      "narrow",
+      "editorial",
+      "publishing",
+      "didone",
+      "variable",
+      "cyrillic"
+    ],
+    "summary": "A narrow, high-contrast modern serif from TypeType, originally released in 2016 and updated in 2025 with variable font support and extended language coverage.",
+    "description": "Five weights from Thin to Black, each with a matching italic, sit within narrow proportions that suit magazine columns, book text and newspaper layouts. The high stroke contrast places it firmly in the Didone lineage, though contemporary detailing keeps it from feeling historicist. The 2025 update adds two variable fonts along the weight axis, expands the glyph set to 500 characters per style, and adds support for 165 languages including Cyrillic.",
+    "foundry_blurb": "TypeType describe TT Moons as an elegant modern serif with narrow proportions and high contrast that honours the tradition of glyptal modern serifs. They position it for editorial work across magazines, books and newspapers, noting that it performs best at large or medium sizes and works equally in print and on screen. Version 1.200, released July 2025, adds two variable fonts, expanded OpenType features, manual hinting, and a thorough kerning review."
+  },
+  {
+    "name": "TT Ricordi Greto",
+    "foundry": "TypeType",
+    "url": "https://typetype.org/fonts/tt-ricordi-greto/",
+    "designer": "Ksenia Karataeva",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "inscriptional sans",
+    "classification_notes": "Derived from a 1423 Florentine floor inscription, TT Ricordi Greto is a low-contrast sans serif with Renaissance letterform character, closed apertures and flared terminals that position it firmly as a display face rather than a general-purpose sans.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "DemiBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TT Ricordi Greto"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "inscriptional",
+      "florentine",
+      "renaissance",
+      "historical",
+      "sans-serif",
+      "variable",
+      "branding"
+    ],
+    "summary": "A display sans drawn from a 1423 Florentine floor inscription in the Basilica di Santa Croce, with flared terminals, closed apertures and deliberately preserved historical irregularities.",
+    "description": "Designed by Ksenia Karataeva as the only sans serif in TypeType's TT Ricordi collection, this typeface traces its forms to an Early Renaissance stone inscription and carries that origin through flaring stroke ends, dynamic proportions and subtle serif hints. The 2025 update doubled the glyph count to 1,365, added fully developed lowercase letters, expanded Cyrillic and Latin coverage to over 230 languages, and brought the OpenType feature count to 32. Best suited to editorial headlines, cultural branding, packaging and signage where historical texture needs to coexist with contemporary weight contrast.",
+    "foundry_blurb": "TypeType describe TT Ricordi Greto as a contemporary Florentine sans serif inspired by a 1423 floor inscription in Florence's Basilica di Santa Croce, striking a balance between Renaissance character and modern design sensibilities. Now in version 2.000, the family includes four styles, 1,365 glyphs, 32 OpenType features and support for over 230 languages, with the foundry recommending it for magazine covers, packaging, signage, posters and branding."
+  }
+]

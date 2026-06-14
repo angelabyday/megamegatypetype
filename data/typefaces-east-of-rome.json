@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Tekst",
+    "foundry": "East of Rome",
+    "url": "https://eastofrome.com/fonts/tekst",
+    "designer": "Lewis McGuffie",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Based on Literaturnaya, a Soviet-era transitional text type, Tekst retains the upright, sturdy letterforms typical of mid-century Eastern European text serifs with moderate contrast and bracketed serifs.",
+    "weights": [
+      "Roman",
+      "Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tekst A",
+      "Tekst D",
+      "Tekst M"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "soviet",
+      "text",
+      "editorial",
+      "historical",
+      "cyrillic",
+      "literary",
+      "print",
+      "screen"
+    ],
+    "summary": "A three-family text type drawn from the Soviet Literaturnaya, split across print, screen and mono variants with Latin, Cyrillic and Greek coverage.",
+    "description": "Designed by Lewis McGuffie, Tekst takes Literaturnaya, the pervasive Soviet text typeface, as its starting point rather than a direct revival source. The family splits into Tekst A for print and Tekst D for screen, engineered to produce visually equivalent results in their respective environments at 9-12pt reading sizes, with Tekst M offering a monospaced companion. Each family runs to four styles, and the full collection covers over 1,000 characters across Latin, Cyrillic and Greek.",
+    "foundry_blurb": "East of Rome describe Tekst as an all-purpose bread-and-butter font rooted in Literaturnaya, the Soviet text type, positioning it as less a revival and more a piece of revisionist history. The three families, Analog, Digital and Mono, are each calibrated for specific reading environments and work together to deliver consistent results whether set in print or on screen."
+  },
+  {
+    "name": "Relic",
+    "foundry": "East of Rome",
+    "url": "https://eastofrome.com/fonts/relic",
+    "designer": "Lewis McGuffie, David Williams",
+    "year": null,
+    "category": "display",
+    "subcategory": "lapidary display",
+    "classification_notes": "Described explicitly as a lapidary titling display type, with the roman drawn from gravestone lettering traditions and the italic from Victorian antique types — placing it firmly in the display category with a paleo-modernist, monumental character.",
+    "weights": [
+      "Canonic",
+      "Demotic",
+      "Arabic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Relic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Arabic",
+      "Farsi",
+      "Kurdish",
+      "Urdu"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "lapidary",
+      "titling",
+      "display",
+      "paleo-modernist",
+      "monumental",
+      "arabic",
+      "multilingual",
+      "gravestone"
+    ],
+    "summary": "A heavy lapidary titling type drawn from gravestone lettering and painted ruins, with Arabic support for Farsi, Kurdish and Urdu alongside extended Latin and Cyrillic.",
+    "description": "Relic takes gravestone inscription as its structural model for the upright weights and channels Victorian antique types into a sharp, heavily slanted brush italic. Three styles span two scripts directly — Canonic and Demotic cover Latin and Cyrillic, while a dedicated Arabic style supports Farsi, Kurdish and Urdu. The paleo-modernist framing, referencing desiccated monuments and ruin paintings, gives the family a deliberate archaeological severity suited to editorial titles and cultural identity work.",
+    "foundry_blurb": "East of Rome describe Relic as a paleo-modernist lapidary titling display type inspired by desiccated monuments, big distances, paintings of ruins and weathered stone. The family covers Extended Latin, Cyrillic and Arabic with Farsi, Kurdish and Urdu support across three styles — Canonic and Demotic for Latin and Cyrillic, and a dedicated Arabic weight. The italic is described as a sharp, heavily slanted brush-like take on Victorian antique types."
+  },
+  {
+    "name": "Stndrd",
+    "foundry": "East of Rome",
+    "url": "https://eastofrome.com/fonts/stndrd",
+    "designer": "Lewis McGuffie",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "technical/drafting sans",
+    "classification_notes": "Rooted in twentieth-century draughtsman's technical lettering, Stndrd is a single and double stroke weight sans-serif drawing on engineering principles of legibility and repeatability, placing it firmly in the tradition of instrument lettering and DIN-adjacent technical typefaces.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Plane",
+      "Slant",
+      "Freehand",
+      "Italic",
+      "Bold Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Stndrd Pro Display",
+      "Stndrd Pro Mono",
+      "Stndrd Pro Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "technical",
+      "drafting",
+      "engineering",
+      "mono",
+      "geometric",
+      "systematic",
+      "multilingual",
+      "display"
+    ],
+    "summary": "A typeface family derived from twentieth-century draughtsman's lettering, built around single and double stroke weights for technical and formal settings across Latin, Greek and Cyrillic.",
+    "description": "Designed by Lewis McGuffie, Stndrd takes its cue from the analytic and systematic principles of engineering draughtsmanship, particularly the hand-drawn lettering found on plans, schemes and technical documents. The family is split into three subfamilies: Pro Text and Pro Mono for extended typesetting with regular, italic, bold and bold italic, and Pro Display for short-form use in logos, marks and subheadings. Despite its rigorous structural logic, the family retains the softness of its hand-drawn origins, making it well suited to footnotes, diagrams, tags and technical annotation work.",
+    "foundry_blurb": "East of Rome describe Stndrd as a font family based on twentieth-century draughtsman's technical lettering, influenced by engineering's analytic and systematic principles of legibility and repeatability. The family covers Latin, Greek and Cyrillic across three subfamilies: Pro Display, Pro Mono and Pro Text, with twelve styles and 1022 characters. They note it is designed for small-scale use in technical and formal settings, from footnotes to schemes, diagrams, plans, marks, tags and tickets, and that while rigorous and systematic in principle it retains the warmth and softness of its hand-drawn influences."
+  },
+  {
+    "name": "Tusker Pro",
+    "foundry": "East of Rome",
+    "url": "https://eastofrome.com/fonts/tusker-pro",
+    "designer": "Lewis McGuffie",
+    "year": 2017,
+    "category": "display",
+    "subcategory": "grotesque",
+    "classification_notes": "A duplexed display grotesk built explicitly for headlines and logos, with nine widths and a massive x-height optimised for space efficiency at large sizes. The multi-width, duplexed structure and loud-first intent place it firmly in the display grotesque category.",
+    "weights": [
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Super"
+    ],
+    "optical_sizes_or_widths": [
+      "1000",
+      "2000",
+      "3000",
+      "4000",
+      "5000",
+      "6000",
+      "7000",
+      "8000",
+      "9000"
+    ],
+    "subfamilies": [
+      "Tusker Pro 1000",
+      "Tusker Pro 2000",
+      "Tusker Pro 3000",
+      "Tusker Pro 4000",
+      "Tusker Pro 5000",
+      "Tusker Pro 6000",
+      "Tusker Pro 7000",
+      "Tusker Pro 8000",
+      "Tusker Pro 9000"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "grotesque",
+      "duplexed",
+      "multi-width",
+      "headlines",
+      "high-impact",
+      "space-efficient",
+      "logotype"
+    ],
+    "summary": "A duplexed display grotesk in nine widths, designed by Lewis McGuffie for maximum impact in headlines and logos at large sizes.",
+    "description": "Nine width families, each containing four duplexed weights from Medium to Super, give Tusker Pro unusual flexibility for setting dense, space-efficient display copy across Latin, Cyrillic and Greek. Duplexing means weight changes do not alter character width, allowing layouts to swap weights without reflowing. Originally released as Tusker Grotesk in 2017, the Pro update brings expanded script coverage, a larger symbol set and reworked metrics.",
+    "foundry_blurb": "East of Rome describe Tusker Pro as an impactful, multi-width duplexed grotesk built for loud, space-efficient headlines, logos and tightly packaged information. An update of Tusker Grotesk from 2017, it spans nine widths and four duplexed weights, covers Latin, Cyrillic and Greek, and features a large x-height to minimise vertical space loss."
+  },
+  {
+    "name": "Narwa",
+    "foundry": "East of Rome",
+    "url": "https://eastofrome.com/fonts/narwa",
+    "designer": "Lewis McGuffie",
+    "year": null,
+    "category": "display",
+    "subcategory": "medieval-modernist display",
+    "classification_notes": "Narwa draws on lapidary letterforms from Rudolf Koch and humanist sans serifs, resulting in a broad display type with carved, calligraphic qualities and strong geometric simplification. Its high contrast, jagged cuts and vertical stress place it firmly in the display category with a historical medieval inflection.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "ExtraBold",
+      "Heavy",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Narwa"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "medieval",
+      "display",
+      "historical",
+      "headlines",
+      "lapidary",
+      "high-impact",
+      "logos",
+      "editorial"
+    ],
+    "summary": "A broad display type by Lewis McGuffie that fuses Rudolf Koch-style lapidary lettering with geometric simplification and photo-type spacing, inspired by a 1920s Narva tour guide.",
+    "description": "Ten weights run from Thin to Ultra, all sharing a large x-height, generous proportions and stylised jagged cuts that read as both carved stone and written mark. The design draws from Koch's calligraphic traditions but flattens and tightens them with over-close spacing and imposing vertical metrics. Available in Latin and Cyrillic, it suits confident headlines, masthead work and identity projects that call for a historical character without pastiche.",
+    "foundry_blurb": "East of Rome describe Narwa as a broad display type with a medieval touch and a lot of weights, inspired by Rudolf Koch-style lettering, old book covers and a 1920s printed tour guide of Narva, Estonia. Early sketches were simplified into geometric forms and given a photo-type treatment, with tight spacing and imposing vertical metrics. The stylised jagged cuts and flaring strokes, combined with the angle of stress and stroke contrast, make the type feel both carved and written."
+  },
+  {
+    "name": "Komplekt",
+    "foundry": "East of Rome",
+    "url": "https://eastofrome.com/fonts/komplekt",
+    "designer": "Lewis McGuffie",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Drawn from twentieth century Estonian grotesk lettering and hand-done geometric gothics, with explicit references to 1920s and Bauhaus forms via stylistic alternates; the inky, irregular quality distinguishes it from a clean geometric grotesque.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "020",
+      "030",
+      "040",
+      "050",
+      "060",
+      "070",
+      "080",
+      "090",
+      "100"
+    ],
+    "subfamilies": [
+      "Komplekt 020",
+      "Komplekt 030",
+      "Komplekt 040",
+      "Komplekt 050",
+      "Komplekt 060",
+      "Komplekt 070",
+      "Komplekt 080",
+      "Komplekt 090",
+      "Komplekt 100"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "estonian",
+      "bauhaus",
+      "geometric",
+      "ephemera",
+      "hand-lettered",
+      "historic",
+      "cyrillic"
+    ],
+    "summary": "A 162-style grotesque by Lewis McGuffie rooted in pre- and post-war Estonian printed ephemera, available across nine widths and nine weights with Latin and Cyrillic coverage.",
+    "description": "Komplekt draws from hand-done grotesks and geometric gothics found in everyday Estonian printed matter from the mid-twentieth century, interpreting their inky letter-squash and irregular stroke quality rather than reproducing them exactly. Nine width families run from 020 to 100, each with nine weights from Thin to Ultra and accompanying italics, giving 162 styles in total. Stylistic alternates reference 1920s and Bauhaus forms, alongside Cyrillic localisations for Bulgarian and Serbian.",
+    "foundry_blurb": "East of Rome describe Komplekt as an impressionistic take on twentieth century Estonian grotesk lettering, referencing hand-done grotesks and geometric gothics common in day-to-day pre- and post-war printed ephemera. Designed by Lewis McGuffie, it covers Latin and Cyrillic across 9 families and 162 styles, and incorporates a sticky inky letter-squash quality with ephemeral irregular strokes. Stylistic alternates reference 1920s and Bauhaus forms, with additional Cyrillic alternates for Bulgarian and Serbian."
+  },
+  {
+    "name": "Glotik",
+    "foundry": "East of Rome",
+    "url": "https://eastofrome.com/fonts/glotik",
+    "designer": "Lewis McGuffie",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The designer describes Glotik as a humanist sans with archaic and medieval inflections, drawing on early humanist scribal conventions for its upright italics and irregular curves alongside rigid stems.",
+    "weights": [
+      "Roman",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Glotik"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "archaic",
+      "medieval",
+      "multi-script",
+      "text",
+      "upright-italic",
+      "smallcaps",
+      "expressive"
+    ],
+    "summary": "A multi-weight humanist sans by Lewis McGuffie, drawing on archaic and medieval scribal traditions across Latin, Greek and Cyrillic scripts.",
+    "description": "Six weights from Roman to Ultra, each with matching italics styled as upright forms after early humanist scribes, give Glotik an unusual rhythm that reads comfortably at text size and holds attention at display scale. Historical stylistic alternates, small caps, tabular and lining numerals, and Cyrillic localisation variants for Bulgarian and Serbian round out a thorough feature set across 1,199 characters. The combination of irregular curves and rigid stems keeps it readable without flattening its character.",
+    "foundry_blurb": "East of Rome describe Glotik as an all-purpose and all-together weird multi-weight humanist sans, designed to be friendly and readable at text size while also memorable and interesting at large scale. They note its upright italics follow the convention of early humanist scribes, and highlight its coverage of extended Latin, monotonic Greek and extended Cyrillic alongside a range of historical stylistic alternates suited to logos and headlines."
+  },
+  {
+    "name": "Columba",
+    "foundry": "East of Rome",
+    "url": "https://eastofrome.com/fonts/columba",
+    "designer": "Lewis McGuffie",
+    "year": 2019,
+    "category": "serif",
+    "subcategory": "old-style serif",
+    "classification_notes": "Columba is inspired by old-style types and polytonic bibles, with irregular stems and warm optical characteristics consistent with humanist old-style serif traditions, designed specifically for editorial text use across multiple scripts.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Micro"
+    ],
+    "subfamilies": [
+      "Columba Text",
+      "Columba Micro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "old-style",
+      "editorial",
+      "multilingual",
+      "text-serif",
+      "long-form",
+      "print",
+      "polytonic",
+      "award-winning"
+    ],
+    "summary": "An old-style editorial serif by Lewis McGuffie, purpose-built for long-form reading in print and on screen, with optical sizes spanning 5pt to full text and full coverage of Latin, Cyrillic and Polytonic Greek.",
+    "description": "Columba comes in two families, Text for 9pt and above and Micro for 5-8pt, each running through five weights with matching italics, giving 20 styles in total. Drawn with deliberately irregular stems to warm the reading texture, it won the 2019 Granshan Grand Prize for Non-Latin Scripts on the strength of its extended Cyrillic and Polytonic Greek coverage, which includes Vietnamese Latin. The family suits dense editorial environments such as footnotes, tight columns and reference matter where most serifs struggle at small sizes.",
+    "foundry_blurb": "East of Rome describe Columba as an award-winning type family made for long reads, tight columns, footnotes and references in print and retina screen editorial design. Inspired by old-style types and polytonic bibles, it features two optical size families, five weights, italics and coverage of Latin including Vietnamese, extended Cyrillic and Polytonic Greek, and won the 2019 Granshan Grand Prize for Non-Latin Scripts."
+  },
+  {
+    "name": "Auroc",
+    "foundry": "East of Rome",
+    "url": "https://eastofrome.com/fonts/auroc",
+    "designer": "Lewis McGuffie",
+    "year": null,
+    "category": "serif",
+    "subcategory": "incised serif",
+    "classification_notes": "Auroc's roman features sharp incised serifs with knife-cut stroke terminals and notched joints, placing it firmly in the incised or lapidary serif tradition. The contrasting brush-like italic adds a calligraphic dimension uncommon in purely incised designs.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Small",
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Auroc Display",
+      "Auroc Text",
+      "Auroc Small"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "incised",
+      "editorial",
+      "optical-sizes",
+      "serif",
+      "calligraphic-italic",
+      "workhorse",
+      "multilingual",
+      "print"
+    ],
+    "summary": "A five-weight editorial serif by Lewis McGuffie with sharp incised romans and flowing brush-like italics, offered across three optical sizes covering Latin, Cyrillic and Greek.",
+    "description": "The upright cuts draw on lapidary letterforms: serifs arrive as knife cuts and the junctions between curves and stems are etched with sharp notches, giving the roman a prehistoric, almost carved quality. The italic breaks from this austerity with softer curves and a pointed-brush rhythm, creating deliberate contrast within a single family. Thirty styles across Display, Text and Small optical sizes make it equally at home in large headlines, body paragraphs and footnotes.",
+    "foundry_blurb": "East of Rome describe Auroc as a pre-historic workhorse type family with an organic touch, likening it to a forest full of femurs. The incised serif roman with its knife-cut strokes sits in deliberate contrast to a flowing brush-like italic, and three optical sizes — Small, Text and Display — make it suited to everything from running text and footnotes to large editorial headlines. The family spans 30 styles across 1,110 characters with coverage of extended Latin, extended Cyrillic and monotonic Greek."
+  },
+  {
+    "name": "Kalev",
+    "foundry": "East of Rome",
+    "url": "https://eastofrome.com/fonts/kalev",
+    "designer": "Jaan Rõõmus, Ana Sanikidze, Fred Wiltshire",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Rooted in the utopian geometry of twentieth-century modernism with explicit reference to Estonian sans serif architectural idealism and photo-type geometric interpretations; the contrast between sleek light weights and tightly packed heavy weights is characteristic of geometric sans design.",
+    "weights": [
+      "Vormis",
+      "Musklis",
+      "Turske",
+      "Paks",
+      "Tais",
+      "Kogukas"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kalev Pro",
+      "Kalev Georgian"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Georgian"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "modernist",
+      "estonian",
+      "multilingual",
+      "athletic",
+      "logo",
+      "headlines"
+    ],
+    "summary": "A geometric sans in six weights spanning Latin, Cyrillic and Georgian, rooted in twentieth-century Estonian modernist type and architectural idealism.",
+    "description": "Designed by Jaan Rõõmus, Ana Sanikidze and Fred Wiltshire, Kalev draws on the utopian geometry of Estonian sans serif tradition, with lighter weights that are formal and spare and heavier weights that compress tightly while opening terminals, a direct reference to photo-type interpretations of geometric faces. Weight names are in Estonian — Vormis through Kogukas — and the family covers 964 characters across two subfamilies, with Georgian included as a gesture toward cultural ties between Estonia and Georgia. Suited to text, display, logos and headlines across a wide range of scripts.",
+    "foundry_blurb": "East of Rome describe Kalev as an athletic multi-weight display type inspired by the utopian geometry of the twentieth century, designed for text, display and logos. The lighter weights are sleek, formal and confident, while the heavy weights reference photo-type interpretations of geometric types, tightly packed with open terminals for use in logos and headlines. The Georgian script is included as a nod to the mutual affection between Estonia and Georgia."
+  },
+  {
+    "name": "Menhir",
+    "foundry": "East of Rome",
+    "url": "https://eastofrome.com/fonts/menhir",
+    "designer": "Lewis McGuffie",
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "A square-jawed display serif with flaring, softened serifs drawn from German Jugendstil display types; its imposing weight range and width variety place it firmly in the display category rather than text serif.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "X Compressed",
+      "Compressed",
+      "Condensed",
+      "Standard",
+      "Extended",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Menhir Narrow",
+      "Menhir X Compressed",
+      "Menhir Compressed",
+      "Menhir Condensed",
+      "Menhir Standard",
+      "Menhir Extended",
+      "Menhir Wide",
+      "Menhir Icons"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "jugendstil",
+      "flared-serif",
+      "headline",
+      "wordmark",
+      "wide-family",
+      "multi-width",
+      "editorial"
+    ],
+    "summary": "A square-jawed display serif family with softened flaring serifs, spanning seven widths and eight weights, rooted in German Jugendstil types from the turn of the twentieth century.",
+    "description": "Menhir draws from early Jugendstil display faces including Eckmann-Schrift, Wodan and Block, retaining their imposing presence whilst softening the serifs into a warmer register suited to headlines, wordmarks and large-scale type. The family runs to 57 styles across seven widths from Narrow to Wide, with historical uppercase forms for E, H, M and N that can be swapped via stylistic sets. Coverage extends across Latin and Cyrillic, with nested small-cap diacritics that sit within cap height, and a supplementary icon set drawn by Renée Clarke.",
+    "foundry_blurb": "East of Rome describe Menhir as a square-jawed super family with softened flaring serifs, designed for headlines, wordmarks, logos and big text. Its influences include German Jugendstil display types such as Tiptop, Wodan, Herold, Eckmann-Schrift and Block. The family spans 8 subfamilies and 57 styles, covers extended Latin and Cyrillic with nested diacritics, and includes a separate icon set designed by Renée Clarke."
+  },
+  {
+    "name": "Based",
+    "foundry": "East of Rome",
+    "url": "https://eastofrome.com/fonts/based",
+    "designer": "Lewis McGuffie",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Rooted in late nineteenth and early twentieth century expressive grotesques and secessionist type traditions, with an asymmetric skeleton and organic curves that distinguish it from neutral modernist sans-serifs.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Normal",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Condensed",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Based Standard",
+      "Based Condensed",
+      "Based Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "secessionist",
+      "expressive",
+      "naive",
+      "historical-revival",
+      "display",
+      "multi-width",
+      "editorial"
+    ],
+    "summary": "A multi-width grotesque by Lewis McGuffie drawing on late nineteenth and early twentieth century expressive and secessionist sans-serifs, available in Standard, Condensed and Compressed widths with Latin and Cyrillic support.",
+    "description": "Referencing types such as Breite Grotesk (1890), Zeitungs Grotesk (1874) and secessionist faces like Secession (1900) and Aviso (1903), Based uses an asymmetric skeleton that breaks the typical symmetry of a standard sans-serif's curves. Lighter weights expose petal-like bowls and sharp shoulders, while the heavier weights shift towards warmer, more rounded forms with contrasting cut-off terminals. Across three families and 32 styles, the family covers eight weights with obliques in the Standard cut and eight weights without obliques in the Condensed and Compressed cuts.",
+    "foundry_blurb": "East of Rome describe Based as a multi-width grotesque inspired by a thicket of late nineteenth and early twentieth century expressive and naïve sans-serifs, citing Breite Grotesk, Zeitungs Grotesk, Ronaldson Gothic, Secession and Aviso as reference points. They note that its secessionist skeleton breaks the typical symmetry of a standard sans-serif, with lighter weights showing petal-like bowls and sharp shoulders and heavier weights foregrounding contrast in cut-off terminals. The family comprises three subfamilies, 32 styles and 692 characters, with Latin and Cyrillic support."
+  },
+  {
+    "name": "Marble",
+    "foundry": "East of Rome",
+    "url": "https://eastofrome.com/fonts/marble",
+    "designer": "Lewis McGuffie, Fred Wiltshire, Mathieu Verhoeven",
+    "year": null,
+    "category": "serif",
+    "subcategory": "classical serif",
+    "classification_notes": "Marble draws on Roman letterform traditions, referencing draughtsmen's guides and ancient Roman handwriting, alongside humanist serif precedents such as Bembo, Palatino and Dante. Its editorial purpose and broad-nib text construction place it firmly in the classical serif lineage.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Subhead",
+      "Text",
+      "Caption"
+    ],
+    "subfamilies": [
+      "Marble Display",
+      "Marble Subhead",
+      "Marble Text",
+      "Marble Caption",
+      "Marble Mono",
+      "Marble Grafito"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "roman",
+      "classical",
+      "editorial",
+      "optical-sizes",
+      "book",
+      "antiquarian",
+      "humanist"
+    ],
+    "summary": "A Roman-inspired editorial serif family spanning four optical sizes, a monospace and a handwriting-derived Grafito style, drawing on ancient letterforms and the humanist tradition from Bembo to Dante.",
+    "description": "Designed by Lewis McGuffie with Fred Wiltshire contributing the Mono and Mathieu Verhoeven contributing astrological and planetary symbols, Marble spans 61 styles across six sub-families. Its four optical sizes move from grand display uppercase to modest caption text, taking cues from draughtsmen's guides for inscriptional lettering and ancient Roman handwriting samples. The Grafito style extends the family into informal territory, and coverage runs across Latin and Greek scripts.",
+    "foundry_blurb": "East of Rome describe Marble as a brazenly Romanesque editorial type family made for books, long reads and editorial design in print and on screen. It references a range of Roman letterform interpretations, from draughtsmen's guides for grand uppercase type to ancient samples of Roman handwriting, as well as contemporary humanist serifs including Bembo, Palatino and Dante. The family contains six sub-families, 61 styles and 969 characters, with Latin and Greek script support."
+  }
+]

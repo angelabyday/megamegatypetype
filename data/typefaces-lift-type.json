@@ -1,0 +1,834 @@
+[
+  {
+    "name": "Ace",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/ace",
+    "designer": "Aloïs Ancenay, Benoît Hody, Romain Oudin",
+    "year": 2016,
+    "category": "display",
+    "subcategory": "novelty sans",
+    "classification_notes": "Described explicitly as a cartoonish sans serif with reversed contrast and large width, the typeface is primarily a display face inspired by the visual language of tennis, placing it firmly in the display novelty category.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ace"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "cartoonish",
+      "reversed-contrast",
+      "sports",
+      "wide",
+      "novelty",
+      "pictograms"
+    ],
+    "summary": "A wide, cartoonish display sans with reversed contrast, designed by three French designers and rooted in the visual world of tennis.",
+    "description": "Designed by Aloïs Ancenay, Benoît Hody and Romain Oudin and first released during Roland-Garros in 2016, Ace draws on the graphic energy of tennis for its character. The reversed contrast and generous width give it a distinctive, playful personality suited to headlines and sporting contexts. The family spans three weights and includes 402 glyphs, stylistic sets, ligatures and a series of tennis-themed pictograms.",
+    "foundry_blurb": "Lift Type describe Ace as a cartoonish sans serif with large width and reversed contrast, inspired by the tennis universe. Originally released in 2016 during Roland-Garros as a single weight, it has since grown into a three-weight family with a complete character set and a large series of arrows and pictograms."
+  },
+  {
+    "name": "Aerobik",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/aerobik",
+    "designer": null,
+    "year": 2020,
+    "category": "display",
+    "subcategory": "novelty display",
+    "classification_notes": "Aerobik is a display typeface with a distinctive bouncing outline aesthetic that the foundry explicitly positions outside any existing typographic style, drawing references from graffiti and comic-book motion graphics rather than any classical category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Aerobik"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "novelty",
+      "outline",
+      "graffiti",
+      "comic",
+      "bouncing",
+      "expressive",
+      "latin-extended"
+    ],
+    "summary": "A single-weight outline display face from 2020 with a bouncing, energetic aesthetic drawn from graffiti lettering and comic-book speed lines.",
+    "description": "The design sits deliberately outside conventional typographic classification, mixing references to graffiti and the kinetic shorthand of comic-book illustration. Its outline construction and irregular rhythm read well in both upper and lowercase settings, making it more versatile than its exuberant style suggests. Coverage extends across a broad range of Latin-based languages, with 320 glyphs supporting over 40 scripts.",
+    "foundry_blurb": "Lift Type describe Aerobik as their most flexible display typeface, characterised by a unique bouncing outline aesthetic that does not correspond to any existing typographic style. They note it draws from graffiti and the visual language of motion and speed in comic books, and that it works surprisingly well in both regular and capital-letter settings."
+  },
+  {
+    "name": "Baste",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/baste",
+    "designer": null,
+    "year": 2023,
+    "category": "display",
+    "subcategory": "vernacular display",
+    "classification_notes": "Baste is a display typeface with two distinct subfamilies (A and B) exploring contrasting vernacular aesthetics inspired by southern French visual culture, making it firmly a display category rather than a text or utility type.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Baste A",
+      "Baste B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "vernacular",
+      "french",
+      "regional",
+      "expressive",
+      "poster",
+      "graphic"
+    ],
+    "summary": "A two-family display typeface drawn from the vernacular visual culture of southern France, toggling between coastal softness and urban rawness.",
+    "description": "Baste comes in two distinct versions: A and B, each evoking a different facet of Marseille and the surrounding region. Version A leans toward the gentler rhythms of the seaside; Version B pulls toward the harder, more abrasive character of a sun-scorched city centre. Both share three weights (Regular, Medium, Black) and a glyph set of 552 characters with OpenType features including stylistic sets, circled numbers and arrows.",
+    "foundry_blurb": "Lift Type describe Baste as a typeface inspired by the south of France: raw and popular. Through its A and B versions, it explores vernacular aesthetics, alternating between the softness of the seaside and the radicalness of an arid downtown."
+  },
+  {
+    "name": "Dwight",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/dwight",
+    "designer": "Romain Oudin",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as a geometrical sans-serif, characterised by pronounced round-shaped punctuation and a rigorous yet offbeat construction consistent with the geometric tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Narrow",
+      "Condensed",
+      "ExtraCondensed"
+    ],
+    "subfamilies": [
+      "Dwight",
+      "Dwight Narrow",
+      "Dwight Condensed",
+      "Dwight ExtraCondensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "multi-width",
+      "text",
+      "display",
+      "punctuation",
+      "versatile"
+    ],
+    "summary": "A geometric sans in four widths and five weights, distinguished by its round-shaped punctuation reminiscent of punched paper.",
+    "description": "Designed by Romain Oudin and released in 2025, the family spans 40 styles across Regular, Narrow, Condensed and ExtraCondensed widths, each with five weights and matching italics. The pronounced circular punctuation gives it a character that separates it from blander geometric workhorses, while the range of widths and weights makes it functional across both text and display settings. A variable version and multiple stylistic alternates extend its flexibility further.",
+    "foundry_blurb": "Lift Type describe Dwight as rigorous and offbeat, a geometric sans-serif with a very pronounced round-shaped punctuation that recalls punched paper. Suited to text and titles alike, the family is available in four widths with five weights, italic versions, a variable version, multiple alternates and a set of pictograms, totalling 557 glyphs."
+  },
+  {
+    "name": "Ginka",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/ginka",
+    "designer": "Julie Soudanne",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Ginka is described explicitly as a grotesk, with pronounced ink traps, rebounded curves and a pinched contrast that sit firmly within the grotesque sans-serif tradition rather than geometric or humanist variants.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ginka"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "contemporary",
+      "playful",
+      "ink-traps",
+      "text",
+      "poster",
+      "french"
+    ],
+    "summary": "A French grotesque by Julie Soudanne with pronounced ink traps, rebounded curves and enough character to work at both text sizes and large display settings.",
+    "description": "Designed by Julie Soudanne and released in 2023, Ginka comes in five weights from Light to Bold, each with a matching italic, totalling ten styles. The design combines deep ink traps and pinched strokes with quirky punctuation and resilient curves, giving it a dual personality that holds up in body text whilst asserting itself at poster scale. Broad Latin Extended language support covers over 45 languages across European scripts.",
+    "foundry_blurb": "Lift Type describe Ginka as a playful and asserting grotesk with a dual character: pronounced punctuation, funny rebounded curves and deep sharp ink traps create high contrast with a specific pinched quality, making it equally suited to tight text settings and quirky large-scale poster work."
+  },
+  {
+    "name": "Gustavo",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/gustavo",
+    "designer": "Romain Oudin",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as geometric and slightly wide shaped sans serif; clean construction with open forms and moderate personality consistent with geometric grotesque classification.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gustavo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "wide",
+      "sports",
+      "pictograms",
+      "editorial",
+      "clean",
+      "legible"
+    ],
+    "summary": "A slightly wide geometric sans by Romain Oudin, built across five weights with italics and a set of pictograms, geared towards editorial and branding work.",
+    "description": "Designed by Romain Oudin and started in 2018, it was released in 2020 as a complete family of ten styles spanning Thin to Bold with matching italics. The design sits at the calmer end of geometric sans, with a touch of personality intended to complement Lift Type's broader catalogue. A generous pictogram set, circled numbers, arrows and multiple stylistic sets extend its utility across sports, editorial and identity applications.",
+    "foundry_blurb": "Lift Type describe Gustavo as a geometric and slightly wide shaped sans serif, started in 2018 and released in 2020. The project aimed to produce a classic typeface with a little personality, coherent with the foundry's other families, comprising five weights, italics and a large set of pictograms across 496 glyphs."
+  },
+  {
+    "name": "Kaio",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/kaio",
+    "designer": "Romain Oudin",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Self-described as humanist-inspired, citing Gill Sans and Antique Olive as references. The Krilin display variant introduces rounder, more exaggerated counter-forms, pushing it toward display territory, but the primary family sits firmly in humanist sans.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Super"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Display"
+    ],
+    "subfamilies": [
+      "Kaio",
+      "Kaio Krilin"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "display",
+      "japanese-inspired",
+      "gill-sans-lineage",
+      "editorial",
+      "variable",
+      "contemporary",
+      "playful"
+    ],
+    "summary": "A humanist sans in six weights with a separate display cut called Krilin, drawing on Gill Sans and Antique Olive with a Japanese cultural flavour.",
+    "description": "Designed by Romain Oudin at Lift Type and released in 2023, the family runs from Light through Super across six weights, with a variable font included. The Krilin variant amplifies the character with rounder counter-forms and more extreme proportions suited to large-scale display use. OpenType features include stylistic sets, circled numerals, arrows and full fraction support, covering a broad range of Latin-extended languages.",
+    "foundry_blurb": "Lift Type describe Kaio as a humanist-inspired sans serif influenced by classics like Gill Sans and Antique Olive, but with a contemporary twist. The name references Master Kaio from Dragon Ball Z, a character they describe as embodying wisdom and power while also being zany and grotesque. The Krilin variant is a display version with more extreme shapes and round counter-forms, available alongside six weights and a variable font."
+  },
+  {
+    "name": "Melun",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/melun",
+    "designer": "Romain Oudin",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as a geometric sans-serif with retro influences; the three subfamilies range from text-weight to semi-display and a more radical display cut, all sharing geometric construction throughout.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "High",
+      "Display"
+    ],
+    "subfamilies": [
+      "Melun",
+      "Melun High",
+      "Melun Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "retro",
+      "french",
+      "display",
+      "sans-serif",
+      "multifamily",
+      "editorial"
+    ],
+    "summary": "A geometric sans with retro leanings from Lift Type, split across three subfamilies covering text, semi-display and full display use.",
+    "description": "Designed by Romain Oudin and released in 2024, Melun comes in three sub-families: Normal in five weights with italics for text setting, High with an elevated x-height suited to semi-display use, and Display offering six weights with more radical letterforms. The family draws on retro geometric references while remaining functional across a range of sizes, and ships with 638 glyphs covering an extensive range of Latin-based languages. Stylistic sets, circled numbers, arrows and pictograms give it added utility for graphic and editorial work.",
+    "foundry_blurb": "Lift Type describe Melun as a geometric sans-serif with retro influences, presented in three subfamilies. Melun Normal offers five weights plus italics for standard use, Melun High adds a high x-height for a semi-display feel in the same weight range, and Melun Display pushes towards more radical shapes across six weights including a Black."
+  },
+  {
+    "name": "Mint Grotesk Display",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/mint-grotesk-display",
+    "designer": "Sébastien Sanfilippo",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A display-optimised grotesque with 19th-century quirks and high contrast, designed for large-size use. The three-width family (Regular, Narrow, Condensed) places it firmly in the grotesque tradition with expressive, display-specific detailing.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Narrow",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Mint Grotesk Display",
+      "Mint Grotesk Display Narrow",
+      "Mint Grotesk Display Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "display",
+      "high-contrast",
+      "eccentric",
+      "editorial",
+      "poster",
+      "multi-width",
+      "variable"
+    ],
+    "summary": "A high-contrast display grotesque in three widths and eight weights, optimised for large-scale use with a 19th-century eccentricity.",
+    "description": "Mint Grotesk Display is the display-specific sibling of Mint Grotesk, sharing its eight-weight range from Thin to Heavy but tuned for headline and poster work through increased contrast and finer detail. The family spans three widths — standard, Narrow and Condensed — each with full italic coverage, giving 48 static styles in total plus variable font support. Multiple stylistic sets and a suite of figure variants add flexibility for editorial and typographic display work.",
+    "foundry_blurb": "Lift Type describe Mint Grotesk Display as the 'showy cousin' of Mint Grotesk — more expressive, with high contrast and fine details that make text pop at larger sizes. They characterise the broader Mint Grotesk family as a sturdy, no-nonsense sans-serif with a 19th-century quirkiness, equally suited to text and display use."
+  },
+  {
+    "name": "Mint Grotesk",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/mint-grotesk",
+    "designer": "Sébastien Sanfilippo",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A no-nonsense grotesque sans-serif with deliberate 19th-century quirkiness, placing it clearly in the grotesque tradition rather than the cleaner geometric or humanist camps.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mint Grotesk",
+      "Mint Grotesk Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "workhorse",
+      "playful",
+      "19th-century",
+      "print",
+      "editorial",
+      "text"
+    ],
+    "summary": "A 16-style grotesque by Sébastien Sanfilippo that injects 19th-century eccentricity into a sturdy, versatile sans suited to both text and display work.",
+    "description": "Designed by Sébastien Sanfilippo and released in 2023, Mint Grotesk runs eight weights from Thin to Heavy, each with a matching italic, totalling 16 styles across 550 glyphs. Its character comes from period-inflected details that give it personality without sacrificing legibility at smaller sizes. A companion Display family extends the system for more expressive, large-scale use.",
+    "foundry_blurb": "Lift Type describe Mint Grotesk as their playful workhorse, a sturdy no-nonsense sans-serif with 19th-century quirkiness built into its 16 weights. They note it performs well at both text and display sizes, and position the separately available Mint Grotesk Display as the more expressive, showy cousin of the family."
+  },
+  {
+    "name": "Ocalie",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/ocalie",
+    "designer": "Sandrine Nugue",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Ocalie is a proportional sans-serif evolved from Hublot, a monospaced predecessor, retaining geometric rigour while introducing organic movement; its clean, mechanical letterforms with subtle sensitivity place it firmly in geometric sans territory.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Display"
+    ],
+    "subfamilies": [
+      "Ocalie",
+      "Ocalie Display",
+      "Ocalie Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "mono",
+      "editorial",
+      "french",
+      "text",
+      "display",
+      "versatile"
+    ],
+    "summary": "A proportional sans evolved from the monospaced Hublot, designed by Sandrine Nugue and issued in 21 cuts across three subfamilies including a display and a mono variant.",
+    "description": "Developed from Hublot, a monospaced typeface originally created for the art centre La Fenêtre, Ocalie drops the fixed-width constraint in favour of proportional spacing while preserving the geometric backbone. The family spans five weights from Thin to Bold with italics across both the text and mono subfamilies, plus a single expressive Display cut. At 420 glyphs and with coverage across roughly 50 Latin-script languages, it sits comfortably in editorial, identity and interface work.",
+    "foundry_blurb": "Lift Type describe Ocalie as the next chapter in the Hublot story: still a sans-serif but no longer monospaced, the design has been subtly refined to balance sensitivity with mechanics and organic movement with geometric rigour. Expanded and matured, the family now offers 21 cuts inviting designers to explore its full expressive range."
+  },
+  {
+    "name": "Parade",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/parade",
+    "designer": "Romain Oudin",
+    "year": 2014,
+    "category": "display",
+    "subcategory": "decorative all-caps",
+    "classification_notes": "A collection of ten stylistically distinct all-caps typefaces sharing the same underlying structure, designed for titling and poster work with decorative pattern and style variations that place it firmly in the display category.",
+    "weights": [
+      "One",
+      "Two",
+      "Three",
+      "Four",
+      "Five",
+      "Snoop",
+      "Poom",
+      "Hawai",
+      "Crac",
+      "Marble"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Parade - One",
+      "Parade - Two",
+      "Parade - Three",
+      "Parade - Four",
+      "Parade - Five",
+      "Parade - Snoop",
+      "Parade - Poom",
+      "Parade - Hawai",
+      "Parade - Crac",
+      "Parade - Marble"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "all-caps",
+      "decorative",
+      "poster",
+      "pattern",
+      "modular",
+      "branding",
+      "mix-and-match"
+    ],
+    "summary": "Ten all-caps typefaces sharing a single underlying structure, each carrying different surface treatments and patterns designed for mixing across posters, titling and brand identities.",
+    "description": "Originally commissioned for the Design Parade 8 festival branding at Villa Noailles in 2013, Romain Oudin's Parade takes one drawn skeleton and runs it through ten stylistically distinct treatments, from plain geometric cuts to patterned and textured variants. The all-caps family is built explicitly for combination, allowing designers to layer or alternate styles within a single layout to produce a coherent but varied visual rhythm. With 598 glyphs per style and broad Latin language support, it sits comfortably in poster, editorial and identity work where decorative display type is called for.",
+    "foundry_blurb": "Lift Type describe Parade as a collection of 10 identically drawn typefaces with style and pattern variations, launched in 2013 for Design Parade 8's branding at Villa Noailles. The all-caps family is designed for mix-and-match use in titling, posters and brand identities, updated in 2020 with stylistic sets, tabular figures, superior numerals and arrows and pictograms."
+  },
+  {
+    "name": "Plage",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/plage",
+    "designer": "Bouk Ra",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "geometric sans",
+    "classification_notes": "Plage is a geometric sans-serif with exaggerated wave-like curves and alternating wide uppercase and slim lowercase letters, positioning it firmly as a display typeface with an expressive, decorative character.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Plage Text",
+      "Plage Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "playful",
+      "summer",
+      "wavy",
+      "expressive",
+      "alternates",
+      "ligatures"
+    ],
+    "summary": "A geometric sans with exaggerated wave-inspired letterforms split across Text and Display optical sizes, designed by Bouk Ra for expressive, summer-inflected typesetting.",
+    "description": "Designed by Bouk Ra and released in 2021, Plage pairs wide uppercase letters with slim, tall-x-height lowercase characters to create a lively rhythm across six styles. Three weights run across both Text and Display subfamilies, and the 794-glyph set includes multiple stylistic sets, alternates and ligatures that let users vary the pace and texture of a setting. The beach and surf references in its specimen are deliberate, making it well suited to seasonal campaigns, editorial titles and brand identities with a loose, warm character.",
+    "foundry_blurb": "Lift Type describe Plage as a geometric and playful sans serif that expresses the movement of sea waves, wind and summer travel. The combination of wide uppercase and slim lowercase letters, where x-height equals cap height, gives the typeface its lively quality. Users can build their own rhythm and vibe by mixing cases and drawing on the variety of alternates and ligatures included."
+  },
+  {
+    "name": "Raïm",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/raim",
+    "designer": "Valerio Monopoli",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "didone",
+    "classification_notes": "Raïm is explicitly described as a contemporary Didone, exhibiting the high contrast between thick and thin strokes characteristic of the genre, with three optical sizes tuned for different contrast levels.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Standard",
+      "Display"
+    ],
+    "subfamilies": [
+      "Raim - Text",
+      "Raim - Standard",
+      "Raim - Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "high-contrast",
+      "editorial",
+      "wine",
+      "ligatures",
+      "optical-sizes",
+      "contemporary"
+    ],
+    "summary": "A contemporary Didone by Valerio Monopoli, offered in three optical sizes and inspired by the visual culture of wine.",
+    "description": "Designed by Valerio Monopoli and released in 2024, Raïm spans 36 fonts across Text, Standard and Display optical sizes, each calibrated for different contrast levels and reading distances. A high x-height improves legibility at smaller sizes, while the Display cuts push the characteristic Didone stroke contrast to its expressive limit. The family includes a set of ligatures drawn to resemble vine tendrils, a nod to its winemaking inspiration, alongside fractions, superior and inferior figures, and circled and squared numerals.",
+    "foundry_blurb": "Lift Type describe Raïm as their contemporary Didone, designed by Valerio Monopoli and inspired by the art of wine. It features a high x-height, three optical styles — Text, Standard and Display — with varying contrasts, and a set of ligatures that evoke vine tendrils for a spontaneous, organic quality. The family covers 570 glyphs and supports an extensive range of Latin-based languages."
+  },
+  {
+    "name": "Sans Plomb",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/sans-plomb",
+    "designer": "Maël Bächtold, Igino Marini, Manuel de Lignières",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A grotesque sans with quirky, period-specific details drawn from French road signage and automotive branding of the 1980s, including short ascenders, cropped diacritics and reversed inktraps.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Standard",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Sans Plomb Condensed",
+      "Sans Plomb",
+      "Sans Plomb Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "display",
+      "french",
+      "automotive",
+      "retro",
+      "condensed",
+      "signage",
+      "vernacular"
+    ],
+    "summary": "A grotesque family drawn from French road signs and 1980s automotive branding, with short ascenders, cropped diacritics and reversed inktraps giving it a distinctive period character.",
+    "description": "Inspired by French petrol station signs, spare part brands and motorway typography of the 1980s, this 30-style family spreads across three widths — Condensed, Regular and Extended — each running from Light to Black with obliques throughout. Distinctive details include cropped diacritics, short ascenders and reversed inktraps, which collectively recall an era when roadside lettering was drawn with a cheerful technical imprecision. Stylistic sets, circled numbers and arrow glyphs reinforce its display-first personality.",
+    "foundry_blurb": "Lift Type describe Sans Plomb as a grotesque family inspired by French roads and the automotive world of the 1980s, from gas station signs to spare part brands, evoking a time when typefaces were somehow imperfect and beautiful for that. Originally released in 2023 in three weights as a compressed-only family, it has since grown into a 30-style release with new weights and widths, plus a variable version. They highlight its short ascenders, cropped diacritics and the reversed inktraps on letters such as the 'i' as what makes it particularly distinctive for large display use."
+  },
+  {
+    "name": "Spinelo",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/spinelo",
+    "designer": "Antoine Brun",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "humanist grotesque",
+    "classification_notes": "The foundry describes Spinelo as sitting between humanist and grotesque, inspired by Antique Olive, with rounded edges and organic shapes typical of humanist grotesque hybrids.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Spinelo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "humanist",
+      "rounded",
+      "text",
+      "pokemon-inspired",
+      "antique-olive-lineage",
+      "editorial",
+      "versatile"
+    ],
+    "summary": "A humanist grotesque with rounded edges and organic forms, designed for body text and drawing inspiration from Antique Olive.",
+    "description": "Part of the Glypheon collection, a four-subfamily project themed around metamorphosis and Pokémon evolution, Spinelo is the text-oriented member of the group. Antique Olive is the acknowledged reference point, lending the design its soft terminals, organic rhythm and quiet distinctiveness at small sizes. Twenty stylistic sets across 1,719 glyphs give designers considerable room to vary the typeface's character without switching families.",
+    "foundry_blurb": "Lift Type describe Spinelo as one of the text styles within Glypheon, a collection of four subfamilies inspired by metamorphosis and evolution, with a nod to Pokémon. They position it as a sans-serif between humanist and grotesque, inspired by Antique Olive, featuring rounded edges and organic shapes intended for body text that is meant to be seen. Its many glyph variants are presented as a rich toolbox for multiple creative directions."
+  },
+  {
+    "name": "Tartuffo",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/tartuffo",
+    "designer": "Bouk Ra",
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "Tartuffo is described as elegant yet malicious, with fluid details and a distinctive personality; it reads as a contemporary serif with display sensibilities rather than a strict historical revival.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tartuffo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "contemporary",
+      "editorial",
+      "display",
+      "elegant",
+      "expressive",
+      "french"
+    ],
+    "summary": "A contemporary serif by Bouk Ra with a deliberately contradictory character, named after Molière's hypocrite Tartuffe and the Italian tartufo di Pizzo dessert.",
+    "description": "Designed by Bouk Ra and released in 2021, the family runs across five weights from Thin to Bold with matching italics, covering 824 glyphs and broad Latin Extended language support. Its fluid details and alternates give it range from refined body text to expressive display settings. Multiple stylistic sets, old-style figures, circled numbers and arrows make it a well-featured tool for editorial and branding work.",
+    "foundry_blurb": "Lift Type describe Tartuffo as a fresh typeface inspired by characters from various literary works, with its name drawn from Molière's character Tartuffe and the Italian dessert tartufo di Pizzo. They characterise it as bitter and bad-looking in reference to literary hypocrites, yet succulent and sweet through its fluid texture across all its details."
+  },
+  {
+    "name": "Vroum GTI",
+    "foundry": "Lift Type",
+    "url": "https://www.lift-type.fr/products/vroum-gti",
+    "designer": "Romain Oudin",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "stencil display",
+    "classification_notes": "A display typeface with double stencil construction and reverse contrast, explicitly designed for large-scale typographic use with car and motorsport theming. The 'decalic' oblique variants and stencil cuts place it firmly in the display category.",
+    "weights": [
+      "Light",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "A",
+      "B"
+    ],
+    "subfamilies": [
+      "Vroum GTI A Light",
+      "Vroum GTI A Light Decalic",
+      "Vroum GTI A Bold",
+      "Vroum GTI A Bold Decalic",
+      "Vroum GTI B Light",
+      "Vroum GTI B Light Decalic",
+      "Vroum GTI B Bold",
+      "Vroum GTI B Bold Decalic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "stencil",
+      "reverse-contrast",
+      "motorsport",
+      "decorative",
+      "oblique",
+      "two-width"
+    ],
+    "summary": "A stencil display family by Romain Oudin built around car culture, with reverse contrast, two width variants and shifted oblique cuts called 'decalic'.",
+    "description": "Released in 2020, Vroum GTI offers four typefaces across two widths (A and B) and two weights (Light and Bold), each with a 'decalic' oblique counterpart for a total of eight styles. The design draws on tire tracks, road markings and automotive aesthetics, using a double stencil structure and reverse contrast to produce a typeface suited to large-scale, high-impact display work. Circled numbers, arrows and pictograms are included alongside 344 glyphs covering broad Latin-script language support.",
+    "foundry_blurb": "Lift Type describe Vroum GTI as belonging to the car world, with a double stencil construction and reverse contrast that evokes both tire tracks and road markings. The family comprises four typefaces across two widths and two weights, plus shifted italic versions they call 'decalic', and they say it will make you shiver more than a monster truck show."
+  }
+]
