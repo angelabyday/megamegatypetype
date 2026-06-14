@@ -1,0 +1,284 @@
+[
+  {
+    "name": "DT Robusta",
+    "foundry": "Death of Typography",
+    "url": "https://deathoftypography.com/robusta",
+    "designer": "Chua Khai Xin",
+    "year": null,
+    "category": "slab",
+    "subcategory": "slab serif",
+    "classification_notes": "Explicitly described as a bold slab serif; the design features sturdy slabs with curved edges and inktraps, placing it firmly within the slab serif category.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "DT Robusta"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "singaporean",
+      "cultural",
+      "display",
+      "single-weight",
+      "bold",
+      "expressive"
+    ],
+    "summary": "A single-weight bold slab serif drawn from Singapore's kopi gu you coffee culture, with inktraps referencing the tarik pulling action and curved slab serifs evoking melting butter.",
+    "description": "Designed by Chua Khai Xin under Death of Typography's Font Incubation Programme, the typeface translates the visual language of Singapore's Hainanese butter coffee tradition into letterforms. Sturdy slabs with softened edges and sharp-tipped curves create a tension between robustness and warmth, reflecting the contrast of bitter Robusta beans roasted with margarine and sugar. Available in a single commercial weight, it suits display and branding work where cultural specificity is an asset.",
+    "foundry_blurb": "Death of Typography describe Robusta as a bold slab serif inspired by kopi gu you, Singapore's Hainanese butter coffee. They explain that the typeface translates the kopi trade into form: sturdy slabs and soft curves mirror the pulling action of tarik and the melting quality of butter, while inktraps reflect the smooth motion of local coffee brewers. Practical yet expressive, they frame it as a typographic brew of culture, labour, and language."
+  },
+  {
+    "name": "Hooke",
+    "foundry": "Death of Typography",
+    "url": "https://deathoftypography.com/hooke/",
+    "designer": "Lee Yun Xuan",
+    "year": null,
+    "category": "display",
+    "subcategory": "high-contrast display serif",
+    "classification_notes": "A single-weight condensed serif with pronounced thick-thin contrast, sharp terminals and hook-inspired details; the extreme contrast and condensed proportions place it firmly in display rather than text use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hooke"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "condensed",
+      "serif",
+      "editorial",
+      "expressive",
+      "single-weight"
+    ],
+    "summary": "A single-weight condensed display serif whose sharp ink traps, elongated terminals and curved bars all take formal cues from the anatomy of a fishing hook.",
+    "description": "Designed by Lee Yun Xuan under Death of Typography's Font Incubation Programme, Hooke translates the functional geometry of hooks into typographic detail: the serifs carry notched cutouts referencing a barb, terminals are elongated to echo a hook's throat, and the bars curve to suggest motion. The high thick-thin contrast and condensed proportions make it most effective at large sizes where those fine details read clearly. It suits editorial headlines, poster work or branding that calls for a distinctive and somewhat dramatic serif voice.",
+    "foundry_blurb": "Death of Typography describe Hooke as a high-contrast condensed typeface that balances strength with elegance, inspired by the functional beauty of hooks. The design reflects the tension between fluidity and precision, with sharp ink traps and terminals evoking a hook's barb, curved bars capturing the motion of catching or pulling, and structured expressive forms suited to large sizes."
+  },
+  {
+    "name": "DT Straits Sans",
+    "foundry": "Death of Typography",
+    "url": "https://deathoftypography.com/straits-sans",
+    "designer": "Lee Qiu Wen",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The foundry describes geometric art-deco construction with humanistic endings, placing it firmly in the geometric sans category with an art-deco influence distinguishing it from purely neutral grotesques.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "DT Straits Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "art-deco",
+      "humanist-endings",
+      "condensed-capitals",
+      "editorial",
+      "display",
+      "nine-weights"
+    ],
+    "summary": "A geometric sans built on art-deco construction principles, with condensed capitals drawn from original source material and humanistic stroke endings that soften its rigid geometry.",
+    "description": "Designed by Lee Qiu Wen and released by Singapore-based collective Death of Typography, the family runs nine weights from Thin to Black. Capitals reference condensed historical source material while missing lowercase characters were reimagined at standard width, creating a deliberate tension between the two cases. Geometric forms are tempered by humanistic terminals, making the family workable at text sizes despite its display sensibility.",
+    "foundry_blurb": "Death of Typography describe DT Straits Sans as a geometric sans whose glyphs are constructed with geometric art-deco elements. Condensed capitals are referenced from original source material, missing lowercase characters were reimagined at standard width, and endings are kept humanistic to give the otherwise geometric shapes a more considered form."
+  },
+  {
+    "name": "DT Getai Grotesk Display",
+    "foundry": "Death of Typography",
+    "url": "https://deathoftypography.com/getai-grotesk-display",
+    "designer": "Sylvester Tan",
+    "year": null,
+    "category": "display",
+    "subcategory": "display grotesque",
+    "classification_notes": "A single-weight display grotesque with culturally inflected letterforms; the ink traps and calligraphic curve references position it firmly as a display-only face rather than a text grotesque.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "DT Getai Grotesk Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "grotesque",
+      "open-source",
+      "ink-traps",
+      "chinese-influence",
+      "single-weight",
+      "cultural",
+      "experimental"
+    ],
+    "summary": "A single-weight open-source display grotesque by Sylvester Tan, drawing on Chinese Getai calligraphic forms and featuring consistent ink traps across the character set.",
+    "description": "Designed by Sylvester Tan under the Death of Typography collective in Singapore, the face takes its cultural reference from Getai, a form of Chinese street performance, translating calligraphic curve sensibilities into a Latin grotesque skeleton. Ink traps appear not only at junctions but as a consistent detail throughout, giving the letterforms a quiet structural rhythm even in characters without curves. Released under the Open Font Licence, it is free for both commercial and non-commercial use.",
+    "foundry_blurb": "Death of Typography describe DT Getai Grotesk Display as an open-source single-weight display typeface whose curves are inspired by Chinese calligraphic forms from Getai culture, with ink traps used to give definition to curves and applied consistently as a feature even on letters without them."
+  },
+  {
+    "name": "DT SS Nouveau",
+    "foundry": "Death of Typography",
+    "url": "https://deathoftypography.com/nouveau",
+    "designer": "Lee Qiu Wen",
+    "year": null,
+    "category": "display",
+    "subcategory": "art nouveau display",
+    "classification_notes": "A single-weight display face with geometric construction, organic curves, flared micro-serifs and uppercase alternates with descending legs — qualities that place it firmly in decorative display territory with art nouveau sensibility.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "DT SS Nouveau"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "art-nouveau",
+      "geometric",
+      "decorative",
+      "open-source",
+      "single-weight",
+      "free"
+    ],
+    "summary": "A single-weight open-source display face that pairs a geometric skeleton with organic curves, flared micro-serifs and alternate uppercase letters featuring descending legs.",
+    "description": "Designed by Lee Qiu Wen and released under the Open Font License, DT SS Nouveau sits on a geometric base while introducing expressive curves and flourishes that recall art nouveau lettering. Subtle flared serifs provide a quieter counterpoint to the more theatrical alternate forms, creating tension between restraint and decoration. Its free, open-source licence makes it accessible for both commercial and non-commercial use.",
+    "foundry_blurb": "Death of Typography describe DT SS Nouveau as an open-source single-weight display typeface with a geometric base that incorporates curves and other flourishes. They note that some uppercase letters feature descending leg alternates, and that very subtle flared serifs contrast with the wilder curves elsewhere in the design."
+  },
+  {
+    "name": "Nightingale",
+    "foundry": "Death of Typography",
+    "url": "https://deathoftypography.com/nightingale",
+    "designer": "Celia Yew",
+    "year": null,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "A single-weight display serif with an oblique axis, tapered serifs and teardrop terminals, placing it firmly in expressive display territory rather than text use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nightingale"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "serif",
+      "elegant",
+      "open-source",
+      "single-weight",
+      "expressive",
+      "editorial"
+    ],
+    "summary": "A single-weight display serif with an oblique stress, tapered serifs and teardrop terminals, designed by Celia Yew and released under an open font licence.",
+    "description": "Designed by Celia Yew out of Singapore's Death of Typography collective, Nightingale is a display serif built around an oblique axis that gives the letterforms a rhythmic, expressive quality. Tapered serifs and teardrop terminals soften the overall feel, pulling it towards editorial and decorative applications rather than continuous text. Released under the OFL, it is free to download and use for both commercial and non-commercial projects.",
+    "foundry_blurb": "Death of Typography describe Nightingale as an open-source single-weight display typeface featuring elegant curves, tapered serifs and teardrop terminals. An oblique axis, they note, makes the letters more rhythmic and expressive. The font ships under the Open Font Licence and is free to use for commercial and non-commercial purposes."
+  },
+  {
+    "name": "World Tour",
+    "foundry": "Death of Typography",
+    "url": "https://deathoftypography.com/world-tour",
+    "designer": "Nur Jannah Suhaimi",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "A single-weight open-source display typeface with flared stems and rounded counters tapering to sharp points, placing it firmly in the display category with a distinctive decorative character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "World Tour"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "flared",
+      "rounded",
+      "free",
+      "open-source",
+      "decorative",
+      "single-weight"
+    ],
+    "summary": "A free single-weight display typeface with flared stems inspired by bell-bottom jeans and rounded counters that taper to sharp points.",
+    "description": "Designed by Nur Jannah Suhaimi and released under an Open Font Licence, World Tour draws its visual character from the silhouette of bell-bottom jeans, translating that flare into the stems of each letter. Rounded counters taper to sharp terminals, creating an optical tension between soft and pointed forms. Available as a free download for both commercial and non-commercial use.",
+    "foundry_blurb": "Death of Typography describe World Tour as an open-source single-weight display typeface featuring rounded counters that taper into sharp points, with flared stems inspired by bell-bottom jeans that create a distinctive optical effect."
+  }
+]

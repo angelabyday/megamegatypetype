@@ -1291,5 +1291,1104 @@
     "summary": "A deliberately destabilised display type that replaces curves with diamond forms and sharp spikes, drawing equally from glitch culture and German expressionist woodcuts.",
     "description": "Derived from NaN Rage Poly, Zipp takes the reduction of bezier curves and points to its logical extreme: round letters become diamonds balanced on their corners and stems taper to needle-sharp points. Across four widths and nine weights, the family spans from compressed headline setting to usable text columns where individual letters sit like small sculptures on the page. It belongs to NaN's wider Rage Typographic Universe, sharing structural DNA with its siblings while occupying the furthest, most fractured position in the series.",
     "foundry_blurb": "NaN describe Rage Zipp as an experiment gone wrong, derived from Rage Poly by pushing the deletion of curves and points to its limit. The result, they say, is a graphical typeface that is a child of the glitch and of German expressionist woodcuts, where round letters become diamonds and stems become spiky toothpicks. Available in four widths and nine weights each, it is part of the broader NaN Rage Typographic Universe."
+  },
+  {
+    "name": "NaN Archy",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-archy/",
+    "designer": "Hélène Marian",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Rooted in paint-brush lettering and processed through digital abstraction, the typeface retains humanist proportions and structure across both its ON and OFF versions, with the OFF version particularly showing Art Deco-inflected humanist sans characteristics.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "NaN Archy On",
+      "NaN Archy Off"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "paint-brush",
+      "art-deco",
+      "expressive",
+      "glitch",
+      "display",
+      "text",
+      "wide-weight-range"
+    ],
+    "summary": "A paint-brush-derived humanist sans in two versions: one embracing structural glitches across a wide weight range, the other a restrained workhorse with a faint Art Deco character.",
+    "description": "Designed by Hélène Marian and released in 2024–2025, NaN Archy splits into two subfamilies. The ON version deliberately preserves the structural simplifications introduced at Ultra weight across lighter cuts, so that what would normally be invisible construction decisions become visible rhythm at small sizes. The OFF version drops the glitches but keeps the humanist proportions and subtle brush influence, making it viable for sustained text setting with a quiet decorative undertone.",
+    "foundry_blurb": "NaN describe Archy as Hélène Marian's first release at the foundry, taking its roots in her paint-brush lettering practice but processed through a highly digital treatment that suppresses most of its organic nature. The ON version explores how glyph structures are altered across a huge weight range from thin to ultra, embracing contradiction so that glitch becomes a feature. The OFF version is more restrained, abandoning glitches while keeping humanist structure and proportions, with a slight Art Deco fragrance drawn from the paint-brush influence."
+  },
+  {
+    "name": "NaN Druid",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-druid/",
+    "designer": "Anna Khorash & Reymund Schröder",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "The serif member of the family is described as Jenson-adjacent with hybrid antique and slab serif characteristics and lower contrast suited to text setting; the sans counterpart shares humanist structure with flared and tapered endings that betray calligraphic origins.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "NaN Druid",
+      "NaN Druid Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "serif",
+      "sans-serif",
+      "paired-family",
+      "display",
+      "text",
+      "calligraphic",
+      "expressive"
+    ],
+    "summary": "A paired serif and sans family by Anna Khorash and Reymund Schröder, rooted in Jenson-adjacent humanist forms and built for both text and display use across 286 Latin-based languages.",
+    "description": "The serif draws on antique and slab serif traditions with deliberately lower contrast to keep it comfortable at text sizes, while the sans applies the same humanist skeleton with higher contrast and open counters, its flared and tapered terminals giving away its calligraphic origins. Both families run from Hairline to Black and share matching proportions, making them genuinely interchangeable across a single layout. Glyphs such as the ampersands and paragraph marks carry decorative details drawn from nature and esoteric imagery, giving the family an unusual specificity of character.",
+    "foundry_blurb": "NaN describe Druid as a two-headed family conjured by Co-Archdruids Reymund Schröder and Anna Khorash through a symbiotic, equal-authorship design process. The serif is Jenson-adjacent, oscillating between antique and slab traditions, while Druid Sans borrows its sibling's humanist structure and applies it to a high-contrast display-capable sans with open counters and calligraphic endings. Both families cover 286 Latin-based languages and range from a delicate monolinear Hairline to Black, with decorative glyphs incorporating natural and esoteric references including mistletoe, oak leaves, feathers and bones."
+  },
+  {
+    "name": "NaN Serf Sans",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-serf-sans/",
+    "designer": "Hugues Gentile, Fadhl Haqq, Léon Hugues, Jean-Baptiste Morizot, Luke Prowse, Florian Runge",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "NaN describe it explicitly as a humanist sans derived from the skeleton of NaN Serf, with vertically-cut stroke endings, open apertures and generous counters characteristic of the humanist sans tradition.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "NaN Serf Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Arabic",
+      "Greek",
+      "Thai"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "multilingual",
+      "screen-optimised",
+      "text",
+      "workhorse",
+      "open-aperture",
+      "legibility",
+      "pan-script"
+    ],
+    "summary": "A screen-first humanist sans drawn from the skeleton of NaN Serf, retaining its flat curves while replacing serifs with vertically-cut endings across five scripts and over 550 languages.",
+    "description": "Built on the same underlying structure as NaN Serf, it trades that family's serifs for clean vertical terminals, preserving idiosyncratic details such as the flat curves on the /G, /b and /q. Generous counters and wide apertures give it strong legibility at text sizes on screen, while a carefully controlled rhythm makes it equally comfortable in extended reading. With out-of-the-box support for Latin, Cyrillic, Arabic, Greek and Thai, it is one of the more ambitious multilingual text releases in recent memory.",
+    "foundry_blurb": "NaN describe Serf Sans as their crisp and ultra-legible humanist sans, grown from the skeleton of NaN Serf with serifs replaced by clean vertically-cut endings. Designed with modern screen use in mind, the team paid particular attention to rhythm and counter space, and shipped the family with five script systems covering more than 550 languages from day one. Version 1.0 was released in February 2025, with all future updates included for Full Family licensees."
+  },
+  {
+    "name": "NaN SuperX Serif",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-superx-serif/",
+    "designer": "Hugues Gentile, Fanny Hamelin, Fadhl Haqq, Léon Hugues, Jean-Baptiste Morizot, Luke Prowse, Florian Runge, Jolana Sýkorová",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "old-style serif",
+    "classification_notes": "High-contrast old-style serif with leaf-shaped teardrops and a calligraphic italic rooted in pointed-nib tradition, drawing on phototypesetting-era proportions with a disproportionately large x-height.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Headline",
+      "Display"
+    ],
+    "subfamilies": [
+      "NaN SuperX Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Arabic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "old-style",
+      "high-contrast",
+      "phototypesetting",
+      "editorial",
+      "campaign",
+      "arabic",
+      "multilingual",
+      "large-xheight"
+    ],
+    "summary": "A high-contrast old-style serif with phototypesetting-era proportions, leaf-shaped teardrops and a pointed-nib italic, available in eight weights across three optical sizes in both Latin and Arabic.",
+    "description": "Designed by the NaN team and released in 2024, NaN SuperX Serif is built around an exaggerated x-height referencing the phototypesetting era, with detailing that balances vivid round forms against sleek angular details: vertical serifs on /C/S/Z, sharp apexes on /V/W and a dynamic italic drawn from pointed-nib calligraphy. Three optical sizes — Text, Headline and Display — allow the family to move from body copy to campaign headlines without losing its character. Covering 482 Latin-based and 33 Arabic-based languages, it pairs directly with NaN SuperX Sans, which shares the same underlying structure and proportions.",
+    "foundry_blurb": "NaN describe SuperX Serif as their homage to phototypesetting-era typefaces characterised by a disproportionately large x-height. They frame it as part of the SuperX system — a serif and sans pairing — noting that the italic is rooted in pointed-nib calligraphy and that three optical sizes bring the family's character down to text sizes without sacrificing legibility. Every licensee of the Full Family package receives future updates at no additional cost."
+  },
+  {
+    "name": "NaN SuperX Sans",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-superx-sans/",
+    "designer": "Hugues Gentile, Fanny Hamelin, Fadhl Haqq, Léon Hugues, Jean-Baptiste Morizot, Luke Prowse, Florian Runge, Jolana Sýkorová",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "NaN describe it as a hybrid humanist sans with grotesque detailing, borrowing its main structure from the companion serif while closed neo-grotesque counters on /c /e /g introduce a contrasting tension between open humanist and closed grotesque forms.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "ExtraLight",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Headline",
+      "Display"
+    ],
+    "subfamilies": [
+      "NaN SuperX Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Arabic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "grotesque",
+      "high-x-height",
+      "phototypesetting",
+      "arabic",
+      "multilingual",
+      "campaign",
+      "editorial"
+    ],
+    "summary": "A hybrid humanist sans with grotesque detailing, built on a disproportionately large x-height drawn in homage to phototypesetting-era typefaces and released across three optical sizes in 8 weights with Latin and Arabic support.",
+    "description": "Its structure and proportions are shared with the companion NaN SuperX Serif, producing open counters and vertical terminal cuts on /a /s /S, while /c /e /g take on a closed neo-grotesque form with horizontal terminals. Three optical sizes — Text, Headline and Display — adjust x-height, contrast, aperture and spacing to suit setting sizes from body copy to billboard. The family covers 482 Latin-based and 33 Arabic-based languages across all weights and italics.",
+    "foundry_blurb": "NaN describe SuperX Sans as a hybrid: a humanist sans with grotesque detailing, or the contrary, drawing its main structure from the SuperX Serif to produce distinct open counters and vertical terminal cuts, while round letters embrace a closed neo-grotesque structure for a vivid, surprising character they call 'quite jolly'. Version 1.1, released October 2025, added optical sizes across every weight, with all Full Family licensees receiving updates at no extra cost."
+  },
+  {
+    "name": "NaN Holo Gigawide Ultra",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-holo-gigawide-ultra/",
+    "designer": "Luke Prowse",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "NaN describe Holo as a neo-Grotesk with biological forms disrupting an industrial frame; rectangular counters paired with rounded curves place it firmly in the neo-grotesque category with an unusually expressive, hybrid character.",
+    "weights": [
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Gigawide"
+    ],
+    "subfamilies": [
+      "NaN Holo Gigawide Ultra"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "wide",
+      "display",
+      "sci-fi",
+      "expressive",
+      "free",
+      "editorial",
+      "identity"
+    ],
+    "summary": "The widest and heaviest cut of NaN's Holo family, a replicant-inspired neo-grotesque with rectangular counters and rounded curves built for large-scale display use.",
+    "description": "NaN Holo GigaWide Ultra sits at the extreme end of a 36-style family originally designed by Luke Prowse, with additional design from the NaN studio. Its defining tension is between squared counters and organic curves, a combination that gives it an atemporal quality, legible and familiar at reading sizes yet visually charged when set large. Available free under a CC BY-ND licence, it covers 219 Latin-based languages and comes with alternate OpenType forms for several characters.",
+    "foundry_blurb": "NaN describe Holo as a replicant-inspired, fleshy neo-Grotesk built on an industrial frame with biological forms disrupting the otherwise machined flow. The GigaWide Ultra is the broadest and heaviest style in the family, made available as a free download under a CC BY-ND licence. The wider-than-usual capitals are cited as a deliberate design decision, giving text rhythm a confident, comfortable breath. Holo Mono is also part of the family, positioned as the code at the typeface's foundation."
+  },
+  {
+    "name": "NaN Rage Beau",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-rage-beau/",
+    "designer": "Hugues Gentile, Fanny Hamelin, Fadhl Haqq, Léon Hugues, Jean-Baptiste Morizot, Luke Prowse, Florian Runge, Jolana Sýkorová",
+    "year": 2024,
+    "category": "slab",
+    "subcategory": "Clarendon slab serif",
+    "classification_notes": "Explicitly described as Clarendon-esque with thick rectangular bracket-less serifs and ball terminals, placing it firmly in the slab serif category with a Clarendon lineage distinguished by its mix of organic stroke contrast and geometric detailing.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Narrow",
+      "XCondensed"
+    ],
+    "subfamilies": [
+      "NaN Rage Beau Standard",
+      "NaN Rage Beau Narrow",
+      "NaN Rage Beau XCondensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "clarendon",
+      "victorian",
+      "titling",
+      "text",
+      "editorial",
+      "multi-width",
+      "contemporary"
+    ],
+    "summary": "A contemporary Clarendon-lineage slab serif spanning 4 widths and 9 weights, balancing organic stroke contrast with bracket-less geometric serifs and ball terminals.",
+    "description": "Part of NaN's broader Rage Typographic Universe, Rage Beau draws on Victorian slab serif heritage without period affectation, combining generous curves and stroke contrast with plain, bracket-less serifs and near-circular ball terminals. Four widths from Standard to XCondensed give the family genuine range, covering display settings at extreme sizes down to body text columns. The result sits credibly between a strong titling face and a workable running-text type across 305 Latin-based languages.",
+    "foundry_blurb": "NaN describe Rage Beau as a Clarendon-esque slab serif with a sleek and contemporary personality, designed to balance organic qualities such as stroke contrast and generous curves against geometric details including bracket-less serifs and circular rounds. Available in 4 widths and 9 weights, it is positioned as both a titling face and a running-text workhorse, and forms part of the wider NaN Rage Typographic Universe."
+  },
+  {
+    "name": "NaN Rage Slab",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-rage-slab/",
+    "designer": "Hugues Gentile, Fanny Hamelin, Fadhl Haqq, Léon Hugues, Jean-Baptiste Morizot, Luke Prowse, Florian Runge, Jolana Sýkorová",
+    "year": 2024,
+    "category": "slab",
+    "subcategory": "neo-grotesque slab",
+    "classification_notes": "Bracket-less serifs, perfectly horizontal terminals and simplified non-decorative forms explicitly borrow from neo-grotesque conventions, placing this firmly in a contemporary, ahistorical strand of the slab-serif genre.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Narrow",
+      "XCondensed"
+    ],
+    "subfamilies": [
+      "NaN Rage Slab Standard",
+      "NaN Rage Slab Narrow",
+      "NaN Rage Slab XCondensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "neo-grotesque",
+      "contemporary",
+      "editorial",
+      "display",
+      "multi-width",
+      "sharp",
+      "geometric"
+    ],
+    "summary": "A bracket-less slab-serif built across four widths and nine weights, drawing its clean horizontal terminals from the neo-grotesque tradition.",
+    "description": "Part of the NaN Rage Typographic Universe, Rage Slab strips the slab-serif of ornamental habit: no brackets, no decorative stress, just sharp interruptions and flat endings that read more neo-grotesque than Victorian. The four widths, from Standard through to XCondensed, give the family genuine range from text columns at small sizes to towering condensed display headlines. Compared to its sibling Rage Beau, it runs cooler and more restrained, prioritising utility over warmth.",
+    "foundry_blurb": "NaN describe Rage Slab as a modern take on the slab-serif genre, applying a \"less is more\" approach that results in bracket-less serifs, simplified non-decorative forms and sharp interruptions. They note its perfectly horizontal endings borrow from the neo-grotesque, and position it as a cooler, sleeker counterpart to Rage Beau within the broader NaN Rage Typographic Universe. Four widths and nine weights per width allow precise fine-tuning for both narrow titling and body text."
+  },
+  {
+    "name": "NaN Rage Sans",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-rage-sans/",
+    "designer": "Hugues Gentile, Fanny Hamelin, Fadhl Haqq, Léon Hugues, Jean-Baptiste Morizot, Luke Prowse, Florian Runge",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A subtly contrasted sans with 19th-century undertones, warm detailing and open counters that place it in the humanist sans tradition, though cold geometric touches like horizontal stroke endings add a distinctive hybrid character.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Narrow",
+      "XCondensed"
+    ],
+    "subfamilies": [
+      "NaN Rage Sans Standard",
+      "NaN Rage Sans Narrow",
+      "NaN Rage Sans XCondensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "contrasted",
+      "multi-width",
+      "editorial",
+      "text",
+      "display",
+      "warm",
+      "19th-century"
+    ],
+    "summary": "A subtly contrasted sans in four widths and nine weights, combining warm 1800s inflections with cold geometric detailing across 305 Latin-based languages.",
+    "description": "Part of NaN's Rage Typographic Universe alongside Rage Beau and Rage Slab, this family blends delicate stroke contrast and open counters with sharp horizontal terminals and square punctuation. The four widths, Standard, Narrow and XCondensed, each running nine weights from Thin to Black, give it genuine range from dense editorial columns to broad display settings. The hybrid character, part warm humanist, part cool grotesque, makes it unusually versatile without feeling undecided.",
+    "foundry_blurb": "NaN describe Rage Sans as a subtly contrasted sans inheriting gentle 1800s undertones from its Rage Beau and Slab cousins, mixing cold sleek detailing such as perfectly horizontal endings and square punctuation with a sense of delicacy and warmth. Its thinner endings allow for relatively open counters, giving it a bright and pleasant character with increased legibility. Available in four widths and nine weights, it is part of the broader NaN Rage Typographic Universe."
+  },
+  {
+    "name": "NaN Rage Poly",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-rage-poly/",
+    "designer": "Hugues Gentile, Fanny Hamelin, Fadhl Haqq, Léon Hugues, Jean-Baptiste Morizot, Luke Prowse, Florian Runge, Jolana Sýkorová",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A curveless sans-serif where all curves are replaced with straight polygonal segments, giving it a geometric and angular character distinct from conventional grotesque or humanist sans families.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Narrow",
+      "XCondensed"
+    ],
+    "subfamilies": [
+      "NaN Rage Poly Standard",
+      "NaN Rage Poly Narrow",
+      "NaN Rage Poly XCondensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "curveless",
+      "polygonal",
+      "glitchy",
+      "editorial",
+      "display",
+      "experimental",
+      "angular"
+    ],
+    "summary": "A sans-serif in which every curve is replaced with straight polygonal segments, producing a glitchy, angular quality that shifts dramatically across its nine weights and four widths.",
+    "description": "Part of the NaN Rage Typographic Universe, Poly pushes a single formal constraint — no curves whatsoever — across 36 styles spanning four widths from Standard to XCondensed and nine weights from Thin to Black. The effect is subtle in heavier weights at small sizes but becomes conspicuous and expressive in the lighter cuts, where the faceted outlines read as both geometric and slightly corrupted. Small details such as flat diamond periods and tittles reinforce the polygonal logic rather than treating it as mere surface novelty.",
+    "foundry_blurb": "NaN describe Rage Poly as a curveless sans-serif in which every curve has been replaced by a series of straight segments, an effect they trace to geometry, technology, cubism and futurism without committing to any single origin. Available in four widths and nine weights, it supports 305 Latin-based languages and forms part of the broader NaN Rage Typographic Universe."
+  },
+  {
+    "name": "NaN Rage Quik",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-rage-quik/",
+    "designer": "Hugues Gentile, Fanny Hamelin, Fadhl Haqq, Léon Hugues, Jean-Baptiste Morizot, Luke Prowse, Florian Runge, Jolana Sýkorová",
+    "year": 2024,
+    "category": "script",
+    "subcategory": "informal script",
+    "classification_notes": "Rooted in Sharpie pen lettering and graffiti, NaN Rage Quik is an informal script with broken angular structures, a minimal slant, and idiosyncratic closed counters that separate it from conventional calligraphic or brush script traditions.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Narrow",
+      "Condensed",
+      "XCondensed"
+    ],
+    "subfamilies": [
+      "NaN Rage Quik Standard",
+      "NaN Rage Quik Narrow",
+      "NaN Rage Quik Condensed",
+      "NaN Rage Quik XCondensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "graffiti",
+      "sharpie",
+      "editorial",
+      "display",
+      "irregular",
+      "expressive",
+      "grotesque-script"
+    ],
+    "summary": "A graffiti- and Sharpie-inflected script with 36 styles across four widths and nine weights, part of NaN's broader Rage Typographic Universe.",
+    "description": "Drawing on Sharpie pen lettering and graffiti rather than any formal calligraphic tradition, Rage Quik combines angular, broken structures with a low slant angle that keeps text readable at smaller sizes. Closed counters on key glyphs such as /a and /e replace conventional bowls with single straight strokes, giving the face a distinctly abrupt character. The four widths from Standard to XCondensed allow it to move between tight headline columns and display settings without losing its edge.",
+    "foundry_blurb": "NaN describe Rage Quik as an unapologetic script with roots in Sharpie pen lettering and graffiti, calling it a free spirit not beholden to any particular school. Available in 4 widths and 9 weights, it supports 305 Latin-based languages and is part of the wider NaN Rage Typographic Universe, engineered with additional input from Igino Marini."
+  },
+  {
+    "name": "NaN Rage Zipp",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-rage-zipp/",
+    "designer": "Hugues Gentile, Fanny Hamelin, Fadhl Haqq, Léon Hugues, Jean-Baptiste Morizot, Luke Prowse, Florian Runge, Jolana Sýkorová",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "Derived from NaN Rage Poly by stripping curves and points to produce angular, glitch-like letterforms; the result is too distorted for body text use and functions primarily as a display or expressive typeface.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Narrow",
+      "XCondensed"
+    ],
+    "subfamilies": [
+      "NaN Rage Zipp Standard",
+      "NaN Rage Zipp Narrow",
+      "NaN Rage Zipp XCondensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "glitch",
+      "angular",
+      "expressionist",
+      "display",
+      "editorial",
+      "woodcut",
+      "geometric"
+    ],
+    "summary": "A radical reduction of NaN Rage Poly in which all curves have been stripped out, leaving diamond-shaped rounds and spike-like stems across four widths and nine weights.",
+    "description": "Born from a deliberate process of deleting curves and anchor points from NaN Rage Poly, Zipp reduces letterforms to their sharpest possible geometry. Round letters become diamonds balanced on a point, stems narrow to spiky slivers, and set text builds an irregular, sculptural texture. The family spans Standard, Narrow and XCondensed widths, each in nine weights from Thin to Black, covering 305 Latin-based languages and forming part of the wider NaN Rage Typographic Universe.",
+    "foundry_blurb": "NaN describe Rage Zipp as an experiment gone wrong, pushing the idea of deleting curves and points from a font to its limit. They note that round letters become diamonds sitting on their tips, stems become spiky toothpicks, and in paragraphs the typeface builds a texture full of surprises, each letter sitting almost like a small sculpture on the page. They link it to the glitch aesthetic and to German expressionist woodcuts, and position it within the broader NaN Rage Typographic Universe."
+  },
+  {
+    "name": "NaN Serf",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-serf/",
+    "designer": "Daria Cohen, Fadhl Haqq, Léon Hugues, Jean-Baptiste Morizot, Luke Prowse, Florian Runge",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "old-style serif",
+    "classification_notes": "NaN describe it as a present-day old-style serif; orthogonal terminals and open counters place it firmly in the old-style genre while the flat, squared detailing gives it a contemporary, vectorial sensibility.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Book",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Headline",
+      "Text",
+      "Micro"
+    ],
+    "subfamilies": [
+      "NaN Serf A",
+      "NaN Serf B"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "old-style",
+      "editorial",
+      "optical-sizes",
+      "screen",
+      "branding",
+      "multi-channel",
+      "contemporary",
+      "versatile"
+    ],
+    "summary": "A contemporary old-style serif from NaN available in four optical sizes, eight weights and two punctuation variants, built to perform from micro captions to large-scale display work.",
+    "description": "Orthogonal terminals and flat punctuation give this old-style serif a sharp, vectorial character that reads as warm at small sizes and crisp at display scale. Four optical cuts — Display, Headline, Text and Micro — cover the full range of typographic environments, while two stylistic versions offer squared dots and punctuation (A) or traditional rounded forms (B). Italics were added across all eight weights in a 2024 update, with monospaced variants flagged as a possible future addition.",
+    "foundry_blurb": "NaN describe Serf as a present-day old-style serif built to excel at all sizes, with perpendicular terminals, open counters and flat terminal-endings that behave well on screen through sharp pixel-snapping. It covers 305 Latin-based languages, comes in TTF and WOFF2 formats with autohinting, and is available in two versions: Serf A with stylised squared punctuation and Serf B with traditional rounded forms. A companion sans, NaN Serf Sans, is also available."
+  },
+  {
+    "name": "NaN Tresor",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-tresor/",
+    "designer": "Christoph Koeberlin",
+    "year": 2018,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The typeface draws on historical revival material with varied structural approaches across styles, suggesting a transitional serif lineage. Its optical size range, swash caps and ornamental alternates place it firmly in the classical serif tradition with display ambitions.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "S",
+      "M",
+      "L"
+    ],
+    "subfamilies": [
+      "NaN Tresor S",
+      "NaN Tresor M",
+      "NaN Tresor L",
+      "NaN Tresor Swash"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "revival",
+      "historical",
+      "alternates",
+      "swash",
+      "optical-sizes",
+      "editorial",
+      "display"
+    ],
+    "summary": "An anachronous serif revival by Christoph Koeberlin that deliberately preserves glyph variation across styles rather than rationalising them into a single consistent structure.",
+    "description": "Rather than resolving the inconsistencies typical of historical source material, Koeberlin kept them, producing a family where structural variation between styles is a feature rather than an oversight. Three optical cuts span small-text spacing (S) through all-purpose (M) to tightly packed display settings (L), with the Swash subfamily adding ornamental caps and swashes by default. Each style carries roughly eight alternates per glyph, giving users a wide range of period textures from a single font file, supported across 420 Latin-based languages.",
+    "foundry_blurb": "NaN describe Tresor as an 'anachronous revival' by Christoph Koeberlin, designed to preserve rather than rationalise the structural inconsistencies found in historical type. The family is available in three optical sizes — S for small text, M for general use and L for titles — alongside a Swash variant with ornamental caps active by default, all offering up to eight alternates per glyph."
+  },
+  {
+    "name": "NaN Rage",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-rage-family/",
+    "designer": "Hugues Gentile, Fanny Hamelin, Fadhl Haqq, Léon Hugues, Jean-Baptiste Morizot, Luke Prowse, Florian Runge, Jolana Sýkorová",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "type system",
+    "classification_notes": "A multi-family typographic system spanning slab serifs, grotesque sans-serifs, rounded, script and experimental styles, making it most accurately categorised as a display-oriented type system drawing from 19th-century wood-type and early computing references.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "XCondensed",
+      "Narrow",
+      "Standard"
+    ],
+    "subfamilies": [
+      "NaN Rage Beau",
+      "NaN Rage Slab",
+      "NaN Rage Sans",
+      "NaN Rage Soft",
+      "NaN Rage Poly",
+      "NaN Rage Quik",
+      "NaN Rage Zipp"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "type-system",
+      "wood-type",
+      "slab",
+      "grotesque",
+      "rounded",
+      "script",
+      "display",
+      "historical-revival"
+    ],
+    "summary": "Seven matched font families in one system, drawing on 19th-century titling wood-types and early computer fonts across slab, sans, rounded, script and experimental styles.",
+    "description": "NaN Rage is a collection of seven distinct but harmonised families — Beau, Slab, Sans, Soft, Poly, Quik and Zipp — sharing proportions, contrast and language support across 305 Latin-based languages. Each family spans Extra-Condensed to Standard widths and Thin to Black in weight, offering 36 styles per subfamily. The system is positioned as ahistorical, pulling reference from Victorian wood-type titling and early bitmap computing without anchoring itself to either period.",
+    "foundry_blurb": "NaN describe Rage as a Typographic Universe: a collection of seven matching font families paying homage to 19th-century titling wood-types (slab serifs, early sans-serifs, rounded forms) and early computer fonts. They position it as an ahistorical type system for the present, offering a wide palette from slab and sans to script and what they call a 'weirdo', all with matching proportions, weights and language coverage. The full system is available for a starting price of 450€, structured as seven families for the price of two."
+  },
+  {
+    "name": "NaN Spaceland",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-spaceland/",
+    "designer": "Jack Llewellyn",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "experimental grotesque",
+    "classification_notes": "Built on a mono-linear grotesque skeleton but distinguished by Boolean-geometry overlapping outlines that create simultaneous positive and negative space effects; the experimental construction and illustrative qualities at larger sizes push it firmly into display territory.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "NaN Spaceland"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "experimental",
+      "display",
+      "digital",
+      "boolean",
+      "geometric",
+      "editorial",
+      "glitch"
+    ],
+    "summary": "A grotesque with overlapping outlines derived from Boolean geometry, creating letterforms where inner and outer space become deliberately ambiguous.",
+    "description": "Designed by Jack Llewellyn and released with NaN between 2022 and 2024, Spaceland applies the Boolean intersection principle to a mono-linear grotesque structure, producing outlines that fold over themselves like a Möbius strip. In lighter weights the breaks are subtle and close to elegant; in the heaviest styles the collisions become openly illustrative, inviting the reader to trace the intertwined forms. The glyph names reference characters from E. A. Abbott's Flatland, grounding the spatial conceit in a specific literary precedent.",
+    "foundry_blurb": "NaN describe Spaceland as Jack Llewellyn's debut release with the foundry, conceived around the Boolean geometric principle of two positive shapes creating a negative intersection. The overlapping outlines confound inner and outer space simultaneously, ranging from discreet elegance at lighter weights to an almost illustrative boldness at the heaviest. Supporting 310 Latin-based languages and available in TTF and WOFF2 formats, its character names draw from the three-dimensional world in E. A. Abbott's Flatland."
+  },
+  {
+    "name": "NaN Metrify",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-metrify/",
+    "designer": "Luke Prowse & J.B Morizot",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "NaN explicitly position Metrify within the neo-grotesque tradition, referencing Swiss International Style precedents while extending the genre across nine widths, six weights and multiple world scripts. The three ABC flavours (A, B, C) operate within the neo-grotesk skeleton with varying degrees of detail and geometric influence.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "XCondensed",
+      "Condensed",
+      "Narrow",
+      "Standard",
+      "Wide",
+      "XWide",
+      "XXWide",
+      "Gigawide"
+    ],
+    "subfamilies": [
+      "NaN Metrify A",
+      "NaN Metrify B",
+      "NaN Metrify C"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Arabic",
+      "Cyrillic",
+      "Greek",
+      "Hebrew",
+      "Thai",
+      "Pan-African"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "variable",
+      "world-type",
+      "multilingual",
+      "wide-range",
+      "branding",
+      "editorial",
+      "systematic"
+    ],
+    "summary": "A 108-style-per-variant neo-grotesque family available in three distinct flavours and seven writing systems, built as a genuinely international sans for contemporary branding.",
+    "description": "Designed by Luke Prowse and J.B Morizot with specialist consultants for each script, Metrify spans nine widths from Compressed to Gigawide across six weights with matching italics, all delivered as a variable font. Three versions, A, B and C, share a common skeleton but differ in detail density: A carries industrial warmth, B strips back to a rational minimum, and C pushes toward simplified geometric forms. Arabic, Cyrillic, Greek, Hebrew, Thai and Pan-African versions extend the family beyond the Latin-centric conventions of its historical precedents.",
+    "foundry_blurb": "NaN describe Metrify as their 'behemoth, no-bullshit take on the Neo/Grotesk sans-serif genre', framing it as their first world-type family. Questioning what a sans should be in 2023, they worked with script consultants across Arabic, Cyrillic, Greek, Hebrew, Thai and Pan-African writing systems to produce a typeface that is 'truly international'. The three ABC flavours were conceived to give the neo-grotesque genre distinct voices rather than treating it as a uniform sub-genre."
+  },
+  {
+    "name": "NaN Success",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-success/",
+    "designer": "Jérémy Landes",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "art nouveau display",
+    "classification_notes": "NaN Success Titling draws directly from late Art Nouveau letterforms with an extreme ligature system and multi-width alternate glyphs; the family is designed first and foremost as a titling and display system, with text and sans companions subordinate to that purpose.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Normal",
+      "Wide"
+    ],
+    "subfamilies": [
+      "NaN Success Titling",
+      "NaN Success Sans",
+      "NaN Success Text"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "art-nouveau",
+      "display",
+      "titling",
+      "ligatures",
+      "gothic",
+      "organic",
+      "editorial",
+      "expressive"
+    ],
+    "summary": "A three-subfamily display system by Jérémy Landes built around 280 ligatures drawn from late Art Nouveau sources, spanning Latin and Cyrillic scripts.",
+    "description": "Designed by Jérémy Landes and released between 2021 and 2022, the family splits into three distinct but related sub-families: Success Titling, a ligature-dense display face with multi-width alternates that blend compressed and wide glyphs to mimic hand-lettering; Success Sans, which transplants the same organic curves onto a condensed gothic skeleton; and Success Text, a low-contrast workhorse tuned for long reading. The Titling sub-family offers Compressed, Normal and Wide optical widths, and the full family covers 317 Latin-based and 44 Cyrillic-based languages. Fifteen per cent of revenue goes to ClientEarth, with free licences available for environmental projects.",
+    "foundry_blurb": "NaN describe Success as an essay on titling typography, drawing from late Art Nouveau references including De Vinne and Louis Jou, with Jérémy Landes packing the Titling sub-family with 280 ligatures across Latin and Cyrillic. Multi-width ligatures mix compressed and wide glyphs to create a hand-lettering quality, while Success Sans distils the family's curves onto a gothic skeleton and Success Text offers a warm, low-contrast companion for continuous reading."
+  },
+  {
+    "name": "NaN Holo",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-holo/",
+    "designer": "Luke Prowse",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "NaN describe it as a neo-Grotesk built on an industrial frame with biological disruptions; the rectangular counters paired with rounded curves place it squarely in the neo-grotesque tradition with an unusual biomechanical inflection.",
+    "weights": [
+      "Blond",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "X-Condensed",
+      "Condensed",
+      "Narrow",
+      "Regular"
+    ],
+    "subfamilies": [
+      "NaN Holo",
+      "NaN Holo Compressed",
+      "NaN Holo X-Condensed",
+      "NaN Holo Condensed",
+      "NaN Holo Narrow",
+      "NaN Holo Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "biomechanical",
+      "sci-fi",
+      "editorial",
+      "monospaced",
+      "wide-capitals",
+      "versatile",
+      "expressive"
+    ],
+    "summary": "A neo-grotesque by Luke Prowse that pits rectangular counters against rounded curves to produce a typeface with a distinctly biomechanical tension, available across five widths and a monospaced companion.",
+    "description": "Designed by Luke Prowse with additional work from Jean-Baptiste Morizot and Fátima Lázaro, the family runs from Compressed to a standard width, each sharing the same deliberate friction between hard-edged counters and organic curves. Wider-than-usual capitals give the text rhythm an open, unhurried quality that persists even as those idiosyncratic details flatten at smaller sizes into a steady workhorse. NaN Holo Mono extends the system into a monospaced cut suited to code and terminal display, completing a family equally at home in editorial display and UI contexts.",
+    "foundry_blurb": "NaN describe Holo as a replicant-inspired, fleshy neo-Grotesk built on an industrial frame with biological forms disrupting an otherwise machined flow. They frame its central tension as the interplay between rectangular counters and rounded curves, producing what they call an atemporal spirit that reads as both familiar and unfamiliar. Holo Mono is positioned as the code at the typeface's foundation, extending the system into monospaced territory."
+  },
+  {
+    "name": "NaN Hyena",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-hyena/",
+    "designer": "Reymund Schröder",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A humanist sans-serif rooted in an extrapolation of Hildegard Korger's calligraphic work, with three stylistically distinct subfamilies distinguished by terminal treatment rather than weight alone.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "NaN Hyena Sunrise",
+      "NaN Hyena Noon",
+      "NaN Hyena Sunset"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "editorial",
+      "expressive",
+      "calligraphic",
+      "multi-subfamily",
+      "contemporary",
+      "typographic-mood",
+      "cultural-reference"
+    ],
+    "summary": "A humanist sans in three distinct subfamilies, each named for a time of day and distinguished by terminal treatment, drawn from the calligraphic legacy of Hildegard Korger.",
+    "description": "Reymund Schröder conceived NaN Hyena as a sculptural exercise and an act of alternate typographic history, extrapolating from the work of 20th-century calligrapher Hildegard Korger. The three subfamilies, Sunrise, Noon and Sunset, are differentiated not by optical size or width but by terminal character: concave stems for the crisp morning feel of Sunrise, flat terminals for the settled assurance of Noon, and rounded endings with hairline connections in the warmer Sunset. NaN frame this as type impressionism, encouraging use of all three together across a single page or even a single word to create contrast through mood rather than conventional hierarchy.",
+    "foundry_blurb": "NaN describe Hyena as Reymund Schröder's crisp take on the humanist sans, initially conceived as a sculptural exercise and rooted in his practice of Typographic Uchronias, or alternate typographic history. Extrapolating from the work of calligrapher and type designer Hildegard Korger, Schröder named the three subfamilies after times of day, framing the contrast between them as analogous to Monet's studies of Rouen Cathedral under shifting light. The family supports 219 Latin-based languages and was released between 2021 and 2022 with additional production by Thomas Thiemich."
+  },
+  {
+    "name": "NaN Tragedy",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-tragedy/",
+    "designer": "Jean-Baptiste Morizot",
+    "year": 2019,
+    "category": "serif",
+    "subcategory": "high-contrast serif",
+    "classification_notes": "A high-contrast serif with an exaggerated calligraphic stress axis and classical skeleton, spanning optical sizes from text to display with a monospaced sibling; the diagonal stress and dramatic contrast place it firmly in the high-contrast serif tradition despite its unconventional detailing.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "NaN Tragedy Text",
+      "NaN Tragedy Display",
+      "NaN Tragedy Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "calligraphic",
+      "editorial",
+      "expressive",
+      "theatrical",
+      "text",
+      "display",
+      "monospace"
+    ],
+    "summary": "A high-contrast serif by Jean-Baptiste Morizot that pairs a classical calligraphic skeleton with exaggerated geometric detailing across Text, Display and Mono subfamilies.",
+    "description": "Built on a classical scribe's structure with contrast axis pushed to dramatic extremes, the family separates into a Text cut for running copy and a Display cut for theatrical headlines. A Mono sibling, co-designed with Léon Hugues and Daria Cohen, applies monospace constraints to the same modulated diagonal stress, producing a texture unusual in that genre. The italics are particularly expressive, and the family covers 219 Latin-based languages across TTF and WOFF2 formats.",
+    "foundry_blurb": "NaN describe Tragedy as the unexpected consequence of time travel, a chimera of two eras: the pace of a religious scribe meeting the geometrical precision of CERN's atom accelerator. Text applies optical corrections and an economical approach to its unconventional shapes for functional reading; Display amplifies the theatrics for headlines; and Mono pushes the contradictions furthest by applying technological constraints to that calligraphic modulation."
+  },
+  {
+    "name": "NaN Jaune",
+    "foundry": "NaN",
+    "url": "https://www.nan.xyz/fonts/nan-jaune/",
+    "designer": "Jérémy Landes",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A closed-aperture grotesque with deliberately colliding glyph anatomy, positioning itself as an intentionally rule-breaking sans-serif; the foundry's own framing of inverting convention places it firmly in the grotesque tradition pushed to expressive extremes.",
+    "weights": [
+      "Thin",
+      "Blond",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "NaN Jaune Maxi",
+      "NaN Jaune Midi",
+      "NaN Jaune Mini"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "closed-apertures",
+      "expressive",
+      "display",
+      "editorial",
+      "experimental",
+      "multilingual",
+      "ink-traps"
+    ],
+    "summary": "A deliberately contrarian grotesque by Jérémy Landes that weaponises closed apertures and colliding anatomy across three subfamilies spanning display to text use.",
+    "description": "Designed by Jérémy Landes with italic and Cyrillic by Vika Usmanova, NaN Jaune inverts conventional type wisdom by forcing together glyph elements that would typically be kept apart, with closed apertures throughout. Three subfamilies serve distinct roles: Maxi is a display-weight bruiser with short extenders; Midi works across contexts; and Mini trades in open counters and deep ink traps for sustained reading. Across all three, the family covers 339 Latin-based and 16 Cyrillic-based languages, with italic variants in every subfamily.",
+    "foundry_blurb": "NaN describe Jaune as the embodiment of their motto — take a bad idea and do it well, or at least die trying. Where most type designers avoid colliding glyph anatomy and closed apertures, Jaune sticks together that which normally shouldn't touch. The family runs from Maxi (display, with a range from Thin to Black) through Midi (an all-terrain middle child) to Mini (simplified structure with open counters and ink traps for small sizes), with the full collection spanning 339 Latin-based and 16 Cyrillic-based languages."
   }
 ]

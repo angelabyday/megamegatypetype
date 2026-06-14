@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ThemeToggle } from "@/components/theme-toggle";
+import { BackToTop } from "@/components/back-to-top";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -45,6 +46,10 @@ export default function RootLayout({
             <div className="flex items-center gap-4">
             <ThemeToggle />
             <nav className="flex items-center gap-0 rounded-full bg-foreground text-background text-sm overflow-hidden">
+              <Link href="/foundries" className="px-4 py-1.5 hover:opacity-75 transition-opacity">
+                Foundries
+              </Link>
+              <span className="w-px self-stretch bg-background/20" aria-hidden="true" />
               <Link href="/brief" className="px-4 py-1.5 hover:opacity-75 transition-opacity">
                 Font Brief
               </Link>
@@ -64,6 +69,7 @@ export default function RootLayout({
           </p>
         </header>
         <main className="flex-1">{children}</main>
+        <BackToTop />
         <footer className="border-t-[0.5px] border-border">
           <div className="mx-auto px-4 py-4 text-xs text-muted-foreground sm:px-6">
             Typeface data drawn from each foundry&apos;s own catalogue. All
