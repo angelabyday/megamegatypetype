@@ -120,6 +120,26 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "TypeMates", slug: "typemates", homepage: "https://www.typemates.com/", tier: "okay" },
 ];
 
+// Foundries confirmed unscrapable — JS-rendered, bot-blocked, or no listing page.
+// domain matches foundries.json domain field.
+export const BLOCKED_FOUNDRIES: { domain: string; name: string; reason: string }[] = [
+  { domain: "aeonik.co.uk", name: "Aeonik", reason: "redirects to CoType; CoType is JS-rendered" },
+  { domain: "cotypefoundry.com", name: "CoType Foundry", reason: "JS-rendered, no crawlable listing" },
+  { domain: "supply.family", name: "Zarma Type", reason: "reseller aggregator, not a single foundry page" },
+  { domain: "studioplums.com", name: "Ian Adjeidu", reason: "portfolio site, no listing page" },
+  { domain: "experim-etal.lettersetal.co.uk", name: "Lettersetal", reason: "JS-rendered" },
+  { domain: "limitype.com", name: "Limitype", reason: "JS-rendered, no crawlable listing" },
+  { domain: "mcletters.co", name: "McLetters", reason: "JS-rendered" },
+  { domain: "capitalics.wtf", name: "Capitalics", reason: "JS-rendered" },
+  { domain: "typokompanii.com", name: "Tüpokompanii", reason: "JS-rendered" },
+  { domain: "threedotstype.com", name: "Threedotstype", reason: "JS-rendered, no listing page" },
+  { domain: "typeverything.com", name: "Typeverything", reason: "inspiration blog, not a foundry" },
+  { domain: "behance.net", name: "Rajesh Rajput", reason: "Behance portfolio, not indexable" },
+  { domain: "castletype.com", name: "Castle Type", reason: "old static site, no structured listing" },
+  { domain: "youworkforthem.com", name: "YouWorkForThem", reason: "reseller marketplace, not a foundry" },
+  { domain: "paratype.com", name: "Paratype", reason: "large catalogue, no structured listing page" },
+];
+
 export function getFoundryBySlug(slug: string): FoundryInfo | undefined {
   return FOUNDRIES.find((f) => f.slug === slug);
 }
