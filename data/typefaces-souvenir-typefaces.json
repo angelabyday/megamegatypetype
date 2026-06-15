@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Label",
+    "foundry": "Souvenir Typefaces",
+    "url": "https://www.souvenirtypefaces.xyz/fonts/label",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Label is built from reductive, pragmatic letterforms with geometric clarity, placing it firmly in the geometric sans tradition. Alternate double-storey 'a' and 'u' forms suggest some humanist inflection, but the default construction is stripped back and utilitarian.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Label"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "utilitarian",
+      "workhorse",
+      "functional",
+      "packaging",
+      "editorial",
+      "neutral",
+      "versatile"
+    ],
+    "summary": "A reductive geometric sans in five weights with matching italics, designed with functional clarity and a restrained expressive character.",
+    "description": "Built by stripping letterforms back to their most pragmatic shapes, Label sits in productive tension between utility and personality. Alternate forms for 'a', 'u' and '1' give it some flexibility of register, and OpenType features including oldstyle figures, small capitals and tabular figures make it a capable text face. Sample strings drawn from product labelling, recipes and retail copy suggest a natural home in packaging and commercial print.",
+    "foundry_blurb": "Souvenir Typefaces describe Label as arising from an exploration of how functionality and expressiveness can coexist in letterforms. They pursued maximum clarity through reductive, straightforward shapes, with the result being a workhorse typeface where functional reductiveness and expressive personality remain in constant dialogue, suited for both straightforward communication and distinctive self-expression."
+  },
+  {
+    "name": "Gratitude",
+    "foundry": "Souvenir Typefaces",
+    "url": "https://www.souvenirtypefaces.xyz/fonts/gratitude",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "elzevir-slab hybrid",
+    "classification_notes": "Gratitude merges slab serif geometry with elzevir humanist warmth, shifting character across its weight range; lighter cuts lean clinical and geometric, heavier cuts towards expressive humanist slab territory.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gratitude"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "elzevir",
+      "humanist",
+      "editorial",
+      "text",
+      "weight-variable-character",
+      "contemporary"
+    ],
+    "summary": "A slab serif that deliberately shifts in personality across its weight range, moving from geometric precision at Light to humanist warmth at Bold.",
+    "description": "Gratitude is built on a conceptual tension between slab serif geometry and elzevir expressiveness, with lighter weights favouring clean, analytical forms and heavier weights introducing the warmer, more idiosyncratic traits of the elzevir tradition. Eight styles cover four weights from Light to Bold, each with a matching italic, supported by oldstyle figures, tabular figures, fractions, superscripts and a slashed zero. The result is a family that offers a spectrum of typographic temperature within a single, cohesive system.",
+    "foundry_blurb": "Souvenir Typefaces describe Gratitude as a deliberate merger of two typographic traditions that rarely converse: the cool precision of slab serifs and the warm personality of elzevir styles. They explain that lighter cuts embrace clinical efficiency and geometric clarity, while increasing weights gradually introduce expressive, humanist characteristics, creating what they call a spectrum of typographic temperature across the family."
+  }
+]

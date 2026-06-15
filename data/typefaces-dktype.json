@@ -1,0 +1,339 @@
+[
+  {
+    "name": "DK Griduo",
+    "foundry": "DK Type",
+    "url": "https://dktype.com/font/DKGriduo",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A strictly grid-based geometric display typeface with variable axis interpolating between sharp and rounded terminals; no text weights or running-copy intent, placing it firmly in the display category.",
+    "weights": [
+      "Variable"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "DK Griduo Variable",
+      "DK Griduo Sharp",
+      "DK Griduo Round"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "variable",
+      "grid",
+      "modernist",
+      "technical",
+      "rounded"
+    ],
+    "summary": "A variable display typeface built on a strict mathematical grid, interpolating between sharp geometric terminals and clean rounded forms.",
+    "description": "Built on a rigid mathematical matrix, the family offers three styles: a variable font spanning the full axis, a sharp cut with hard geometric terminals and a round cut with softened corners. The character set covers Latin Extended with a handful of OpenType alternates, including a simplified I and alternate a and o. Suited to high-impact headlines and identity work where strict geometric order is the point.",
+    "foundry_blurb": "DK Type describe DK Griduo as a rigorous display font system inspired by the pure logic of modernist grid design and systematic typography. Built on a strict mathematical matrix, the variable duo transitions between sharp technical geometry and clean rounded forms, neutralising decorative excess so that form complies strictly with geometric parameters."
+  },
+  {
+    "name": "DK Traps",
+    "foundry": "DK Type",
+    "url": "https://dktype.com/font/DKTraps",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "novelty display",
+    "classification_notes": "A single-weight display typeface built around exaggerated ink-traps as a decorative feature rather than a functional one, placing it firmly in novelty display territory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "DK Traps"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "novelty",
+      "ink-traps",
+      "bold",
+      "quirky",
+      "playful",
+      "decorative"
+    ],
+    "summary": "A single-weight display face that turns ink-traps into a conspicuous decorative motif across heavy letterforms.",
+    "description": "Available as a free download, DK Traps offers one weight built around exaggerated notched ink-traps cut into bold curves and joins. The effect is deliberately playful rather than technically motivated, making it suited to short-form display use such as posters, logos or event branding. Latin Extended coverage is reasonable for a single-style novelty face, though the lack of weights or italics limits its range.",
+    "foundry_blurb": "DK Type describe DK Traps as a typeface that reframes the ink-trap as a bold design feature rather than a functional printing aid, positioning it as an invitation to unexpected fun. They emphasise its heavy curves, quirky personality, and playful visual character, pitching it as a typeface you can get lost in."
+  },
+  {
+    "name": "DK Grotesk",
+    "foundry": "DK Type",
+    "url": "https://dktype.com/font/DKGrotesk",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Positioned as a modern grotesque sans inspired by classic grotesk designs, with the clean geometry and uniform stroke weight typical of the category.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "DK Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "variable",
+      "neutral",
+      "clean",
+      "legible",
+      "modern"
+    ],
+    "summary": "A generic modern grotesque in nine weights with matching italics and a variable font, pitched at digital interfaces and editorial work.",
+    "description": "Nine weights from Thin to Black, each with an italic, plus a variable font axis make this a broadly usable grotesque family. Character coverage extends through Latin Extended-A and includes standard and discretionary ligatures alongside alternates for a handful of glyphs. The design offers nothing that distinguishes it from dozens of comparable grotesques, but it functions adequately at body and display sizes.",
+    "foundry_blurb": "DK Type describe DK Grotesk as a modern sans serif inspired by the timeless qualities of classic grotesk designs, with a focus on readability and versatile functionality. They position it for digital interfaces, editorial design and branding, citing its balance of utility and beauty."
+  },
+  {
+    "name": "DK Play",
+    "foundry": "DK Type",
+    "url": "https://dktype.com/font/DKPlay",
+    "designer": "Darman Kadir",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Explicitly draws from Swiss-style typefaces such as Helvetica, placing it firmly in the neo-grotesque tradition with a clean, upright, neutral construction.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "DK Play"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "helvetica-inspired",
+      "display",
+      "branding",
+      "sports",
+      "variable",
+      "headlines"
+    ],
+    "summary": "A Swiss-influenced neo-grotesque with eight weights and a variable axis, pitched at sports branding and display work.",
+    "description": "Designed by Darman Kadir, it takes its formal cues from Helvetica, producing a clean upright construction with even strokes and strong weight contrast across the range. The family runs from ExtraLight to Black with a variable font covering the full axis, and includes OpenType alternates for A, J and O alongside standard ligatures. Its target territory is sports and apparel branding, display headlines and advertising where a solid, neutral grotesque is needed.",
+    "foundry_blurb": "DK Type describe DK Play as a modern sans-serif by Darman Kadir, drawing inspiration from Swiss-style typefaces like Helvetica for a clean and strong aesthetic. They position it for display use in branding, headlines and advertising, particularly within the sports and apparel industries, citing its solid and fast appearance as lending itself to prominent and impactful visual identity work."
+  },
+  {
+    "name": "Comeback Sans",
+    "foundry": "DK Type",
+    "url": "https://dktype.com/font/ComebackSans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The foundry explicitly describes it as a humanist sans-serif, with roots in calligraphic tradition giving letterforms an organic, human quality alongside a clean geometric structure.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Comeback Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "calligraphic",
+      "branding",
+      "variable",
+      "identity",
+      "expressive"
+    ],
+    "summary": "A calligraphically rooted humanist sans available in seven weights and as a variable font, aimed at branding and identity work.",
+    "description": "Comeback Sans draws on calligraphic letterform traditions, giving its curves a warm, hand-influenced quality within a clean upright structure. Seven static weights run from Light to Black, supplemented by a variable font spanning the full range. OpenType alternates cover single-storey 'a', double-storey 'g', and several other characters, broadening its range for display and identity applications.",
+    "foundry_blurb": "DK Type describe Comeback Sans as a powerful humanist sans-serif family rooted in calligraphic tradition and refined through a modern lens, blending expressive curves with clean structure. They position it as having both human touch and purposeful strength, suited to branding, identity systems, and visual storytelling across seven styles and a variable font."
+  },
+  {
+    "name": "Regnio",
+    "foundry": "DK Type",
+    "url": "https://dktype.com/font/Regnio",
+    "designer": null,
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "modern blackletter",
+    "classification_notes": "Regnio draws directly on blackletter calligraphy traditions of the Renaissance, but simplifies and contemporises the letterforms into a single-weight display face suitable for luxury branding contexts.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Regnio"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "renaissance",
+      "luxury",
+      "display",
+      "calligraphic",
+      "branding",
+      "decorative"
+    ],
+    "summary": "A single-weight blackletter display face that softens Renaissance calligraphic forms into something cleaner and usable for contemporary luxury branding.",
+    "description": "Regnio takes the angular drama of Renaissance blackletter and smooths it into a more approachable single-weight display font. Ligature support is generous, including discretionary pairs such as THE, EA and LA, and stylistic alternates offer variation on key characters. The extended Latin character set makes it workable across multiple Western European languages, though its weight range limits it to headline and logotype use.",
+    "foundry_blurb": "DK Type describe Regnio as a modern interpretation of blackletter calligraphy masterpieces from the Renaissance era, offering a simpler and more contemporary touch designed for today's design projects. They position it as exuding luxury with timeless and harmonious beauty, combining the grandeur of the past with present visual needs, with each stroke capturing dynamic luxury to evoke grandeur, taste and style."
+  },
+  {
+    "name": "Aegion",
+    "foundry": "DK Type",
+    "url": "https://dktype.com/font/Aegion",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "blackletter-inspired display",
+    "classification_notes": "Described by the foundry as a display typeface inspired by blackletter style, blending blackletter forms with display-oriented presentation rather than adhering to a traditional blackletter classification.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Aegion"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "blackletter-inspired",
+      "display",
+      "heading",
+      "decorative",
+      "single-weight"
+    ],
+    "summary": "A single-weight display typeface drawing on blackletter forms, aimed at heading and title use.",
+    "description": "Built around blackletter-derived letterforms recast as a display face, Aegion covers Basic Latin, Latin-1 Supplement and Latin Extended-A, giving it reasonable reach across Western European languages. It ships in one weight only, with no italic or condensed cuts, which limits its versatility to purely titling contexts. At $19.99 it is a low-cost option for packaging, poster or brand work that wants angular, gothic energy without a full blackletter commitment.",
+    "foundry_blurb": "DK Type describe Aegion as a display typeface inspired by blackletter style, positioning it as a choice for those seeking a unique and powerful display heading."
+  },
+  {
+    "name": "Mahezty",
+    "foundry": "DK Type",
+    "url": "https://dktype.com/font/Mahezty",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "A bold, high-contrast serif designed explicitly for display use, with distinctively shaped letterforms intended for headlines and decorative applications rather than body text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mahezty"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "fashion",
+      "bold",
+      "decorative",
+      "branding",
+      "poster"
+    ],
+    "summary": "A single-weight bold display serif aimed at fashion and lifestyle branding, with pronounced letterform character.",
+    "description": "A bold display serif with high-contrast strokes and distinctive letter shaping, positioned for decorative use across branding, packaging and poster work. Available in one weight with no italic or condensed variants, it covers Latin Extended characters for broad Western European language support. The pitch is squarely at fashion and lifestyle contexts where a strong, singular typographic statement is needed.",
+    "foundry_blurb": "DK Type describe Mahezty as a modern, bold and fashionable serif display font with uniquely shaped letters suited to a wide range of creative work. They position it as ideal for modern, minimalist, elegant and clean design styles, recommending it for identity, branding, packaging, print and poster projects."
+  }
+]

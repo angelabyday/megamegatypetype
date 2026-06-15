@@ -12,11 +12,11 @@ export const metadata: Metadata = {
     template: "%s · MegaMegaTypeType",
   },
   description:
-    "A directory of 3,073 typefaces from independent foundries. Filter, search or describe your brief and get matches.",
+    "A directory of 3,175 typefaces from independent foundries. Filter, search or describe your brief and get matches.",
   openGraph: {
     title: "MegaMegaTypeType",
     description:
-      "A directory of 3,073 typefaces from independent foundries. Filter, search or describe your brief and get matches.",
+      "A directory of 3,175 typefaces from independent foundries. Filter, search or describe your brief and get matches.",
     siteName: "MegaMegaTypeType",
     type: "website",
   },
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     card: "summary",
     title: "MegaMegaTypeType",
     description:
-      "A directory of 3,073 typefaces from independent foundries. Filter, search or describe your brief and get matches.",
+      "A directory of 3,175 typefaces from independent foundries. Filter, search or describe your brief and get matches.",
   },
 };
 

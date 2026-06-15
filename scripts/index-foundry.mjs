@@ -1390,6 +1390,71 @@ const FOUNDRIES = [
       } catch { return false; }
     },
   },
+  // Batch 9
+  {
+    name: "DK Type",
+    slug: "dktype",
+    homepage: "https://dktype.com/",
+    listingUrl: "https://dktype.com/typefaces",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("dktype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "font" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Souvenir Typefaces",
+    slug: "souvenir-typefaces",
+    homepage: "https://souvenirtypefaces.xyz/",
+    listingUrl: "https://souvenirtypefaces.xyz/",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("souvenirtypefaces.xyz")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "The Northern Block",
+    slug: "the-northern-block",
+    homepage: "https://www.thenorthernblock.co.uk/",
+    listingUrl: "https://www.thenorthernblock.co.uk/fonts",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("thenorthernblock.co.uk")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 3 && parts[0] === "fonts" && parts[1] === "p" && !NON_TYPEFACE_SLUGS.has(parts[2]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Type of Feeling",
+    slug: "type-of-feeling",
+    homepage: "https://typeoffeeling.com/",
+    listingUrl: "https://typeoffeeling.com/products/",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("typeoffeeling.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
 ];
 
 // ---- URL filter ----

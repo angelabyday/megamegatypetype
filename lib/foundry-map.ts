@@ -118,6 +118,11 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "That That Type", slug: "that-that-type", homepage: "https://thatthattype.com/", tier: "okay" },
   { name: "Fontfabric", slug: "fontfabric", homepage: "https://www.fontfabric.com/", tier: "okay" },
   { name: "TypeMates", slug: "typemates", homepage: "https://www.typemates.com/", tier: "okay" },
+  // Batch 9
+  { name: "DK Type", slug: "dktype", homepage: "https://dktype.com/", tier: "best" },
+  { name: "Souvenir Typefaces", slug: "souvenir-typefaces", homepage: "https://souvenirtypefaces.xyz/", tier: "best" },
+  { name: "The Northern Block", slug: "the-northern-block", homepage: "https://www.thenorthernblock.co.uk/", tier: "best" },
+  { name: "Type of Feeling", slug: "type-of-feeling", homepage: "https://typeoffeeling.com/", tier: "best" },
 ];
 
 // Foundries confirmed unscrapable — JS-rendered, bot-blocked, or no listing page.

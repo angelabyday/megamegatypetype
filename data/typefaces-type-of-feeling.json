@@ -1,0 +1,551 @@
+[
+  {
+    "name": "Gravitas",
+    "foundry": "Type of Feeling",
+    "url": "https://typeoffeeling.com/products/gravitas/",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "condensed serif",
+    "classification_notes": "A condensed serif with minimal stroke-weight contrast, designed for tight measure text and display work. The condensed proportions and restrained construction place it firmly in the condensed serif category rather than a display or slab variant.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Extra Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gravitas"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "serif",
+      "authority",
+      "editorial",
+      "branding",
+      "minimal-contrast",
+      "compact"
+    ],
+    "summary": "A condensed serif with minimal stroke contrast, built for compact measures where authority and legibility need to coexist.",
+    "description": "Seven weights from Light to Heavy give this condensed serif a wide tonal range for editorial and brand applications. The minimal difference in stroke weight keeps letterforms solid and even at tight settings, while the condensed proportions lend momentum to longer passages. Glyph coverage includes extended Latin characters with diacritics drawn from South Slavic scripts, suggesting a broader European scope than many single-family releases at this scale.",
+    "foundry_blurb": "Type of Feeling describe Gravitas as a condensed serif inspired by the Latin word for weight, dignity and substance, designed to evoke quiet authority rather than overt loudness. They position it for brands seeking steadiness and control, noting that its condensed proportions create momentum and its restrained stroke contrast builds solidity across individual letterforms, words and paragraphs."
+  },
+  {
+    "name": "Conforto",
+    "foundry": "Type of Feeling",
+    "url": "https://typeoffeeling.com/products/conforto/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "rounded sans",
+    "classification_notes": "A sans-serif with explicitly rounded features and friendly proportions, placing it firmly in the rounded sans subcategory rather than a geometric or humanist tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Conforto"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "friendly",
+      "approachable",
+      "soft",
+      "versatile",
+      "balanced"
+    ],
+    "summary": "A rounded sans-serif in five weights designed around warmth, balanced proportions and a deliberately approachable character.",
+    "description": "Conforto is built on rounded terminals and even proportions, giving each weight a soft, welcoming quality that works across a range of applications. The family runs from Thin to Bold, with heavier weights amplifying the friendly tone rather than hardening it. Glyph coverage extends across Latin Extended and Cyrillic characters, broadening its usability beyond Western European markets.",
+    "foundry_blurb": "Type of Feeling describe Conforto as a sans-serif inspired by ease, well-being and comfort, with rounded features and balanced proportions creating a friendly and familiar appearance. They note that each character is designed for approachability, and that the range of weights enhances versatility, with bolder styles amplifying the comfortable feeling."
+  },
+  {
+    "name": "Meraki",
+    "foundry": "Type of Feeling",
+    "url": "https://typeoffeeling.com/products/meraki/",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Described as warm and human, with thoughtfully crafted lines and curves emphasising character and sincerity; this points to a humanist serif tradition rather than a cooler transitional or rational model.",
+    "weights": [
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Meraki"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "humanist",
+      "warm",
+      "expressive",
+      "editorial",
+      "branding"
+    ],
+    "summary": "A warm humanist serif with five weights and decorative uppercase alternates, drawing on the Greek concept of pouring oneself into one's work.",
+    "description": "Five styles from Regular to Heavy cover a practical weight range for editorial and branding use. Special uppercase letter variants add personality beyond the core character set, and glyph coverage extends to Latin Extended and Cyrillic. The design leans toward warmth and legibility rather than formal rigour, suiting projects that need a friendly but considered serif voice.",
+    "foundry_blurb": "Type of Feeling describe Meraki as a warm and human serif typeface inspired by the Greek feeling of pouring passion, creativity, and love into one's work. They say it brings heartfelt feeling to designs through thoughtfully crafted lines and curves, and that it includes special uppercase letters for an extra touch of personality."
+  },
+  {
+    "name": "Jubel",
+    "foundry": "Type of Feeling",
+    "url": "https://typeoffeeling.com/products/jubel/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Jubel is a bold, expressive display typeface with thick strokes and lively curves designed for celebratory and festive contexts, placing it firmly in the display category rather than a functional text sans.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Jubel"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "bold",
+      "festive",
+      "expressive",
+      "celebration",
+      "decorative"
+    ],
+    "summary": "A single-weight bold display typeface built around thick strokes and lively curves evoking celebration and festivity.",
+    "description": "Jubel arrives as a solitary regular weight with no italics or condensed cuts, keeping its proposition simple: a bold, cheerful display face for festive and celebratory contexts. The thick strokes and rounded curves give it an upbeat character suited to headlines, posters and event graphics. Glyph coverage includes South Slavic Latin characters, suggesting Central and South-Eastern European language support beyond standard Western Latin.",
+    "foundry_blurb": "Type of Feeling describe Jubel as capturing the exuberant joy and pride of celebration, with bold letters, thick strokes and lively curves chosen to reflect a jubilant mood."
+  },
+  {
+    "name": "Elysian",
+    "foundry": "Type of Feeling",
+    "url": "https://typeoffeeling.com/products/elysian/",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The foundry explicitly classifies Elysian as a transitional serif, with sharp serifs, embellished terminals and classically-styled numerals consistent with that tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Elysian"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "serif",
+      "classical",
+      "editorial",
+      "decorative",
+      "elegant"
+    ],
+    "summary": "A transitional serif with embellished terminals and sharp serifs, drawing on classical forms and Greek mythological themes.",
+    "description": "Spanning four weights from Light to Bold, Elysian takes its cues from transitional serif conventions while adding decorative terminal treatments and classically-styled numerals. The glyph set covers Latin Extended characters including diacritics for Central European languages, alongside a Cyrillic range. It sits comfortably in editorial and branding contexts where a touch of classical elegance is wanted without straying too far from convention.",
+    "foundry_blurb": "Type of Feeling describe Elysian as a Transitional Serif typeface inspired by the feeling of creative and divine inspiration — a state of blissful delight and perfection. Drawing on the paradisiacal Elysium of Greek mythology, it features embellished terminals, sharp and compelling serifs, and classically-styled numerals."
+  },
+  {
+    "name": "Ssonder",
+    "foundry": "Type of Feeling",
+    "url": "https://typeoffeeling.com/products/ssonder/",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "old style serif",
+    "classification_notes": "The foundry describes post Neo-Classical influence with origins in Old Style typographic ideas, placing it firmly in the humanist serif tradition with unconventional proportions and decorative ligature sets.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ssonder"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "oldstyle",
+      "ligatures",
+      "humanist",
+      "editorial",
+      "decorative"
+    ],
+    "summary": "A two-style old style serif with expressive ligature sets and unconventional proportions, designed around the concept of interconnected human experience.",
+    "description": "Built on Old Style typographic roots with post Neo-Classical influence, Ssonder offers Regular and Italic cuts distinguished by their ligature stylistic sets and deliberate proportional idiosyncrasies. The glyph set covers Latin Extended characters including diacritics for Central European languages alongside a Cyrillic character. Its decorative character makes it better suited to editorial display and branding than to extended body text.",
+    "foundry_blurb": "Type of Feeling describe Ssonder as a serif typeface inspired by the philosophical feeling of realising that every person you pass has their own complex inner life. The design reflects this through interconnecting ligature stylistic sets and unconventional proportions, with each letter crafted to convey depth and sophistication, symbolising the bonds between individual human stories."
+  },
+  {
+    "name": "Bonté",
+    "foundry": "Type of Feeling",
+    "url": "https://typeoffeeling.com/products/bonte/",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "handwritten script",
+    "classification_notes": "Bonté is a script typeface characterised by flowing flourishes, swashes and thick-to-thin stroke contrast with a slight incline, emulating the style of historical everyday handwriting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bonté"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "handwritten",
+      "flourishes",
+      "swashes",
+      "nostalgic",
+      "warm",
+      "branding"
+    ],
+    "summary": "A flowing handwritten script with swashes and thick-to-thin contrast, drawing on the aesthetic of elegant historical penmanship.",
+    "description": "Designed around the French notion of warmth and generosity, this script features fanciful flourishes, swashes and a slight forward incline that conveys a sense of natural movement. Stroke contrast runs from thick to tapered in a way that recalls traditional penmanship rather than contemporary casual scripts. Best suited to brand identities and packaging where warmth, nostalgia and a human touch are the primary brief.",
+    "foundry_blurb": "Type of Feeling describe Bonté as a typeface rooted in the French word for goodness, warmth and generosity. They highlight its fanciful flourishes and swashes as nostalgic nods to an era when everyday handwriting was considered artful, and recommend it for brands wanting to communicate warmth, nostalgia and humanness."
+  },
+  {
+    "name": "Yūgen",
+    "foundry": "Type of Feeling",
+    "url": "https://typeoffeeling.com/products/yugen/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "condensed sans",
+    "classification_notes": "A condensed display sans with minimal stroke modulation and compressed counters, designed for high-impact typographic work rather than extended text setting.",
+    "weights": [
+      "Thin Condensed",
+      "Light Condensed",
+      "Book Condensed",
+      "Regular Condensed",
+      "SemiBold Condensed",
+      "Bold Condensed"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Yūgen"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "display",
+      "sans-serif",
+      "architectural",
+      "high-impact",
+      "japanese-inspired",
+      "editorial",
+      "branding"
+    ],
+    "summary": "A condensed display sans in six weights, built around compressed counters and uniform structure for high-density, impactful typography.",
+    "description": "Inspired by the Japanese philosophical concept of mysterious profundity, this condensed sans uses minimal stroke modulation and consistent rhythm across six weights from Thin to Bold. Compressed counters and an architectural regularity make it well suited to brand identities and editorial headlines where presence and density are the brief. Glyph coverage includes South Slavic Latin characters, extending its reach beyond standard Western European sets.",
+    "foundry_blurb": "Type of Feeling describe Yūgen as a condensed sans-serif inspired by the Japanese aesthetic concept of mysterious profundity and subtle hidden depth. They note its compressed counters, minimal modulation, uniform structure and consistent rhythm across six weights, positioning it as an architectural, high-impact typeface for brands seeking intrigue, presence and profundity."
+  },
+  {
+    "name": "Fiero",
+    "foundry": "Type of Feeling",
+    "url": "https://typeoffeeling.com/products/fiero/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A heavy, condensed geometric display typeface with rounded corners; the bold, concentrated letterforms and tight proportions are characteristic of display-only type intended for headlines and logotypes rather than text setting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fiero"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "heavy",
+      "condensed",
+      "headline",
+      "branding",
+      "bold",
+      "rounded"
+    ],
+    "summary": "A heavy condensed display face with rounded corners and a geometric structure, built for bold headlines and logotype work.",
+    "description": "Single-weight and unabashedly large, it pairs a tight condensed form with subtly rounded corners that stop the letterforms from feeling aggressive. The geometric backbone keeps proportions consistent and assertive across the 87-glyph character set, which covers standard Latin alongside Central European extensions. Best suited to short-form applications: campaign headlines, brand marks and poster titles where weight and impact are the brief.",
+    "foundry_blurb": "Type of Feeling describe Fiero as drawing its name from the Italian word for a surge of pride following personal triumph. They frame the heavy letterforms as projecting strength and certainty, with the condensed form concentrating intensity and the subtle corner rounding adding approachability to an otherwise assertive structure. Recommended for headlines, logos and brand identities that need to channel courage or boldness."
+  },
+  {
+    "name": "Onsra",
+    "foundry": "Type of Feeling",
+    "url": "https://typeoffeeling.com/products/onsra/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "variable-width sans",
+    "classification_notes": "A sans-serif with a conceptually driven dynamic width axis, expanding and contracting across styles to reflect the emotional premise of the typeface's name.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Onsra"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable-width",
+      "conceptual",
+      "sans-serif",
+      "display",
+      "editorial",
+      "expressive"
+    ],
+    "summary": "A five-weight sans-serif whose width varies as a conceptual gesture, expanding with memory and contracting with reality.",
+    "description": "Built around a single emotional concept, the typeface uses dynamic width as its defining characteristic, with each style shifting proportions to reflect the tension between longing and loss. Five weights run from Thin to Bold, with Latin Extended glyph coverage including South Slavic characters. Better suited to display and editorial contexts than sustained text setting.",
+    "foundry_blurb": "Type of Feeling describe Onsra as capturing the bittersweet feeling of longing for someone or something that cannot be returned, with the font's dynamic width representing how these emotions expand with memory and contract with reality."
+  },
+  {
+    "name": "Serein",
+    "foundry": "Type of Feeling",
+    "url": "https://typeoffeeling.com/products/serein/",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "old style serif",
+    "classification_notes": "Described as rooted in Old Style typography with Roman Capital Proportions, high contrast, and calligraphic terminals, placing it firmly in the humanist old style serif tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Serein"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "oldstyle",
+      "high-contrast",
+      "calligraphic",
+      "elegant",
+      "serif",
+      "display",
+      "roman"
+    ],
+    "summary": "A high-contrast old style serif with calligraphic terminals and Roman Capital Proportions, aiming for refined elegance.",
+    "description": "Inspired by the French word for a calm, serene atmosphere, this old style serif draws on classic humanist proportions and features tapered calligraphic terminals with impaled counters. The high-contrast stroke structure gives it a formal, decorative quality suited to editorial headers and luxury branding. Currently offered in a single Regular weight with Latin Extended glyph coverage, including South Slavic characters.",
+    "foundry_blurb": "Type of Feeling describe Serein as a sophisticated typeface inspired by the French term for serene refinement. They highlight its Roman Capital Proportions, old style roots, and high-contrast design with tapered calligraphic terminals and delicately impaled counters, positioning it as elegant and sophisticated for a range of projects."
+  },
+  {
+    "name": "Satori",
+    "foundry": "Type of Feeling",
+    "url": "https://typeoffeeling.com/products/satori/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The foundry explicitly describes Satori as a geometric sans-serif, with circular forms referencing geometric construction and flat planes providing contrast typical of the style.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Satori"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "spiritual",
+      "minimal",
+      "clean",
+      "modern"
+    ],
+    "summary": "A five-weight geometric sans-serif drawing on circular forms and flat planes, framed around themes of enlightenment and awakening.",
+    "description": "Five weights from Thin to Bold make up this geometric sans, built around circular letterforms offset by flat planes that the foundry frames as representing a moment of realisation. The glyph set covers Latin Extended with some Cyrillic characters, supporting a moderate range of European languages. Suited to branding and editorial contexts that want clean geometric construction with a considered conceptual footing.",
+    "foundry_blurb": "Type of Feeling describe Satori as a geometric sans-serif inspired by feelings of sudden enlightenment or spiritual awakening, blending the circular journey of life and self-discovery with flat planes to represent the moment of realisation and awakening."
+  },
+  {
+    "name": "Rauha",
+    "foundry": "Type of Feeling",
+    "url": "https://typeoffeeling.com/products/rauha/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Rauha combines humanist warmth with geometric precision through slightly open counters, low stroke contrast and vertical stress, placing it firmly in the humanist sans tradition.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rauha"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "geometric",
+      "editorial",
+      "identity",
+      "legible",
+      "clean",
+      "balanced"
+    ],
+    "summary": "A six-weight humanist sans with slightly open counters and low stroke contrast, designed around a Finnish concept of calm and equilibrium.",
+    "description": "Inspired by the Finnish word for peace and tranquility, this sans serif balances humanist warmth against geometric structure through modulated proportions and vertical stress. Six weights from Thin to Bold cover editorial and identity work at a range of sizes, with consistent x-height supporting legibility throughout. The glyph set includes extended Latin characters covering South Slavic and Baltic scripts.",
+    "foundry_blurb": "Type of Feeling describe Rauha as a sans serif typeface inspired by the Finnish word for peace, harmony and tranquility, designed to embody equilibrium and quiet strength. They cite its slightly open counters, low stroke contrast and modulated proportions as balancing humanist warmth with geometric precision, and position it as a versatile choice for both editorial and identity settings."
+  }
+]

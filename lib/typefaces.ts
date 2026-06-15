@@ -96,6 +96,11 @@ import pizzaTypefaces from "@/data/typefaces-pizza-typefaces.json";
 import thatThatType from "@/data/typefaces-that-that-type.json";
 import fontfabric from "@/data/typefaces-fontfabric.json";
 import typemates from "@/data/typefaces-typemates.json";
+// Batch 9
+import dktype from "@/data/typefaces-dktype.json";
+import souvenirTypefaces from "@/data/typefaces-souvenir-typefaces.json";
+import theNorthernBlock from "@/data/typefaces-the-northern-block.json";
+import typeOfFeeling from "@/data/typefaces-type-of-feeling.json";
 
 import { FOUNDRIES, getFoundryByName, type FoundryInfo } from "./foundry-map";
 
@@ -285,6 +290,11 @@ export function getAllTypefaces(): Typeface[] {
         thatThatType,
         fontfabric,
         typemates,
+        // Batch 9
+        dktype,
+        souvenirTypefaces,
+        theNorthernBlock,
+        typeOfFeeling,
       ] as RawTypeface[][]
     )
       .flat()
