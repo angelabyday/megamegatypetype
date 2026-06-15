@@ -53,7 +53,7 @@ export function SubmitFoundryButton() {
           onClick={handleOverlayClick}
           className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 backdrop-blur-sm"
         >
-          <div className="w-full max-w-sm rounded-xl border-[0.5px] border-border bg-background p-6 shadow-xl mx-4">
+          <div className="w-full max-w-sm rounded-xl border-[0.5px] border-border bg-background text-foreground p-6 shadow-xl mx-4">
             {status === "done" ? (
               <div className="text-center">
                 <p className="text-sm">Submitted. We&apos;ll take a look.</p>
