@@ -986,54 +986,6 @@
     "foundry_blurb": "TypeTogether describe Abril Titling as a low contrast font family for trustworthy, impactful headlines, engineered in response to demand from the editorial design community. They note that bringing characters closer together required more than adjusted tracking — it demanded modified terminals, changed weight distribution and retooled glyph shapes. The family spans four widths and four weights each with italics, totalling 32 fonts, and is optimised for both print and screen headline use."
   },
   {
-    "name": "Abril",
-    "foundry": "TypeTogether",
-    "url": "https://www.type-together.com/Abril",
-    "designer": "Veronika Burian and José Scaglione",
-    "year": 2011,
-    "category": "serif",
-    "subcategory": "didone display / scotch roman text",
-    "classification_notes": "The Display styles are based on contemporary Didone models with high contrast; the Text styles draw from 19th-century slab serifs and Scotch Roman traditions, making this a dual-heritage family engineered for editorial use across optical sizes.",
-    "weights": [
-      "Light",
-      "Regular",
-      "Semibold",
-      "Bold",
-      "Extrabold",
-      "Black",
-      "Fatface"
-    ],
-    "optical_sizes_or_widths": [
-      "Display",
-      "Text"
-    ],
-    "subfamilies": [
-      "Abril Display",
-      "Abril Text"
-    ],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Latin Extended"
-    ],
-    "tier": "best",
-    "type": "foundry",
-    "tags": [
-      "editorial",
-      "newspaper",
-      "didone",
-      "scotch-roman",
-      "slab",
-      "display",
-      "text",
-      "magazine"
-    ],
-    "summary": "A dual-purpose editorial family by Veronika Burian and José Scaglione, pairing high-contrast Didone display styles with Scotch Roman-influenced text cuts engineered for continuous reading.",
-    "description": "The Display styles draw from classic Didone models, delivering strong typographic presence with measured curve tension and high contrast, while the Text styles shift reference to 19th-century slab serifs and Scotch Roman to achieve a darker, lower-contrast colour suited to dense setting. Space economy places Abril Text alongside newspaper staples such as Utopia and Nimrod, though it carries a more contemporary feel and adds small caps with matching numerals and punctuation. Twenty-two styles in total, supporting over 50 languages, with consistent optimisation across print and screen.",
-    "foundry_blurb": "TypeTogether describe Abril as a credible, contemporary interpretation of a classic newsface, conceived by Veronika Burian and José Scaglione for intensive editorial use in newspapers, magazines and digital media. The Display styles offer typographic niceties including ornaments, borders and alternate characters, while the Text styles were engineered from scratch for the right colour, texture and width across challenging reading environments."
-  },
-  {
     "name": "Adelle Cyrillic",
     "foundry": "TypeTogether",
     "url": "https://www.type-together.com/adelle-cyrillic",
@@ -2752,50 +2704,6 @@
     "foundry_blurb": "TypeTogether describe Bree Greek as a spry sans serif delivering a spirited look for branding and headline use. Completed by Irene Vlachou, the Greek script was designed from scratch in 2019 to parallel the Latin's tone, featuring a cursive epsilon, flourished shapes and an extra-large x-height. The family supports variable font format and sits within a broader multiscript offering that includes Latin, Cyrillic, Arabic and Thai."
   },
   {
-    "name": "Bree Serif",
-    "foundry": "TypeTogether",
-    "url": "https://www.type-together.com/bree-serif-font",
-    "designer": "José Scaglione, Veronika Burian",
-    "year": 2014,
-    "category": "slab",
-    "subcategory": "humanist slab serif",
-    "classification_notes": "Bree Serif is a slab serif with clear humanist influences, retaining handwriting-derived features such as a single-story 'a', cursive 'e' and looped italic characters, placing it firmly in the humanist slab tradition.",
-    "weights": [
-      "Thin",
-      "Light",
-      "Regular",
-      "Semibold",
-      "Bold",
-      "Extrabold"
-    ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Bree Serif"
-    ],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "slab-serif",
-      "humanist",
-      "editorial",
-      "branding",
-      "handwriting-influenced",
-      "upright-italic",
-      "screen-optimised"
-    ],
-    "summary": "A humanist slab serif by José Scaglione and Veronika Burian, extending the Bree sans family with editorial-ready weights from Thin to Extrabold.",
-    "description": "Designed by José Scaglione and Veronika Burian, Bree Serif carries the personality of its sans companion into slab territory, retaining hallmarks such as the single-story 'a', cursive 'e' and rhythmic italic letterforms. Twelve styles span six weights with matching italics, and alternates of key characters allow for a more neutral appearance in upright settings. The family performs across text and display sizes and has been deployed in brand contexts including REWE Bio's organic product range.",
-    "foundry_blurb": "TypeTogether describe Bree Serif as an energetic and mature slab serif that maintains the original flavour of handwriting and supports optimal editorial usage. They position it as a separate type family in its own right rather than a simple companion to Bree, noting that the slabby nature of its shapes makes for a strong impression, particularly in heavier weights, while retaining distinguishing details from its sans cousin."
-  },
-  {
     "name": "Capitolium 2",
     "foundry": "TypeTogether",
     "url": "https://www.type-together.com/capitolium-2-font",
@@ -3026,56 +2934,6 @@
     "summary": "A newspaper serif derived from Gerard Unger's Paradox, refined for running text and headline setting across demanding print conditions.",
     "description": "Based on Gerard Unger's 1997 typeface Paradox, the family splits into two sub-families: Coranto 2 for body text and Coranto 2 Headline, which carries a taller x-height and condensed proportions suited to tight newspaper column layouts. The OpenType release adds over 250 glyphs, full Latin A language support, small caps, four numeral sets and arbitrary fractions. In use at publications including De Tijd and Eskilstuna-Kuriren, it sits comfortably beyond newspaper contexts wherever a refined, high-legibility serif is needed.",
     "foundry_blurb": "TypeTogether describe Coranto 2 as a refined serif newsface arising from a desire to transfer the elegance of Gerard Unger's Paradox to newsprint, with a larger x-height and sturdier letterforms to meet the demands of newspaper printing. The Headline variant is more condensed and carries an even taller x-height for increased legibility in space-constrained layouts. The updated OpenType family covers multiple languages and has been optimised for varied screen use."
-  },
-  {
-    "name": "LFT Etica",
-    "foundry": "TypeTogether",
-    "url": "https://www.type-together.com/lft%20Etica",
-    "designer": "Leftloft, Octavio Pardo",
-    "year": 2013,
-    "category": "sans-serif",
-    "subcategory": "grotesque",
-    "classification_notes": "LFT Etica sits between grotesque and humanist sans, with soft strokes, open counters and warm terminals that soften the cold rigour typical of pure grotesques.",
-    "weights": [
-      "Light",
-      "Book",
-      "Regular",
-      "Semibold",
-      "Bold",
-      "Extrabold"
-    ],
-    "optical_sizes_or_widths": [
-      "Standard",
-      "Display",
-      "Condensed",
-      "Compressed"
-    ],
-    "subfamilies": [
-      "LFT Etica",
-      "LFT Etica Display",
-      "LFT Etica Condensed",
-      "LFT Etica Compressed"
-    ],
-    "has_condensed": true,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "grotesque",
-      "humanist",
-      "warm",
-      "web",
-      "editorial",
-      "corporate",
-      "versatile"
-    ],
-    "summary": "A 40-style grotesque by Milan studio Leftloft that softens the coldness of classic grotesque sans with open counters and warmer terminals.",
-    "description": "Designed by Leftloft and extended with Octavio Pardo, LFT Etica takes the neutral force of the grotesque tradition and introduces softer strokes and open terminals that bring it closer to humanist territory without losing its workhorse character. The family spans Standard, Display, Condensed and Compressed subfamilies across six weights with italics throughout, totalling 40 styles with OpenType features including four numeral sets, fractions, arrows and dingbats. Proven in web design and print editorial contexts where space economy and legibility at small sizes are pressing concerns.",
-    "foundry_blurb": "TypeTogether describe LFT Etica as a moralist type family developed by Leftloft to challenge the coldness of common grotesque faces, seeking the same force and versatility but with a warmer feel. The family was later expanded with 24 condensed and compressed styles developed with Octavio Pardo, responding to demand from type users who had adopted LFT Etica as a go-to for web design and information-dense applications."
   },
   {
     "name": "Crete",
@@ -4156,49 +4014,6 @@
     "summary": "A twelve-style humanist sans by Veronika Burian and José Scaglione, designed to complement the serif Karmina while standing independently for editorial and corporate use.",
     "description": "Developed using multiple master technology with light and extrabold as interpolation poles, the family spans six weights from Light to Heavy, each with a matching italic. Middle weights are calibrated for extended reading in print and on screen, while the Heavy is described by its designers as one of the darkest and most powerful text weights available without sacrificing legibility. The family supports Latin A Extended with small caps, five sets of figures, ligatures and a full range of fractions.",
     "foundry_blurb": "TypeTogether describe Karmina Sans as a versatile and vivid text face developed by Veronika Burian and José Scaglione. It shares the basic proportions and technical excellence of its serifed sibling, Karmina, but offers greater flexibility for editorial designers. Extreme weights serve headlines and corporate identity programmes, while intermediate weights suit everything from short texts to long-form reading in digital or print contexts."
-  },
-  {
-    "name": "Karmina",
-    "foundry": "TypeTogether",
-    "url": "https://www.type-together.com/karmina",
-    "designer": "José Scaglione, Veronika Burian",
-    "year": 2007,
-    "category": "serif",
-    "subcategory": "text serif",
-    "classification_notes": "Karmina is a text serif designed specifically for high-speed, low-quality print conditions, combining large serifs, generous inktraps and a large x-height with compressed letterforms — characteristic of a robust newspaper or editorial text face.",
-    "weights": [
-      "Regular",
-      "Italic",
-      "Bold",
-      "Bold Italic"
-    ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Karmina"
-    ],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Latin Extended"
-    ],
-    "tier": "best",
-    "type": "foundry",
-    "tags": [
-      "text",
-      "editorial",
-      "newspaper",
-      "legibility",
-      "inktraps",
-      "calligraphic",
-      "economical",
-      "print"
-    ],
-    "summary": "A text serif by José Scaglione and Veronika Burian, engineered for legibility under demanding print conditions such as low-quality paper and variable ink levels.",
-    "description": "Designed primarily for pocket books and budget editions, Karmina combines large serifs, prominent inktraps at acute connections and a large x-height with relatively compressed letterforms to maximise both legibility and economy on the page. The calligraphic influences carry through into the italic, which uses the inktraps and cursive styling to differentiate itself clearly from the roman. Multiple award recognitions followed its release, and it has seen newspaper use including the Polish daily Polska.",
-    "foundry_blurb": "TypeTogether describe Karmina as a highly legible and economic text typeface created by José Scaglione and Veronika Burian for pocket books and budget editions. It was built to withstand difficult printing conditions — low-quality papers, high-speed web presses and fluctuating ink levels — with large serifs, sharp shapes, calligraphic influences and generous inktraps at acute connections, all combined with a large x-height and compressed letterforms for space efficiency."
   },
   {
     "name": "Lektorat",
@@ -5626,53 +5441,6 @@
     "foundry_blurb": "TypeTogether describe Rezak as a jaunty, dynamic family that refuses to stay within one category or script, inspired by the stout presence of cutting letters from tangible materials. The Black and Incised styles are positioned for impact in headlines, gaming, posters and packaging, while the four text weights with italics suit children's books, movie titles and editorial subheadings across subjects from architecture to cooking."
   },
   {
-    "name": "Ronnia",
-    "foundry": "TypeTogether",
-    "url": "https://www.type-together.com/ronnia-font",
-    "designer": "José Scaglione, Veronika Burian",
-    "year": 2008,
-    "category": "sans-serif",
-    "subcategory": "humanist sans",
-    "classification_notes": "TypeTogether and the designers explicitly describe Ronnia as a humanist sans serif, engineered for newspaper and magazine applications with high legibility and a hospitable reading tone.",
-    "weights": [
-      "Thin",
-      "Light",
-      "Regular",
-      "Semibold",
-      "Bold",
-      "Extrabold",
-      "Heavy"
-    ],
-    "optical_sizes_or_widths": [
-      "standard",
-      "Condensed"
-    ],
-    "subfamilies": [
-      "Ronnia",
-      "Ronnia Condensed"
-    ],
-    "has_condensed": true,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "humanist",
-      "editorial",
-      "newspaper",
-      "versatile",
-      "text",
-      "legible",
-      "corporate"
-    ],
-    "summary": "A humanist sans by José Scaglione and Veronika Burian, engineered for newspaper and magazine use across 28 styles in regular and condensed widths.",
-    "description": "Designed with space-saving efficiency and a large x-height, Ronnia moves comfortably from headlines to small text and captions without losing consistency. Key glyphs such as 'a', 'c' and 'G' carry enough internal space for fast recognition and enough personality to sustain extended reading. A full set of OpenType features including small caps, info-numerals, fractions and ornaments rounds out its editorial credentials.",
-    "foundry_blurb": "TypeTogether describe Ronnia as a humanist sans primarily engineered for newspaper and magazine applications, noting its space-saving ability, high legibility and hospitable tone toward the reader. Its 28 styles span regular and condensed widths with distinct letterforms designed to aid quick reading, and the family includes an extensive set of OpenType features targeting the needs of editorial designers."
-  },
-  {
     "name": "Sakkal Saad",
     "foundry": "TypeTogether",
     "url": "https://www.type-together.com/sakkal-saad-font",
@@ -6003,55 +5771,6 @@
     "foundry_blurb": "TypeTogether describe Soleil as a geometric sans that cleverly avoids being dogmatic about its geometry, combining simplicity with a lively, fluid rhythm born of countless hand sketches. Originally created for a wayfinding and signage system in a 1950s modernist Viennese labour office, the family fits signage, book and magazine design, branding and corporate identity. The Magic Caps variant, inspired by MC Escher, offers an eye-catching option for branding and merchandising."
   },
   {
-    "name": "Abril",
-    "foundry": "TypeTogether",
-    "url": "https://www.type-together.com/abril",
-    "designer": "Veronika Burian and José Scaglione",
-    "year": 2011,
-    "category": "serif",
-    "subcategory": "didone display / scotch roman text",
-    "classification_notes": "The Display subfamily draws on Didone high-contrast models while the Text subfamily takes its cues from 19th-century slab serifs and Scotch Romans, making it a hybrid editorial family across two distinct historical lineages.",
-    "weights": [
-      "Light",
-      "Regular",
-      "Semibold",
-      "Bold",
-      "Extrabold",
-      "Black",
-      "Fatface"
-    ],
-    "optical_sizes_or_widths": [
-      "Display",
-      "Text"
-    ],
-    "subfamilies": [
-      "Abril Display",
-      "Abril Text",
-      "Abril Fatface"
-    ],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Latin Extended"
-    ],
-    "tier": "best",
-    "type": "foundry",
-    "tags": [
-      "editorial",
-      "newspaper",
-      "didone",
-      "scotch-roman",
-      "slab",
-      "display",
-      "text",
-      "magazine"
-    ],
-    "summary": "A 22-style editorial family by Veronika Burian and José Scaglione that pairs high-contrast Didone Display styles with Scotch Roman-inflected Text styles engineered for continuous reading across print and digital.",
-    "description": "The Display subfamily revives classic Didone proportions with measured curve tension and good colour, while the Text subfamily draws from 19th-century slab serifs and Scotch Romans to produce a darker, lower-contrast companion suited to running text at challenging sizes. Abril Text competes on space economy with newspaper staples such as Utopia and Nimrod, and adds a full set of small caps with matching numerals and punctuation. The family supports over 50 languages and won recognition from Typographica, the Type Directors Club and the European Design Awards on its release in 2011.",
-    "foundry_blurb": "TypeTogether describe Abril as a contemporary interpretation of a classic newsface, created by Veronika Burian and José Scaglione for intensive editorial use in newspapers, magazines and digital media. They note that the Display styles are based on a revamp of Didone models and include ornaments, borders and alternate characters, while the Text styles take their inspiration from 19th-century slab serifs and Scotch Romans to achieve the right colour, texture and width for comfortable continuous reading."
-  },
-  {
     "name": "Temeraire",
     "foundry": "TypeTogether",
     "url": "https://www.type-together.com/temeraire-font",
@@ -6259,40 +5978,6 @@
     "summary": "A perpetual self-hosting webfont licence scheme covering TypeTogether's full catalogue, with a one-time fee scaled to monthly site traffic.",
     "description": "TypeTogether offers perpetual webfont licences for self-hosting via @font-face, delivered in EOT, WOFF, WOFF2 and SVG formats. Pricing is based on expected monthly traffic with no recurring fees or tracking scripts. The catalogue spans over 80 families with extensive script coverage including Arabic, Devanagari, Chinese, Korean and several African and South-East Asian scripts.",
     "foundry_blurb": "TypeTogether describes their webfont self-hosting licence as a one-time fee based on expected monthly site traffic, with no recurring fees, no trackers and no hassle. The full catalogue is optimised for on-screen rendering and available in the most common web font formats. Typographic advice is available for those needing help choosing pairings or suitable screen fonts within a given budget."
-  },
-  {
-    "name": "Premier",
-    "foundry": "TypeTogether",
-    "url": "https://type-together.com/premier",
-    "designer": null,
-    "year": null,
-    "category": "sans-serif",
-    "subcategory": "grotesque",
-    "classification_notes": "Insufficient information on the page to determine category or subcategory with confidence; no specimen or type sample was available in the scraped content.",
-    "weights": [],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Premier"
-    ],
-    "has_condensed": false,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "membership",
-      "typetogether",
-      "trial",
-      "professional"
-    ],
-    "summary": "TypeTogether's Premier membership gives designers and agencies access to full font families for testing before purchase.",
-    "description": "Rather than a typeface, Premier is TypeTogether's free membership tier aimed at designers, web developers, publishers and agencies. It grants access to complete font families, allowing proper evaluation before committing to a licence. TypeTogether position it as a partnership arrangement rather than a standard trial scheme.",
-    "foundry_blurb": "TypeTogether describe Premier as a free membership that lets designers, web developers, publishers and agency professionals access full font families with a single click, framing it as a partnership rather than a conventional trial."
   },
   {
     "name": "TypeTogether",

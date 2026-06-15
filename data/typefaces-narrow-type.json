@@ -135,52 +135,5 @@
     "summary": "A high-contrast display sans with subtle serif-derived details across six weights, aimed at branding and editorial use.",
     "description": "Six weights from Light to Black give Remixa a broad tonal range for headline and display work. Serif-inspired details and visible stroke contrast distinguish it from a plain grotesque, while a generous x-height keeps it legible at large sizes. OpenType features include standard and discretionary ligatures and stylistic alternates, making it a reasonable choice for magazine layouts, brand identities and logo work.",
     "foundry_blurb": "Narrow Type describe Remixa as a modern sans-serif that incorporates serif-inspired elements to create a contrasting display family. Six weights from Light to Black support versatile use across branding, logo design, editorial and magazine projects, with OpenType features including ligatures and stylistic alternates throughout."
-  },
-  {
-    "name": "Goga",
-    "foundry": "Narrow Type",
-    "url": "https://narrowtype.com/fonts/goga/",
-    "designer": null,
-    "year": null,
-    "category": "sans-serif",
-    "subcategory": "geometric grotesque",
-    "classification_notes": "Goga blends geometric sans construction with neo-grotesque neutrality, citing Avenir and Helvetica as inspirations, placing it in a hybrid geometric-grotesque subcategory.",
-    "weights": [
-      "Thin",
-      "ExtraLight",
-      "Light",
-      "Regular",
-      "Medium",
-      "SemiBold",
-      "Bold",
-      "ExtraBold",
-      "Black"
-    ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Goga"
-    ],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Latin Extended"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "geometric",
-      "grotesque",
-      "neutral",
-      "branding",
-      "variable",
-      "all-rounder",
-      "large-x-height"
-    ],
-    "summary": "A nine-weight geometric grotesque that blends Avenir-style warmth with Helvetica-like neutrality, distinguished by playful alternate forms of the lowercase g.",
-    "description": "Eighteen styles span nine weights from Thin to Black, each with a matching italic, and the family is also available as a variable font with axes for weight and slant. A large x-height aids legibility at smaller sizes, and the character set covers most Latin-script languages alongside OpenType features including old-style figures, tabular figures, fractions and circled numbers. The alternate lowercase g forms give it a mild personality that separates it from more anonymous grotesques in branding and editorial contexts.",
-    "foundry_blurb": "Narrow Type describe Goga as a versatile sans serif combining the best of geometric sans serifs and neo-grotesques, inspired by Avenir and Helvetica. They position it as a universal yet warm and friendly grotesque, with unusual stylistic alternates for the lowercase g as its signature detail, suited to branding, editorial, apps, print and social media. It supports Latin-extended languages and is offered in variable font format with variable weight and slant axes."
   }
 ]
