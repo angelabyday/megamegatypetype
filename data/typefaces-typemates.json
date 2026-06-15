@@ -1,0 +1,2337 @@
+[
+  {
+    "name": "Halvar Mono",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/halvar-mono",
+    "designer": "Lisa Fischbach, Nils Thomsen, Jakob Runge",
+    "year": 2026,
+    "category": "mono",
+    "subcategory": "geometric monospaced",
+    "classification_notes": "A monospaced extension of the Halvar geometric sans family, inheriting its constructed, duplexed letterforms and applying a fixed-width constraint across all nine weights.",
+    "weights": [
+      "Hairline",
+      "ExtraThin",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Halvar Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "industrial",
+      "interface",
+      "data",
+      "variable",
+      "super-family",
+      "duplexed"
+    ],
+    "summary": "A fixed-width companion to the Halvar family, re-engineering its geometric, machine-precise forms into a nine-weight monospaced typeface suited to data, UI and technical systems.",
+    "description": "Built on Halvar's balanced medium weight as its structural core, every character across all nine weights occupies an identical width, making the duplexed approach of the parent family explicit and systematic. Over 900 glyphs per font cover extended Latin, Greek and Cyrillic for more than 190 languages, with Cyrillic and Greek letterforms developed in consultation with native readers. Two stylistic sets allow switching between a plain functional register and a more distinct, digital-inflected one, with manual TrueType hinting tuned for screen and UI performance.",
+    "foundry_blurb": "TypeMates describe Halvar Mono as the next logical step in the Halvar universe, re-engineering the family's constructed forms and machine precision into a monospaced typeface. Every character across all nine weights shares the same width, keeping Halvar's duplexed approach intact. The typeface is positioned for data, tables, technical systems and UI typography, with manual TrueType hinting, two stylistic sets, and a character set supporting more than 190 languages across Latin, Greek and Cyrillic scripts."
+  },
+  {
+    "name": "Halvar Stencil",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/halvar-stencil",
+    "designer": "Paul Eslage",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "stencil sans",
+    "classification_notes": "A stencil variant of the Halvar industrial sans-serif family, constructed from circles and rectangles and explicitly positioned as a Schablonenschrift (stencil typeface) for industrial and signage applications. Classified as display due to its stencil construction and primary use at large sizes.",
+    "weights": [
+      "Hairline",
+      "ExtraThin",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Breitschrift",
+      "Mittelschrift",
+      "Engschrift"
+    ],
+    "subfamilies": [
+      "Halvar Stencil Mittelschrift",
+      "Halvar Stencil Breitschrift",
+      "Halvar Stencil Engschrift"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "industrial",
+      "signage",
+      "variable",
+      "multi-script",
+      "super-family",
+      "german-engineered",
+      "branding"
+    ],
+    "summary": "A German-engineered stencil sans in three widths and nine weights, built for industrial applications from shipping containers to data plates, with multi-script coverage across Latin, Cyrillic and Greek.",
+    "description": "Designed by Paul Eslage in 2019, Halvar Stencil extends the Halvar family by cutting stencil gaps into its geometric, engineer-minded letterforms, producing a typeface suited to construction, signage and cross-market branding. The superfamily spans three subfamilies (Breitschrift, Mittelschrift and Engschrift) each with nine weights from Hairline to Black, and each weight is available in three gap sizes (MinGap, MidGap, MaxGap) to suit different application scales. Multiplexed character widths across all weights mean text can be reweighted in complex layouts without reflowing, and the variable font exposes weight, width and gap as independently adjustable axes.",
+    "foundry_blurb": "TypeMates describe Halvar Stencil as a German-engineered Schablonenschrift built for construction sites, power stations and data plates. They note its letters are parted into circles and rectangles, giving it raw industrial character stabilised by consistent workmanship. The three-width, nine-weight superfamily ships with three stencil gap sizes and multi-script support across Latin, Cyrillic and Greek, plus a variable font with a fully adjustable gap axis."
+  },
+  {
+    "name": "Halvar",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/halvar",
+    "designer": "Jakob Runge, Nils Thomsen, Lisa Fischbach",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A constructed grotesque with engineering-inflected proportions, sitting firmly in the grotesque sans-serif tradition with industrial character and German naming conventions across its three width subfamilies.",
+    "weights": [
+      "Hairline",
+      "ExtraThin",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Breitschrift",
+      "Mittelschrift",
+      "Engschrift"
+    ],
+    "subfamilies": [
+      "Halvar Breitschrift",
+      "Halvar Mittelschrift",
+      "Halvar Engschrift"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "industrial",
+      "multiplex",
+      "variable",
+      "corporate-identity",
+      "interface",
+      "super-family",
+      "german"
+    ],
+    "summary": "An 81-style grotesque system by Jakob Runge, Nils Thomsen and Lisa Fischbach, structured across three widths with multiplexed spacing and superslanted cuts for demanding corporate and interface applications.",
+    "description": "Three subfamilies, Breitschrift, Mittelschrift and Engschrift, span nine weights from Hairline to Black, each available in Roman, Slanted and SuperSlanted versions, for a total of 81 styles with variable font support. A multiplexing approach keeps character widths consistent across all weights bar the SuperSlanted, making it particularly suited to interface design, annual reports and any context where text reflow or rollover animations are a concern. Extended Latin, Greek and Cyrillic coverage supports more than 190 languages, with Cyrillic and Greek developed in consultation with native-reader specialists including Ilya Ruderman and Kostas Bartsokas.",
+    "foundry_blurb": "TypeMates describe Halvar as a pragmatic grotesk with the raw charm of an engineer, built as a type system that extends to extremes. The 81-style family runs from Extended to Condensed, Hairline to Black, and Roman to Superslanted across three named subfamilies with German titles. Multiplexed spacing throughout most styles makes it suitable for interface and identity work, while a stencil display version and variable font round out a system designed for cross-market branding with full Latin, Cyrillic and Greek support."
+  },
+  {
+    "name": "Gregory Text",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/gregory-text",
+    "designer": "Jakob Runge, George Triantafyllakos, Seryozha Rasskazov",
+    "year": 2026,
+    "category": "serif",
+    "subcategory": "slab serif",
+    "classification_notes": "Gregory Text reinterprets early slab serif metal type traditions with moderate stroke contrast, chunky softly-curved serifs and square countershapes, drawing on Dwiggins' M-formula for legibility at small sizes.",
+    "weights": [
+      "Thin",
+      "xLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "xBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gregory Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "bookish",
+      "text",
+      "expressive",
+      "organic",
+      "variable",
+      "multilingual",
+      "dwiggins-influenced"
+    ],
+    "summary": "A contemporary slab serif drawing on W. A. Dwiggins' M-formula, built for dense text across 270 languages with spirited italics and deliberate quirks throughout.",
+    "description": "Seven weights from Thin to xBold, each with a matching italic, give Gregory Text a wide tonal range suited to both micro-text and headlines. Chunky curved serifs, doughy countershapes and sharpened ink-traps give the family its warmth and legibility at small sizes, while the same details read as distinctive at display scale. Greek and Cyrillic characters were drawn by native designers, extending coverage to over 270 languages including Vietnamese.",
+    "foundry_blurb": "TypeMates describe Gregory Text as a down-to-earth, heartfelt bookish typeface that reinterprets historical early slab serif metal types through a contemporary lens. Built around Dwiggins' M-formula for excellent legibility at micro sizes, it features chunky curved serifs, ink-traps and spirited italics. The family covers 270 languages with native-drawn Greek and Cyrillic, and ships with 14 styles, more than 920 glyphs per font, variable font support and a full suite of OpenType features including oldstyle figures, localisation and emoji."
+  },
+  {
+    "name": "Cera Pro",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/cera-pro",
+    "designer": "Jakob Runge",
+    "year": 2015,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Built from elementary geometric shapes with a large x-height and circular forms; the italic cuts retain a circular 'o' in a rotalic style, characteristic of geometric sans design with humanist warmth.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cera Pro",
+      "Cera Compact",
+      "Cera Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "corporate",
+      "interface",
+      "identity",
+      "pan-european",
+      "clean",
+      "variable",
+      "multiscript"
+    ],
+    "summary": "A geometric sans by Jakob Runge distilled from elementary shapes, covering Latin, Cyrillic and Greek across three width variants from text to condensed.",
+    "description": "Designed in 2015 by Jakob Runge, Cera Pro pairs pure geometric construction with a large x-height and carefully managed spacing to hold up in body text, interfaces and signage. The family extends into Cera Compact for narrow reading environments and Cera Condensed for compressed headlines, each offering six weights from Thin to Black with matching italics sloped at 10 degrees and retaining a circular 'o'. Pan-European coverage reaches around 270 languages with over 980 glyphs per style, developed with native script consultants for Latin, Cyrillic and Greek.",
+    "foundry_blurb": "TypeMates describe Cera Pro as distilled from elementary shapes, combining the simplicity and warmth of a geometric sans with Art Deco elegance and solid text performance. The family is built for utility across print, screen and interfaces, with manual TrueType hinting for on-screen use and a pan-European character set covering some 270 languages. Related offshoots include Cera Round, Cera Stencil and Cera Brush."
+  },
+  {
+    "name": "Weymann Serif",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/weymann-serif",
+    "designer": "Marc Weymann",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Bracketed serifs and open counters with calligraphic influence from the double pencil writing tool; a humanist serif balancing manuscript warmth with typographic discipline and editorial clarity.",
+    "weights": [
+      "Regular",
+      "Book",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Weymann Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist-serif",
+      "calligraphic",
+      "editorial",
+      "publishing",
+      "bookface",
+      "text",
+      "variable",
+      "legibility"
+    ],
+    "summary": "A calligraphically inflected text serif by Marc Weymann, drawing form from the double pencil gesture while maintaining typographic composure across six weights.",
+    "description": "Designed by Marc Weymann and released in 2025, the family runs from Regular to Black with matching italics set at a subtle 9-degree slope, plus a slightly darker Book cut for extended reading. Bracketed serifs carry a manuscript quality while open counters and wide letterforms keep the face legible at small sizes and expressive in display settings. Small caps, subscript figures and more than 850 glyphs per font round out a set built for books, journals and editorial work.",
+    "foundry_blurb": "TypeMates describe Weymann Serif as a modern approach to traditional type, drawing on the double pencil as its most influential writing tool. Firm, spacious and clear, it balances calligraphic gesture with typographic discipline, offering six upright and six italic styles with variable font support, small caps and broad language coverage in Latin."
+  },
+  {
+    "name": "Gregory Grotesk",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/gregory-grotesk",
+    "designer": "Jakob Runge, Antonia Cornelius",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "A geometric grotesque with 19th-century grotesque references, featuring distinctive top-heavy letterforms, rounded inner corners and tapering strokes at joints that recall wood type and early grotesque printing traditions.",
+    "weights": [
+      "Thin",
+      "xLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "xBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Gregory Grotesk",
+      "Gregory Grotesk Condensed",
+      "Gregory Grotesk Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric-grotesque",
+      "variable",
+      "expressive",
+      "identity",
+      "interface",
+      "friendly",
+      "wood-type-influence",
+      "multi-script"
+    ],
+    "summary": "A geometric grotesque by Jakob Runge and Antonia Cornelius that pairs top-heavy letter shapes and rounded inner corners with the functional range of a 24-style variable font covering three widths and eight weights.",
+    "description": "Released in 2025 by TypeMates, Gregory Grotesk draws on 19th-century grotesque printing, with strokes that taper at joints to simulate ink behaviour and rounded angular junctions that lend a handmade warmth without sacrificing legibility at small sizes. The family spans three widths from Compressed to standard and eight weights from Thin to Black, all unified in a single variable font with weight and width axes. Greek and Cyrillic were approved by native-speaking designers, extending coverage to over 270 languages including Vietnamese.",
+    "foundry_blurb": "TypeMates describe Gregory Grotesk as a charismatic yet hard-working typeface that balances playful geometric construction with functional utility for branding, interfaces and text. Inspired by wood type printing and 19th-century grotesques, it features rounded inner corners and tapering strokes that bring a handmade quality to digital environments. The family provides 24 styles across 8 weights and 3 widths, over 1100 glyphs per font, and multilingual support across Latin, Cyrillic and Greek scripts, all within one variable font."
+  },
+  {
+    "name": "Pensum Pro",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/pensum-pro",
+    "designer": "Nils Thomsen",
+    "year": 2016,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Brush and broad-nib inspired construction with strong serifs and low contrast places it in the transitional serif tradition; ink traps and calligraphic underpinnings give it a contemporary edge suited to both text and display use.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pensum Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "publishing",
+      "ink-traps",
+      "calligraphic",
+      "editorial",
+      "body-text",
+      "variable"
+    ],
+    "summary": "A brush and broad-nib inspired text serif by Nils Thomsen, with nine weights, matched italics and ink traps that reward close inspection at larger sizes.",
+    "description": "Designed by Nils Thomsen and released in 2016, Pensum Pro draws on brush and broad-nib calligraphic traditions while keeping its overall colour low-contrast and highly legible in long text. Strong serifs and ink traps sustain readability at small sizes whilst the same details become expressive in headlines and large italic quotes. The family runs to 18 styles across nine weights, with over 1,000 glyphs, small caps wider than the caps, and case-sensitive punctuation for careful book and magazine typography. It was named a Typographica Favourite Typeface of 2016.",
+    "foundry_blurb": "TypeMates describe Pensum as a typeface for text and nothing but text — a workhorse that sets word after word reliably across nine weights from Thin to Black with matched italics. Brush and broad-nib inspired, its strong serifs and low contrast make it suitable for books and magazines, whilst ink traps and finely balanced contrast ensure it holds up at small sizes and impresses at large ones. More than 1,000 glyphs and a full set of OpenType features — including wide small caps and case-sensitive punctuation — are included, alongside broad Latin language support."
+  },
+  {
+    "name": "Netto Variable",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/netto-and-icons",
+    "designer": "Daniel Utz",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Netto is a monolinear, geometric sans with rounded, spurless letterforms designed for signage and interface use. Its systematic, essential forms and variable weight axis place it firmly in the geometric sans tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Netto",
+      "Netto Icons"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "monolinear",
+      "rounded",
+      "signage",
+      "interface",
+      "wayfinding",
+      "variable",
+      "icons"
+    ],
+    "summary": "A monolinear geometric sans by Daniel Utz paired with a companion icon font of over 420 pictograms, both sharing a unified visual system across a variable weight axis.",
+    "description": "Designed by Daniel Utz in 2023, Netto is a spurless, rounded geometric sans in five weights with italics, available as a variable font with both weight and slant axes. Its companion, Netto Icons, carries over 420 symbols and pictograms drawn to match the stroke weight and visual logic of the text family, so letterforms and icons remain consistent across sizes and weights. The system is aimed at wayfinding, signage and interface work where typographic and pictographic information must sit together coherently.",
+    "foundry_blurb": "TypeMates describe Netto as a precisely drawn system of letters and symbols built on geometric, essential forms, where every glyph has been distilled to its essentials. The rounded, monolinear strokes of the icons match the thickness of the letters, and both respond to the variable weight axis. Alongside functional dingbats and emojis, Netto is positioned for information design, wayfinding, signage and identity work, offering over 580 characters with broad Latin support and more than 440 icons per Netto Icons."
+  },
+  {
+    "name": "Juneau",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/juneau",
+    "designer": "Philipp Neumeyer",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "Juneau blends geometric construction derived from circular rounds with the warmth and irregularity of old metal grotesques, placing it squarely in the geometric grotesque tradition rather than a pure geometric or neutral grotesque.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Juneau"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grotesque",
+      "variable",
+      "workhorse",
+      "identity",
+      "signage",
+      "cyrillic",
+      "clean"
+    ],
+    "summary": "A geometric grotesque by Philipp Neumeyer that draws on old metal grotesques like Miller & Richard's to balance construction with warmth across eight weights and matching italics.",
+    "description": "Circular rounds informed by historical metal grotesques sit alongside economic proportions and wide diagonal strokes, giving Juneau a dynamic quality without the coldness of strict geometric sans designs. The italics lean on the upright's structure with a shallow 11.98-degree angle, integrating the two styles without rupturing the family's overall character. Over 1,300 glyphs per style cover more than 250 languages across Latin and native-approved Cyrillic, with small caps, multiple figure sets and stylistic alternates rounding out the OpenType feature set.",
+    "foundry_blurb": "TypeMates describe Juneau as a geometric yet grotesque, friendly yet serious typeface built on circular rounds inspired by Miller & Richard's Grotesques, economic proportions and wide diagonals. Designed by Philipp Neumeyer and released in 2022, it ships in 16 styles from Thin to Black with italics, a variable font, native-approved Cyrillic, broad Latin coverage across 250-plus languages and more than 1,300 glyphs per font."
+  },
+  {
+    "name": "Yuni Grotesque",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/yuni-grotesque",
+    "designer": "Philipp Neumeyer",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "compressed grotesque",
+    "classification_notes": "A compressed grotesque sans with deliberately playful curves and a wide weight range, combining flattened outer curves with near-circular counters at heavier weights. Designed as a companion to Yuni Slab within the broader Yuni Collection.",
+    "weights": [
+      "Hair",
+      "ExtraLight",
+      "Light",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Yuni Grotesque"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "compressed",
+      "grotesque",
+      "expressive",
+      "branding",
+      "headlines",
+      "organic",
+      "variable",
+      "cyrillic"
+    ],
+    "summary": "A compressed grotesque by Philipp Neumeyer with playfully contrasted curves, covering six weights from Hair to Black with italics sloped at 18°.",
+    "description": "Released in 2025 as the second member of the Yuni Collection alongside Yuni Slab, this compressed grotesque pairs flattened outer curves with near-circular inner counters at heavier weights, producing a tension that feels controlled rather than chaotic. Twelve styles include deeply sloped italics at 18°, and a variable font spans the full weight range. With over 900 glyphs per style, native-approved Cyrillic and Latin coverage for more than 270 languages, it suits intrusive branding, oversized display work and editorial layouts where a narrow footprint is non-negotiable.",
+    "foundry_blurb": "TypeMates describe Yuni Grotesque as the second coming of the Yuni Collection, designed by Philipp Neumeyer in 2025 with consulting from Daria Cohen, Ilya Ruderman and Yury Ostromentsky. They frame it as a compressed powerhouse of 12 styles suited to intricate branding, sophisticated layouts and oversized titles, with more than 900 glyphs per style, native-approved Cyrillic, broad Latin support for over 270 languages, and OpenType features including case-sensitive punctuation, contextual alternates and multiple figure sets."
+  },
+  {
+    "name": "Gregory Poster",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/gregory-poster",
+    "designer": "Jakob Runge, George Triantafyllakos, Seryozha Rasskazov",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "A flared, high-contrast display serif with diagonal stress, exaggerated top-heavy letterforms and baroque energy; conceived explicitly for headline and poster work rather than text setting.",
+    "weights": [
+      "Thin",
+      "xLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "xBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gregory Poster"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "flared",
+      "high-contrast",
+      "expressive",
+      "nostalgic",
+      "baroque",
+      "variable"
+    ],
+    "summary": "A flared display serif with exaggerated contrast and baroque warmth, drawing on the tactile irregularities of analogue print lettering for headline and poster work.",
+    "description": "Designed by Jakob Runge, George Triantafyllakos and Seryozha Rasskazov, Gregory Poster pairs an 18-degree italic angle with top-heavy, buoyant letterforms and a deliberate nod to vintage book cover lettering. Seven weights from Thin to xBold, each with a matching italic, are available as a variable font covering Latin, Cyrillic, Greek and Vietnamese across more than 920 glyphs per style. It sits within a wider Gregory super-family alongside Gregory Text and Gregory Grotesk, which share the same spirit but are independently drawn.",
+    "foundry_blurb": "TypeMates describe Gregory Poster as a weird and wonderful flared serif with a dazzling smile, built for evocative art, genuine beauty and otherworldly storytelling. They frame its buoyant imperfections and exaggerated details as tools for authenticity over picture perfection, likening the experience to a chic second-hand sofa that settles you in warm memories of a previous time and place. Greek and Cyrillic were drawn by native designers, and the family spans more than 270 languages."
+  },
+  {
+    "name": "Rumiko Sans",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/rumiko-sans",
+    "designer": "Natalie Rauch",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Rumiko Sans blends geometric structure with calligraphic warmth and flowing outstrokes, placing it firmly in the humanist sans tradition despite its clean, open letterforms.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rumiko Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "friendly",
+      "identity",
+      "variable",
+      "calligraphic-influence",
+      "body-text",
+      "interface",
+      "expressive"
+    ],
+    "summary": "A warm, flowing humanist sans by Natalie Rauch, designed for human-centred identity and digital work across six weights with variable font support.",
+    "description": "Designed by Natalie Rauch in 2022, Rumiko Sans combines clean, open letterforms with calligraphic inflections: fluid outstrokes in K, R and u, and relaxed single-storey forms on a and y give it a distinctly approachable character. Six weights run from Thin to Black, each with a paired italic that leans into warmth and movement. The family covers over 200 Latin languages, includes a set of emoji and ships as a variable font, with a companion typeface, Rumiko Clear, tailored specifically for user interfaces.",
+    "foundry_blurb": "TypeMates describe Rumiko Sans as a clear, warm and practical sans that proves readability and personality can coexist. Designed by Natalie Rauch in 2022, it features flowing connections and relaxed letterforms animated by a hint of calligraphy, making it suited to human-centred brands and identity projects. Its playful italics are shared with sibling typeface Rumiko Clear, and the family ships with an extensive character set supporting over 200 languages, plus emoji, symbols and dingbats."
+  },
+  {
+    "name": "Grato Classic",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/grato-classic",
+    "designer": "Jakob Runge",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "geometric humanist sans",
+    "classification_notes": "Described by TypeMates as a 'secretly geometric humanist', Grato Classic uses pure circular forms and low stroke modulation derived from geometric sans traditions, tempered by classical proportions and calligraphic detailing associated with early British geometric typefaces.",
+    "weights": [
+      "Hair",
+      "Thin",
+      "xLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Super"
+    ],
+    "optical_sizes_or_widths": [
+      "Classic",
+      "Text"
+    ],
+    "subfamilies": [
+      "Grato Classic"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "humanist",
+      "identity",
+      "editorial",
+      "variable",
+      "multilingual",
+      "super-family",
+      "legibility"
+    ],
+    "summary": "A nine-weight geometric humanist sans by Jakob Runge that balances near-perfect circular forms with classical British proportions and idiosyncratic detailing.",
+    "description": "Grato Classic sits within TypeMates' Geometric Suite as the humanist voice of the range, drawing on early British geometric typefaces for its proportions whilst keeping stroke modulation low and terminals sharply cut. Nine weights from Hair to Super support complex typographic hierarchies, and the weight gradation is calibrated so stepping up a size and down a weight maintains consistent stroke weight on the page. Coverage spans over 270 languages across Latin, Cyrillic and Greek scripts including Vietnamese, with manual hinting applied to all TrueType files for screen use.",
+    "foundry_blurb": "TypeMates describe Grato Classic as the humanist voice of their Geometric Suite: a timeless typeface shaped by pure forms and almost perfect circles, with sharply cut terminals and apexes. The Classic variant pursues classical proportions and calligraphic detailing drawn from early British geometric typefaces, producing a family built for identity and editorial work. Nine weights, more than 1,100 glyphs per font, support for over 270 languages and a variable font version are all included, alongside a companion text-optimised sibling, Gratimo Classic."
+  },
+  {
+    "name": "Easy Grotesk",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/easy-grotesk",
+    "designer": "Alexander Rütten, Olivia Wood",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Self-described as following a standard neo-grotesque model, but with top-heavy, inverted proportions and expressive character details that push it into a playful, expressive register.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Easy Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "friendly",
+      "expressive",
+      "variable",
+      "identity",
+      "tech",
+      "alternates",
+      "sans"
+    ],
+    "summary": "A neo-grotesque with top-heavy letterforms and playful character details, designed for a tech startup and extended into a full variable family by Alexander Rütten and Olivia Wood.",
+    "description": "Seven weights with matching italics and a variable font implementation, built around inverted optical proportions where letters sit heavier at the top than the base. The signature double-storey a, an upturned s and a suite of OpenType alternates give it a distinct personality without abandoning the functional texture of a workhorse grotesque. Originally commissioned for a tech startup, it covers broad Latin and suits identity, publishing and complex information design where warmth matters as much as utility.",
+    "foundry_blurb": "TypeMates describe Easy Grotesk as confident, optimistic and fresh, combining typographic familiarity with visual surprise. They highlight its top-heavy, almost inverted proportions as the source of its playful character, and note that while it follows a neo-grotesque model, it plays with the underlying principles. Originally designed for a tech startup, it supports extensive Latin language coverage and includes a wide range of alternates, arrows, case-sensitive forms, symbols and a variable font implementation suited to motion graphics."
+  },
+  {
+    "name": "Bridge Head",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/bridge-head",
+    "designer": "Mona Franz",
+    "year": 2019,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Bridge Head is a high-contrast display serif with wedge serifs, geometric counters and monolinear connecting strokes, designed explicitly for large-size headline use. Its expressive, graphic character places it firmly in the display serif category.",
+    "weights": [
+      "xLight",
+      "Light",
+      "Medium",
+      "Bold",
+      "xBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Extended",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Bridge Head",
+      "Bridge Head Ext",
+      "Bridge Head Con"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "high-contrast",
+      "editorial",
+      "headline",
+      "wedge-serif",
+      "variable",
+      "expressive"
+    ],
+    "summary": "A high-contrast display serif in three widths and six weights, designed for editorial headlines and poster use where intensity and graphic distinction matter.",
+    "description": "Originating as a TypeMedia 2018 master project under Erik van Blokland, Paul van der Laan and Peter Verheul, Bridge Head was released by TypeMates in 2019. Its defining features are four-cornered counter shapes, voluminous terminals and monolinear strokes connecting thick verticals, giving it a graphic boldness that holds even at the lightest weights. Three widths, Regular, Extended and Condensed, across six weights from xLight to Black yield 18 styles, each designed to pair with Bridge Text for editorial and corporate typographic systems.",
+    "foundry_blurb": "TypeMates describe Bridge Head as an editorial display typeface built for stunning titles in posters, banners and logos, with three widths and six weights providing 18 styles. They highlight its wedge serifs, expressive geometric counters and large x-height, and note that it pairs with Bridge Text for complex typographic ensembles in editorial and corporate design. Over 800 glyphs cover a wide range of Latin languages, with OpenType features including small caps, case-sensitive punctuation, manicules and dingbats."
+  },
+  {
+    "name": "Gratimo Grotesk",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/gratimo-grotesk",
+    "designer": "Jakob Runge, Mona Franz",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described by TypeMates as drawing on American Gothics from the early 20th century and redrawn from geometric sibling Grato Grotesk, landing it in the neo-grotesque tradition with geometric underpinnings. The practical x-height, open apertures and restrained forms place it firmly in the utilitarian geometric sans category.",
+    "weights": [
+      "xLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gratimo Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "neo-grotesque",
+      "screen",
+      "interface",
+      "body-text",
+      "multilingual",
+      "variable",
+      "workhorse"
+    ],
+    "summary": "A utilitarian geometric sans by Jakob Runge and Mona Franz, redrawn from Grato Grotesk to prioritise reading at smaller sizes and lower resolutions.",
+    "description": "Where its sibling Grato Grotesk leans into pure geometry for display work, Gratimo Grotesk trades some of that purism for a taller x-height, open apertures and generous spacing suited to body copy and UI contexts. Six weights with matching italics are available, the italics carrying some cursive character shapes while maintaining a broadly oblique impression. Coverage extends to over 270 languages across Latin, Cyrillic and Greek scripts including Vietnamese, with manual hinting applied to all TrueType files for strong on-screen rendering.",
+    "foundry_blurb": "TypeMates describe Gratimo Grotesk as a utilitarian family purpose-built for everyday use, positioned as the practical member of their Geometric Suite alongside Grato Grotesk. It draws on American Gothics from the early 20th century and was redrawn from Grato specifically for reading, with Greek script recognised by a special mention at Granshan 2022 and Cyrillic shortlisted at the Modern Cyrillic Award 2021."
+  },
+  {
+    "name": "Sombra Variable",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/sombra",
+    "designer": "Paul Eslage",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described as an organic grotesque, Sombra combines geometric construction with swelling strokes and exaggerated incisions, placing it firmly in the grotesque sans-serif tradition with an expressive, organic character.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Poster"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Sombra Variable"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "organic",
+      "geometric",
+      "variable",
+      "editorial",
+      "branding",
+      "expressive",
+      "packaging"
+    ],
+    "summary": "A geometric grotesque by Paul Eslage that introduces leafy, sharply swelling strokes and exaggerated incisions across seven weights and a variable axis spanning condensed to extended widths.",
+    "description": "Paul Eslage's Sombra sits between conventional geometric grotesques and something more wilful, using swelling terminals and deep incisions to give each weight a distinct organic character. The family runs from Condensed Thin through Extended Black before culminating in an Ultra Black Poster style with overgrown terminals and hairline punctuation symbols. Over 700 glyphs per style cover more than 200 Latin languages, with arrows, circled numbers, stylistic alternates and ligatures included throughout.",
+    "foundry_blurb": "TypeMates describe Sombra as an organic grotesque with a flourishing spirit, combining geometric structure with leafy, sharply swelling strokes and exaggerated incisions. Designed by Paul Eslage in 2020, it spans seven weights from a Condensed Thin to a wide Black, topping out with an Ultra Black Poster style. Each style contains more than 700 glyphs supporting over 200 Latin languages, with OpenType features including arrows, starry icons, circled numbers, stylistic sets and ligatures."
+  },
+  {
+    "name": "Piet",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/piet",
+    "designer": "Nils Thomsen",
+    "year": 2024,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "Piet Mono is the core of the family, a constructed monospaced typeface with fixed-width columns and pronounced ink traps; Piet Sans is derived from it with proportional spacing, making mono the defining character of the system.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Piet Mono",
+      "Piet Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "industrial",
+      "signage",
+      "wayfinding",
+      "variable",
+      "duplex",
+      "idiosyncratic"
+    ],
+    "summary": "A constructed mono and sans pair by Nils Thomsen, inspired by Finnish licence plates, built around fixed widths, deep ink traps and deliberately unbalanced proportions.",
+    "description": "Designed by Nils Thomsen in 2024, Piet grew from the Mono outward: the Sans is derived from it with proportional spacing and softened forms, while both share the same chunky, narrow geometry and visual idiosyncrasy. The Mono's italics are entirely redrawn with rotated caps and new letterforms, while the Sans italics are simply slanted, creating a striking contrast within the family. Gold at the 2025 European Design Awards, Piet suits wayfinding, packaging and interface work where an unmistakable, functional character is preferable to conventional refinement.",
+    "foundry_blurb": "TypeMates describe Piet as a playful pair of constructed typefaces inspired by Finnish licence plates, defined by strange numbers and deep rounded ink traps. They frame it as bureaucratic at first sight but strange on closer inspection, welding the stiff with the vibrant, and position it as equally at home ordering markdown documents as defining a wayfinding system for the Arctic Circle."
+  },
+  {
+    "name": "Gustine Vaganza",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/gustine-vaganza",
+    "designer": "Natalie Rauch",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A geometric sans with expressive, calligraphic inflections and eccentric letterform details that bridge geometry and handwriting. The design leans into display territory but retains enough text-weight usability to sit within the broader sans-serif category.",
+    "weights": [
+      "Thin",
+      "Semi Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gustine Vaganza",
+      "Gustine Extra"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "expressive",
+      "display",
+      "branding",
+      "identity",
+      "variable",
+      "playful",
+      "eccentric"
+    ],
+    "summary": "A geometric sans with deliberate eccentricities, bridging calligraphic fluidity and sharp geometry across seven weights and a standalone display black cut called Gustine Extra.",
+    "description": "Designed by Natalie Rauch and released in 2025, Gustine Vaganza is an expressive extension of the Gustine family, drawing its name from the Italian 'estravaganza'. Letterforms like E, G, B and k show handwritten fluidity while deep joints in V, W and A retain the sharpness of the parent design, creating an intentional tension between calligraphy and geometry. Gustine Extra, a standalone black display weight, pushes further still with swashed initials, contrasting punctuation and intensified joints, intended for headlines and branding where personality is the point.",
+    "foundry_blurb": "TypeMates describe Gustine Vaganza as bold and imaginative, combining playful, fluid and occasionally otherworldly features that make it both eye-catching and approachable. The family supports up to 200 Latin-script languages with more than 570 glyphs per font, and includes symbols, icons, arrows, dingbats and emoji. Gustine Extra is positioned as a stand-alone black display weight that takes the Vaganza concept to the extreme with swashed initials, contrasting punctuation and intense joints."
+  },
+  {
+    "name": "Jabana",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/jabana",
+    "designer": "Nils Thomsen",
+    "year": 2014,
+    "category": "display",
+    "subcategory": "handwritten marker sans",
+    "classification_notes": "Jabana mimics smooth marker lettering with deliberately organic, handwritten curves and no traditional calligraphic or brush model; its display-oriented character and contextual alternates for randomised variation place it firmly in the display category with a handwritten sans subcategory.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Wide",
+      "Extra Wide",
+      "Extended",
+      "Extra Extended"
+    ],
+    "subfamilies": [
+      "Jabana",
+      "Jabana Alt",
+      "Jabana Extras"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "handwritten",
+      "marker",
+      "display",
+      "identity",
+      "café",
+      "expressive",
+      "alternates",
+      "super-family"
+    ],
+    "summary": "A marker-style display sans by Nils Thomsen, spanning 20 styles across five widths with contextual alternates that simulate handwritten variation.",
+    "description": "Drawn from sketches made in a Hamburg bar in 2014, Jabana reproduces the smooth curves of a marker pen across four weights and five widths running from compressed to extra extended. Contextual alternates provide three variants per glyph, randomly cycled to give running text a loosely handwritten rhythm. The family extends into Jabana Alt, which offers more regularised letterforms and a larger x-height, and Jabana Extras, which supplies over 1,700 icons, banners and ornaments aimed at café, bar and identity work.",
+    "foundry_blurb": "TypeMates describe Jabana as inspired by handwritten menu lettering spotted in Hamburg's St. Pauli neighbourhood, with smooth marker curves spread across 20 styles in 4 weights and 5 widths. Each glyph carries three alternates, activated by Contextual Alternates to produce a lively, near-randomised handwritten appearance, while the family ships with a full European character set including fractions, Roman numerals and decorative numerator and denominator sets. Jabana Extras adds 12 supplementary fonts containing coffee and bar icons, banners and ornaments."
+  },
+  {
+    "name": "Resonay",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/resonay",
+    "designer": "Andrej Dieneš",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "A layered display serif drawing on stone carving and calligraphic traditions, with swashes, decorative ligatures and titling features that place it firmly in the display category rather than text use.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Resonay Base",
+      "Resonay Cover",
+      "Resonay Solid"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "layered",
+      "calligraphic",
+      "swash",
+      "logotype",
+      "editorial",
+      "expressive"
+    ],
+    "summary": "A layered display serif by Andrej Dieneš that marries stone-carved letterform details with calligraphic flow across three synchronised subfamilies designed for colour and opacity play.",
+    "description": "Designed by Andrej Dieneš and released in 2021, Resonay is built around three perfectly synchronised layers: Resonay Base, Resonay Cover and Resonay Solid, which can be overlaid to create colour, gradient and textural effects. Each of the five weights carries over 2,000 glyphs, including wide small caps, nested capitals, initial and final swashes, and more than 200 lowercase ligatures. The uppercase italics are swashy by default, and the family received a TDC Certificate of Typographic Excellence in 2022 with a Judges' Choice distinction.",
+    "foundry_blurb": "TypeMates describe Resonay as a vivacious layer font that takes classical lettering somewhere new, combining elegant details from stone carving with the flow of calligraphy. The three subfamilies — Base, Cover and Solid — are perfectly synchronised so designers can combine and recombine them to emphasise different facets of a text. With over 2,000 glyphs per weight, swashes, titling alternates, decorative ligatures and broad Latin language support across 30 styles, TypeMates position Resonay as a fully-featured display font for ambitious logotype and headline typography."
+  },
+  {
+    "name": "Resonay Text",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/resonay-text",
+    "designer": "Andrej Dieneš",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Resonay Text draws on classic letterform proportions with calligraphic influences and stone-cut lettering accents, placing it firmly in the humanist serif tradition oriented toward continuous text setting.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Resonay Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "humanist",
+      "calligraphic",
+      "publishing",
+      "bodytext",
+      "ligatures",
+      "smallcaps",
+      "variable"
+    ],
+    "summary": "A text-optimised serif by Andrej Dieneš with calligraphic warmth, stone-cut accents and an extensive ligature and swash programme across five weights.",
+    "description": "Designed as the readable counterpart to Resonay Display, this typeface pairs classic proportions with sweeping calligraphic lines suited to continuous reading, poetry and quotation. It offers over 200 ligatures alongside initial and final swashes, true small caps, and italic capitals with initial forms as standard, making it unusually well-equipped for refined book and editorial typography. Five weights from Thin to Bold are available as static fonts and as a variable font, with each weight carrying more than 2,300 glyphs including medieval numerals, superscripts and subscripts.",
+    "foundry_blurb": "TypeMates describe Resonay Text as the readable counterpart to the expressive Resonay Display, combining classic letterforms with calligraphic expression and accents of stone-cut lettering. They highlight its generous curves, harmoniously proportioned small caps, more than 200 ligatures, and carefully designed initial and final swashes as features suited to poetry and sophisticated continuous text setting. The family spans five weights with italics, supports over 200 Latin languages, and is available in variable font format."
+  },
+  {
+    "name": "Altona",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/altona",
+    "designer": "Albert-Jan Pool, Julia Uplegger, Antonia Cornelius",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "constructivist display serif",
+    "classification_notes": "Altona is classified as a display serif with angular counters, vertical emphasis and geometric construction drawn from 1920s constructivism, intended primarily for headlines and large-scale use rather than continuous text.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Altona"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "constructivist",
+      "serif",
+      "geometric",
+      "hamburg",
+      "variable",
+      "icons",
+      "expressive"
+    ],
+    "summary": "A constructivist display serif designed by Albert-Jan Pool, Julia Uplegger and Antonia Cornelius, drawn from the angular street signs of Hamburg's Altona district.",
+    "description": "Rooted in the late-1920s constructivist lettering of Hamburg's Altona district, the typeface is defined by its angular counters, curved vertical serifs in letters such as C, a distinctive k leg and a stubborn t, with diagonals suppressed in M, W, X and Y. Five weights run from Light to Black with variable font support, and over 1,200 glyphs per style include small caps, circled figures, stylistic alternates and a set of 160 Hamburg-inspired icons covering landmarks, ships and maritime symbols. Stylistic Set 02 adds decorative strokes to uppercase letters for more expressive headline work.",
+    "foundry_blurb": "TypeMates describe Altona as a bold, distinctive and cosmopolitan display typeface inspired by the original street signs of Hamburg's Altona district, with perfect craftsmanship and a mind of its own. Engineered with an unpolished charm, it offers five weights, a variable font, more than 1,200 glyphs per font, and 160 icons directly tied to Hamburg's history and maritime character."
+  },
+  {
+    "name": "Yuni Slab",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/yuni-slab",
+    "designer": "Philipp Neumeyer",
+    "year": 2022,
+    "category": "slab",
+    "subcategory": "compressed slab serif",
+    "classification_notes": "A compressed slab serif with wood type and Clarendon-era references, featuring chunky serifs and ball terminals characteristic of 19th-century display slabs. Its compressed proportions and headline orientation place it firmly in the display slab category.",
+    "weights": [
+      "Hair",
+      "ExtraLight",
+      "Light",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Yuni Slab"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "compressed",
+      "display",
+      "wood-type",
+      "expressive",
+      "editorial",
+      "variable",
+      "headlines"
+    ],
+    "summary": "A compressed display slab by Philipp Neumeyer drawing on wood type traditions and Clarendon-era references, with deliberate quirks and confident character.",
+    "description": "Rooted in compressed slab wood types such as Clarendon, Antique and Ionic, Yuni Slab carries chunky serifs, ball terminals and a curvature partly inspired by the Romain du Roi into a family of six weights from Hair to Black. Over 900 glyphs per style cover Latin and native-approved Cyrillic for more than 270 languages, alongside multiple figure sets, circled numerals and contextual alternates for headline work. Built for display at scale, it suits editorial design, poster work and identities where an unapologetic personality is the point.",
+    "foundry_blurb": "TypeMates describe Yuni Slab as a compressed slab serif rooted in vague references to wood types like Clarendon, Antique, Ionic and Franklin Type Foundry's Antique Condensed, with serif details partly inspired by the 17th-century Romain du Roi. Designed by Philipp Neumeyer in 2022 with Cyrillic consulting from Daria Cohen, Ilya Ruderman and Yury Ostromentsky, it offers six weights, more than 900 glyphs per font and support for over 270 languages. They position it as part of a larger type system still to come."
+  },
+  {
+    "name": "Elma",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/elma",
+    "designer": "Philipp Neumeyer",
+    "year": 2022,
+    "category": "mono",
+    "subcategory": "neo-grotesque monospace",
+    "classification_notes": "Elma is a fixed-width type system built on a compact Neo Grotesque construction; both Elma Mono (single fixed width) and Elma Trio (three fixed widths) are monospaced by design, making mono the primary category.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Elma Mono",
+      "Elma Trio"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "neo-grotesque",
+      "duplex",
+      "variable",
+      "industrial",
+      "expressive",
+      "cyrillic",
+      "interface"
+    ],
+    "summary": "A two-family fixed-width system by Philipp Neumeyer that pairs a classical monospace with a three-width variant that deliberately subverts proportional type conventions.",
+    "description": "Elma Mono takes the standard single-fixed-width approach, while Elma Trio operates across three fixed widths as a pointed counterargument to proportional design logic. Both families share a compact Neo Grotesque construction with broken-curve details that read as texture at small sizes and deliberate roughness at display scale. Five weights, a dynamic Italic and a sloped Slanted, over 820 glyphs per style, and Granshan Award-winning Cyrillic covering more than 270 languages make it a serious tool dressed in mischievous clothes.",
+    "foundry_blurb": "TypeMates describe Elma as a system of two fixed-width families operating at the intersection of pragmatism and mischief. The Mono takes a classical monospace approach with one fixed width, while the Trio works with three fixed widths to make a mockery of proportional designs, all while retaining an awkward, technical character. With broken-curve construction, two angled companions — a dynamic Italic and a tranquil Slanted — and native-approved Cyrillic covering over 270 languages, Elma is positioned as equally suited to packaging, long text, headlines, interfaces and beyond."
+  },
+  {
+    "name": "Pensum Sans",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/pensum-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Shares a skeletal structure with its serif companion Pensum Pro, giving it humanist proportions and rhythm rather than geometric or grotesque construction. Ink traps, balanced contrast and refined details point clearly to a text-first humanist approach.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pensum Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "text",
+      "publishing",
+      "editorial",
+      "superfamily",
+      "variable",
+      "small-caps",
+      "ink-traps"
+    ],
+    "summary": "A sans-serif companion to Pensum Pro, built on the same legible skeleton and spanning nine weights from Thin to Black with matched italics.",
+    "description": "Pensum Sans shares its proportions and rhythm with the Pensum Pro serif, making the two well suited for mixed typographic environments in publishing and editorial work. Nine weights run from Thin to Black, each with a matched italic, and ink traps with finely balanced contrast give the face stability at small text sizes while remaining expressive in headlines and large italic quotes. Over a thousand glyphs cover extended Latin support alongside small caps, case-sensitive punctuation and a range of OpenType features.",
+    "foundry_blurb": "TypeMates describe Pensum Sans as the sans-serif member of the Pensum Trilogy, sharing the same legible skeleton as Pensum Pro but with no serifs at all. They highlight its steady rhythm, smooth and sharp shapes, and unexpected details, noting that ink traps and balanced contrast make it reliable in small text while still impressive in headlines. With 1,078 glyphs across 18 styles, it offers wide Latin language support along with small caps, ligatures and a variable font version."
+  },
+  {
+    "name": "Edie and Eddy Text",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/edie-and-eddy-text",
+    "designer": "Lisa Fischbach",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Described as having visible but moderate contrast, sitting between the high-contrast Modern and the stable Slab members of the superfamily; this places it firmly in transitional serif territory, designed for sustained reading at text sizes.",
+    "weights": [
+      "Thin",
+      "xLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "xBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Edie and Eddy Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "publishing",
+      "variable",
+      "superfamily",
+      "expressive",
+      "small-caps",
+      "editorial"
+    ],
+    "summary": "The text-optimised member of the Edie & Eddy superfamily, offering moderate contrast and 8 weights with italics for sustained reading in books, magazines and articles.",
+    "description": "Designed by Lisa Fischbach in 2022, Edie & Eddy Text sits between the high-contrast Modern and the stable Slab as the middle voice of a three-part variable superfamily. Its italics carry long in- and outstrokes with rounded diagonals, and stylistic alternates allow a more cursive reading with sans-serif ascenders, alternate a and g forms, and a script-style s. The family covers Latin and Vietnamese with over 850 glyphs per font, and includes small caps, multiple figure styles and hand emoji.",
+    "foundry_blurb": "TypeMates describe Edie & Eddy Text as the crisply articulate member of a superfamily sharing a Hairline base weight across three contrast treatments. They frame it as a reliable text face best suited to well-structured articles, books and magazines, designed to be combined with Edie & Eddy Modern or Slab for tonal contrast within the variable format."
+  },
+  {
+    "name": "Grato Marker",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/grato-marker",
+    "designer": "Teja Smrekar",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A handwritten geometric sans that draws from marker lettering traditions while retaining the underlying geometry of the Grato suite; its informal stroke variation and bouncy baseline place it firmly in the expressive/handmade end of geometric sans.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grato Marker"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "handmade",
+      "marker",
+      "casual",
+      "expressive",
+      "childrens",
+      "packaging",
+      "superfamily"
+    ],
+    "summary": "A marker-drawn geometric sans by Teja Smrekar that pairs informality with genuine legibility across Latin, Greek, Cyrillic and Vietnamese.",
+    "description": "Part of TypeMates' Grato suite alongside Grato Classic and Grato Grotesk, this four-weight family mimics the rhythm of real marker lettering: strokes tilt, the baseline gently bounces and letter sizing plays slightly loose. Three stylistic sets allow fine-tuning of the lowercase l, a single-storey a with unhooked j and t, and a two-storey g. The family is built for children's books, expressive packaging and casual brand work where a sober sans would feel too stiff.",
+    "foundry_blurb": "TypeMates describe Grato Marker as the handwritten expression of geometric ideas and the natural voice of the Geometric Suite. Designed by Teja Smrekar in 2022 with contributions from Jakob Runge and consulting from Irene Vlachou, Ilya Ruderman, Yury Ostromentsky and Donny Truong, it offers four weights and over 1,000 glyphs per font, supporting more than 270 languages including Vietnamese. Three stylistic sets fine-tune its cheerful text image, and it is positioned as a companion to Grato Classic and Grato Grotesk for children's books, packaging and casual brands."
+  },
+  {
+    "name": "Gustine",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/gustine",
+    "designer": "Natalie Rauch",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Gustine is explicitly described as geometric, with wide proportions, sharp terminals, high contrast and smooth curves characteristic of the geometric sans genre, while incorporating humanist warmth through rounded letters and sweeping stroke endings.",
+    "weights": [
+      "Thin",
+      "Semi Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gustine"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "variable",
+      "clean",
+      "friendly",
+      "multi-purpose",
+      "identity",
+      "interface"
+    ],
+    "summary": "A geometric sans by Natalie Rauch that tempers the genre's typical austerity with wide proportions, sharp terminals and warmly rounded curves.",
+    "description": "Designed by Natalie Rauch and released in 2025, Gustine spans seven weights from Thin to Black, with a variable font option and a character set covering more than 580 glyphs per style. Wide proportions and sharply tapered joins give it presence at display sizes, while open counters and well-rounded curves in letters like C, G and a keep it readable at text sizes. Alternate glyphs including a single-storey g and double-storey a, plus extensive Latin coverage for up to 200 languages, make it adaptable across screen, signage and editorial contexts.",
+    "foundry_blurb": "TypeMates describe Gustine as a clear and confident geometric typeface with sharp, dynamic details. Wide proportions, high contrast and smooth curves make it calm but never bland, and they position it as suitable for everything from screens to signage. Seven weights, a variable font, more than 580 glyphs per style and support for up to 200 Latin-script languages are offered alongside alternate glyphs and a collection of emoji."
+  },
+  {
+    "name": "Ottessa",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/ottessa",
+    "designer": "Philipp Neumeyer",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Ottessa combines humanistic Dutch construction with French-style apertures and a heavily modulated stroke contrast, placing it firmly in the humanist sans tradition with expressive display characteristics.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ottessa"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "expressive",
+      "editorial",
+      "identity",
+      "variable",
+      "multilingual",
+      "organic",
+      "elegant"
+    ],
+    "summary": "A humanist sans with Dutch construction and French apertures that shifts its contrast model as weight increases, designed by Philipp Neumeyer in 2022.",
+    "description": "Designed by Philipp Neumeyer, Ottessa runs five weights from ExtraLight to ExtraBold, each with a matching italic, and is available as a variable font. Unusually, the ExtraBold abandons the low-contrast approach of the lighter weights for a high-contrast construction, while vertical strokes take on the thickness of horizontals to create a quiet but distinct horizontal emphasis. With over 860 glyphs per style, native-approved Cyrillic, and coverage of more than 270 languages, it earned a Granshan Award special mention in 2024 for its confident handling of multiscript typography.",
+    "foundry_blurb": "TypeMates describe Ottessa as a hybrid of humanistic Dutch construction and French apertures with a heavily modulated vibe. They note its large x-height and compact proportions make it an economical choice for diversifying typography away from cold, pure breeds toward colourful crossbreeds. The family comprises five weights with italics, more than 860 glyphs per style, broad Latin and native-approved Cyrillic support covering over 270 languages, and a rich set of OpenType features including multiple figure sets, contextual alternates and adjustable arrows and symbols."
+  },
+  {
+    "name": "Alison Text",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/alison-text",
+    "designer": "Julia Uplegger",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "didone",
+    "classification_notes": "Described explicitly as an evolution of Didone typefaces, with high stroke contrast, vertical stress, hairline serifs and narrow arches characteristic of the Didone classification.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text"
+    ],
+    "subfamilies": [
+      "Alison Text",
+      "Alison Head"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "high-contrast",
+      "publishing",
+      "editorial",
+      "fashion",
+      "body-text",
+      "variable",
+      "small-caps"
+    ],
+    "summary": "A Didone text typeface by Julia Uplegger, adapted from the display-oriented Alison Head for use at small sizes in publishing and editorial contexts.",
+    "description": "Where Alison Head pushes Didone contrast to expressive extremes, Alison Text pulls that energy back into something workable at body-text sizes, with hairlines, greyscale and x-height proportions tuned specifically for smaller point sizes. Five weights run from Light to Black, and together the two Alison sisters form a system bridging text and display under the umbrella of Alison Variable. Over 60 gender symbols, small caps, old-style figures and comprehensive Latin language coverage position it for sophisticated publishing, fashion magazines and museum catalogues.",
+    "foundry_blurb": "TypeMates describe Alison Text as a reliable, legible companion to the high-contrast Alison Head, inspired also by the quirky charm of Altona. Designed by Julia Uplegger and released in 2024 with contributions from Albert-Jan Pool and Antonia Cornelius, it offers five weights, more than 1,300 glyphs per font, comprehensive Latin language support and OpenType features including small caps, tabular and old-style figures, and gender symbol variants."
+  },
+  {
+    "name": "Norbert",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/norbert",
+    "designer": "Philipp Neumeyer",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Norbert is a grotesque sans-serif with geometric leanings, offered in condensed and extended widths only, with backslanted Kontra styles alongside conventional italics, all individually drawn rather than interpolated.",
+    "weights": [
+      "Mager",
+      "Normal",
+      "Fett"
+    ],
+    "optical_sizes_or_widths": [
+      "Schmal",
+      "Breit"
+    ],
+    "subfamilies": [
+      "Norbert Breit",
+      "Norbert Schmal"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "condensed",
+      "extended",
+      "backslanted",
+      "cyrillic",
+      "identity",
+      "editorial",
+      "expressive"
+    ],
+    "summary": "A deliberately incomplete grotesque by Philipp Neumeyer, available only in condensed and extended widths with backslanted Kontra styles, each cut drawn individually rather than interpolated.",
+    "description": "Neumeyer designed Norbert without a regular width, variable font or interpolated weights, treating each of the 18 styles as a standalone artefact rather than a point on a slider. The family comes in Schmal (condensed) and Breit (extended), each with Mager, Normal and Fett weights, plus conventional italics and a backslanted Kontra variant. Cyrillic was proofed by native experts and the family won the Granshan Award's first prize for Cyrillics in 2022, alongside a TDC Certificate of Typographic Excellence.",
+    "foundry_blurb": "TypeMates describe Norbert as 'an unaffected Grotesque and everything you never needed', a collection of extremes reflecting how early hot-metal type families were enriched by their contradictions. Intentionally omitting a regular width, variable font and interpolated weights, every style was individually drawn. Philipp Neumeyer was inspired by metal lettering on a St Petersburg building, and Cyrillic support was proofed and tested by native experts. The family includes an extensive range of arrows and broad language coverage."
+  },
+  {
+    "name": "Alison Head",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/alison-head",
+    "designer": "Julia Uplegger",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "didone",
+    "classification_notes": "Alison Head is explicitly described as a Didone, characterised by extreme stroke contrast, vertical stress and fine bracketed serifs — here given a distinctive twist through vertical serifs and calligraphic details.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Alison Head",
+      "Alison Text"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "display",
+      "high-contrast",
+      "editorial",
+      "fashion",
+      "expressive",
+      "variable",
+      "small-caps"
+    ],
+    "summary": "A highly-contrasted Didone display typeface by Julia Uplegger, distinguished by vertical serifs and calligraphic details that set it apart from convention.",
+    "description": "Drawing inspiration from the Altona type family, Alison Head takes the Didone tradition in a sharper, more contemporary direction. Vertical serifs give the letterforms a crisp, distinctive presence on the page, while details such as the calligraphic twist on z, k and y add individual character to familiar teardrop terminals. Available in five weights as both static and variable fonts, the family includes small caps, gender symbol glyphs and two stylistic sets, with a companion text cut — Alison Text — sharing the same spirit.",
+    "foundry_blurb": "TypeMates describe Alison Head as extravagant, highly-contrasted and finely detailed, positioning it as an emancipated evolution of the Didone. Designed by Julia Uplegger and released in 2024, it draws on Altona's historical flair to combine historic finesse with modern refinement. The family provides five weights, over 1,300 glyphs per font, small caps, stylistic sets, and more than 60 gender symbols, with desktop, app and web formats available."
+  },
+  {
+    "name": "Pensum Stencil",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/pensum-stencil",
+    "designer": "Nils Thomsen",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "high-contrast stencil serif",
+    "classification_notes": "A high-contrast stencil display typeface derived from Pensum Display, combining brushy calligraphic contrast with stencil cuts and spiky details. The stencil treatment and extreme weight range place it firmly in the display category.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pensum Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "high-contrast",
+      "display",
+      "editorial",
+      "serif",
+      "elegant",
+      "packaging",
+      "variable"
+    ],
+    "summary": "A high-contrast stencil display serif by Nils Thomsen, derived from Pensum Display, with nine weights ranging from near-hairline Thin to a heavy Black.",
+    "description": "Derived from Pensum Display, this stencil serif exaggerates contrast and breaks letterforms into discrete shapes, blending brushy strokes with sharp, spiky details. Nine weights from Thin to Black are supported as a variable font, and a considered detail keeps accents and some punctuation slightly lighter in the heavier weights. Over 900 glyphs, small caps wider than the caps, and case-sensitive punctuation make it a well-equipped choice for editorial headlines, branding or artisanal packaging.",
+    "foundry_blurb": "TypeMates describe Pensum Stencil as a typeface that exaggerates the qualities of Pensum Display, breaking letters into individual shapes to fuse brushy elements with spiky stencil details. Designed by Nils Thomsen and released in 2021, its nine weights carry a sophisticated, elegant character, with a subtle detail where accents and some punctuation stay lighter as weight increases. The family ships with more than 900 glyphs, OpenType features including small caps and case-sensitive punctuation, and broad Latin language support."
+  },
+  {
+    "name": "Meret",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/meret",
+    "designer": "Nils Thomsen",
+    "year": 2010,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "Meret balances broad-nib and pointed-pen influences to produce a sturdy yet refined text serif with wide x-height figures and small caps, purpose-built for newspaper and editorial typography.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Meret"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "newspaper",
+      "text",
+      "publishing",
+      "variable",
+      "small-caps",
+      "book-typography"
+    ],
+    "summary": "A newspaper-oriented text serif by Nils Thomsen that balances broad-nib structure with pointed-pen refinement across eight weights and matching italics.",
+    "description": "Designed in 2010 and honoured in Typographica's notable typefaces of 2011, Meret is built for demanding editorial conditions: tight columns, dense leading and extended reading. Eight weights run from Extra Light to Black, with four of those pitched explicitly at text use, while vivid display styles and unpretentious italics extend its range. Five figure styles, wide small caps, case-sensitive punctuation and over 1,150 glyphs make it a thorough tool for book and magazine typography.",
+    "foundry_blurb": "TypeMates describe Meret as a straightforward typeface for newspapers and beyond, at home in tight columns and dense leading. Where Pensum Pro mixes the broad nib with the brush, Meret balances the broad nib with the pointed pen, yielding something at once sturdy and refined. It provides 1,150 glyphs across 16 styles with five figure styles, wide small caps, and broad Latin language support, and is available as a variable font."
+  },
+  {
+    "name": "Cera Mono",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/cera-mono",
+    "designer": "Antonia Cornelius, Jakob Runge",
+    "year": 2024,
+    "category": "mono",
+    "subcategory": "geometric monospaced",
+    "classification_notes": "A fixed-width companion to the geometric sans Cera Pro, sharing its circular geometry and humanist sensibility while conforming to monospaced spacing conventions. Classified as monospaced rather than sans-serif because the fixed-pitch constraint is the defining design decision.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cera Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "code",
+      "technical",
+      "duplex",
+      "variable",
+      "pan-european",
+      "super-family"
+    ],
+    "summary": "A fixed-width companion to Cera Pro that carries the family's circular geometry into a monospaced format suited to code, data and industrial typography.",
+    "description": "Designed by Antonia Cornelius and Jakob Runge, Cera Mono adapts the geometric foundations of Cera Pro to a uniform character width defined by an almost-perfectly round lowercase o. Rather than mechanically stretching narrow letters like l and i, the design uses the momentum of outstroke angles to fill the fixed width, producing what TypeMates describe as a controlled dissonance between typewriter texture and geometric precision. Six weights from Thin to Black, an optional half-width mode via Stylistic Set 15, a variable font version and coverage of around 270 languages across Latin, Cyrillic and Greek make it a thorough workhorse for technical and cultural contexts alike.",
+    "foundry_blurb": "TypeMates describe Cera Mono as the non-proportional companion to Cera Pro, pairing the undesigned qualities of typewriter fonts with geometric focus. They position it for contexts ranging from code and data visualisation to industrial exhibitions and technical documentation, noting that its light weights carry expressive power in artistic settings while the full six-weight range can organise dense data into legible information. The family supports around 270 languages with 1,270 glyphs per style, consulting from Ilya Ruderman, Yury Ostromentsky and Irene Vlachou, and is approved by native-script consultants."
+  },
+  {
+    "name": "Gratimo Classic",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/gratimo-classic",
+    "designer": "Jakob Runge, Mona Franz",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "geometric humanist sans",
+    "classification_notes": "Described by the foundry as a geometric humanist that draws on Johnston and Gill, combining elementary geometric construction with humanist open apertures and practical legibility. Sits between pure geometry and humanist sans traditions.",
+    "weights": [
+      "xLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gratimo Classic",
+      "Grato Classic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric-humanist",
+      "screen-optimised",
+      "interface",
+      "body-text",
+      "multilingual",
+      "variable",
+      "workhorse",
+      "legibility"
+    ],
+    "summary": "A geometric humanist sans redrawn from its display-focused sibling for reading performance, with a robust x-height and cursive italics across six weights.",
+    "description": "Designed by Jakob Runge and Mona Franz at TypeMates, Gratimo Classic is the text-optimised branch of the Geometric Suite, reworking the purer geometry of Grato Classic into a practical workhorse for body copy, interfaces and signage. Open apertures, generous spacing and a compact texture carry it comfortably from small screen sizes up, with manual TrueType hinting reinforcing on-screen performance. Twelve styles include matching italics with some cursive character shapes, and the family covers more than 270 languages across Latin, Cyrillic and Greek scripts, including Vietnamese.",
+    "foundry_blurb": "TypeMates describe Gratimo Classic as a powerful workhorse in their Geometric Suite, purpose-built for everyday use at smaller reading sizes and lower resolutions. Where Grato Classic leans into pure geometry for branding, Gratimo Classic was redrawn for reading, drawing on the humanist geometric tradition of Johnston and Gill. It supports more than 270 languages across Latin, Cyrillic and Greek alphabets, with manual hinting on all TrueType files for best screen performance."
+  },
+  {
+    "name": "Edie and Eddy Modern",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/edie-and-eddy-modern",
+    "designer": "Lisa Fischbach",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "didone",
+    "classification_notes": "Edie and Eddy Modern is a high-contrast serif with clear thick-to-thin stroke differentiation, historically-informed letterforms and expressive italics characteristic of the Didone classification.",
+    "weights": [
+      "Thin",
+      "xLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "xBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Edie and Eddy Modern",
+      "Edie and Eddy Slab",
+      "Edie and Eddy Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "high-contrast",
+      "editorial",
+      "publishing",
+      "variable",
+      "superfamily",
+      "headlines",
+      "elegant"
+    ],
+    "summary": "A high-contrast Didone with vivid italics, designed by Lisa Fischbach as part of the three-member Edie & Eddy variable superfamily.",
+    "description": "The Modern branch of the Edie & Eddy superfamily uses sharp thick-to-thin contrast and historically-informed curves to produce a crisp, sophisticated texture suited to magazines and premium branding. Eight weights from Thin to Black each carry a matching italic, which runs slightly narrower than the upright and includes stylistic alternates for a more cursive character. Designed to be mixed with the Slab and Text siblings, the family covers Latin and Vietnamese with small caps, multiple figure sets and a set of hand emojis.",
+    "foundry_blurb": "TypeMates describe Edie & Eddy Modern as the well-spoken member of a three-part superfamily by Lisa Fischbach, released in 2022. The Modern's Didone features make it suited to magazines, high-end products and expressive quotes, with vivid italics offering a change of typographic colour. The superfamily is designed to be used together, with each member sharing a Hairline base weight but distinguished by its treatment of contrast."
+  },
+  {
+    "name": "Grato Grotesk",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/grato-grotesk",
+    "designer": "Jakob Runge",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Explicitly described as a modernist geometric typeface, shaped by pure forms and low stroke modulation contrasted with near-perfect circles, following the industrial logic of early German geometric typefaces.",
+    "weights": [
+      "Hair",
+      "Thin",
+      "xLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Super"
+    ],
+    "optical_sizes_or_widths": [
+      "Grotesk",
+      "Text"
+    ],
+    "subfamilies": [
+      "Grato Grotesk",
+      "Gratimo Grotesk",
+      "Grato Marker"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modernist",
+      "industrial",
+      "identity",
+      "editorial",
+      "variable",
+      "multilingual",
+      "interface"
+    ],
+    "summary": "A nine-weight geometric sans by Jakob Runge that pursues the industrial logic of early German geometric typefaces with flat apexes, angled terminals and near-perfect circular forms.",
+    "description": "Designed in 2021, Grato Grotesk runs from Hairline to Super across nine weights, with a weight gradation calibrated so users can double type size by stepping one weight lighter to maintain consistent stroke weight. OpenType feature sets allow switching between more legible letter variants and a stricter, fundamentalist geometric approach, while a full range of figure styles covers proportional, tabular, oldstyle and lining sets. Coverage spans more than 270 languages across Latin, Cyrillic and Greek scripts including Vietnamese, with all TrueType files manually hinted for screen.",
+    "foundry_blurb": "TypeMates describe Grato Grotesk as the modernist of their Geometric Suite: a resolute typeface combining flat apexes and no-nonsense angled terminals with idiosyncrasy and warmth, engineered for identity and editorial work with diverse language support and strong screen performance."
+  },
+  {
+    "name": "Kaius",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/kaius",
+    "designer": "Lisa Fischbach",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Kaius is a text serif with a generous x-height, open apertures and sharp vertical serifs balanced with sturdy baseline serifs, placing it firmly in the humanist serif tradition oriented toward legibility in small sizes and complex layouts.",
+    "weights": [
+      "Hairline",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kaius"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese",
+      "IPA"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "academic",
+      "publishing",
+      "multilingual",
+      "legible",
+      "variable",
+      "small-caps"
+    ],
+    "summary": "A text serif by Lisa Fischbach built for demanding academic and publishing work, with 16 weights, expressive italics and a 3,000-glyph character set covering Latin, Cyrillic, Greek, Vietnamese and the IPA.",
+    "description": "Designed for small sizes and complex layouts, Kaius pairs a generous x-height and open apertures with sharp vertical serifs and sturdy baseline serifs that keep reading rhythm consistent across weights. Sixteen styles run from Hairline to Black with matching italics whose slight angle and cursive letterforms animate running text without disturbing the upright flow. Language coverage is extensive, reaching almost every Latin-script language, ancient Greek, historical Cyrillic and the specialised characters needed for lexical and academic typography.",
+    "foundry_blurb": "TypeMates describe Kaius as a sophisticated academic text typeface, specialised for small sizes and complex layouts, capable of handling demanding structure, language and character requirements with ease. They note its unconventional outlines, which favour curves over straight lines, and highlight a feature set encompassing small caps, 16 weights, expressive italics, rare symbols such as interrobang and manicules, and a character set of over 3,000 glyphs covering Latin, Cyrillic, Greek, Vietnamese and the IPA."
+  },
+  {
+    "name": "Rumiko Clear",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/rumiko-clear",
+    "designer": "Natalie Rauch",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Clean strokes and open structures sit alongside calligraphic influences and a relaxed sense of written movement, placing this firmly in the humanist sans tradition rather than geometric or grotesque.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rumiko Clear"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "screen-optimised",
+      "interface",
+      "identity",
+      "friendly",
+      "variable",
+      "warmth",
+      "legibility"
+    ],
+    "summary": "A screen-focused humanist sans by Natalie Rauch that pairs open, legible letterforms with calligraphic warmth across six weights and matching italics.",
+    "description": "Designed by Natalie Rauch and released in 2022, Rumiko Clear is aimed at digital environments where legibility and approachability need to coexist. Its letterforms are slightly more restrained than its companion Rumiko Sans, with characters like R, Y, a and u dialled back for interface and UI work without losing the family's underlying warmth. The playful italics, shared with Rumiko Sans, carry more fluidity and can be used alongside the roman for contrast within a system. Coverage extends to over 200 Latin-script languages and includes a set of emoji, symbols, arrows and dingbats.",
+    "foundry_blurb": "TypeMates describe Rumiko Clear as clear, capable and flexible, built to bring legibility and warmth to digital environments. Its letterforms carry a relaxed sense of movement that reflects written connections, while the italics, shared with Rumiko Sans, give warmth and fluidity free rein. The six-weight family supports over 200 languages across the Latin alphabet and comes with an extensive set of symbols, icons, arrows, dingbats and emoji."
+  },
+  {
+    "name": "Franziska",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/franziska",
+    "designer": "Jakob Runge",
+    "year": 2014,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Franziska occupies a deliberate hybrid position between Renaissance serifs and classical slabs, with monolinear tendencies in lighter weights and high-contrast Roman qualities in heavier ones, placing it closest to a transitional serif with slab influences.",
+    "weights": [
+      "Hair",
+      "Thin",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Franziska"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "hybrid",
+      "text",
+      "editorial",
+      "publishing",
+      "variable",
+      "longform",
+      "expressive"
+    ],
+    "summary": "A hybrid serif by Jakob Runge that draws from Renaissance letterforms and classical slabs, balancing legibility at text sizes with strong personality in display use.",
+    "description": "Originally released in 2014 as FF Franziska through FontFont and relaunched via TypeMates in 2024 with a variable font format, this 20-style family spans Hair to Black with individually redrawn italics treated as typefaces in their own right. Asymmetric serifs derived from hand-drawn forms, clipped ball terminals and exaggerated ink traps give it a lively texture that reads well in both print newspapers and screen-heavy editorial contexts. Weights at opposite ends of the range drift into different genres, with hairline styles tending towards monolinear Egyptian and the heaviest weights towards high-contrast Roman.",
+    "foundry_blurb": "TypeMates describe Franziska as a crossbreed workhorse mixing Renaissance serif elements with static classical slab characteristics, designed to handle both small text legibility and headline character. The italics are intentionally individual, with almost every character redrawn rather than simply slanted. The family offers extensive OpenType features including small caps, cursive ligatures, multiple figure styles and Latin language support. Designed by Jakob Runge and first shown at Muthesius Academy under Albert-Jan Pool and André Heers, it won Gold at the Joseph Binder Award 2014 and first prize at the Fine Press Book Association Type Design Competition 2013."
+  },
+  {
+    "name": "Edie and Eddy Slab",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/edie-and-eddy-slab",
+    "designer": "Lisa Fischbach",
+    "year": 2022,
+    "category": "slab",
+    "subcategory": "egyptienne",
+    "classification_notes": "A slab serif with egyptienne proportions and unconventional contrast, sharing a hairline base with its Modern and Text siblings but differentiated by loud, bold slab characteristics intended for display use.",
+    "weights": [
+      "Thin",
+      "xLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "xBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Edie and Eddy Slab",
+      "Edie and Eddy Modern",
+      "Edie and Eddy Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "egyptienne",
+      "display",
+      "expressive",
+      "variable",
+      "superfamily",
+      "editorial",
+      "headlines"
+    ],
+    "summary": "A bold, expressive slab serif by Lisa Fischbach, designed as part of the Edie and Eddy superfamily where it takes the loudest, most playful role alongside a Modern and a Text companion.",
+    "description": "Part of a three-member superfamily sharing a common hairline base, this slab pulls away from its siblings through unconventional contrast and emphatic egyptienne proportions. Eight weights from Thin to Black with matching italics cover everything from delicate headlines to poster-scale shouting, while the italics narrow slightly to shift typographic colour and offer stylistic alternatives including cursive-inflected letterforms. Small caps, varied figure styles and hand emojis round out a character set stretching across Latin and Vietnamese.",
+    "foundry_blurb": "TypeMates describe Edie and Eddy Slab as the bold, loud and occasionally cheeky voice within the Edie and Eddy superfamily, an exploration of variable font possibilities across three subfamilies differentiated by contrast treatment. The Slab's egyptienne characteristics are designed for posters, newspaper covers and demonstration banners, with italics described as softer but still forceful, supported by stylistic alternatives for a clearer cursive. The superfamily is intended to be mixed and matched across its Modern, Slab and Text members."
+  },
+  {
+    "name": "TJ Evolette A",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/tj-evolette-a",
+    "designer": "Timo Titzmann, Jakob Runge",
+    "year": 2011,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "An all-caps geometric grotesque display family with Art Deco and runic alternate glyph sets, designed explicitly for headlines and poster work rather than continuous text.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Normal",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TJ Evolette A"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "all-caps",
+      "alternates",
+      "art-deco",
+      "runic",
+      "headline",
+      "editorial"
+    ],
+    "summary": "An all-caps geometric display family in seven weights with Futura-like proportions and two full sets of alternate glyphs drawing on Art Deco and runic letterforms.",
+    "description": "Designed by Timo Titzmann and Jakob Runge in 2011 and later expanded, TJ Evolette A pairs classic geometric grotesque structure with two complete stylistic sets that introduce Art Deco curves and angular runic forms across the full alphabet. The result is a headline family with considerable range within a single uppercase glyph set, suited to editorial, poster and identity contexts where decorative variation matters. Each of the seven weights carries more than 620 glyphs, with broad Latin language support accessible via OpenType features.",
+    "foundry_blurb": "TypeMates describe TJ Evolette A as unique, customisable, experimental, fashionable and clean. They position it as a geometric grotesque all-caps display family with seven weights, a basic glyph set and two integrated stylistic sets in which Art Deco interpretations mingle with the straight lines of ancient runes. Designed in 2011 by Timo Titzmann and Jakob Runge, the family was later revisited with new characters, improved kerning, better weight gradation and broader Latin language support."
+  },
+  {
+    "name": "Pensum Display",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/pensum-display",
+    "designer": "Nils Thomsen",
+    "year": 2017,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "A high-contrast serif with triangular, spiky serifs and deep ink traps, explicitly designed for display and headline sizes as a companion to the text-focused Pensum Pro.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pensum Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "high-contrast",
+      "editorial",
+      "headlines",
+      "publishing",
+      "elegant",
+      "variable"
+    ],
+    "summary": "A high-contrast display serif by Nils Thomsen with triangular spiky serifs and deep ink traps, built as a companion to Pensum Pro for headline and poster use.",
+    "description": "Distilled from the text-focused Pensum Pro, Pensum Display pushes contrast and detail to their extremes, with triangular serifs, tighter spacing and pronounced ink traps that reward large setting. Nine weights run from an extremely light Thin through to a striking Black, each with a matching italic that adds curvature and depth. Over 800 glyphs cover a wide range of Latin languages, with small caps designed wider than the capitals and punctuation variants for case-sensitive and small-cap composition.",
+    "foundry_blurb": "TypeMates describe Pensum Display as the triangular and spiky companion to Pensum Pro, designed for anything big and nothing that isn't big. The design embraces extremes — high contrast, triangular serifs and deep ink traps — across nine weights with matching italics, small caps and OpenType features, making it suitable for posters, headers and display typography across a broad range of Latin languages."
+  },
+  {
+    "name": "Mikkel",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/mikkel",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "brush script",
+    "classification_notes": "Mikkel is a brushy connected script with a casual, handmade quality. The accompanying Mikkel Sans is a complementary disconnected-lowercase sans designed to pair directly with the script, making the family script-led overall.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mikkel Script",
+      "Mikkel Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "brush",
+      "handmade",
+      "expressive",
+      "display",
+      "casual",
+      "variable",
+      "icons"
+    ],
+    "summary": "A brushy connected script paired with a complementary sans, both available as variable fonts across five weights for expressive display use.",
+    "description": "Mikkel Script is a casual, bouncy brush script suited to logos, lettering and large-scale display work where a loose, handmade feel is wanted. Its companion, Mikkel Sans, uses disconnected lowercase letterforms to stay legible and complementary alongside the script. OpenType features including alternates, small caps and oldstyle numerals keep it flexible, and over 900 glyphs per font give it broad Latin language coverage. A set of cartoonish icons extends the family further.",
+    "foundry_blurb": "TypeMates describe Mikkel as a smooth and goofy script with an easygoing attitude, calling it the cheeky joker in their library and a best buddy for expressive typography at large sizes. The family is a double act: the connected Script handles logos and lettering, while the Sans with its disconnected lowercase provides clear, complementary text. Smart OpenType features, swashy uppercase, restrained small caps and cartoonish icons round it out, with over 1000 glyphs per font and extensive Latin language support."
+  },
+  {
+    "name": "Dockland",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/dockland",
+    "designer": "Tom Holloway",
+    "year": 2023,
+    "category": "slab",
+    "subcategory": "transitional slab serif",
+    "classification_notes": "TypeMates describe it as a low-contrast slab serif in a transitional style, with prominent vertical serifs, angular counterforms and calligraphic inflections drawn from blackletter and 1890s lithographic sources.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dockland"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "transitional",
+      "industrial",
+      "blackletter-influenced",
+      "variable",
+      "editorial",
+      "identity",
+      "text"
+    ],
+    "summary": "A transitional slab serif by Tom Holloway drawing on 1890s lithographic prints and blackletter construction, available in seven weights with italics and a variable axis.",
+    "description": "Designed by Tom Holloway and released in 2023, Dockland takes the blocky bracketed slab as its starting point but sharpens it with angular counterforms, prominent vertical serifs and a calligraphic stroke influenced by blackletter lettering and Victorian lithography. The seven weights run from a fine Extra Light to a dense Extra Bold, each with a matching italic, and the family ships as a variable font alongside static OTF and TTF files. It covers a broad Latin glyph set including old-style and decimal figures, fractions and arrows, making it workable for publishing, branding and digital product.",
+    "foundry_blurb": "TypeMates describe Dockland as a smart slab serif with a crisp texture that enlivens the genre of blocky, traditional bracketed slabs. Blending mechanical construction with geometric clarity and a swift stroke, it draws on blackletter elements and 1890s lithographic prints to produce a solid text face with modern proportions. They position it for food trucks, craft beverages, maritime sports teams, tech start-ups and cultural or academic publications alike, referencing the heritage, labour and industrialisation of the London Docklands as its conceptual touchstone."
+  },
+  {
+    "name": "Harrison Serif",
+    "foundry": "TypeMates",
+    "url": "https://www.typemates.com/fonts/harrison-serif",
+    "designer": "Jakob Runge",
+    "year": 2017,
+    "category": "slab",
+    "subcategory": "contrasted slab serif",
+    "classification_notes": "Sits in the Clarendon/Ionic tradition of contrasted slab serifs with rational structure and warm detailing; TypeMates describe it explicitly as a slab serif with modest stroke contrast, squared curves and open counters.",
+    "weights": [
+      "Hair",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Harrison Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "clarendon-lineage",
+      "variable",
+      "editorial",
+      "screen",
+      "interface",
+      "publishing",
+      "text"
+    ],
+    "summary": "A contrasted slab serif by Jakob Runge, spanning nine weights from Hair to Ultra, designed for screen reading and user interfaces whilst retaining refined detail in print.",
+    "description": "Drawn by Jakob Runge and released in 2017, Harrison Serif sits within the Clarendon and Ionic tradition, pairing a rational structure of squarish curves, open counters and near-vertical terminals with slightly carved serifs that give it a warmer character. The eighteen-style family covers nine weights with matching italics that shift between cursive expressiveness and the sobriety of slanted obliques, making it flexible across both editorial and interface contexts. A TDC Certificate of Typographic Excellence in 2018 recognised its design, and the family is available as a variable font with broad Latin language support and a full suite of OpenType features including small caps and multiple figure styles.",
+    "foundry_blurb": "TypeMates describe Harrison Serif as a sturdy yet contrasted slab combining a rational, efficient approach with a warm voice. The slightly carved and occasionally extended serifs give the typeface a friendly character that contrasts with its squarish curves, open counters and horizontal emphasis. Drawn for long-form reading on screens and user interfaces, its refined details also come alive in high-resolution print. Nine weights from Hair to Ultra, with italics ranging from cursive to playful to soberly oblique, ensure no editorial need goes unmet."
+  }
+]

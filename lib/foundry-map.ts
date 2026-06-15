@@ -59,7 +59,6 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Leinster Type", slug: "leinster-type", homepage: "https://www.leinstertype.com/", tier: "best" },
   { name: "Playtype", slug: "playtype", homepage: "https://playtype.com/", tier: "best" },
   { name: "Studio Rene Bieder", slug: "studio-rene-bieder", homepage: "https://www.renebieder.com/", tier: "best" },
-  { name: "TIGHTYPE", slug: "tightype", homepage: "https://tightype.com/", tier: "best" },
   { name: "The Designers Foundry", slug: "the-designers-foundry", homepage: "https://thedesignersfoundry.com/", tier: "best" },
   { name: "Prioritype", slug: "prioritype", homepage: "https://prioritypeco.com/", tier: "best" },
   { name: "Taylor Penton", slug: "taylor-penton", homepage: "https://www.taylorpenton.com/", tier: "best" },
@@ -113,6 +112,12 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Luzi Type", slug: "luzi-type", homepage: "https://www.luzi-type.ch/", tier: "best" },
   { name: "Double Dagger", slug: "double-dagger", homepage: "https://www.doubledagger.xyz/", tier: "okay" },
   { name: "Indian Type Foundry", slug: "indian-type-foundry", homepage: "https://www.indiantypefoundry.com/", tier: "okay" },
+  // Batch 8
+  { name: "Tightype", slug: "tightype", homepage: "https://tightype.com/", tier: "okay" },
+  { name: "Pizza Typefaces", slug: "pizza-typefaces", homepage: "https://typefaces.pizza/", tier: "okay" },
+  { name: "That That Type", slug: "that-that-type", homepage: "https://thatthattype.com/", tier: "okay" },
+  { name: "Fontfabric", slug: "fontfabric", homepage: "https://www.fontfabric.com/", tier: "okay" },
+  { name: "TypeMates", slug: "typemates", homepage: "https://www.typemates.com/", tier: "okay" },
 ];
 
 export function getFoundryBySlug(slug: string): FoundryInfo | undefined {

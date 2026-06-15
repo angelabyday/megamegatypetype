@@ -1310,6 +1310,86 @@ const FOUNDRIES = [
       } catch { return false; }
     },
   },
+  {
+    name: "Tightype",
+    slug: "tightype",
+    homepage: "https://tightype.com/",
+    listingUrl: "https://tightype.com/typefaces",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("tightype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Pizza Typefaces",
+    slug: "pizza-typefaces",
+    homepage: "https://typefaces.pizza/",
+    listingUrl: "https://typefaces.pizza/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("typefaces.pizza")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "type" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "That That Type",
+    slug: "that-that-type",
+    homepage: "https://thatthattype.com/",
+    listingUrl: "https://thatthattype.com/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("thatthattype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Fontfabric",
+    slug: "fontfabric",
+    homepage: "https://www.fontfabric.com/",
+    listingUrl: "https://www.fontfabric.com/fonts/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("fontfabric.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "TypeMates",
+    slug: "typemates",
+    homepage: "https://www.typemates.com/",
+    listingUrl: "https://www.typemates.com/fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("typemates.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
 ];
 
 // ---- URL filter ----

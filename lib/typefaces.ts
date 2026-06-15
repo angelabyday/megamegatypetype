@@ -91,6 +91,11 @@ import order from "@/data/typefaces-order.json";
 import luziType from "@/data/typefaces-luzi-type.json";
 import doubleDagger from "@/data/typefaces-double-dagger.json";
 import indianTypeFoundry from "@/data/typefaces-indian-type-foundry.json";
+import tightype from "@/data/typefaces-tightype.json";
+import pizzaTypefaces from "@/data/typefaces-pizza-typefaces.json";
+import thatThatType from "@/data/typefaces-that-that-type.json";
+import fontfabric from "@/data/typefaces-fontfabric.json";
+import typemates from "@/data/typefaces-typemates.json";
 
 import { FOUNDRIES, getFoundryByName, type FoundryInfo } from "./foundry-map";
 
@@ -274,6 +279,12 @@ export function getAllTypefaces(): Typeface[] {
         luziType,
         doubleDagger,
         indianTypeFoundry,
+        // Batch 8
+        tightype,
+        pizzaTypefaces,
+        thatThatType,
+        fontfabric,
+        typemates,
       ] as RawTypeface[][]
     )
       .flat()

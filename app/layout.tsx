@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { BackToTop } from "@/components/back-to-top";
+import { SubmitFoundryButton } from "@/components/submit-foundry-dialog";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -11,11 +12,11 @@ export const metadata: Metadata = {
     template: "%s · MegaMegaTypeType",
   },
   description:
-    "A directory of 2,918 typefaces from independent foundries. Filter, search or describe your brief and get matches.",
+    "A directory of 3,073 typefaces from independent foundries. Filter, search or describe your brief and get matches.",
   openGraph: {
     title: "MegaMegaTypeType",
     description:
-      "A directory of 2,918 typefaces from independent foundries. Filter, search or describe your brief and get matches.",
+      "A directory of 3,073 typefaces from independent foundries. Filter, search or describe your brief and get matches.",
     siteName: "MegaMegaTypeType",
     type: "website",
   },
@@ -23,7 +24,7 @@ export const metadata: Metadata = {
     card: "summary",
     title: "MegaMegaTypeType",
     description:
-      "A directory of 2,918 typefaces from independent foundries. Filter, search or describe your brief and get matches.",
+      "A directory of 3,073 typefaces from independent foundries. Filter, search or describe your brief and get matches.",
   },
 };
 
@@ -61,6 +62,8 @@ export default function RootLayout({
               <Link href="/about" className="px-4 py-1.5 hover:opacity-75 transition-opacity">
                 About
               </Link>
+              <span className="w-px self-stretch bg-background/20" aria-hidden="true" />
+              <SubmitFoundryButton />
             </nav>
             </div>
           </div>
