@@ -143,6 +143,9 @@ export const BLOCKED_FOUNDRIES: { domain: string; name: string; reason: string }
   { domain: "castletype.com", name: "Castle Type", reason: "old static site, no structured listing" },
   { domain: "youworkforthem.com", name: "YouWorkForThem", reason: "reseller marketplace, not a foundry" },
   { domain: "paratype.com", name: "Paratype", reason: "large catalogue, no structured listing page" },
+  { domain: "colophon-foundry.org", name: "Colophon", reason: "JS-rendered, no crawlable listing" },
+  { domain: "familytype.co", name: "Family Type", reason: "JS-rendered, no crawlable listing" },
+  { domain: "outofthedark.xyz", name: "Out of the Dark", reason: "JS-rendered, no crawlable listing" },
 ];
 
 export function getFoundryBySlug(slug: string): FoundryInfo | undefined {
