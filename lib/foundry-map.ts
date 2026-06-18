@@ -123,6 +123,26 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Souvenir Typefaces", slug: "souvenir-typefaces", homepage: "https://souvenirtypefaces.xyz/", tier: "best" },
   { name: "The Northern Block", slug: "the-northern-block", homepage: "https://www.thenorthernblock.co.uk/", tier: "best" },
   { name: "Type of Feeling", slug: "type-of-feeling", homepage: "https://typeoffeeling.com/", tier: "best" },
+  // Batch 10
+  { name: "ALT.tf", slug: "alt-tf", homepage: "https://alt-tf.com/", tier: "okay" },
+  { name: "Black Foundry", slug: "black-foundry", homepage: "https://black-foundry.com/", tier: "okay" },
+  { name: "Collletttivo", slug: "collletttivo", homepage: "https://www.collletttivo.it/", tier: "okay" },
+  { name: "Dot Colon", slug: "dot-colon", homepage: "https://dotcolon.net/", tier: "okay" },
+  { name: "Gallery Type", slug: "gallery-type", homepage: "https://gallerytype.com/", tier: "okay" },
+  { name: "Just Another Foundry", slug: "just-another-foundry", homepage: "https://justanotherfoundry.com/", tier: "okay" },
+  { name: "Lettermin", slug: "lettermin", homepage: "https://lettermin.com/", tier: "okay" },
+  { name: "lo-ol Type", slug: "lo-ol-type", homepage: "https://www.lo-ol.design/", tier: "okay" },
+  { name: "Monokrom", slug: "monokrom", homepage: "https://monokrom.no/", tier: "okay" },
+  { name: "Off Type", slug: "off-type", homepage: "https://off-type.com/", tier: "okay" },
+  { name: "Patio Foundry", slug: "patio-foundry", homepage: "https://patiofoundry.com/", tier: "okay" },
+  { name: "Process Type Foundry", slug: "process-type-foundry", homepage: "https://processtypefoundry.com/", tier: "okay" },
+  { name: "Regular Bold Italic", slug: "regular-bold-italic", homepage: "https://regularbolditalic.com/", tier: "okay" },
+  { name: "Rosetta", slug: "rosetta", homepage: "https://rosettatype.com/", tier: "okay" },
+  { name: "Smuss Type Kiosk", slug: "smuss-type-kiosk", homepage: "https://typekiosk.smuss.studio/", tier: "okay" },
+  { name: "Studio Feixen Fonts", slug: "studio-feixen-fonts", homepage: "https://fonts.studiofeixen.ch/", tier: "okay" },
+  { name: "Studio Triple", slug: "studio-triple", homepage: "https://studiotriple.fr/", tier: "okay" },
+  { name: "TYPE BY", slug: "type-by", homepage: "https://www.typeby.com/", tier: "okay" },
+  { name: "Zetafonts", slug: "zetafonts", homepage: "https://www.zetafonts.com/", tier: "okay" },
 ];
 
 // Foundries confirmed unscrapable — JS-rendered, bot-blocked, or no listing page.
