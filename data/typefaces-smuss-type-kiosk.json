@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Bureau Sans",
+    "foundry": "Smuss Type Kiosk",
+    "url": "https://typekiosk.smuss.studio/bureau-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Bureau Sans is a proportional sans-serif with shared skeletal DNA with Bureau Serif, suggesting humanist construction; the three spacing styles (Standard, SemiMono, Mono) and the serif companion indicate a text-oriented, considered design rather than a pure geometric or grotesque approach.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bureau Sans",
+      "Bureau Sans SemiMono",
+      "Bureau Sans Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "text",
+      "workhorse",
+      "variable",
+      "semimono",
+      "mono",
+      "companion",
+      "editorial"
+    ],
+    "summary": "A sans-serif designed on the same skeleton as Bureau Serif, available in three spacing variants from proportional to fully monospaced, across six weights with matching italics and a variable file.",
+    "description": "Bureau Sans and Bureau Serif share a common skeleton, each borrowing constraints from the other so that the distinction between them becomes a deliberate choice rather than a default. The sans comes in Standard, SemiMono and Mono variants, six weights from Light to Bold, matching italics and a variable file, making it equally viable for continuous text, UI work and code environments. The two families are sold together and were built to be used in combination.",
+    "foundry_blurb": "Smuss describe Bureau Sans and Bureau Serif as drawn together on a shared skeleton, the two families informing each other's constraints and inheriting each other's idiosyncrasies. Each comes in three styles — Standard, SemiMono and Mono — six weights, matching italics and a variable file with complete family licences, and the studio explicitly encourages buying and using both together."
+  },
+  {
+    "name": "Bureau Serif",
+    "foundry": "Smuss Type Kiosk",
+    "url": "https://typekiosk.smuss.studio/bureau-serif",
+    "designer": "William Stormdal",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "constructed serif",
+    "classification_notes": "A serif with vertical contrast stroke and constructed bases that shares a skeleton with Bureau Sans, placing it closer to rational or constructed serifs than traditional humanist or transitional models.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bureau Serif",
+      "Bureau Serif SemiMono",
+      "Bureau Serif Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "constructed",
+      "workhorse",
+      "editorial",
+      "variable",
+      "mono-variant",
+      "text",
+      "matched-family"
+    ],
+    "summary": "A constructed serif sharing its skeleton with Bureau Sans, offering six weights with italics across Standard, SemiMono and Mono cuts plus a variable file.",
+    "description": "Designed by William Stormdal and launched in 2025, Bureau Serif inherits its structural logic from Bureau Sans: vertical contrast stroke, squared tittles and dots, and constructed serif bases give it a rationalist quality rarely found in text serifs. The family ships in three cuts — Standard, SemiMono and Mono — with six weights and matching italics throughout, plus a variable file covering the full range. Pair it with Bureau Sans and the shared skeleton makes mixed-typography layouts feel coherent rather than compromised.",
+    "foundry_blurb": "Smuss describe Bureau Serif as sharing a skeleton with Bureau Sans, inheriting some of its language in the process. They call it more constructed than most serifs, with vertical contrast stroke, squared tittles and dots, and constructed serif bases — warm but precise, and a true workhorse with a bold personality. Available in Standard, SemiMono and Mono cuts across six weights with matching italics and a variable file, it can be used alone or alongside Bureau Sans, where the shared structure makes switching mid-layout feel less like a decision and more like a conversation."
+  },
+  {
+    "name": "Miso",
+    "foundry": "Smuss Type Kiosk",
+    "url": "https://typekiosk.smuss.studio/miso",
+    "designer": "William Stormdal",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Wide, approachable construction with circular tendencies held in check by deliberate restraint, placing it in the geometric sans tradition while its warmth and stylistic flexibility keep it from being coldly mechanical.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Miso"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "friendly",
+      "wide",
+      "variable",
+      "cookbook",
+      "branding",
+      "approachable",
+      "opentype"
+    ],
+    "summary": "A wide geometric sans with a warm character, designed by William Stormdal and originally commissioned for a cookbook, with extensive OpenType alternates added in version 2.0.",
+    "description": "Originally created for a cookbook and named after the author's dachshund, it carries a deliberately approachable width without tipping into full geometric rigidity. Version 2.0 expanded the family to 14 static styles plus a variable font, and added nine stylistic sets covering angled terminals, squared punctuation, alternate letterforms and circled or squared figure variants. The result is a family with a consistent friendly register that can be tuned toward something sharper or more technical through its feature set.",
+    "foundry_blurb": "Smuss describe Miso as a typeface that started life for a cookbook, named after the author's dachshund, with a wide and approachable construction that deliberately stops short of fully geometric. Version 2.0 brought a wardrobe of stylistic sets including squared punctuation, open apertures and angled terminals, expanding the family while keeping its original character intact."
+  },
+  {
+    "name": "Astro",
+    "foundry": "Smuss Type Kiosk",
+    "url": "https://typekiosk.smuss.studio/astro",
+    "designer": "Kristian Thorsen",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The foundry classifies it as Geometric; the design draws on Bauhaus geometry and modular construction, with circular forms and a rational structure characteristic of geometric sans-serifs.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Astro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "bauhaus",
+      "sci-fi",
+      "variable",
+      "expressive",
+      "display",
+      "opentype-features",
+      "playful"
+    ],
+    "summary": "A geometric sans by Kristian Thorsen drawing on Bauhaus construction and sci-fi aesthetics, available in seven weights with matching italics and 13 stylistic sets.",
+    "description": "Designed by Kristian Thorsen and launched in 2025, the family runs from Thin to Black with matching italics and a variable font axis covering the full weight range. Thirteen stylistic sets allow significant shifts in character — from rounded, clean forms through straight-cut and pointy variants to alternative lowercase letters and circled or squared figure styles. The breadth of OpenType options makes it suited to both functional text settings and more expressive display work.",
+    "foundry_blurb": "Smuss Type Kiosk describe Astro as blending Bauhaus geometry, brutalist shapes, and sci-fi aesthetics, with 7 weights, matching italics, and 13 stylistic sets that let you shift from clean and functional to expressive and playful. They call it a workhorse by day and a disco pony by night."
+  },
+  {
+    "name": "Saga",
+    "foundry": "Smuss Type Kiosk",
+    "url": "https://typekiosk.smuss.studio/saga",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Saga draws on the European serif tradition with straight legs, sharp apexes and long generously proportioned serif bases, placing it in the humanist serif camp rather than a strict transitional or old-style classification.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Saga"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "humanist",
+      "editorial",
+      "european-tradition",
+      "variable",
+      "text",
+      "book"
+    ],
+    "summary": "A serif drawn from accumulated impressions of the European tradition rather than any single historical source, with sharp apexes offset by long, warm serif bases.",
+    "description": "Six weights from Light to Bold, each with an italic, compose a family built on straight legs and sharp apexes that give the text a quiet precision. Long, generous serif bases temper the sharpness and keep the texture warm at reading sizes. OpenType features include contextual alternates, ligatures, tabular and oldstyle figures, fractions, and playful additions such as circled figures and an upside-down S.",
+    "foundry_blurb": "Smuss describe Saga as drawn from memory rather than sources: not a revival but a re-reading of accumulated impressions from the European serif tradition, never answering to any single reference. Straight legs and sharp apexes bring a quiet determination, held in check by long, generous serif bases and a warmth that rounds off the edges."
+  },
+  {
+    "name": "Gerhard",
+    "foundry": "Smuss Type Kiosk",
+    "url": "https://typekiosk.smuss.studio/gerhard",
+    "designer": "William Stormdal",
+    "year": 2022,
+    "category": "mono",
+    "subcategory": "monospaced sans",
+    "classification_notes": "Gerhard is explicitly classified as Mono by the foundry; each character occupies an identical advance width, with a clean, constructed sans structure and slit joints for legibility.",
+    "weights": [
+      "Light",
+      "Standard",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gerhard"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "constructed",
+      "scandinavian",
+      "legibility",
+      "coding",
+      "editorial",
+      "geometric"
+    ],
+    "summary": "A five-weight monospaced family by William Stormdal, drawing on Scandinavian social-democratic egalitarianism as its guiding principle for equal character spacing.",
+    "description": "Designed in Norway in 2022 by William Stormdal, the family runs from Light to Bold across five cuts, each character allotted identical space without exception. Slit openings at joints distinguish the construction and improve legibility at smaller sizes. OpenType features include contextual automatic arrows, circled and black circled figures, and a flippy alternate set.",
+    "foundry_blurb": "Smuss describe Gerhard as a no-nonsense monospaced family taking its democratic cues from Norway's post-war prime minister Einar Gerhardsen, where every character receives exactly the same space — equal opportunities, with slit joints aiding legibility and clearer construction."
+  },
+  {
+    "name": "Earl",
+    "foundry": "Smuss Type Kiosk",
+    "url": "https://typekiosk.smuss.studio/earl",
+    "designer": "William Stormdal",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "scotch roman",
+    "classification_notes": "The foundry classifies Earl explicitly as Scotch Roman, with its high contrast, bracketed serifs and strong terminals placing it squarely in that tradition, though the addition of flared finials and squared punctuation as defaults marks deliberate departures from genre orthodoxy.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Earl",
+      "Earl Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "scotch-roman",
+      "high-contrast",
+      "editorial",
+      "display",
+      "opentype-features",
+      "variable",
+      "serif",
+      "expressive"
+    ],
+    "summary": "A Scotch Roman with flared finials and squared punctuation as its defaults, designed by William Stormdal and inspired by lettering spotted on a Torino street sweeper.",
+    "description": "Rather than a straight revival, Earl reinterprets the Scotch Roman tradition through two deliberate rule-breaks: squared punctuation for visual attitude and flared finials where the genre would conventionally demand restrained bracketing. Both deviations can be switched off via stylistic sets for a more classical result. Seven weights from Thin to Black are available now as a variable font, with SemiMono and Mono cuts in development.",
+    "foundry_blurb": "Smuss Type Kiosk describe Earl as something closer to a new alley beside a historic building than a revival, sparked by a Scotch Roman spotted on a Torino street sweeper. They highlight the squared punctuation and flared finials as the two deliberate breaks from genre convention, both reversible through stylistic sets, and note that matching SemiMono and Mono versions are in development."
+  }
+]

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { TypefaceCard } from "@/components/typeface-card";
+import { ReportMissingButton } from "@/components/report-missing-dialog";
 import { FOUNDRIES, getFoundryBySlug } from "@/lib/foundry-map";
 import { getTypefacesByFoundrySlug, toDirectoryEntry } from "@/lib/typefaces";
 
@@ -52,6 +53,7 @@ export default async function FoundryPage({
           {new URL(info.homepage).hostname.replace(/^www\./, "")}
         </a>
       </p>
+      <ReportMissingButton foundryName={info.name} />
       <div className="mt-6 grid grid-cols-1 gap-2 sm:grid-cols-2 xl:grid-cols-3">
         {typefaces.map((t) => (
           <TypefaceCard key={t.slug} typeface={t} />

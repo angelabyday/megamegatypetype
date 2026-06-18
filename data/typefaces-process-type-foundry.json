@@ -1,0 +1,1396 @@
+[
+  {
+    "name": "Adjunct",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/adjunct/",
+    "designer": "Eric Olson",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "geometric humanist sans",
+    "classification_notes": "Adjunct is a spurless sans-serif drawing on the geometric-humanist tradition, with nearly circular letterforms tempered by humanistic stroke entry and exit treatment rather than strict geometric rigidity.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Adjunct",
+      "Adjunct Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "spurless",
+      "geometric",
+      "humanist",
+      "sans-serif",
+      "mono",
+      "editorial",
+      "neutral",
+      "contemporary"
+    ],
+    "summary": "A spurless sans-serif by Eric Olson that distils a century of simplified-stroke design into a family balancing geometric structure with humanistic warmth.",
+    "description": "Eric Olson traces the spurless genre from Nebiolo's Semplicità in the late 1920s through to Hans Reichel's FF Dax in the 1990s, then draws his own synthesis with nearly circular letterforms whose abbreviated stem terminations prevent monotony. The family runs across five weights with italics and includes a monospaced cut, making it useful across both editorial and interface contexts. OpenType features cover tabular and old-style figures, case-sensitive glyphs and a small set of directional arrows and patterns.",
+    "foundry_blurb": "Process Type Foundry describe Adjunct as a typeface reduced to its essence, with simplified entry and exit strokes in the spurless tradition. They trace the genre's origins to Nebiolo's Semplicità in 1928 and its maturation through Hans Reichel's designs in the 1990s, positioning Adjunct as a distillation of that hundred-year lineage into a design that is both geometric and humanistic in structure and tone."
+  },
+  {
+    "name": "Anchor",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/anchor/",
+    "designer": "Eric Olson",
+    "year": 2010,
+    "category": "display",
+    "subcategory": "round gothic",
+    "classification_notes": "Anchor is a round display gothic, informal in character but structured enough for compact setting. Its rounded letterforms and varying weight personalities from straightforward medium to swaggering black place it firmly in the display category.",
+    "weights": [
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Anchor"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "gothic",
+      "rounded",
+      "informal",
+      "compact",
+      "ornaments"
+    ],
+    "summary": "A four-weight family of round display gothics by Eric Olson, designed to work in tight spaces alongside Bryant Compressed.",
+    "description": "Anchor runs from a workaday Medium and Semibold through to a plump Bold and Black that lean into exaggeration and swagger. Eric Olson designed it as a companion to Bryant Compressed, and the two sit naturally together in editorial and identity work where informality is still expected to behave. An OpenType ornaments set adds a collection of playful arrows.",
+    "foundry_blurb": "Process Type Foundry describe Anchor as an informally serious family of round display gothics, designed to maneuver in cramped quarters. The Medium and Semibold are characterised as straightforward, while the Bold and Black lend themselves to swagger and exaggeration. The family was designed to blend well with Bryant Compressed and includes playful arrows as OpenType ornaments."
+  },
+  {
+    "name": "Bryant 2",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/bryant-2/",
+    "designer": "Eric Olson",
+    "year": 2002,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Inspired by Wrico mechanical lettering kits, Bryant 2 sits firmly in the geometric sans tradition with rounded, warm letterforms that retain a human quality distinct from colder geometric models like Futura.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bryant 2",
+      "Bryant 2 Pro",
+      "Bryant 2 Condensed",
+      "Bryant 2 Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "warm",
+      "lettering-inspired",
+      "signage",
+      "drafting",
+      "rounded",
+      "versatile"
+    ],
+    "summary": "A geometric sans by Eric Olson rooted in the Wrico mechanical lettering kits used by draftsmen in the 1960s and 70s, offering warmth that most geometric sans families lack.",
+    "description": "Originally released in 2002 and revised in 2005, Bryant 2 draws on the rounded, template-lettered forms of Wrico drafting kits to produce a geometric sans that feels approachable rather than clinical. The Pro version adds small caps, proportional and tabular variants of both lining and old-style numerals, stylistic alternates and arrows as ornaments, bringing the family to 12 styles across four weights. A separate Condensed and Compressed range extends its range for tighter settings and display use.",
+    "foundry_blurb": "Process Type Foundry describe Bryant as a warm and modern take on the geometric sans serif, inspired by Wrico mechanical lettering kits used by draftsmen and amateur sign makers in the 1960s and 70s. First released in 2002 and later revised and expanded, Bryant 2 Pro adds small caps, multiple numeral styles, italics and Extended Latin support across 12 styles."
+  },
+  {
+    "name": "Bryant Compressed",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/bryant-compressed/",
+    "designer": "Eric Olson",
+    "year": 2005,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Bryant Compressed is a narrow geometric sans-serif with increased stroke contrast and sharp stem joins, departing slightly from a pure geometric model to preserve warmth at compressed widths.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Bryant 2",
+      "Bryant Condensed",
+      "Bryant Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "compressed",
+      "narrow",
+      "display",
+      "editorial",
+      "warm"
+    ],
+    "summary": "The narrowest width of Eric Olson's Bryant family, engineered for high letter counts at large sizes without losing the face's characteristic warmth.",
+    "description": "Bryant Compressed uses sharp stem joins and increased stroke contrast to distinguish itself from the other Bryant widths, allowing the typeface to remain readable and warm even at tight settings. Released in 2005 alongside the broader Bryant family, it comes in four weights and includes OpenType features such as arrows and stylistic alternates. It suits editorial headlines, posters and any layout where space is constrained but personality still matters.",
+    "foundry_blurb": "Process Type Foundry describe Bryant Compressed as the narrowest of Bryant's three widths, designed for situations where large point sizes and maximum letter count need to coexist. They note that sharp stem joins and increased contrast are stylistic departures from the other weights and widths, included to preserve Bryant's warm tone while saving space. OpenType features include arrows and stylistic alternates."
+  },
+  {
+    "name": "Bryant Condensed",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/bryant-condensed/",
+    "designer": "Eric Olson",
+    "year": 2005,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Bryant Condensed shares the warm, rounded character of its sibling Bryant 2, placing it firmly in the humanist sans tradition despite its condensed proportions and display-friendly weight range.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Bryant 2",
+      "Bryant Condensed",
+      "Bryant Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "humanist",
+      "display",
+      "warm",
+      "geometric",
+      "signage"
+    ],
+    "summary": "A four-weight condensed companion to Bryant 2, sharing the same warm character in a narrower cut suited to display and medium text sizes.",
+    "description": "Part of a three-width Bryant family alongside Bryant 2 and Bryant Compressed, this condensed cut keeps the approachable, rounded quality of the wider sibling while working across display and mid-text sizes. Four weights are available, with OpenType features including arrows and stylistic alternates. The name signals condensed proportions, though Eric Olson describes it as simply 'not too wide', making it more versatile than a tightly compressed display face.",
+    "foundry_blurb": "Process Type Foundry describe Bryant Condensed as the middle member of the three Bryant widths, noting it carries the same warm demeanor as Bryant 2 in a family of four weights. They suggest it suits a range of display and medium text sizes, and include OpenType features such as arrows and stylistic alternates."
+  },
+  {
+    "name": "Capucine",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/capucine/",
+    "designer": "Alice Savoie",
+    "year": 2010,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Despite being classified as a sans serif, Capucine draws heavily on handwriting and brush script influences, giving it a humanist character with distinctly calligraphic italics that set it apart from conventional grotesque or geometric models.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Capucine"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "humanist",
+      "calligraphic",
+      "editorial",
+      "magazine",
+      "brush-influenced",
+      "expressive"
+    ],
+    "summary": "A five-weight sans serif by Alice Savoie that blends handwriting fluidity with brush script energy, producing especially characterful italics.",
+    "description": "Designed by Alice Savoie and released in 2010, Capucine spans five weights across ten styles, with italics that carry a distinctly calligraphic quality most visible at display sizes. The family works across editorial contexts from magazine listings to expressive headlines, supported by a thorough OpenType feature set including small caps, old style and tabular numerals, stylistic alternates and pre-built fractions. Its handwritten informality keeps it lively without tipping into novelty.",
+    "foundry_blurb": "Process Type Foundry describe Capucine as an idiosyncratic sans serif that mixes the fluidity of handwriting with the vivacity of a brush script, suited to uses ranging from magazine listings to expressive headlines. Designed by Alice Savoie and released in 2010, it offers five weights in ten styles with OpenType features including small caps, case-sensitive glyphs, old style and tabular numerals, and stylistic alternates."
+  },
+  {
+    "name": "Colfax",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/colfax/",
+    "designer": "Eric Olson",
+    "year": 2012,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described by the foundry as a 'nearly geometric' or 'implied geometry' sans, with oval characters built from subtle straight sides and near-perfect circles rather than strict mechanical geometry, placing it between a true geometric and a humanist grotesque.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Thin",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Colfax"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "oval",
+      "sans-serif",
+      "workhorse",
+      "display",
+      "editorial",
+      "neutral"
+    ],
+    "summary": "An oval sans by Eric Olson that sits between strict geometric and humanist territory, offering four text weights and two extreme display styles.",
+    "description": "Eric Olson's Colfax uses near-perfect circles and subtly straightened sides to suggest geometry without mechanically imposing it, giving the family a warmer feel than a strict geometric sans. Six weights across twelve styles cover both workhorse text sizes and extreme display cuts, making the family versatile across editorial and identity work. OpenType features include case-sensitive arrows and an alternate J.",
+    "foundry_blurb": "Process Type Foundry describe Colfax as a refined oval sans serif with an implied geometry, built from subtle straight sides and near-perfect circles rather than measured or automated forms. It pairs four workhorse weights with two extreme display styles, and includes OpenType features such as case-sensitive arrows and an alternate J."
+  },
+  {
+    "name": "Common Shapes",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/common-shapes/",
+    "designer": "Eric Olson",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Built around capsule and semi-sphere shapes, Common Shapes is geometric in its underlying structure but deliberately avoids strict mechanical construction, placing it in a softened geometric sans tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Common Shapes"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "casual",
+      "minimal",
+      "general-purpose",
+      "clean",
+      "simple"
+    ],
+    "summary": "A softened geometric sans by Eric Olson built around capsule and semi-sphere forms, continuing the geometric thread of his earlier Colfax.",
+    "description": "Eric Olson's follow-up to Colfax refines an approach that is geometric in tone without being rigidly mechanical, using capsule and semi-sphere shapes as its organising principle. Six weights with matching italics make for twelve styles in total, and a single stylistic set lets users strip forms back even further for a more pared-down appearance. Its spare character suits casual editorial contexts and interfaces where a light typographic touch is preferred over assertiveness.",
+    "foundry_blurb": "Process Type Foundry describe Common Shapes as a general-purpose typeface built around capsule and semi-sphere shapes, continuing the implied geometry explored in Colfax but approached with deliberate informality rather than measurement or automation. Six weights with matching italics are included, alongside a stylistic set for further simplifying alphabetic and punctuation forms."
+  },
+  {
+    "name": "Coordinates",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/coordinates/",
+    "designer": "Eric Olson",
+    "year": 2018,
+    "category": "mono",
+    "subcategory": "grotesque mono",
+    "classification_notes": "A monospaced typeface drawing on Grotesque and Art Nouveau influences, specifically referencing Venus by the Bauer Type Foundry; the monospace constraint is its defining structural feature.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Coordinates"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "grotesque",
+      "art-nouveau",
+      "venus",
+      "editorial",
+      "fixed-width",
+      "coding",
+      "historical-reference"
+    ],
+    "summary": "A monospaced tribute to the Bauer Type Foundry's Venus, blending Grotesque and Art Nouveau influences within the strict constraints of a fixed-width framework.",
+    "description": "Eric Olson's 2018 design takes Venus, the early 20th century Bauer typeface, as its starting point and forces its formal tensions into a monospace grid. The resulting family of five weights with matching italics holds onto Venus's mix of Grotesque and Art Nouveau references while the fixed-width structure gives it a contemporary technical character. The ten styles sit naturally in editorial and coding contexts where historical warmth and mechanical precision are both welcome.",
+    "foundry_blurb": "Process Type Foundry describe Coordinates as a monospaced tribute to Venus, the early 20th century typeface issued by the Bauer Type Foundry. They note that Venus combined Grotesque and Art Nouveau influences, and that Coordinates merges those same disparate formal themes into the constraints of a monospace framework. The family comprises five weights with matching italics, available in OpenType and webfont formats."
+  },
+  {
+    "name": "Elena",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/elena/",
+    "designer": "Nicole Dotin",
+    "year": 2011,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "A low-contrast modern serif with economic proportions and crisp detailing, designed explicitly for extended reading — placing it in the transitional serif tradition, updated for screen and print use.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Elena"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "reading",
+      "screen",
+      "print",
+      "low-contrast",
+      "opentype"
+    ],
+    "summary": "A low-contrast text serif by Nicole Dotin, designed for sustained reading in print and on screen without leaning on historical precedent.",
+    "description": "Designed by Nicole Dotin and released in 2011 with an update in 2016, Elena offers four weights in eight styles for text and medium-sized display work. Its economic proportions and low contrast keep it comfortable across print and screen contexts, while a full OpenType feature set — small caps, old-style and tabular numerals, case-sensitive glyphs and stylistic alternates — gives it the depth expected of a serious text face. Typographica named it among their favourite typefaces of 2011.",
+    "foundry_blurb": "Process Type Foundry describe Elena as a crisp, modern serif designed for extended reading and medium-sized display copy — one that avoids the stuffiness of historical text faces without overreaching into contemporary detailing. They position it as a balanced, low-contrast typeface with economic proportions that performs well in both print and screen environments."
+  },
+  {
+    "name": "FIG",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/fig/",
+    "designer": "Eric Olson",
+    "year": 2002,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "FIG is categorised as display due to its highly conceptual, reductionist construction derived from ASCII art and FIGlet; each letterform is built from a single repeated symbol, making it unsuitable for extended text use.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FIG Sans",
+      "FIG Serif",
+      "FIG Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "ascii-inspired",
+      "display",
+      "experimental",
+      "conceptual",
+      "pixel",
+      "retro",
+      "script"
+    ],
+    "summary": "A trio of typefaces built on the reductionist logic of FIGlet ASCII art, each constructed from a single repeated symbol.",
+    "description": "FIG Sans is made entirely from the + symbol, FIG Serif from the *, and each letterform is built up from that single element alone. FIG Script departs from that rigid grid, arriving at an upright script with swooping ascenders and descenders drawn from primitive geometry. All three were designed by Eric Olson in 2002 as a tribute to the FIGlet program created by Frank Sheeran, Ian Chai and Glenn Chappell.",
+    "foundry_blurb": "Process Type Foundry describe FIG as a trio of typefaces made in the spirit of early email and ASCII art, named after the FIGlet collaboration. FIG Sans uses only the + symbol and FIG Serif only the * to construct each character, following FIGlet's reductionist construction principle literally. FIG Script takes a looser approach, pairing primitive geometry with swooping ascenders and descenders to arrive at something of an upright script."
+  },
+  {
+    "name": "FindReplace",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/findreplace/",
+    "designer": "Eric Olson",
+    "year": 2004,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "FindReplace is built on a single-line replacement concept where progressively thicker strokes replace one another across six weights, resulting in unconventional stroke structures that place it firmly in experimental or display territory rather than conventional text type.",
+    "weights": [
+      "Weight 1",
+      "Weight 2",
+      "Weight 3",
+      "Weight 4",
+      "Weight 5",
+      "Weight 6"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FindReplace"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "layering",
+      "display",
+      "modular",
+      "gradation",
+      "opentype"
+    ],
+    "summary": "A six-weight display family built on a single structural conceit: each weight replaces its core line with a progressively thicker version, enabling layering and gradation effects.",
+    "description": "Designed by Eric Olson and released in 2004, FindReplace uses a systematic substitution method where a single line is thickened incrementally across six weights, all sharing identical metrics and kerning. That shared metric structure means the weights can be layered directly over one another for colour and depth effects without any realignment. OpenType features include old style numerals, ornaments and stylistic alternates.",
+    "foundry_blurb": "Process Type Foundry describe FindReplace as the result of tinkering with the typeface-making process while aiming for a resemblance to conventional letterforms, built by replacing a single line with progressively thicker versions throughout the entire font, yielding six weights with identical metrics and kerning for layering and gradation effects."
+  },
+  {
+    "name": "Indivisible",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/indivisible/",
+    "designer": "Eric Olson",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Described by the foundry as distilled from neo-grotesque and geometric influences; shares the rational structure and even stroke contrast of the neo-grotesque tradition while admitting some geometric warmth.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Indivisible"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "geometric",
+      "general-purpose",
+      "neutral",
+      "screen",
+      "print",
+      "variable"
+    ],
+    "summary": "A general-purpose sans by Eric Olson drawing on neo-grotesque and geometric traditions, offered in seven weights with italics and variable font support.",
+    "description": "Eric Olson spent several years on Indivisible, balancing the plainness of neo-grotesque conventions with a degree of geometric warmth and personal preference. The family runs to fourteen styles across seven weights, each with a matching italic, and desktop or web licence holders receive variable Roman and variable Italic fonts at no extra cost. OpenType features include case-sensitive glyphs, proportional and tabular lining numerals, and pre-built fractions.",
+    "foundry_blurb": "Process Type Foundry describe Indivisible as distilled from neo-grotesque and geometric influences, a general-purpose sans representing several years of incremental effort to pair plainness and familiarity with formal warmth. It comes in seven weights with matching italics, supports variable font formats, and the variable version is included free with a complete family licence."
+  },
+  {
+    "name": "Kettler",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/kettler/",
+    "designer": "Eric Olson",
+    "year": 2002,
+    "category": "mono",
+    "subcategory": "slab monospaced",
+    "classification_notes": "A monospaced typeface with utilitarian slab serifs, explicitly positioned as a tribute to Courier. The slab-serif detailing and fixed-pitch spacing place it firmly in the monospaced slab category.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kettler"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "slab",
+      "courier-inspired",
+      "tabular",
+      "utilitarian",
+      "display",
+      "headline"
+    ],
+    "summary": "A two-weight monospaced slab serif by Eric Olson, designed as a tribute to Howard 'Bud' Kettler's Courier with modernised curves.",
+    "description": "Named in honour of Courier's designer Howard 'Bud' Kettler, this fixed-pitch typeface from 2002 pairs utilitarian slab serifs with contemporary curves. Two weights cover tabular data settings and headline use alike, making it a compact but versatile choice for type that needs the regularity of a monospace without the sterility of a pure technical face.",
+    "foundry_blurb": "Process Type Foundry describe Kettler as a simple monospaced font that pays tribute to Courier designer Howard 'Bud' Kettler. They characterise it as a subtle blend of utilitarian slab serifs and modern curves, suited to tabular information as well as display and headline work."
+  },
+  {
+    "name": "Klavika",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/klavika/",
+    "designer": "Eric Olson",
+    "year": 2004,
+    "category": "sans-serif",
+    "subcategory": "geometric humanist sans",
+    "classification_notes": "Klavika sits between geometric and humanist traditions, with straight-sided characters suggesting geometric construction and open, readable forms that lean humanist. Process Type describe it as a hybrid with allegiances to neither.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Klavika",
+      "Klavika Condensed",
+      "Klavika Display"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "humanist",
+      "workhorse",
+      "sans-serif",
+      "opentype",
+      "legible",
+      "neutral",
+      "corporate"
+    ],
+    "summary": "A hybrid sans by Eric Olson that blends geometric structure with humanist openness across four weights and eight styles.",
+    "description": "Released in 2004 by Eric Olson, Klavika sits between geometric and humanist traditions without fully committing to either. Crisp, open letterforms keep it readable at small sizes, while straight-sided characters give it weight and authority at display scale. The family extends into Klavika Condensed and Display variants, and the OpenType feature set includes small caps, old-style and tabular numerals, stylistic alternates and arrows.",
+    "foundry_blurb": "Process Type describe Klavika as a full-featured workhorse sans for 21st-century needs, unadorned and flexible, following a hybrid typographic path that crosses humanist and geometric influences without allegiance to either. Crisp, open shapes aid legibility at small sizes while straight-sided characters anchor large settings."
+  },
+  {
+    "name": "Klavika Condensed",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/klavika-condensed/",
+    "designer": "Eric Olson",
+    "year": 2008,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Klavika Condensed is a geometric sans with near-vertical terminations and straight sides, making it a condensed extension of the Klavika family rather than a humanist or grotesque design.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Klavika Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "condensed",
+      "workhorse",
+      "text",
+      "display",
+      "opentype"
+    ],
+    "summary": "A narrow companion to Klavika by Eric Olson, preserving the original's geometric character and range of four weights in a condensed width.",
+    "description": "Released in 2008, this condensed variant of Eric Olson's Klavika retains the near-vertical terminations, straight sides and dynamic italics of the original family across four weights from Light to Bold. Eight styles in total cover both text and display applications, with OpenType features including tabular numerals, stylistic alternates for the g and ampersand, and arrows in the roman cuts. A direct workhorse option where column widths are tight but the geometry of Klavika still needs to read clearly.",
+    "foundry_blurb": "Process Type Foundry describe Klavika Condensed as a narrow companion to Klavika that retains the feel and functionality of the original, including its near-vertical terminations, straight sides, dynamic italic and full weight range. They position it as a workhorse sans suited to text and display work, with OpenType features covering tabular numerals, stylistic alternates and arrows."
+  },
+  {
+    "name": "Klavika Display",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/klavika-display/",
+    "designer": "Eric Olson",
+    "year": 2012,
+    "category": "display",
+    "subcategory": "geometric sans display",
+    "classification_notes": "Shares Klavika's geometric sans DNA but is drawn as an exaggerated display extension, with extremes from Thin to Ultra Black conceived independently as caricatures rather than interpolations.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Ultra Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Klavika Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "geometric-sans",
+      "high-contrast-weight",
+      "bold",
+      "editorial",
+      "expressive",
+      "headlines"
+    ],
+    "summary": "An eight-weight display extension of the Klavika series by Eric Olson, spanning Thin to Ultra Black for large-scale typesetting.",
+    "description": "Drawn independently of the original Klavika family, these eight styles function as exaggerated caricatures at either extreme rather than straightforward interpolations. The range runs from skeletal Thin to an oversized Ultra Black, with OpenType stylistic alternates for the 'g' and ampersand, plus arrow ornaments. It works alongside Klavika and Klavika Condensed or stands alone as a headline-only family.",
+    "foundry_blurb": "Process Type Foundry describe Klavika Display as a collection made for large sizes and huge impact, bookended by Thin and Ultra Black styles drawn independently of the original series. They position them as boastful, exaggerated caricatures of Klavika, to be used as big as possible, with OpenType features including stylistic alternates and arrow ornaments."
+  },
+  {
+    "name": "Landform",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/landform/",
+    "designer": "Eric Olson",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "Positioned explicitly between geometric and grotesque traditions, with European geometric influences alongside American 20th-century architectural lettering; simplified lowercase and distinctive capitals place it in a geometric grotesque hybrid.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Landform"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grotesque",
+      "functional",
+      "print",
+      "screen",
+      "architectural",
+      "multi-purpose"
+    ],
+    "summary": "A six-weight sans by Eric Olson sitting between European geometric and American grotesque traditions, with distinctive capitals and a simplified lowercase.",
+    "description": "Drawn by Eric Olson and released in 2022, Landform draws on European geometric typefaces and the confident lettering found in 20th-century American architectural signage. Six weights run from Light to Black with matching italics, giving 12 styles in total, and the design is intended to hold up across both print and screen. OpenType features include case-sensitive glyphs, stylistic alternates, tabular lining figures and pre-built fractions.",
+    "foundry_blurb": "Process Type Foundry describe Landform as a multi-purpose sans stationed between geometric and grotesque, with inspiration ranging from European geometrics to bold American architectural lettering of the 20th century. Designed by Eric Olson and released in 2022, it consists of six weights with matching italics, aimed at users wanting functionality and clarity across print and screen."
+  },
+  {
+    "name": "Lingua",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/lingua/",
+    "designer": "Eric Olson",
+    "year": 2003,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A hard geometric sans at its core, but defined by its extensive discretionary ligature system that transforms it into a near-upright script when activated, making it a highly unusual dual-natured design.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lingua"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "ligatures",
+      "opentype",
+      "script",
+      "experimental",
+      "display",
+      "dual-nature"
+    ],
+    "summary": "A geometric sans by Eric Olson that transforms into a near-upright script when its extensive discretionary ligatures are switched on.",
+    "description": "Released in 2003, Lingua comes in two weights and two styles, but its real character lies in what happens when you toggle its discretionary ligatures. Deactivated, the typeface reads as a clean, hard geometric sans; activated, the ligatures bind letterforms into something approaching an upright script. It is a rare example of a typeface with two genuinely distinct visual personalities governed by a single OpenType feature.",
+    "foundry_blurb": "Process Type Foundry describe Lingua as exploiting what is now standard OpenType fare: discretionary ligatures, and lots of them. One weight has two distinct sides, with the ligatures off presenting a hard geometric sans, and with them on, a near upright script springs to life."
+  },
+  {
+    "name": "Locator",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/locator/",
+    "designer": "Eric Olson",
+    "year": 2003,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A text and display sans with horizontal emphasis and limited detail, consistent with the grotesque tradition; the restrained stroke contrast and refined capitals point away from humanist warmth.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Locator",
+      "Locator Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "text",
+      "display",
+      "horizontal-emphasis",
+      "titling",
+      "neutral",
+      "refined"
+    ],
+    "summary": "A six-weight grotesque sans by Eric Olson built around horizontal emphasis and restrained detail, with a caps-only companion for display work.",
+    "description": "Designed by Eric Olson and originating from sketches for the Typeface: Twin Cities competition, Locator runs six weights with matching italics suited to both text and display setting. Particular care was given to the capitals, which carry enough presence for titling use without overstatement. A companion family, Locator Display, shares the same stroke weight and cap-height for direct pairing.",
+    "foundry_blurb": "Process Type Foundry describe Locator as a sans serif family designed for text and display, marked by horizontal emphasis, limited detail and a refined presence. Originally sketched for the Typeface: Twin Cities competition, it ships in six weights with italics, and is paired with a caps-only companion, Locator Display, matched in stroke weight and cap-height for easy combination."
+  },
+  {
+    "name": "Locator Display",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/locator-display/",
+    "designer": "Eric Olson",
+    "year": 2003,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Explicitly designed for large sizes and headline use, sharing structural DNA with Locator but covering stylistic ground unsuited to the text version; functions as a contemporary display sans companion family.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Locator Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "headline",
+      "companion",
+      "contemporary",
+      "sans-serif",
+      "large-size"
+    ],
+    "summary": "A six-weight display companion to Eric Olson's Locator, sharing its structural DNA but optimised for large sizes and headline settings.",
+    "description": "Designed to cover stylistic ground that the standard Locator could not, Locator Display shares its sibling's stroke weight and cap-height to make pairing straightforward. Six weights make up the family, each tuned for large-size performance rather than text. Works either as a standalone contemporary display sans or as headline support for Locator.",
+    "foundry_blurb": "Process Type Foundry describe Locator Display as picking up where Locator left off, with a name that makes the intention clear: these fonts are built for large sizes. The family shares core structural DNA, stroke weight and cap-height with the standard Locator for easy pairing, while covering display-specific stylistic ground the original could not."
+  },
+  {
+    "name": "Maple",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/maple/",
+    "designer": "Eric Olson",
+    "year": 2005,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Maple is a reworking of Process Grotesque, itself derived from Stephenson Blake grotesques, placing it firmly in the British grotesque tradition of the late nineteenth and early twentieth centuries.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Maple"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "stephenson-blake",
+      "british",
+      "revival",
+      "text",
+      "editorial"
+    ],
+    "summary": "A reworking of Eric Olson's own failed Process Grotesque, pulling from Stephenson Blake grotesques to produce something more assured than its 2002 predecessor.",
+    "description": "Released in 2005, Maple is Eric Olson's second attempt at interpreting the Stephenson Blake grotesque model after Process Grotesque was retired in 2003 for its stiff lowercase and over-faithful adherence to source material. Four weights with italic companions give the family eight styles in total. The result is a workhorse grotesque with British roots, suited to editorial and text settings where a degree of warmth is wanted.",
+    "foundry_blurb": "Process Type Foundry describe Maple as the offspring of Process Grotesque, their retired 2002 interpretation of the Stephenson Blake grotesques. They cite the original's uneasy lowercase and wooden quality as the reason it was dropped in 2003, with Maple released in 2005 as the resolved successor."
+  },
+  {
+    "name": "Moniker",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/moniker/",
+    "designer": "Eric Olson",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "rounded sans",
+    "classification_notes": "Moniker draws from the rounded sans-serif tradition of the past five decades, with open terminations and slightly condensed lowercase forms that push the genre toward text utility rather than pure display work.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Moniker"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "sans-serif",
+      "workhorse",
+      "text",
+      "wayfinding",
+      "identity",
+      "approachable",
+      "tabular"
+    ],
+    "summary": "A rounded sans-serif by Eric Olson that extends the genre's informal warmth into continuous text, tables and wayfinding rather than limiting it to display use.",
+    "description": "Released in 2017, Moniker takes the rounded sans tradition and reconfigures it for sustained reading and information design, where such faces rarely venture. Open terminations and a slightly condensed lowercase keep it compact and legible at text sizes, while almost classically proportioned uppercase letters maintain composure in headlines. Five weights with lively matching italics and small caps give it enough range for identity, editorial and signage work.",
+    "foundry_blurb": "Process Type Foundry describe Moniker as drawing inspiration from rounded sans serifs of the last 50 years, capturing the informal tone of the genre while building on typographic possibilities left under-explored. They highlight its suitability for continuous text, charts, graphs and tables alongside headlines, and note the full family consists of five weights with matching italics and small caps, making it appropriate for wayfinding through to identity work."
+  },
+  {
+    "name": "Pique",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/pique/",
+    "designer": "Nicole Dotin",
+    "year": 2014,
+    "category": "script",
+    "subcategory": "brush script",
+    "classification_notes": "Pique is explicitly described as a brush script, combining hand-drawn brush stroke characteristics with a contemporary, crisp aesthetic suited to display settings.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pique"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "brush-script",
+      "display",
+      "handwritten",
+      "energetic",
+      "small-caps",
+      "lettering"
+    ],
+    "summary": "A single-weight brush script by Nicole Dotin that pairs hand-drawn energy with a crisp, contemporary finish.",
+    "description": "Designed by Nicole Dotin and released in 2014, Pique brings together the looseness of brush lettering with a clean, screen-ready aesthetic. The typeface includes small caps designed specifically for all-caps settings, offering a typographic contrast to the flowing script letterforms. Ligatures and full small caps support make it well-suited to display and editorial work that needs expressive character without sacrificing legibility.",
+    "foundry_blurb": "Process Type Foundry describe Pique as a fast-moving brush script full of exuberance, born from a collaboration of paper and screen. Familiar brush strokes meet a contemporary aesthetic to produce a crisp, energetic typeface, complemented by small caps designed for all-caps settings that provide a distinct typographic contrast within the family."
+  },
+  {
+    "name": "Recent Grotesk",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/recent-grotesk/",
+    "designer": "Eric Olson",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A display grotesque drawing on 19th-century wood type traditions and 20th-century phototype, with particular influence from Roger Excoffon's Antique Olive Nord, placing it firmly in the grotesque camp with display intent.",
+    "weights": [
+      "Compressed",
+      "Condensed",
+      "Regular",
+      "Wide",
+      "Extra Wide",
+      "Ultra Wide"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Regular",
+      "Wide",
+      "Extra Wide",
+      "Ultra Wide"
+    ],
+    "subfamilies": [
+      "Recent Grotesk"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "display",
+      "wood-type",
+      "wide",
+      "compressed",
+      "phototype",
+      "expressive"
+    ],
+    "summary": "A six-font display grotesque by Eric Olson spanning compressed to ultra-wide cuts, drawing on wood type improvisation, phototype x-heights and Excoffon's Antique Olive Nord.",
+    "description": "Eric Olson's Recent Grotesk takes a just-the-basics approach across six widths, running from Compressed through to an overstuffed Ultra Wide cut. The design draws on the ad-hoc weight and width strategies of 19th-century wood type, the high x-heights of phototype-era grotesques and the inflated forms of Roger Excoffon's Antique Olive Nord. Best suited to large-scale display work where its width extremes and full-bodied forms can operate as intended.",
+    "foundry_blurb": "Process Type Foundry describe Recent Grotesk as a contemporary family with influences spanning the 19th century to the present day, citing the improvised weight and width strategies of wood type, the high x-heights of 20th-century phototype and Roger Excoffon's Antique Olive Nord as key references. The six-font family runs from compressed and condensed through to a wide cut, and the foundry recommend using it at large sizes."
+  },
+  {
+    "name": "Recipient",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/recipient/",
+    "designer": "Eric Olson",
+    "year": 2022,
+    "category": "mono",
+    "subcategory": "monospaced",
+    "classification_notes": "Explicitly a monospaced typeface, descended from IBM Selectric and Olivetti typewriter faces, combining drawn and geometric elements for text and headline use.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Recipient"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "typewriter",
+      "office",
+      "geometric",
+      "text",
+      "editorial",
+      "retro"
+    ],
+    "summary": "A monospaced text face by Eric Olson that draws on IBM Selectric and Olivetti typewriter designs from the final years of pre-digital office typography.",
+    "description": "Five weights with matching italics give Recipient enough range for text and small headlines while maintaining the fixed-pitch rhythm of its typewriter forebears. Eric Olson blends drawn and geometric elements to keep it from feeling purely historicist, and practical OpenType features including pre-built fractions, superscripts, subscripts and arrows extend its usefulness for technical and editorial settings. Released in 2022, it sits in a small category of typefaces that look squarely at the office machine heritage without simple pastiche.",
+    "foundry_blurb": "Process Type Foundry describe Recipient as a collaboration between drawn and geometric design elements, a monospaced typeface for text and small headlines that descends from the IBM Selectric and Olivetti typewriter faces defining the final era of pre-digital office typography. The family consists of five weights with matching italics, available in OpenType and web formats."
+  },
+  {
+    "name": "Scandia",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/scandia/",
+    "designer": "Eric Olson",
+    "year": 2015,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Scandia is explicitly described as geometric in reference to its classic geometric design nods, featuring lush curves over angular construction, placing it squarely in the geometric sans category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Scandia",
+      "Scandia Line"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "identity",
+      "display",
+      "versatile",
+      "stencil",
+      "curves"
+    ],
+    "summary": "A curve-led geometric sans by Eric Olson, related to the angular Scandia Line, with four weights, matching italics and a Bold stencil variant.",
+    "description": "Where Scandia Line favours angles, Scandia opts for rounded, full-bodied curves that reference classic geometric sans designs. The family runs across four weights, each with a matching italic, and the Bold weight adds a stencil cut for display and signage applications. A set of stylistic alternates restores sharper corners on characters including A, M, N, V and W for those who want a harder geometric edge.",
+    "foundry_blurb": "Process Type Foundry describe Scandia as a full-bodied sans serif based on Scandia Line, trading its sibling's angles for lush curves. With a nod to classic geometric designs, they position it as a steady and versatile family suited to display settings and identity work, available in four weights with matching italics, a Bold stencil variant and stylistic alternates with sharper corners."
+  },
+  {
+    "name": "Scandia Line",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/scandia-line/",
+    "designer": "Eric Olson",
+    "year": 2015,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A sans-serif built entirely from straight lines and angled segments rather than curves, giving it a skeletal geometric character while retaining conventional letterform proportions.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Scandia Line"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "angular",
+      "stencil",
+      "skeletal",
+      "constructed",
+      "display",
+      "experimental"
+    ],
+    "summary": "A four-weight geometric sans by Eric Olson built entirely from straight lines and angled segments, with a stencil variant and stylistic alternates for sharper corners.",
+    "description": "Every curve in a conventional sans-serif has been replaced with straight lines and angled segments, producing letterforms that suggest familiar circular proportions without actually using them. Four weights from Light to Bold were drawn with care: the number of sides on constructed characters shifts between weights to control contrast and prevent monotony. A stencil variant extends the family, and stylistic alternates sharpen the corners on A, M, N, V, W and their lowercase counterparts.",
+    "foundry_blurb": "Process Type Foundry describe Scandia Line as a skeletal sans with no curves, using lines and angled segments to suggest familiar circular proportions while remaining thoroughly usable. The four weights and stencil variant were carefully drawn to control contrast and deny monotony, with the number of sides on characters changing from Light to Bold. A handful of characters also carry stylistic alternates with sharper corners."
+  },
+  {
+    "name": "Sculpin",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/sculpin/",
+    "designer": "Eric Olson",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "flared sans",
+    "classification_notes": "Sculpin is a high-contrast sans with sharp cuts, reverse terminations and chisel-like stroke endings drawn from sign painting and stone carving traditions, placing it in a flared or serifless Roman subcategory rather than a conventional grotesque.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sculpin"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "flared-sans",
+      "high-contrast",
+      "sign-painting",
+      "swiss-modernism",
+      "variable",
+      "wide",
+      "editorial",
+      "calligraphic"
+    ],
+    "summary": "A wide-bodied, high-contrast sans by Eric Olson that borrows its finishing details from chisels, brushes and stone carving to create a family equally indebted to American sign painting and Swiss Modernism.",
+    "description": "Eric Olson draws on the physical logic of square-edged tools to generate Sculpin's distinctive vocabulary: high-contrast joins, sharp cuts and reverse terminations that bind the letters into a coherent visual system. The family runs five weights from Light to Black with matching italics, and a weight-axis variable font is included free with any complete family licence. The wide proportions and layered references to sign painting, stone carving and mid-century Swiss design make it well-suited to editorial and display contexts that want formal rigour with material warmth.",
+    "foundry_blurb": "Process Type Foundry describe Sculpin as a typeface inspired by the finishing details of square-edged tools such as the chisel and brush, reinterpreted as high-contrast joins, sharp cuts and reverse terminations. They characterise the result as a blend of American sign painting, Swiss Modernism and stone carving, rendered in Bézier curves across a wide-bodied five-weight family with matching italics and a weight-axis variable font."
+  },
+  {
+    "name": "Seravek",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/seravek/",
+    "designer": "Eric Olson",
+    "year": 2007,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Seravek sits in the humanist sans tradition, with refined letterforms that balance warmth and clarity rather than the strict geometry or neutrality of grotesque or geometric cuts.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Seravek"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "editorial",
+      "information-design",
+      "identity",
+      "opentype",
+      "text",
+      "refined",
+      "neutral"
+    ],
+    "summary": "A humanist sans by Eric Olson, designed to balance richness and legibility for information, editorial and identity work.",
+    "description": "Released in 2007 by Eric Olson of Process Type Foundry, Seravek spans five weights in ten styles, with a refined character that keeps it unobtrusive across sustained reading and tight information hierarchies. The OpenType feature set is thorough, covering small caps, case-sensitive glyphs, old style and tabular numerals, fractions, superscript and subscript, and stylistic alternates. Its tone is understated rather than distinctive, which suits identity and editorial contexts where the type must support rather than lead.",
+    "foundry_blurb": "Process Type Foundry describe Seravek as highly functional with a tone that's felt most once-removed, tailored to demanding information, editorial and identity design where richness and clarity must co-exist. They characterise the resulting letters as unobtrusive, refined and imbued with a sense of forward modernity."
+  },
+  {
+    "name": "Stratum",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/stratum-1-and-2/",
+    "designer": "Eric Olson, with Egor Golovyrin and Maria Doreuli (Cyrillic), and George Triantafyllakos (Greek)",
+    "year": 2004,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Stratum is a geometric sans-serif with two distinct terminal treatments: sharp angled (Stratum 1) and flat (Stratum 2), both rooted in geometric construction suited to technical and branding applications.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Stratum 1",
+      "Stratum 2",
+      "Stratum Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "technical",
+      "sports",
+      "branding",
+      "ui",
+      "workhorse",
+      "multiscript",
+      "condensed"
+    ],
+    "summary": "A geometric sans-serif by Eric Olson, first released in 2004 and substantially updated in 2024 with italics and expanded script support, now a fixture in sports branding and interface design worldwide.",
+    "description": "Offered in two variants, Stratum 1 with sharp angled terminations and Stratum 2 with flat terminations, the family spans six weights across 24 styles including the long-awaited italics added in the 2024 revision. Cyrillic and Greek are now standard, with localised forms for Bulgarian, Serbian and Macedonian, alongside tabular figures and extended currency symbols. Two decades of deployment across global brands, sports franchises and video game titles speak to its durability as a geometric workhorse.",
+    "foundry_blurb": "Process Type Foundry describe Stratum as the premier geometric workhorse of its genre, noting its worldwide imprint across global brands, sports teams, user interfaces and video game franchises over 20 years. The 2024 major update brought italics, Greek and Cyrillic as standard, refined kerning and metrics, and extended numeral and currency options. The family is available in two flavours: Stratum 1 with sharp angled terminations and Stratum 2 with flat terminations."
+  },
+  {
+    "name": "Stratum Condensed",
+    "foundry": "Process Type Foundry",
+    "url": "https://processtypefoundry.com/fonts/stratum-1-and-2-condensed/",
+    "designer": "Eric Olson, with Egor Golovyrin and Maria Doreuli (Cyrillic), and George Triantafyllakos (Greek)",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Stratum Condensed follows a geometric sans construction with precise, structured terminations offered in sharp angled (Stratum 1) and flat (Stratum 2) variants, fitting cleanly within the geometric sans tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Stratum 1 Condensed",
+      "Stratum 2 Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "geometric",
+      "display",
+      "mobile",
+      "headline",
+      "multilingual",
+      "technical"
+    ],
+    "summary": "A condensed companion to Stratum, offered in two termination styles across six weights for display and narrow-column settings.",
+    "description": "Released in 2024 by Eric Olson, this condensed family extends the Stratum system into space-saving territory suited to mobile interfaces and headline environments. Two sub-families distinguish themselves by their stroke endings: Stratum 1 Condensed uses sharp, angled terminations while Stratum 2 Condensed opts for flat ones. Script coverage includes Latin, Cyrillic with Bulgarian, Serbian and Macedonian alternates, and Greek, alongside tabular numerals and directional arrows.",
+    "foundry_blurb": "Process Type Foundry describe Stratum Condensed as carrying the energy and modernity of the original width family, with six space-saving fonts designed for mobile and display headline use. Two flavours are offered: Stratum 1 Condensed with sharp angled terminations and Stratum 2 Condensed with flat terminations, both supporting Greek and Cyrillic scripts."
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Banya Mist",
+    "foundry": "lo-ol Type",
+    "url": "https://www.lo-ol.design/catalog/banya-mist",
+    "designer": "Noheul Lee",
+    "year": null,
+    "category": "display",
+    "subcategory": "stencil display",
+    "classification_notes": "A stencil-style display typeface with deliberately dissolved or faded elements, rooted in the structural forms of traditional woodblock-printed Buddhist scripture. Its decorative and expressive character places it firmly in the display category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Banya Mist"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Hangeul"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "display",
+      "korean",
+      "hangeul",
+      "buddhist",
+      "editorial",
+      "dissolve",
+      "bilingual"
+    ],
+    "summary": "A stencil display typeface derived from Banya Std, drawing on traditional woodblock-printed Buddhist scripture while introducing deliberately faded or dissolved letterforms to evoke fog and obscured truth.",
+    "description": "Where Banya takes its structural cues from the letterforms of historic woodblock Buddhist texts, Banya Mist introduces a stencil treatment in which elements partially dissolve, evoking the idea of wisdom obscured by mist rather than fully revealed. The family runs across six weights from Light to Black and covers both Latin and Hangeul scripts with an extensive Latin language list. Designed as a companion to Banya Std, the two are intended to be used in combination, each amplifying the other.",
+    "foundry_blurb": "lo-ol Type describe Banya Mist as a stencil-style display font that retains the core structure of Banya while partially fading or dissolving certain elements. They explain that if Banya represents transcendental wisdom attained through enlightenment, Banya Mist captures the feeling of that truth obscured by a veil of fog. The two typefaces are designed to work as a pair, and together they evoke the essence of ancient script with a contemporary impression."
+  },
+  {
+    "name": "Kronik Grotesk",
+    "foundry": "lo-ol Type",
+    "url": "https://www.lo-ol.design/catalog/kronik-grotesk",
+    "designer": "Noheul Lee, Loris Olivier",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "The foundry describes it as merging traditional geometric sans-serif proportions with a neo-grotesque aesthetic, placing it between those two traditions with low connecting strokes and thinned terminals.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kronik Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "neo-grotesque",
+      "swiss",
+      "versatile",
+      "text",
+      "title",
+      "variable"
+    ],
+    "summary": "A nine-weight geometric grotesque from Swiss foundry lo-ol Type, blending classical geometric proportions with neo-grotesque rhythm through low connecting strokes and thinned terminals.",
+    "description": "The third member of lo-ol's Kronik family, drawing structural DNA from its predecessors Antik and Vision. Lowercase letters including a, t, f and y carry thinner terminals, while the connecting strokes in n, m and h drop unusually low, creating an animated cadence across running text. Nine weights from Thin to Black are available as static fonts and a variable file, with an upright-only cut for now and a slanted or script companion planned.",
+    "foundry_blurb": "lo-ol describe Kronik Grotesk as the third child of the Kronik family, blurring the lines between traditional geometric sans-serif proportions and a neo-grotesque aesthetic. They note that thinner terminals in lowercase letters and low-starting connecting strokes in n, m and h give the face a dynamic rhythm and playful feel suited to both large titles and small text."
+  },
+  {
+    "name": "Superheat",
+    "foundry": "lo-ol Type",
+    "url": "https://www.lo-ol.design/catalog/superheat",
+    "designer": "Loris Olivier, Lisa Huang",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "The foundry describes Superheat as starting from a neo-grotesque identity, later evolving into a squarer, wider form with organic details — placing it squarely in the neo-grotesque tradition with idiosyncratic warmth.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Superheat"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "wide",
+      "organic",
+      "display",
+      "variable",
+      "swiss",
+      "expressive"
+    ],
+    "summary": "A wide neo-grotesque from Swiss studio lo-ol Type, with squared forms and organic details that sit between text and display use.",
+    "description": "Superheat began as a neo-grotesque and shifted during development towards a squarer, warmer form with wider proportions and character-level quirks drawn from the Latin set. The italic is a compromise between a true calligraphic italic and a slanted upright, reflecting practical decisions about how the family would actually be used. Nine weights from Thin to Black, each with an italic companion, are available as static fonts and as a variable font with weight and slant axes.",
+    "foundry_blurb": "lo-ol describe Superheat as a neo-grotesque extended by organic details and an unusually wide width. The design evolved from an initial grotesque structure into a squarer form to give it a warmer tone, balancing expressive personality with visual consistency. The italic occupies a middle ground between a true italic and a slanted roman, chosen after considering real-world usage. They position it as a typeface that sits between text and display, combining generic structures with more unusual quirks to deliver a bold and eye-catching result."
+  },
+  {
+    "name": "Medley",
+    "foundry": "lo-ol Type",
+    "url": "https://www.lo-ol.design/catalog/medley",
+    "designer": "Noheul Lee, Loris Olivier",
+    "year": null,
+    "category": "serif",
+    "subcategory": "calligraphic serif",
+    "classification_notes": "Medley draws from Uncial, Carolingian minuscule and brush lettering traditions, resulting in a high-contrast calligraphic serif with eccentric historical letterforms. The two optical sizes — Display and Text — reflect the contrast between its more radical decorative shapes and a legible text cut.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "Medley Display",
+      "Medley Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "calligraphic",
+      "historical",
+      "uncial",
+      "carolingian",
+      "high-contrast",
+      "editorial",
+      "serif",
+      "expressive"
+    ],
+    "summary": "A calligraphic serif rooted in Uncial and Carolingian minuscule, split into a high-contrast Display cut and a more legible Text cut across nine weights each.",
+    "description": "Originating from an exploration of the Toulouse Scriptorium archives, Medley blends Uncial, Carolingian minuscule and brush lettering into a single family with a deliberately contradictory character. The Display optical size leans into the most radical, sharply contrasted letterforms, while the Text cut tempers these shapes for readability without abandoning the family's defining details, such as its signature closed-eye 'e'. With nine weights from Thin to Black, each with an italic, the family is designed by Noheul Lee and Loris Olivier at lo-ol Type, with engineering by Jan Charvát.",
+    "foundry_blurb": "lo-ol describe Medley as a shape-shifting serif with historical roots, born from a discovery in the Toulouse Scriptorium online archives. The design draws on Uncial, Carolingian minuscule and brush lettering, evolving into two optical directions: a highly contrasted Display version that embraces the most eccentric historical shapes, and a Text version that preserves Medley's visual identity while prioritising legibility."
+  },
+  {
+    "name": "Fuzar",
+    "foundry": "lo-ol Type",
+    "url": "https://www.lo-ol.design/catalog/fuzar",
+    "designer": "Loris Olivier, Noheul Lee",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "Fuzar is described by the foundry as a neo-grotesque with a geometric skeleton, placing it at the intersection of geometric and grotesque sans-serif traditions. The upright cuts follow geometric construction while the italics adopt a more fluid, serif-influenced rhythm.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "Semi-Condensed",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Fuzar Normal",
+      "Fuzar Semi-Condensed",
+      "Fuzar Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grotesque",
+      "neo-grotesque",
+      "multi-width",
+      "variable",
+      "expressive-italic",
+      "swiss"
+    ],
+    "summary": "A geometric grotesque in three widths with an expressive italic that draws on serif calligraphic traditions, from Swiss designers Loris Olivier and Noheul Lee.",
+    "description": "Built on a geometric skeleton, the upright cuts deliver structured, high-contrast strokes typical of neo-grotesque design, while the italic cuts break from convention with proportions and fluidity more akin to classical serif italics. The family spans nine weights from Thin to Black across Normal, Semi-Condensed and Condensed widths, giving 54 styles in total. Latin coverage extends to a wide range of languages including many minority and indigenous scripts.",
+    "foundry_blurb": "lo-ol Type describe Fuzar as a neo-grotesque family offering three widths for greater versatility. They note that the upright cut is grounded in a geometric skeleton for a structured appearance, while the italic version prioritises harmonious proportions and an expressive, calligraphic quality reminiscent of traditional serif italics. The result, they say, balances structure and playfulness for a wide range of applications."
+  },
+  {
+    "name": "Banya Std",
+    "foundry": "lo-ol Type",
+    "url": "https://www.lo-ol.design/catalog/banya-std",
+    "designer": "Noheul Lee",
+    "year": null,
+    "category": "serif",
+    "subcategory": "brush serif",
+    "classification_notes": "Banya Std is a Hangul serif typeface that merges traditional East Asian brush calligraphy with the carved aesthetic of woodblock printing, placing it firmly in the serif category with a distinctive brush-serif subcategory rooted in Korean typographic tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Banya Std"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Hangeul"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "hangul",
+      "brush-serif",
+      "woodblock",
+      "korean",
+      "buddhist",
+      "historical-reference",
+      "bilingual",
+      "editorial"
+    ],
+    "summary": "A Hangul serif typeface by Noheul Lee that merges traditional brush calligraphy with the carved texture of woodblock printing, inspired by early 20th-century Buddhist scripture prints.",
+    "description": "Drawing on Buddhist scriptures presumed to have been woodblock-printed in the early 20th century, Banya Std balances the fluid character of brushwork with the sharp, stencil-like qualities of carved wood. Individual letterforms handle the tension differently: the ieung and yu characters lean into brush expressiveness, while digeut and mieum carry a slight stencil quality that evokes the cut. Six weights run from Light through Black, with the distinctive carved and calligraphic details becoming more pronounced as weight increases; the Black is specifically designed for titling use.",
+    "foundry_blurb": "lo-ol describe Banya Std as a Hangul serif that blends traditional brush strokes with woodblock carving, inspired by Buddhist scriptures from the early 20th century. The typeface is designed to evoke ancient script while offering a fresh, contemporary impression, and is intended to be used alongside Banya Mist, its companion face, for maximum effect."
+  },
+  {
+    "name": "Oni",
+    "foundry": "lo-ol Type",
+    "url": "https://www.lo-ol.design/catalog/oni",
+    "designer": "Loris Olivier, Lisa Huang",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Oni builds on traditional transitional serif structures but introduces sharp, calligraphic strokes that give it a display-oriented edge; the italics lean into the movement and stroke contrast typical of transitional models while adding pronounced personality.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Oni"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "display",
+      "serif",
+      "calligraphic",
+      "sharp",
+      "swiss",
+      "expressive",
+      "editorial"
+    ],
+    "summary": "A display serif from Swiss foundry lo-ol Type that grafts sharp calligraphic strokes onto traditional transitional structures across nine weights.",
+    "description": "Designed by Loris Olivier and Lisa Huang, Oni departs from conventional transitional serifs by introducing intermittent sharp strokes that create contrast against its more classical curves. The italic cuts express this tension most clearly, drawing on the movement and varied stroke weights of historical models while pushing toward something more individual. With 550 glyphs and broad Latin language support engineered by Stephen Nixon, it is pitched at display applications where typographic character takes priority.",
+    "foundry_blurb": "lo-ol describe Oni as sitting between the uniqueness of creation and a desire for historical continuity, starting from traditional serif structures and adding sharp strokes to achieve originality without sacrificing legibility. The italics offer a stronger expression of Oni's personality whilst maintaining references to transitional serif movement and stroke variation. They frame it as a balance between solid digital shapes and organic details, creating an unusual symbiosis they feel reflects wider developments in culture."
+  },
+  {
+    "name": "Lemanic",
+    "foundry": "lo-ol Type",
+    "url": "https://www.lo-ol.design/catalog/lemanic",
+    "designer": "Loris Olivier, Noheul Lee",
+    "year": 2013,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The foundry explicitly describes Lemanic as embracing a transitional style, merging influences from Pierre-Simon Fournier and the Romain du Roi, with a subtly inclined axis and slightly condensed proportions.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Lemanic Text",
+      "Lemanic Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "serif",
+      "magazine",
+      "newspaper",
+      "editorial",
+      "calligraphic",
+      "text-and-display",
+      "swiss"
+    ],
+    "summary": "A dual-optical transitional serif originating from a 2013 project merging Pierre-Simon Fournier's principles with the Romain du Roi, split into a sturdy text cut and a sharper display cut.",
+    "description": "Conceived for magazine and newspaper print, Lemanic carries a subtly inclined axis that lends a calligraphic quality, while slightly condensed proportions keep it economical on the page. The family divides into a near-slab text version and a more refined display version, each running through nine weights with italics that are deliberately disconnected from their upright counterparts, giving them an independent, playful rhythm. Weight and optical size are also offered as variable axes, making it a flexible toolkit for dynamic editorial layouts.",
+    "foundry_blurb": "lo-ol describe Lemanic as starting in 2013 with the idea of merging Pierre-Simon Fournier's ideas with the classic Romain du Roi. The project grew into a dual family — a robust, almost slab text version and a sharper, more elegant display version for titles. The italics are intentionally disconnected from the uprights for a unique, independent look, and the family offers weight and optical size variables as a toolbox for dynamic, elegant and modern page layouts."
+  },
+  {
+    "name": "Kronik Vision",
+    "foundry": "lo-ol Type",
+    "url": "https://www.lo-ol.design/catalog/kronik-vision",
+    "designer": "Noheul Lee, Loris Olivier",
+    "year": null,
+    "category": "slab",
+    "subcategory": "display slab serif",
+    "classification_notes": "Described explicitly as a slab-serif family designed for large-size titles and headlines, with strong structural contrast between circular and standardised letterforms, placing it firmly in the display slab category.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kronik Vision"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "display",
+      "headline",
+      "eccentric",
+      "high-contrast",
+      "swiss",
+      "titling",
+      "variable"
+    ],
+    "summary": "A display slab serif from lo-ol Type with pronounced contrast between circular and standardised letterforms, built across nine weights for headline use.",
+    "description": "Designed by Noheul Lee and Loris Olivier, Kronik Vision pairs heavy slab serifs with a strong structural tension between circular shapes and conventional forms such as n, m and r. Each of the nine weights from Thin to Black carries an oblique companion drawn in the grotesque slanted tradition rather than a conventional italic, preserving the family's structural robustness. The lightest weights approach monolinear contrast, while the heaviest weights lean into sharp optical drama suited to large-scale display work.",
+    "foundry_blurb": "lo-ol describe Kronik Vision as a bold, eccentric slab serif built for dynamic, contrasted titles and headlines. Unlike their Kronik Antik, which references historical models, Vision takes a forward-looking approach, maintaining strong contrast between circular shapes and more standardised letterforms. Its slanted version follows a grotesque drawing method, keeping the serif's robustness while clearly differentiating from the upright. The lightest weight approaches monolinear, while the heaviest is highly contrasted."
+  },
+  {
+    "name": "Ortank Hangeul",
+    "foundry": "lo-ol Type",
+    "url": "https://www.lo-ol.design/catalog/ortank-hangeul",
+    "designer": "Noheul Lee",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "Ortank Hangeul applies geometric construction principles drawn from the lineale grotesque tradition to the Korean Hangeul script alongside Latin, making it a geometric grotesque spanning two writing systems.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Ortank Hangeul Text",
+      "Ortank Hangeul Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Hangeul"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grotesque",
+      "hangeul",
+      "korean",
+      "bilingual",
+      "variable",
+      "display",
+      "text"
+    ],
+    "summary": "A geometric grotesque spanning Latin and Korean Hangeul, available in nine weights across separate text and display optical sizes with variable font support.",
+    "description": "Designed by Noheul Lee, Ortank Hangeul extends the geometric grotesque principles of the original Ortank into the Korean script, pairing radically simplified letterforms with classical lineale grotesque influence. Nine weights run from Thin to Black in both Text and Display subfamilies, with the Display cuts pushing sharpness to its extreme at heavier settings. Variable fonts covering weight and optical size axes are included, and the Latin character set covers an exceptionally broad range of languages.",
+    "foundry_blurb": "lo-ol Type describe Ortank Hangeul as the true Hangeul version of Ortank Text and Display, the result of exploring geometric shapes in both Latin and the Korean script. The goal was to ally radically simple forms with classical lineale grotesque influence, producing letters readable in large paragraph format and dense content, while the display weights embrace a digitally radical approach that takes Ortank to its extreme. The family ships with variable fonts on weight and optical size axes."
+  }
+]

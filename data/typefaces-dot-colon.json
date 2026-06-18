@@ -1,0 +1,449 @@
+[
+  {
+    "name": "Mioya",
+    "foundry": "Dot Colon",
+    "url": "https://dotcolon.net/fonts/mioya",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The letterforms show clean, geometric construction with open apertures and a restrained, modern quality typical of geometric sans-serif designs. No overt humanist or grotesque characteristics are evident from the glyph set.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mioya"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "loose",
+    "type": "free",
+    "tags": [
+      "geometric",
+      "free",
+      "open-font-license",
+      "minimal",
+      "latin-extended",
+      "variable"
+    ],
+    "summary": "A free geometric sans-serif from Japanese foundry Dot Colon, released under the SIL Open Font License with broad Latin Extended character support.",
+    "description": "A clean, minimal geometric sans with a single weight and a variable font axis for weight adjustment. The character set covers Latin Extended, including a wide range of diacritics for Central and Northern European languages, alongside standard punctuation, currency symbols and mathematical characters. Released freely under the SIL Open Font License, permitting modification and redistribution without restriction.",
+    "foundry_blurb": "Dot Colon release Mioya under the SIL Open Font License version 1.1, permitting free use in websites, print, logotypes and commercial work, as well as modification and redistribution. The foundry notes that the fonts are provided without warranty and that support for installation or usage queries is not available."
+  },
+  {
+    "name": "Oreichalkon",
+    "foundry": "Dot Colon",
+    "url": "https://dotcolon.net/fonts/oreichalkon",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The glyph set and variable weight axis suggest a clean geometric sans construction; the name references orichalcum, a mythic metal, hinting at a distinctive display-leaning character.",
+    "weights": [
+      "Variable"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Oreichalkon"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "geometric",
+      "variable",
+      "free",
+      "open-source",
+      "latin-extended",
+      "display",
+      "clean"
+    ],
+    "summary": "A variable-weight geometric sans from Dot Colon, released under the SIL Open Font Licence with broad Latin Extended coverage.",
+    "description": "A geometric sans with a continuous variable weight axis, covering an extensive Latin Extended character set including diacritics for Central and Northern European languages. OpenType features include ligatures, stylistic alternates, case-sensitive forms and lining numerals. Released under the SIL Open Font Licence, it is freely available for web, print, logotype and commercial use including redistribution and modification.",
+    "foundry_blurb": "Dot Colon release Oreichalkon under the SIL Open Font Licence version 1.1, permitting free use in websites, print, logotypes and trademark applications, as well as modification and redistribution, though the font is provided without warranty."
+  },
+  {
+    "name": "きざし",
+    "foundry": "Dot Colon",
+    "url": "https://dotcolon.net/fonts/kizashi",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "calligraphic script",
+    "classification_notes": "A prototype Japanese script typeface drawing on semi-cursive gyōsho brushwork and calligraphic rhythm, placing it firmly in the script category with a calligraphic subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "きざし"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Japanese"
+    ],
+    "tier": "loose",
+    "type": "free",
+    "tags": [
+      "japanese",
+      "hiragana",
+      "calligraphic",
+      "gyosho",
+      "brush",
+      "prototype",
+      "script",
+      "open-source"
+    ],
+    "summary": "An experimental prototype Japanese script typeface for hiragana, combining semi-cursive gyōsho brushwork with a calligraphic sensibility.",
+    "description": "Released as an alpha under the SIL Open Font License, this prototype covers basic hiragana and punctuation only. The letterforms draw their skeleton and stroke movement from gyōsho semi-cursive script, with calligraphic modulation added to give the design a distinctive rhythm. Path data, sidebearings and kerning remain largely unadjusted, and the designer notes that the letterforms may change substantially in future versions.",
+    "foundry_blurb": "Dot Colon describe きざし as an experimental prototype made to explore a new type of Japanese typeface. Its skeleton and brush movement are rooted in gyōsho script, with calligraphic qualities layered in to create an original atmosphere. Currently the font covers only basic hiragana and punctuation, with path data, sidebearings and kerning still largely unrefined; it is offered as an alpha version for use at the user's own risk."
+  },
+  {
+    "name": "FA-1",
+    "foundry": "Dot Colon",
+    "url": "https://dotcolon.net/fonts/fa_1",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "FA-1 uses only horizontal, vertical and 45-degree straight lines as its skeletal structure, with large corner radii, giving it a sci-fi bitmap aesthetic that places it firmly in the display/geometric category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FA-1"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Japanese"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "geometric",
+      "sci-fi",
+      "bitmap-inspired",
+      "display",
+      "angular",
+      "futuristic",
+      "japanese"
+    ],
+    "summary": "A sci-fi display typeface built on horizontal, vertical and 45-degree strokes, referencing the typography seen in the OVA 'Yukikaze'.",
+    "description": "Constructed exclusively from horizontal, vertical and 45-degree straight lines, FA-1 distils the sci-fi elements from an earlier Dot Colon typeface, F5.6, into a standalone design. Large corner radii soften what would otherwise be a rigid, mechanical feel, lending it a quality reminiscent of low-resolution bitmap fonts. The design draws direct reference from lettering used in the OVA 'Sentou Yousei Yukikaze', redrawn from scratch with legibility in mind.",
+    "foundry_blurb": "Dot Colon describe FA-1 as an extraction and reconstruction of the sci-fi elements from their earlier typeface F5.6. The skeleton uses only horizontal, vertical and 45-degree straight lines to evoke the atmosphere of a low-resolution bitmap font, while larger corner radii prevent it from feeling too rigid. At its core it references lettering from the OVA 'Sentou Yousei Yukikaze', with each character redesigned individually to balance that atmosphere with readability."
+  },
+  {
+    "name": "Melete",
+    "foundry": "Dot Colon",
+    "url": "https://dotcolon.net/fonts/melete",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A geometric sans with squared, extended proportions referencing Eurostile Extended and Bank Gothic, giving it a hard-edged, near-futuristic character rather than the warmth of a humanist or neutrality of a grotesque.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Melete"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "geometric",
+      "sci-fi",
+      "futuristic",
+      "squared",
+      "display",
+      "extended",
+      "eurostile-influenced"
+    ],
+    "summary": "A squared geometric sans aimed at the aesthetic of science fiction film titles, drawing on Eurostile Extended and Bank Gothic for reference.",
+    "description": "Designed with the atmosphere of sci-fi film titles in mind, Melete sacrifices some legibility in favour of generous spacing and a sharp, near-futuristic feel. The letterforms take cues from Eurostile Extended and Bank Gothic but push toward a more angular result. Currently a beta release covering basic uppercase and lowercase Latin, numerals and symbols; distributed free under the SIL Open Font Licence.",
+    "foundry_blurb": "Dot Colon describe Melete as a sans-serif aimed at the atmosphere of SF film titles, finished with generous spacing to achieve a near-futuristic mood. They cite Eurostile Extended and Bank Gothic as references, but say the goal was a sharper, more pointed design. The current version is a beta covering basic Latin characters, figures and symbols only."
+  },
+  {
+    "name": "Nacelle",
+    "foundry": "Dot Colon",
+    "url": "https://dotcolon.net/fonts/nacelle",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "The foundry explicitly describes Nacelle as a neo-grotesque sans-serif, revised from their earlier Aileron typeface with improved metrics and details for UI legibility.",
+    "weights": [
+      "Thin",
+      "UltraLight",
+      "Light",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nacelle"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "neo-grotesque",
+      "ui",
+      "legibility",
+      "free",
+      "open-font-license",
+      "neutral",
+      "clean"
+    ],
+    "summary": "A revised neo-grotesque sans derived from Aileron, refined for improved UI legibility and naturalness across eight weights with italics.",
+    "description": "Nacelle reworks Dot Colon's earlier Aileron, retaining its core aim of a readable, distinguishable neo-grotesque for UI contexts while adjusting metrics and fine details throughout. Eight weights run from Thin to Black, each with a matching italic, making it a practical free option for screen-focused work. Released under the SIL Open Font License, it permits modification and redistribution including commercial use.",
+    "foundry_blurb": "Dot Colon describe Nacelle as a neo-grotesque sans-serif that revisits and overhauls the design of Aileron. It retains Aileron's founding concept of a legible, distinguishable neo-grotesque suited to UI contexts, while refining metrics and details for a more natural result. Available under the SIL Open Font License version 1.1."
+  },
+  {
+    "name": "F1.8",
+    "foundry": "Dot Colon",
+    "url": "https://dotcolon.net/fonts/f1_8",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "F1.8 is a monoline sans-serif designed around the rules of mechanical engraving lettering, producing uniform stroke widths without optical correction — consistent with geometric or technical sans classification.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "F1.8"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Japanese"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "geometric",
+      "monoline",
+      "technical",
+      "engraving",
+      "japanese",
+      "opentype-features",
+      "leica-inspired",
+      "free"
+    ],
+    "summary": "A monoline sans-serif from Dot Colon built on the principles of mechanical engraving lettering, drawing inspiration from Leica's typographic style.",
+    "description": "Where its sibling F5.6 applies optical corrections, F1.8 pursues a purely mechanical aesthetic — uniform stroke widths throughout, designed to replicate what machine engraving can produce. The design covers both uppercase and lowercase for general usability, and includes experimental alternates and ligatures accessible via OpenType features in software such as Adobe CC. Released under the SIL Open Font License, allowing modification and redistribution freely.",
+    "foundry_blurb": "Dot Colon describe F1.8 as a sans-serif with consistent stroke widths following the fundamental rules of mechanical engraving lettering. Unlike F5.6, which applies optical adjustments, F1.8 pursues purely machine-reproducible character design. Originally planned as an updated version of F5.6, the concept diverged enough to become a separate typeface. Design references Leica's lettering style, adds lowercase characters for broader usability, and includes experimental alternates and ligatures for use with OpenType-capable applications."
+  },
+  {
+    "name": "Route 159",
+    "foundry": "Dot Colon",
+    "url": "https://dotcolon.net/fonts/route159",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A screen-oriented sans-serif with open counters and legibility-focused letterform decisions, placing it in the humanist sans tradition rather than geometric or grotesque.",
+    "weights": [
+      "UltraLight",
+      "Light",
+      "Regular",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Route 159"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Japanese"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "humanist",
+      "screen",
+      "legibility",
+      "open-counters",
+      "webfont",
+      "free",
+      "sil-ofl"
+    ],
+    "summary": "A screen-oriented sans-serif from Dot Colon, developed as a webfont with open counters for improved legibility at small sizes.",
+    "description": "Developed by Dot Colon as their own webfont, Route 159 builds on the studio's experience with Vegur and Aileron to prioritise on-screen readability. Letterforms such as b, d, p and q are drawn with wider internal counters to resist filling in at small display sizes. Five weights from UltraLight to Heavy are included alongside an italic, and the font is released under the SIL Open Font Licence.",
+    "foundry_blurb": "Dot Colon describe Route 159 as a new sans-serif developed specifically as a webfont for their own site, drawing on lessons from making Vegur and Aileron. The design prioritises on-screen visibility and readability, with wide counters on letters like b, d, p and q to prevent fill-in at small sizes."
+  },
+  {
+    "name": "Eunomia",
+    "foundry": "Dot Colon",
+    "url": "https://dotcolon.net/fonts/eunomia",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A tall, headline-oriented geometric sans with simplified letterforms and a science-fiction aesthetic, designed purely for display use with uppercase Latin only.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Eunomia"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "sci-fi",
+      "headline",
+      "uppercase",
+      "condensed-proportions",
+      "japanese-foundry",
+      "free"
+    ],
+    "summary": "A tall, uppercase-only geometric display face from Japanese foundry Dot Colon, built around simplified letterforms to evoke a science-fiction atmosphere.",
+    "description": "Originally derived from a logotype published on JAYPEG, Eunomia reduces certain letters such as A, D and P to simplified geometric forms while retaining optical corrections at curves to avoid mechanical stiffness. The family covers three weights — Light, Regular and Bold — with uppercase Latin, numerals and basic symbols only; there are no lowercase characters. Released under a no-rights-reserved licence permitting modification and redistribution without restriction.",
+    "foundry_blurb": "Dot Colon describe Eunomia as a tall headline font developed from a logotype, with selected characters simplified to create a science-fiction feel. Version 0.200 saw a comprehensive design overhaul to improve overall consistency, with particular care taken at curved forms to avoid an awkward or mechanical impression."
+  },
+  {
+    "name": "Penna",
+    "foundry": "Dot Colon",
+    "url": "https://dotcolon.net/fonts/penna",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Explicitly described as a geometric sans-serif with circular forms and straight lines in the uppercase, while lowercase letters incorporate handwritten skeletal forms to avoid monotony.",
+    "weights": [
+      "Ultra Light"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Penna"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "geometric",
+      "display",
+      "headline",
+      "ultralight",
+      "japanese-foundry",
+      "free",
+      "no-rights-reserved"
+    ],
+    "summary": "A single-weight geometric sans from Japanese foundry Dot Colon, designed for headlines with a pronounced cap-height contrast and hints of handwritten structure in the lowercase.",
+    "description": "Built as a display face, Penna pairs a rigorous geometric uppercase — constructed from perfect circles and straight lines with carefully aligned midpoints on letters like E and R — against a lowercase that borrows slightly calligraphic skeletons on characters such as n and f. The result keeps the cleanliness of a geometric sans while avoiding the monotony that single-weight geometric display types often fall into. Available in a single Ultra Light cut under a no-rights-reserved licence, it suits headlines and logotypes where lightness and a touch of playfulness are wanted.",
+    "foundry_blurb": "Dot Colon describe Penna as a geometric sans-serif made for headlines, using a large cap-height-to-x-height ratio to create a dynamic feel. The uppercase is a strict geometric construction of circles and straight lines, while parts of the lowercase draw on handwritten skeletons to prevent the design becoming too uniform. Currently a single Ultra Light weight, released as No Rights Reserved."
+  },
+  {
+    "name": "Tenderness",
+    "foundry": "Dot Colon",
+    "url": "https://dotcolon.net/fonts/tenderness",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "old-style serif",
+    "classification_notes": "The designer explicitly references old Roman skeleton and stroke modulation as the structural basis, placing it squarely in the old-style serif tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tenderness"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "old-style",
+      "serif",
+      "soft",
+      "readable",
+      "latin",
+      "free",
+      "open-font-license"
+    ],
+    "summary": "A soft old-style serif from Japanese foundry Dot Colon, built on classical Roman proportions with a raised x-height for improved legibility.",
+    "description": "Based on the skeleton and stroke modulation of old Roman typefaces, Tenderness aims for a gentle, approachable impression rather than the usual sturdiness of classical revivals. Version 0.601 brings a taller x-height, revised serif shapes and restrained stroke contrast to sharpen readability. Glyph coverage has been expanded significantly to include European diacritical marks, currency symbols and punctuation.",
+    "foundry_blurb": "Dot Colon describe Tenderness as a serif typeface inspired by the skeleton and modelling of old Roman type, designed to give a soft impression. The 0.601 update revisited every aspect of the design, raising the x-height and refining the serifs for better readability, while also thinning the main strokes for a cleaner appearance and adding European diacritics, currency symbols and punctuation."
+  }
+]

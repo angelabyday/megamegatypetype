@@ -101,6 +101,28 @@ import dktype from "@/data/typefaces-dktype.json";
 import souvenirTypefaces from "@/data/typefaces-souvenir-typefaces.json";
 import theNorthernBlock from "@/data/typefaces-the-northern-block.json";
 import typeOfFeeling from "@/data/typefaces-type-of-feeling.json";
+// Batch 10
+import altTf from "@/data/typefaces-alt-tf.json";
+import blackFoundry from "@/data/typefaces-black-foundry.json";
+import collletttivo from "@/data/typefaces-collletttivo.json";
+import dotColon from "@/data/typefaces-dot-colon.json";
+import galleryType from "@/data/typefaces-gallery-type.json";
+import justAnotherFoundry from "@/data/typefaces-just-another-foundry.json";
+import letterjuice from "@/data/typefaces-letterjuice.json";
+import lettermin from "@/data/typefaces-lettermin.json";
+import loOlType from "@/data/typefaces-lo-ol-type.json";
+import monokrom from "@/data/typefaces-monokrom.json";
+import offType from "@/data/typefaces-off-type.json";
+import patioFoundry from "@/data/typefaces-patio-foundry.json";
+import processTypeFoundry from "@/data/typefaces-process-type-foundry.json";
+import regularBoldItalic from "@/data/typefaces-regular-bold-italic.json";
+import rosetta from "@/data/typefaces-rosetta.json";
+import smussTypeKiosk from "@/data/typefaces-smuss-type-kiosk.json";
+import studioFeixen from "@/data/typefaces-studio-feixen.json";
+import studioTriple from "@/data/typefaces-studio-triple.json";
+import typeBy from "@/data/typefaces-type-by.json";
+import typeForward from "@/data/typefaces-type-forward.json";
+import zetafonts from "@/data/typefaces-zetafonts.json";
 
 import { FOUNDRIES, getFoundryByName, type FoundryInfo } from "./foundry-map";
 
@@ -295,6 +317,28 @@ export function getAllTypefaces(): Typeface[] {
         souvenirTypefaces,
         theNorthernBlock,
         typeOfFeeling,
+        // Batch 10
+        altTf,
+        blackFoundry,
+        collletttivo,
+        dotColon,
+        galleryType,
+        justAnotherFoundry,
+        letterjuice,
+        lettermin,
+        loOlType,
+        monokrom,
+        offType,
+        patioFoundry,
+        processTypeFoundry,
+        regularBoldItalic,
+        rosetta,
+        smussTypeKiosk,
+        studioFeixen,
+        studioTriple,
+        typeBy,
+        typeForward,
+        zetafonts,
       ] as RawTypeface[][]
     )
       .flat()

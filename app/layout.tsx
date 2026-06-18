@@ -68,7 +68,7 @@ export default function RootLayout({
             </div>
           </div>
           <p className="px-4 pb-3 text-xs text-muted-foreground sm:px-6">
-            The world&apos;s biggest index of typefaces from the world&apos;s best type foundries
+            On a mission to create the world&apos;s biggest index of typefaces from the world&apos;s best type foundries
           </p>
         </header>
         <main className="flex-1">{children}</main>

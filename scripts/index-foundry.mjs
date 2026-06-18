@@ -38,8 +38,9 @@ try {
 } catch {}
 
 const MODEL = process.env.INDEX_MODEL ?? "claude-sonnet-4-6";
-const PAGE_DELAY_MS = 2000;
-const FOUNDRY_DELAY_MS = 5000;
+const PAGE_DELAY_MS = 500;
+const FOUNDRY_DELAY_MS = 3000;
+const CONCURRENCY = 3;
 const UA =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36";
 
@@ -887,6 +888,15 @@ const FOUNDRIES = [
     homepage: "https://www.typeforward.com/",
     listingUrl: "https://www.typeforward.com/typefaces",
     tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("typeforward.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
   },
   {
     name: "Nikolas Type",
@@ -1186,7 +1196,7 @@ const FOUNDRIES = [
     name: "Letterjuice",
     slug: "letterjuice",
     homepage: "http://letterjuice.cat/",
-    listingUrl: "http://letterjuice.cat/fonts",
+    listingUrl: "http://letterjuice.cat/typefaces/",
     tier: "okay",
     filterFn: (href) => {
       try {
@@ -1455,6 +1465,295 @@ const FOUNDRIES = [
       } catch { return false; }
     },
   },
+  // Batch 10
+  {
+    name: "Studio Feixen Fonts",
+    slug: "studio-feixen",
+    homepage: "https://fonts.studiofeixen.ch/",
+    listingUrl: "https://fonts.studiofeixen.ch/",
+    tier: "best",
+    // typeface pages at /{slug} — default filter matches depth 1 from homepage
+  },
+  {
+    name: "Just Another Foundry",
+    slug: "just-another-foundry",
+    homepage: "https://justanotherfoundry.com/",
+    listingUrl: "https://justanotherfoundry.com/",
+    tier: "okay",
+    // typeface pages at /{slug} — default filter matches depth 1 from homepage
+  },
+  {
+    name: "Lettermin",
+    slug: "lettermin",
+    homepage: "https://lettermin.com/",
+    listingUrl: "https://lettermin.com/fonts",
+    tier: "okay",
+  },
+  {
+    name: "Studio Triple",
+    slug: "studio-triple",
+    homepage: "https://studiotriple.fr/",
+    listingUrl: "https://studiotriple.fr/travaux/typefaces/",
+    tier: "okay",
+  },
+  {
+    name: "ALT.tf",
+    slug: "alt-tf",
+    homepage: "https://alt-tf.com/",
+    listingUrl: "https://alt-tf.com/collections/all",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("alt-tf.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Black Foundry",
+    slug: "black-foundry",
+    homepage: "https://black-foundry.com/",
+    listingUrl: "https://black-foundry.com/fonts/",
+    tier: "okay",
+  },
+  {
+    name: "lo-ol Type",
+    slug: "lo-ol-type",
+    homepage: "https://lo-ol.design/",
+    listingUrl: "https://lo-ol.design/catalog",
+    tier: "okay",
+    scrollCount: 40,
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("lo-ol.design")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "catalog" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Regular Bold Italic",
+    slug: "regular-bold-italic",
+    homepage: "https://regularbolditalic.com/",
+    listingUrl: "https://regularbolditalic.com/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("regularbolditalic.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Dot Colon",
+    slug: "dot-colon",
+    homepage: "https://dotcolon.net/",
+    listingUrl: "https://dotcolon.net/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("dotcolon.net")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Rosetta",
+    slug: "rosetta",
+    homepage: "https://rosettatype.com/",
+    listingUrl: "https://rosettatype.com/fonts/",
+    tier: "notgood",
+    // typeface pages at root /{Name} (CamelCase) — exclude nav and shop subdomain
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (u.hostname !== "rosettatype.com") return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        const slug = parts[0].toLowerCase();
+        const ROSETTA_NAV = new Set(["fonts", "research", "articles", "fonts-in-use", "products", "licence", "feed.xml"]);
+        return !NON_TYPEFACE_SLUGS.has(slug) && !ROSETTA_NAV.has(slug);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "TYPE BY",
+    slug: "type-by",
+    homepage: "https://www.typeby.com/",
+    listingUrl: "https://www.typeby.com/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("typeby.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Process Type Foundry",
+    slug: "process-type-foundry",
+    homepage: "https://processtypefoundry.com/",
+    listingUrl: "https://processtypefoundry.com/fonts/",
+    tier: "notgood",
+    // site links both /fonts/slug and /fonts/slug/ — only accept trailing-slash canonical form
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("processtypefoundry.com")) return false;
+        if (u.search || u.hash) return false;
+        if (!u.pathname.endsWith("/")) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Store Norske Skriftkompani",
+    slug: "store-norske-skriftkompani",
+    homepage: "https://skriftkompani.no/",
+    listingUrl: "https://skriftkompani.no/typefaces",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("skriftkompani.no")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Monokrom",
+    slug: "monokrom",
+    homepage: "https://monokrom.no/",
+    listingUrl: "https://monokrom.no/catalogue",
+    tier: "notgood",
+    // typeface pages at /fonts/{slug}, not /catalogue/{slug}
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("monokrom.no")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Collletttivo",
+    slug: "collletttivo",
+    homepage: "https://collletttivo.it/",
+    listingUrl: "https://collletttivo.it/typefaces",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("collletttivo.it")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Off Type",
+    slug: "off-type",
+    homepage: "https://off-type.com/",
+    listingUrl: "https://off-type.com/collections/all",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("off-type.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Patio Foundry",
+    slug: "patio-foundry",
+    homepage: "https://patiofoundry.com/",
+    listingUrl: "https://patiofoundry.com/fonts",
+    tier: "okay",
+  },
+  {
+    name: "Smuss Type Kiosk",
+    slug: "smuss-type-kiosk",
+    homepage: "https://typekiosk.smuss.studio/",
+    listingUrl: "https://typekiosk.smuss.studio/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("smuss.studio")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        const SMUSS_NAV = new Set(["buy", "about", "contact", "imprint"]);
+        return !NON_TYPEFACE_SLUGS.has(parts[0]) && !SMUSS_NAV.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "ATYPICAL",
+    slug: "atypical",
+    homepage: "https://atypical.gr/",
+    listingUrl: "https://atypical.gr/fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("atypical.gr")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Gallery Type",
+    slug: "gallery-type",
+    homepage: "https://gallerytype.com/",
+    listingUrl: "https://gallerytype.com/fonts",
+    tier: "okay",
+  },
+  {
+    name: "Zetafonts",
+    slug: "zetafonts",
+    homepage: "https://zetafonts.com/",
+    listingUrl: "https://zetafonts.com/collections",
+    tier: "okay",
+    // typeface pages at root /{slug} (redirects to www.zetafonts.com); exclude nav pages
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("zetafonts.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (parts.length !== 1) return false;
+        const ZETA_NAV = new Set(["collections", "packs", "user", "custom-projects", "licensing", "support", "about-us", "contact-us", "store", "typeclub"]);
+        return !NON_TYPEFACE_SLUGS.has(parts[0]) && !ZETA_NAV.has(parts[0]);
+      } catch { return false; }
+    },
+  },
 ];
 
 // ---- URL filter ----
@@ -1553,6 +1852,10 @@ FIELD GUIDE
 - summary: ONE sentence. British English. Specific, direct. No buzzwords.
 - description: 2-3 sentences expanding on summary. British English. No filler.
 - foundry_blurb: paraphrase of the foundry's own copy for this typeface
+
+SCOPE WARNING
+- The page may contain sections for related typefaces, "you may also like", other releases, or navigation links to other fonts. Ignore all of that entirely.
+- Extract information ONLY about the specific typeface at the provided URL. Do not blend in details from any other typeface shown on the page.
 
 WRITING STYLE for summary and description
 - British English. Short sentences.
@@ -1738,15 +2041,21 @@ async function generateEntry(client, foundry, url, content) {
 // ---- Main ----
 async function main() {
   const argv = process.argv.slice(2);
-  const foundryArg = argv.includes("--foundry") ? argv[argv.indexOf("--foundry") + 1] : null;
   const dryRun = argv.includes("--dry-run");
 
-  const toProcess = foundryArg
-    ? FOUNDRIES.filter((f) => f.slug === foundryArg)
+  const foundryArgs = [];
+  for (let i = 0; i < argv.length; i++) {
+    if (argv[i] === "--foundry" && i + 1 < argv.length) {
+      foundryArgs.push(argv[++i]);
+    }
+  }
+
+  const toProcess = foundryArgs.length > 0
+    ? FOUNDRIES.filter((f) => foundryArgs.includes(f.slug))
     : FOUNDRIES;
 
   if (toProcess.length === 0) {
-    console.error(`Unknown foundry: ${foundryArg}`);
+    console.error(`Unknown foundry: ${foundryArgs.join(", ")}`);
     console.error(`Available: ${FOUNDRIES.map((f) => f.slug).join(", ")}`);
     process.exit(1);
   }
@@ -1769,15 +2078,7 @@ async function main() {
       console.log(`\n=== ${foundry.name} ===`);
       console.log(`Listing: ${foundry.listingUrl}`);
 
-      // Skip foundries that already have a complete data file (no Playwright needed)
       const outPath = join(root, "data", `typefaces-${foundry.slug}.json`);
-      if (!dryRun && existsSync(outPath)) {
-        const existing = JSON.parse(readFileSync(outPath, "utf8"));
-        if (existing.length > 0) {
-          console.log(`  Already indexed (${existing.length} entries) — skipping`);
-          continue;
-        }
-      }
 
       const page = await ctx.newPage();
 
@@ -1808,54 +2109,54 @@ async function main() {
       const indexed = new Set(existing.map((e) => e.url));
       const entries = [...existing];
 
+      // Use listing page for URL extraction only, then close it
+      await page.close();
+
+      const urlsToProcess = urls.filter((u) => !indexed.has(u));
+
       if (indexed.size > 0) {
-        console.log(`Resuming: ${indexed.size} already indexed, ${urls.length - indexed.size} remaining`);
+        console.log(`Resuming: ${indexed.size} already indexed, ${urlsToProcess.length} remaining`);
       }
 
-      for (const url of urls) {
-        const slug = new URL(url).pathname.replace(/\/$/, "").split("/").pop() ?? url;
-
-        if (indexed.has(url)) {
-          console.log(`  ${slug} ... skip`);
-          continue;
-        }
-
-        process.stdout.write(`  ${slug} ... `);
-
-        try {
-          const content = await extractPageContent(page, url);
-          await sleep(PAGE_DELAY_MS);
-          const entry = await generateEntry(client, foundry, url, content);
-          entries.push(entry);
-          indexed.add(url);
-          stats.ok++;
-          // Write after each entry so a kill/crash loses at most one entry
-          writeFileSync(outPath, JSON.stringify(entries, null, 2) + "\n");
-          // Fetch specimen using the already-loaded page
-          const typefaceSlug = slugify(entry.name);
-          try {
-            const specimenResult = await fetchSpecimenFromPage(page, foundry.slug, typefaceSlug);
-            console.log(`✓ ${entry.name} [specimen: ${specimenResult}]`);
-            // Update manifest incrementally
-            const manifest = existsSync(MANIFEST_PATH)
-              ? JSON.parse(readFileSync(MANIFEST_PATH, "utf8"))
-              : {};
-            manifest[`${foundry.slug}/${typefaceSlug}`] = true;
-            writeFileSync(MANIFEST_PATH, JSON.stringify(manifest) + "\n");
-          } catch (specimenErr) {
-            console.log(`✓ ${entry.name} [specimen: miss – ${specimenErr.message.slice(0, 60)}]`);
-          }
-        } catch (err) {
-          stats.fail++;
-          console.log(`✗ ${err.message.slice(0, 100)}`);
-        }
-
-        await sleep(PAGE_DELAY_MS);
+      // Process in parallel batches
+      for (let i = 0; i < urlsToProcess.length; i += CONCURRENCY) {
+        const batch = urlsToProcess.slice(i, i + CONCURRENCY);
+        await Promise.all(
+          batch.map(async (url) => {
+            const slug = new URL(url).pathname.replace(/\/$/, "").split("/").pop() ?? url;
+            const batchPage = await ctx.newPage();
+            process.stdout.write(`  ${slug} ... `);
+            try {
+              const content = await extractPageContent(batchPage, url);
+              const entry = await generateEntry(client, foundry, url, content);
+              entries.push(entry);
+              indexed.add(url);
+              stats.ok++;
+              writeFileSync(outPath, JSON.stringify(entries, null, 2) + "\n");
+              const typefaceSlug = slugify(entry.name);
+              try {
+                const specimenResult = await fetchSpecimenFromPage(batchPage, foundry.slug, typefaceSlug);
+                console.log(`✓ ${entry.name} [specimen: ${specimenResult}]`);
+                const manifest = existsSync(MANIFEST_PATH)
+                  ? JSON.parse(readFileSync(MANIFEST_PATH, "utf8"))
+                  : {};
+                manifest[`${foundry.slug}/${typefaceSlug}`] = true;
+                writeFileSync(MANIFEST_PATH, JSON.stringify(manifest) + "\n");
+              } catch (specimenErr) {
+                console.log(`✓ ${entry.name} [specimen: miss – ${specimenErr.message.slice(0, 60)}]`);
+              }
+            } catch (err) {
+              stats.fail++;
+              console.log(`✗ ${slug}: ${err.message.slice(0, 100)}`);
+            } finally {
+              await batchPage.close();
+            }
+          })
+        );
+        if (i + CONCURRENCY < urlsToProcess.length) await sleep(PAGE_DELAY_MS);
       }
 
       console.log(`\nWrote ${entries.length}/${urls.length} → data/typefaces-${foundry.slug}.json`);
-
-      await page.close();
     }
   } finally {
     await browser.close();

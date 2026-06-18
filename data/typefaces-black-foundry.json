@@ -1,0 +1,1844 @@
+[
+  {
+    "name": "Algo",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/algo/",
+    "designer": "Michel Derre, FONTYOU",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "display blackletter",
+    "classification_notes": "Described explicitly as blackletter-inspired, it draws on broken ductus and calligraphic Gothic forms. Its sculptural, angular strokes and antique character place it squarely in the blackletter tradition, deployed as a display face rather than a text setting.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Algo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "display",
+      "gothic",
+      "calligraphic",
+      "fantasy",
+      "medieval",
+      "variable"
+    ],
+    "summary": "A blackletter-inspired display serif with broken ductus and alternating concave-convex curves, available in three weights including a variable font.",
+    "description": "Drawing on Gothic calligraphy's angular ductus, it blends broken strokes with differentiated in- and out-strokes to produce a sculptural, unpredictable rhythm at display sizes. The three weights — Light, Regular and Black — are also packaged as a single variable font. It has been used on Fantasy Zombicide game titles, cards and manuals, making its intended territory of fantasy and medieval-themed work concrete.",
+    "foundry_blurb": "Black Foundry describe Algo as a blackletter-inspired display serif that blends broken ductus with calligraphic forms for a bold, sculptural presence. Three weights — sculpted as sculptural, rustic and dynamic — feature differentiated in- and out-strokes alongside alternating concave and convex curves, giving the face a spontaneous, unpredictable rhythm. They note its antique, mystical aura makes it well suited to fantasy or medieval themes, citing its use on Fantasy Zombicide game titles, cards, manuals and logo."
+  },
+  {
+    "name": "Ampere",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/ampere/",
+    "designer": "Ben Hartley, Solenn Bordeau",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Ampere is built on grid-like geometric construction with squared ink traps and clean angles, placing it firmly in the geometric sans tradition. Its structural precision and modular approach are characteristic of the subcategory.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ampere"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grid",
+      "technical",
+      "variable",
+      "modern",
+      "clean",
+      "display",
+      "text"
+    ],
+    "summary": "A geometric sans built on grid-like precision with squared ink traps and special \"electric\" ligatures across six weights, available as a variable font.",
+    "description": "Designed by Ben Hartley and Solenn Bordeau, Ampere takes a modular, grid-based approach to geometric sans construction, with squared ink traps that ease the sharpest angles into something readable at small sizes. Six weights run from Extra Light to Black, all available within a single variable font. A set of custom \"electric\" characters and stylistic ligatures give the family a distinct technical character without overplaying the concept.",
+    "foundry_blurb": "Black Foundry describe Ampere as sleek geometry with uncompromising clarity, its grid-like precision reflecting a modern design ethos. They highlight its ability to perform at both small and large sizes, its squared ink traps for a smooth finish, and its special electric characters and ligatures that add energy and personality. Six weights from Extra Light to Black and a variable font are included in the family."
+  },
+  {
+    "name": "Angus",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/angus/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "rounded sans",
+    "classification_notes": "A rounded sans serif with condensed proportions and a monospaced visual rhythm; the consistent multiplexed widths across styles give it an unusual functional character closer to a geometric rounded sans than a humanist one.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Angus"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "condensed",
+      "multiplexed",
+      "variable",
+      "packaging",
+      "entertainment",
+      "information-design",
+      "cheerful"
+    ],
+    "summary": "A rounded, condensed sans with multiplexed widths across all five weights, allowing weight changes without triggering text reflow.",
+    "description": "Multiplexed spacing means every weight occupies identical horizontal space, so switching between Light and Extra Bold mid-layout causes no reflow. The rounded terminals and condensed proportions give it an approachable, slightly informal character suited to packaging, app interfaces and information graphics. Available as a variable font with matching italics across all five weights.",
+    "foundry_blurb": "Black Foundry describe Angus as a rounded sans serif balancing softness and straightness through condensed proportions and a monospaced look. Multiplexed widths remain consistent across styles to enable typographic shifts without text reflow, giving each weight its own distinct voice. They position it as cheerful and approachable, suited to entertainment, packaging, websites and information graphics."
+  },
+  {
+    "name": "Aubusson",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/aubusson/",
+    "designer": "Franck Jalleau",
+    "year": null,
+    "category": "mono",
+    "subcategory": "humanist monospaced",
+    "classification_notes": "Explicitly described as a monospaced humanist sans serif; the fixed-width structure is central to the concept, drawing on the grid-like geometry of woven textiles while retaining calligraphic warmth in the letterforms.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Aubusson"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "humanist",
+      "calligraphic",
+      "variable",
+      "editorial",
+      "display",
+      "text"
+    ],
+    "summary": "A monospaced humanist sans by Franck Jalleau, its fixed-width rhythm drawn from the grid-like structure of Aubusson tapestry weaving.",
+    "description": "Designed by Franck Jalleau and refined by Black Foundry, it applies the regular interlocking geometry of French tapestry weaving to a monospaced humanist sans. Calligraphic warmth in the stroke modulation softens what could otherwise feel austere, making it readable at small text sizes as well as expressive at display scale. The family ships with variable fonts across Light to Black, matching italics, small capitals, oldstyle figures and a set of arrow ligatures via stylistic sets.",
+    "foundry_blurb": "Black Foundry describe Aubusson as a monospaced humanist sans serif inspired by the iconic tapestries of Aubusson, France, capturing the grid-like patterns of interwoven threads through warm, calligraphy-inspired forms. Originally created by Franck Jalleau and refined by Black Foundry, it balances precision with personality and is positioned as a versatile choice suited to both display headlines and small paragraphs."
+  },
+  {
+    "name": "Beaurencourt FY",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/beaurencourt/",
+    "designer": "Gia Tran, Jérémie Hornus",
+    "year": null,
+    "category": "script",
+    "subcategory": "connected script",
+    "classification_notes": "A connected cursive script rooted in 19th-century handwriting conventions, with joined letterforms, loops and ink-spread effects placing it firmly in the historical script category.",
+    "weights": [
+      "Light",
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Beaurencourt FY"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "handwriting",
+      "19th-century",
+      "calligraphic",
+      "connected",
+      "packaging",
+      "editorial",
+      "vintage"
+    ],
+    "summary": "A connected script drawn from 19th-century handwriting, available in two weights with ink-spread effects for both small text and display use.",
+    "description": "Designed by Gia Tran and Jérémie Hornus, it reproduces the rhythm and texture of period handwriting through connected forms, loops and ink-spread detailing. Two weights, Light and Regular, handle both small-size legibility and large display settings where the ink-on-paper quality comes through most clearly. Oldstyle figures, ligatures, stylistic alternates and an extensive fraction set make it well equipped for packaging and editorial projects where typographic detail matters.",
+    "foundry_blurb": "Black Foundry describe Beaurencourt FY as an old-fashioned script inspired by 19th-century handwriting, designed to offer a delicate and authentic feel. They note it performs well at small sizes while revealing the texture of ink on paper in display settings, featuring connected forms, alternates, loops and ink-spread effects. They position it as a natural choice for film titles, party invitations and packaging."
+  },
+  {
+    "name": "Blaacck",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/blaacck/",
+    "designer": "Jérémie Hornus, Solenn Bordeau",
+    "year": null,
+    "category": "display",
+    "subcategory": "condensed display serif",
+    "classification_notes": "A tightly condensed, high-contrast serif built exclusively for large-scale headline use, with ball terminals and ornamental details derived from Lubalin-influenced American display type.",
+    "weights": [
+      "Poster"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blaacck"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "display",
+      "high-contrast",
+      "headline",
+      "lubalin",
+      "serif",
+      "ornamental"
+    ],
+    "summary": "A tightly condensed display serif derived from Vesterbro Poster, with ball terminals and high contrast, designed for an Aaron Levin and AACC rebrand.",
+    "description": "Built on Vesterbro Poster but reworked with increased stroke contrast, ball terminals and tighter spacing, the face carries a Lubalin-influenced flavour suited to bold editorial and branding headlines. A tall x-height and thin accents allow for extremely compact setting, while ligatures, ornamental punctuation, arrows, stylistic alternates and a comprehensive set of fractions extend its typographic range. Available as a single Poster weight, it is unambiguously a headline tool rather than a text face.",
+    "foundry_blurb": "Black Foundry describe Blaacck as a distinctively condensed display serif created for Aaron Levin and the AACC rebrand, developed from Vesterbro Poster with added ball terminals, tighter spacing and greater contrast. Inspired in part by Herb Lubalin, it features ligatures, ornamental punctuation, a tall x-height and thin accents for super-compact typesetting, alongside arrows, alternates and fractions."
+  },
+  {
+    "name": "Bluu Suuperstar",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/bluu-suuperstar/",
+    "designer": "Jean Baptiste Morizot, Gaëtan Baehr",
+    "year": null,
+    "category": "serif",
+    "subcategory": "brutalist garalde",
+    "classification_notes": "Rooted in the Garalde tradition with high x-height and rhythmic structure, but distinguished by sharp triangular wedge serifs and diamond-shaped dots that push it firmly into brutalist display territory.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bluu Suuperstar"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "brutalist",
+      "garalde",
+      "editorial",
+      "display",
+      "high-x-height",
+      "sharp",
+      "variable",
+      "expressive"
+    ],
+    "summary": "A brutalist serif by Jean Baptiste Morizot and Gaëtan Baehr that grafts sharp triangular wedge serifs and diamond dots onto a Garalde skeleton, with italics drawn on an independent calligraphic model.",
+    "description": "The uprights retain the proportional rhythm of the Garalde tradition whilst serifs terminate in abrupt triangular wedges and dots resolve into diamonds, creating a typeface that reads both historically grounded and visually confrontational. Four static weights from Regular to Black are supplied alongside two variable fonts, covering a wide range from text to headline use. The italics are drawn independently from the uprights, following a dynamic calligraphic logic rather than simply slanting the roman forms.",
+    "foundry_blurb": "Black Foundry describe Bluu Suuperstar as a brutalist serif distinguished by sharp triangular wedges, diamond dots and a tall x-height. They note that while its curves break abruptly, the rhythm remains grounded in the Garalde tradition, and that the italics follow a dynamic calligraphic model independent from the uprights. The family is presented as optimised for both immersive text and striking display, intended for impactful headlines and editorial designs."
+  },
+  {
+    "name": "Brillante",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/brillante/",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast serif",
+    "classification_notes": "A high-contrast serif with sharp, spiked details and short serifs, placing it firmly in the display serif tradition aimed at fashion and luxury contexts rather than text setting.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Normal",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Brillante",
+      "Brillante Condensed",
+      "Brillante Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "display",
+      "fashion",
+      "luxury",
+      "editorial",
+      "packaging",
+      "variable",
+      "serif"
+    ],
+    "summary": "A high-contrast display serif built for fashion and luxury applications, with spiked V and W, thorn-like K and R, and short serifs that give it a sharp, jewellery-catalogue character.",
+    "description": "Designed for titles, branding, editorial and packaging where a refined but assertive voice is needed, Brillante relies on extreme contrast and pointed details to evoke cut crystal and precious materials. The family spans 15 static fonts across Thin to Black in Condensed, Normal and Wide widths, with a two-axis variable font covering both weight and width. No italics are included, reinforcing its identity as a display-first design.",
+    "foundry_blurb": "Black Foundry describe Brillante as a high-contrast serif designed to shine in fashion, luxury and jewellery contexts. They highlight distinctive details including spiked V and W, thorn-like K and R, sharpened accents and short serifs as the source of its smart elegance. The family offers 15 fonts from Thin to Black across Condensed, Normal and Wide widths, plus a two-axis variable format for exceptional versatility."
+  },
+  {
+    "name": "Caesura",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/caesura/",
+    "designer": "Ben Hartley, Solenn Bordeau",
+    "year": null,
+    "category": "display",
+    "subcategory": "high-contrast display",
+    "classification_notes": "A single-weight display face with extreme stroke contrast, swashes and knife-edged terminals drawn from mid-century European signage and Japanese calligraphy. Its expressive, decorative character places it firmly in the display category.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Caesura"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "display",
+      "calligraphic",
+      "expressive",
+      "editorial",
+      "signage-inspired",
+      "single-weight"
+    ],
+    "summary": "A high-contrast display face drawing on mid-century European signage and Japanese calligraphy, available in a single bold weight with swashes and knife-edged strokes.",
+    "description": "Designed by Ben Hartley and Solenn Bordeau at Black Foundry, it merges the structural logic of European painted lettering with the expressive stroke weight of Japanese brush calligraphy. Exaggerated thick-thin contrasts, swash characters and sharp terminal cuts give it a strong visual presence at large sizes. The family ships as a single Bold style with broad Latin coverage and a range of OpenType features including discretionary ligatures, oldstyle figures and stylistic sets.",
+    "foundry_blurb": "Black Foundry describe Cæsura as a high-contrast display typeface that merges found lettering styles from mid-century European signage and Japanese calligraphy. Available in a single weight, it features exaggerated strokes, swashes and knife-like shapes that balance structural and expressive qualities, making it suited to editorial content, branding and user interfaces where a sophisticated typographic voice is required."
+  },
+  {
+    "name": "Canberra FY",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/canberra/",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "A low-contrast serif with asymmetric short serifs, sitting between a text and book serif. Its rounded alternates and friendly proportions distinguish it from traditional oldstyle or transitional classifications.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Canberra FY"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "low-contrast",
+      "editorial",
+      "text",
+      "variable",
+      "friendly",
+      "book",
+      "hierarchical"
+    ],
+    "summary": "A low-contrast serif with asymmetric short serifs and rounded alternates, designed for editorial hierarchies from small-body text to bold headings.",
+    "description": "Five weights from Light to Black, each with a matching italic, cover text and display roles within a single family. Asymmetric, short serifs give it a lighter, less formal register than classical text serifs, while rounded alternates for letters such as a, e, g and y allow more casual or approachable settings. Available as a variable font alongside the static styles, making it practical for screen and print workflows where weight flexibility matters.",
+    "foundry_blurb": "Black Foundry describe Canberra FY as a contemporary low-contrast serif family combining legibility with personality. Asymmetric short serifs give it a versatile and friendly look, and rounded alternates for letters including a, e, g, v, w and y enable more casual settings. It performs well in book-style setting at small sizes, while the bold and black weights suit headings, making it suited to editorial use and hierarchical typography. The family offers six weights with matching italics and is also available as a variable font."
+  },
+  {
+    "name": "Clother",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/clother/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Low-contrast, near-monolinear letterforms with geometric construction place it firmly in the geometric sans tradition. The page describes it explicitly as a geometric sans serif.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Clother",
+      "Clother Arabic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Arabic",
+      "Hebrew"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "corporate",
+      "branding",
+      "multilingual",
+      "variable",
+      "arabic",
+      "cyrillic",
+      "monolinear"
+    ],
+    "summary": "A low-contrast geometric sans covering Latin, Cyrillic, Arabic and Hebrew, built for multinational corporate and communication work.",
+    "description": "Near-monolinear letterforms and geometric proportions give Clother a clean, professional tone suited to reports, presentations and brand systems that must function across multiple scripts. The family ships in four weights from Light to Black with matching italics, variable fonts for both the Latin and Arabic, and a dedicated Clother Arabic subfamily. Script coverage extending to Cyrillic, Hebrew and Arabic makes it a practical choice for organisations communicating across diverse markets.",
+    "foundry_blurb": "Black Foundry describe Clother as a geometric sans serif family supporting Arabic, Cyrillic, Hebrew and Latin, designed to deliver a consistent visual identity for branding, corporate design and communication. They note its low-contrast, almost monolinear letterforms keep text clean and professional with a modern personality, well suited to reports, presentations and internal communication."
+  },
+  {
+    "name": "Coco FY",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/coco/",
+    "designer": "Bertrand Reguron, Gia Tran, FONTYOU",
+    "year": null,
+    "category": "script",
+    "subcategory": "vintage script",
+    "classification_notes": "A condensed, hand-lettered script drawn from the tradition of storefront fascia and painted signage, giving it a distinctly retro, vernacular character rather than a formal calligraphic one.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Coco FY"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "vintage",
+      "retro",
+      "signage",
+      "condensed",
+      "handlettered",
+      "packaging",
+      "branding"
+    ],
+    "summary": "A condensed vintage script drawn from the hand-lettered tradition of storefront fascia and painted street signs.",
+    "description": "Coco FY takes its cues from mid-century commercial lettering, with tightly condensed forms and expressive strokes that recall painted shop fronts rather than calligraphic pen work. A single Regular weight is offered, supported by a thorough set of contextual alternates and stylistic variants to keep repeated letterforms from looking mechanical. Suited to posters, packaging and editorial work where a retro handmade quality is needed without resorting to generic brush scripts.",
+    "foundry_blurb": "Black Foundry describe Coco FY as a vintage script font reminiscent of storefront fascia and hand-lettered street signs. They note its highly expressive, condensed forms and retro style, positioning it as a versatile choice for posters, packaging, branding and editorial projects seeking timeless personality and charm."
+  },
+  {
+    "name": "Drive",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/drive/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described explicitly as a humanist sans serif with open counterforms and nearly monolinear strokes, prioritising legibility and efficiency in business communication contexts.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Drive",
+      "Drive Mono",
+      "Drive Prop"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "business",
+      "legibility",
+      "variable",
+      "superfamily",
+      "mono",
+      "efficiency",
+      "corporate"
+    ],
+    "summary": "A humanist sans superfamily designed for business communication, offering three coordinated styles — proportional, monospaced and proportional-compact — across nine weights with variable font support.",
+    "description": "Drive groups three coordinated styles into a single superfamily: Drive for general use, Drive Mono for tabular and code-adjacent settings, and Drive Prop for maximum content density. Open counterforms and near-monolinear strokes keep text readable at small sizes and in adverse conditions. Nine weights from Hairline to Extrabold, each with italics, are available as static or variable fonts for print and digital work.",
+    "foundry_blurb": "Black Foundry describe Drive as a humanist sans serif superfamily built for business communication where clarity and speed are vital. Its three coordinated styles keep text clear and efficient, allowing more content per line without loss of readability. Open counterforms and nearly monolinear strokes maintain legibility under adverse conditions, while nine weights and variable font support make it adaptable across text and display applications."
+  },
+  {
+    "name": "Drive Mono",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/drive-mono/",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "humanist mono",
+    "classification_notes": "Drive Mono is the monospaced variant within the Drive humanist sans superfamily, sharing open counterforms and nearly monolinear strokes with its proportional sibling while maintaining fixed-width spacing.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Drive",
+      "Drive Mono",
+      "Drive Prop"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "humanist",
+      "business",
+      "legibility",
+      "variable",
+      "text",
+      "digital",
+      "functional"
+    ],
+    "summary": "The monospaced member of Black Foundry's Drive superfamily, engineered for business communication where fixed-width spacing and high legibility are both required.",
+    "description": "Drive Mono shares the open counterforms and near-monolinear strokes of the Drive superfamily, making it unusually readable for a fixed-width face. Nine weights from Hairline to Extra Bold are available as static fonts or as a variable font with italic, covering both text and display needs. It sits alongside Drive and Drive Prop as a coordinated system for print and digital environments where consistency across proportional and monospaced settings matters.",
+    "foundry_blurb": "Black Foundry describe Drive Mono as part of a three-style superfamily — Drive, Drive Mono, and Drive Prop — built for business communication where clarity and speed are essential. The family offers nine weights from Hairline to Extra Bold with italics and variable font support, featuring open counterforms and nearly monolinear strokes for legibility across adverse conditions and a range of print and digital applications."
+  },
+  {
+    "name": "Drive Prop",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/drive-prop/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Drive Prop is described as a humanist sans serif with open counterforms and nearly monolinear strokes, optimised for efficient legibility in business and UI contexts.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Drive",
+      "Drive Mono",
+      "Drive Prop"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "business",
+      "legibility",
+      "variable",
+      "ui",
+      "functional",
+      "corporate",
+      "multilingual"
+    ],
+    "summary": "A proportionally spaced member of the Drive superfamily, designed for business communication where legibility and economy of space are priorities.",
+    "description": "Drive Prop is one of three coordinated styles within the Drive superfamily, alongside Drive and Drive Mono. Nine weights from Hairline to Extra Bold, each with matching italics, are available as static fonts or as variable font files. Open counterforms and near-monolinear strokes maintain legibility at small sizes and in adverse conditions, making it suited to both print and digital environments where density of information matters.",
+    "foundry_blurb": "Black Foundry describe Drive as a humanist sans serif superfamily built for business communication where clarity and speed are vital. Its three coordinated styles — Drive, Drive Mono, and Drive Prop — keep text clear and efficient, fitting more content per line without sacrificing readability. Open counterforms and nearly monolinear strokes ensure legibility even under adverse conditions, and nine weights from Hairline to Extrabold with italics or variable fonts make it adaptable across text and display use in print and digital design."
+  },
+  {
+    "name": "Egitto",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/egitto/",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "geometric slab serif",
+    "classification_notes": "Low-contrast letterforms with slab serifs drawn from Italian vernacular signage tradition; mechanistic construction places it firmly in the geometric slab category.",
+    "weights": [
+      "Extra Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Standard",
+      "Semi Extended",
+      "Extended",
+      "Wide",
+      "Super Wide"
+    ],
+    "subfamilies": [
+      "Egitto"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "geometric",
+      "italian-vernacular",
+      "variable",
+      "wide-family",
+      "branding",
+      "packaging",
+      "display"
+    ],
+    "summary": "A slab serif drawn from Italian vernacular signage, offered across six widths and five weights with a three-axis variable font.",
+    "description": "Rooted in the lettering of Italian shopfronts and signs, the design keeps contrast low and construction precise, lending it a mechanistic quality that sits comfortably in branding, packaging and corporate contexts. The middle range of weights holds at smaller sizes, while the broader widths and heavier cuts open it up for display use. The full family spans sixty static styles plus a variable font covering weight, width and italic axes.",
+    "foundry_blurb": "Black Foundry describe Egitto as a slab serif inspired by Italian vernacular signage, combining stable, low-contrast letterforms with precision and unique detail. They position it as versatile across display work in branding, packaging and corporate use, noting that the middle range also performs at smaller sizes. It is available as a three-axis variable font or as a large family of sixty styles across six widths, five weights and matching italics."
+  },
+  {
+    "name": "Exquise FY",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/exquise/",
+    "designer": "Alisa Nowak, Valentine Proust, Bertrand Reguron, Gia Tran, Elvire Volk",
+    "year": null,
+    "category": "serif",
+    "subcategory": "Didone",
+    "classification_notes": "High contrast between thick and thin strokes with vertical stress and fine hairline serifs place this firmly in the Didone tradition, designed for editorial and luxury branding contexts.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Exquise FY"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "editorial",
+      "high-contrast",
+      "branding",
+      "luxury",
+      "variable",
+      "serif",
+      "elegant"
+    ],
+    "summary": "A high-contrast Didone serif with refined details, available in four weights with italics and a variable font for editorial and luxury branding use.",
+    "description": "Built on the Didone model, the family carries the sharp contrast and hairline serifs associated with that tradition while the designers have worked distinct details into individual letterforms. Four weights from Regular to Black each have matching italics, and the package includes variable fonts covering the full weight range. OpenType features are extensive, running to swashes, stylistic sets, titling capitals, old-style figures and multiple fraction styles, giving it range beyond purely decorative use.",
+    "foundry_blurb": "Black Foundry describe Exquise FY as an elegant and distinguished serif family defined by unique details and refined shapes, embodying the timeless Didone aesthetic while offering flexibility across design contexts. They position it for editorial content, distinctive branding and high-end visual identities where sophistication and clarity are essential, and note its availability as a variable font across six styles plus italics."
+  },
+  {
+    "name": "Fat",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/fat/",
+    "designer": "Gaëtan Baehr, Li Yuxin",
+    "year": null,
+    "category": "display",
+    "subcategory": "ultra-bold display sans",
+    "classification_notes": "A single-weight ultra-black sans designed exclusively for headline use, with extreme stroke thickness and three-dimensional detailing that places it firmly in the display category rather than a general-purpose sans.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fat"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Hiragana",
+      "Katakana"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "ultra-bold",
+      "bilingual",
+      "japanese",
+      "poster",
+      "headline",
+      "pictograms",
+      "expressive"
+    ],
+    "summary": "An ultra-black display sans covering Latin and simplified Japanese Kana, built for posters, album covers and headlines requiring maximum visual weight.",
+    "description": "Designed by Gaëtan Baehr and Li Yuxin, Fat exists at a single extreme weight with three-dimensional detailing, integrated accents and ligatures included to aid usability at large sizes. The family supports both Latin and simplified Japanese Kana, making it usable for bilingual brand work across Latin and Japanese scripts. Arrows, pictograms and emoji round out a glyph set aimed squarely at loud, attention-demanding applications.",
+    "foundry_blurb": "Black Foundry describe Fat as an ultra-bold display sans serif with extreme thickness and commanding presence, designed to capture attention. Three-dimensional details, integrated accents and ligatures improve usability, while Latin and simplified Japanese Kana support enables bilingual typography for cross-cultural companies and brands. Arrows, pictograms and emojis make it suited to headlines, posters and album covers."
+  },
+  {
+    "name": "Finder",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/finder/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Finder is a humanist sans-serif designed with open forms and generous counters for UI legibility across dense screens; its neutral character and cross-script harmony are consistent with humanist sans conventions adapted for multi-script digital environments.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Finder"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Arabic",
+      "Hebrew",
+      "Thai",
+      "Simplified Chinese",
+      "Japanese",
+      "Korean"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "ui",
+      "multi-script",
+      "neutral",
+      "legibility",
+      "digital",
+      "global",
+      "variable"
+    ],
+    "summary": "A neutral, multi-script sans-serif built for user interfaces, covering nine writing systems from Arabic and Hebrew to Thai, CJK and Cyrillic.",
+    "description": "Designed specifically for UI environments where legibility at small sizes is critical, Finder uses open forms, large counters and generous spacing to hold up in dense navigation contexts. The family ships in three weights with a variable font included, keeping the range lean but practical. Its nine-script coverage makes it a rare option for global digital products that need typographic consistency across Latin, CJK, Arabic, Hebrew and Thai in a single typeface.",
+    "foundry_blurb": "Black Foundry describe Finder as a versatile sans-serif crafted for multi-script user interfaces, with open forms, large counters and generous spacing to aid legibility at small sizes on dense screens. Supporting Arabic, Cyrillic, Greek, Hebrew, Latin, Simplified Chinese, Japanese, Korean and Thai, it is positioned as a neutral and adaptable choice for UI, branding and digital platforms worldwide."
+  },
+  {
+    "name": "Galien",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/galien/",
+    "designer": "Black Foundry Designers",
+    "year": null,
+    "category": "serif",
+    "subcategory": "old style serif",
+    "classification_notes": "Galien draws on French Renaissance humanist models, with italics rooted in sixteenth-century Venetian types, placing it firmly in the old style serif tradition with a modern digital interpretation.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Book",
+      "Bold",
+      "Poster"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Galien"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "old-style",
+      "renaissance",
+      "french",
+      "editorial",
+      "body-text",
+      "display",
+      "variable",
+      "venetian"
+    ],
+    "summary": "A French Renaissance-inspired serif with Venetian italic influences, offered in four text weights plus a high-contrast Poster cut and variable font files.",
+    "description": "Rooted in the transition from Blackletter to Humanist scripts, Galien revives the spirit of sixteenth-century French and Venetian type rather than any single historical source. Four upright weights from Light to Bold cover body text, while the Poster cut shifts to higher contrast for display work. The family ships with variable fonts, extensive Latin and Cyrillic coverage, oldstyle figures, fractions, ligatures and a generous set of currency symbols.",
+    "foundry_blurb": "Black Foundry describe Galien as a modern serif inspired by the French Renaissance, blending Old Style models with contemporary digital design. They note it marks the historical shift from Blackletter to Humanist letterforms, with italics drawing on Venetian types of the sixteenth century. The family is tuned for body copy yet works elegantly at display sizes, with eight styles including a high-contrast Poster cut and broad character support across Latin, Cyrillic, numerals, fractions and currencies."
+  },
+  {
+    "name": "Gauthier FY",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/gauthier/",
+    "designer": "Black Foundry Designers",
+    "year": null,
+    "category": "serif",
+    "subcategory": "old style serif",
+    "classification_notes": "A contemporary old style serif with Renaissance roots, influenced by punchcutter Robert Granjon's italic tradition. The pairing of a text family with a monolinear Display Thin subfamily spans both text and display classification, but the core design is firmly old style.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Display Thin"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Gauthier",
+      "Gauthier Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "oldstyle",
+      "renaissance",
+      "editorial",
+      "packaging",
+      "display",
+      "elegant",
+      "variable"
+    ],
+    "summary": "A contemporary old style serif drawing on Renaissance models, with a Granjon-influenced italic and a contrasting monolinear Display Thin for headline use.",
+    "description": "The text family runs across Regular, Medium and Bold with matching italics, drawing on the calligraphic tradition of Robert Granjon for the italic's details. Capitals sit just below the ascender height and a generous x-height supports readability at smaller sizes. The separately sold Gauthier Display Thin departs from the main family with a monolinear stroke, intended to create tonal contrast in editorial layouts, packaging and posters.",
+    "foundry_blurb": "Black Foundry describe Gauthier FY as a contemporary old style serif inspired by Renaissance typefaces, with capitals standing just short of the ascenders and a tall x-height for readability. The refined italic draws on punchcutter Granjon's influence, adding detail and elegance. A monolinear Display Thin style pairs with the text weights to create striking contrasts, and the family is pitched at editorial design, packaging, headlines and posters."
+  },
+  {
+    "name": "Grtsk",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/grtsk/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described as inspired by 19th and 20th century grotesques, blending humanist and rational forms. The superfamily structure, with its range of widths and weights, is characteristic of the grotesque genre adapted for contemporary use.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Zetta",
+      "Exa",
+      "Tera",
+      "Giga",
+      "standard",
+      "Mega"
+    ],
+    "subfamilies": [
+      "Grtsk",
+      "Grtsk Zetta",
+      "Grtsk Exa",
+      "Grtsk Tera",
+      "Grtsk Giga",
+      "Grtsk Mega"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "superfamily",
+      "variable",
+      "multi-width",
+      "humanist",
+      "rational",
+      "print",
+      "digital"
+    ],
+    "summary": "A 126-style grotesque superfamily from Black Foundry spanning seven widths named after metric prefixes, seven weights, and 15-degree slants and back-slants, with a companion variable font.",
+    "description": "Built across seven widths from Zetta (narrowest) to Mega (widest), each width carries seven weights from Thin to Bold, each available in upright, slant and back-slant cuts. The design draws on 19th and 20th century grotesque sources, mixing humanist warmth with rational structure to keep it usable across both expressive and formal contexts. A single variable font consolidates weight, width and slant axes for those working in digital environments.",
+    "foundry_blurb": "Black Foundry describe Grtsk as a sans serif superfamily of 126 fonts plus one variable font, combining weight, width and slant into a versatile system. Seven widths are named after metric prefixes, running from Zetta at the narrow end to Mega at the wide end. The design blends humanist and rational forms drawn from grotesque traditions of the 19th and 20th centuries, intended for contemporary print and digital use."
+  },
+  {
+    "name": "Ilya",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/ilya/",
+    "designer": "Black Foundry Designers",
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Ilya carries soft triangular serifs and rounded forms intended for large-scale display use; its tall ascenders, single-storey 'a' and gentle contours place it firmly in the decorative serif display category rather than a text tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ilya"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "friendly",
+      "rounded",
+      "poster",
+      "signage",
+      "headlines",
+      "logotype"
+    ],
+    "summary": "A single-weight display serif with soft triangular serifs and rounded forms, designed for posters, signage and logotypes.",
+    "description": "Ilya FY pairs soft triangular serifs with rounded letterforms to produce a friendly yet elegant display face. Tall ascenders and graceful descenders give it vertical presence at headline sizes, while a single-storey 'a' and generous capitals add personality. Language coverage spans Latin and Vietnamese with extensive diacritic support, and OpenType features include old-style figures, fractions and tabular numerals.",
+    "foundry_blurb": "Black Foundry describe Ilya FY as a display font family with soft triangular serifs and rounded shapes that give it a friendly, almost gentle look. They note its tall ascenders and graceful descenders add elegance, while a single-storey 'a', generous capitals and subtle details contribute originality. The family is intended for posters, signage, headlines and logotypes, with broad diacritic support for Latin, Vietnamese and Arabic transliterations."
+  },
+  {
+    "name": "Jack",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/jack/",
+    "designer": "Black Foundry Designers",
+    "year": null,
+    "category": "display",
+    "subcategory": "brutalist display",
+    "classification_notes": "A capitals-only display typeface with variable width and corner axes, derived from an experimental wavy tool; its stripped-back, raw letterforms and poster-scale intent place it firmly in the display category with a brutalist character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Jack"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "brutalist",
+      "display",
+      "capitals",
+      "variable",
+      "poster",
+      "editorial",
+      "geometric",
+      "experimental"
+    ],
+    "summary": "A capitals-only variable display typeface born from an experimental wavy drawing tool, offering width and corner axes for wave-like letterform distortions.",
+    "description": "Born from Tavern, an experimental wavy tool by Gaëtan Baehr, Jack strips letterforms to simplified, raw capitals with a width variation axis and four corner axes that allow precise control over curvature. The result can range from clean, bold geometry to rippling, wave-distorted forms suited to posters and large-scale branding. A single Regular style is available, with the variable axes doing the work of differentiation.",
+    "foundry_blurb": "Black Foundry describe Jack as a capitals-only typeface rooted in brutalist design, combining bold simplified forms with a width axis and four corner axes to enable unexpected wave effects and striking visuals. They position it for posters, branding and editorial, noting that it was born from Tavern, the experimental wavy tool by Gaëtan Baehr."
+  },
+  {
+    "name": "Kefa III",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/kefa-iii/",
+    "designer": "Black Foundry Designers",
+    "year": null,
+    "category": "slab",
+    "subcategory": "humanist slab serif",
+    "classification_notes": "Kefa III blends slab serif structure with Latin calligraphic influences and Ethiopic script heritage, placing it firmly in the humanist slab category where warm, calligraphic forms underpin a sturdy bracketed serif construction.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kefa III"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Ethiopic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "humanist",
+      "ethiopic",
+      "multilingual",
+      "system-font",
+      "variable",
+      "text",
+      "calligraphic"
+    ],
+    "summary": "A third-generation update to Apple's Kefa system typeface, extended by Black Foundry to cover Ethiopic script alongside a broad Latin character set including Vietnamese.",
+    "description": "Originally an Apple system typeface, this third version has been rebuilt to Black Foundry's standard glyph set, adding Vietnamese, a wide range of currency symbols, fractions, arrows and case-sensitive punctuation. Four weights from Light to Extra Bold come with matching italics, and the family ships with variable font files for weight interpolation. The Ethiopic coverage is extensive, supporting Amharic alongside Central and Southern Ethiopian scripts, making it one of the few text-weight slab serifs that bridges Latin calligraphic tradition with a fully considered Ethiopic character set.",
+    "foundry_blurb": "Black Foundry describe Kefa III as an elegantly modern blend of slab serif origins, Latin calligraphic tradition and Ethiopic heritage. Crisp curves, a tall x-height and narrow proportions are said to ensure clarity in dense text and display settings alike. The family is available in four weights with italics and as a variable font, and has been brought up to Black Foundry's standard glyph set with Vietnamese, currencies, fractions, arrows and case-sensitive punctuation."
+  },
+  {
+    "name": "Marianina FY",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/marianina/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A versatile sans serif with ink traps and 20th-century typographic references, spanning four widths and six weights; the ink trap detailing and warmth of letterform point toward a humanist sans classification.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Regular",
+      "Semi Extended",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Marianina FY",
+      "Marianina FY Condensed",
+      "Marianina FY Semi Extended",
+      "Marianina FY Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "ink-traps",
+      "variable",
+      "editorial",
+      "branding",
+      "ui",
+      "multi-width",
+      "legibility"
+    ],
+    "summary": "A sans serif with graduated ink traps across four widths and six weights, offered as two variable fonts covering 48 static styles.",
+    "description": "Ink traps that remain subtle at lighter weights and open up noticeably in heavier ones give Marianina FY a quiet personality that shifts with context. The family spans Condensed through Extended, each in six weights from Thin to Bold with matching italics, making it workable across editorial, branding and screen UI without switching families. Two variable fonts cover the full width and weight axes for environments that can use them.",
+    "foundry_blurb": "Black Foundry describe Marianina FY as a versatile sans serif whose ink traps adapt across the weight range, becoming more pronounced as weights increase to aid legibility and add character. Inspired by 20th-century typography and suited to text and display sizes alike, it is available in two variable fonts or as 48 static styles across four widths and six weights with matching italics."
+  },
+  {
+    "name": "Minorca",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/minorca/",
+    "designer": "Black Foundry Designers",
+    "year": null,
+    "category": "slab",
+    "subcategory": "slab serif",
+    "classification_notes": "A slab serif with narrow proportions and short, round or wavy serifs that depart from conventional slab conventions, drawing on engraved letterforms observed on the island of Minorca.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Minorca",
+      "Minorca Wavy"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "narrow",
+      "variable",
+      "editorial",
+      "display",
+      "marine",
+      "engraved",
+      "branding"
+    ],
+    "summary": "A narrow slab serif drawn from engraved capitals spotted along Mahon port in Minorca, with short round serifs and an optional wavy variant available via a variable font axis.",
+    "description": "The letterforms retain the character of Mediterranean port signage, with compact proportions suited to editorial and display use alike. A Wavy variant runs parallel to each weight, offering a more expressive option for packaging, film titles and branding. The family ships as a variable font and includes small capitals, marine-themed symbols and an anchor glyph.",
+    "foundry_blurb": "Black Foundry describe Minorca as a non-traditional slab serif with narrow proportions, inspired by the atypical capitals spotted along the Mahon port of Minorca. The playful serifs are short and round or wavy, and since the family is also available as a variable font, designers have options. With small capitals, arrows and marine-like elements, it brings warmth to text and surprise to display, adding character to editorial, branding, film titles and packaging."
+  },
+  {
+    "name": "Numero 02",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/numero-02/",
+    "designer": "Black Foundry Designers",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Inspired by Gothic №2 from the Keystone Type Foundry, Numero 02 follows the American 19th-century grotesque tradition of utilitarian, unornamented sans serifs with simple geometric forms.",
+    "weights": [
+      "Hairline",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Poster"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Numero 02"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "american-gothic",
+      "19th-century",
+      "variable",
+      "editorial",
+      "branding",
+      "stylistic-alternates",
+      "utilitarian"
+    ],
+    "summary": "A grotesque sans drawn from the American Gothic tradition, reviving the spirit of Keystone Type Foundry's Gothic №2 with a range of eight weights and a variable font.",
+    "description": "Rooted in the utilitarian gothics of 19th-century America, it takes the Keystone Type Foundry's Gothic №2 as its departure point and updates it with a suite of twelve stylistic sets covering alternate forms for characters including 'a', 'g', 'R', 'Q' and 't'. Eight static weights run from Hairline to Poster, with a variable font included free alongside any purchase. The family is aimed at editorial, branding and UI work where a clean, historically grounded grotesque is needed.",
+    "foundry_blurb": "Black Foundry describe Numero 02 as a sans serif family inspired by the Gothic №2 from the Keystone Type Foundry (1888–1917), evoking the utilitarian 19th-century gothics that stood apart from the ornate serifed faces of their era. Stylistic alternates are included to let users integrate notable design elements with a contemporary feel, and the family is positioned as a versatile tool for graphic designers across editorial, branding and user interface applications."
+  },
+  {
+    "name": "Raconteurs",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/raconteurs/",
+    "designer": "Black Foundry Designers",
+    "year": null,
+    "category": "script",
+    "subcategory": "display script",
+    "classification_notes": "A display script with unconventional stroke contrast and continuous one-stroke letterform construction, placing it firmly in the decorative script category rather than a calligraphic or handwriting subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Raconteurs"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "display",
+      "packaging",
+      "editorial",
+      "elegant",
+      "one-stroke",
+      "decorative",
+      "branding"
+    ],
+    "summary": "An elegant display script built on a one-stroke letterform logic, producing continuous flowing connections with an unconventional contrast between thick strokes and fine linking elements.",
+    "description": "The design centres on letterforms drawn as single unbroken strokes, where full-bodied stems meet gossamer connecting lines to create dense, lace-like textures at display sizes. Available currently in a single Regular style, with a flourish set and monolinear version planned. Suited to packaging, book covers, posters and branding where a distinctive hand-drawn quality is needed without resorting to generic calligraphic convention.",
+    "foundry_blurb": "Black Foundry describe Raconteurs as an elegant display script defined by unconventional contrast between full-bodied strokes and delicate connections, creating textures they liken to lace and spaghetti. The one-stroke execution produces a continuous flow where each letter links to the next. Currently available in a single style, with a flourish set and monolinear version forthcoming, and intended for packaging, magazines, book covers, posters and branding."
+  },
+  {
+    "name": "Respublika",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/respublika/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The foundry explicitly describes Respublika as a humanist sans serif; its broad Latin coverage, text-friendly proportions and organic stroke variation are consistent with the humanist sans tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Respublika"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "sans-serif",
+      "variable",
+      "text",
+      "editorial",
+      "publishing",
+      "versatile"
+    ],
+    "summary": "A humanist sans serif family spanning five weights with matching italics and two variable fonts, suited to editorial and publishing work.",
+    "description": "Respublika covers five weights from Light to Black, each with a matching italic, and ships with variable font versions included at no extra cost. The broad extended Latin character set with fractions, superscripts and a range of currency symbols makes it a practical choice for multilingual editorial and digital publishing. The humanist skeleton keeps text comfortable at small sizes while the weight range gives sufficient contrast for display use.",
+    "foundry_blurb": "Black Foundry describe Respublika as a versatile humanist sans serif that combines readability with a modern aesthetic, performing well in both text and display settings. They highlight its typographic features as a toolkit for layout diversity across magazines, books, websites and bulletins, with availability from Light to Black with matching italics and two variable fonts for thorough designer control."
+  },
+  {
+    "name": "Rowton",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/rowton/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Rowton is a humanist sans with roots in the Eric Gill tradition, combining upright sans, italic sans and seriffed stencil weights within one family. Its organic letterforms and expressive italics place it firmly in the humanist sans-serif category.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rowton"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "gill-inspired",
+      "editorial",
+      "branding",
+      "stencil",
+      "variable",
+      "expressive"
+    ],
+    "summary": "A humanist sans family drawing on the Eric Gill tradition, pairing upright and italic sans weights with seriffed stencil cuts across six weights.",
+    "description": "Rowton is organised into three formal categories: upright sans, italic sans and seriffed stencil weights, all sharing the lively character of Gill's humanist approach. Six weights run from Hairline to Black with matching italics, available as static fonts or two variable fonts covering the full weight range. The stencil cuts add a decorative register that extends the family's usefulness across editorial and branding contexts.",
+    "foundry_blurb": "Black Foundry describe Rowton as an exploration of humanist type design across three categories: upright sans, italic sans and seriffed stencil weights. Inspired by Eric Gill, it builds on his work while preserving expressive character, offering six weights from Hairline to Black with italics, available as static fonts or two variable fonts, suited to editorial, branding and more."
+  },
+  {
+    "name": "Rowton Stencil",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/rowton-stencil/",
+    "designer": "Black Foundry Designers",
+    "year": null,
+    "category": "display",
+    "subcategory": "stencil",
+    "classification_notes": "A stencil typeface with a range of weights from Hairline to Black and a variable font axis, designed primarily for display and expressive use rather than continuous text setting.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rowton Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "display",
+      "variable",
+      "expressive",
+      "latin-extended",
+      "geometric"
+    ],
+    "summary": "A six-weight stencil family from Black Foundry with a variable font included, covering an extensive Latin character set across a wide weight range.",
+    "description": "Running from Hairline through to Black, Rowton Stencil spans a substantial tonal range for a stencil face, with a variable font axis bundled at no extra cost. The Latin coverage is broad, reaching Vietnamese, Maltese and a range of Central European languages, and OpenType features include old-style figures, fractions, superscript and subscript. Best suited to headline, signage and editorial contexts where the stencil cut adds character without sacrificing legibility.",
+    "foundry_blurb": "Black Foundry offer Rowton Stencil as a family of six static styles plus a variable font, designed by the Black Foundry team. The family supports an extensive list of Latin-based languages including Vietnamese and Maltese, and includes a full suite of OpenType features such as ligatures, fractions, old-style and tabular numerals, and stylistic sets."
+  },
+  {
+    "name": "Squil",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/squil/",
+    "designer": "Black Foundry Designers",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Squil is a humanist sans-serif shaped by an imaginary handwriting tool, with pinched stems, a slightly angled stress axis and soft curves that reference calligraphic origins. The rounded subfamily further reinforces its warm, organic character.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Squil",
+      "Squil Rounded"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "warm",
+      "rounded",
+      "variable",
+      "display",
+      "body",
+      "friendly",
+      "versatile"
+    ],
+    "summary": "A humanist sans with pinched stems and a calligraphic axis, available in crisp and rounded styles across five weights with a variable font included.",
+    "description": "Squil draws on the qualities of an imaginary handwriting tool to produce a humanist sans with pinched stems, softly angled stress and gently curved terminals. The family splits into a standard and a rounded subfamily, each running from Light to Extra Bold, with a variable font offering continuous control over terminal style from straight to rounded. It handles both headline and body text confidently without the stiffness typical of geometric or grotesque designs.",
+    "foundry_blurb": "Black Foundry describe Squil as a warm and joyful sans serif shaped by an imaginary handwriting tool, giving it humanist qualities with a gentle flair. Pinched stems, a slightly angled axis and soft curves add uniqueness to the design. Available in crisp and round styles across weights from Light to ExtraBold, or as a variable font, its terminals can be adjusted from straight to rounded for increased typographic control."
+  },
+  {
+    "name": "Tonos",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/tonos/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as having calligraphic heritage giving it a warm, humanistic quality; designed for UI and HMI contexts with broad multi-script support, placing it firmly in the humanist sans tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Tonos",
+      "Tonos Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Arabic",
+      "Cyrillic",
+      "Greek",
+      "Hebrew",
+      "Thai"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "ui",
+      "hmi",
+      "multilingual",
+      "variable",
+      "interface",
+      "multi-script",
+      "condensed"
+    ],
+    "summary": "A humanist sans family built for UI and HMI use, covering Arabic, Cyrillic, Greek, Hebrew, Latin and Thai with calligraphic warmth consistent across all scripts.",
+    "description": "Drawn with a calligraphic heritage that carries a warm, readable quality across six scripts, Tonos is designed specifically for interface and human-machine interface typography. The family runs from Light to Bold with matching italics, a condensed width, and monospaced styles for technical contexts. It ships as a variable font with weight and width axes, making it well suited to responsive UI environments where a single file must cover a wide range of typographic needs.",
+    "foundry_blurb": "Black Foundry describe Tonos as a sans serif family designed for UI and HMI contexts, with support for Arabic, Cyrillic, Greek, Hebrew, Latin and Thai. Its calligraphic heritage gives it a warm, humanistic quality that carries across all scripts for consistency and legibility. The family is available in weights from Light to Bold with matching italics, two widths, and monospaced styles, and also as a variable font with weight and width axes."
+  },
+  {
+    "name": "Tonos Mono",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/tonos-mono/",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "humanist mono",
+    "classification_notes": "A monospaced typeface with calligraphic, humanistic roots designed explicitly for UI and HMI contexts, covering Latin, Cyrillic and Greek with consistent warmth across all scripts.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tonos Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "humanist",
+      "ui",
+      "hmi",
+      "multilingual",
+      "variable",
+      "interface",
+      "calligraphic"
+    ],
+    "summary": "A humanist monospaced typeface with calligraphic roots, covering Latin, Cyrillic and Greek across five weights with true italics and variable font support.",
+    "description": "Designed as the monospaced companion to Tonos, this family is built around UI and HMI applications where legibility at small sizes and consistent rhythm across scripts matter. Its calligraphic origins give each script a warmth that avoids the coldness typical of fixed-width faces. Five weights from Light to Bold ship with matching italics and variable fonts, making it practical for coded interfaces, dashboards and multilingual digital products.",
+    "foundry_blurb": "Black Foundry describe Tonos Mono as the monospace counterpart of Tonos, developed over years for UI and HMI contexts. Its glyph design has calligraphic roots that give it a warm, humanistic quality carried consistently across Latin, Cyrillic and Greek for harmony and legibility. Available in weights from Light to Bold with true italics, it is presented as both sturdy and engaging, combining functionality, style and broad language support for modern interface typography."
+  },
+  {
+    "name": "Tosh",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/tosh/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Tosh is explicitly described as blending geometric forms with an organic spirit, with Tosh A leaning geometric and Tosh B taking a more constructed approach, firmly placing it in the geometric sans category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tosh A",
+      "Tosh B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Arabic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "multilingual",
+      "variable",
+      "arabic",
+      "cyrillic",
+      "modern",
+      "constructed"
+    ],
+    "summary": "A dual-family geometric sans spanning Latin, Cyrillic and Arabic, split between a more purely geometric cut and a constructed companion.",
+    "description": "Tosh comes in two related families: Tosh A, which follows a stricter geometric logic, and Tosh B, which takes a more constructed approach while sharing the same underlying spirit. Both run from Thin to Black across six static weights and are also available as variable fonts. The family's three-script coverage across Latin, Cyrillic and Arabic is designed to keep a consistent visual voice across writing systems.",
+    "foundry_blurb": "Black Foundry describe Tosh as a sans serif family that blends geometric forms with an organic spirit, expressed through two subfamilies: Tosh A, which leans geometric, and Tosh B, which takes a more constructed approach. Both are positioned as unmistakably modern, spanning Thin to Black with variable font support and covering Latin, Cyrillic and Arabic to enable a unified visual language across scripts."
+  },
+  {
+    "name": "Vanille",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/vanille/",
+    "designer": "Black Foundry Designers",
+    "year": null,
+    "category": "script",
+    "subcategory": "casual upright script",
+    "classification_notes": "Classified as a script due to its brush-and-ink lettering origins and hand-lettered sign painting influence; described as an upright casual script rather than a connected or formal cursive.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vanille"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "casual",
+      "brush",
+      "handlettered",
+      "display",
+      "packaging",
+      "playful"
+    ],
+    "summary": "A single-weight upright casual script drawn from brush lettering and sign painting traditions, aimed at food packaging, children's publishing and event print.",
+    "description": "Vanille FY sits in the casual script genre, blending the loose energy of brush and ink with the snappier rhythm of hand-lettered sign painting. It is offered as a single Regular style with broad Latin Extended coverage across 27 languages. The upright stance and bouncy letterforms make it well suited to packaging, event posters and children's book covers where a crafted, informal warmth is needed.",
+    "foundry_blurb": "Black Foundry describe Vanille FY as a casual upright script full of bounce and charm, combining the smooth flow of brush and ink with the rhythm of hand-lettered sign painting. They position it as playfully refined, with an upbeat energy suited to children's book covers, event posters, party invitations and food packaging."
+  },
+  {
+    "name": "Vesterbro",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/vesterbro/",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "A high-contrast serif with short serifs and supple curves, spanning from an expressive Poster weight down to text-optimised styles, placing it firmly in the contemporary serif category rather than a strict historical classification.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Poster"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vesterbro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic",
+      "Arabic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "contemporary",
+      "variable",
+      "multilingual",
+      "editorial",
+      "branding",
+      "high-contrast",
+      "expressive"
+    ],
+    "summary": "A high-contrast serif with warm curves and short serifs, running from text-friendly weights through to an expressive Poster cut, with variable font support and coverage across Latin, Greek, Cyrillic and Arabic.",
+    "description": "Named after a Copenhagen district, it draws on historical serif influences while keeping a contemporary warmth in its supple curves and short serifs. The family spans six weights from Light to Poster, each with an italic, and is sold as both static fonts and variable fonts covering a continuous weight axis. Four-script support makes it practical for multilingual branding and editorial projects.",
+    "foundry_blurb": "Black Foundry describe Vesterbro as an expressive serif named after the Copenhagen district where the old Western Gate once stood. They say it blends historical influences with contemporary warmth, ranging from a high-contrast Poster weight to confident Text styles with supple curves and short serifs. Offered in both static and variable formats, it supports Latin, Greek, Cyrillic and Arabic, and is pitched at branding, editorial and digital storytelling."
+  },
+  {
+    "name": "Vesterbro Sans",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/vesterbro-sans/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described explicitly as having a humanist tone, with a two-storey g, large counters and angled terminals that differentiate it from purely geometric designs.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Poster"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Poster"
+    ],
+    "subfamilies": [
+      "Vesterbro Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "sans-serif",
+      "branding",
+      "editorial",
+      "variable",
+      "multilingual",
+      "geometric-influenced",
+      "expressive"
+    ],
+    "summary": "A humanist sans with a two-storey g, large counters and angled terminals, available in six weights plus a tightly spaced Poster cut, with full variable font support across Latin, Greek and Cyrillic.",
+    "description": "Built as an extension of the Vesterbro concept, this family sits between geometric structure and humanist warmth, with details like angled terminals and generous counters giving it a readable, characterful texture. Six static weights from Light to Extra Bold are joined by a tightly spaced Poster style, all with matching italics, plus two variable fonts covering the full range. Latin, Greek and Cyrillic support makes it viable for international branding and editorial projects.",
+    "foundry_blurb": "Black Foundry describe Vesterbro Sans as balancing versatility with expressive detail, noting that features such as a two-storey g, large counters and angled terminals give it a humanist tone that sets it apart from run-of-the-mill geometric designs. Available in Light to Extra Bold plus a tightly spaced Poster style, all supporting Latin, Greek and Cyrillic, it is positioned for branding, editorial and global design work as an extension of the Vesterbro concept."
+  },
+  {
+    "name": "Vicomte FY",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/vicomte/",
+    "designer": "Black Foundry Designers",
+    "year": null,
+    "category": "script",
+    "subcategory": "copperplate script",
+    "classification_notes": "Vicomte FY is a script typeface rooted in Engrosser's script (Copperplate), a pointed-pen tradition emphasising inscribed, formal qualities over casual handwriting. Its alternating curves and angles, narrow proportions and tight spacing place it firmly in the formal script category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vicomte FY"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "copperplate",
+      "engrossers",
+      "formal",
+      "calligraphic",
+      "pointed-pen",
+      "wedding",
+      "latin"
+    ],
+    "summary": "A single-weight formal script drawn from the Engrosser's script tradition, with narrow proportions and tight spacing that produce a dark, upright texture.",
+    "description": "Rooted in the American Copperplate lettering tradition, Vicomte FY departs from loose handwriting in favour of inscribed, engraver-like precision. Alternating curves and angular strokes, compressed proportions and close-set spacing build a dense, striking page colour suited to certificates, stationery and formal branding. Stylistic sets and contextual alternates give flexibility within what is, at present, a single-style family.",
+    "foundry_blurb": "Black Foundry describe Vicomte FY as a script inspired by Engrosser's script, the American lettering style commonly known as Copperplate, where letters were built stroke by stroke with a pointed pen to echo the burin of an engraver. They note that it moves away from handwriting toward inscribed qualities, with alternating curves and angles, narrow proportions and tight spacing creating a dark, striking texture that conveys strength while retaining the refinement of formal scripts."
+  },
+  {
+    "name": "Yocco",
+    "foundry": "Black Foundry",
+    "url": "https://black-foundry.com/fonts/yocco/",
+    "designer": "Black Foundry Designers",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Yocco is explicitly positioned as a geometric sans serif, with circular forms, minimal contrast and closed terminals that reinforce its geometric character throughout.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Yocco"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "digital",
+      "interface",
+      "minimal",
+      "variable",
+      "clean",
+      "ui"
+    ],
+    "summary": "A geometric sans with closed terminals and minimal contrast, available in five weights plus a Bright variant for each, with a variable font included.",
+    "description": "Closed terminals on letters such as a, c, e and s give the design a tighter, more considered geometry than most workhorse grotesques, and an alternate single-storey a reinforces that character. The family ships in ten static styles across five weights, each paired with a Bright variant, alongside a variable font offered free with the family purchase. Minimal stroke contrast keeps the rhythm even across body copy and interface text alike.",
+    "foundry_blurb": "Black Foundry describe Yocco as taking the geometric sans serif to the max while balancing form and readability. Closed terminals and an alternate single-storey a give it a distinctive geometric look, and minimal contrast ensures sharp, readable rhythm suited to both digital interfaces and print. It is available as a variable font alongside ten static styles."
+  }
+]

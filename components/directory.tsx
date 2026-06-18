@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Checkbox } from "@/components/ui/checkbox";
 import { Input } from "@/components/ui/input";
@@ -244,7 +245,10 @@ export function Directory({
       <section className="min-w-0 flex-1">
         <div className="mb-4 flex items-center justify-between gap-4">
           <p className="text-sm text-muted-foreground">
-            Showing {filtered.length} of {typefaces.length} typefaces
+            Showing {filtered.length} of {typefaces.length} typefaces from{" "}
+            <Link href="/foundries" className="underline underline-offset-2 hover:text-foreground transition-colors">
+              {new Set(filtered.map((t) => t.foundry)).size} type foundries
+            </Link>
           </p>
           <Select value={sort} onValueChange={(v) => setSort(v as SortKey)}>
             <SelectTrigger className="w-44" aria-label="Sort typefaces">

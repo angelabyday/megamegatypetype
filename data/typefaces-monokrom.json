@@ -1,0 +1,765 @@
+[
+  {
+    "name": "Avgarde",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/avgarde",
+    "designer": "Frode Helland",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A single-cut grotesque conceived as a deliberate distortion of Helvetica-style letterforms, channelling the irregularities of an untrained sign painter rather than any formal grotesque tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Avgarde"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "expressive",
+      "irregular",
+      "signpainting",
+      "single-weight",
+      "quirky",
+      "display",
+      "novelty"
+    ],
+    "summary": "A single-cut grotesque by Frode Helland, deliberately warped to mimic the wobbly hand of an unqualified sign painter attempting large-scale Helvetica-style lettering.",
+    "description": "Sparked by a photograph of a lopsided station sign at Boston's Boylston light rail stop, Helland reconstructed an entire typeface from just three droopy characters and a fragment of an arch before discovering what the original sign actually looked like. The result is a controlled collapse of grotesque convention: uneven proportions, erratic spacing propped up by over 1,700 lines of triplet kerning, and a general air of cheerful incompetence. It has one weight, a limited character set, and a personality that most type families spend decades trying to avoid.",
+    "foundry_blurb": "Monokrom describe Avgarde as a grotesk born from a photograph of an overconfident sign painter's botched attempt at large-scale Helvetica-style letters at the Boylston station in Boston. Designer Frode Helland built the typeface from a tiny snippet of three droopy characters, composing what they call a glorious cacophony held together with duct tape and baling wire, underpinned by 1,700 lines of triplet kerning. The name is an alternate spelling of the Norwegian avgårde, meaning roughly: let's go."
+  },
+  {
+    "name": "Condensed",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/condensed",
+    "designer": "Frode Helland",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "condensed display",
+    "classification_notes": "A family united by spatial constraint rather than formal similarity, spanning condensed grotesque, slab, and hybrid variants designed for high-impact display and poster use. The display category best captures the family's expressive, attention-grabbing intent across its diverse subfamilies.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Condensed Grotesk",
+      "Condensed Grotesk Italic",
+      "Condensed Grotesk Reclined",
+      "Condensed Garland",
+      "Condensed Antique",
+      "Condensed Alcubierre"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "display",
+      "grotesque",
+      "slab",
+      "poster",
+      "19th-century",
+      "revival",
+      "expressive"
+    ],
+    "summary": "A family of six condensed display faces united by spatial constraint rather than formal resemblance, spanning grotesque, slab and hybrid constructions drawn from 19th-century printing traditions.",
+    "description": "Designed by Frode Helland and released between 2023 and 2025, the family treats limited horizontal space as a generative condition rather than a restriction. Condensed Grotesk reworks the blue-collar worker-printer's staple in three variants with sharp interior corners and open counters; Condensed Antique revives the straight-lined Lettres Egyptiennes Allongées from Laurent et Deberny's ca. 1830–39 specimen; Condensed Alcubierre rotates a compact grotesk construction onto its side for an ultra-extended slab-like form; and Condensed Garland amplifies late 19th-century grotesque hallmarks with diagonally sliced terminals and protruding spurs. The result is an unusually coherent family despite its formal variety.",
+    "foundry_blurb": "Monokrom describe Condensed as an ongoing exploration of display typography defined by spatial constraints rather than formal resemblance, tracing the family's origins to the surge of attention-grabbing type driven by 19th-century industrial advertising needs. Each subfamily takes a distinct approach to the narrow format, from the bold, aggressively stylised Condensed Grotesk to the straight-lined revival of Condensed Antique and the gravity-defying construction of Condensed Alcubierre."
+  },
+  {
+    "name": "Diploë",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/diploe",
+    "designer": "Frode Helland, Kostas Bartsokas",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Diploë is explicitly described as a lineal humanist, borrowing structure and proportions from Renaissance writing, with a left-leaning contrast axis and high-sprouting arches characteristic of humanist sans serifs.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Regular",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Diploë Narrow",
+      "Diploë",
+      "Diploë Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "variable",
+      "sans-serif",
+      "editorial",
+      "text",
+      "wide-range",
+      "multi-width",
+      "renaissance-influenced"
+    ],
+    "summary": "A variable humanist sans by Frode Helland and Kostas Bartsokas, spanning three widths and seven weights with matching italics for a total of forty-two styles.",
+    "description": "Conceived as a variable spectrum, the family draws its structure from Renaissance writing, with arches that spout high from the stem and a left-leaning contrast axis tempered by near-horizontal arch growth and symmetrical thick-thin distribution. Three named widths, Narrow, Regular and Wide, each run from Extralight to Black with italics, allowing precise control of ink density across narrow columns and long-form text alike. The extreme ends of the spectrum also lend themselves to graphic and animated applications where dramatic width contrast is needed.",
+    "foundry_blurb": "Monokrom describe Diploë as a late rendition of the humanist sans genre, conceived as a variable spectrum from narrow to wide and light to black, covering roman, italic and intermediate postures. Designed by Frode Helland and Kostas Bartsokas and released in August 2024, it borrows its structure and proportions from Renaissance writing, with abrupt stem-to-branch transitions and horizontal directionality. The family is offered in OTF, WOFF and WOFF2 formats with active support for over 200 languages."
+  },
+  {
+    "name": "R-I-B-BI",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/r-i-b-bi",
+    "designer": "Frode Helland",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "experimental",
+    "classification_notes": "R-I-B-BI is a conceptual display family that deliberately recreates typographic workarounds from the analog-to-digital transition era, including typewriter simulation, faux bolds and rotated sorts, placing it firmly in experimental display territory rather than any conventional classification.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "R-I-B-BI Typewriter",
+      "R-I-B-BI"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "typewriter",
+      "historical",
+      "display",
+      "conceptual",
+      "opentype",
+      "analog-to-digital",
+      "retro"
+    ],
+    "summary": "A four-style family by Frode Helland that reconstructs the typographic workarounds used during the analog-to-digital transition, from double-struck bolds to rotated sorts and early ASCII art.",
+    "description": "Split into two subfamilies, R-I-B-BI Typewriter and R-I-B-BI, the family deploys the canonical Regular, Italic, Bold and Bold Italic across both, each expanded with experimental OpenType functionality. The concept draws on real historical hacks: manuscript touch-ups, mathematical blackboard bolds, underscores used as rules, and faux digital synthesis, treating constraint and approximation as a design method rather than a limitation. Released in 2025 with animation tooling by Wim Wepster, it sits at the intersection of type history and conceptual practice.",
+    "foundry_blurb": "Monokrom describe R-I-B-BI as a nuclear font family that composes Regular, Italic, Bold and Bold Italic on each side of the digital divide, using the mechanical limitations and digital manipulations of a bygone era. The family explores typographic approximation, pulling the levers of early modern typesetting technologies and revelling in the hacks and workarounds that shaped contemporary typography."
+  },
+  {
+    "name": "Motorik",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/motorik",
+    "designer": "Frode Helland, Inga Plönnigs, Wei Huang",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Motorik is explicitly positioned as a neo-grotesque, tracing its lineage through Walter Käch and Adrian Frutiger's Univers, characterised by systematic consistency, small apertures, mirror symmetry and regularised widths across all styles.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Motorik"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "systematic",
+      "modernist",
+      "swiss",
+      "geometric",
+      "editorial",
+      "neutral"
+    ],
+    "summary": "A neo-grotesque from Monokrom rooted in the systematic principles of Käch and Frutiger, built around shared vertical metrics, regular weight intervals and slanted romans that match their upright set widths exactly.",
+    "description": "Designed by Frode Helland, Inga Plönnigs and Wei Huang, Motorik draws its logic from the Swiss modernist tradition that produced Univers, prioritising systematic consistency over expressive idiosyncrasy. Small apertures, mirror symmetry and regularised widths give the family a closed, static construction that holds across five weights and matching italics. The foundry frames the project as a revisitation of the mature modernist sans-serif and the cultural moment of its conception and swift ideological collapse.",
+    "foundry_blurb": "Monokrom describe Motorik as a comprehensive neo-grotesque that gravitates toward systematic consistency and alignments, with shared vertical metrics across all styles, weights distributed at regular intervals, and slanted romans that match exactly the set width of their upright counterparts. They trace its intellectual lineage to Walter Käch's 1949 compendium and his student Adrian Frutiger, whose Univers first fully realised these systematic principles in a type family."
+  },
+  {
+    "name": "Nordvest",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/nordvest",
+    "designer": "Nina Stössinger",
+    "year": 2016,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Nordvest reverses conventional thick-thin stroke contrast by emphasising horizontal direction over vertical, placing it in a distinctive humanist serif tradition that subverts classical models.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nordvest"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "humanist",
+      "text",
+      "horizontal-stress",
+      "workhorse",
+      "editorial",
+      "award-winning"
+    ],
+    "summary": "A serif family by Nina Stössinger that inverts conventional stroke contrast, stressing the horizontal rather than the vertical axis across four weights and eight styles.",
+    "description": "Designed by Nina Stössinger and released through Monokrom in 2016, Nordvest reverses the traditional thick-thin order by emphasising horizontal stroke direction, producing a texture that feels quietly unconventional in running text. Heavier weights carry a friendly, open quality while lighter styles settle into dependable workhorse territory for longer-form setting. The family was recognised by Typographica, TDC, CommArts, FontShop and Print Magazine on its release.",
+    "foundry_blurb": "Monokrom describe Nordvest as a versatile type family in four weights and eight styles that emphasises the horizontal direction of the line, reversing the traditional order of thick and thins. They note it takes on a friendly, approachable appearance in heavier weights, while lighter text styles carry all the marks of a workhorse text face. The release was accompanied by the Nordvest Tour, a travelogue published from the Faroe Islands."
+  },
+  {
+    "name": "Dewey Decimal",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/dewey-decimal",
+    "designer": "Frode Helland",
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "ionic serif",
+    "classification_notes": "Rooted in the Neo-classical Didone tradition via Excelsior and its low-contrast Ionic/Clarendon interpretations, adapted through a proportional typewriter source (Friden Documentary) with large x-height, open counters and wide apertures.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dewey Decimal"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "ionic",
+      "typewriter-origin",
+      "newspaper",
+      "legibility",
+      "editorial",
+      "neo-classical",
+      "historical-revival"
+    ],
+    "summary": "A six-style family derived from the Friden Justowriter's Documentary typeface, tracing a lineage through Excelsior back to nineteenth-century Ionic serifs.",
+    "description": "Frode Helland draws on Documentary, a proportional typewriter font for the Friden Justowriter, itself descended from Chauncey Griffith's 1931 Excelsior and its low-contrast Didone tradition. The family runs across three weights with matching italics, preserving Documentary's characteristic open counters and the soaring roof of the lowercase 'a' while bringing contemporary detailing and technical scope. Vietnamese is included alongside Monokrom's standard character set, extending coverage to over 200 languages.",
+    "foundry_blurb": "Monokrom describe Dewey Decimal as a contemporary reimagining of Documentary, a proportional typewriter style for the Friden Justowriter teleprinter. They note its large x-height and unfurling enclosed spaces produce wide apertures within a self-contained Neo-classical construction, developed by Frode Helland into a full six-member family with Vietnamese language support and released in 2023."
+  },
+  {
+    "name": "Vestmar",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/vestmar",
+    "designer": "Sindre Bremnes",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Vestmar draws from engineered and rational modernist letterforms via DIN and Frutiger references, but introduces organic, reverse-contrast tendencies and open apertures that align it with humanist sans rather than pure geometric or grotesque traditions.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Normal",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vestmar"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "reverse-contrast",
+      "engineered",
+      "organic",
+      "editorial",
+      "norwegian",
+      "modernist",
+      "distinctive"
+    ],
+    "summary": "A humanist sans by Sindre Bremnes that fuses engineered rationalism with subtle reverse-contrast inflections drawn from automotive design and Norwegian road sign typography.",
+    "description": "Vestmar takes the skeletal logic of DIN and Frutiger's engineering types and pushes it somewhere unexpected: bulbous forms that swell inwards, producing thick strokes where thin ones are conventional and asymmetry where symmetry is assumed. Influences range from Evert Bloemsma and Roger Excoffon's reverse-contrast experiments to Walter Becchia's automotive bodywork, all filtered through a restrained Nordic sensibility. Seven weights from Thin to Black, each with an italic, give the family broad range for editorial and identity work without ever raising its voice.",
+    "foundry_blurb": "Monokrom describe Vestmar as a typeface that draws stability from rational modernist letterforms while introducing an unexpected organic dynamism through generous openings and horizontal terminals. Its bulbous shapes inflate like a balloon inside a container, creating thick lines where thin are expected. Key influences include Bloemsma and Excoffon's reverse-contrast experiments, the 1965 Norwegian road sign alphabet Trafikkalfabetet, Frutiger's engineering types, and Italian-French car designer Walter Becchia. Named after the southwestern region of Telemark in Norway, it was designed by Sindre Bremnes and released in 2020."
+  },
+  {
+    "name": "Viksjø",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/viksjoe",
+    "designer": "Frode Helland",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "brutalist display",
+    "classification_notes": "Viksjø draws explicitly on Brutalist architectural principles, translating the raw, uncompromising aesthetic of concrete construction into letterforms. Its single weight and activist origin place it firmly in the display category rather than as a workhorse text face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Viksjø"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "brutalist",
+      "architectural",
+      "activist",
+      "display",
+      "nordic",
+      "modernist",
+      "oblique",
+      "concrete"
+    ],
+    "summary": "A single-weight display face by Frode Helland, conceived as a typographic protest against the demolition of architect Erling Viksjø's Y-building in Oslo.",
+    "description": "Frode Helland translated the ethical principles of Brutalist architecture into letterforms, originally casting the typeface in raw concrete for an exhibition protesting the Y-building's scheduled demolition. The face was released in 2019 and expanded in 2021 with lowercase and a matching italic. Its origins in a specific political and architectural moment give it a weight of meaning that most display typefaces never carry.",
+    "foundry_blurb": "Monokrom describe Viksjø as an attempt to translate the ethical principles of Brutalist architecture into letterforms, with the typeface cast in raw concrete and shown as part of the exhibition Blow it Up/Tear it Down, a protest against the demolition of Erling Viksjø's Y-building. The accompanying text traces the typeface through the architectural criticism of Reyner Banham and the history of Nordic modernism, noting that the Y-building was eventually demolished in 2020 following the 2011 Oslo bombing and years of campaigning by architects and heritage bodies."
+  },
+  {
+    "name": "Karelia",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/karelia",
+    "designer": "Frode Helland",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Described explicitly as a neo-grotesque, with a mechanistic flavour and angular details drawn from Soviet modernist design, sitting within the broader Western European grotesque tradition.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Karelia"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "mechanistic",
+      "angular",
+      "headlines",
+      "soviet-modernist",
+      "ink-traps",
+      "display"
+    ],
+    "summary": "A post-contemporary neo-grotesque by Frode Helland that borrows structural ink-trap details from small-size type design and scales them into expressive headline features.",
+    "description": "Designed by Frode Helland and released by Monokrom in 2018, Karelia pairs the spacing and proportions of a headline grotesque with dislocated corners, trapezoid ink traps and squared-off counters lifted from text-size type conventions. The result reads as conventional at small sizes but becomes distinctly angular and mechanical when set large. Its name references the Finnish-Russian border region, signalling the hybrid influence of Western European neo-grotesque structure and Soviet modernist angularity.",
+    "foundry_blurb": "Monokrom describe Karelia as a post-contemporary sans serif in four weights and nine styles with a subtle mechanistic flavour. Its spacing, proportions and apertures are tuned for headlines, while its details take cues from type designed for the smallest sizes, with dislocated corners forming trapezoid ink traps echoed by squared-off counters. The name references Karelia as a former Finnish territory and modern Russian province, alluding to a marriage of engineered Western European neo-grotesque structure with an angular appearance reminiscent of Soviet modernist design."
+  },
+  {
+    "name": "Numera",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/numera",
+    "designer": "Frode Helland",
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Numera is described as a Brotschrift designed for book typography, grounded in literary typesetting tradition. Its texture-driven visual language and balance between static and dynamic tension place it in the transitional serif category, with humanist inflections.",
+    "weights": [
+      "Blond",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Numera"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "text",
+      "book",
+      "literary",
+      "brotschrift",
+      "traditional",
+      "refined",
+      "texture"
+    ],
+    "summary": "A book typeface ten years in the making by Frode Helland, balancing familiarity with an original visual language rooted in texture and curve continuity.",
+    "description": "Designed by Frode Helland over a decade with design assistance from Inga Plönnigs, Numera draws on the tradition of literary typesetting without reproducing any single historical model. Its forms are driven by texture and the continuity of curves rather than period convention, producing a rhythm that sits comfortably in refined body text while retaining something genuinely individual. Five weights from Blond to Black, each with a matching italic, give the family practical range for book and editorial work.",
+    "foundry_blurb": "Monokrom describe Numera as a new take on a traditional recipe, a sourdough Brotschrift grown from centuries of craft and culture but with a distinct new flavour. Designed for book typography and balanced for refined text setting, its visual language is driven by texture and curve continuity rather than any single historic principle. The result of a decade-long project by Frode Helland, it was exhibited in-progress in 2018 and released in 2021 in ten styles."
+  },
+  {
+    "name": "Fabric Sans",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/fabricsans",
+    "designer": "Frode Helland, Sindre Bremnes",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described as a straight-sided grotesque with low contrast and tight apertures; fits the grotesque subcategory through its classic letterform structure and restrained geometry.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fabric Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "straight-sided",
+      "low-contrast",
+      "texture",
+      "nordic",
+      "editorial",
+      "paired-serif"
+    ],
+    "summary": "A straight-sided grotesque by Frode Helland and Sindre Bremnes that generates visual texture through the interplay of apertures and whitespace rather than stroke contrast.",
+    "description": "Designed as a counterpart to Fabric Serif, this grotesque shares structural foundations with its serif sibling in curve tension, rhythm and metrics, while diverging in morphology and detailing. The result is a typeface that pairs naturally across typographic hierarchies without flattening the contrast between the two. Four weights from Regular to Black each carry matching italics, and the design ships in OTF, WOFF and WOFF2 with active support for over 200 languages.",
+    "foundry_blurb": "Monokrom describe Fabric Sans as an unassuming straight-sided grotesque guided by the interplay of apertures and letterspacing — low contrast in stroke but high contrast in whitespace, concealing a radiant texture within familiar letterforms. It is designed as an ideal partner to Fabric Serif, with both sharing the same structural foundation of curve tension, energy, rhythm and metrics while diverging in morphology and detailing. The Fabric Collection is presented through abstract industrial collages by Dado Queiroz."
+  },
+  {
+    "name": "Satyr",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/satyr",
+    "designer": "Sindre Bremnes",
+    "year": 2012,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Satyr is a text-oriented serif that contrasts convex and concave curves rather than following calligraphic tool traces, placing it in a humanist but distinctly sculptural tradition distinct from purely pen-derived models.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "10"
+    ],
+    "subfamilies": [
+      "Satyr"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "text",
+      "book",
+      "humanist",
+      "sculptural",
+      "literary",
+      "optical-size"
+    ],
+    "summary": "A text and book serif by Sindre Bremnes that sculpts letterforms through opposing convex and concave curves rather than imitating any physical writing tool.",
+    "description": "Designed by Sindre Bremnes and released in 2012, Satyr works within the tight constraints of a text and book face while departing from the calligraphic conventions that dominate the genre. Its letterforms are shaped by the interplay of convex and concave curves, giving it a distinctly three-dimensional quality. A companion display face, Faunus, handles larger sizes; Satyr itself won a Gold at Visuelt 2013.",
+    "foundry_blurb": "Monokrom describe Satyr as a text face that cannot stray far from convention and still remain usable, yet still manages to bring something entirely new. It contrasts convex with concave curves, sculpting letterforms rather than following the traces of a physical tool, and is complemented by Faunus, which is intended for larger sizes."
+  },
+  {
+    "name": "Riks",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/riks",
+    "designer": "Sindre Bremnes and Frode Helland",
+    "year": 2017,
+    "category": "display",
+    "subcategory": "stencil",
+    "classification_notes": "Riks is a stencil typeface derived from lettering on a 1932 Functionalist telephone kiosk, with stencil logic applied across the full character set in two variants, Normal and Negativ.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Riks Normal",
+      "Riks Negativ"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "stencil",
+      "display",
+      "scandinavian",
+      "functionalist",
+      "heritage",
+      "free",
+      "historical",
+      "signage"
+    ],
+    "summary": "A stencil typeface by Sindre Bremnes and Frode Helland, derived from lettering on Georg Fredrik Fasting's iconic 1932 Norwegian telephone kiosk.",
+    "description": "The letterforms originate from seven characters on Fasting's Riks phonebooth, a landmark of Scandinavian Functionalist architecture, with the stencil logic extended across the full character set by Bremnes and Helland. Two styles are offered: Normal for general use and Negativ, which provides master drawings suited to producing physical stencils capable of reproducing any text. Monokrom offer the fonts free of charge, framing the design as Norwegian cultural heritage, while physical water-cut steel stencils at 200 points are available on loan for Norwegian customers.",
+    "foundry_blurb": "Monokrom describe Riks as completing Sindre Bremnes' Telefon family, noting its origins in the seven stencilled letters on Fasting's 1932 telephone kiosk. The fonts are released free as a gesture toward cultural heritage, and a limited set of 200-point water-cut steel stencils are available for loan to Norwegian customers for use in projects."
+  },
+  {
+    "name": "Fabric Serif",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/fabricserif",
+    "designer": "Sindre Bremnes, Frode Helland, Wei Huang",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Described as a reimagining of Plantin, itself a Baroque-proportioned revival of Renaissance letterforms with Modernist detailing; sits comfortably in the transitional serif category given its layered historical references and contemporary finish.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fabric Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "text",
+      "plantin-inspired",
+      "contemporary",
+      "companion",
+      "editorial",
+      "roman"
+    ],
+    "summary": "A sharp, austere text serif by Sindre Bremnes and Frode Helland, reimagining Plantin through Renaissance letterforms on Baroque proportions with Modernist detailing.",
+    "description": "Conceived as the serif counterpart to Fabric Sans, this typeface shares the same structural foundation of curve tension, rhythm and metrics as its companion while diverging in morphology and detailing. The design traces a line from 15th-century letterforms through the Baroque proportions of Pierpoint's 1913 Plantin, arriving at a crisp, contemporary finish suited to demanding text settings. Three weights from Regular to Bold, each with italics, make it a lean but capable family for editorial and typographic hierarchy work.",
+    "foundry_blurb": "Monokrom describe Fabric Serif as a stringent Roman with a sharp finish, conceived as the seriffed portion of the Fabric Collection. It reimagines Frank Hinman Pierpoint's Plantin (1913) for contemporary typographic requirements, reconstructing 15th-century letterforms on Baroque proportions with stylised Modernist detailing. The Fabric Collection is designed so that Sans and Serif share structural foundations — curve tension, energy, rhythm and metrics — allowing them to combine inline or anchor a complex typographical hierarchy."
+  },
+  {
+    "name": "Faunus",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/faunus",
+    "designer": "Sindre Bremnes",
+    "year": 2012,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Faunus is a humanist serif designed as a companion to Satyr, optimised for mid-range display sizes with organic, flowing outlines that suggest a humanist approach without committing to strict display conventions.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Faunus"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "serif",
+      "screen",
+      "companion",
+      "text",
+      "organic",
+      "mid-display"
+    ],
+    "summary": "A humanist serif by Sindre Bremnes designed as a companion to Satyr, optimised for mid-range sizes rather than small text or full display use.",
+    "description": "Released in 2012 alongside Satyr, Faunus shares its DNA but deliberately diverges in its outlines, sometimes substantially. Originally conceived for screen, it works equally well in print at comfortable reading and sub-display sizes. The two faces are designed to pair together, offering a coherent but not identical relationship.",
+    "foundry_blurb": "Monokrom describe Faunus as a close relative of Satyr, intended for larger sizes but stopping short of a full display face. Originally optimised for screen, it now works on paper too, though it rewards a narrow size range. Despite shared DNA with Satyr, its outlines often diverge, and sometimes depart entirely, while the two faces still work well in combination."
+  },
+  {
+    "name": "Vinter",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/vinter",
+    "designer": "Frode Helland",
+    "year": 2012,
+    "category": "sans-serif",
+    "subcategory": "contrasted sans",
+    "classification_notes": "Vinter is a contrasted sans serif with a geometric skeleton and modulated stroke contrast, placing it outside both pure grotesque and humanist categories; the foundry explicitly describes it as a 'contrasted sans serif'.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vinter"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "contrasted",
+      "geometric",
+      "scandinavian",
+      "editorial",
+      "elegant",
+      "modulated"
+    ],
+    "summary": "A TDC-awarded contrasted sans by Frode Helland, pairing a geometric skeleton with carefully modulated stroke contrast in ten styles.",
+    "description": "Designed by Frode Helland and first released in 2012, Vinter sits at the intersection of geometric structure and calligraphic contrast, giving it an unusual texture among sans serifs. The family runs across five weights from Thin to Medium, each with a matching italic, totalling ten styles. Typographica named it a favourite and the Type Directors Club awarded it a Certificate of Excellence, recognition earned through its precise rhythm and restrained Scandinavian sensibility.",
+    "foundry_blurb": "Monokrom describe Vinter as a confident venture into contrasted sans serifs, deeply rooted in Scandinavian design tradition with acute sensibility to shape and rhythm. A geometric skeleton is veiled in carefully modulated strokes, creating a texture that is both familiar and surprising. Originally released in 2012 and later remastered and expanded to ten styles, it has received a TDC Certificate of Excellence and a Typographica Favourite award."
+  },
+  {
+    "name": "Telefon",
+    "foundry": "Monokrom",
+    "url": "https://monokrom.no/fonts/telefon",
+    "designer": "Sindre Bremnes",
+    "year": 2012,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Explicitly described as a geometric monolinear sans serif, with even stroke weights and geometric construction throughout its forms.",
+    "weights": [
+      "Light",
+      "Blond",
+      "Normal",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Telefon"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "monolinear",
+      "editorial",
+      "signage",
+      "architectural",
+      "norwegian",
+      "workhorse"
+    ],
+    "summary": "A geometric monolinear sans by Sindre Bremnes, drawing on architectural lettering and signage traditions, expanded from three weights to twelve styles in 2017.",
+    "description": "Originally released in 2012 with three weights, Telefon was substantially updated in 2017 to twelve styles spanning six weights from Light to Black, each with a matching italic. The even, monolinear stroke and geometric construction give it a clean neutrality that has suited everything from Norwegian county identity programmes to editorial design and commercial branding. Its award recognition from FontShop, Visuelt and Typographica at the time of release reflects the quality of its original conception, not just its expansion.",
+    "foundry_blurb": "Monokrom describe Telefon as a geometric monolinear sans serif with a wide range of possible uses and a craftsman's workhorse character. Originally released in 2012 in three weights, the award-winning typeface received a major update in 2017 adding three new weights with original matching italics, greatly increasing its value as an editorial and commercial design companion. It has been used in the official design profile of Telemark county, as well as books, websites, art exhibitions and commercial brands."
+  }
+]

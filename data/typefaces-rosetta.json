@@ -1,0 +1,1796 @@
+[
+  {
+    "name": "Adapter Arabic",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/AdapterArabic",
+    "designer": "Borna Izadpanah",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "A modernist sans-serif designed for both text and display use, drawing on neo-grotesque principles whilst being adapted for Arabic, Persian and Urdu scripts alongside the broader Adapter World Latin-based system.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black",
+      "Thin (Display only)"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Adapter Arabic Text",
+      "Adapter Arabic Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Persian",
+      "Urdu",
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Georgian",
+      "Hebrew",
+      "Tamil"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "persian",
+      "urdu",
+      "neo-grotesque",
+      "editorial",
+      "multilingual",
+      "variable",
+      "workhorse"
+    ],
+    "summary": "A dual-personality Arabic sans-serif by Borna Izadpanah, splitting into Text and Display optical variants to serve both continuous reading and headline work across Arabic, Persian and Urdu.",
+    "description": "Designed by typeface designer and University of Reading lecturer Borna Izadpanah, the family separates into two optical cuts: Text, with generous spacing, open counters and a straighter baseline suited to screen reading, and Display, with tighter spacing and more fluid round forms intended for headlines and posters. The full family of 17 styles plus a variable font spans Extralight to Black, with the Display cut adding a Thin weight at its lightest end. It forms part of Rosetta's Adapter World programme, which coordinates a single modernist design language across Arabic, Cyrillic, Georgian, Greek, Hebrew, Latin and Tamil.",
+    "foundry_blurb": "Rosetta describe Adapter Arabic as bringing the same dual-logic approach of the Adapter system to Arabic, Persian and more. They frame it as oscillating between two personalities: an unobtrusive, ergonomic text face and an architect-minded display face with impact and symmetry. A single lightweight variable font packs the full weight range, size-specific variants and italics into one file, as part of the wider Adapter World collection developed with script experts across seven writing systems."
+  },
+  {
+    "name": "Adapter Georgian Text",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/AdapterGeorgian",
+    "designer": "Ana Sanikidze",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "A neo-grotesque sans serif designed specifically for the Georgian script, adapting the modernist aesthetic of the Adapter family with script-specific proportions, ink traps, and bicameral Georgian character sets.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text"
+    ],
+    "subfamilies": [
+      "Adapter Georgian Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Georgian",
+      "Latin",
+      "Laz",
+      "Mingrelian",
+      "Svan"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "georgian",
+      "neo-grotesque",
+      "modernist",
+      "multilingual",
+      "variable",
+      "text",
+      "kartvelian",
+      "world-type"
+    ],
+    "summary": "A Georgian script extension of Rosetta's Adapter family by Ana Sanikidze, awarded the Grand Prize for Georgian at Granshan 2024, covering Mkhedruli and Mtavruli forms across eight weights with a variable font option.",
+    "description": "Designed by Ana Sanikidze, this Text subfamily adapts the Adapter family's neo-grotesque modernism to the particularities of Georgian script, with longer ascenders and descenders, carefully positioned ink traps, and generous spacing tuned for continuous reading at lower resolutions. The family includes the full bicameral Georgian character set, with Mkhedruli lowercase and the Mtavruli capitals added to Unicode in 2018. A single variable font spanning weight, slant, and italic axes covers the entire range, and coverage extends to the Kartvelian languages Laz, Mingrelian, and Svan.",
+    "foundry_blurb": "Rosetta describe Adapter Georgian Text as bringing the Adapter family's modernist sans-serif principles into the fabric of the Georgian script, with Georgian-specific proportions, ink traps for functional parity at low resolutions, and support for bicameral Georgian forms including Mtavruli. It is offered as both static fonts and a lightweight variable font for the web, and sits within the broader Adapter World collection, which spans Arabic, Cyrillic, Georgian, Greek, Hebrew, Latin, and Tamil, all developed in collaboration with script experts."
+  },
+  {
+    "name": "Adapter Hebrew",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/AdapterHebrew",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Adapter Hebrew is a sans-serif typeface designed for the Hebrew script, with optical size variants (Text and Display) suggesting a humanist approach calibrated for reading comfort across different contexts.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Adapter Hebrew Text",
+      "Adapter Hebrew Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Hebrew"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "hebrew",
+      "optical-sizes",
+      "variable",
+      "multilingual",
+      "editorial",
+      "text",
+      "display",
+      "humanist"
+    ],
+    "summary": "A Hebrew sans-serif with dedicated Text and Display optical sizes, spanning nine weights with italics and variable font support.",
+    "description": "Designed for the Hebrew script, Adapter Hebrew offers two optical size families — Text and Display — each covering nine weights from Thin to Black with matching italics. The full range is also available as a variable font. The division between text and display cuts reflects careful attention to how stroke contrast and spacing need to shift between body copy and headline settings.",
+    "foundry_blurb": "Adapter Hebrew is presented by Rosetta as a full-featured Hebrew typeface available in Text and Display optical sizes, each running from Thin to Black with italics, and offered as a variable font spanning the entire range."
+  },
+  {
+    "name": "Adapter Mono PE",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/AdapterMonoPE",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced",
+    "classification_notes": "A monospaced type family explicitly designed for editorial, coding and UI work, with cursive italic alternates and an unusually wide weight range for the genre.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Adapter Mono PE"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "editorial",
+      "coding",
+      "cursive-italic",
+      "multilingual",
+      "variable",
+      "wide-weights"
+    ],
+    "summary": "A monospaced family from Rosetta with eight weights, cursive italic alternates and a steeper italic angle optimised for screen legibility across Latin, Greek and Cyrillic scripts.",
+    "description": "Unlike most monospaced fonts, Adapter Mono PE spans eight weights from Extralight to Black, each with a matching italic that includes cursive alternates for greater differentiation at small sizes. The italic is slanted at a steeper angle than its proportional antecedent, Adapter, to remain distinct on screen. Script coverage extends to Latin, Greek and Cyrillic, and the family ships as a variable font alongside optimised companion styles for coding use.",
+    "foundry_blurb": "Rosetta describe Adapter Mono as a monospaced family with an editorial state of mind, intended to break away from the binary of sans versus serif by occupying a third genre. They have used it on their own website and the Design Regression mini-journal, and suggest it suits instructions, listings, schedules, ASCII art, text games and code. Compared to most monospaced fonts it offers a wide range of weights and an italic with cursive alternates, slanted at a steeper angle than in its proportional antecedent for improved on-screen clarity."
+  },
+  {
+    "name": "Adapter PE",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/AdapterPE",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Adapter PE is a humanist sans-serif with optical size variants (Text and Display) and a broad weight range, consistent with a contemporary humanist sans designed for extended multilingual typesetting.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Adapter PE Text",
+      "Adapter PE Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "multilingual",
+      "optical-sizes",
+      "variable",
+      "editorial",
+      "text",
+      "display",
+      "cyrillic"
+    ],
+    "summary": "A multilingual humanist sans from Rosetta with separate Text and Display optical sizes, nine weights, italics and variable font support across Latin, Cyrillic and Greek.",
+    "description": "Adapter PE spans 34 static styles across Text and Display optical sizes, each running from Thin or Extralight through to Black with matching italics. The family also ships as a variable font covering all styles in one file. Latin, Cyrillic and Greek are all supported, making it well suited to multilingual editorial and institutional publishing.",
+    "foundry_blurb": "Rosetta's Adapter PE is a humanist sans-serif available in Text and Display optical sizes, with nine weights and italics throughout, plus a variable font option. It covers Latin, Cyrillic and Greek scripts, with sample settings ranging from French and Finnish to Russian and Greek text."
+  },
+  {
+    "name": "Adapter Tamil",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/AdapterTamil",
+    "designer": "Aadarsh Rajan",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Adapter Tamil is the Tamil counterpart to the Adapter neo-grotesque family, sharing its modernist, closed-aperture, minimalist construction while incorporating humanist adjustments specific to the Tamil script.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text"
+    ],
+    "subfamilies": [
+      "Adapter Tamil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Tamil",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "tamil",
+      "neo-grotesque",
+      "modernist",
+      "text",
+      "multilingual",
+      "variable",
+      "workhorse",
+      "editorial"
+    ],
+    "summary": "A Tamil companion to the Adapter family, designed by Aadarsh Rajan for text-setting with generous spacing, ink-traps and a modernist graphic sensibility.",
+    "description": "Designed by Tamil type specialist Aadarsh Rajan, Adapter Tamil brings the neo-grotesque character of the broader Adapter World collection to the Tamil script. Eight weights from Extralight to Black are available both as static fonts and as a single variable font, with generous spacing to counter the script's inherent rhythmic density and carefully placed ink-traps to handle its complex, intersecting strokes. Closed apertures give it a strong graphic presence, while subtle humanist details keep it comfortable at text sizes.",
+    "foundry_blurb": "Rosetta describe Adapter Tamil as sharing the modernist sans-serif sensibility of the wider Adapter World collection, developed with script specialist Aadarsh Rajan. The Text variant focuses on ergonomics, even rhythm and ease of reading, with a variable font option covering all eight weights in a single lightweight file. The Adapter World collection now supports Arabic, Cyrillic, Georgian, Greek, Hebrew, Latin and Tamil, developed in collaboration with respected script experts."
+  },
+  {
+    "name": "Adelphi PE",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/AdelphiPE",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The specimen samples and multilingual scope suggest a humanist sans-serif design; the wide weight range, italics and broad script coverage are consistent with Rosetta's humanist-oriented approach to pan-European typefaces.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Adelphi PE"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "multilingual",
+      "pan-european",
+      "variable",
+      "text",
+      "editorial",
+      "cyrillic",
+      "greek"
+    ],
+    "summary": "A humanist sans-serif covering Latin, Cyrillic and Greek in eight weights with matching italics and a variable font axis.",
+    "description": "Spanning eight weights from Thin to Black with full italic companions, Adelphi PE is built for multilingual European work across Latin, Cyrillic and Greek scripts. Small caps and a variable font are included, giving it flexibility across both editorial and information design contexts. The broad script support and consistent weight range make it a practical choice for publications and interfaces that must operate across multiple languages simultaneously.",
+    "foundry_blurb": "Rosetta's Adelphi PE is a multilingual sans-serif family available in eight weights with italics, small caps and a variable font, supporting Latin, Cyrillic and Greek scripts for broad European typographic coverage."
+  },
+  {
+    "name": "Aeropa PE",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/AeropaPE",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The sample texts, single-storey 'a', double-storey 'g', and square dots point to a humanist sans with geometric inflections, designed for institutional and informational contexts across multiple scripts.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Aeropa PE"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "multilingual",
+      "institutional",
+      "transport",
+      "infographic",
+      "variable",
+      "european"
+    ],
+    "summary": "A multilingual humanist sans from Rosetta, covering Latin, Greek and Cyrillic, with six weights and matching italics suited to transport and institutional publications.",
+    "description": "Designed for European institutional and logistics contexts, the family spans Extralight to Extrabold with italic companions across all weights, and is available as a variable font. Sample texts in Greek, Latin and Cyrillic demonstrate broad pan-European coverage. Distinctive details include a single-storey 'a', double-storey 'g', square dots and seriffed numeral '1', giving the design character within an otherwise functional register.",
+    "foundry_blurb": "Rosetta present Aeropa PE as a typeface built for European transport and institutional communication, with multilingual support across Latin, Greek and Cyrillic scripts and a variable font axis spanning the full weight range."
+  },
+  {
+    "name": "Aisha Arabic",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/AishaArabic",
+    "designer": "Titus Nemeth",
+    "year": 2011,
+    "category": "display",
+    "subcategory": "display arabic",
+    "classification_notes": "Aisha Arabic sits between text and display use, drawing on North African Maghrebi manuscript traditions with fluid, expressive letterforms and variable swashes that push it firmly into display territory.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Aisha Arabic"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin",
+      "Berber"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "maghrebi",
+      "display",
+      "playful",
+      "manuscript",
+      "north-african",
+      "variable",
+      "multilingual"
+    ],
+    "summary": "A Maghrebi-style Arabic typeface by Titus Nemeth, grounded in 19th-century Algerian and Moroccan lettering traditions and extended with variable swashes and extensive OpenType alternates.",
+    "description": "Originating from Titus Nemeth's research into Maghrebi script traditions, the regular weight derives from antiquarian foundry type found in a 19th-century book, redrawn for contemporary use and extended to five weights with a companion Latin. Generous curves, expressive swashes that can cross word boundaries, and fourteen stylistic sets covering alternate letterforms specific to the Maghrebi manuscript tradition give designers a wide palette. The variable font implementation allows swash lengths to be tuned, making it suitable for editorial work, packaging and digital publishing across Arabic, Berber and multilingual Maghrebi contexts.",
+    "foundry_blurb": "Rosetta describe Aisha Arabic as a fun, funky typeface that walks the line between text and display typography, with a fluid and carefree style echoing North African Arabic lettering traditions. Nemeth's research into Maghrebi manuscript practice informed the extensive alternates, variable swashes and stylistic sets, which allow the typeface's expressive volume to be raised or lowered to suit the design. The family includes a Latin companion and supports Arabic, Berber and the multilingual typesetting common across the Maghreb."
+  },
+  {
+    "name": "Aisha Latin",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/AishaLatin",
+    "designer": "Titus Nemeth",
+    "year": 2011,
+    "category": "serif",
+    "subcategory": "calligraphic serif",
+    "classification_notes": "Aisha Latin is rooted in the free, dynamic curves of brush-pen calligraphy from the Maghreb tradition, giving it a calligraphic serif character with expressive, informal letterforms that sit between text and display use.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Aisha Latin"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "calligraphic",
+      "playful",
+      "display",
+      "editorial",
+      "maghrebi",
+      "multilingual",
+      "variable",
+      "expressive"
+    ],
+    "summary": "A calligraphic Latin typeface by Titus Nemeth, drawn as a companion to Aisha Arabic and shaped by Maghrebi brush-pen lettering traditions.",
+    "description": "Developed as the Latin counterpart to Aisha Arabic, the design direction here ran from the Arabic to the Roman rather than the usual reverse, with Nemeth drawing on 19th-century French-cut Arabic foundry type as a starting point. The five weights from Regular to Extrabold are available as a variable font, and the family is packed with contextual alternates, stylistic sets, swash variants with variable-length control, and a full complement of figures and fractions. The result is a typeface with genuine personality that works across display headings, editorial layouts and long-form text alike.",
+    "foundry_blurb": "Rosetta describe Aisha Latin as a fun, individualistic typeface striding the line between text and display typography, inspired by the free, dynamic curves of Maghrebi brush-pen calligraphy. The Latin face was shaped by the Arabic version rather than the other way around, and comes with numerous alternate letterforms, variable swashes, and OpenType features to let typographers tune its lush and funky personality to their message. It received a Certificate of Excellence in Type Design at TDC2 2010 and was nominated for the German Design Award 2011."
+  },
+  {
+    "name": "Arek Armenian",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/ArekArmenian",
+    "designer": "Khajag Apelian",
+    "year": 2012,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Arek draws on the calligraphic roots of Armenian manuscript tradition, with angular details and a pioneering cursive style; the Latin component shares proportions and serif styling, making it a humanist serif across both scripts.",
+    "weights": [
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Arek Armenian"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Armenian",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "armenian",
+      "multi-script",
+      "humanist",
+      "text",
+      "editorial",
+      "calligraphic",
+      "award-winning",
+      "variable"
+    ],
+    "summary": "An award-winning Armenian and Latin family by Khajag Apelian, rooted in calligraphic manuscript research with a pioneering cursive style designed for continuous reading.",
+    "description": "Originally conceived for school books, Arek draws on extensive study of Armenian manuscript traditions to produce a lively, angular text face with genuine calligraphic character. The cursive italics broke new ground in Armenian digital typography, and the Latin component is engineered to harmonise through shared vertical proportions and a modest x-height. Eight styles cover a wide editorial range, supported by expert OpenType features including Armenian ligatures, contextual alternates, the eternity and pomegranate symbols, and Eastern and Western Armenian language variants. The family won first prize at Granshan 2010, an ATypI Letter.2 award in 2011 and a Typographica Best of 2013 citation.",
+    "foundry_blurb": "Rosetta describe Arek as an award-winning collection of Armenian and Latin families whose design draws on extensive research in traditional manuscripts, emphasising the distinctive calligraphic roots of Armenian script. The pioneering cursive broke new ground in Armenian typography for the digital age, and the family was originally conceived for school books with young readers in mind, offering angular details and a comfortable construction suited to continuous reading. Visual harmony between the scripts is achieved through shared serif styling and common vertical proportions."
+  },
+  {
+    "name": "Arek Latin",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/ArekLatin",
+    "designer": "Khajag Apelian",
+    "year": 2012,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Arek combines restrained letterforms with kinetic, angular details and a perky italic, placing it firmly in the humanist serif tradition designed for text and editorial use.",
+    "weights": [
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Arek Latin"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Armenian"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "text",
+      "editorial",
+      "multi-script",
+      "armenian",
+      "workhorse",
+      "angular",
+      "legible"
+    ],
+    "summary": "A humanist serif by Khajag Apelian, originally conceived for school textbooks, with angular kinetic details that hold attention across both text and display sizes.",
+    "description": "Designed by Khajag Apelian and released in 2012, Arek was conceived for Armenian and Latin schoolbooks, with open proportions and restrained letterforms that remain readable at small sizes. Eight styles across four weights with matching italics cover the full range of editorial typesetting, supported by a thorough OpenType feature set including ligatures, fractions, multiple numeral styles and contextual alternates. The family won an ATypI Letter.2 award in 2011 and was named among Typographica's best typefaces of 2013.",
+    "foundry_blurb": "Rosetta describe Arek as an award-winning collection of Latin and Armenian families first designed for textbooks and the schoolroom. They note it is an active typeface with kinetic details tucked into restrained letterforms, pairing nuanced upright and perky italic styles for both scripts. Eight styles and a comprehensive set of expert features make it suitable for editorial, digital publishing, branding and other demanding typesetting environments."
+  },
+  {
+    "name": "Avory PE",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/AvoryPE",
+    "designer": "Jaroslav Benda",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Gently condensed with lettering-inspired details, a low optical centre, wide horizontal crossbars, and expressive terminals rooted in mid-century Czech graphic lettering tradition, placing it firmly in the humanist sans subcategory.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Avory PE"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "lettering-inspired",
+      "condensed",
+      "multilingual",
+      "mid-century",
+      "editorial",
+      "variable"
+    ],
+    "summary": "A gently condensed humanist sans inspired by the mid-century Czech lettering of Jaroslav Benda, with a low optical centre, wide horizontal crossbars and alternating open or closed counters.",
+    "description": "Tall proportions with broad shoulders make it distinctive at a distance, while an array of alternate forms gives designers control over descenders and counter openness. The family spans nine weights with matching italics and variable font versions for both uprights and italics, covering Latin, Cyrillic and Greek scripts with localised forms for cultural appropriateness. An underscore feature adds a vintage lettering feel suited to labels and shop signage.",
+    "foundry_blurb": "Rosetta describe Avory as a gently condensed sans that challenges convention, drawing on the lettering work of Czech designer Jaroslav Benda, a lesser-known mid-century graphic design influence. It features a low optical centre, flat open counters and horizontal crossbars, with alternate forms offering variation in descenders and a choice between open and closed counters in the manner of hand lettering."
+  },
+  {
+    "name": "Butik",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/Butik",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Butik is a display-oriented sans with expressive ball terminals, outstrokes, swashes and hairline diacritics, designed explicitly for large-size headline and decorative use across three width variants.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display Condensed",
+      "Display Normal",
+      "Display Extended"
+    ],
+    "subfamilies": [
+      "Butik Display Condensed",
+      "Butik Display Normal",
+      "Butik Display Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "swash",
+      "ball-terminals",
+      "headline",
+      "variable",
+      "expressive",
+      "extended-family",
+      "decorative"
+    ],
+    "summary": "A display sans from Rosetta with three widths, nine weights and expressive detailing including ball terminals, outstrokes and uppercase swashes across a variable font axis.",
+    "description": "Spanning condensed, normal and extended widths at nine weights from Thin to Black, Butik is built for large-scale typesetting where personality is required. Distinctive ball terminals and outstrokes give individual letters a spirited quality, supported by uppercase and lowercase swash alternates, discretionary ligatures and hairline diacritics and punctuation. All three width families are available as variable fonts, giving designers continuous control over weight within a single file.",
+    "foundry_blurb": "Rosetta present Butik as a display typeface with daring ball terminals and outstrokes, uppercase and lowercase swashes with ball terminals, discretionary ligatures, and hairline diacritics and punctuation. The family spans three widths — Condensed, Normal and Extended — each in nine weights from Thin to Black, with variable font uprights available across the range."
+  },
+  {
+    "name": "Clone PE",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/ClonePE",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Clone PE presents quasi-monospaced, semi-serif forms with minimal stroke contrast, drawing on geometric construction while simulating the look and feel of a typewriter — placing it within a geometric sans tradition with technical and mono-adjacent characteristics.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Clone PE"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "quasi-monospaced",
+      "semi-serif",
+      "typewriter",
+      "technical",
+      "variable",
+      "multilingual",
+      "neutral"
+    ],
+    "summary": "A quasi-monospaced geometric sans with semi-serif details and minimal stroke contrast, designed to evoke the rhythm of a typewriter across Latin, Cyrillic and Greek scripts.",
+    "description": "Clone PE uses quasi-monospaced forms and semi-serif characters to simulate the look and feel of a typewriter while maintaining the structural order of a geometric sans. Eight weights run from Thin to Extrabold with matching italics, and the family ships as variable fonts for both uprights and italics. Latin, Cyrillic and Greek coverage makes it suited to multilingual editorial and technical contexts.",
+    "foundry_blurb": "Rosetta describe Clone PE as featuring quasi-monospaced forms with minimal stroke contrast, where semi-serif characters simulate the look and feel of a typewriter within a minimal framework of structural order, balanced against the implied freedom of free-flowing open space."
+  },
+  {
+    "name": "Clone Rounded PE",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/CloneRoundedPE",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Clone Rounded PE is a geometric sans with rounded terminals and quasi-monospaced, minimal-contrast letterforms that reference typewriter aesthetics, placing it firmly in the geometric sans category with a technical, neutral character.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Clone Rounded PE"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "quasi-monospaced",
+      "technical",
+      "neutral",
+      "variable",
+      "multilingual",
+      "typewriter-inspired"
+    ],
+    "summary": "A rounded geometric sans with quasi-monospaced letterforms and minimal stroke contrast, covering Latin, Cyrillic and Greek across eight weights with variable font support.",
+    "description": "The family draws on typewriter-like proportions, with semi-serif characters and near-even spacing that give it a structured, technical feel without abandoning readability. Eight weights from Thin to Extrabold each have matching italics, and the full range is available as variable fonts for both uprights and italics. The broad script coverage across Latin, Cyrillic and Greek makes it well suited to multilingual publishing and interface work.",
+    "foundry_blurb": "Clone Rounded PE features quasi-monospaced forms with minimal stroke contrast and semi-serif characters that simulate the look and feel of a typewriter, presented within a minimal framework of structural order balanced against the implied freedom of open space."
+  },
+  {
+    "name": "Corsair PE",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/CorsairPE",
+    "designer": "Ksenya Samarskaya",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A sans-serif with hand-drawn, informal characteristics; its organic, weathered letterforms and naturally randomised variants place it firmly in the humanist tradition rather than geometric or grotesque.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Corsair PE"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "handcrafted",
+      "rugged",
+      "outdoorsy",
+      "heritage",
+      "informal",
+      "packaging",
+      "branding",
+      "randomised"
+    ],
+    "summary": "A single-weight sans with naturalised, hand-drawn letterforms and built-in randomisation, originally commissioned by Best Made Co. for a rugged, artisanal aesthetic.",
+    "description": "Designed by Ksenya Samarskaya, Corsair was originally commissioned by Best Made Co. and built to replicate the idiosyncrasies of handwriting in a functional typeface. Its 2,300-plus glyphs include naturally randomised letter variants that are always active, discretionary ligatures, combinable arrows and Cyrillic isosceles alternate forms, giving set text an honest, worn-in quality without resorting to obvious distress effects. The pan-European scope covers Latin, Cyrillic and Greek, making it usable across packaging, branding and editorial contexts wherever a hand-made feel is called for.",
+    "foundry_blurb": "Rosetta describe Corsair as a rugged font with a handcrafted touch, originally commissioned by Best Made Co. to mimic the idiosyncrasies of handwriting. Naturally randomised letterforms lend authenticity, while weathered edges and subtle variations add what they call a hospitable charm. The result is an honest, approachable, organic look suited to packaging, branding and product lookbooks, with pan-European coverage across Cyrillic, Greek and Latin scripts."
+  },
+  {
+    "name": "Eskorte Arabic",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/EskorteArabic",
+    "designer": "Elena Schneider",
+    "year": 2013,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "Eskorte Arabic is a serif typeface designed for text-intensive settings, combining a refined, businesslike character with broad Arabic and Latin script support. Its upright, structured letterforms place it within a contemporary serif tradition suited to editorial and corporate use.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Eskorte Arabic"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Persian",
+      "Urdu",
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "multilingual",
+      "text",
+      "corporate",
+      "editorial",
+      "workhorse",
+      "serif",
+      "contemporary"
+    ],
+    "summary": "A carefully considered Arabic-Latin serif family by Elena Schneider, designed for text-heavy corporate, legal and academic environments across Arabic, Persian, Urdu and over ninety Latin-script languages.",
+    "description": "Designed by Elena Schneider and released in 2013, Eskorte Arabic pairs five weights from Regular to Extrabold across Arabic and Latin scripts, drawn in concert to maintain a coherent visual tone across languages. The Arabic includes a full set of vocalization marks, discretionary ligatures, contextual alternates for Persian and Urdu, and separate numeral sets for all three languages. It was awarded first prize for Arabic at Granshan 2013 and named among Typographica's Favourites the same year.",
+    "foundry_blurb": "Rosetta describe Eskorte Arabic as a diligently designed Arabic-Latin type family with an inviting polish that conveys a crisp, businesslike tone. Its compact range of styles is intended for tidiness, efficiency and ease of use by non-designers, making it well suited to offices, legal and academic institutions and other text-intensive corporate environments. Arabic and Latin weights were designed together for a smooth, coherent feel, with the Arabic offering vocalization marks, discretionary ligatures, figures for Persian and Urdu, and language-sensitive contextual alternates."
+  },
+  {
+    "name": "Eskorte Latin",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/EskorteLatin",
+    "designer": "Elena Schneider",
+    "year": 2013,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Eskorte is a text serif with humanist proportions and lively italics, designed for professional and editorial environments. Its crisp, businesslike character and clean forms place it firmly in the humanist serif tradition.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Eskorte Latin"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist-serif",
+      "text",
+      "editorial",
+      "corporate",
+      "workhorse",
+      "legible",
+      "multilingual",
+      "variable"
+    ],
+    "summary": "A crisp, businesslike text serif by Elena Schneider, designed for professional and text-intensive environments across five weights with lively matching italics.",
+    "description": "Designed by Elena Schneider and released in 2013, Eskorte Latin covers five weights from Regular to Extrabold, each with a matching italic, plus variable font versions of both axes. The italics carry distinctive character details, including a double-storey 'a' with sharp cuts and a 'g' with a sassy ear, giving text settings warmth without sacrificing efficiency. With small caps, case-sensitive punctuation, tabular and proportional figures, and support for over 300 Latin-script languages, it is built for demanding typographic work from corporate reports to lifestyle magazines.",
+    "foundry_blurb": "Rosetta describe Eskorte as a diligently designed Latin type family with an uncomplicated, engaging poise that conveys a crisp, businesslike tone, aimed at no-nonsense efficiency and ease of use in office and text-intensive professional environments. Supporting over ninety languages across a full weight range with upright and italic styles, it is intended to serve everything from enterprise reports and lifestyle publications to identity work."
+  },
+  {
+    "name": "Gitan Latin",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/GitanLatin",
+    "designer": "Florian Runge",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "flared sans",
+    "classification_notes": "Gitan is a flared sans serif with cuneiform head serifs and wedge terminals drawn from engraving and stone-carving traditions, placing it between a humanist sans and a lapidary inscribed style.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gitan Latin"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "flared-sans",
+      "humanist",
+      "inscribed",
+      "editorial",
+      "packaging",
+      "display",
+      "text",
+      "lapidary"
+    ],
+    "summary": "A flared sans serif by Florian Runge that draws on engraving and stone carving to produce a typeface equally at home in text and display.",
+    "description": "Cuneiform head serifs and deeply cut wedge terminals give Gitan a sculptural character rooted in material craft rather than digital abstraction. The design carries moderate contrast, making it durable at text sizes, while its angular detailing and expressive rhythm suit poster and packaging work. Five weights with matching italics and variable font axes make the family flexible across editorial, wayfinding and branding contexts.",
+    "foundry_blurb": "Rosetta describe Gitan as a flared sans serif reminiscent of engraving and stone carving, sturdy and informal, with crisp cuneiform head serifs and wedge terminals that give it a sculptural appeal for display use. They note that its expressiveness evokes forms crafted directly in raw materials, and that its rhythmic pattern and classic construction make it shine in text, at the crossroads of editorial and packaging work."
+  },
+  {
+    "name": "Gridlite PE",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/GridlitePE",
+    "designer": "David Březina",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "modular/pixel",
+    "classification_notes": "A monospaced, variable display typeface built on a strict modular grid with pixel-like construction, placing it firmly in the display category with a modular/pixel subcategory.",
+    "weights": [
+      "Variable"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gridlite PE"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "pixel",
+      "variable",
+      "monospaced",
+      "display",
+      "lo-fi",
+      "digital",
+      "experimental"
+    ],
+    "summary": "A modular, monospaced variable font by David Březina built on a strict grid, where each letter becomes a tiled field of positive and negative shapes that can be animated or deformed across multiple axes.",
+    "description": "Designed as a deliberate experiment with modular negative space, the pan-European font covers Latin, Cyrillic and Greek scripts and provides variable axes controlling element size, shape and background envelope. Static styles are offered as packs of six variants per weight, and the family includes small caps, fractions, superscripts and a monospaced elephant ligature. It suits posters, editorial design, digital publishing and motion work where the grid structure is itself the visual content.",
+    "foundry_blurb": "Rosetta describe Gridlite as the side effect of a grid addiction, emerging from simultaneous wrestling with the two great type design constraints: low resolution and uniform width. It is simplified, monospaced and variable, with foreground and background both ready to be animated, scaled, rounded or otherwise deformed. The pan-European version covers Cyrillic, Greek and Latin, includes small caps, and even features a monospaced elephant."
+  },
+  {
+    "name": "Handjet",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/Handjet",
+    "designer": "David Březina, Ha-neul Park, Lee-su Yoo",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "modular / dot-matrix",
+    "classification_notes": "Built on a 32-pixel vertical matrix derived from handjet printers, Handjet uses discrete geometric elements placed on a grid to form letters, making it a modular display typeface with strong dot-matrix and pixel-art associations.",
+    "weights": [
+      "Variable"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Handjet"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Arabic",
+      "Armenian",
+      "Hebrew",
+      "Hangul"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "dot-matrix",
+      "variable",
+      "display",
+      "pixel",
+      "multi-script",
+      "open-source",
+      "experimental"
+    ],
+    "summary": "A variable modular typeface built on a 32-pixel dot-matrix grid, originally devised from a student exercise with handjet printers and expanded into a broad multi-script family covering Latin, Cyrillic, Greek, Arabic, Armenian, Hebrew and Hangul.",
+    "description": "David Březina's Handjet began as a teaching exercise at the Faculty of Fine Arts in Brno, where students built simple element-based fonts for handjet printers in a single day. From that constraint, Březina developed a full variable font system containing 23 elemental shapes — circles, triangles, squares, lozenges, clovers, stars, hearts and more — that interpolate smoothly across a single variable font axis, enabling custom weight and style variations or animations. Google sponsored an extension and open-sourcing in 2019, with consultants adding Arabic, Armenian and Hebrew support; in 2023 Ha-neul Park and Lee-su Yoo extended the system to Hangul with 11,470 new glyphs.",
+    "foundry_blurb": "Rosetta describes Handjet as originating from a 2018 type design exercise constrained by the 32-pixel vertical matrix of handjet printers. The system now contains 23 elemental shapes with smooth transitions between them, all operating within a single variable font. Google sponsored the open-sourcing and expansion of the project; subsequent collaborators added Arabic, Armenian, Hebrew and Korean script support. The family is suited to display use in posters, packaging, editorial design, wayfinding and digital publishing."
+  },
+  {
+    "name": "Marlik",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/Marlik",
+    "designer": "Borna Izadpanah",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "simplified arabic",
+    "classification_notes": "Marlik belongs to the simplified Arabic genre, a style developed for hot-metal typesetting that strips back contextual letterforms and ligatures in favour of a pared-down modernist aesthetic. The Latin component is drawn from Skolar Sans, a humanist sans-serif.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Marlik"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "simplified-arabic",
+      "modernist",
+      "multilingual",
+      "text",
+      "branding",
+      "newspaper",
+      "variable"
+    ],
+    "summary": "A reimagining of the simplified Arabic genre by Borna Izadpanah, restoring proper calligraphic proportions while retaining the streamlined modernist aesthetic that made the style popular.",
+    "description": "Simplified Arabic arose from hot-metal constraints, trading calligraphic nuance for economy, but the compromises it produced — stiff baselines, illegible letter combinations and awkward joins — were never resolved. Izadpanah, working with art director Fiona Ross, addresses each of these failings directly, returning conventional Arabic proportions to a genre that had abandoned them. Nine weights from Thin to Black, available as a variable font, make the family suitable for everything from newspaper text to poster headlines.",
+    "foundry_blurb": "Rosetta describe Marlik as a top-tier reading typeface that retains the streamlined look of simplified Arabic while correcting the genre's longstanding technical shortcomings. Designer Borna Izadpanah, a lecturer in typography at the University of Reading with a PhD in the history of Persian typographic representation, brought calligraphic knowledge and digital craft to a genre that had previously been defined by compromise. The result, per Rosetta, is simple but not oversimplified."
+  },
+  {
+    "name": "Moderne Olive",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/ModerneOlive",
+    "designer": "David Březina",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "reverse-contrast sans",
+    "classification_notes": "Moderne Olive is a reverse-contrast sans-serif drawing on the tradition of Antique Olive by Roger Excoffon, distinguished by squarish forms and pinched high-tension strokes at junctions rather than conventional stroke modulation.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Moderne Olive"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "reverse-contrast",
+      "display",
+      "editorial",
+      "playful",
+      "excoffon-influenced",
+      "variable",
+      "packaging",
+      "branding"
+    ],
+    "summary": "A reverse-contrast sans by David Březina that reworks the Antique Olive tradition through squarish geometry and high-tension pinched strokes.",
+    "description": "Derived from Rosetta's experimental Only Yours project, the family spans seven weights from Light to Black with a variable font axis covering the full range. Its reverse-contrast approach updates Roger Excoffon's Antique Olive lineage with regularised, simplified forms and tightly pinched junctions that prevent stroke collisions at heavier weights. An unusually rich feature set includes circled numerals in four styles, combinable multilingual pictograms activatable in French, Italian, English, Spanish and Czech, and extended Latin coverage across 330 languages.",
+    "foundry_blurb": "Rosetta describe Moderne Olive as a reverse-contrast sans built around squarish forms, taking cues from Excoffon's Antique Olive but moving in its own direction. In the spirit of late modernism it regularises and simplifies, while high-tension pinched strokes ease junctions that might otherwise feel too heavy. Originally developed within the experimental Only Yours project, the core variant has been refined and expanded with circled numerals and a selection of pictograms, and it pairs naturally with alternate variants from the wider Only Yours universe."
+  },
+  {
+    "name": "Moderne Olive Rounded",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/ModerneOliveRounded",
+    "designer": "David Březina",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "reverse-contrast sans",
+    "classification_notes": "A reverse-contrast sans-serif in the tradition of Antique Olive by Roger Excoffon, with soft, squarish rounded forms and high-tension pinched stroke junctions that characterise the style.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Moderne Olive Rounded"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "reverse-contrast",
+      "rounded",
+      "playful",
+      "editorial",
+      "display",
+      "soft",
+      "excoffon-lineage",
+      "variable"
+    ],
+    "summary": "A rounded, reverse-contrast sans by David Březina, grown from the Antique Olive tradition with soft squarish forms and high-tension pinched junctions.",
+    "description": "Designed by David Březina and released in 2026, it refines and extends the core variant from Rosetta's experimental Softly Yours project. The reverse-contrast construction follows Excoffon's Antique Olive as a starting point, then diverges through late-modernist regularisation and pinched strokes that ease otherwise heavy junctions. Seven uprights span Light to Black with a matching variable font, and OpenType features include circled numerals, combinable multilingual pictograms, single-storey alternate 'a' and case-sensitive forms.",
+    "foundry_blurb": "Rosetta describe Moderne Olive Rounded as a fluffy counterpart to Moderne Olive, a reverse-contrast sans built around soft, squarish forms. Taking cues from Roger Excoffon's Antique Olive, it regularises and simplifies in the spirit of late modernism, and uses high-tension, pinched strokes to ease heavy junctions. The result is described as occasionally quaint yet highly cohesive, sharp, confident and no-nonsense. It originated as an offshoot of the experimental Softly Yours project, refined and extended with circled numerals and pictograms."
+  },
+  {
+    "name": "Nassim Arabic",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/NassimArabic",
+    "designer": "Titus Nemeth",
+    "year": 2011,
+    "category": "serif",
+    "subcategory": "contemporary text serif",
+    "classification_notes": "Nassim Arabic is classified as a contemporary text serif designed specifically for Arabic script with a matched Latin companion. Its angular, modern forms and structured rhythm place it firmly in the text serif tradition adapted for Arabic typographic conventions.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nassim Arabic Normal",
+      "Nassim Arabic Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "multilingual",
+      "text",
+      "editorial",
+      "news",
+      "contemporary",
+      "workhorse",
+      "opentype"
+    ],
+    "summary": "A contemporary Arabic text typeface by Titus Nemeth, designed for multilingual setting across editorial, news and scholarly publishing in five weights.",
+    "description": "Designed by Titus Nemeth and released in 2011, Nassim Arabic pairs a lively Arabic with a well-balanced Latin companion across five weights from Regular to Extrabold. The family comes in two editions: Normal covers editorial fundamentals, while Pro adds extensive ligature sets, swash variants for Arabic-authentic justification, contextual alternates, tooth-height alternation and ranging numerals. Coverage extends to over 35 languages using the Arabic script, and the typeface has won awards from TDC, European Design and ATypI.",
+    "foundry_blurb": "Rosetta describe Nassim Arabic as a contemporary typeface for multilingual text-setting, bridging Arabic and Latin typographic traditions without forcing compromise. The Pro edition extends the Normal edition with swash variants for refined justification, contextual alternates, tooth-height alternation for distinguishing structurally similar letters, and ranging numerals, all engineered to enhance legibility and maintain authentic Arabic typographic texture."
+  },
+  {
+    "name": "Nassim Latin",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/NassimLatin",
+    "designer": "Titus Nemeth",
+    "year": 2011,
+    "category": "serif",
+    "subcategory": "contemporary text serif",
+    "classification_notes": "Nassim Latin is a text serif with asymmetric serifs and calligraphic modulation derived from broad-nib pen usage, designed specifically to harmonise with Nassim Arabic in multi-script settings.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nassim Latin"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Arabic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "text",
+      "multilingual",
+      "multi-script",
+      "arabic-latin",
+      "workhorse",
+      "editorial",
+      "scholarly",
+      "variable"
+    ],
+    "summary": "A text serif by Titus Nemeth designed to pair with Nassim Arabic, covering over 110 languages with calligraphic modulation and asymmetric serifs across five weights.",
+    "description": "Designed by Titus Nemeth and released in 2011, Nassim Latin is built for long-form reading in multilingual contexts where Latin and Arabic scripts share a page. Its asymmetric serifs and calligraphic stroke modulation give the text a lively rhythm without straying into decorative territory. The family spans five weights with true italics, variable fonts and a full OpenType feature set including small caps, ranging numerals, fractions and case-sensitive punctuation, making it suited to everything from academic publishing to digital news.",
+    "foundry_blurb": "Rosetta describe Nassim Latin as a contemporary typeface for multilingual text-setting, noting its lively texture and balanced rhythm as qualities that suit it to applications ranging from literature and science to scholarly publications and contemporary news. They highlight its asymmetric serifs and calligraphic modulation as keeping the reader alert, and emphasise its design to pair harmoniously with Nassim Arabic without forcing typographic compromise. The family supports more than 110 languages and includes smart OpenType features covering small caps, case-sensitive punctuation and a full palette of numeral styles."
+  },
+  {
+    "name": "Neacademia",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/Neacademia",
+    "designer": "Sergei Egorov",
+    "year": 2011,
+    "category": "serif",
+    "subcategory": "old-style serif",
+    "classification_notes": "A revival of the Aldine types cut by Francesco Griffo in the 15th century, Neacademia falls squarely into the old-style or humanist serif tradition, with calligraphic roots and optical size variants following metal type conventions.",
+    "weights": [
+      "Regular",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "Small Text",
+      "Text",
+      "Subhead",
+      "Display"
+    ],
+    "subfamilies": [
+      "Neacademia"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "revival",
+      "aldine",
+      "old-style",
+      "humanist",
+      "letterpress",
+      "books",
+      "text",
+      "cyrillic"
+    ],
+    "summary": "A historically sensitive revival of Francesco Griffo's 15th-century Aldine types, optimised across four optical sizes for both Latin and Cyrillic setting.",
+    "description": "Designed by Sergei Egorov and released in 2011, Neacademia draws directly from the punchcutting techniques of Francesco Griffo, whose types defined Venetian printing for Aldus Manutius. The family runs across four optical variants — Small Text, Text, Subhead and Display — each tuned for its intended size range, with display cuts retaining calligraphic warmth and text cuts following the carver's hand more closely. It also incorporates Griffo's italic capitals, harmonised with the lowercase, and was designed with letterpress photopolymer printing in mind, tolerating low resolution and rough paper with ease.",
+    "foundry_blurb": "Rosetta describe Neacademia as a Latin and Cyrillic family inspired by the types Francesco Griffo cut for Aldus Manutius, built not just from the letterforms but from Griffo's own methods. Four optical size variants follow metal type tradition, and colour on the page is managed through alternative letterforms rather than kerning pairs. The family incorporates Griffo's italic capitals harmonised with the roman, and was designed to work well for letterpress photopolymer printing, handling rough paper and low-grade presswork as if it were metal type."
+  },
+  {
+    "name": "NovaCaps",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/NovaCaps",
+    "designer": "Tania Chacana",
+    "year": null,
+    "category": "display",
+    "subcategory": "inscriptional caps",
+    "classification_notes": "An all-caps display family rooted in Roman inscriptional letterforms and Art Deco architectural lettering, making it a display type with classical serif proportions but treated as a distinct caps-only genre.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Normal",
+      "Extended",
+      "Extra Extended"
+    ],
+    "subfamilies": [
+      "NovaCaps"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "inscriptional",
+      "caps",
+      "display",
+      "roman",
+      "art-deco",
+      "variable",
+      "fashion",
+      "editorial"
+    ],
+    "summary": "An all-caps display family by Tania Chacana that fuses Roman epigraphic letterforms with Art Deco architectural inscriptions, available across four widths and eight weights with variable font support.",
+    "description": "Drawing from Roman museum inscriptions in Rome and Lyon alongside Art Deco architectural lettering in Buenos Aires, the family combines classical proportions with a subversive sensibility suited to fashion and editorial contexts. Four widths from Condensed to Extra Extended each span eight weights from Thin to Extrabold, and the uprights are available as variable fonts. OpenType features include contraction ligatures, nested ligatures in open and closed forms, swash characters and tall alternates for letters such as I, J, Y and T.",
+    "foundry_blurb": "Rosetta describe NovaCaps as a reinvention of classic Roman inscriptional letters by Tania Chacana, taking its cues from Roman epigraphs in the museums of Rome and Lyon and from architectural Art Deco inscriptions in Buenos Aires, with a subversive outlook lying behind the august constructions of the letters."
+  },
+  {
+    "name": "Only Yours",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/OnlyYours",
+    "designer": "David Březina",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A clean, modular sans-serif with geometric underpinnings; the system of interchangeable design features — arches, terminals, crossbars, dots — is characteristic of geometric sans construction.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Only Yours"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "conceptual",
+      "generative",
+      "display",
+      "editorial",
+      "variable",
+      "unique",
+      "exclusive"
+    ],
+    "summary": "A conceptual type system by David Březina that generates over a million unique variants, each sold exclusively to a single customer.",
+    "description": "Rather than licensing an identical font to countless buyers, Only Yours assembles each variant from a set of switchable design features — terminals, crossbars, arches, dots, and alternate letterforms — producing an estimated 1,179,648 distinct combinations. Nine variants are made available each day; once purchased, a variant is permanently retired from sale, guaranteeing exclusivity. The family runs across seven weights from Light to Black, with variable font support, and covers extended Latin.",
+    "foundry_blurb": "Rosetta describe Only Yours as a conceptual type system that challenges the established retail practice of licensing identical fonts to many customers. Drawing an analogy with DNA, the system combines discrete design features to produce a unique variant for each buyer. Once purchased, that variant is permanently withdrawn from sale, ensuring it belongs to one customer alone. Its rounded companion is Softly Yours."
+  },
+  {
+    "name": "Skolar Devanagari",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/SkolarDevanagari",
+    "designer": "Vaibhav Singh",
+    "year": 2012,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Skolar Devanagari is a text serif designed for academic and editorial use in the Devanagari script, grounded in traditional Devanagari type anatomy with humanist warmth; it pairs with the Latin/Cyrillic/Greek Skolar PE family.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Skolar Devanagari"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Devanagari",
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "devanagari",
+      "academic",
+      "scholarly",
+      "text",
+      "multilingual",
+      "editorial",
+      "indian-scripts",
+      "humanist"
+    ],
+    "summary": "A Devanagari text serif by Vaibhav Singh, designed from the ground up for academic and professional publishing in Hindi, Marathi, Nepali, Sanskrit and over 30 regional Indian languages.",
+    "description": "Designed by Vaibhav Singh with consultancy from Fiona Ross, Skolar Devanagari draws on historical and contemporary letterforms to bring the scholarly credibility of the Skolar family to Indian-script typography. The five weights are equipped with an expansive set of consonant conjuncts, contextual matra variations and language-specific alternates for Marathi, Nepali and Sanskrit, as well as fitted punctuation and numerals. It is intended for use in print and on screen, from rigorous academic treatises to editorial and branding work, and complements Skolar PE for Latin, Cyrillic and Greek.",
+    "foundry_blurb": "Rosetta describe Skolar Devanagari as bringing the time-tested credibility of Skolar to academic and professional settings for Indian languages, enabling typographers to deliver an articulate reading experience in Hindi, Marathi, Nepali, Sanskrit and more than 30 regional languages. Vaibhav Singh researched historical and contemporary letterforms and printing traditions to ensure the design offers serious typographic aptitude and artful personality, grounded in traditional Devanagari anatomy but with its own energy and vitality. First-prize winner for Devanagari at Granshan 2012."
+  },
+  {
+    "name": "Skolar Gujarati",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/SkolarGujarati",
+    "designer": "David Březina",
+    "year": 2012,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "A text serif designed for the Gujarati script with humanist modulation principles; companion to Skolar PE and rooted in traditional Gujarati letterform conventions while incorporating contemporary typographic refinement.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Skolar Gujarati"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Gujarati",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "gujarati",
+      "indic",
+      "text",
+      "academic",
+      "scholarly",
+      "multilingual",
+      "workhorse",
+      "humanist"
+    ],
+    "summary": "A text serif for the Gujarati script by David Březina, developed from historical and modern Gujarati letterform research for academic and professional publishing.",
+    "description": "Designed by David Březina following investigation of historical and modern Gujarati printing, the family covers five weights from Light to Bold and supports Gujarati, Kachchi, Avestan and Sanskrit alongside a full Latin complement. An expansive glyph set includes conjuncts, half-forms, contextual matra variants and both Gujarati and Latin numerals, making it suitable for multilingual scholarly and editorial work. It is part of the broader Skolar type system alongside Skolar PE and Skolar Devanagari, collectively covering over four hundred languages.",
+    "foundry_blurb": "Rosetta describe Skolar Gujarati as bringing the proven credibility of Skolar to academic and professional settings for Indian languages. Designer David Březina investigated historical and modern Gujarati letterforms and printing history to ensure the family delivers the same fusion of typographic authority and individuality as Skolar PE, but built for Indian typography first. The family handles conjuncts, transliterated words and unusual combinations with ease, and is supported by Fiona Ross for Gujarati consultancy."
+  },
+  {
+    "name": "Skolar PE",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/SkolarPE",
+    "designer": "David Březina",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Skolar PE is a text serif designed for demanding multilingual typography, with features typical of transitional serifs adapted for scholarly and extended Latin, Cyrillic and Greek use. Its careful diacritic design and robust text rendering place it firmly in the transitional category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Skolar PE"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "multilingual",
+      "scholarly",
+      "text",
+      "transitional",
+      "diacritics",
+      "variable",
+      "cyrillic",
+      "greek"
+    ],
+    "summary": "A multilingual text serif from Rosetta covering Latin, Cyrillic and Greek with particular care given to diacritic design across scripts.",
+    "description": "Skolar PE offers five weights with matching italics and variable font support, making it well suited to long-form scholarly and editorial work. Its diacritic handling is notable, with forms tuned to the conventions of individual languages rather than a one-size-fits-all approach common to larger foundries. The breadth of script coverage, including Vietnamese-extended Latin, polytonic Greek and Cyrillic, makes it a considered choice for multilingual publishing.",
+    "foundry_blurb": "Rosetta present Skolar PE as a serious multilingual text typeface with extensive script support across Latin, Cyrillic and Greek, including small caps and variable font axes. The specimen demonstrates its suitability for text-heavy scholarly contexts, with sample texts drawn from multiple languages and scripts."
+  },
+  {
+    "name": "Skolar Sans Arabic",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/SkolarSansArabic",
+    "designer": "Titus Nemeth",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A low-contrast Naskh-style Arabic family with humanist proportions, designed for comfortable text reading across editorial and digital contexts. The Latin companion follows humanist sans conventions.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Skolar Sans Arabic"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "naskh",
+      "multilingual",
+      "text",
+      "editorial",
+      "digital",
+      "workhorse",
+      "humanist"
+    ],
+    "summary": "A low-contrast Naskh-based Arabic text family spanning nine weights, designed for editorial and data-rich digital environments across Arabic, Persian, Urdu and over two dozen other languages.",
+    "description": "Designed by Titus Nemeth with Latin assistance from Rosetta's team, the family brings Skolar Sans's editorial adaptability to the Arabic script. Built on Naskh typographic structures with finely tuned weight variants, it covers 30 Arabic-script languages alongside an extended Latin of 233 languages, making it a credible choice for wide-ranging multilingual publishing. A variable font is included alongside the nine static weights, giving further flexibility across screen and print contexts.",
+    "foundry_blurb": "Rosetta describe Skolar Sans Arabic as a contemporary low-contrast family built on familiar Naskh typographic structures, finely tuned across its weight variants for legibility and technical performance in any text setting. They position it for Arabic, Persian, Urdu and more than two dozen other languages, covering everything from widescreen dashboards to compact mobile editorial designs."
+  },
+  {
+    "name": "Skolar Sans Hebrew",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/SkolarSansHebrew",
+    "designer": "Eran Ben Barak",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A low-contrast sans-serif with humanist proportions, designed to match the rhythm and density of the Latin Skolar Sans while respecting conventional Hebrew letterforms.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Skolar Sans Hebrew"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Hebrew"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "hebrew",
+      "humanist",
+      "text",
+      "editorial",
+      "legible",
+      "multi-script",
+      "contemporary",
+      "workhorse"
+    ],
+    "summary": "A Hebrew extension of the Skolar Sans family, drawn by Eran Ben Barak to match the rhythm and density of its Latin counterpart across nine weights with italics.",
+    "description": "Designed by Eran Ben Barak and released in 2024, the family achieves a consistent typographic colour across Hebrew and Latin through systematic grouping of letterforms that respects conventional Hebrew proportions. The low-contrast design is tuned for legibility across editorial texts and data-rich interfaces, with particular care given to nikud diacritical marks and Latin punctuation adapted for Hebrew contexts. Italic styles include an alternative flat-top mem for typographers who want a touch of distinction.",
+    "foundry_blurb": "Rosetta describe Skolar Sans Hebrew as bringing the adaptability of Skolar Sans to the Hebrew script, with Eran Ben Barak achieving a consistent rhythm that retains conventional Hebrew forms and natural proportions while matching the density of the Latin. The result is a contemporary low-contrast family with careful attention to nikud marks, adapted punctuation, and an alternative italic mem."
+  },
+  {
+    "name": "Skolar Sans PE",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/SkolarSansPE",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Skolar Sans PE is a humanist sans-serif with a wide range of weights and widths, designed for demanding editorial and text environments across multiple scripts including Latin and Greek.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Normal",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Skolar Sans PE"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "editorial",
+      "multilingual",
+      "variable",
+      "wide-family",
+      "text",
+      "compressed",
+      "extended"
+    ],
+    "summary": "A large-scale humanist sans from Rosetta spanning four widths, nine weights and matching italics, with variable font support and coverage of Latin and Greek scripts.",
+    "description": "With four widths running from Compressed to Extended, nine weights from Thin to Black and full italic counterparts, this family amounts to 72 static styles plus variable uprights and italics. Small caps and multilingual support across Latin and Greek make it suited to long-form editorial, complex information design and multilingual publishing. The variable axes allow precise control over weight and width within a single file.",
+    "foundry_blurb": "Rosetta offer Skolar Sans PE across four widths — Compressed, Condensed, Normal and Extended — each in nine weights with italics, as well as variable font versions for both uprights and italics, with support for Latin and Greek scripts."
+  },
+  {
+    "name": "Softly Yours",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/SoftlyYours",
+    "designer": "David Březina",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "rounded sans",
+    "classification_notes": "A soft, rounded sans-serif with playful informal character. The rounded terminals and friendly proportions place it firmly in the rounded sans subcategory, oriented toward display and editorial use.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Softly Yours"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "display",
+      "playful",
+      "informal",
+      "editorial",
+      "unique-variants",
+      "conceptual",
+      "sans"
+    ],
+    "summary": "A rounded display sans sold in exclusive per-customer variants, so no two buyers can own the same version of the typeface.",
+    "description": "Designed by David Březina and released in May 2025, Softly Yours is a conceptual type system that upends conventional font licensing by generating over one million distinct variants from a fixed set of swappable design features. Nine variants are offered daily; once purchased, a variant is retired from sale permanently, ensuring exclusivity. Seven weights from Light to Black are available, and alternates cover features such as foot terminals, arch counters, dot forms and letter-specific alternates for a, c, f, g, j, r, t, ampersand, asterisk and Y.",
+    "foundry_blurb": "Rosetta describe Softly Yours as a polyphonic type system that challenges the standard retail practice of licensing identical fonts to many customers. In the same way a small number of DNA building blocks can produce unique organisms, Softly Yours combines discrete design features into a vast number of individual font variants. Once a variant is purchased it becomes exclusively yours, and no other customer can ever buy the same combination again."
+  },
+  {
+    "name": "Sutturah",
+    "foundry": "Rosetta",
+    "url": "https://rosettatype.com/Sutturah",
+    "designer": "Octavio Pardo",
+    "year": 2011,
+    "category": "display",
+    "subcategory": "display blackletter-influenced",
+    "classification_notes": "A single ultrablack display weight drawing on gothic Fraktur and high-contrast wood types, combined with lettering and handwriting influences. Its constructed yet buoyant character places it squarely in the display category rather than blackletter proper.",
+    "weights": [
+      "Fat"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sutturah"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "blackletter-influenced",
+      "ultrablack",
+      "poster",
+      "expressive",
+      "informal",
+      "lettering",
+      "fat"
+    ],
+    "summary": "An ultrablack display typeface by Octavio Pardo that fuses gothic Fraktur, wood type and handwriting influences into a single, wilfully irreverent weight.",
+    "description": "Designed by Octavio Pardo and released in 2011, the typeface sits at the intersection of tightly constructed letterforms and the loose buoyancy of lettering traditions. A single ultrablack weight is backed by extra ligatures, swashes and OpenType alternates across Latin and Cyrillic scripts. It won a TDC Certificate of Excellence and a Granshan second prize in 2012, and was named among Typographica's best of that year.",
+    "foundry_blurb": "Rosetta describe Sutturah as a display font intended for posters and high-impact environments, originating from an exploration of radical text patterns. They note that its brazen character goes beyond accepted conventions of letter-shape construction, and that a single word set in it can carry the visual weight of a thousand images. Extra ligatures and swashes extend the expressive range of the single ultrablack design."
+  }
+]

@@ -146,6 +146,13 @@ export const BLOCKED_FOUNDRIES: { domain: string; name: string; reason: string }
   { domain: "colophon-foundry.org", name: "Colophon", reason: "JS-rendered, no crawlable listing" },
   { domain: "familytype.co", name: "Family Type", reason: "JS-rendered, no crawlable listing" },
   { domain: "outofthedark.xyz", name: "Out of the Dark", reason: "JS-rendered, no crawlable listing" },
+  { domain: "ott-foundry.com", name: "OTT Foundry", reason: "JS-rendered, no crawlable listing" },
+  { domain: "vllg.com", name: "Village", reason: "React SPA, no crawlable listing" },
+  { domain: "205.tf", name: "205TF", reason: "Next.js SPA, no crawlable listing" },
+  { domain: "monkeytype.xyz", name: "Monkey Type", reason: "SPA, no crawlable listing" },
+  { domain: "ultra-kuhl.com", name: "Ultra Kuhl", reason: "rebranded as Rellence, site unreachable" },
+  { domain: "commercialclassics.com", name: "Commercial Classics", reason: "SSL certificate expired" },
+  { domain: "milieugrotesque.com", name: "Milieu Grotesque", reason: "redirects to MyFonts, no own listing" },
 ];
 
 export function getFoundryBySlug(slug: string): FoundryInfo | undefined {

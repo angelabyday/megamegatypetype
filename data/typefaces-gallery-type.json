@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Golt",
+    "foundry": "Gallery Type",
+    "url": "https://gallerytype.com/fonts/golt",
+    "designer": "Daniel Perraudin, Alexander Roth",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A geometric grotesque rooted in Berlin street and metro signage, drawing from Erbar Grotesk and Thannhäuser's 1942 designs. Wide, rounded proportions with sharply vertical stroke terminals place it firmly in the geometric grotesque tradition.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Golt"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "berlin",
+      "signage",
+      "wayfinding",
+      "wide",
+      "variable"
+    ],
+    "summary": "A wide geometric grotesque drawn from Berlin street and metro signage, referencing Herbert Thannhäuser's 1942 letterforms and the historic typefaces of the U8 line.",
+    "description": "Designed by Daniel Perraudin and Alexander Roth, Golt takes its proportions and details from Berlin's layered typographic history, including Erbar Grotesk, Thannhäuser's street sign letterforms and Andreas Frohloff's 1990s revision. Characteristic details include sharp vertical stroke terminals, a wide open G modelled on the Gneisenaustraße metro lettering, an angled t crossbar and a straight-descender alternate for the lowercase y. Nine weights from Hairline to Black are available as static fonts and as a variable font, with broad Latin language coverage spanning over 100 languages.",
+    "foundry_blurb": "Gallery Type describe Golt as a contemporary sans serif designed for clarity, character and versatility, rooted in the visual culture of Berlin's metro and street signage. They frame it as a synthesis of influences drawn from the city's typographic landscape, including Erbar Grotesk, Thannhäuser's 1942 designs and Frohloff's 1990s revision, fused into a coherent and original design system suitable for branding, wayfinding and body text."
+  },
+  {
+    "name": "Maurizio",
+    "foundry": "Gallery Type",
+    "url": "https://gallerytype.com/fonts/maurizio",
+    "designer": "Daniel Perraudin, Nina Botthof",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "high-contrast display serif",
+    "classification_notes": "A superhigh-contrast display serif with razor-sharp serifs and extreme weight range from Hairline to Black; explicitly designed for large sizes only, placing it firmly in the display category rather than general-purpose text serif.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Maurizio"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "editorial",
+      "poster",
+      "variable",
+      "italian",
+      "luxury",
+      "expressive"
+    ],
+    "summary": "A superhigh-contrast display serif by Daniel Perraudin and Nina Botthof, built from just two hand-drawn extremes — Hairline and Black — with everything between interpolated across a variable axis.",
+    "description": "Designed for large sizes where its razor-sharp serifs, open lobes on the 'g' and twisted dots on 'i' and 'j' become fully legible, the family spans nine weights in both Roman and Italic. The Italic, contributed by Nina Botthof, introduces exaggerated end strokes in the lowercase that produce a distinctive rhythmic texture while remaining faithful to the rigid Roman skeleton. Both static and variable font versions are available, the latter covering the full weight range with matching italics.",
+    "foundry_blurb": "Gallery Type describe Maurizio as a display typeface suited to big screens and big stages, evoking Italian bellezza and the Mediterranean evening. They frame it as an exploration into how far interpolation can be stretched in a superhigh-contrast design: only the Hairline and Black extremes were drawn by hand, with almost everything else interpolated between them."
+  }
+]

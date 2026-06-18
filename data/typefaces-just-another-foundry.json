@@ -1,0 +1,550 @@
+[
+  {
+    "name": "JAF Bernini Sans",
+    "foundry": "Just Another Foundry",
+    "url": "https://justanotherfoundry.com/bernini-sans",
+    "designer": "Tim Ahrens & Shoko Mugikura",
+    "year": 2012,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A humanist sans with open apertures and balanced weight distribution suited to text; the informal Bernina Sans sub-family with round dots and double-storey g reinforces its humanist leanings.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Narrow",
+      "Condensed",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "JAF Bernino Sans",
+      "JAF Bernino Sans Narrow",
+      "JAF Bernino Sans Condensed",
+      "JAF Bernino Sans Compressed",
+      "JAF Bernina Sans",
+      "JAF Bernina Sans Narrow",
+      "JAF Bernina Sans Condensed",
+      "JAF Bernina Sans Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "text",
+      "display",
+      "wide-system",
+      "multi-width",
+      "editorial",
+      "corporate",
+      "versatile"
+    ],
+    "summary": "A large type system by Tim Ahrens and Shoko Mugikura, split into a neutral text-oriented sub-family and a more informal companion with alternate letterforms, each spanning four widths and five weights.",
+    "description": "JAF Bernini Sans comprises two distinct sub-families: JAF Bernino Sans, with finely balanced weight distribution and open shapes for text and display work, and JAF Bernina Sans, a friendlier variant featuring round dots and a double-storey g. Each sub-family runs across four widths — Regular, Narrow, Condensed and Compressed — and five weights from Light to Extrabold, all with italics, giving designers eighty styles in total. The system won TDC and Communication Arts awards in 2012 and has been used in campaigns including Highland Spring.",
+    "foundry_blurb": "JAF describe Bernini Sans as a type system built around two sub-families — JAF Bernino Sans and JAF Bernina Sans. Bernino Sans is positioned as a text face with balanced weight distribution and open shapes, while its range of weights and widths makes it equally capable for headings and display. Bernina Sans offers a more informal character through alternate letterforms including round dots and a double-storey g. Both sub-families were designed by Tim Ahrens and Shoko Mugikura and published in 2012, receiving recognition from TDC and Communication Arts that year."
+  },
+  {
+    "name": "JAF Cupidus",
+    "foundry": "Just Another Foundry",
+    "url": "https://justanotherfoundry.com/cupidus",
+    "designer": "Tim Ahrens and Shoko Mugikura",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "rounded sans",
+    "classification_notes": "A rounded sans-serif with an extremely high x-height and equalised counter spaces, designed to reduce the hierarchy between upper and lowercase letters. The Text subfamily adjusts spacing and x-height for continuous reading.",
+    "weights": [
+      "Ultralight",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Ultrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "JAF Cupidus",
+      "JAF Cupidus Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "high-x-height",
+      "text",
+      "display",
+      "geometric",
+      "identity",
+      "app",
+      "contemporary"
+    ],
+    "summary": "A rounded sans by Tim Ahrens and Shoko Mugikura built around an extremely high x-height that compresses the visual hierarchy between upper and lowercase letters.",
+    "description": "Designed by Tim Ahrens and Shoko Mugikura and published in 2022, Cupidus extends JAF Domus's principle of equalising counter spaces into the vertical axis, producing an unusually compact cap-to-x relationship. Ten weights with matching italics span Ultralight to Ultrabold, while the accompanying Cupidus Text subfamily adjusts letter spacing, word spacing and x-height for sustained reading at tight line spacing. The family won a TDC 2023 award and has been used in brand identity work for cooking apps and similar digital-first contexts.",
+    "foundry_blurb": "JAF describe Cupidus as defined by its extremely high x-height, extending the concept of equalising counter space from their earlier JAF Domus into the vertical dimension to reduce the hierarchy between upper and lowercase letters. Though originally conceived as a display face, they found it could function well at text sizes, which led to the creation of Cupidus Text, a version with looser spacing and a slightly reduced x-height for continuous reading at tight line spacing."
+  },
+  {
+    "name": "JAF Domus",
+    "foundry": "Just Another Foundry",
+    "url": "https://justanotherfoundry.com/domus",
+    "designer": "Tim Ahrens & Shoko Mugikura",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Monolinear construction with rounded terminals and classical Roman proportions adapted for text use, placing it firmly in the geometric sans tradition with humanist softening.",
+    "weights": [
+      "Ultralight",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JAF Domus",
+      "JAF Domus Titling"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "monolinear",
+      "text",
+      "humanist",
+      "corporate",
+      "brand"
+    ],
+    "summary": "A monolinear, rounded-terminal sans derived from JAF Domus Titling, recalibrated with more economical proportions for sustained text use.",
+    "description": "Spun off from the display-oriented JAF Domus Titling, this text version by Tim Ahrens and Shoko Mugikura tightens the classical Roman proportions of the original while preserving its soft, generous character. Seven weights from Ultralight to Extrabold each carry matching italics, with the extreme ends of the range suited to headline work and the middle weights comfortable in longer reading settings. The rounded terminals give it a approachable warmth that works well in brand identity contexts, as demonstrated in its use for life sciences company Sphere Fluidics.",
+    "foundry_blurb": "Just Another Foundry describe JAF Domus as a monolinear sans with rounded terminals, derived from JAF Domus Titling. They explain that while the titling version closely follows classical Roman proportions, the text version was given more economical proportions without sacrificing the generous feel of the Domus family. The extreme weight variants are highlighted as suited to expressive or eye-catching headlines, while the remaining weights are positioned for longer text settings."
+  },
+  {
+    "name": "JAF Domus Titling",
+    "foundry": "Just Another Foundry",
+    "url": "https://justanotherfoundry.com/domus-titling",
+    "designer": "Shoko Mugikura & Tim Ahrens",
+    "year": 2011,
+    "category": "display",
+    "subcategory": "rounded display",
+    "classification_notes": "Designed specifically as an all-caps display sans with rounded terminals and classical Roman proportions, placing it firmly in the display category with a rounded subcategory.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JAF Domus Titling"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "display",
+      "all-caps",
+      "titling",
+      "classical-proportions",
+      "sans-serif"
+    ],
+    "summary": "An all-caps rounded sans designed for display use, drawing on classical Roman letter proportions across seven weights.",
+    "description": "Designed by Shoko Mugikura and Tim Ahrens and published in 2011, this all-caps titling face pairs rounded terminals with the wide, classical proportions of Roman capitals. Seven weights run from Extralight to Extrabold, with no italics, reflecting its purpose as a headline and display tool. The family includes a large accented character set, small caps and alternate glyphs, making it more versatile than its display brief might suggest.",
+    "foundry_blurb": "Just Another Foundry describe JAF Domus Titling as an all-caps rounded typeface designed from the outset for display use, with classical Roman proportions. Designed by Shoko Mugikura and Tim Ahrens and released in 2011, it spans seven weights from Extralight to Extrabold and includes accented characters, small caps and alternate glyphs. A related text family, JAF Domus, is available separately."
+  },
+  {
+    "name": "JAF Facit",
+    "foundry": "Just Another Foundry",
+    "url": "https://justanotherfoundry.com/facit",
+    "designer": "Tim Ahrens",
+    "year": 2005,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "JAF Facit is a humanist sans-serif, balancing warmth and precision across its weight range, originally conceived for print with a screen-optimised web variant developed later.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JAF Facit"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "sans-serif",
+      "print",
+      "web",
+      "elegant",
+      "versatile",
+      "screen-optimised"
+    ],
+    "summary": "A humanist sans by Tim Ahrens spanning six weights with italics, designed for print and later adapted for screen use.",
+    "description": "Designed by Tim Ahrens and published in 2005, JAF Facit runs from Extralight to Extrabold with matching italics across all six weights. The weight range allows typographic voices from delicate and approachable to firm and assertive while maintaining stylistic consistency throughout the family. A screen-optimised version, Facit Web, has gained traction for online use alongside the original print-focused release.",
+    "foundry_blurb": "Just Another Foundry describe JAF Facit as a family whose weight range from Extralight to Extrabold enables typographic voices varying from elegant and friendly to definite and strong, while retaining stylistic consistency. Originally designed for print, its screen-optimised variant Facit Web has grown increasingly popular for use online."
+  },
+  {
+    "name": "JAF Globus",
+    "foundry": "Just Another Foundry",
+    "url": "https://justanotherfoundry.com/globus",
+    "designer": "Tim Ahrens and Shoko Mugikura",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described by the foundry as modernist with a geometric feel, drawing on Univers and JAF Bernini Sans; circular rounds and generous spacing give it a geometric quality without strict geometric construction.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Ultrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JAF Globus"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modernist",
+      "screen-optimised",
+      "editorial",
+      "news",
+      "body-text",
+      "versatile"
+    ],
+    "summary": "A screen-optimised geometric sans by Tim Ahrens and Shoko Mugikura, designed for news app use with six weights and matching italics.",
+    "description": "Built with small-screen legibility in mind, JAF Globus draws on Univers and JAF Bernini Sans while maintaining a geometric character through careful stroke transitions and open counters rather than strict geometric construction. Letter widths are adjusted at key points, such as a wider t and f, to keep longer text comfortable in body settings. Six weights from Light to Ultrabold with italics give it range across display and editorial work, as demonstrated in its deployment as a custom font for Berliner Morgenpost via Funke Mediengruppe.",
+    "foundry_blurb": "Just Another Foundry describe JAF Globus as a modernist typeface with a geometric feel, designed for small sizes on screen and informed by Univers and their own JAF Bernini Sans. Rather than strict geometry, circular rounds are achieved through careful stroke transitions and generous white space, with adjusted letter widths to ease longer texts. The family covers six weights with italics and suits both display and body use."
+  },
+  {
+    "name": "JAF Herb",
+    "foundry": "Just Another Foundry",
+    "url": "https://justanotherfoundry.com/herb",
+    "designer": "Tim Ahrens",
+    "year": 2010,
+    "category": "blackletter",
+    "subcategory": "cursive broken script",
+    "classification_notes": "Based explicitly on sixteenth-century cursive broken scripts and printing types, with fraktur-derived connecting letterforms; classified as blackletter despite its intent to avoid negative connotations associated with the style.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JAF Herb",
+      "JAF Herb Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "fraktur",
+      "cursive",
+      "broken-script",
+      "identity",
+      "historical",
+      "connecting-letterforms"
+    ],
+    "summary": "A blackletter drawn from sixteenth-century cursive broken scripts, designed to retain fraktur's complexity without its conservative or aggressive associations.",
+    "description": "Originating in Tim Ahrens's MA Typeface Design studies at the University of Reading, JAF Herb draws on sixteenth-century cursive broken scripts and printing types, with connecting letterforms at a tight spacing. The family spans Regular and Bold in both standard and condensed widths, giving it range for brand identity work where historical texture is wanted without the ideological baggage fraktur typically carries. The ATypI letter.2 award and its deployment in contemporary Austrian bakery branding confirm its practical utility in modern identity contexts.",
+    "foundry_blurb": "Just Another Foundry describe JAF Herb as rooted in sixteenth-century cursive broken scripts and printing types, featuring connecting letterforms at tight spacing. Originally designed during Tim Ahrens's MA at the University of Reading and extended in 2010, the typeface was conceived to carry the complex, humane character of fraktur while avoiding any conservative, aggressive or intolerant connotations."
+  },
+  {
+    "name": "JAF Johannes",
+    "foundry": "Just Another Foundry",
+    "url": "https://justanotherfoundry.com/johannes",
+    "designer": "Shoko Mugikura & Tim Ahrens",
+    "year": 2014,
+    "category": "blackletter",
+    "subcategory": "blackletter revival",
+    "classification_notes": "A digitisation of a 1930s blackletter typeface by Johannes Schulz, described as 'Techno meets Blackletter', placing it firmly in the blackletter category with an unusual geometric-industrial quality.",
+    "weights": [
+      "Regular",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JAF Johannes",
+      "JAF Johannes Original"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "revival",
+      "1930s",
+      "geometric",
+      "display",
+      "techno",
+      "historical",
+      "distinctive"
+    ],
+    "summary": "A digitisation and extension of Johannes Schulz's 1930s Johannes-Type, split into a faithful revival and a version with redrawn contemporary letterforms.",
+    "description": "Originally designed for the Genzsch & Heyse foundry in Hamburg, the source material has an unusual geometric-industrial quality that reads as 'Techno meets Blackletter' despite predating the aesthetic by decades. Shoko Mugikura and Tim Ahrens offer two sub-families: JAF Johannes Original stays close to Schulz's drawings, while JAF Johannes reworks select letters into more contemporary shapes. Each sub-family ships in two styles.",
+    "foundry_blurb": "Just Another Foundry describe JAF Johannes as a digitisation and extension of the Johannes-Type by Johannes Schulz, originally produced for the Genzsch & Heyse type foundry in Hamburg in the 1930s. They characterise the design as 'Techno meets Blackletter' and note that JAF Johannes Original is a faithful revival, while JAF Johannes features re-designed contemporary shapes for certain letters."
+  },
+  {
+    "name": "JAF Lapture",
+    "foundry": "Just Another Foundry",
+    "url": "https://justanotherfoundry.com/lapture",
+    "designer": "Tim Ahrens, Oleg Macujev",
+    "year": 2004,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Rooted in Albert Kapr's Leipziger Antiqua (1971), which blends blackletter and roman traditions; the result is a humanist serif with distinctive calligraphic tension rather than a purely classical or transitional structure.",
+    "weights": [
+      "Regular",
+      "Italic",
+      "Bold",
+      "Bold Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Extrabold",
+      "Extrabold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "JAF Lapture",
+      "JAF Lapture Display",
+      "JAF Lapture Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist-serif",
+      "blackletter-influence",
+      "editorial",
+      "exhibition",
+      "optical-sizes",
+      "east-german",
+      "historical-revival",
+      "cultural"
+    ],
+    "summary": "A careful revival of Albert Kapr's Leipziger Antiqua, distinguished by its unusual hybrid of blackletter rhythm and roman structure across two optical sizes and a condensed sub-family.",
+    "description": "Originally digitised in 2004 by Tim Ahrens from Kapr's 1971 Typoart design, the family was substantially expanded in 2025 with extra-heavy weights, condensed styles and Cyrillic support added by Oleg Macujev. The Text cut is optimised for smaller sizes, while the Display subfamily runs to ten styles from Regular to Black, each with matching italics. Its blend of calligraphic energy with classical roman proportions makes it well-suited to cultural publishing, exhibition catalogues and editorial contexts where a straightforward serif would feel inert.",
+    "foundry_blurb": "JAF Lapture is based on the Leipziger Antiqua by Albert Kapr, originally released in 1971 by East German foundry Typoart. The design combines blackletter and roman characteristics and was redesigned, extended and digitised in 2004 by Tim Ahrens. Oleg Macujev added Cyrillic support in 2019. A 2025 update introduced extra-heavy weights, condensed styles and extended the Cyrillic across the family. The typeface is offered in Text and Display optical sizes, with 19 styles in total across the three sub-families."
+  },
+  {
+    "name": "JAF Mashine",
+    "foundry": "Just Another Foundry",
+    "url": "https://justanotherfoundry.com/mashine",
+    "designer": "Tim Ahrens",
+    "year": 2005,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "An all-caps display family with quasi-geometric construction, but serif-like terminals and unusual joints prevent it from being a pure geometric; rounded versions extend the range further into expressive display territory.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JAF Mashine",
+      "JAF Mashine Rounded"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "all-caps",
+      "rounded",
+      "modular",
+      "titling",
+      "expressive"
+    ],
+    "summary": "An all-caps display family by Tim Ahrens that tempers its geometric appearance with serif-like terminals and irregular joints, available in six weights with a rounded companion subfamily.",
+    "description": "Despite an initial impression of strict, non-designed geometry, JAF Mashine introduces serif-like terminals and unusual stroke joints that give it a distinctive quality within the display register. The family is all-caps in construction, with stylistic alternates accessible by switching between lowercase and capital glyphs to provide visual variation. Twelve styles in total span six weights from Extralight to Extrabold across both the standard and rounded versions.",
+    "foundry_blurb": "Just Another Foundry describe JAF Mashine as a display family that appears strict and non-designed at first glance, but is less geometric than it seems; serif-like terminals and unusual joints give it a unique character. It is an all-caps family designed by Tim Ahrens and published in 2005, comprising six weights alongside rounded versions, with stylistic alternates accessible by toggling between lowercase and capital glyphs."
+  },
+  {
+    "name": "JAF Peacock",
+    "foundry": "Just Another Foundry",
+    "url": "https://justanotherfoundry.com/peacock",
+    "designer": "Brian Jaramillo, Tim Ahrens",
+    "year": 2010,
+    "category": "display",
+    "subcategory": "flair display",
+    "classification_notes": "A single-style display family drawing on the exuberant, high-contrast flair typefaces of the 1970s; decorative letterforms and extensive alternate sets place it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JAF Peacock"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "1970s",
+      "flair",
+      "decorative",
+      "alternates",
+      "retro",
+      "expressive"
+    ],
+    "summary": "A single-style display typeface drawn from the exuberant flair lettering of the 1970s, with over 1,200 glyphs and a generous set of contextual and stylistic alternates.",
+    "description": "Designed by Brian Jaramillo and refined with Tim Ahrens, JAF Peacock takes its cues from the ornate, high-spirited flair typefaces of the 1970s. Its single Regular style is packed with contextual and stylistic alternates that give designers considerable room to vary texture and rhythm. Extended language support and more than 1,200 glyphs make it a practical choice for decorative headlines and display work across multiple markets.",
+    "foundry_blurb": "Just Another Foundry describe JAF Peacock as a display family inspired by the flair typefaces of the 1970s, produced through a collaboration between Brian Jaramillo, who completed most of the glyphs in Illustrator, and Tim Ahrens, who refined the letterforms and built out the OpenType feature set. Published in 2010, the single-style family contains more than 1,200 glyphs and offers a full toolbox of contextual and stylistic alternates alongside extended language support."
+  },
+  {
+    "name": "JAF Zalamander",
+    "foundry": "Just Another Foundry",
+    "url": "https://justanotherfoundry.com/zalamander",
+    "designer": "Tim Ahrens",
+    "year": 2006,
+    "category": "blackletter",
+    "subcategory": "contemporary blackletter",
+    "classification_notes": "The typeface is rooted in blackletter tradition but fused with graffiti, Art Deco and Constructivist influences, making it a distinctly contemporary and display-oriented blackletter.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JAF Zalamander",
+      "JAF Zalamander Caps"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "graffiti",
+      "art-deco",
+      "constructivism",
+      "display",
+      "hip-hop",
+      "caps",
+      "cyrillic"
+    ],
+    "summary": "A seven-weight blackletter by Tim Ahrens that blends graffiti, Art Deco and Constructivism, with a dedicated Caps subfamily solving the all-capitals legibility problem inherent to the genre.",
+    "description": "Released in 2006 by Tim Ahrens, JAF Zalamander draws on blackletter, graffiti writing, Constructivism and Art Deco to produce something dynamic and visually distinct from orthodox textura or fraktur revivals. The family runs across six weights from Extralight to Extrabold, and a parallel Caps subfamily provides letter variations specifically designed to sit well together in uppercase-only settings. Cyrillic is included in all weights, and the Caps version is available as a free download.",
+    "foundry_blurb": "Just Another Foundry describe JAF Zalamander as a lively and dynamic typeface combining blackletter, graffiti, Constructivism, Art Deco and Hip Hop influences. They highlight the Caps versions as a solution to the well-known problem of blackletter performing poorly in all-capitals text, with the alternate forms also accessible within the standard fonts."
+  }
+]
