@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Kablammo",
+    "foundry": "Vectro",
+    "url": "https://www.vectrotype.com/kablammo",
+    "designer": "Travis Kochel",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "novelty display",
+    "classification_notes": "Kablammo is a maximalist decorative display typeface with a variable morphing axis; its explicit inspirations are Jokerman, 80s/90s cartoons and the Memphis Group, placing it firmly in the novelty display category.",
+    "weights": [
+      "Variable"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kablammo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Emoji"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "variable",
+      "maximalist",
+      "novelty",
+      "cartoon",
+      "memphis",
+      "decorative",
+      "google-fonts"
+    ],
+    "summary": "A maximalist variable display typeface by Travis Kochel, commissioned by Google Fonts, with a Morph axis that animates ornamental decorations across four predefined glyph alternates.",
+    "description": "Inspired by Jokerman, 80s and 90s toy and cartoon aesthetics and the Memphis Group, Kablammo is built around a single variable axis (MORF, ranging from 0 to 60) that shifts the weight and decoration of each glyph fluidly between four alternates. The family covers Latin and Cyrillic scripts alongside an extensive set of emoji and symbolic characters, including astrology signs, borders and patterns. Contextual alternates prevent repeated letters from appearing identical within a word.",
+    "foundry_blurb": "Kablammo is described by Vectro as a hyperactive, doodad, maximalist typeface drawing energy from Jokerman, 80s and 90s toys and cartoons, and the Memphis Group. It is a variable font featuring a Morph axis that lets users bounce between four predefined glyph alternates or land anywhere in between, and was commissioned by Google Fonts."
+  },
+  {
+    "name": "Chartwell",
+    "foundry": "Vectro",
+    "url": "https://www.vectrotype.com/chartwell",
+    "designer": "Travis Kochel",
+    "year": 2011,
+    "category": "display",
+    "subcategory": "utility display",
+    "classification_notes": "Chartwell is a functional novelty typeface that uses OpenType discretionary ligatures to render data entered as text into chart forms such as pies, bars and radar plots. It defies standard classification but sits closest to display given its specialised, non-running-text application.",
+    "weights": [
+      "Pies",
+      "Areas",
+      "Lines",
+      "Steps",
+      "Bars",
+      "Histograms",
+      "Bars 3D",
+      "Radar",
+      "Rose",
+      "Rings",
+      "Arcs",
+      "Scatter",
+      "Progress"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Chartwell Pies",
+      "Chartwell Areas",
+      "Chartwell Lines",
+      "Chartwell Steps",
+      "Chartwell Bars",
+      "Chartwell Histograms",
+      "Chartwell Bars 3D",
+      "Chartwell Radar",
+      "Chartwell Rose",
+      "Chartwell Rings",
+      "Chartwell Arcs",
+      "Chartwell Scatter",
+      "Chartwell Progress"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "utility",
+      "data-visualisation",
+      "opentype",
+      "charts",
+      "novelty",
+      "infographic",
+      "figma",
+      "functional"
+    ],
+    "summary": "A typeface that converts typed numbers into editable charts using OpenType discretionary ligatures, supporting pie, bar, radar and scatter formats among others.",
+    "description": "Designed by Travis Kochel and first released in 2011, Chartwell uses OpenType technology to turn numeric strings into rendered charts while keeping the underlying data as editable text. Thirteen chart variants cover pies, bars, lines, radar plots, scatter graphs and more, with web and Figma support added alongside the Adobe ecosystem. Originally signed with FontFont in 2012, it returned to its creators at Vectro in 2023 and picked up awards from Fast Company, Communication Arts and Typographica along the way.",
+    "foundry_blurb": "Vectro describe Chartwell as an award-winning font that makes charts using OpenType technology, supported across Adobe applications, Figma and the web. Data entered as editable text is converted into chart forms, making updates straightforward. Originally self-released in 2011 and later distributed through FontFont, it is now back home under the management of its creators at Vectro."
+  },
+  {
+    "name": "Rainer",
+    "foundry": "Vectro",
+    "url": "https://www.vectrotype.com/rainer",
+    "designer": "Philipp Neumeyer",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "compressed grotesque",
+    "classification_notes": "A tightly compressed sans-serif with closed apertures and a large x-height, sitting within the grotesque tradition but with distinctive character details such as a high waist and reduced overall appearance.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rainer"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "compressed",
+      "grotesque",
+      "headline",
+      "tight",
+      "editorial",
+      "cyrillic",
+      "greek",
+      "workhorse"
+    ],
+    "summary": "A tightly compressed grotesque by Philipp Neumeyer with closed apertures, a high waist and a reduced character that makes it well-suited to dense headline setting.",
+    "description": "Designed by Philipp Neumeyer and released between 2018 and 2022, Rainer runs across six weights from Hairline to Bold, each with an upright and slanted style. Its compressed form, closed apertures and short descenders lend themselves to tight headline work and large typesetting, while occasional quirks such as the high waist on certain letters give the family a quietly distinctive voice. Extended language support covers Latin, Cyrillic and Greek, with a generous set of OpenType features including Bulgarian and Serbian alternates.",
+    "foundry_blurb": "Vectro describe Rainer as a tightly compressed sans with closed apertures, a large x-height and short ascenders and descenders. They note that its design is mostly subtle with infrequent outbursts of lavish peculiarities, citing the high waist as a recurring flavourful ingredient. Comprising 12 styles across six weights in upright and slanted, it is positioned as a workhorse for tight headlines and large-scale typesetting, with extended Latin, Cyrillic and Greek language support."
+  },
+  {
+    "name": "Analog",
+    "foundry": "Vectro",
+    "url": "https://www.vectrotype.com/analog",
+    "designer": "Travis Kochel",
+    "year": 2013,
+    "category": "sans-serif",
+    "subcategory": "industrial sans",
+    "classification_notes": "Analog is described as an industrial sans-serif with generously wide proportions and minimal stroke contrast, placing it squarely in the industrial/grotesque sans tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Analog"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "industrial",
+      "sans-serif",
+      "wide",
+      "minimal-contrast",
+      "grotesque",
+      "electronics",
+      "geometric"
+    ],
+    "summary": "A wide-set industrial sans-serif designed by Travis Kochel, drawing on the aesthetic of solid-state electronics with efficient strokes and minimal contrast.",
+    "description": "Designed by Travis Kochel and released in 2013, Analog takes the industrial sans-serif tradition as its starting point, channelling the visual language of solid-state electronics. Generously wide proportions give it an open, confident rhythm, while minimal stroke contrast keeps it clean across five weights from Thin to Bold, each with an oblique companion. OpenType features include old-style figures, tabular figures and fractions, making it serviceable for both display and text settings.",
+    "foundry_blurb": "Vectro describe Analog as a new take on industrial sans-serifs that embodies the spirit of the solid-state electronics revolution, with energetic and generously wide proportions balanced by confident, efficient strokes with minimal contrast."
+  },
+  {
+    "name": "VCTR Mono",
+    "foundry": "Vectro",
+    "url": "https://www.vectrotype.com/vctr-mono",
+    "designer": "Travis Kochel",
+    "year": 2018,
+    "category": "mono",
+    "subcategory": "monospaced",
+    "classification_notes": "A fixed-width typeface throughout, designed explicitly for monospaced use, inspired by the lettering found on camera bodies and lenses. The warm, slightly irregular quality places it closer to humanist mono than strict technical mono.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "VCTR Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "camera-inspired",
+      "warm",
+      "tactile",
+      "editorial",
+      "text",
+      "technical"
+    ],
+    "summary": "A warm, slightly goofy monospaced typeface drawn from the engraved lettering on Leica and Nikon camera bodies, released across six weights with italics.",
+    "description": "Originally designed for the exif.co project under the name ISO, VCTR Mono takes its cue from the tightly spaced text on manual camera lenses and bodies, bringing a tactile irregularity that sets it apart from colder technical monospaces. Six weights from Thin to Black each carry an italic companion, giving the family real range for both interface and editorial use. OpenType features include oldstyle numerals and an alternate double-width em dash.",
+    "foundry_blurb": "Vectro describe VCTR Mono as warm, slightly goofy and tactile, inspired by the text found on the lenses and bodies of manual cameras, specifically Leicas and Nikons. Originally named ISO and designed for the exif.co project, it was released between 2018 and 2022 and remains in progress. Art direction by Travis Kochel and Lizy Gershenzon, with lead design and production by Travis Kochel."
+  },
+  {
+    "name": "WHOA",
+    "foundry": "Vectro",
+    "url": "https://www.vectrotype.com/whoa",
+    "designer": "Travis Kochel",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "experimental variable",
+    "classification_notes": "A fully experimental display typeface driven by four variable font axes that extrude letterforms into simulated three-dimensional space, placing it firmly outside conventional classification and squarely in the display/experimental category.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "WHOA Variable",
+      "WHOA Bump",
+      "WHOA Rise",
+      "WHOA Slide",
+      "WHOA Zoom",
+      "WHOA Mild",
+      "WHOA Groove",
+      "WHOA Box",
+      "WHOA Spinbox",
+      "WHOA Wedge",
+      "WHOA Shout",
+      "WHOA Maximum",
+      "WHOA Minimum"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "variable",
+      "3d",
+      "display",
+      "layerable",
+      "dimensional",
+      "expressive"
+    ],
+    "summary": "An experimental variable display font with four axes — horizontal offset, vertical offset, rotation and zoom — that push letterforms into simulated three-dimensional space.",
+    "description": "Driven by four variable axes, WHOA extrudes its letterforms into a kind of typographic hyperspace, producing effects that range from subtle depth to extreme dimensional distortion. Each named style — Bump, Rise, Slide, Zoom, Groove and others — represents a distinct expressive register, and each pairs with a filled 'Top' layer designed to sit over the extruded forms and restore legibility. Art direction by Travis Kochel and Lizy Gershenzon, with lead design and production by Kochel; the project has been developed incrementally since 2019.",
+    "foundry_blurb": "Vectro describe WHOA as an experimental variable font named after the involuntary exclamation users make when they first drag one of its sliders. Four axes — Horizontal Offset, Vertical Offset, Rotation and Zoom — expand the outlines into three-dimensional hyperspace, and a companion filled 'Top' style can be layered over the base to aid readability."
+  },
+  {
+    "name": "Kicker",
+    "foundry": "Vectro",
+    "url": "https://www.vectrotype.com/kicker",
+    "designer": "Travis Kochel",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "layered display",
+    "classification_notes": "A decorative layered display face designed for stacking multiple cuts to create inline, outline and double-inline effects; its neon sign inspiration and sporty character place it firmly in the display category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kicker"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "layered",
+      "inline",
+      "variable",
+      "neon",
+      "sporty",
+      "decorative",
+      "portland"
+    ],
+    "summary": "A layerable display typeface by Travis Kochel, originally designed for Design Week Portland, drawing on the city's neon signage tradition.",
+    "description": "Conceived for Design Week Portland in 2012 and formally released between 2018 and 2022, Kicker offers seven styles including Inline, Outline, Doubleline and Thinline cuts designed to be stacked and mixed. A variable font with three independent layer axes lets users fine-tune line thicknesses across each layer independently. The design draws from Portland's neon sign culture, with a sporty sensibility layered on top to suit event branding and editorial display use.",
+    "foundry_blurb": "Vectro describe Kicker as a typeface built for layering, with multiple thickness variants that can be mixed and matched to produce outlines, inlines and double inlines. The variable font adds three axes for precise control over each layer. Originally created for Design Week Portland in 2012, the design was inspired by the city's neon signs, including the Roseway Theater marquee, with a sporty character added to reflect the friendly competition of the design community."
+  },
+  {
+    "name": "Wildberry",
+    "foundry": "Vectro",
+    "url": "https://www.vectrotype.com/wildberry",
+    "designer": "Travis Kochel",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "brush display",
+    "classification_notes": "Derived from brushy hand-lettered signage found on U.S. National Wilderness areas, Wildberry is a display typeface with the informal energy of brush lettering, slightly reversed contrast, and a playful, organic character.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Wildberry"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "brush",
+      "display",
+      "signage",
+      "variable",
+      "americana",
+      "outdoor",
+      "lettering",
+      "informal"
+    ],
+    "summary": "A variable display typeface drawn from the hand-lettered signage of U.S. National Wilderness areas, refined for consistency without losing its brushy character.",
+    "description": "Rooted in the brushy lettering of American wilderness signage, Wildberry captures the energy and playfulness of its source while smoothing out the inconsistencies typical of hand-drawn originals. Joins have been opened slightly to even out colour distribution, and a more consistent, subtly reversed contrast system gives the face a coherent typographic logic. A variable weight axis runs from 100 to 900, allowing fine control across five named stops from Light to Heavy.",
+    "foundry_blurb": "Vectro describe Wildberry as based on the brushy lettering found on U.S. National Wilderness signage. They worked to retain the energy and playfulness of the source material while resolving awkward and inconsistent moments, opening joins to even out colour and introducing a more consistent, slightly reversed contrast system. Released between 2018 and 2022, it includes a variable weight axis spanning 100 to 900."
+  }
+]

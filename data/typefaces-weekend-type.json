@@ -1,0 +1,409 @@
+[
+  {
+    "name": "Garton Sans",
+    "foundry": "Weekend Type",
+    "url": "https://weekendtype.xyz/garton-sans",
+    "designer": "Hamish Makgill and Luke Charsley",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A sans-serif companion to a serif with decorative origins, offering both an ornate style with curved, softened strokes and a plainer conventional cut, placing it firmly in the humanist sans tradition.",
+    "weights": [
+      "Light",
+      "SemiLight",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Garton Sans Ornate",
+      "Garton Sans Plain"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "decorative",
+      "companion",
+      "editorial",
+      "opentype",
+      "two-styles",
+      "pairing"
+    ],
+    "summary": "A sans-serif companion to Garton, offered in Ornate and Plain styles across five weights with italics, drawn from a Victorian brewery letter.",
+    "description": "Designed by Hamish Makgill and Luke Charsley, Garton Sans draws its source material from a letter associated with Garton Brewery, Bristol. The family splits into two distinct styles: Ornate retains curved, softened strokes that echo its decorative origins, while Plain takes a more conventional approach suited to everyday typesetting. Both styles run across five weights from Light to Bold with corresponding italics, and include extensive OpenType features and stylistic alternates.",
+    "foundry_blurb": "Weekend Type describe Garton Sans as the natural evolution of its serif counterpart, retaining the unique decorative qualities of the original while reducing expressiveness by removing the serifs. Ornate brings refined, curved strokes that soften its mechanical origins, while Plain offers a more conventional interpretation for versatile use. Both styles are available in five weights with italics and include extensive OpenType features and stylistic alternates."
+  },
+  {
+    "name": "Bleep",
+    "foundry": "Weekend Type",
+    "url": "https://weekendtype.xyz/bleep",
+    "designer": "Hamish Makgill",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "pixel/dot-matrix",
+    "classification_notes": "Bleep is built on a dot-matrix pixel grid derived from the Epson FX-85's 6x9 grid, placing it firmly in the display category as a pixel or bitmap-revival typeface. Its experimental proportions and legibility-testing bold weights push it beyond utility into expressive display territory.",
+    "weights": [
+      "Thin",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bleep Alpha",
+      "Bleep Beta"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "pixel",
+      "dot-matrix",
+      "display",
+      "experimental",
+      "bitmap",
+      "retro-futurist",
+      "editorial",
+      "grid-based"
+    ],
+    "summary": "A dot-matrix typeface in two families by Hamish Makgill, drawing from the Epson FX-85's 6x9 pixel grid and Bauer's Venus to test the limits of legibility across five weights.",
+    "description": "Split into two sub-families, Alpha takes unconventional proportions from Venus and Or Type's Seperat for a more experimental character, while Beta offers a closer reading of the pixel grid. Both run five weights from Thin to Black, with the heaviest grades deliberately approaching the edge of readability. The italics apply a steep 22.5° slant that causes heavier weights to fracture and break from the grid, turning mechanical precision into something closer to controlled disorder.",
+    "foundry_blurb": "Weekend Type describe Bleep as a reimagining of the dot-matrix aesthetic for contemporary typography, referencing Venus's high-waisted capitals and the 6x9 grid of the Epson FX-85 as source material. Alpha and Beta each interpret the pixel grid differently, with five grades that progress from clear to deliberately challenging, and italics that use a 22.5° slant to create moments where heavier weights fracture free from their grid constraints."
+  },
+  {
+    "name": "Velo",
+    "foundry": "Weekend Type",
+    "url": "https://weekendtype.xyz/velo",
+    "designer": "Hugh Morse",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "compressed grotesque",
+    "classification_notes": "Velo is a compressed grotesque with geometric, modular construction and minimal optical correction at stroke intersections, following the tradition of late 19th-century condensed grotesques and mid-century editorial type such as Schmalfette Grotesk.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Velo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "compressed",
+      "grotesque",
+      "editorial",
+      "poster",
+      "bold",
+      "geometric",
+      "cycling",
+      "modular"
+    ],
+    "summary": "A ten-weight compressed grotesque by Hugh Morse, drawing on the radical editorial typography of Willy Fleckhaus and Twen magazine's use of Schmalfette Grotesk.",
+    "description": "Built on the tradition of late 19th-century compressed grotesques, Velo applies intentionally minimal optical correction at stroke intersections to produce a mechanical, modular texture. Circular 'O' forms exaggerate the compressed proportions, and a set of hairline symbols provides textural contrast across the ten-weight range. OpenType alternates include compressed rounds, open apertures and duck caps, making it a considered tool for editorial, poster and display work where high impact at narrow measure is the brief.",
+    "foundry_blurb": "Weekend Type describe Velo as taking its name and spirit from the bold, uncompromising lettering of 1960s and 70s editorial design and early cycling posters. They cite Willy Fleckhaus's transformation of Schmalfette Grotesk in Twen magazine as the key historical reference, and frame Velo's minimal optical correction at stroke intersections as a deliberate choice that gives the face its engineered, graphic quality. Available in ten weights with multiple OpenType alternates, 1,140 glyphs and Latin Extended encoding."
+  },
+  {
+    "name": "Auguste Serif",
+    "foundry": "Weekend Type",
+    "url": "https://weekendtype.xyz/auguste-serif",
+    "designer": "Hamish Makgill and Luke Charsley",
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "A serif family derived from stencilled lettering on an antique ceramic bottle, exhibiting quirky historical letterform qualities suited to both display and text use across a modest four-weight range.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Auguste Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "artifact-inspired",
+      "stencil-origin",
+      "editorial",
+      "display",
+      "text",
+      "historical",
+      "paired-family"
+    ],
+    "summary": "A four-weight serif drawn from the degraded stencilled lettering on a Fauchon vinegar bottle, forming one half of a paired serif and sans-serif family.",
+    "description": "Designed by Hamish Makgill and Luke Charsley in 2021, Auguste Serif traces its origins to the worn, stencilled surface of an old ceramic bottle whose letterforms blur the boundary between serif and sans-serif. The family runs from Light to Bold in four weights, each handling both body text and larger display settings without strain. It shares structural DNA with its companion Auguste Sans, allowing the two families to work in concert or independently.",
+    "foundry_blurb": "Weekend Type describe Auguste Serif as beginning with a chance encounter with an old ceramic bottle whose stencilled lettering had been beautifully degraded by use. A faithful recreation of that artifact evolved into two distinct type families — Auguste Serif and Auguste Sans — that share core DNA while developing their own strong identities. Auguste Serif comes in four carefully crafted weights, Light through Bold, and is equally comfortable in body text or scaled up for impactful display use."
+  },
+  {
+    "name": "Apta",
+    "foundry": "Weekend Type",
+    "url": "https://weekendtype.xyz/apta",
+    "designer": "Hugh Morse",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "humanist geometric sans",
+    "classification_notes": "Apta sits between humanist and geometric sans traditions, built on classical Roman proportions with mono-linear construction and vertically cut terminals, drawing directly from post-Johnston sign-makers' alphabets.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Apta Mix",
+      "Apta Geometric",
+      "Apta Humanist"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "geometric",
+      "johnston-influenced",
+      "contemporary",
+      "sans-serif",
+      "editorial",
+      "signage",
+      "warmth"
+    ],
+    "summary": "A contemporary sans in three families that occupies the territory between humanist and geometric traditions, drawn from post-Johnston sign-makers' alphabets by Hugh Morse.",
+    "description": "Designed by Hugh Morse and released in 2022, Apta is structured around classical Roman proportions but uses a strict mono-linear construction with vertically cut terminals and crisp engineered joins where shoulders meet stems. The three subfamilies, Mix, Geometric and Humanist, each offer six weights with corresponding italics, and OpenType stylistic alternates allow shifting between their characteristics within a single document. The recurring aperture rhythm gives the mechanical framework an underlying warmth that makes it suited to both editorial and identity work.",
+    "foundry_blurb": "Weekend Type describe Apta as a contemporary sans that celebrates the middle ground between humanist and geometric type design, born from a study of post-Johnston sign-makers' alphabets. The family comes in three versions, Mix, Geometric and Humanist, each in six weights with italics, and OpenType alternates allow the typeface to dial between families and hybrid characteristics while maintaining a core identity built on classical Roman proportions and mono-linear construction."
+  },
+  {
+    "name": "Auguste Sans",
+    "foundry": "Weekend Type",
+    "url": "https://weekendtype.xyz/auguste-sans",
+    "designer": "Hamish Makgill and Luke Charsley",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Auguste Sans exhibits a humanist character rooted in the idiosyncratic lettering of a degraded stencil on an antique ceramic bottle, giving it organic warmth that places it in the humanist sans tradition rather than geometric or grotesque camps.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Auguste Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "stencil-inspired",
+      "artifact",
+      "editorial",
+      "display",
+      "heritage",
+      "ceramic",
+      "companion"
+    ],
+    "summary": "A four-weight humanist sans derived from the degraded stencil lettering found on an antique Fauchon vinegar bottle, designed by Hamish Makgill and Luke Charsley.",
+    "description": "Auguste Sans traces its origins to the weathered lettering on an old ceramic bottle, where surface degradation had given the stencilled letterforms an unusual character blending serif and sans-serif qualities. Makgill and Charsley used this artifact as a springboard rather than a strict template, producing a family of four weights — Light, Regular, Medium and Bold — that works across body text and display settings. It is one half of a paired release alongside Auguste Serif, with both families sharing enough structural DNA to function together in the same layout.",
+    "foundry_blurb": "Weekend Type describe Auguste Sans as beginning with a chance encounter with lettering on an old ceramic bottle whose stenciled surface had beautifully degraded through use. What started as a faithful recreation of the artifact evolved into two distinct type families — Auguste Sans and Auguste Serif — each developing strong individual identities while sharing core DNA that allows them to work together or independently. Auguste Sans comes in four weights, making it comfortable in body text or scaled up for display use."
+  },
+  {
+    "name": "Central Avenue",
+    "foundry": "Weekend Type",
+    "url": "https://weekendtype.xyz/central-ave",
+    "designer": "Hamish Makgill",
+    "year": 2011,
+    "category": "display",
+    "subcategory": "industrial sans",
+    "classification_notes": "A single-weight all-caps revival of hand-painted Victorian industrial signage, with no lowercase and superscripted alternates; the deliberate irregularity and signage origins place it firmly in display territory.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Central Avenue"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "victorian",
+      "signage",
+      "industrial",
+      "revival",
+      "all-caps",
+      "hand-painted",
+      "wordmark"
+    ],
+    "summary": "A digital revival of hand-painted industrial sans-serif signage from Birmingham's 1886 exhibition, preserved in a single Bold weight with deliberate awkwardness intact.",
+    "description": "Based on hand-painted signs from Birmingham's 1886 Exhibition of Local Manufacturers and Natural History, Central Avenue revives an unusually stark industrial sans that sat at odds with the ornate Victorian typography of its day. The revival resists correction, keeping the irregular character of the originals rather than rationalising them into a smooth digital form. With no lowercase, it instead offers superscripted alternates that allow for distinctive wordmark construction across its 579-glyph Latin Extended encoding.",
+    "foundry_blurb": "Weekend Type describe Central Avenue as tracing its origins to a landmark 1886 Birmingham exhibition, where hand-painted signs employing a strikingly industrial sans serif served as the cornerstone of the show's graphic identity. The revival preserves the deliberate awkwardness of those hand-painted forms, eschewing invented lowercase letters in favour of superscripted alternates that enable distinctive wordmark creation. Available in a single commanding Bold weight."
+  },
+  {
+    "name": "Garton",
+    "foundry": "Weekend Type",
+    "url": "https://weekendtype.xyz/garton",
+    "designer": "Hamish Makgill and Luke Charsley",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "typewriter revival",
+    "classification_notes": "Derived from a 19th-century typewritten letter, Garton retains the mechanical character of typewriter type while extending into two distinct stylistic interpretations, placing it firmly in the display/revival category rather than a conventional mono or serif.",
+    "weights": [
+      "Light",
+      "SemiLight",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Garton Ornate",
+      "Garton Plain"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "typewriter",
+      "revival",
+      "historical",
+      "decorative",
+      "editorial",
+      "ornate",
+      "ephemera",
+      "dual-style"
+    ],
+    "summary": "A typewriter-derived revival in two styles, sourced from a single letter dated 1894 from the Garton Brewery in Bristol.",
+    "description": "Designed by Hamish Makgill and Luke Charsley and released in 2021, the family draws directly from a piece of brewery correspondence found in an archive. It splits into two distinct branches: Ornate, which softens the mechanical letterforms with curved strokes and decorative detailing, and Plain, which stays closer to a conventional typewriter interpretation. Each branch runs across five weights with italics and includes OpenType features and stylistic alternates for extended creative use.",
+    "foundry_blurb": "Weekend Type describe Garton as emerging from a single typewritten letter, dated 1 November 1894, sent from the Garton Brewery in Bristol. They note that while typewriter fonts are a designer staple, few explore the elegance possible within their mechanical constraints. Garton addresses this with two styles, Ornate and Plain, each available in five weights with italics and extensive OpenType features."
+  },
+  {
+    "name": "Pantograph",
+    "foundry": "Weekend Type",
+    "url": "https://weekendtype.xyz/pantograph",
+    "designer": "Hamish Makgill and Luke Charsley",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "industrial grotesque",
+    "classification_notes": "Derived directly from British pantograph sign-engraving machinery, the letterforms carry the mechanical, utilitarian character of industrial signage grotesques, with even strokes and functional construction throughout.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Standard",
+      "Wide",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Pantograph Compressed",
+      "Pantograph Condensed",
+      "Pantograph Standard",
+      "Pantograph Wide",
+      "Pantograph Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "industrial",
+      "signage",
+      "grotesque",
+      "utilitarian",
+      "multi-width",
+      "mechanical",
+      "engraving"
+    ],
+    "summary": "A grotesque family rooted in British pantograph sign-engraving machinery, spanning five widths and five weights with full industrial character intact.",
+    "description": "Originating in 2009 as a single-style recreation of letters from the British pantograph engraving system, the family grew over more than a decade into 25 styles across Compressed, Condensed, Standard, Wide and Extended widths. The source material — mechanical signage used for load limits, warnings and urban infrastructure — gives the letterforms their distinctive utilitarian authority. Contemporary features and an extensive marks and symbols set extend its usefulness well beyond industrial reference into editorial and branding contexts.",
+    "foundry_blurb": "Weekend Type describe Pantograph as beginning in 2009 as a faithful recreation of letters from the British pantograph sign-engraving system, a mechanical process that used parallel linkages to duplicate and scale letters for industrial signage. After more than a decade of development, it expanded into a 25-style family covering five widths and five weights, retaining its industrial heritage while adding stylistic alternates, contemporary features and 546 glyphs in Latin Extended encoding."
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Garamono",
+    "foundry": "WiseType",
+    "url": "https://wisetype.nl/typefaces/garamono",
+    "designer": "Ishar Hawkins",
+    "year": 2025,
+    "category": "mono",
+    "subcategory": "monospaced serif",
+    "classification_notes": "Garamono is a monospaced typeface drawn in the style of Claude Garamond's Renaissance romans, forcing proportionally varied humanist letterforms into a fixed-width grid — a structurally unusual combination that places it squarely in the mono category with serif detailing.",
+    "weights": [
+      "Regular",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Garamono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "garamond",
+      "humanist",
+      "renaissance",
+      "decorative",
+      "swash",
+      "historic-revival",
+      "quirky"
+    ],
+    "summary": "A monospaced reworking of Garamond's Renaissance letterforms, forcing humanist proportions into a fixed-width grid with swashes, ligatures and multi-width special forms.",
+    "description": "Designed by Ishar Hawkins and published by WiseType in 2025, Garamono takes the old-style forms associated with Claude Garamond and constrains them entirely to a fixed-width system — an approach the foundry cheerfully describes as revisionist history. Two styles, Regular and Italic, carry extensive character sets including swashes, ligatures and final forms that span double or triple the standard cell width, giving the family decorative range within its monospaced logic. The result sits convincingly between historical type revival and contemporary novelty.",
+    "foundry_blurb": "WiseType present Garamono as a playful interrogation of Renaissance proportion: what if Claude Garamond had cut a monospaced type? Designed by Ishar Hawkins, the family comes in Regular and Italic with large character sets, OpenType swashes, ligatures and multi-width final forms. A Collectors Edition — including laser-etched felt harpsichord dust covers and hand-printed letterpress bookmarks — was produced in collaboration with Malin Dittmann to mark the launch."
+  },
+  {
+    "name": "Monarch Nova",
+    "foundry": "WiseType",
+    "url": "https://wisetype.nl/typefaces/monarch-nova",
+    "designer": "Jacob Wise",
+    "year": 2017,
+    "category": "display",
+    "subcategory": "calligraphic display sans",
+    "classification_notes": "Monarch Nova is an unseriffed display face with strong calligraphic cues, flourished crossbars and stroke contrast, drawing on Arts and Crafts and historical pastiche rather than any conventional grotesque or humanist tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Monarch Nova"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "calligraphic",
+      "arts-and-crafts",
+      "historical",
+      "decorative",
+      "flamboyant",
+      "nostalgic",
+      "editorial"
+    ],
+    "summary": "An unseriffed display face by Jacob Wise that channels Arts and Crafts nostalgia through flourished crossbars, calligraphic stroke contrast and a tall x-height, with stylistic sets to dial character up or down.",
+    "description": "Originally published in 2017 and substantially redrawn in 2020 with assistance from Margot Lévêque, Monarch Nova received a further round of refinements and expansion in 2024. The typeface sits somewhere between rational sans and calligraphic ornament, with clean sharp strokes offset by flourished crossbars and open counters that give it a flamboyant yet controlled character. Multiple stylistic sets allow the more idiosyncratic qualities to be tempered for running text or amplified for display use.",
+    "foundry_blurb": "WiseType describe Monarch Nova as evoking a distant, hazy memory of centuries past, drawing on the spirit of the Arts and Crafts movement and its idealised vision of a pre-industrial world. The font began as a rough set of sketches in 2017, was redrawn and published as Monarch Nova in 2020, and received a further expansion in 2024 adding a wider character set and alternative glyph sets ranging from the formally restrained to the extravagantly characterful."
+  },
+  {
+    "name": "Bobine",
+    "foundry": "WiseType",
+    "url": "https://wisetype.nl/typefaces/bobine",
+    "designer": "Arthur Calame",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "pixel/dot matrix",
+    "classification_notes": "Bobine is constructed on a dot matrix grid using star-shaped units, placing it firmly in the pixel/bitmap display genre. The titling variant's inline capitals and the overall low-resolution aesthetic define it as a display typeface rather than a text or body face.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Titling"
+    ],
+    "subfamilies": [
+      "Bobine Regular",
+      "Bobine Italic",
+      "Bobine Bold",
+      "Bobine Bold Italic",
+      "Bobine Titling"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "pixel",
+      "dot-matrix",
+      "display",
+      "retro-futurist",
+      "editorial",
+      "bitmap",
+      "star-grid",
+      "titling"
+    ],
+    "summary": "A dot matrix typeface by Arthur Calame built on a star-shaped pixel grid, spanning two weights with italics and a taller inline titling cut.",
+    "description": "Constructed on a coarse 4-pointed star grid for the regular weight and an 8-pointed star for the bold, Bobine achieves surprising legibility at smaller sizes while reading as distinctly futuristic at large ones. The italic styles are slightly condensed, and both weights include oldstyle figures, extensive diacritics and a broad symbol set. The Titling style stands two units taller than the text cuts, offering a higher effective resolution and two capital form sets: serif uppercase and sans-serif lowercase, plus pictograms and emoji.",
+    "foundry_blurb": "WiseType describe Bobine as Arthur Calame's investigation into the dot matrix genre, taming a coarse pixel grid into something legible at small sizes yet unmistakably futuristic. The family grew from a single idea into a constellation of fonts spanning regular, bold, italic and a classical in-line titling style, with extensive character sets including oldstyle figures, symbols and pictograms throughout."
+  },
+  {
+    "name": "Zaft²",
+    "foundry": "WiseType",
+    "url": "https://wisetype.nl/typefaces/zaft2",
+    "designer": "Jacob Wise, Céline Hurka",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "French Clarendon",
+    "classification_notes": "A bold display slab in the French Clarendon tradition, with exaggerated thick-thin contrast and heavy serifs rooted in 19th-century advertising type. Its geometric grid construction and Wild West pastiche place it firmly in the display category.",
+    "weights": [
+      "Variable A",
+      "Variable B",
+      "Variable C"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Zaft²"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "french-clarendon",
+      "variable",
+      "western",
+      "slab",
+      "titling",
+      "advertising",
+      "geometric"
+    ],
+    "summary": "A variable French Clarendon revival by Jacob Wise and Céline Hurka that channels 19th-century advertising type through a Wild West pastiche with contemporary variable font controls.",
+    "description": "Built on the geometric foundations of its predecessor Zaft, this display slab takes its cues from the French Clarendon tradition that became synonymous with the American frontier. Compact, rigid forms are softened by rounded corners, and contextual alternatives tighten letter-fit across the family. Three distinct variable axes allow independent control over weight distribution and serif width, each available as a variable TTF alongside six static OTF files.",
+    "foundry_blurb": "WiseType describe Zaft² as an evolution of the original Zaft, rooted in the French Clarendon tradition of 19th-century advertising display types. The family leans into Wild West pastiche while remaining grounded in the present, offering three variable fonts with unique axes for weight balance and serif adjustment, plus six static files."
+  },
+  {
+    "name": "Skrappa",
+    "foundry": "WiseType",
+    "url": "https://wisetype.nl/typefaces/skrappa",
+    "designer": "Jacob Wise",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A bulky, condensed geometric sans built explicitly for headlines and bold messages, with methodical construction rooted in modernist abstraction. Its rectangular, high-contrast structure and display-only intent place it firmly in the display category.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Narrow",
+      "Reasonable",
+      "Generous",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Skrappa"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "condensed",
+      "variable",
+      "modernist",
+      "headline",
+      "bold",
+      "poster"
+    ],
+    "summary": "A bulky geometric display typeface by Jacob Wise, reworked in 2023 into a five-width variable family with roots in Ken Garland's 1964 First Things First lettering.",
+    "description": "Originally sketched in 2018 as t-shirt lettering and inspired by Ken Garland's First Things First manifesto, the typeface was substantially redrawn and expanded in 2024 to version 2.0. Five widths run from Condensed to Wide, each with a matching italic, and a variable font covers width, slant and tracking axes. As the width increases so does the weight, keeping the silhouette compact across the range, and each style includes an alternate 'Tight' spacing set for close-tracked headlines.",
+    "foundry_blurb": "WiseType describe Skrappa as a bulky geometric typeface built for bold and brash messages. The project began as rough lettering for a t-shirt in 2018, partly inspired by Ken Garland's First Things First manifesto of 1964. After an initial 2019 release as a single condensed cut, Jacob Wise returned to the project in 2023 and redrew the entire family from scratch, expanding it to five widths with italics and adding a variable font with axes for width, italic and tracking."
+  },
+  {
+    "name": "Saltburn",
+    "foundry": "WiseType",
+    "url": "https://wisetype.nl/typefaces/saltburn",
+    "designer": "Jacob Wise",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Saltburn draws explicitly on the British humanist sans tradition via Johnston's Underground Alphabet and Gill Sans, combining open counters and sharp terminals with grotesque proportions — placing it firmly in the humanist sans subcategory.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Saltburn"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "railway",
+      "wayfinding",
+      "variable",
+      "british",
+      "signage",
+      "neutral",
+      "pictograms"
+    ],
+    "summary": "A variable humanist sans by Jacob Wise, drawn from the British railway typographic tradition of Johnston and Gill Sans and calibrated against the house styles of British Rail, Dutch NS and Swiss Federal Railways.",
+    "description": "Nine weights from Thin to Heavy, each with italics, and a variable version covering both weight and italic axes, give the family considerable range for signage and wayfinding systems. Humanist details — open counters, sharp terminals, a double-storey 'g' and a chiselled 't' — sit within grotesque proportions, with stylistic alternates for those who prefer plainer forms. An extensive glyph set adds figures in multiple styles, fractions, fleurons, transport pictograms and mathematical symbols, making it unusually well equipped for the environments it targets.",
+    "foundry_blurb": "WiseType describe Saltburn as a railway-inspired variable sans serif drawing on Edward Johnston's 1916 Underground Alphabet and Eric Gill's 1928 Gill Sans — the distinctly British take on the humanist sans. The design aims to blend into the neutral house styles of British Rail, Dutch NS and Swiss Federal Railways, combining humanist open counters and sharp terminals with grotesque proportions. It ships with an extensive selection of figures, fleurons, symbols and transport pictograms. The name references Saltburn-by-the-Sea, a Yorkshire town whose growth was tied to the Stockton and Darlington Railway, the world's first public steam railway."
+  },
+  {
+    "name": "Zaft",
+    "foundry": "WiseType",
+    "url": "https://wisetype.nl/typefaces/zaft",
+    "designer": "Jacob Wise",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "display slab",
+    "classification_notes": "A single-weight display typeface built on a strict grid with heavy slab-serif forms and contextual ligatures, designed explicitly for impact at large sizes rather than text setting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Zaft"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "display",
+      "grid",
+      "modernist",
+      "dutch",
+      "heavy",
+      "ligatures",
+      "eccentric"
+    ],
+    "summary": "A grid-constructed display slab by Jacob Wise, inspired by a 1959 Wim Crouwel poster, with contextual ligatures that form rounded bridges between mirroring glyph pairs.",
+    "description": "Built on a precise underlying grid with ink-traps at stroke intersections, Zaft takes the analytical rigour of Dutch modernism as its structural foundation while allowing a playful rhythm to emerge from the compressed negative space. Contextual ligatures create rounded connections between mirroring corners, softening what would otherwise be an uncompromisingly heavy-duty design. It is offered as a single style with variable format support, and is positioned squarely at editorial display and poster work.",
+    "foundry_blurb": "WiseType describe Zaft as a weighty display font full of eccentricity and impact, inspired by Wim Crouwel's 1959 exhibition poster for 'Beelden in het heden'. Designed by Jacob Wise and first published in 2019, it is built to a precise underlying grid with hairline letter-spacing and contextual ligatures that form gentle rounded bridges between particular glyph pairings, adding elegance to an otherwise heavy-duty design."
+  },
+  {
+    "name": "Kormelink",
+    "foundry": "WiseType",
+    "url": "https://wisetype.nl/typefaces/kormelink",
+    "designer": "Jacob Wise",
+    "year": 2019,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "A high-contrast Roman serif drawing from Times New Roman's architecture, Renaissance and Baroque opulence, and Neoclassical sharp serifs, placing it firmly in the transitional tradition with humanist influences.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "WT Kormelink"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "titling",
+      "high-contrast",
+      "neoclassical",
+      "renaissance",
+      "baroque",
+      "editorial",
+      "ligatures",
+      "swash"
+    ],
+    "summary": "A high-contrast titling Roman by Jacob Wise, drawing on Times New Roman's architecture and the ornamental traditions of Renaissance and Baroque letterforms.",
+    "description": "Designed in 2019 by Jacob Wise and named in tribute to his grandfather, a Dutch clockmaker and jeweller, Kormelink is a titling serif with sharp, ornate serifs, droplet terminals, a humanist axis and heavily modulated stroke. The family consists of a Roman and an italic set at 15°, the latter featuring flamboyant swash capitals and an extended range of OpenType ligatures. Both styles include text and titling figures, discretionary ligatures and a broad pan-European Latin character set.",
+    "foundry_blurb": "WiseType describe Kormelink as a delicate titling Roman serif that pays homage to a range of historical origins, including Victor Lardent and Stanley Morison's Times New Roman and the grandeur of the Renaissance and Baroque. Its humanist axis, light modulated stroke, tall x-height and ornate Neoclassical serifs are complemented by a graceful italic drawn at 15°, complete with swash capitals and OpenType ligatures. The name honours Jan Kormelink (1929–2019), the designer's grandfather and master clockmaker."
+  }
+]

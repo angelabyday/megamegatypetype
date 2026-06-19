@@ -2305,6 +2305,138 @@ const FOUNDRIES = [
       } catch { return false; }
     },
   },
+  // ---- Batch 15 ----
+  {
+    name: "Supertype",
+    slug: "supertype",
+    homepage: "https://supertype.de/",
+    listingUrl: "https://supertype.de/fonts/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("supertype.de")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Tunera",
+    slug: "tunera",
+    homepage: "https://www.tunera.xyz/",
+    listingUrl: "https://www.tunera.xyz/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("tunera.xyz")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Typozon",
+    slug: "typozon",
+    homepage: "https://typozon.xyz/",
+    listingUrl: "https://typozon.xyz/typefaces",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("typozon.xyz")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typeface" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Vectro",
+    slug: "vectro",
+    homepage: "https://www.vectrotype.com/",
+    listingUrl: "https://www.vectrotype.com/fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (u.hostname !== "www.vectrotype.com" && u.hostname !== "vectrotype.com") return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        const VECTRO_NAV = new Set(["fonts","tester","blog","studio","sign-in","trial-fonts","licensing","terms","privacy"]);
+        return parts.length === 1 && !VECTRO_NAV.has(parts[0]) && !NON_TYPEFACE_SLUGS.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Vocal Type",
+    slug: "vocal-type",
+    homepage: "https://www.vocaltype.co/",
+    listingUrl: "https://www.vocaltype.co/typefaces",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("vocaltype.co")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "history-of" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Weekend Type",
+    slug: "weekend-type",
+    homepage: "https://weekendtype.xyz/",
+    listingUrl: "https://weekendtype.xyz/catalogue",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (u.hostname !== "weekendtype.xyz" && u.hostname !== "www.weekendtype.xyz") return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        const WEEKEND_NAV = new Set(["catalogue","custom","trials-pop-up","in-use-gallery","about"]);
+        return parts.length === 1 && !WEEKEND_NAV.has(parts[0]) && !NON_TYPEFACE_SLUGS.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "WiseType",
+    slug: "wisetype",
+    homepage: "https://wisetype.nl/",
+    listingUrl: "https://wisetype.nl/typefaces/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("wisetype.nl")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Yeahright Type",
+    slug: "yeahright-type",
+    homepage: "https://yeahrighttype.com/",
+    listingUrl: "https://yeahrighttype.com/yeahright-type-studio",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("yeahrighttype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        const YEAHRIGHT_SKIP = new Set(["yrt-year-one-bundle","collection-1","the-yeahright-type-bundle-vol-2","pocket-edition-type-bundle-vol-1","commercial-license"]);
+        return parts.length === 3 && parts[0] === "yeahright-type-studio" && parts[1] === "p" && !NON_TYPEFACE_SLUGS.has(parts[2]) && !YEAHRIGHT_SKIP.has(parts[2]);
+      } catch { return false; }
+    },
+  },
 ];
 
 // ---- URL filter ----

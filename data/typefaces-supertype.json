@@ -1,0 +1,1482 @@
+[
+  {
+    "name": "Clara",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/clara",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Clara derives from Karla, a humanist sans-serif by Jonathan Pinhorn, and retains its humanist proportions and letterform character following Huber's refinements and character set expansion.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Clara"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "humanist",
+      "open-source",
+      "modified",
+      "text",
+      "extended-latin",
+      "free"
+    ],
+    "summary": "A refined modification of the open-source Karla by Jonathan Pinhorn, expanded to a full Latin extended character set with improved spacing and kerning by Jürgen Huber.",
+    "description": "Jürgen Huber took Karla, Jonathan Pinhorn's open-source humanist sans, and reworked a number of details, broadened its glyph coverage to 475 characters across 135 languages, and tightened its spacing and kerning. The family runs across five weights from Light to ExtraBold, each with a matching italic. Clara is available at no cost and is not sold commercially, serving primarily as the starting point that led Huber to develop the Clarinetta serif family.",
+    "foundry_blurb": "Supertype describe Clara as a modification of the Google free font Karla, designed by Jonathan Pinhorn, with modifications by Jürgen Huber including expanded Latin extended character support, refined spacing and kerning, and detail adjustments. As an open-source font it remains freely available and is not sold commercially. They note that Clara directly inspired the development of their Clarinetta typeface family."
+  },
+  {
+    "name": "Clarinetta Unicase",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/clarinetta-unicase",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "display",
+    "subcategory": "unicase serif",
+    "classification_notes": "A high-contrast serif with unicase treatment, where lowercase letters share the height of uppercase forms, creating an unconventional display character that sits outside standard text serif classification.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Clarinetta Unicase"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "unicase",
+      "display",
+      "serif",
+      "high-contrast",
+      "logotype",
+      "headline",
+      "playful",
+      "editorial"
+    ],
+    "summary": "A unicase variation of the Clarinetta family by Jürgen Huber, where lowercase letters match uppercase height to produce a deliberately unconventional display serif.",
+    "description": "Built on Clarinetta's high-contrast construction and elegant serifs, this variation replaces conventional case contrast with small capitals that share the height of their uppercase counterparts. The effect creates a distinctive texture and colour on the page, making it well-suited to logotypes and headlines where personality is as important as legibility. Seven weights from Light to Ultra are included, along with the full Latin Extended character set and three numeral styles.",
+    "foundry_blurb": "Supertype describe Clarinetta Unicase as a playful variation of the standard Clarinetta family, aimed at designers who want to move beyond conventional letterforms. The unicase approach gives it a lighthearted, unconventional appearance while retaining Clarinetta's elegant serifs, high contrast and sophisticated construction. The family includes the full Latin Extended character set and all three numeral styles."
+  },
+  {
+    "name": "Clarinetta",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/clarinetta",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast serif",
+    "classification_notes": "A classical serif with deliberately pronounced serifs and strong stroke contrast, placing it firmly in the high-contrast serif tradition, with the extreme Ultra weight pushing it toward display territory.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Clarinetta",
+      "Clarinetta Unicase"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "high-contrast",
+      "display",
+      "classical",
+      "editorial",
+      "latin-extended",
+      "unicase"
+    ],
+    "summary": "A high-contrast serif by Jürgen Huber spanning seven weights, with an Ultra cut so extreme its serifs touch one another.",
+    "description": "Built on pronounced serifs and strong stroke contrast, Clarinetta takes classical proportions and pushes them toward contemporary display work. The Ultra weight is the standout: serifs that literally meet at their tips, producing a visually arresting result suited to headlines and poster work. Three numeral sets — tabular, proportional and oldstyle — and coverage for 135 languages via a full Latin Extended character set broaden its usefulness beyond purely expressive settings. A Unicase variant is also available as a separate family.",
+    "foundry_blurb": "Supertype describe Clarinetta as an elegant serif that embraces a classical concept but interprets it boldly for contemporary use, built on deliberately pronounced serifs and striking contrast. The Ultra weight is singled out as the real maverick — so bold its serifs actually touch — while the italic offers a classical, flowing stroke. The family includes comprehensive Latin Extended language support and three numeral sets, with a Unicase variant available for additional typographic playfulness."
+  },
+  {
+    "name": "Finlay",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/finlay",
+    "designer": "Martin Wenzel",
+    "year": null,
+    "category": "script",
+    "subcategory": "upright script",
+    "classification_notes": "Finlay is described by the foundry as most obviously a script font, but one that blends humanist sans-serif and upright italic letterforms, making it an upright script with strong sans influence rather than a flowing cursive.",
+    "weights": [
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Finlay"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "upright",
+      "humanist",
+      "friendly",
+      "display",
+      "children",
+      "warm",
+      "rounded"
+    ],
+    "summary": "A warm, upright script by Martin Wenzel that blends humanist sans-serif construction with script letterforms across seven weights.",
+    "description": "Originally developed for a children's TV programme pitch in Germany, Finlay combines script letterforms with humanist sans-serif characteristics and upright italic forms to produce a distinctly friendly register. Seven weights run from Light to Black, giving the family range across display and branding contexts where approachability matters. The 947-glyph set covers 135 languages, making it a broadly deployable choice for warm, informal communication.",
+    "foundry_blurb": "Supertype describe Finlay as most obviously a script font that also leans into humanist sans-serif and upright italic letterforms, a combination they say gives it a friendly, warm, and utterly pleasant character. The design originated from an idea pitched to a German children's TV programme and was developed into a full seven-weight family by designer Martin Wenzel."
+  },
+  {
+    "name": "Finlay Sans",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/finlay-sans",
+    "designer": "Martin Wenzel",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described explicitly as humanist in the foundry's copy, with open letterforms, rounded stroke endings and slightly curved strokes derived from its script companion Finlay, placing it firmly in the humanist sans tradition.",
+    "weights": [
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Finlay Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "friendly",
+      "packaging",
+      "rounded",
+      "warm",
+      "legible",
+      "multi-weight"
+    ],
+    "summary": "A humanist sans by Martin Wenzel derived from the Finlay script family, with rounded stroke endings and slightly curved forms that lend it warmth across seven weights.",
+    "description": "Born as a sans counterpart to the Finlay script typeface, it strips away the swashes whilst retaining gently curved strokes and rounded terminals that keep it from feeling cold or mechanical. A large x-height and open apertures make it comfortable at text sizes, while the friendly character holds up well at display scale on packaging, print and signage. Seven weights from Light to Black give enough range for typographic contrast and clear hierarchy within a single design.",
+    "foundry_blurb": "Supertype describe Finlay Sans as the sans-swash version of their script typeface Finlay, noting that its slightly curved strokes and rounded ends retain some of the characteristics of handwriting, giving it a warmer and more lively feel than a typical sans-serif. They highlight its open humanist letterforms and large x-height for comfortable reading at small sizes, and its friendly character for packaging, print, signage and anything rustic, handmade, healthy or fun."
+  },
+  {
+    "name": "Adapt",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/adapt",
+    "designer": "Jürgen Huber, Martin Wenzel",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A no-nonsense sans with open terminals, low contrast and a large x-height, consistent with the grotesque tradition. Five width variants from Normal to Compressed confirm it as a utility-driven grotesque rather than a geometric or humanist design.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Semilight",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "Narrow",
+      "Condensed",
+      "Compact",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Adapt",
+      "Adapt Narrow",
+      "Adapt Condensed",
+      "Adapt Compact",
+      "Adapt Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "versatile",
+      "variable",
+      "multi-width",
+      "legible",
+      "neutral",
+      "workhorse"
+    ],
+    "summary": "A wide-ranging grotesque family spanning five widths and eight weights, designed to fit text confidently into almost any layout constraint.",
+    "description": "Designed by Jürgen Huber and Martin Wenzel, Adapt offers 80 static styles across Normal, Narrow, Condensed, Compact and Compressed widths, each available in eight weights from Thin to Black with matching italics. Two variable fonts cover both weight and width axes simultaneously, giving designers continuous control within those parameters. Ink traps, carefully adjusted overshoot and optically corrected x-heights across widths make the family function consistently from body text to tightly set display settings.",
+    "foundry_blurb": "Supertype describe Adapt as their most versatile sans serif, built specifically with designers in mind. The family spans five widths and eight weights for a total of 80 fonts, complemented by two variable fonts that allow fluid navigation across weight and width. Design details include ink traps for condensed styles, adjusted overshoot to harmonise cap and x-heights across widths, and an optional two-storey g, all contributing to legibility even in the most compressed settings."
+  },
+  {
+    "name": "Cy Curly",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/cy-curly",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "display",
+    "subcategory": "decorative sans",
+    "classification_notes": "A display-oriented variant of the Cy family with exaggerated curly terminals, designed explicitly for headlines and ornamental one-liners rather than extended text setting.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cy Curly"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "decorative",
+      "curly",
+      "headline",
+      "ornamental",
+      "expressive",
+      "quirky"
+    ],
+    "summary": "A display companion to Cy with exaggerated curly terminals across nine weights, aimed at headlines and ornamental one-liners.",
+    "description": "Part of Supertype's broader Cy system, Cy Curly adds playful, exaggerated curling strokes to the base Cy structure. Nine weights run from Thin to Black, covering 1,063 glyphs across 135 languages. Positioned for short-form display work where a decorative, characterful voice is needed rather than reading comfort.",
+    "foundry_blurb": "Supertype describe Cy Curly as the girlish complement to Cy, calling it perfect for pink headlines or ornamental one-liners that need a punch. The family spans nine weights and features advanced curly OpenType features."
+  },
+  {
+    "name": "Cy Glitch",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/cy-glitch",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "display",
+    "subcategory": "glitch display",
+    "classification_notes": "The typeface is explicitly described as expressing 'the ideal error', with a glitch aesthetic embedded in its name and concept, placing it firmly in the display category as a decorative, expressive variant of its parent Cy family.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cy Glitch"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "glitch",
+      "display",
+      "expressive",
+      "error",
+      "digital",
+      "experimental",
+      "techno"
+    ],
+    "summary": "A nine-weight display face by Jürgen Huber built around deliberate digital corruption, framed as the typographic expression of the ideal error.",
+    "description": "Designed by Jürgen Huber as part of Supertype's Cy family system, this variant introduces glitch-inflected forms across nine weights from Thin to Black. With 802 glyphs and coverage across 135 languages, it balances a conceptual premise around error and disruption with broad multilingual utility. The result sits between experimental display work and structured type family thinking.",
+    "foundry_blurb": "Supertype describe Cy Glitch as typographically expressing the ideal error, a concept-driven display family by Jürgen Huber available in nine weights and covering 135 languages with 802 glyphs."
+  },
+  {
+    "name": "Cy Mono",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/cy-mono",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "A monospaced typeface described as the mono-spaced complement to the Cy geometric family, built on fixed-width geometry across ten weights including an extreme cut.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Extreme"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cy Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "coding",
+      "headlines",
+      "wide-weight-range",
+      "fixed-width"
+    ],
+    "summary": "A fixed-width companion to the Cy family by Jürgen Huber, spanning ten weights from Thin to an extreme black cut suited to both code-like settings and heavy display work.",
+    "description": "Designed by Jürgen Huber as the monospaced sibling to Cy and Cy Text, Cy Mono applies the same geometric sensibility to a fixed-pitch grid across ten weights. The range runs from a hairline Thin through to an Extreme cut that pushes weight to its limit, giving the family reach across screen interfaces, ornamental flat layouts and poster-scale headlines. With 792 glyphs and coverage across 135 languages, it sits comfortably in technical and editorial contexts alike.",
+    "foundry_blurb": "Supertype describe Cy Mono as the mono-spaced complement to Cy and Cy Text, noting that mono-spaced fonts carry their own charm. They highlight the Extreme weight as ideal for powerful headlines and the Thin for ornamental flat designs, positioning the family as versatile for anything that needs a punch."
+  },
+  {
+    "name": "Cy Text",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/cy-text",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Derived from Cy, a geometric headline sans serif, with modifications for text legibility; retains the geometric foundation while prioritising readability at smaller sizes.",
+    "weights": [
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cy Text"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "text",
+      "reading",
+      "small-caps",
+      "multilingual",
+      "corporate",
+      "clean"
+    ],
+    "summary": "A text-optimised companion to the geometric headline sans Cy, stripped back for legibility and furnished with small caps and multiple figure sets.",
+    "description": "Derived from Cy by Jürgen Huber, this text variant removes the more expressive details of the headline original in favour of glyphs that hold up at body copy sizes, with some redesigned outright for readability. Four weights run from Regular to ExtraBold, covering 135 languages across 665 glyphs. Small caps and multiple figure sets add typographic flexibility without straying from the geometric core.",
+    "foundry_blurb": "Supertype describe Cy Text as a companion to their geometric headline sans Cy, designed for copy text by stripping away unnecessary ornamentation and redesigning glyphs where legibility demanded it. Small caps and different figure sets are included as a typographic extra, making the family more versatile across setting conditions."
+  },
+  {
+    "name": "Cy",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/cy",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Cy is a display typeface with deliberately unpredictable geometry, mixing circular and square forms across weights, placing it firmly in the display category with a geometric but rule-breaking sensibility.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cy"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "and 135 languages total"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "headline",
+      "expressive",
+      "unpredictable",
+      "opentype",
+      "nine-weights"
+    ],
+    "summary": "A headline typeface by Jürgen Huber built around deliberately inconsistent geometry, mixing circular and square letterforms across nine weights.",
+    "description": "Designed by Jürgen Huber, Cy resists conventional geometric construction by combining circular and square forms without a fixed rule, producing a distinctive unpredictability at display sizes. Each of the nine weights contains 801 glyphs with OpenType feature support, giving designers control over the mix of forms to suit a given layout. Related families include Cy Text, Cy Glitch and Cy Curly, all sharing the same underlying character.",
+    "foundry_blurb": "Supertype describe Cy as a typeface that does what she wants, refusing containment to a single geometric system by mixing circular and square forms freely. They note that despite this apparent unpredictability, each weight's 801 glyphs can be controlled through different OpenType features, allowing designers to dial in the balance of forms for headline use."
+  },
+  {
+    "name": "Ode",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/ode",
+    "designer": "Martin Wenzel",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "modernised textura",
+    "classification_notes": "Ode is rooted in Gothic script (textura) tradition but deliberately reworks its conventions with rounded corners, a gentle slant and humanist letterform substitutions, making it a contemporary take on blackletter rather than a strict revival.",
+    "weights": [
+      "Semilight",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ode"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "textura",
+      "humanist",
+      "legible",
+      "text",
+      "contemporary",
+      "rounded"
+    ],
+    "summary": "A five-weight blackletter family by Martin Wenzel that softens textura's stern rigidity into something genuinely usable at text sizes.",
+    "description": "Martin Wenzel's Ode takes the Gothic script (textura) as its starting point and systematically addresses the features that make traditional blackletter difficult to read: hard corners become rounded, a gentle slant loosens the upright stiffness, and unfamiliar archaic letterforms are replaced with humanist equivalents drawn from the same broad-nib pen tradition. The result retains the characteristic counter fracture of broken script whilst reading with surprising ease across five weights from Semilight to Black. It ships with 495 glyphs, ligatures, multiple figure sets and support for 135 languages.",
+    "foundry_blurb": "Supertype describe Ode as a pleasant and vibrant family with a strong personality, built to prove that a broken script typeface can be highly legible when approached in a less orthodox way. By replacing hard corners with rounded ones, applying a gentle slant, shifting weight towards the top of each letter, and substituting archaic Gothic characters with humanist forms, designer Martin Wenzel has produced a text typeface that retains the fracture of traditional textura while discarding its archaic severity."
+  },
+  {
+    "name": "Realist Wide",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/realist-wide",
+    "designer": "Martin Wenzel",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A wide-set grotesque sans with even stroke contrast and rational construction, fitting the realist/grotesque tradition. The 'Wide' designation refers to letterforms approximately 16% broader than the standard Realist family.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Wide"
+    ],
+    "subfamilies": [
+      "Realist Wide"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "wide",
+      "realist",
+      "neutral",
+      "workhorse",
+      "multilingual",
+      "extended-latin"
+    ],
+    "summary": "A wide-set grotesque by Martin Wenzel offering eight weights with matching italics, spanning 135 languages and 757 glyphs.",
+    "description": "The Wide variant of Supertype's Realist family sits approximately 16% broader than the standard cut, making it better suited to settings where visibility and open spacing are priorities. Eight weights run from Thin to Black, each with a matching italic, giving the family solid range for both text and display use. With 135 languages and 757 glyphs, it covers an extensive range of Latin-script writing systems.",
+    "foundry_blurb": "Supertype describe Realist Wide as combining simplicity with broader letterforms to achieve high visibility without being overbearing, noting that this variant covers approximately 16% more space than the standard Realist."
+  },
+  {
+    "name": "Realist Narrow",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/realist-narrow",
+    "designer": "Martin Wenzel",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Named 'Realist' and positioned within a family that includes standard and wide widths, placing it squarely in the realist/grotesque sans-serif tradition designed for text efficiency.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow"
+    ],
+    "subfamilies": [
+      "Realist Narrow"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "narrow",
+      "text",
+      "condensed",
+      "multi-weight",
+      "realist"
+    ],
+    "summary": "A condensed cut of the Realist family by Martin Wenzel, running 16 styles across eight weights with italics and broad language coverage for space-efficient text setting.",
+    "description": "Realist Narrow sits at approximately 88% of the standard Realist width, making it suited to layouts where column space is tight or text density is high. The family spans Thin through Black with matching italics across all eight weights, totalling 16 fonts and 757 glyphs. OpenType features include typographic alternates, multiple figure sets, arrows and ornaments, and the family covers 135 languages.",
+    "foundry_blurb": "Supertype describe Realist Narrow as the ideal choice for longer texts or economical use of layout space, noting it sits at roughly 88% of the width of standard Realist. It offers 16 fonts across the full weight range, and like all Realist typefaces includes typographic alternates, various figure sets, arrows and ornaments."
+  },
+  {
+    "name": "Realist",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/realist",
+    "designer": "Martin Wenzel",
+    "year": 2011,
+    "category": "sans-serif",
+    "subcategory": "humanist grotesque",
+    "classification_notes": "Realist deliberately merges humanist letterform construction with grotesque characteristics, blending the warmth of humanist sans-serifs with the sturdiness and neoclassicist symmetry of grotesques.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Realist",
+      "Realist Narrow",
+      "Realist Wide"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "grotesque",
+      "corporate",
+      "editorial",
+      "neutral",
+      "multi-weight",
+      "versatile"
+    ],
+    "summary": "A sans-serif by Martin Wenzel that bridges humanist warmth and grotesque sturdiness across eight weights with matching italics, selected by Typographica as a favourite typeface in 2011.",
+    "description": "Designed by Martin Wenzel, Realist combines the open, organic construction of humanist letterforms with the symmetry and vertical emphasis of the grotesque tradition. The result is a workhorse of 16 styles, spanning Thin to Black with italics throughout, and extending into Narrow and Wide subfamilies for added range. Suited to corporate identity, editorial and product design, it uses OpenType stylistic sets to switch between letterform variants that meaningfully shift its overall character.",
+    "foundry_blurb": "Supertype describe Realist as a straightforward typeface with a clear voice that avoids austerity, intended for corporate design, editorial and product design where the message leads. Designer Martin Wenzel cites admiration for humanist construction but wanted to close the gap with the grotesque tradition, combining elements of both through neoclassicist symmetry and selectable letterform alternates via OpenType features."
+  },
+  {
+    "name": "Duper",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/duper",
+    "designer": "Martin Wenzel",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Duper presents as a humanist sans with a relaxed, informal character. The page describes it as combining aesthetics and nonchalance, suggesting a warm, readable sans rather than a geometric or grotesque construction.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Duper"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "informal",
+      "friendly",
+      "opentype-features",
+      "editorial",
+      "versatile"
+    ],
+    "summary": "A four-style humanist sans by Martin Wenzel with a relaxed character and a distinctive OpenType feature that cycles through glyph triplicates to vary word rhythm.",
+    "description": "Available in Regular and Bold with matching italics, Duper covers 135 languages and 1,451 glyphs. Its standout feature is a letter-loop function that processes vowels and consonants separately when cycling through three alternates per character, producing more varied and natural-looking text. The family also includes alternate forms for a, g and y, multiple number sets, fraction support and sets of arrows and ornaments.",
+    "foundry_blurb": "Supertype describe Duper as a mature, if not entirely serious, font family that combines aesthetics and nonchalance with all the typographic finesse expected of an OpenType font. Its centrepiece is an intelligent feature that loops through triplicates of all characters, handling vowels and consonants separately to create more individual and varied word images."
+  },
+  {
+    "name": "Brilly",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/brilly",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "display",
+    "subcategory": "sign painting revival",
+    "classification_notes": "Derived from sign painting sketches with a characteristic left-hand twist, Brilly is clearly a display face rooted in hand-lettering tradition rather than any conventional text category.",
+    "weights": [
+      "Regular",
+      "Incised",
+      "Sans"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brilly Regular",
+      "Brilly Incised",
+      "Brilly Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sign-painting",
+      "retro",
+      "packaging",
+      "vintage",
+      "hand-lettering"
+    ],
+    "summary": "A sign-painting-derived display face in three styles, built around a subtle left-hand twist that gives it a retro character suited to packaging and signage.",
+    "description": "Drawn from sign painting sketches by Jürgen Huber, Brilly offers three stylistic cuts: Regular, Incised and Sans. The defining trait is a slight leftward tilt in the letterforms that introduces movement without tipping into novelty. The family is positioned for packaging, display and brand work where a vintage or classic flavour is needed without resorting to overtly decorative type.",
+    "foundry_blurb": "Supertype describe Brilly as a nostalgic-looking font created for the modern eye, blending retro charm with contemporary appeal for packaging and display use. They note it was derived from sign painting sketches and features a subtle left-hand twist that adds dynamism, making it suited to vintage or classic design directions."
+  },
+  {
+    "name": "Chop",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/chop",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "display",
+    "subcategory": "handwritten display",
+    "classification_notes": "Chop is a rough, expressive display typeface with handwritten, gestural strokes and deliberate imperfection, placing it firmly in the display category with a handwritten subcategory.",
+    "weights": [
+      "Medium"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Chop"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "handwritten",
+      "rough",
+      "expressive",
+      "gestural",
+      "display",
+      "raw",
+      "irregular"
+    ],
+    "summary": "A single-weight display face by Jürgen Huber built around raw, irregular strokes that mimic the immediacy of handwriting before any corrections.",
+    "description": "Drawn to evoke the physical directness of woodcutting, Chop uses jagged, uneven letterforms that feel carved in a single gesture rather than constructed. Alternate forms swap in automatically for repeated letters, and distinct ending forms shift the rhythm further, preventing any mechanical regularity. It suits headlines, posters and branding that call for a deliberately unpolished, human character rather than polish or neutrality.",
+    "foundry_blurb": "Supertype describe Chop as delivering raw, irregular strokes with chaotic, unpolished energy built for the beautifully offbeat. Its rough handwritten character feels immediate and instinctive, referencing the sharp physical motion of woodcutting. The face avoids mechanical repetition through alternate forms for double letters and distinct ending characters, keeping the rhythm loose and naturally uneven."
+  },
+  {
+    "name": "Scarlet Wood",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/scarlet-wood",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "display",
+    "subcategory": "stamped display",
+    "classification_notes": "Scarlet Wood is described as a stamped version of the Scarlet family, giving it a textured, wood-stamp character that places it firmly in the display category rather than a standard serif or script classification.",
+    "weights": [
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Scarlet Wood",
+      "Scarlet Wood Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "stamped",
+      "textured",
+      "script",
+      "small-caps",
+      "decorative",
+      "european"
+    ],
+    "summary": "A three-style stamped display family by Jürgen Huber, derived from the broader Scarlet family with a worn, pressed texture throughout.",
+    "description": "Scarlet Wood applies a stamped treatment to the Scarlet family, producing three styles across upright and script cuts in Medium, Bold and Black weights. The 620-glyph set includes small caps, old style figures and ligatures via OpenType, with coverage for Western, Central and Eastern European languages across 135 language variants. The stamped texture gives it a distinctly tactile, craft-print quality suited to packaging, branding and editorial display work.",
+    "foundry_blurb": "Supertype describe Scarlet Wood as a stamped interpretation of the regular Scarlet family, featuring three styles with small caps and an extended character set supporting Western, Central and Eastern European languages. OpenType features handle ligatures, old style figures and additional glyph sets."
+  },
+  {
+    "name": "Scarlet Script",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/scarlet-script",
+    "designer": "Jürgen Huber",
+    "year": 2016,
+    "category": "script",
+    "subcategory": "connected script",
+    "classification_notes": "Described explicitly as a script companion to the Scarlet sans serif family, designed in a 1960s graphic language with a playful, stylish character consistent with connected script classification.",
+    "weights": [
+      "Light",
+      "Semilight",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Scarlet Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "1960s",
+      "retro",
+      "companion",
+      "packaging",
+      "magazine",
+      "playful"
+    ],
+    "summary": "A seven-weight script companion to Jürgen Huber's Scarlet sans serif, drawn in a 1960s graphic idiom with small caps and broad European language support.",
+    "description": "Designed by Jürgen Huber and released in 2015/16, Scarlet Script pairs with the 12-style Scarlet sans serif family and shares its warm, retro character inspired by the graphic language of the 1960s. Seven weights run from Light to Black, with 677 glyphs covering Western, Central and Eastern European languages via an extended character set. OpenType features handle ligatures, old-style figures and alternate glyph sets, making it well suited to magazine editorial, packaging and on-screen applications.",
+    "foundry_blurb": "Supertype describe Scarlet Script as what might have resulted had Alexander Girard and Aldo Novarese collaborated, with designer Jürgen Huber drawing on his admiration of 1960s graphic language to create a script in seven styles that pairs with the Scarlet sans serif. Both families share small caps, an extended character set supporting Western, Central and Eastern European languages, and OpenType features for ligatures, old-style figures and more."
+  },
+  {
+    "name": "Scarlet",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/scarlet",
+    "designer": "Jürgen Huber",
+    "year": 2015,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A warm sans-serif with playful 1960s character, drawing on mid-century graphic sensibility in the tradition of Aldo Novarese; the rounded, expressive detailing places it firmly in humanist sans territory rather than geometric or grotesque.",
+    "weights": [
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Scarlet"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "1960s",
+      "retro",
+      "editorial",
+      "packaging",
+      "magazine",
+      "playful",
+      "warmth"
+    ],
+    "summary": "A warm, 1960s-inflected sans-serif by Jürgen Huber, drawn with the graphic language of Girard and Novarese in mind.",
+    "description": "Designed by Jürgen Huber and released in 2015/16, Scarlet runs across 12 styles from Light to Extra Bold with matching italics throughout. Small caps and an extended glyph set of 623 characters cover Western, Central and Eastern European languages, with OpenType support for ligatures, old-style figures and alternate glyph sets. Its mid-century warmth suits editorial work, packaging and on-screen use where a period character is wanted without overt retro pastiche.",
+    "foundry_blurb": "Supertype describe Scarlet as the result of an imagined collaboration between Alexander Girard and Aldo Novarese, designed by Jürgen Huber out of admiration for the graphic language of the 1960s. The family pairs with a matching Scarlet Script in seven styles, and both include small caps and extended character sets for European languages, with OpenType features handling ligatures, old-style figures and other glyph variants."
+  },
+  {
+    "name": "Hothouse",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/hothouse",
+    "designer": "Jürgen Huber",
+    "year": 2001,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Hothouse is built on a square grid with almost entirely monospaced proportions, drawing on Mackintosh's Art Nouveau letterforms. Its geometric rigidity and decorative origins place it firmly in the display category.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hothouse"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "art-nouveau",
+      "display",
+      "monospaced",
+      "mackintosh",
+      "institutional",
+      "square"
+    ],
+    "summary": "A square-grid display family originally drawn for The Glasgow School of Art in 2001, inspired by Charles Rennie Mackintosh's Art Nouveau letterforms.",
+    "description": "Originally commissioned in 2001 for The Glasgow School of Art, Hothouse takes its formal cues from Charles Rennie Mackintosh's explorations of letterforms and the geometric regularity of his architecture. The almost entirely monospaced construction sits on a square base, giving the family an unusual rigidity that suits institutional and editorial display use. The updated release from Supertype adds three weights, an extended character set, and interchangeable upper and lower case characters, and the family won a Bukvaraz award from the Association Typographique Internationale.",
+    "foundry_blurb": "Supertype describe Hothouse as a display font family originally designed in 2001 for The Glasgow School of Art, inspired by the letterform explorations of architect Charles Rennie Mackintosh. Built on a square and almost entirely monospaced, it reflects Mackintosh's Art Nouveau architectural sensibility. The updated version expands on the original with three weights, an extended character set, interchangeable cases and alternate glyphs."
+  },
+  {
+    "name": "Profile Pro TT",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/profile-tt",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The page does not specify a subclassification, but the clean upright forms, wide weight range and screen-optimisation suggest a humanist sans-serif orientation. The small caps subfamily and oldstyle figures support a text-focused humanist design.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Profile Pro TT",
+      "Profile Pro TT SC"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "screen-optimised",
+      "truetype",
+      "hinting",
+      "small-caps",
+      "tabular-figures",
+      "text",
+      "office"
+    ],
+    "summary": "A TrueType screen-optimised version of Profile Pro, with advanced hinting and a full small caps subfamily across seven weights.",
+    "description": "Profile Pro TT is built specifically for on-screen legibility, using advanced TrueType hinting to perform well under ClearType and DirectWrite rendering on Windows, as well as lower-resolution displays generally. The 28-style family spans seven weights from Thin to Black, each with an italic, and duplicates the full weight range in a small caps variant that also carries oldstyle figures. Standard styles default to tabular lining figures, making the family practical for spreadsheets and data-heavy layouts.",
+    "foundry_blurb": "Supertype describe Profile Pro TT as a TrueType OpenType version of Profile Pro, optimised for screen use. Advanced hinting ensures the fonts perform well on Windows with ClearType and DirectWrite rendering, and on lower-resolution screens in general. Standard figures are tabular lining figures for use in tables and spreadsheets, while oldstyle figures are accessible in the separate small caps variants."
+  },
+  {
+    "name": "Profile Pro",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/profile",
+    "designer": "Martin Wenzel",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Martin Wenzel designed Profile Pro explicitly within the humanist sans tradition, drawing on Renaissance letterform construction and Dutch typographic influence, with true italics, open apertures, a two-storey 'g', and residual stroke-end details that recall the broad-nib pen.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Profile Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "text",
+      "editorial",
+      "warm",
+      "dutch-tradition",
+      "opentype",
+      "long-form",
+      "legible"
+    ],
+    "summary": "A Berlin-designed humanist sans by Martin Wenzel that traces its roots to Dutch typographic tradition and Renaissance letterforms, built for sustained reading across seven weights.",
+    "description": "Designed by Berlin-based Martin Wenzel and shaped by his studies at the Royal Academy in The Hague, Profile Pro sits comfortably alongside Thesis and Proforma in the humanist sans lineage. Its open apertures, two-storey 'g', asymmetric stroke terminals and gently oblique italic give it warmth without informality, making it well suited to text-heavy editorial and corporate publishing work. The Pro version spans seven weights from Thin to Black, each with a matching italic, and covers 180 languages across 1,545 glyphs with a full complement of numeral sets and small caps.",
+    "foundry_blurb": "Supertype present Profile Pro as a humanist sans serif designed by Martin Wenzel, accompanied by a review from typographer John D. Berry that traces the face's warm modernism, Dutch typographic lineage, and suitability for extended reading. Berry notes its clarity and slim elegance, its open spacing, and the small residual stroke details Wenzel describes as the reduced remnants of serif forms, citing a Certificate of Excellence from the Type Directors Club."
+  },
+  {
+    "name": "Lemon Sans Next Condensed",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/lemon-sans-next-condensed",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as 'casual chique', the condensed cut of Lemon Sans Next sits in the humanist sans tradition with a friendly, slightly informal character across its six-weight range.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lemon Sans Next Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "humanist",
+      "casual",
+      "multilingual",
+      "unicase",
+      "display",
+      "editorial"
+    ],
+    "summary": "A condensed update of Supertype's Lemon Sans family by Jürgen Huber, offering six weights with italics and broad language coverage across 135 languages.",
+    "description": "Lemon Sans Next Condensed is a major revision of the original Lemon Sans, with refined glyphs, expanded character support for 135 languages and additional OpenType features including a Unicase style. The family runs from Thin to Bold with matching italics across 12 styles, each containing 802 glyphs. Its self-described 'casual chique' character makes it suited to branding, editorial and display work where a narrow footprint is needed.",
+    "foundry_blurb": "Supertype describe Lemon Sans Next as a major update of their Lemon Sans family, featuring fine-tuned glyphs, improved language support and additional OpenType features such as the Unicase style. The condensed variant offers 12 fonts spanning Thin to Bold with italics throughout."
+  },
+  {
+    "name": "Lemon Sans",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/lemon-sans",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "display sans",
+    "classification_notes": "Described by the foundry as a modern display typeface; the inclusion of unicase sets and its position as the sans companion to Lemon Serif point to a display-oriented humanist sans design.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lemon Sans",
+      "Lemon Sans Unicase"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "unicase",
+      "sans-serif",
+      "companion",
+      "multi-weight",
+      "humanist"
+    ],
+    "summary": "A display-oriented sans by Jürgen Huber, offered in six weights with matching italics and a distinctive unicase subfamily across 87 languages.",
+    "description": "Designed as the sans counterpart to Lemon Serif, Lemon Sans is built around the specific demands of display use rather than strict correspondence with its serif sibling. Six weights run from Thin to Bold, each available in regular and italic, while a parallel unicase subfamily offers the same weight range without the mixed-case convention. The full family of 17 fonts covers 87 languages with 264 glyphs per style.",
+    "foundry_blurb": "Supertype describe Lemon Sans as part of an extensive font set designed to accompany Lemon Serif, noting that its design addresses the particular needs of a modern display typeface rather than closely mirroring the serif version. The family spans six weights, each available in regular, italic and unicase styles."
+  },
+  {
+    "name": "Lemon Sans Next",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/lemon-sans-next",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as 'casual chique', suggesting a humanist warmth and approachable character rather than strict geometric or grotesque construction. The unicase feature and refined glyph set reinforce a friendly, contemporary humanist sans classification.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lemon Sans Next"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "casual",
+      "contemporary",
+      "multilingual",
+      "unicase",
+      "refined"
+    ],
+    "summary": "An updated and expanded version of Jürgen Huber's Lemon Sans, reworked with finer glyph tuning, broader language coverage across 135 languages, and added OpenType features including a unicase style.",
+    "description": "Six weights from Thin to Bold, each with a matching italic, make up this revised sans in 12 fonts total. The update refines the original Lemon Sans with improved glyphs and extended character support, while the unicase feature gives it an additional expressive option for display use. Positioned as casual yet considered, it sits comfortably in branding and editorial contexts that want personality without eccentricity.",
+    "foundry_blurb": "Supertype describe Lemon Sans Next as a major update to their Lemon Sans family, featuring fine-tuned glyphs, extended language support for 135 languages, and additional OpenType features including a unicase style. Designed by Jürgen Huber, it is available as individual fonts or as a complete family package."
+  },
+  {
+    "name": "Lemon Sans Condensed",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/lemon-sans-condensed",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A condensed display sans designed as part of the Lemon Sans family, described as a modern display typeface with geometric proportions and a unicase variant, suggesting clean geometric construction.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lemon Sans Condensed",
+      "Lemon Sans Condensed Unicase"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "display",
+      "geometric",
+      "unicase",
+      "modern",
+      "sans-serif"
+    ],
+    "summary": "A condensed display sans in six weights with a matching unicase variant, designed by Jürgen Huber as part of the broader Lemon Sans family.",
+    "description": "Part of Supertype's Lemon Sans system, this condensed cut is tailored for display use rather than closely mirroring the accompanying Lemon Serif. Six weights from Thin to Bold are each available in standard and unicase character sets, giving 12 fonts in total across 264 glyphs and coverage of 87 languages. The unicase variant offers an alternative rhythm suited to titling and branding work.",
+    "foundry_blurb": "Supertype describe Lemon Sans Condensed as part of the Lemon Sans family, an extensive set designed to accompany Lemon Serif. Rather than adhering closely to the serif version, it addresses the particular needs of a modern display typeface, offering six weights each in regular and unicase character sets."
+  },
+  {
+    "name": "Lemon Sans Rounded Condensed",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/lemon-sans-rounded-condensed",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A condensed, rounded geometric sans designed as a display typeface, part of the broader Lemon Sans family which accompanies Lemon Serif. Rounded terminals and condensed proportions place it firmly in the geometric display sans category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lemon Sans Rounded Condensed",
+      "Lemon Sans Rounded Condensed Unicase"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "rounded",
+      "geometric",
+      "display",
+      "unicase",
+      "modern"
+    ],
+    "summary": "A condensed, rounded display sans by Jürgen Huber offered in six weights with a full unicase companion set across each.",
+    "description": "Part of the wider Lemon Sans system, this condensed and rounded cut is designed for display use rather than as a direct derivative of its serif counterpart. Six weights run from Thin to Bold, each available in regular and italic, with an additional unicase character set doubling the family to twelve styles in total. The 87-language coverage and 264 glyphs make it viable beyond purely Latin-script applications.",
+    "foundry_blurb": "Supertype describe Lemon Sans Rounded Condensed as part of the Lemon Sans family, an extensive type system designed to accompany Lemon Serif. Rather than adhering closely to the serif design, it addresses the specific needs of a modern display typeface, available in six weights each with italic and unicase variants."
+  },
+  {
+    "name": "Lemon Sans Rounded",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/lemon-sans-rounded",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A rounded geometric sans with soft terminal endings, designed as a display-oriented companion to Lemon Serif. The rounded strokes and unicase options position it clearly in the geometric sans tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lemon Sans Rounded",
+      "Lemon Sans Rounded Unicase"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "geometric",
+      "display",
+      "unicase",
+      "soft",
+      "multilingual",
+      "friendly"
+    ],
+    "summary": "A rounded geometric sans in six weights with matching italics and a full unicase subfamily, designed by Jürgen Huber as part of the wider Lemon Sans family.",
+    "description": "Part of an extended type system that also includes Lemon Sans, Lemon Sans Condensed and Lemon Serif, this rounded variant is shaped for display use rather than as a strict companion to the serif. Six weights from Thin to Bold each carry regular and italic cuts, and a separate unicase subfamily adds six further styles for mixed-case typographic treatments. The family covers 87 languages across 264 glyphs per font.",
+    "foundry_blurb": "Supertype describe Lemon Sans Rounded as a display-oriented member of the Lemon Sans family, noting that its design does not follow the serif version too closely but instead addresses the particular requirements of a modern display typeface. It comes in six weights, each available in regular, italic and unicase variants."
+  },
+  {
+    "name": "Lemon Serif",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/lemon-serif",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "serif",
+    "subcategory": "low-contrast serif",
+    "classification_notes": "Described explicitly as a text face with low contrast, designed to accompany Lemon Sans; its even stroke weight and text-optimised design place it in the low-contrast serif subcategory.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lemon Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "text",
+      "low-contrast",
+      "unicase",
+      "small-caps",
+      "legibility",
+      "companion",
+      "serif"
+    ],
+    "summary": "A low-contrast text serif by Jürgen Huber, designed as the companion face to Lemon Sans, with unicase variants and thorough OpenType feature support.",
+    "description": "Six styles cover Regular, Bold and their italics, plus two unicase weights for upright use. Each style includes small caps, three sets of figures and a selection of ligatures across 513 glyphs and 87 languages. The low stroke contrast is intentional, keeping the face legible at small sizes and over long passages of continuous text.",
+    "foundry_blurb": "Supertype describe Lemon Serif as a text face with low contrast, suited to long reading even at small sizes. It is the matching serif companion to Lemon Sans, offered in four standard weights plus two unicase styles, each containing small caps, three figure sets and a handful of ligatures."
+  },
+  {
+    "name": "Crickle",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/crickle",
+    "designer": "Jürgen Huber",
+    "year": null,
+    "category": "script",
+    "subcategory": "handwriting",
+    "classification_notes": "Crickle is a handwriting script based on experimental left-slanted writing with connected zigzag strokes and roughened outlines, emulating the gestural quality of handwritten scribble.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Crickle",
+      "Crickle SPINE"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "handwriting",
+      "script",
+      "rough",
+      "gestural",
+      "experimental",
+      "illustration",
+      "cartoon"
+    ],
+    "summary": "A roughened handwriting script by Jürgen Huber that captures the swept, zigzagging gesture of left-slanted pen writing across four weights.",
+    "description": "Based on experimental handwriting with a visible left slant, Crickle uses roughened outlines and uninterrupted letterforms to maintain the energy of a writing tool. Glyph alternates emulate hasty scribbles, and a scribble-out OpenType feature lets users cover text as if crossing it out by hand. A companion font, Crickle SPINE, provides contour-only paths for use with brushstrokes and calligraphic lines in Illustrator, and is included free with any weight purchase.",
+    "foundry_blurb": "Supertype describe Crickle as capturing the sweeping gesture of handwriting, built from experimental left-slanted writing that produces strong zigzag lines between letters. The digital version uses a roughened outline to preserve the textured, energetic look of the original writing tool, with many glyph alternates adding a lively, scribbled quality. A contour-only variant, Crickle SPINE, gives illustrators and cartoonists a flexible base for applying their own brushstrokes and line styles. The name derives from the German word Krickelkrackel, meaning scribble or scrawl."
+  },
+  {
+    "name": "Blinker",
+    "foundry": "Supertype",
+    "url": "https://supertype.de/fonts/blinker",
+    "designer": "Jürgen Huber",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Low-contrast sans serif built on a squircle base shape, giving it a geometric character with softened, rounded corners rather than strict circles or hard squares.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black",
+      "Headline"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blinker"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "squircle",
+      "low-contrast",
+      "display",
+      "headline",
+      "free",
+      "google-fonts"
+    ],
+    "summary": "A low-contrast geometric sans built on a squircle foundation, with nine weights including a dedicated headline cut featuring a taller x-height and tighter spacing.",
+    "description": "Designed by Jürgen Huber and released in 2019, Blinker uses a squircle as its underlying shape, producing curves that read as squarish rather than fully circular. The family suits medium to large text settings rather than running copy, and the Headline weight takes this further with an enlarged x-height and narrower, more tightly spaced glyphs. Available for free via Google Fonts and the foundry's own site, it covers 135 languages across a Latin extended glyph set of 469 glyphs.",
+    "foundry_blurb": "Supertype describe Blinker as a low-contrast sans serif with a squircle as its basic shape, suggesting squarish curves, and call it Eurostyle's flamboyant cousin. They recommend it for medium to large text rather than long copy, and note that the headline weight features an extra-large x-height, tight spacing and more narrowly drawn glyphs. Designed by Jürgen Huber in 2019 and available as a free download."
+  }
+]

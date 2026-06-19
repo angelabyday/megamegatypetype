@@ -132,6 +132,15 @@ import plainForm from "@/data/typefaces-plain-form.json";
 import polytype from "@/data/typefaces-polytype.json";
 import sm from "@/data/typefaces-sm.json";
 import s6Foundry from "@/data/typefaces-s6-foundry.json";
+// Batch 15
+import supertype from "@/data/typefaces-supertype.json";
+import tunera from "@/data/typefaces-tunera.json";
+import typozon from "@/data/typefaces-typozon.json";
+import vectro from "@/data/typefaces-vectro.json";
+import vocalType from "@/data/typefaces-vocal-type.json";
+import weekendType from "@/data/typefaces-weekend-type.json";
+import wisetype from "@/data/typefaces-wisetype.json";
+import yeahrightType from "@/data/typefaces-yeahright-type.json";
 // Batch 11
 import brandonNickerson from "@/data/typefaces-brandon-nickerson.json";
 import rTypography from "@/data/typefaces-r-typography.json";
@@ -382,6 +391,15 @@ export function getAllTypefaces(): Typeface[] {
         polytype,
         sm,
         s6Foundry,
+        // Batch 15
+        supertype,
+        tunera,
+        typozon,
+        vectro,
+        vocalType,
+        weekendType,
+        wisetype,
+        yeahrightType,
         // Batch 11
         brandonNickerson,
         rTypography,
