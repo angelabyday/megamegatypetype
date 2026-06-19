@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Name Mono",
+    "foundry": "ArrowType",
+    "url": "https://www.arrowtype.com/name-mono",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "grotesque mono",
+    "classification_notes": "A monospaced typeface drawing on the part-geometric, part-grotesque letter construction of NYC Subway tile mosaics, with industrial detailing and expressive italics suited to code and data contexts.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Name Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "grotesque",
+      "nyc-subway",
+      "code",
+      "variable",
+      "industrial",
+      "expressive-italics",
+      "utility"
+    ],
+    "summary": "A monospaced grotesque drawn from the tile mosaic lettering of the NYC Subway, built for code and data use with expressive italics and extensive OpenType alternates.",
+    "description": "Derived from the same source material as Name Sans — the hand-laid ceramic name tablets of the New York City Subway — Name Mono translates those part-geometric, part-grotesque letterforms into a fixed-width family of 18 static styles and 2 variable fonts spanning nine weights. The italics depart deliberately from the uprights, offering more visual contrast and switchable alternates to aid readability in code editors. Over 300 languages across Extended Latin are supported, alongside features including optional code ligatures, slashed zero, oldstyle figures and brutalist punctuation.",
+    "foundry_blurb": "ArrowType describe Name Mono as a monospace sibling of Name Sans, interpreting the letter construction of NYC Subway tile mosaics — part geometric, part grotesque, with optical corrections that are either exaggerated or absent entirely — into a family focused on utility for code, data and writing. The italics are intentionally more free and expressive than those of Name Sans, providing greater visual contrast and better ergonomics in code."
+  },
+  {
+    "name": "Kyrios",
+    "foundry": "ArrowType",
+    "url": "https://www.arrowtype.com/kyrios",
+    "designer": null,
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "hybrid blackletter",
+    "classification_notes": "Kyrios is explicitly a blackletter family, combining a blackletter lowercase with a Lombardic uppercase and Art Nouveau curves, making it a hybrid within the blackletter tradition rather than a pure textura or fraktur.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Standard",
+      "Text"
+    ],
+    "subfamilies": [
+      "AT Kyrios Display",
+      "AT Kyrios Standard",
+      "AT Kyrios Text",
+      "AT Kyrios Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "lombardic",
+      "art-nouveau",
+      "variable",
+      "optical-sizes",
+      "historical",
+      "display",
+      "packaging"
+    ],
+    "summary": "A variable blackletter family derived from a late-19th-century grave monument in Brooklyn's Green-Wood Cemetery, spanning optical sizes from a narrow Display to a surprisingly readable Text cut.",
+    "description": "Kyrios pairs a blackletter lowercase with a Lombardic uppercase, with geometric interiors, soft corners and Art Nouveau curves all drawn from carved lettering on a Victorian-era tombstone. The family runs from weight 400 to 1000 across a variable axis and ships in 15 static styles organised into Display, Standard and Text optical sizes, each adjusting proportions and letterform detail for its intended size. Alternate cap sets — including a blackletter uppercase and a simplified Roman — along with extensive OpenType features give it considerably more range than typical display blackletters, with extended Latin support covering 265-plus languages.",
+    "foundry_blurb": "ArrowType describe Kyrios as a curious, slightly psychedelic blackletter family and a study in contrasts, pairing geometric simplicity with Art Nouveau curves and a blackletter lowercase with a Lombardic uppercase. They trace it directly to lettering carved on a late-1800s grave monument at Green-Wood Cemetery in Brooklyn, and offer it across a range of optical sizes from a narrow, striking Display to a surprisingly readable Text, with alternate cap sets and broad extended Latin language support."
+  },
+  {
+    "name": "Name Sans",
+    "foundry": "ArrowType",
+    "url": "https://www.arrowtype.com/name-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Derived from the tile mosaic lettering of the New York City subway, the design blends geometric construction with grotesque optical quirks, placing it firmly in the grotesque sans tradition with a distinct vernacular character.",
+    "weights": [
+      "Hairline",
+      "ExtraThin",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Standard",
+      "Text"
+    ],
+    "subfamilies": [
+      "AT Name Sans Display",
+      "AT Name Sans Standard",
+      "AT Name Sans Text",
+      "AT Name Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "wayfinding",
+      "nyc-subway",
+      "variable",
+      "vernacular",
+      "geometric",
+      "branding",
+      "ui"
+    ],
+    "summary": "A grotesque sans drawn from the tile mosaic lettering of the New York City subway, developed over four years into a variable type system spanning 72 static styles across optical sizes.",
+    "description": "The letterforms originate in the idiosyncratic hand-laid tile name tablets found across NYC subway stations, where geometric construction meets grotesque conventions with optical corrections either exaggerated or absent entirely. ArrowType has harmonised these station-to-station variations into a coherent system with Display, Standard and Text optical sizes, a weight axis running from 1 to 1000, and a full italic. A monospaced variant, AT Name Mono, extends the family further, and an extensive set of OpenType alternates covers everything from rectangular uppercase to double-storey g and single-storey a.",
+    "foundry_blurb": "ArrowType describes Name Sans as a modern interpretation of the NYC subway's tile mosaic name tablets, where architects and craftworkers produced letterforms that were part geometric and part grotesque, often with exaggerated or absent optical corrections. Begun as notebook sketches during daily commutes, the project was formalised over four years into an extensive type system intended for branding, wayfinding and digital interfaces, available as one variable font or 72 static styles with extended Latin support for 300+ languages."
+  },
+  {
+    "name": "Lang",
+    "foundry": "ArrowType",
+    "url": "https://www.arrowtype.com/lang",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "semi-slab",
+    "classification_notes": "Lang occupies the boundary between slab serif and sans-serif: the uppercase uses classic slab-serif construction derived from 19th-century gravestone lettering, while the lowercase adopts a simplified semi-slab structure, making it distinctly a semi-slab family.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lang",
+      "Lang Gothic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "semi-slab",
+      "historical-revival",
+      "gravestone",
+      "editorial",
+      "packaging",
+      "branding",
+      "variable",
+      "swash"
+    ],
+    "summary": "A semi-slab family derived from 19th-century gravestone lettering at Brooklyn's Green-Wood Cemetery, spanning nine weights with a semi-script italic.",
+    "description": "Drawn from carved lettering on the Grinnell family monument at Green-Wood Cemetery, Lang pairs slab-serif uppercase letters with a simplified semi-slab lowercase across a weight range from Thin to Black. The italic departs from a mechanical slant, picking up on script qualities found in adjacent monuments, and includes optional swash capitals for additional ornamentation. OpenType features cover small caps, oldstyle and tabular figures, extensive ligatures and contextual alternates, with full variable font support across 2 variable and 16 static files.",
+    "foundry_blurb": "ArrowType describe Lang as a quirky yet classic semi-slab family inspired by 19th-century gravestones in Green-Wood Cemetery, Brooklyn, with its core reference being a brownstone monument carved in stages between 1852 and 1918. The design preserves the charm of the original lettering while expanding it into a full type family with a wide weight range, semi-script italics with swash caps, small caps, and extended Latin support for over 300 languages. Lang is currently available as a discounted prerelease, with free lifetime updates promised as the family develops."
+  },
+  {
+    "name": "Lang Gothic",
+    "foundry": "ArrowType",
+    "url": "https://www.arrowtype.com/lang-gothic",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "gothic",
+    "classification_notes": "Explicitly positioned within the American gothic sans-serif genre, described as a companion to a semi-slab serif family, with reduced thick-thin contrast and simplified letterforms typical of historical American gothics.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lang Gothic",
+      "Lang Gothic Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "gothic",
+      "american-gothic",
+      "workhorse",
+      "text",
+      "variable",
+      "warm",
+      "semi-cursive-italic",
+      "prerelease"
+    ],
+    "summary": "A workhorse American gothic sans derived from the lettering sensibility of AT Lang, a family rooted in 19th-century Brooklyn grave carving.",
+    "description": "Drawing on the warm, semi-slab character of its sibling family AT Lang, this sans strips away serifs and reduces thick-thin contrast to produce a practical text face with personality. Six weights from Light to ExtraBold are paired with semi-cursive italics, offered as both 12 static styles and 2 variable fonts covering a weight range of 300 to 800. Currently in prerelease, it supports over 260 languages across Extended Latin and includes opentype alternates such as single-storey 'a' and 'g', a barless 'G' and blocky punctuation variants.",
+    "foundry_blurb": "ArrowType describe Lang Gothic as a multipurpose sans-serif made in the gothic genre, meaning historical American sans-serifs with personality that don't draw too much attention to themselves. It functions as a 'Text' adaptation of AT Lang, simplifying details and removing serifs to create a warm, direct workhorse suited to medium and small sizes, though sturdy enough for display use. It is offered as a prerelease with discounted pricing and free future updates."
+  }
+]

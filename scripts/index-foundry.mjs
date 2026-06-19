@@ -1835,6 +1835,56 @@ const FOUNDRIES = [
       } catch { return false; }
     },
   },
+  // ---- Batch 12 ----
+  {
+    name: "A is for",
+    slug: "a-is-for",
+    homepage: "https://aisforfonts.com/",
+    listingUrl: "https://aisforfonts.com/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("aisforfonts.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 1 && !NON_TYPEFACE_SLUGS.has(parts[0]) && parts[0] !== "fonts";
+      } catch { return false; }
+    },
+  },
+  {
+    name: "A Practice for Everyday Life",
+    slug: "a-practice-for-everyday-life",
+    homepage: "https://apracticeforeverydaylife.com/",
+    listingUrl: "https://apracticeforeverydaylife.com/type-foundry/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("apracticeforeverydaylife.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "ArrowType",
+    slug: "arrowtype",
+    homepage: "https://www.arrowtype.com/",
+    listingUrl: "https://www.arrowtype.com/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("arrowtype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        const skip = new Set(["trial-fonts", "licensing", "customer-login", "about", "contact", "press"]);
+        return parts.length === 1 && !NON_TYPEFACE_SLUGS.has(parts[0]) && !skip.has(parts[0]);
+      } catch { return false; }
+    },
+  },
 ];
 
 // ---- URL filter ----
