@@ -2149,6 +2149,162 @@ const FOUNDRIES = [
       } catch { return false; }
     },
   },
+  // ---- Batch 14 ----
+  {
+    name: "Labor and Wait",
+    slug: "labor-and-wait",
+    homepage: "https://www.laborandwait.xyz/",
+    listingUrl: "https://www.laborandwait.xyz/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("laborandwait.xyz")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Mass-Driver",
+    slug: "mass-driver",
+    homepage: "https://mass-driver.com/",
+    listingUrl: "https://mass-driver.com/typefaces/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("mass-driver.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Nootype",
+    slug: "nootype",
+    homepage: "https://nootype.com/",
+    listingUrl: "https://nootype.com/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("nootype.com")) return false;
+        if (u.search || u.hash) return false;
+        const name = u.pathname.replace(/\/$/, "").split("/").pop() ?? "";
+        return name.startsWith("show-") && name.endsWith(".html");
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Nuform Type",
+    slug: "nuform-type",
+    homepage: "https://nuformtype.com/",
+    listingUrl: "https://nuformtype.com/",
+    tier: "okay",
+    filterFn: makeTypefaceFilter("https://nuformtype.com/"),
+  },
+  {
+    name: "November",
+    slug: "november",
+    homepage: "https://www.nvmbr.in/",
+    listingUrl: "https://www.nvmbr.in/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("nvmbr.in")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Old City Mailroom",
+    slug: "old-city-mailroom",
+    homepage: "https://www.oldcitymailroom.com/",
+    listingUrl: "https://www.oldcitymailroom.com/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("oldcitymailroom.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        const skip = new Set(["full-collection", "eula", "the-vault", "purchase-index-mono"]);
+        return parts.length === 1 && !NON_TYPEFACE_SLUGS.has(parts[0]) && !skip.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Plain Form",
+    slug: "plain-form",
+    homepage: "https://plain-form.com/",
+    listingUrl: "https://plain-form.com/typefaces/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("plain-form.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Polytype",
+    slug: "polytype",
+    homepage: "https://polytype.co.uk/",
+    listingUrl: "https://polytype.co.uk/typefaces",
+    tier: "okay",
+    scrollCount: 5,
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (u.hostname !== "polytype.co.uk") return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        const skip = new Set(["index", "typefaces", "info", "basket"]);
+        return parts.length === 1 && !NON_TYPEFACE_SLUGS.has(parts[0]) && !skip.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "SM",
+    slug: "sm",
+    homepage: "https://s-m.nu/",
+    listingUrl: "https://s-m.nu/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("s-m.nu")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "S6 Foundry",
+    slug: "s6-foundry",
+    homepage: "https://www.s6foundry.com/",
+    listingUrl: "https://www.s6foundry.com/retail-font-library/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("s6foundry.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "retail-font-library" && parts[1].endsWith("-font-family");
+      } catch { return false; }
+    },
+  },
 ];
 
 // ---- URL filter ----

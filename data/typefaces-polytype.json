@@ -1,0 +1,223 @@
+[
+  {
+    "name": "Gela",
+    "foundry": "Polytype",
+    "url": "https://polytype.co.uk/gela",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "The page provides minimal descriptive information, but the glyph preview and foundry context suggest a display typeface; its inclusion among named Polytype releases alongside decorative and expressive faces points to a display classification.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gela"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "experimental",
+      "geometric",
+      "decorative"
+    ],
+    "summary": "A display typeface from London-based Polytype, offering OpenType features and a distinctive glyph set.",
+    "description": "Gela is part of Polytype's small, considered type library alongside faces such as Freizeit, Roquefort and Spoof. The page offers a 72pt type tester and OpenType feature access, suggesting a typeface built for headline and display use. Trial and purchase options are available directly from the foundry.",
+    "foundry_blurb": "Polytype present Gela as part of their typeface catalogue, offering a type tester, glyph set preview, and OpenType feature exploration, with trial and purchase options available."
+  },
+  {
+    "name": "Freizeit",
+    "foundry": "Polytype",
+    "url": "https://polytype.co.uk/freizeit",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The name and specimen styling suggest a German-influenced grotesque; the page references OpenType features and a bold weight typical of display grotesque families.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Freizeit"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "display",
+      "german-influenced",
+      "bold",
+      "opentype"
+    ],
+    "summary": "A bold grotesque from Polytype whose name derives from the German compound word for leisure, combining 'Frei' and 'Zeit'.",
+    "description": "Freizeit is a display grotesque from Polytype, taking its name from the German word for leisure. The specimen page highlights OpenType features and presents the typeface at a large 140-point size, suggesting a primary purpose in headline and display settings. Information about the full weight range and italic availability is limited from the page content available.",
+    "foundry_blurb": "Polytype present Freizeit as a typeface whose name is a compound of the German words 'Frei' (free) and 'Zeit' (time), available to trial or buy directly from the foundry."
+  },
+  {
+    "name": "Roquefort",
+    "foundry": "Polytype",
+    "url": "https://polytype.co.uk/roquefort",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "The page classifies it under 'Strong' with geometric cut-in letterforms suggested by the diamond glyph indicators, pointing to a bold display typeface rather than a text face.",
+    "weights": [
+      "Strong"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Roquefort"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "bold",
+      "strong",
+      "geometric",
+      "headline",
+      "expressive"
+    ],
+    "summary": "A bold display typeface from Polytype, named after the celebrated French cheese favoured by Emperor Charlemagne.",
+    "description": "Roquefort sits at the heavier, more expressive end of Polytype's catalogue, offered in a single Strong weight intended for headline and display use. The page highlights OpenType features alongside cut geometric glyph variants, suggesting attention to typographic detail within a deliberately limited palette. Its naming nods to the French cheese dubbed 'the cheese of kings and popes', lending the face a certain grandeur in its positioning.",
+    "foundry_blurb": "Polytype present Roquefort as a strong display typeface, noting that Roquefort is a popular French cheese reported to be a favourite of Emperor Charlemagne and described in France as 'the cheese of kings and popes'. The type tester highlights its Strong weight alongside OpenType feature support and geometric glyph variants."
+  },
+  {
+    "name": "Hellenic Typewriter",
+    "foundry": "Polytype",
+    "url": "https://polytype.co.uk/hellenic-typewriter",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "typewriter",
+    "classification_notes": "Named 'Hellenic Typewriter' and categorised under a monospaced typewriter style; the page lists Regular and Italic variants consistent with a fixed-width typewriter-derived design.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hellenic Typewriter"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "typewriter",
+      "monospaced",
+      "greek",
+      "retro",
+      "fixed-width"
+    ],
+    "summary": "A monospaced typewriter face from Polytype with Greek character roots, available in Regular and Italic.",
+    "description": "Hellenic Typewriter takes its cues from typewriter typography, with a name suggesting Greek or Hellenic script influence alongside Latin coverage. The family offers Regular and Italic cuts and includes OpenType features. It sits in a niche where fixed-width typewriter aesthetics meet a broader multilingual sensibility.",
+    "foundry_blurb": "Polytype offer Hellenic Typewriter as a typewriter-style monospaced typeface with Regular and Italic styles, supported by OpenType features and available to trial or buy directly from their site."
+  },
+  {
+    "name": "Spoof",
+    "foundry": "Polytype",
+    "url": "https://polytype.co.uk/spoof",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "Listed under display-oriented typefaces at Polytype with a single Regular weight and minimal structural detail, suggesting a decorative or novelty display face rather than a text workhorse.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Spoof"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "novelty",
+      "single-weight",
+      "decorative"
+    ],
+    "summary": "A single-weight display typeface from Polytype with OpenType features, designed for expressive headline use.",
+    "description": "Spoof is a display typeface offered in a single Regular weight, with OpenType feature support visible in the specimen. The page content is sparse, but its placement alongside other characterful Polytype releases suggests a similarly distinctive, personality-driven design. Suited to editorial headlines and branding where a strong typographic voice is wanted.",
+    "foundry_blurb": "Polytype offer Spoof as part of their typeface range, available to trial or buy, with OpenType features included."
+  },
+  {
+    "name": "Chromatica",
+    "foundry": "Polytype",
+    "url": "https://polytype.co.uk/chromatica",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "layered colour",
+    "classification_notes": "The page shows OpenType layering icons suggesting a chromatic or layered display typeface designed for colour printing or multi-layer stacking effects, placing it firmly in the display category with a chromatic subcategory.",
+    "weights": [
+      "Medium"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Chromatica"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "layered",
+      "chromatic",
+      "opentype",
+      "colour",
+      "modular"
+    ],
+    "summary": "A layered display typeface from Polytype with OpenType colour features for multi-layer stacking effects.",
+    "description": "Chromatica is a display typeface from Polytype built around layered colour printing, using OpenType features to enable stacked multi-layer effects. The page shows layer-switching controls suggesting the family is intended to be composed from overlapping colour cuts. At least one weight, Medium, is listed, though the full range is not disclosed on the page.",
+    "foundry_blurb": "Polytype present Chromatica as a display typeface with OpenType layering features, demonstrated through interactive layer-toggle controls on the typeface page."
+  }
+]

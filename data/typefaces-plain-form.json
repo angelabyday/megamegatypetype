@@ -1,0 +1,364 @@
+[
+  {
+    "name": "Grandmaster",
+    "foundry": "Plain Form",
+    "url": "https://plain-form.com/typefaces/grandmaster",
+    "designer": "Lucas Descroix",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "condensed display",
+    "classification_notes": "An extremely condensed titling typeface with highly vertical, rhythmic letterforms that push towards abstraction. Its narrow proportions and kinetic quality place it firmly in the display category, with no meaningful text use case.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grandmaster"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "display",
+      "titling",
+      "editorial",
+      "hip-hop",
+      "kinetic",
+      "abstraction",
+      "vertical"
+    ],
+    "summary": "A very condensed titling typeface by Lucas Descroix, designed in 2018, with an extreme verticality that sits on the border between legibility and abstraction.",
+    "description": "Designed by Lucas Descroix and released in 2018, it comes in 10 styles across five weights from Thin to Black, each with an italic. The extreme vertical compression and regularity of counter-shapes give it an almost kinetic quality suited to incisive editorial layouts and headline work. Its cultural references lean toward hip-hop and music publishing, with usage across Rolling Stone Italia, BET Awards and étapes: magazine confirming its range.",
+    "foundry_blurb": "Plain Form describe Grandmaster as built like a freestyle over a regular beat, a very condensed typeface that explores the border between text and abstraction. They note its extremely vertical structure and the regularity of its shapes and counter-shapes make it an almost-kinetic titling typeface, perfect for incisive editorial layouts."
+  },
+  {
+    "name": "Keyframe",
+    "foundry": "Plain Form",
+    "url": "https://plain-form.com/typefaces/keyframe",
+    "designer": "Lucas Descroix",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "architectural display",
+    "classification_notes": "Keyframe's monumental, heavily constructed stems and deliberate structural omissions place it firmly in the display category. Its architectural character, with linear strokes evoking reinforced concrete, does not align with any standard text serif or sans-serif subcategory.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Keyframe"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "architectural",
+      "display",
+      "constructivist",
+      "monumental",
+      "experimental",
+      "structural",
+      "editorial"
+    ],
+    "summary": "A monumental display typeface by Lucas Descroix, built on heavy linear stems broken by deliberate omissions and unexpected extensions that give words an abstract, almost eroded quality.",
+    "description": "Designed by Lucas Descroix and released in 2023, Keyframe draws on an aesthetic of reinforced concrete and industrial construction, with solid upright stems interrupted by missing parts that create tension between weight and fragility. Five styles run from Thin to Heavy, each sharing the same architectural logic while shifting the balance between hardness and openness. OpenType features include alternate closed lowercase forms, dotted variants and borders and patterns, extending its range into decorative and expressive applications.",
+    "foundry_blurb": "Plain Form describe Keyframe as a product of reinforced concrete and a soldering iron, built with monumental, solid stems that only time could soften. The typeface prioritises simplification and suggestion over definition, with regularity broken by missing parts and unexpected extensions so that words oscillate between hardness and fragility, reading as abstract decors."
+  },
+  {
+    "name": "Ferro",
+    "foundry": "Plain Form",
+    "url": "https://plain-form.com/typefaces/ferro",
+    "designer": null,
+    "year": 2026,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Ferro roots itself in Renaissance and historical serif structures before progressively distorting those forms across four numbered stages; the underlying model is a measured historical serif eroded toward digital noise.",
+    "weights": [
+      "Regular",
+      "Italic",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "subfamilies": [
+      "Ferro",
+      "Ferro Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "distressed",
+      "historical",
+      "digital-decay",
+      "experimental",
+      "text",
+      "monospaced",
+      "progressive"
+    ],
+    "summary": "A 24-style serif family that stages a progressive digital decay across four numbered stages, moving from composed Renaissance-inflected letterforms toward texture, noise and distortion.",
+    "description": "Each of the four numbered stages within Ferro represents a step further from its historical serif origins, with Regular, Italic and Black weights carried through every stage of that transformation. The family remains usable for extended reading in its earliest stages, grounded by proportions drawn from traditional models, while its later stages lean into glitch and erosion. Ferro Mono accompanies the proportional family with 12 matching styles, extending its range into tabular and coding contexts.",
+    "foundry_blurb": "Plain Form describe Ferro as a conjectural bridge between Renaissance masters and the early computer age, staging a progressive digital decay where letterforms unravel into texture and noise. Beginning with a measured, almost historical structure, the family steadily erodes, inhabiting the tension between control and accident, cold procedure and exuberant distortion. Despite its shape-shifting character, the family keeps one foot in practical work, remaining quietly reliable for extended reading and steadied by a monospaced companion."
+  },
+  {
+    "name": "Paraiso",
+    "foundry": "Plain Form",
+    "url": "https://plain-form.com/typefaces/paraiso",
+    "designer": "Lucas Descroix",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "condensed display",
+    "classification_notes": "Paraiso is explicitly a condensed display typeface with blocky, constructed letterforms drawn from 19th and early-20th century wood type traditions, adapted into a fantasised rather than historically faithful form.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Paraiso",
+      "Paraiso Sans"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "display",
+      "wood-type",
+      "constructed",
+      "poster",
+      "headline",
+      "blocky",
+      "geometric"
+    ],
+    "summary": "A condensed display family by Lucas Descroix drawing loosely on 19th-century wood type without attempting historical reconstruction, built from blocky letterforms that suit tight leading and large sizes.",
+    "description": "Designed by Lucas Descroix in 2022, Paraiso comprises seven styles across a serifed condensed range from Thin to Heavy, plus a Sans and Sans Italic. The design cites wood type as an influence but frames itself as a fantasised interpretation rather than revival, producing letterforms that suggest building blocks and carry a rhythmic warmth suited to headlines and poster layouts. OpenType features include alternate lowercase a and g, oldstyle figures, small capitals, fractions and case-sensitive forms, with coverage extending to Extended Latin including Vietnamese.",
+    "foundry_blurb": "Plain Form describe Paraiso as a condensed display typeface with a constructed quality, influenced by 19th and early-20th century wood faces but deliberately straying from nostalgia and precise historical reference. They liken its blocky letterforms to building cubes, noting that the family's warmth comes from the regularity and tightness of its rhythm. Designed as a limited but versatile palette, it suits striking headlines and poster layouts where compact leading and large sizes are called for."
+  },
+  {
+    "name": "Michaux",
+    "foundry": "Plain Form",
+    "url": "https://plain-form.com/typefaces/michaux",
+    "designer": "Benjamin Dumond",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "expressive / generative",
+    "classification_notes": "Michaux sits in the display category as its letterforms were selected from ten thousand computer-generated random signs, producing a wildly unconventional alphabet that prioritises expressive character over legibility at running text sizes. It resembles dynamic handwritten or gestural marks rather than any conventional serif or sans classification.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Michaux"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "generative",
+      "expressive",
+      "gestural",
+      "experimental",
+      "handwritten",
+      "asemic",
+      "display",
+      "chance-operations"
+    ],
+    "summary": "A three-weight display typeface by Benjamin Dumond, whose letterforms were selected from ten thousand computer-generated random signs, drawing on the gestural mark-making of Belgian artist Henri Michaux.",
+    "description": "Designer Benjamin Dumond began by generating ten thousand random three-stroke signs using code, then hand-selected those that resembled letters, making the outcome contingent on his own subjective judgement. The result is a family of roughly 560 glyphs per style that recalls asemic writing and abstract expressionism while remaining functional across extended Latin including Vietnamese. Three weights, Light through Bold, are available as OTF, WOFF and WOFF2, with OpenType support for oldstyle figures and fractions.",
+    "foundry_blurb": "Plain Form describe Michaux as discovered rather than designed, likening the process to spotting a profile in clouds or woodworm traces. Inspired by the practice of Henri Michaux, who used psychedelic substances to relinquish control, Dumond replaced that loss of agency with code and computer-induced chance, generating ten thousand random signs before curating those that resolved into something legible. The foundry position it as simultaneously wild and coherent, a balancing act of freedom and stability."
+  },
+  {
+    "name": "Nostra",
+    "foundry": "Plain Form",
+    "url": "https://plain-form.com/typefaces/nostra",
+    "designer": "Lucas Descroix",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "monospaced display",
+    "classification_notes": "Nostra is a display family built around a strict monospaced grid, with two radically contrasting cuts — a heavy solid style and a hairline cursive — placing it firmly in the display category rather than any conventional text genre.",
+    "weights": [
+      "Sett",
+      "Stream"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nostra Stream",
+      "Nostra Sett"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "monospaced",
+      "experimental",
+      "contrast",
+      "pattern",
+      "editorial",
+      "multilingual",
+      "award-winning"
+    ],
+    "summary": "A two-style monospaced display family pairing a heavy block-like cut with a hairline cursive, creating an almost pattern-like visual rhythm at text scale.",
+    "description": "Designed by Lucas Descroix and released in 2019, Nostra pairs two wildly contrasting styles — the dense, wall-like Sett and the fluid, flourish-inspired Stream — united solely by their shared monospaced width. That uniform spacing gives set text an optical, near-abstract quality, hovering between legibility and geometry. The family covers Extended Latin, Cyrillic and Greek, with Cyrillic consulting by Ilya Ruderman and Yury Ostromentsky, and received recognition from Modern Cyrillic 2019, Communication Arts 2020 and Typographica's Favourite Typefaces of 2019.",
+    "foundry_blurb": "Plain Form describe Nostra as playing with a feeling of satisfaction in how few strokes can form a letter, whether cut into a solid mass or traced in the air. Its monospaced width makes it almost pattern-like, sitting between a legible system and an abstract one, a block of text and an optical illusion. The Sett is heavy and stable like a brick wall; the Stream, inspired by flourished scripts, graffiti and snakes in jars, is light and all in curves."
+  },
+  {
+    "name": "Ready",
+    "foundry": "Plain Form",
+    "url": "https://plain-form.com/typefaces/ready",
+    "designer": "Lucas Descroix & Benjamin Dumond",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "Ready is an experimental display family that deliberately pushes letterforms toward abstraction via reaction-diffusion algorithms, producing three stylistically distinct subfamilies (Active, Bygone, Clouded) that blur the boundary between legible type and pure shape.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ready Active",
+      "Ready Bygone",
+      "Ready Clouded"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Emoji"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "abstract",
+      "algorithmic",
+      "asemic",
+      "generative",
+      "avant-garde",
+      "expressive"
+    ],
+    "summary": "A nine-style display family by Lucas Descroix and Benjamin Dumond that applies reaction-diffusion algorithms to historical letterforms, pulling them to the edge of legibility.",
+    "description": "Three subfamilies — Active, Bygone and Clouded — each available in Light, Regular and Bold, present the same underlying letter architecture warped to different degrees by generative organic processes. The result sits somewhere between conventional type and asemic writing, retaining just enough structural reference to remain identifiable as Latin. Released in 2022, it covers Extended Latin and includes a selection of emoji, borders and pattern glyphs alongside standard OpenType features.",
+    "foundry_blurb": "Plain Form describe Ready as a collection of display styles that explores an asphyxiation of sense under an exuberance of the sign, marrying historical letterforms with the organic unpredictability of reaction-diffusion algorithms. Rather than merely flirting with abstraction, they say it tips over into becoming pure shapes, lightly sprinkled with hints of a long-established and codified writing system."
+  },
+  {
+    "name": "Petit Frère",
+    "foundry": "Plain Form",
+    "url": "https://plain-form.com/typefaces/petit-frere",
+    "designer": null,
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A sans-serif family presented in two width extremes, Narrow and Wide, without a centre cut, drawing on the grotesque tradition through related Plain Form designs Grandmaster and Nostra Sett.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Petit Frère Narrow",
+      "Petit Frère Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "narrow",
+      "wide",
+      "editorial",
+      "versatile",
+      "multistyle"
+    ],
+    "summary": "A 28-style sans-serif duo in two width extremes, Narrow and Wide, distilled from Plain Form's existing Grandmaster and Nostra Sett typefaces.",
+    "description": "Rather than offering a conventional width range, Petit Frère skips a centre cut entirely, presenting only its two poles: a Narrow subfamily drawing on Grandmaster and a Wide one drawing on Nostra Sett. Each subfamily runs through seven weights from Extralight to Black with matching italics, totalling 28 styles. Both cuts share an extensive OpenType feature set including cross-style alternates, serif optionals for certain characters and tabular figures.",
+    "foundry_blurb": "Plain Form describe Petit Frère as a surprising duo of rivals and accomplices, positioning it as the quiet sibling to more outspoken designs in their catalogue. Distilled from Grandmaster for the Narrow cuts and Nostra Sett for the Wide, the family proposes two extremes of a centreless design space, two takes on the sans-serif genre intended to complement each other."
+  }
+]

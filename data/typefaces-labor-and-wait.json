@@ -1,0 +1,440 @@
+[
+  {
+    "name": "Cosmica",
+    "foundry": "Labor and Wait",
+    "url": "https://www.laborandwait.xyz/fonts/cosmica",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The page content and naming suggest a clean, contemporary sans-serif with geometric underpinnings, suitable for a broad range of weights from Thin to Heavy with matching italics throughout.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cosmica",
+      "Cosmica Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "wide-weight-range",
+      "space-themed",
+      "text",
+      "editorial",
+      "mono"
+    ],
+    "summary": "A geometric sans-serif from Labor and Wait spanning nine weights with italics and a companion monospaced variant.",
+    "description": "Cosmica runs from Thin to Heavy across nine weights, each paired with a corresponding italic, giving the family considerable range for both text and display use. A separate Cosmica Mono variant extends the system for code or tabular settings. The space-inflected naming aligns with Labor and Wait's broader catalogue of astronomically themed typefaces.",
+    "foundry_blurb": "Labor and Wait present Cosmica as a versatile sans-serif family with nine weights from Thin to Heavy, full italic support, and a companion monospaced subfamily, suitable for a wide range of typographic applications."
+  },
+  {
+    "name": "Cosmica Mono",
+    "foundry": "Labor and Wait",
+    "url": "https://www.laborandwait.xyz/fonts/cosmica-mono",
+    "designer": null,
+    "year": 2023,
+    "category": "mono",
+    "subcategory": "monospaced sans",
+    "classification_notes": "Cosmica Mono is a fixed-width typeface derived from the proportional sans Cosmica, with every character set to the same body width. It retains the sans-serif character of its parent while adapting proportions for monospace use.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cosmica Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "fixed-width",
+      "sans-serif",
+      "typewriter-inspired",
+      "coding",
+      "editorial",
+      "wide-weight-range"
+    ],
+    "summary": "A monospaced adaptation of Labor and Wait's Cosmica, spanning nine weights with italics and revised proportions tuned for fixed-width environments.",
+    "description": "Derived from the proportional Cosmica, this fixed-width family was built through a trial-and-error spacing process settled at 780 em units, with capitals shortened 8% and ascenders 5% relative to its parent. The design avoids many classic typewriter tropes, with only a handful of characters noticeably altered for monospace legibility, and includes alternate schoolbook forms of 'a' and 'y', an eyeglass 'g', and half-width punctuation variants. Nine weights from Thin to Heavy each carry a matching italic, giving the family considerable range for both screen and print applications.",
+    "foundry_blurb": "Labor and Wait describe Cosmica Mono as their first retail monospace release, built not to a specific pitch but through a process of trial and error that determined a spacing of 780 em units. They note it is larger and smaller than Cosmica in specific ways to function in a monospace environment, and that because it derives from Cosmica rather than a typewriter model, it carries fewer traditional monospace trademarks, with alternates and half-width punctuation options for a more refined result."
+  },
+  {
+    "name": "Esperanza",
+    "foundry": "Labor and Wait",
+    "url": "https://www.laborandwait.xyz/fonts/esperanza",
+    "designer": null,
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Inspired by late transitional English types of William Martin and Richard Austin, Esperanza echoes the sturdy, upright character of 18th-century British printing types with a distinctive upright lowercase variant alongside roman and stencil cuts.",
+    "weights": [
+      "Roman"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Esperanza",
+      "Esperanza Headline",
+      "Esperanza Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "stoneware",
+      "hudson-valley",
+      "stencil",
+      "upright",
+      "historical",
+      "display",
+      "commission"
+    ],
+    "summary": "A transitional serif designed in 2022 for the Athens Cultural Center, drawn from lettering stamped into 19th-century stoneware at the Athens Pottery Works in the Hudson Valley.",
+    "description": "The roman echoes the late transitional types of William Martin and Richard Austin, the predominant models of the colonial period, while a caps-only stencil cut was designed for genuine practical stencilling rather than mere decoration. A full lowercase followed, and an unusual upright variant applies the tail terminal of the roman 'a' to the 'u', producing a non-italic that performs italic functions, drawing on Aldus Manutius and W.A. Dwiggins as precedents. The family comes in three sub-families: Esperanza, Esperanza Headline and Esperanza Stencil.",
+    "foundry_blurb": "Labor and Wait describe Esperanza as a commission for the Athens Cultural Center, inspired by lettering stamped into stoneware made at the Athens Pottery Works throughout the 19th century. The type was initially caps-only in roman and stencil, with the stencil drawn to be functional rather than decorative. A lowercase was later added, and curiosity about the tail terminal on the 'a' led to a full upright lowercase influenced by Manutius and Dwiggins. The name Esperanza refers to an ambitious but failed 1794 urban plan by French surveyor Pierre Pharoux for a city on the Hudson River at the site that became Athens, New York."
+  },
+  {
+    "name": "OBBLIGATO",
+    "foundry": "Labor and Wait",
+    "url": "https://www.laborandwait.xyz/fonts/obbligato",
+    "designer": "Manuel Miranda",
+    "year": 2008,
+    "category": "display",
+    "subcategory": "titling display",
+    "classification_notes": "A caps-only all-capitals titling face drawn from solid, heavy, straight-sided Teutonic titling conventions of the late 19th century, designed expressly for large-scale display use in opera and cultural contexts.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "OBBLIGATO"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "titling",
+      "teutonic",
+      "caps-only",
+      "opera",
+      "cultural",
+      "institutional",
+      "editorial"
+    ],
+    "summary": "A heavy all-capitals titling face rooted in Teutonic 19th-century letterforms, originally commissioned for New York City Opera's identity by 2x4 in 2008.",
+    "description": "Based on 'Mortier', designed by Manuel Miranda at 2x4 for New York City Opera and named after the company's then-incoming director Gerard Mortier, the typeface draws on the solid, straight-sided titling fonts of late 19th-century Germanic typographic tradition. Its caps-only structure makes it suited to opera programmes, cultural institution identities and editorial display work where typographic authority is required. OpenType features include tabular figures, alternates for a, g, y, u and w, and case-sensitive forms.",
+    "foundry_blurb": "Labor and Wait describe OBBLIGATO as based on 'Mortier', a typeface originally designed in 2008 by Manuel Miranda at 2x4 as a commission for New York City Opera, the people's opera, named after its then-incoming director Gerard Mortier. The caps-only original drew on heavy, straight-sided Teutonic titling fonts of the late 19th century and was paired with photography by Nikki S. Lee and Ryan McGinley."
+  },
+  {
+    "name": "Copernicus New Cond",
+    "foundry": "Labor and Wait",
+    "url": "https://www.laborandwait.xyz/fonts/copernicus-new-cond-beta",
+    "designer": null,
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "condensed serif",
+    "classification_notes": "The weight naming convention (070–170) and the page's emphasis on uniform condensed proportions across all weights suggest a contemporary condensed serif, likely in the transitional or rational tradition given the name's astronomical lineage and the structured glyph set.",
+    "weights": [
+      "070",
+      "090",
+      "110",
+      "130",
+      "150",
+      "170"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Copernicus New Cond"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "serif",
+      "headline",
+      "editorial",
+      "beta",
+      "latin-extended"
+    ],
+    "summary": "A uniformly condensed serif family from Labor and Wait, released in beta with six weights running from light to heavy.",
+    "description": "Available in six weights numbered 070 through 170, the family was revised from an earlier beta in which the heaviest weight ran wider as a semicondensed; all cuts are now consistently condensed in proportion. Numeral options include lining proportional as default, alongside lining tabular and oldstyle proportional alternates. Coverage spans a broad range of Latin-script languages, from Afrikaans to Welsh, and the final release files will be provided to beta licensees upon completion.",
+    "foundry_blurb": "Labor and Wait describe Copernicus New Cond as a tight beta (dated 2024.01.29), available for full family licensing only during the beta period. The family is kerned and tightly spaced, with a revised weight range where all cuts are now uniformly condensed following a previous iteration in which the heaviest weight was broader. The final Galaxie New Condensed files are expected to be distributed to beta licensees on release."
+  },
+  {
+    "name": "Copernicus",
+    "foundry": "Labor and Wait",
+    "url": "https://www.laborandwait.xyz/fonts/copernicus",
+    "designer": null,
+    "year": 2009,
+    "category": "serif",
+    "subcategory": "old-style serif",
+    "classification_notes": "Copernicus is rooted in the Plantin tradition, itself derived from Robert Granjon's 16th-century designs, placing it firmly in the old-style or Garalde category. It is wider and sturdier than most Renaissance revivals, with a deliberately modern interpretation of the source material.",
+    "weights": [
+      "Book",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Copernicus"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "old-style",
+      "plantin",
+      "revival",
+      "workhorse",
+      "editorial",
+      "text",
+      "renaissance",
+      "historical"
+    ],
+    "summary": "A 21st-century reworking of the Plantin tradition, tracing its lineage through Robert Granjon's 1560s designs and Monotype's 1910s revival by Frank Hinman Pierpont.",
+    "description": "Originally released in 2009 as Galaxie Copernicus, the family takes Plantin as its starting point but refuses strict historical reconstruction, instead filtering the wide, sturdy character of the original through contemporary type-drawing sensibilities. Six weights from Book to Heavy each carry matching italics, giving the family a full range for text-setting. The design philosophy, guided in part by early-music performance thinking, treats the past as material rather than blueprint.",
+    "foundry_blurb": "Labor and Wait describe Copernicus as a revivification of Robert Granjon's 1560s designs as revived by Frank Hinman Pierpont for Monotype in the 1910s under the name Plantin (Series 110). They position it as an homage to that workhorse tradition, more sturdy than graceful, and redrawn for the 21st century rather than reconstructed. A quote from Norwegian lutenist Rolf Lislevand underpins the approach: honest engagement with the past rather than imitation of it. Originally released October 2009; the 'Galaxie' prefix was dropped for V2 in August 2013."
+  },
+  {
+    "name": "Apex Rounded",
+    "foundry": "Labor and Wait",
+    "url": "https://www.laborandwait.xyz/fonts/apex-rounded",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The rounded terminals on stroke ends give this geometric sans a soft, approachable character, distinguishing it from its sharper Apex New sibling while retaining a structured, constructed skeleton.",
+    "weights": [
+      "Book",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Apex Rounded"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "soft",
+      "display",
+      "versatile",
+      "latin-extended"
+    ],
+    "summary": "A rounded variant of the Apex New family, offering five weights with italics and a softer terminal treatment across an extended Latin character set.",
+    "description": "Built on a geometric sans structure, the rounded stroke terminals give it a warmer and less austere feel than its sharp-ended counterpart. Five weights from Book to Ultra are available, each accompanied by an italic, making it viable across both display and text sizes. OpenType features include small capitals, oldstyle figures, tabular and proportional lining figures, fractions and multiple stylistic sets.",
+    "foundry_blurb": "Labor and Wait offer Apex Rounded as a sibling to Apex New, featuring rounded stroke terminals across five weights from Book to Ultra, each with a matching italic, and a full suite of OpenType features including small caps, multiple figure styles and stylistic alternates."
+  },
+  {
+    "name": "Apex New",
+    "foundry": "Labor and Wait",
+    "url": "https://www.laborandwait.xyz/fonts/apex-new",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Apex New is a grotesque sans-serif with a broad weight range from Thin to Ultra, featuring both upright and italic cuts with extensive OpenType features including small caps, old-style figures and multiple stylistic sets for alternates such as single-storey a and g.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Apex New"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "extended-latin",
+      "editorial",
+      "text",
+      "multi-weight",
+      "opentype"
+    ],
+    "summary": "A seven-weight grotesque sans with italics throughout, offering extensive OpenType features including small caps, old-style figures and alternate letterforms for a, g and y.",
+    "description": "Apex New spans seven weights from Thin to Ultra, each with a matching italic, giving broad coverage for both text and display use. The character set includes Latin Extended with thorough diacritic support, and OpenType features run to small caps, lining and old-style figures, tabular and proportional variants, superscript, subscript, scientific inferiors and an extensive fractions set. Stylistic sets offer single-storey a and g alternates, a simplified y, and curly quotation mark variants.",
+    "foundry_blurb": "Labor and Wait offer Apex New as a full-featured grotesque with fourteen styles across seven weights and matching italics, supported by a wide Latin character set and a comprehensive suite of OpenType features."
+  },
+  {
+    "name": "Polaris",
+    "foundry": "Labor and Wait",
+    "url": "https://www.laborandwait.xyz/fonts/polaris",
+    "designer": null,
+    "year": 2004,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described explicitly as a teutonic grotesk following Helvetica, Univers and Unica, with roots in late-19th-century German grotesks. Unadorned, modernist construction with no decorative elements.",
+    "weights": [
+      "Light",
+      "Book",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Polaris",
+      "Polaris Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "teutonic",
+      "modernist",
+      "neutral",
+      "multilingual",
+      "helvetica-tradition",
+      "text"
+    ],
+    "summary": "A teutonic grotesque in the tradition of Helvetica and Univers, originally released in 2004 as part of the broader Galaxie family of families.",
+    "description": "Originally released as Galaxie Polaris in 2004, the typeface was conceived as the reference point for a larger \"family of families\" including the script Cassiopeia and the serif Copernicus. It follows the unadorned modernist tradition of late-19th-century German grotesks and was an early multilingual design, with version 4 extending coverage to Cyrillic. Five weights from Light to Heavy are available, each with a matching italic, plus a condensed sub-family.",
+    "foundry_blurb": "Labor and Wait describe Polaris as a teutonic grotesk following in the tradition of Helvetica, Univers, Unica and other unadorned modernist sans typefaces harking back to late-19th-century German grotesks. It was the first completed member of the Galaxie project, a large family of families, and was named for the pole star as the reference point for all subsequent families. Originally released July 2004 as Galaxie Polaris, the Galaxie prefix was dropped for V4 in September 2013, which also added Cyrillic script support."
+  },
+  {
+    "name": "Cassiopeia",
+    "foundry": "Labor and Wait",
+    "url": "https://www.laborandwait.xyz/fonts/cassiopeia",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Cassiopeia appears in Bold and Basic Bold weights with no italic, positioned as a display face with a strong, structured character suited to headlines and large-scale use.",
+    "weights": [
+      "Basic Bold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cassiopeia"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "bold",
+      "geometric",
+      "headline",
+      "poster",
+      "astronomical",
+      "latin-extended"
+    ],
+    "summary": "A two-weight display sans from Labor and Wait, named after the northern constellation, offered in Bold and Basic Bold cuts.",
+    "description": "Available in Bold and Basic Bold, Cassiopeia is a display-weight sans built for headline and poster work. The character set covers Basic Latin, Latin-1 Supplement and Latin Extended-A, giving reasonable coverage across Western European languages. The foundry's specimen copy draws on the mythology and astronomy of the Cassiopeia constellation, lending the typeface a cosmic, somewhat editorial framing.",
+    "foundry_blurb": "Labor and Wait present Cassiopeia as a typeface named for the northern constellation — a W-shaped asterism recognisable to amateur astronomers since antiquity — evoking its history across Persian and French celestial atlases and its place among Ptolemy's 48 original constellations."
+  }
+]

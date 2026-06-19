@@ -1,0 +1,337 @@
+[
+  {
+    "name": "Affairs",
+    "foundry": "SM",
+    "url": "https://s-m.nu/typefaces/affairs",
+    "designer": "Mark Niemeijer",
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "geometric serif",
+    "classification_notes": "The foundry explicitly classifies Affairs as a Geometric Serif. Its structure draws from geometric proportions akin to neo-grotesque sans-serifs, placing it firmly in that subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Affairs",
+      "Affairs Mono",
+      "Affairs Italic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "serif",
+      "compact",
+      "versatile",
+      "neo-grotesque-companion",
+      "editorial",
+      "formal",
+      "informal"
+    ],
+    "summary": "A compact geometric serif by Mark Niemeijer with proportions drawn from neo-grotesque sans-serifs, making it an easy pairing companion.",
+    "description": "Designed by Mark Niemeijer and released in December 2021, Affairs takes its structural cues and proportions from neo-grotesque sans-serifs, giving it an unusual degree of compatibility when set alongside typefaces in that tradition. Its geometric construction is softened by sleek curves, allowing it to sit comfortably in both formal and informal contexts. The family comprises three styles: Regular, Italic and a Mono variant.",
+    "foundry_blurb": "SM describe Affairs as a compact but versatile serif type family whose geometric structure and sleek curves lend it a functional yet soft character. They note that its proportions closely resemble those of neo-grotesque sans-serifs, positioning it as a natural companion for sans serif typefaces across formal and informal applications."
+  },
+  {
+    "name": "Hauser",
+    "foundry": "SM",
+    "url": "https://s-m.nu/typefaces/hauser",
+    "designer": "Mark Niemeijer",
+    "year": 2017,
+    "category": "display",
+    "subcategory": "modular geometric",
+    "classification_notes": "Hauser is built entirely from basic geometric shapes on a fixed grid system, with characters formed from circles, squares and lines. Its highly abstract, constructed nature places it firmly in the display category as a modular geometric typeface.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Regular",
+      "Multiform"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hauser"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "geometric",
+      "constructed",
+      "avant-garde",
+      "display",
+      "grid",
+      "experimental",
+      "architectural"
+    ],
+    "summary": "A modular display typeface built from circles, squares and lines on a fixed grid, drawing on Structuralist and Metabolist architecture and Suprematist composition.",
+    "description": "Designed by Mark Niemeijer and released in December 2017, Hauser constructs each character from repeating geometric primitives on a strict grid system, producing individually abstract glyphs that gain legibility through context. The family spans four fonts and takes its conceptual lead from the avant-garde architectural collective Team 10 and Suprematist visual principles. It sits alongside Maxeville Construct as part of SM's ongoing exploration of constructed, grid-driven typography.",
+    "foundry_blurb": "SM describe Hauser as a deep dive into constructed typography, forming characters from basic circles, squares and lines repurposed across a fixed grid. They cite the avant-garde architecture group Team 10, Structuralist and Metabolist architecture, and Suprematism as key influences on the typeface's weights and compositions."
+  },
+  {
+    "name": "Maxeville",
+    "foundry": "SM",
+    "url": "https://s-m.nu/typefaces/maxeville",
+    "designer": "Mark Niemeijer",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "Described by the foundry as a neo-grotesk with geometric properties; characters are designed to appear constructed rather than cut, drawing on the visual language of early 20th-century European modernist movements such as De Stijl and Union des Artistes Modernes.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Tekst"
+    ],
+    "subfamilies": [
+      "Maxeville Regular",
+      "Maxeville Tekst",
+      "Maxeville Construct"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "geometric",
+      "constructivist",
+      "modernist",
+      "de-stijl",
+      "european",
+      "editorial"
+    ],
+    "summary": "A neo-grotesque with geometric, constructed letterforms drawn from the visual vocabulary of De Stijl and Union des Artistes Modernes.",
+    "description": "Designed by Mark Niemeijer and first released in 2017, the family draws on the work of Gerrit Rietveld and Jean Prouvé, giving its characters the appearance of assembled forms rather than conventionally drawn ones. The 14-font family spans Regular, Tekst and Construct subfamilies, each with italic counterparts and a Bold weight. Its version 2.0, released in January 2021, extended Latin coverage across a broad range of European languages.",
+    "foundry_blurb": "SM describe Maxeville as a neo-grotesk typeface with geometric properties, inspired by the visual language of early 20th-century European art and design movements including De Stijl and Union des Artistes Modernes, with particular reference to Gerrit Rietveld and Jean Prouvé. They note that its characters are designed to appear constructed rather than cut, distinguishing it from stencilled typefaces despite sharing an assembled aesthetic."
+  },
+  {
+    "name": "Reformat A",
+    "foundry": "SM",
+    "url": "https://s-m.nu/typefaces/reformat-a",
+    "designer": "Mark Niemeijer",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "SM classify Reformat A as Neo-Grotesk; it draws on 19th century grotesques but applies a systematic, rational approach with consistent rhythm, placing it firmly in the neo-grotesque tradition.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Light",
+      "Thin",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Reformat A"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "rational",
+      "systematic",
+      "grotesque",
+      "modern",
+      "neutral"
+    ],
+    "summary": "A seven-font neo-grotesque from SM Foundry, developed as an original interpretation bridging 19th century grotesques and 20th century neo-grotesque styles.",
+    "description": "Designed by Mark Niemeijer and released in February 2024, Reformat A is the more systematic of two sub-families that together make up the Reformat family. It prioritises efficiency and rational traits with a consistent rhythm, distinguishing itself from its sibling Reformat B, which favours organic curves and distinctive details. The family offers seven fonts and is positioned as a practical workhorse with considered letterforms rather than a direct historical revival.",
+    "foundry_blurb": "SM describe Reformat A as a neo-grotesque that fills the gap between 19th century grotesques and 20th century neo-grotesque styles, designed as an original interpretation rather than a revival. Reformat A takes a systematic approach with rational traits and consistent rhythm, forming one half of the broader Reformat family alongside the more organic Reformat B."
+  },
+  {
+    "name": "Reformat B",
+    "foundry": "SM",
+    "url": "https://s-m.nu/typefaces/reformat-b",
+    "designer": "Mark Niemeijer",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Classified by the foundry as Grotesque, drawing on 19th century grotesque and 20th century neo-grotesk influences. Reformat B specifically emphasises natural curves and distinctive details over systematic rationalism.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Reformat B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "neo-grotesque",
+      "historical",
+      "organic",
+      "practical",
+      "editorial"
+    ],
+    "summary": "A seven-font grotesque family by Mark Niemeijer that bridges 19th century grotesque traditions and 20th century neo-grotesk rationalism through organic curves and distinctive detailing.",
+    "description": "Reformat B is one half of the broader Reformat family, distinguished from its sibling Reformat A by its natural curves and more characterful letterforms rather than a systematic, rational approach. Designed by Mark Niemeijer and released in February 2024, the family comprises seven fonts informed by historic grotesque examples without directly reviving any single source. It suits projects that need the structural familiarity of a grotesque but with more personality in the details.",
+    "foundry_blurb": "SM describe Reformat B as part of a two-subfamily system that sits between 19th century grotesques and 20th century neo-grotesks. Rather than a direct revival, Reformat B draws on historic examples to offer its own interpretation, with natural curves and distinctive details setting it apart from the more systematic and rational Reformat A. Customisation, language extensions and other typographic services are available on request."
+  },
+  {
+    "name": "Rietveld",
+    "foundry": "SM",
+    "url": "https://s-m.nu/typefaces/rietveld",
+    "designer": "Mark Niemeijer",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "geometric constructed",
+    "classification_notes": "Rietveld is built exclusively from vertical, horizontal and diagonal strokes in the tradition of De Stijl constructivism, making it a display-oriented geometric typeface closer to constructed lettering than a standard geometric sans.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rietveld",
+      "Rietveld Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "constructed",
+      "de-stijl",
+      "dutch",
+      "modular",
+      "abstract",
+      "display"
+    ],
+    "summary": "A constructed geometric typeface by Mark Niemeijer that restricts letterforms to vertical, horizontal and diagonal strokes, drawing on the typographic experiments of Bart van der Leck and De Stijl.",
+    "description": "Released in December 2024, Rietveld takes proportional cues from SM's earlier Maxeville and pushes further into abstraction by building every character from only three stroke directions. The result is a Dutch-influenced family of four fonts spanning Regular and Bold weights across a proportional and a monospaced cut. The aesthetic sits closer to Bart van der Leck's 1930s typographic compositions than to conventional geometric sans design, making it most useful for editorial and identity work where a strong constructivist register is wanted.",
+    "foundry_blurb": "SM describe Rietveld as a geometric typeface following the proportions of Maxeville, designed in the Dutch tradition of reduction and soberness and influenced by the De Stijl work of Gerrit Rietveld and particularly Bart van der Leck. Letterforms are composed exclusively from vertical, horizontal and diagonal shapes to create an abstract but legible rhythm."
+  },
+  {
+    "name": "Solaris",
+    "foundry": "SM",
+    "url": "https://s-m.nu/typefaces/solaris",
+    "designer": "Mark Niemeijer",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Explicitly classified as Neo-Grotesque by the foundry, with high contrast centred on the stroke axis, a defining trait of the neo-grotesque revival tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Solaris"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "high-contrast",
+      "editorial",
+      "neutral",
+      "sophisticated",
+      "legible"
+    ],
+    "summary": "A high-contrast neo-grotesque by Mark Niemeijer that centres stroke emphasis to maintain rhythmic consistency across settings.",
+    "description": "Designed by Mark Niemeijer and released in 2019, Solaris sits in the neo-grotesque tradition but introduces pronounced contrast with emphasis fixed at the centre of each stroke. This gives headlines a sleek, refined character while preserving readability at smaller sizes. The family comprises six fonts across three weights, each with a matching italic.",
+    "foundry_blurb": "SM describe Solaris as a high contrast neo-grotesk that looks sleek and sophisticated at large sizes while remaining neutral and legible at small sizes. They note that the emphasised contrast is fixed on the centre of each character, creating a consistent rhythm of shapes across sentences."
+  },
+  {
+    "name": "Stellage",
+    "foundry": "SM",
+    "url": "https://s-m.nu/typefaces/stellage",
+    "designer": "Mark Niemeijer",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "geometric serif",
+    "classification_notes": "Explicitly classified as a geometric serif by the foundry, characterised by square and triangular serifs that give each letterform an architectural, constructed quality distinct from traditional humanist or transitional serifs.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Regular"
+    ],
+    "subfamilies": [
+      "Stellage Display",
+      "Stellage Regular",
+      "Stellage Constructed",
+      "Stellage Italic",
+      "Stellage Constructed Italic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "serif",
+      "architectural",
+      "postmodern",
+      "display",
+      "constructed",
+      "sharp"
+    ],
+    "summary": "A five-style geometric serif with square and triangular serifs, drawing on the visual language of postmodern architecture.",
+    "description": "Designed by Mark Niemeijer and released in 2020, Stellage treats each letterform as a miniature architectural structure, combining modern geometric construction with classical serif conventions. Square and triangular serifs give the family a sharp, distinctive texture that reads well at small sizes while offering compositional interest at display scale. The family spans five styles including constructed and italic cuts.",
+    "foundry_blurb": "SM describe Stellage as a versatile geometric serif inspired by the visual culture of postmodern architecture and design, with square and triangular serifs that make every character feel like a small building where modern and classical shapes converge. The result balances legibility at small sizes with interesting details suited to display use."
+  }
+]

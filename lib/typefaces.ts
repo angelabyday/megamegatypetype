@@ -122,6 +122,16 @@ import heavyweight from "@/data/typefaces-heavyweight.json";
 import increments from "@/data/typefaces-increments.json";
 import jessicaHische from "@/data/typefaces-jessica-hische.json";
 import juriZaech from "@/data/typefaces-juri-zaech.json";
+import laborAndWait from "@/data/typefaces-labor-and-wait.json";
+import massDriver from "@/data/typefaces-mass-driver.json";
+import nootype from "@/data/typefaces-nootype.json";
+import nuformType from "@/data/typefaces-nuform-type.json";
+import november from "@/data/typefaces-november.json";
+import oldCityMailroom from "@/data/typefaces-old-city-mailroom.json";
+import plainForm from "@/data/typefaces-plain-form.json";
+import polytype from "@/data/typefaces-polytype.json";
+import sm from "@/data/typefaces-sm.json";
+import s6Foundry from "@/data/typefaces-s6-foundry.json";
 // Batch 11
 import brandonNickerson from "@/data/typefaces-brandon-nickerson.json";
 import rTypography from "@/data/typefaces-r-typography.json";
@@ -362,6 +372,16 @@ export function getAllTypefaces(): Typeface[] {
         increments,
         jessicaHische,
         juriZaech,
+        laborAndWait,
+        massDriver,
+        nootype,
+        nuformType,
+        november,
+        oldCityMailroom,
+        plainForm,
+        polytype,
+        sm,
+        s6Foundry,
         // Batch 11
         brandonNickerson,
         rTypography,
