@@ -1623,22 +1623,6 @@ const FOUNDRIES = [
     },
   },
   {
-    name: "Store Norske Skriftkompani",
-    slug: "store-norske-skriftkompani",
-    homepage: "https://skriftkompani.no/",
-    listingUrl: "https://skriftkompani.no/typefaces",
-    tier: "okay",
-    filterFn: (href) => {
-      try {
-        const u = new URL(href);
-        if (!u.hostname.includes("skriftkompani.no")) return false;
-        if (u.search || u.hash) return false;
-        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
-        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
-      } catch { return false; }
-    },
-  },
-  {
     name: "Monokrom",
     slug: "monokrom",
     homepage: "https://monokrom.no/",

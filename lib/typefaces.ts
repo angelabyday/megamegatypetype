@@ -101,6 +101,9 @@ import dktype from "@/data/typefaces-dktype.json";
 import souvenirTypefaces from "@/data/typefaces-souvenir-typefaces.json";
 import theNorthernBlock from "@/data/typefaces-the-northern-block.json";
 import typeOfFeeling from "@/data/typefaces-type-of-feeling.json";
+// Batch 11
+import brandonNickerson from "@/data/typefaces-brandon-nickerson.json";
+import rTypography from "@/data/typefaces-r-typography.json";
 // Batch 10
 import altTf from "@/data/typefaces-alt-tf.json";
 import blackFoundry from "@/data/typefaces-black-foundry.json";
@@ -317,6 +320,9 @@ export function getAllTypefaces(): Typeface[] {
         souvenirTypefaces,
         theNorthernBlock,
         typeOfFeeling,
+        // Batch 11
+        brandonNickerson,
+        rTypography,
         // Batch 10
         altTf,
         blackFoundry,
