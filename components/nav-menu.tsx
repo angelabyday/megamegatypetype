@@ -69,9 +69,7 @@ export function NavMenu() {
                   {link.label}
                 </Link>
               ))}
-              <div className="px-6 py-3">
-                <SubmitFoundryButton />
-              </div>
+              <SubmitFoundryButton className="px-6 py-4 text-sm hover:bg-muted transition-colors text-left w-full" />
             </nav>
           </div>
         </div>

@@ -4,7 +4,7 @@ import { useRef, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 
-export function SubmitFoundryButton() {
+export function SubmitFoundryButton({ className }: { className?: string }) {
   const [open, setOpen] = useState(false);
   const [url, setUrl] = useState("");
   const [status, setStatus] = useState<"idle" | "submitting" | "done" | "error">("idle");
@@ -42,7 +42,7 @@ export function SubmitFoundryButton() {
     <>
       <button
         onClick={() => setOpen(true)}
-        className="px-4 py-1.5 hover:opacity-75 transition-opacity"
+        className={className ?? "px-4 py-1.5 hover:opacity-75 transition-opacity"}
       >
         Submit Foundry
       </button>
