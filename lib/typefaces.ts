@@ -114,6 +114,14 @@ import davidJonathanRoss from "@/data/typefaces-david-jonathan-ross.json";
 import felicanType from "@/data/typefaces-feliciano-type.json";
 import floodFonts from "@/data/typefaces-flood-fonts.json";
 import fonderieBretagne from "@/data/typefaces-fonderie-bretagne.json";
+import forgottenShapes from "@/data/typefaces-forgotten-shapes.json";
+import formagari from "@/data/typefaces-formagari.json";
+import goodTypeFoundry from "@/data/typefaces-good-type-foundry.json";
+import gunesMuhittin from "@/data/typefaces-gunes-muhittin.json";
+import heavyweight from "@/data/typefaces-heavyweight.json";
+import increments from "@/data/typefaces-increments.json";
+import jessicaHische from "@/data/typefaces-jessica-hische.json";
+import juriZaech from "@/data/typefaces-juri-zaech.json";
 // Batch 11
 import brandonNickerson from "@/data/typefaces-brandon-nickerson.json";
 import rTypography from "@/data/typefaces-r-typography.json";
@@ -346,6 +354,14 @@ export function getAllTypefaces(): Typeface[] {
         felicanType,
         floodFonts,
         fonderieBretagne,
+        forgottenShapes,
+        formagari,
+        goodTypeFoundry,
+        gunesMuhittin,
+        heavyweight,
+        increments,
+        jessicaHische,
+        juriZaech,
         // Batch 11
         brandonNickerson,
         rTypography,

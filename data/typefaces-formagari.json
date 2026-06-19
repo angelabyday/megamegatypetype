@@ -1,0 +1,467 @@
+[
+  {
+    "name": "Maxisud",
+    "foundry": "Formagari",
+    "url": "https://formagari.com/typefaces/maxisud",
+    "designer": "Emmanuel Besse",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Maxisud is a narrow geometric sans directly descended from Futura Maxi, sharing characteristics with Avant-Garde Gothic Condensed and Futura Condensed ExtraBold, with a higher x-height and semi-condensed proportions.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Maxisud",
+      "Maxisud Inktrap"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "condensed-proportions",
+      "inktrap",
+      "display",
+      "poster",
+      "futura-lineage",
+      "variable"
+    ],
+    "summary": "A narrow geometric sans derived from Futura Maxi, offered in a standard cut and an inktrap variant across nine weights plus a variable font.",
+    "description": "Drawn by Emmanuel Besse with spacing and kerning by Igino Marini, Maxisud reinterprets the Futura Maxi found in Photo-Lettering's One Line Manual of Styles, pushing the x-height higher and aligning its semi-condensed geometry closer to Avant-Garde Gothic Condensed and the classic poster cut Futura Condensed ExtraBold. The inktrap variant repurposes a traditionally functional feature as a visual device, adding texture and rhythm at smaller sizes while retaining crispness at display scale. Nine weights run from Thin to Black in both families, with a variable font covering weight and optical size axes.",
+    "foundry_blurb": "Formagari describe Maxisud as a narrow, geometrical sans serif that reinterprets the Futura Maxi typeface from Photo-Lettering's One Line Manual of Styles. It comes in two versions — a standard cut and one with inktraps used as visual texture rather than purely technical devices — and its semi-condensed, rounded letterforms evoke sport brand campaigns, the Guerrilla Girls, and the titles of David Lynch's Twin Peaks."
+  },
+  {
+    "name": "Cedrat",
+    "foundry": "Formagari",
+    "url": "https://formagari.com/typefaces/cedrat",
+    "designer": "Emmanuel Besse",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Derived from 19th-century 'Hollandaises' typefaces with mixed upright and oblique contrast axes, placing it at the transitional boundary between old-style and modern serif conventions. The hybrid axis behaviour and high contrast are characteristic of late 19th-century European type.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Standard",
+      "Text"
+    ],
+    "subfamilies": [
+      "Cedrat Display",
+      "Cedrat Standard",
+      "Cedrat Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "high-contrast",
+      "optical-sizes",
+      "editorial",
+      "book",
+      "french",
+      "historical-revival",
+      "publishing"
+    ],
+    "summary": "A three-optical-size serif drawn from 19th-century French 'Hollandaises' type, with a genuinely cursive italic and 1,030 glyphs across six weights per size.",
+    "description": "Designed by Emmanuel Besse and released in 2024, Cedrat revives the hybrid-axis forms of Berthier & Durey's 1895 specimen, where contrast axes shift between letters rather than following a single consistent angle. The family resolves the original's display-only limitations by splitting across three optical sizes: Display for high-contrast titling, Standard for intermediate use, and Text for sustained reading. The italic departs from the historical source entirely, drawing instead from Times and ITC Caslon 223 to achieve genuine cursive character rather than a mechanical slant.",
+    "foundry_blurb": "Formagari describe Cedrat as a typographic collection of hybrids, taking its name from the citrus family whose varieties share a common biological skeleton yet express individual character. Rooted in the 'Hollandaises' typefaces from Berthier & Durey's 1895 specimen, the design retains their free spirit and mixed contrast axes while refining them for coherent, functional use across display, standard and text optical sizes, each offered in six weights with roman and italic."
+  },
+  {
+    "name": "Scenery",
+    "foundry": "Formagari",
+    "url": "https://formagari.com/typefaces/scenery",
+    "designer": "Lucas Le Bihan",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Scenery is rooted in compact geometric sans-serif proportions, referencing Classified Display and neo-grotesque conventions, while adding ornamental and flared-terminal details that blur the line between pure geometric and decorative traditions.",
+    "weights": [
+      "Thin",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Scenery"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "ornamental",
+      "flared-terminals",
+      "editorial",
+      "display",
+      "text",
+      "variable",
+      "eclectic"
+    ],
+    "summary": "A four-year project by Lucas Le Bihan that blends compact geometric sans proportions with decorative ornamental details, rounded edges and flared terminals across eight weights from Thin to Black.",
+    "description": "Drawing on the proportions of Classified Display (1955) and neo-grotesque conventions, Scenery layers in eclectic touches — openings borrowed from Auriol (1903), serifs on the s, and rounded corners that grow more pronounced at heavier weights. The lighter cuts carry ornamental character suited to body text, while the heavier weights shed those details to become clean, squared display faces in the manner of Reklameschrift Block. Two variable fonts cover upright and italic axes, with spacing and kerning by Igino Marini and mastering by Solenn Bordeau.",
+    "foundry_blurb": "Formagari describe Scenery as a family begun in 2021 whose drawing process lasted four years. They note its dual nature: lighter weights carry ornamental and decorative elements inspired by the arts, while from Regular upward these disappear, dividing the family in purpose between text and display use. Rounded edges and flared terminals give text blocks a lively texture, while at large sizes the squared, rounded corners become the dominant visual feature."
+  },
+  {
+    "name": "Kernevel",
+    "foundry": "Formagari",
+    "url": "https://formagari.com/typefaces/kernevel",
+    "designer": "Lucas Le Bihan",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "old-style serif",
+    "classification_notes": "Kernevel is described as an interpretation of Frederic William Goudy's University of California Old Style, placing it firmly in the old-style serif tradition with classic proportions and humanist roots.",
+    "weights": [
+      "Book",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kernevel"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "old-style",
+      "goudy",
+      "humanist",
+      "editorial",
+      "book",
+      "french",
+      "classic",
+      "text"
+    ],
+    "summary": "A reinterpretation of Goudy's University of California Old Style by Lucas Le Bihan, shaped by Breton summers and sailing culture into a classic text serif with a relaxed horizon.",
+    "description": "Drawing on Frederic William Goudy's University of California Old Style, Kernevel balances traditional old-style proportions with a lightness the designer attributes to memories of coastal Brittany. Eight styles run across four weights from Book to Black, each with matching italics, and the family includes small caps, lining and tabular figures, and a generous extended Latin character set of 945 glyphs. Its classical structure makes it well suited to editorial, cultural and literary contexts.",
+    "foundry_blurb": "Formagari describe Kernevel as standing somewhere between Brittany and California, an interpretation of Goudy's University of California Old Style that retains a classic appearance while looking towards a more distant horizon. The typeface was designed by Lucas Le Bihan and released in 2022, with team support from Roxane Gataud and illustrations by Arthur Bonifay."
+  },
+  {
+    "name": "Sancy",
+    "foundry": "Formagari",
+    "url": "https://formagari.com/typefaces/sancy",
+    "designer": "Emmanuel Besse",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Sancy Sans is described explicitly as a narrow grotesque with low contrast and semi-condensed proportions, drawing from early French Antiques and semi-condensed grotesques. Sancy Slab shares the same narrow proportions and low contrast, classified as a companion slab variant.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sancy",
+      "Sancy Slab"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "slab",
+      "semi-condensed",
+      "low-contrast",
+      "editorial",
+      "signage",
+      "french",
+      "paired-families"
+    ],
+    "summary": "A semi-condensed grotesque and matching slab, both rooted in historical street signage and 19th-century French type specimens, designed by Emmanuel Besse in 2025.",
+    "description": "Sancy originates from a wooden panel in the town of Besse, France, which gave the designer both the typeface's name and its starting letterforms. The collection pairs a narrow grotesque with a low-contrast slab drawn from sources including Antique No. 1 by Miller & Richard, the Peignot Égyptiennes and various Clarendon Condenseds, while the sans reaches towards stretched Helvetica derivatives and Parisian restaurant lightboxes. Each family spans seven weights from Thin to ExtraBold with matching italics, totalling 28 styles across the two subfamilies.",
+    "foundry_blurb": "Formagari describe Sancy as a typeface collection by Emmanuel Besse in two versions, a Sans and a Slab, each in 14 styles across 7 weights with matching italics. The narrow proportions derive from a wooden panel in the town of Besse, a source that adds a personal dimension to the release. The Sans draws from early semi-condensed French Antiques, grotesques by Miller & Richard, and stretched digital type seen on Parisian restaurant facades, while the Slab references historical Antiques and Clarendon Condenseds from the late 19th and early 20th centuries."
+  },
+  {
+    "name": "Insitu",
+    "foundry": "Formagari",
+    "url": "https://formagari.com/typefaces/insitu",
+    "designer": "Emmanuel Besse, Lucas Le Bihan",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "The designers explicitly describe Insitu as a neo-grotesque inspired by early 20th-century gothics and classics like Folio, placing it firmly in that tradition with tight spacing and moderate contrast.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Insitu"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "art-institution",
+      "editorial",
+      "cultural",
+      "french",
+      "tight-spacing",
+      "magazine",
+      "display"
+    ],
+    "summary": "A neo-grotesque drawn initially for the ISELP art institute in Brussels, with tight spacing and visible contrast that suits large-scale display settings.",
+    "description": "Developed first for a Brussels art institution and then refined for a French contemporary art funds event, Insitu takes cues from early 20th-century gothic letterforms and references like Folio. The tight spacing and sturdy construction make it well suited to lapidary conceptual art captions and heavy magazine headlines, though it holds together at text sizes when needed. Eight styles across four weights, each with matching italics, give it enough range for cultural publishing and institutional identity work.",
+    "foundry_blurb": "Insitu was initially drawn for the ISELP art institute in Brussels and further developed for WEFRAC, the French Regional Contemporary Art Funds Open Days event. Formagari describe it as a neo-grotesque with tight spacing and nice contrast, inspired by early 20th-century gothics and classics such as Folio — their take on the friendly and sturdy sans serif, built for lapidar conceptual art sentences and heavy magazine titles, while remaining readable at smaller sizes."
+  },
+  {
+    "name": "Modale Antique",
+    "foundry": "Formagari",
+    "url": "https://formagari.com/typefaces/modale-antique",
+    "designer": "Emmanuel Besse",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Modale Antique draws on historical grotesque references including Antiques Maigres Larges, Venus and Monotype Grotesque, with sharp cut endings and a nearly monolinear construction placing it squarely in the grotesque tradition.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Modale Antique"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "historical-reference",
+      "editorial",
+      "identity",
+      "friendly",
+      "sharp-terminals",
+      "text-ready",
+      "all-caps"
+    ],
+    "summary": "A grotesque sans by Emmanuel Besse referencing Antiques Maigres Larges, Venus and Monotype Grotesque, with sharp cut endings that give it a clean rhythmic character without austerity.",
+    "description": "Originally drawn for a contemporary art centre identity proposal, Modale Antique distils three early twentieth-century grotesque models into eight styles across four weights, each with a matching italic. Its nearly monolinear strokes and rounded curves avoid the eccentricities of earlier grotesques, while the sharp-cut terminals bring crisp definition at all sizes. The family performs equally well in all-caps settings and continuous text, and was awarded second prize at the Club des DA in 2023.",
+    "foundry_blurb": "Formagari describe Modale Antique as a sans-serif with sharp ends and a general bonhomie, influenced by Antiques Maigres Larges by Deberny & Cie (1923), Venus by Bauer Type Foundry (1907) and Monotype Grotesque (1926). They note that the mix of grotesque structure, bold capitals and clean-cut endings creates a sense of rhythm, and position it as a straightforward yet friendly solution that is balanced in all caps and text-ready."
+  },
+  {
+    "name": "Yet Grotesk",
+    "foundry": "Formagari",
+    "url": "https://formagari.com/typefaces/yet-grotesk",
+    "designer": "Emmanuel Besse",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A straightforwardly named grotesk in the tradition of Akzidenz Grotesk and Record Gothic, with wide capitals and tight spacing typical of the genre.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Yet Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "branding",
+      "functional",
+      "neutral",
+      "workhorse",
+      "wide-capitals",
+      "editorial"
+    ],
+    "summary": "A nine-weight grotesk by Emmanuel Besse, drawing on Akzidenz Grotesk and Record Gothic with wide capitals and tight spacing suited to text and titling alike.",
+    "description": "Released in 2025 under Formagari, Yet Grotesk spans eighteen styles from Thin to Black with matching italics. The design takes cues from Akzidenz Grotesk, Record Gothic and Gerstner Program, whilst acknowledging more accessible everyday forms like Arial. Wide capitals support strong all-caps settings, and spacing runs tight to produce dense, even text blocks.",
+    "foundry_blurb": "Formagari describe Yet Grotesk as a multitool sans serif designed with functionality in mind, seeking balance and aiming to straightforwardly convey its message. Inspired by Akzidenz Grotesk, Record Gothic and Gerstner Program, it also borrows from more mainstream forms like Arial. Wide capitals suit strong titles and all-caps composition, while tight spacing produces robust text blocks. The foundry frame the grotesk as a classic dish every foundry draws its own version of — commonplace yet ubiquitous for good reason."
+  },
+  {
+    "name": "Rillus",
+    "foundry": "Formagari",
+    "url": "https://formagari.com/typefaces/rillus",
+    "designer": "Emmanuel Besse",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Rillus is explicitly described as a geometric sans-serif, rooted in a 1936 Swiss lettering and drawing comparisons to Futura and Avant Garde, with a monolinear stroke and circular forms throughout.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Semilight",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rillus"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "monolinear",
+      "swiss",
+      "bauhaus-influenced",
+      "display",
+      "editorial",
+      "round",
+      "friendly"
+    ],
+    "summary": "A geometric sans rooted in a 1936 Swiss lettering, with idiosyncratic details and a monolinear tone that grows increasingly display-oriented at heavier weights.",
+    "description": "Designed by Emmanuel Besse and released in 2023, Rillus draws on a mid-century Swiss lettering source while nodding to Futura, Avant Garde and photo-lettering Bauhaus faces. Its monolinear strokes and closed-dot letterforms on the 'i', 'g' and 's' give it a distinctive character that sits between the warmth of 1970s conceptual graphics and the clarity of Swiss modernism. Eight weights run from Extralight to Black, with OpenType alternates for 'g', 'r' and 's' offering further typographic control.",
+    "foundry_blurb": "Formagari describe Rillus as a geometric sans-serif based on a Swiss lettering from 1936, seeking resonance with landmark typefaces of its genre such as Futura and Avant Garde, as well as the playful forms of photo-lettering Bauhaus faces. Its monolinear tone and enhanced dots can evoke conceptual artworks of the 1970s, while idiosyncratic characters like the closed-dot 'i', 'g' and 's' keep it distinctly individual. At heavier weights, letters clog up to produce the display quality the foundry describes as characteristic of its darker styles."
+  },
+  {
+    "name": "Malamocco",
+    "foundry": "Formagari",
+    "url": "https://formagari.com/typefaces/malamocco",
+    "designer": "Emmanuel Besse",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Drawn from Venetian street sign vernacular, with deliberate inconsistencies and informal letterform shortcuts that place it firmly in the humanist sans tradition, far from geometric or grotesque rigour.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Malamocco"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "vernacular",
+      "humanist-sans",
+      "editorial",
+      "fashion",
+      "signage",
+      "italian",
+      "low-x-height",
+      "loose-spacing"
+    ],
+    "summary": "A sans serif drawn from the ad-hoc lettering of Venetian street signs, with deliberate formal inconsistencies and a low x-height that gives it quiet elegance at text sizes.",
+    "description": "Emmanuel Besse looked to the idiosyncratic hand-painted signs of Venice and beyond for a typeface that trades perfection for character. The low x-height and loose spacing make it feel at ease in small-scale editorial settings as much as in bold display use, and the seven weights from Thin to Black give it enough range for fashion, art publishing and children's books alike. Its 702-glyph set covers extended Latin including Vietnamese, with lining and tabular figures, fractions, superiors and circled numbers.",
+    "foundry_blurb": "Formagari describe Malamocco as a sans serif inspired by vernacular typography, rooted in the street signs of Venice and shaped by the aesthetics of many other places. The letters pursue the simple efficiency of signage: original varying forms, attractive inconsistencies and design shortcuts. Its low x-height lends elegance at small sizes, and its roundness and loose spacing make it at home in fashion editorials or children's books alike."
+  }
+]

@@ -2016,6 +2016,139 @@ const FOUNDRIES = [
       } catch { return false; }
     },
   },
+  // ---- Batch 13 ----
+  {
+    name: "Forgotten Shapes",
+    slug: "forgotten-shapes",
+    homepage: "https://forgotten-shapes.com/",
+    listingUrl: "https://forgotten-shapes.com/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("forgotten-shapes.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        const skip = new Set(["information", "undefined", "about", "contact"]);
+        return parts.length === 1 && !NON_TYPEFACE_SLUGS.has(parts[0]) && !skip.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Formagari",
+    slug: "formagari",
+    homepage: "https://formagari.com/",
+    listingUrl: "https://formagari.com/typefaces/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("formagari.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Good Type Foundry",
+    slug: "good-type-foundry",
+    homepage: "https://goodtypefoundry.com/",
+    listingUrl: "https://goodtypefoundry.com/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("goodtypefoundry.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        if (u.pathname.endsWith("/")) return false; // reject trailing-slash dupes
+        const skip = new Set(["custom-fonts", "goods", "my-account", "eula", "career", "trial-fonts"]);
+        return parts.length === 1 && !NON_TYPEFACE_SLUGS.has(parts[0]) && !skip.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Güneş Muhittin",
+    slug: "gunes-muhittin",
+    homepage: "https://www.gunesmuhittin.com/",
+    listingUrl: "https://www.gunesmuhittin.com/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("gunesmuhittin.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typeface" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Heavyweight",
+    slug: "heavyweight",
+    homepage: "https://heavyweight-type.com/",
+    listingUrl: "https://heavyweight-type.com/fonts/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("heavyweight-type.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Increments",
+    slug: "increments",
+    homepage: "https://www.increments.cc/",
+    listingUrl: "https://www.increments.cc/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("increments.cc")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Jessica Hische",
+    slug: "jessica-hische",
+    homepage: "https://jessicahische.shop/",
+    listingUrl: "https://jessicahische.shop/collections/fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("jessicahische.shop")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        const skip = new Set(["gift-card"]);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]) && !skip.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Juri Zæch",
+    slug: "juri-zaech",
+    homepage: "https://www.juri-zaech.com/",
+    listingUrl: "https://www.juri-zaech.com/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("juri-zaech.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
 ];
 
 // ---- URL filter ----

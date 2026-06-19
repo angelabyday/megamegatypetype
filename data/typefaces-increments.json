@@ -1,0 +1,125 @@
+[
+  {
+    "name": "II Balfron",
+    "foundry": "Increments",
+    "url": "https://www.increments.cc/fonts/ii-balfron",
+    "designer": "Increments Type Foundry",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "brutalist display",
+    "classification_notes": "An all-caps, single-weight display typeface inspired by brutalist architecture, with angular geometric forms set on a rigid structural grid. Its monumental scale and architectural reference place it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "II Balfron"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "brutalist",
+      "all-caps",
+      "architectural",
+      "geometric",
+      "monumental",
+      "single-weight"
+    ],
+    "summary": "A single-weight, all-caps display typeface referencing Ernö Goldfinger's brutalist Balfron Tower in east London, with angular forms set on a rigid structural grid.",
+    "description": "Drawn on a strict structural grid, the letterforms use unexpected angles to echo the raw concrete geometry of Goldfinger's Poplar housing block. There is one weight and no lowercase, making it a committed display choice rather than a workhorse. At large scale the architectural rigidity reads as commanding; at small sizes the effect collapses, as the foundry freely acknowledges.",
+    "foundry_blurb": "Increments describe II Balfron as inspired by Ernö Goldfinger's east London tower block, calling it an imposing, all-caps, one-weight typeface set within a rigid structural grid. The unexpected angles are said to embody the brutal principles of the original concrete profile, and like Goldfinger's utopian housing ideals, the font is best viewed at large scale."
+  },
+  {
+    "name": "II Increments",
+    "foundry": "Increments",
+    "url": "https://www.increments.cc/fonts/ii-increments-sans",
+    "designer": "Increments Type Foundry",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Clean geometry combined with technical precision and a restrained, functional approach places this firmly in the geometric sans tradition, with modernist rather than humanist influences.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "II Increments"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "minimalist",
+      "functional",
+      "modernist",
+      "clean",
+      "technical",
+      "neutral"
+    ],
+    "summary": "A restrained geometric sans from Increments, built on functional modernist principles across five weights with oblique companions.",
+    "description": "Released in September 2021, it pairs clean geometry with technical precision to produce a sans that reads as calm and unaffected across sizes. The family runs to ten styles — five weights from Light to Black, each with an oblique — covering 247 glyphs and 87 languages. Suited to branding and UI work where legibility and understatement are the brief.",
+    "foundry_blurb": "Increments describe II Increments as a study in restraint, a typeface shaped by functional modernism and the philosophy of reducing form to its essential elements. They present it as timeless, calm and quietly confident, combining clean geometry with technical precision for clarity and usability in use."
+  },
+  {
+    "name": "II Vorkurs",
+    "foundry": "Increments",
+    "url": "https://www.increments.cc/fonts/ii-vorkurs",
+    "designer": "Increments",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A strictly modular, construction-based geometric sans built from a limited set of rectilinear forms, placing it squarely in the geometric sans tradition with Bauhaus ideological grounding.",
+    "weights": [
+      "Light",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "II Vorkurs"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "bauhaus",
+      "constructivist",
+      "modular",
+      "functional",
+      "oblique",
+      "editorial"
+    ],
+    "summary": "A modular geometric sans dedicated to Josef Albers, built from a disciplined set of rectilinear block forms across three weights and six styles.",
+    "description": "Designed by Increments and released in September 2020, II Vorkurs takes its cue from Bauhaus pedagogy, specifically the Vorkurs preliminary course associated with Josef Albers, using a restrained palette of modular shapes to construct each letterform. Three weights — Light, Medium and Bold — each come with an oblique companion, and the family supports 88 languages across an extended Latin character set. Squared stylistic alternates push the geometric logic further for display and editorial applications.",
+    "foundry_blurb": "Increments describe II Vorkurs as a functional, constructive sans-serif with universal, geometric forms, dedicated to the life and work of Bauhaus pioneer Josef Albers. The design follows a disciplined compositional approach using a limited palette of modular blocks, available in 3 weights and 6 styles with extensive Latin language support and squared stylistic alternates."
+  }
+]
