@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { ThemeToggle } from "@/components/theme-toggle";
+import { NavMenu } from "@/components/nav-menu";
 import { BackToTop } from "@/components/back-to-top";
-import { SubmitFoundryButton } from "@/components/submit-foundry-dialog";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -38,34 +37,13 @@ export default function RootLayout({
       <head>
         <script dangerouslySetInnerHTML={{__html: `(function(){var s=localStorage.getItem('theme'),d=window.matchMedia('(prefers-color-scheme:dark)').matches;if(s==='dark'||(s===null&&d))document.documentElement.classList.add('dark');})()`}} />
       </head>
-      <body className="min-h-full flex flex-col bg-background text-foreground">
+      <body className="min-h-full flex flex-col bg-background text-foreground overflow-x-hidden">
         <header className="border-b-[0.5px] border-border">
           <div className="mx-auto flex items-center justify-between px-4 pt-3 pb-2 sm:px-6">
             <Link href="/" className="text-lg font-bold tracking-tight">
               *MegaMegaTypeType*
             </Link>
-            <div className="flex items-center gap-4">
-            <ThemeToggle />
-            <nav className="flex items-center gap-0 rounded-full bg-foreground text-background text-sm overflow-hidden">
-              <Link href="/foundries" className="px-4 py-1.5 hover:opacity-75 transition-opacity">
-                Foundries
-              </Link>
-              <span className="w-px self-stretch bg-background/20" aria-hidden="true" />
-              <Link href="/brief" className="px-4 py-1.5 hover:opacity-75 transition-opacity">
-                Font Brief
-              </Link>
-              <span className="w-px self-stretch bg-background/20" aria-hidden="true" />
-              <Link href="/wtf" className="px-4 py-1.5 hover:opacity-75 transition-opacity">
-                WTF is this font?
-              </Link>
-              <span className="w-px self-stretch bg-background/20" aria-hidden="true" />
-              <Link href="/about" className="px-4 py-1.5 hover:opacity-75 transition-opacity">
-                About
-              </Link>
-              <span className="w-px self-stretch bg-background/20" aria-hidden="true" />
-              <SubmitFoundryButton />
-            </nav>
-            </div>
+            <NavMenu />
           </div>
           <p className="px-4 pb-3 text-xs text-muted-foreground sm:px-6">
             On a mission to create the world&apos;s biggest index of typefaces from the world&apos;s best type foundries

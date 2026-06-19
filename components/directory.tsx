@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
+import { ChevronDown, SlidersHorizontal, X } from "lucide-react";
 import { Checkbox } from "@/components/ui/checkbox";
 import { Input } from "@/components/ui/input";
 import {
@@ -19,16 +20,14 @@ import { cn } from "@/lib/utils";
 
 type SortKey = "name" | "foundry" | "year-desc" | "year-asc";
 
-// Fold diacritics so "sohne" finds Söhne.
 function fold(s: string): string {
-  return s.normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  return s.normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase();
 }
-
 
 const USE_CASES: { label: string; tags: string[] }[] = [
   { label: "Display",         tags: ["display"] },
   { label: "Editorial",       tags: ["editorial"] },
-  { label: "Body Copy",        tags: ["text", "book", "body", "long-form", "reading"] },
+  { label: "Body Copy",       tags: ["text", "book", "body", "long-form", "reading"] },
   { label: "Branding",        tags: ["branding", "identity", "logo", "logotype"] },
   { label: "Headline",        tags: ["headline", "headlines", "poster"] },
   { label: "Signage",         tags: ["signage", "wayfinding"] },
@@ -49,6 +48,36 @@ const STYLES: { label: string; tags: string[] }[] = [
   { label: "Industrial",      tags: ["industrial"] },
 ];
 
+function CollapsibleSection({
+  label,
+  collapsible,
+  children,
+}: {
+  label: string;
+  collapsible?: boolean;
+  children: React.ReactNode;
+}) {
+  const [open, setOpen] = useState(!collapsible);
+  return (
+    <div className="mt-5">
+      {collapsible ? (
+        <button
+          className="mb-2 flex w-full items-center justify-between text-xs font-medium uppercase tracking-wide text-muted-foreground hover:text-foreground transition-colors"
+          onClick={() => setOpen(!open)}
+        >
+          {label}
+          <ChevronDown className={cn("h-3 w-3 transition-transform", open && "rotate-180")} />
+        </button>
+      ) : (
+        <h2 className="mb-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
+          {label}
+        </h2>
+      )}
+      {open && children}
+    </div>
+  );
+}
+
 export function Directory({
   typefaces,
   foundries,
@@ -67,7 +96,18 @@ export function Directory({
   const [pricing, setPricing] = useState<"all" | "free" | "paid">("all");
   const [sort, setSort] = useState<SortKey>("name");
   const [visibleCount, setVisibleCount] = useState(60);
+  const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const loadMoreRef = useRef<HTMLDivElement>(null);
+
+  const activeFilterCount =
+    (category !== "all" ? 1 : 0) +
+    selectedFoundries.size +
+    selectedUseCases.size +
+    selectedStyles.size +
+    (condensedOnly ? 1 : 0) +
+    (italicOnly ? 1 : 0) +
+    (monoOnly ? 1 : 0) +
+    (pricing !== "all" ? 1 : 0);
 
   const filtered = useMemo(() => {
     const q = fold(query.trim());
@@ -139,6 +179,16 @@ export function Directory({
     return () => observer.disconnect();
   }, [filtered]);
 
+  // Lock body scroll when mobile sheet is open
+  useEffect(() => {
+    if (mobileFiltersOpen) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "";
+    }
+    return () => { document.body.style.overflow = ""; };
+  }, [mobileFiltersOpen]);
+
   function toggle<T>(set: Set<T>, value: T, update: (next: Set<T>) => void) {
     const next = new Set(set);
     if (next.has(value)) next.delete(value);
@@ -146,21 +196,10 @@ export function Directory({
     update(next);
   }
 
-  return (
-    <div className="mx-auto flex flex-col gap-6 px-4 py-6 sm:px-6 lg:flex-row">
-      <aside className="w-full shrink-0 lg:w-60 lg:sticky lg:top-6 lg:self-start">
-        <Input
-          type="search"
-          placeholder="Name, foundry, style, tags…"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          aria-label="Search typefaces"
-        />
-
-        <div className="mt-5">
-          <h2 className="mb-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
-            Category
-          </h2>
+  function renderFilters(collapsible: boolean) {
+    return (
+      <>
+        <CollapsibleSection label="Category" collapsible={false}>
           <div className="flex flex-wrap gap-1">
             {(["all", ...CATEGORIES] as const).map((c) => (
               <button
@@ -168,21 +207,16 @@ export function Directory({
                 onClick={() => setCategory(c as Category | "all")}
                 className={cn(
                   "rounded-full border-[0.5px] border-border px-2 py-1 text-xs transition-colors",
-                  category === c
-                    ? "bg-foreground text-background"
-                    : "hover:bg-muted"
+                  category === c ? "bg-foreground text-background" : "hover:bg-muted"
                 )}
               >
                 {c}
               </button>
             ))}
           </div>
-        </div>
+        </CollapsibleSection>
 
-        <div className="mt-5">
-          <h2 className="mb-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
-            Pricing
-          </h2>
+        <CollapsibleSection label="Pricing" collapsible={false}>
           <div className="flex rounded-full border-[0.5px] border-border overflow-hidden text-xs">
             {(["all", "free", "paid"] as const).map((p) => (
               <button
@@ -197,23 +231,17 @@ export function Directory({
               </button>
             ))}
           </div>
-        </div>
+        </CollapsibleSection>
 
-        <div className="mt-5">
-          <h2 className="mb-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
-            Foundry
-          </h2>
+        <CollapsibleSection label="Foundry" collapsible={collapsible}>
           <FoundrySelect
             foundries={foundries}
             selected={selectedFoundries}
             onChange={setSelectedFoundries}
           />
-        </div>
+        </CollapsibleSection>
 
-        <div className="mt-5">
-          <h2 className="mb-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
-            Use Case
-          </h2>
+        <CollapsibleSection label="Use Case" collapsible={collapsible}>
           <div className="flex flex-col gap-1.5">
             {USE_CASES.map(({ label }) => (
               <label key={label} className="flex items-center gap-2 text-sm">
@@ -225,12 +253,9 @@ export function Directory({
               </label>
             ))}
           </div>
-        </div>
+        </CollapsibleSection>
 
-        <div className="mt-5">
-          <h2 className="mb-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
-            Style
-          </h2>
+        <CollapsibleSection label="Style" collapsible={collapsible}>
           <div className="flex flex-col gap-1.5">
             {STYLES.map(({ label }) => (
               <label key={label} className="flex items-center gap-2 text-sm">
@@ -242,12 +267,9 @@ export function Directory({
               </label>
             ))}
           </div>
-        </div>
+        </CollapsibleSection>
 
-        <div className="mt-5">
-          <h2 className="mb-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
-            Features
-          </h2>
+        <CollapsibleSection label="Features" collapsible={collapsible}>
           <div className="flex flex-col gap-1.5">
             <label className="flex items-center gap-2 text-sm">
               <Checkbox checked={condensedOnly} onCheckedChange={() => setCondensedOnly(!condensedOnly)} />
@@ -262,8 +284,87 @@ export function Directory({
               Has mono
             </label>
           </div>
-        </div>
+        </CollapsibleSection>
+      </>
+    );
+  }
+
+  return (
+    <div className="mx-auto flex flex-col gap-6 px-4 py-6 sm:px-6 lg:flex-row">
+      {/* Desktop sidebar */}
+      <aside className="hidden w-full shrink-0 lg:block lg:w-60 lg:sticky lg:top-6 lg:self-start">
+        <Input
+          type="search"
+          placeholder="Name, foundry, style, tags…"
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          aria-label="Search typefaces"
+        />
+        {renderFilters(false)}
       </aside>
+
+      {/* Mobile top bar */}
+      <div className="flex items-center gap-3 lg:hidden">
+        <Input
+          type="search"
+          placeholder="Name, foundry, style, tags…"
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          aria-label="Search typefaces"
+          className="flex-1"
+        />
+        <button
+          onClick={() => setMobileFiltersOpen(true)}
+          className={cn(
+            "flex shrink-0 items-center gap-1.5 rounded-full border-[0.5px] border-border px-3 py-2 text-xs transition-colors",
+            activeFilterCount > 0 ? "bg-foreground text-background" : "hover:bg-muted"
+          )}
+          aria-label="Open filters"
+        >
+          <SlidersHorizontal className="h-3.5 w-3.5" />
+          Filters
+          {activeFilterCount > 0 && (
+            <span className="flex h-4 w-4 items-center justify-center rounded-full bg-background text-foreground text-[10px] font-medium">
+              {activeFilterCount}
+            </span>
+          )}
+        </button>
+      </div>
+
+      {/* Mobile filter sheet */}
+      {mobileFiltersOpen && (
+        <div className="fixed inset-0 z-50 lg:hidden">
+          {/* Backdrop */}
+          <div
+            className="absolute inset-0 bg-black/40"
+            onClick={() => setMobileFiltersOpen(false)}
+          />
+          {/* Panel */}
+          <div className="absolute inset-x-0 bottom-0 top-0 flex flex-col overflow-hidden bg-background shadow-xl sm:top-auto sm:rounded-t-2xl">
+            <div className="flex items-center justify-between border-b border-border px-4 py-3">
+              <span className="text-sm font-medium">Filters</span>
+              <button
+                onClick={() => setMobileFiltersOpen(false)}
+                className="rounded-full p-1 hover:bg-muted transition-colors"
+                aria-label="Close filters"
+              >
+                <X className="h-4 w-4" />
+              </button>
+            </div>
+            <div className="flex-1 overflow-y-auto px-4 pb-6">
+              {renderFilters(true)}
+            </div>
+            <div className="border-t border-border p-4">
+              <button
+                onClick={() => setMobileFiltersOpen(false)}
+                className="w-full rounded-full bg-foreground py-2.5 text-sm font-medium text-background transition-colors hover:opacity-90"
+              >
+                Show {filtered.length} results
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
 
       <section className="min-w-0 flex-1">
         <div className="mb-4 flex items-center justify-between gap-4">
