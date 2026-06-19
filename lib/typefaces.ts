@@ -363,6 +363,7 @@ export type DirectoryEntry = Pick<
   | "summary"
   | "subcategory"
   | "tier"
+  | "type"
   | "has_condensed"
   | "has_italic"
   | "has_mono"
@@ -382,6 +383,7 @@ export function toDirectoryEntry(t: Typeface): DirectoryEntry {
     summary: t.summary,
     subcategory: t.subcategory,
     tier: t.tier,
+    type: t.type,
     has_condensed: t.has_condensed,
     has_italic: t.has_italic,
     has_mono: t.has_mono,

@@ -123,6 +123,17 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Souvenir Typefaces", slug: "souvenir-typefaces", homepage: "https://souvenirtypefaces.xyz/", tier: "best" },
   { name: "The Northern Block", slug: "the-northern-block", homepage: "https://www.thenorthernblock.co.uk/", tier: "best" },
   { name: "Type of Feeling", slug: "type-of-feeling", homepage: "https://typeoffeeling.com/", tier: "best" },
+  // Batch 11
+  { name: "Store Norske Skriftkompani", slug: "store-norske-skriftkompani", homepage: "https://skriftkompani.no/", tier: "okay" },
+  { name: "Latinotype", slug: "latinotype", homepage: "https://www.latinotype.com/", tier: "okay" },
+  { name: "Fonts from Folch", slug: "fonts-from-folch", homepage: "https://www.fontsfromfolch.com/", tier: "okay" },
+  { name: "Brandon Nickerson", slug: "brandon-nickerson", homepage: "https://www.bnicks.com/", tier: "okay" },
+  { name: "Formerly Known", slug: "formerly-known", homepage: "https://formerly-known.com/", tier: "okay" },
+  { name: "Supercontinente", slug: "supercontinente", homepage: "https://supercontinente.com/", tier: "okay" },
+  { name: "R-Typography", slug: "r-typography", homepage: "https://www.r-typography.com/", tier: "okay" },
+  { name: "Fontshare", slug: "fontshare", homepage: "https://www.fontshare.com/", tier: "okay" },
+  { name: "Open Foundry", slug: "open-foundry", homepage: "https://open-foundry.com/", tier: "okay" },
+  { name: "Free Faces", slug: "free-faces", homepage: "https://www.freefaces.gallery/", tier: "okay" },
   // Batch 10
   { name: "ALT.tf", slug: "alt-tf", homepage: "https://alt-tf.com/", tier: "okay" },
   { name: "Black Foundry", slug: "black-foundry", homepage: "https://black-foundry.com/", tier: "okay" },

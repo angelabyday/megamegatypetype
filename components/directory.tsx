@@ -64,6 +64,7 @@ export function Directory({
   const [condensedOnly, setCondensedOnly] = useState(false);
   const [italicOnly, setItalicOnly] = useState(false);
   const [monoOnly, setMonoOnly] = useState(false);
+  const [pricing, setPricing] = useState<"all" | "free" | "paid">("all");
   const [sort, setSort] = useState<SortKey>("name");
   const [visibleCount, setVisibleCount] = useState(60);
   const loadMoreRef = useRef<HTMLDivElement>(null);
@@ -87,6 +88,8 @@ export function Directory({
         );
         if (!match) return false;
       }
+      if (pricing === "free" && t.type !== "free") return false;
+      if (pricing === "paid" && t.type === "free") return false;
       if (condensedOnly && !t.has_condensed) return false;
       if (italicOnly && !t.has_italic) return false;
       if (monoOnly && !t.has_mono) return false;
@@ -117,11 +120,11 @@ export function Directory({
           return a.name.localeCompare(b.name);
       }
     });
-  }, [typefaces, query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, sort]);
+  }, [typefaces, query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, pricing, sort]);
 
   useEffect(() => {
     setVisibleCount(60);
-  }, [query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, sort]);
+  }, [query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, pricing, sort]);
 
   useEffect(() => {
     const el = loadMoreRef.current;
@@ -171,6 +174,26 @@ export function Directory({
                 )}
               >
                 {c}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <div className="mt-5">
+          <h2 className="mb-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
+            Pricing
+          </h2>
+          <div className="flex rounded-full border-[0.5px] border-border overflow-hidden text-xs">
+            {(["all", "free", "paid"] as const).map((p) => (
+              <button
+                key={p}
+                onClick={() => setPricing(p)}
+                className={cn(
+                  "flex-1 py-1 capitalize transition-colors",
+                  pricing === p ? "bg-foreground text-background" : "hover:bg-muted"
+                )}
+              >
+                {p}
               </button>
             ))}
           </div>
