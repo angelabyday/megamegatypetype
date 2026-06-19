@@ -44,7 +44,7 @@ export function SubmitFoundryButton({ className }: { className?: string }) {
         onClick={() => setOpen(true)}
         className={className ?? "px-4 py-1.5 hover:opacity-75 transition-opacity"}
       >
-        Submit Foundry
+        Submit foundry
       </button>
 
       {open && (
