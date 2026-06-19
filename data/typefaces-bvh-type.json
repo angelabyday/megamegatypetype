@@ -1,0 +1,805 @@
+[
+  {
+    "name": "Eddi",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/eddi",
+    "designer": "André Baldinger & Toan Vu-Huu",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described by the foundry as a geometric sans serif inspired by the formal heritage of the Bauhaus, with design elements rooted in the triangle, square and circle — placing it squarely in the geometric sans tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Eddi",
+      "Eddi Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "bauhaus",
+      "swiss",
+      "identity",
+      "editorial",
+      "institutional"
+    ],
+    "summary": "A geometric sans designed by André Baldinger and Toan Vu-Huu, originally created for the visual identity of a Swiss art school, with sharp triangular cuts as its defining formal gesture.",
+    "description": "Developed initially for the édhéa (The Valais School of Art) in Switzerland, the family draws on Bauhaus formal geometry — triangle, square and circle — using sharp cuts and just-touching intersections in the counterforms as its distinguishing detail. The collection spans two subfamilies, Eddi and Eddi Grotesk, each available in four weights with matching italics. OpenType features are extensive, including multiple figure styles, circled and framed number sets, and alternate glyphs.",
+    "foundry_blurb": "b•v-h type describe Eddi as a contemporary interpretation of Bauhaus formal heritage, built around the triangle, square and circle. Originally designed for the édhéa school identity in Switzerland, it uses sharp cuts and just-touching intersections in counterforms to create a distinctive, recognisable character. Endings are either vertical or horizontal, and the design accounts for readability and numerical use in contemporary contexts."
+  },
+  {
+    "name": "Eddi Grotesk",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/eddi-grotesk",
+    "designer": "André Baldinger & Toan Vu-Huu",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric-humanist grotesque",
+    "classification_notes": "The foundry describes it as a geometric-humanist linear grotesque, drawing on early historically rooted sans-serif aesthetics with careful attention to stroke endings, junctions and curvature balance.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Eddi Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric-humanist",
+      "identity",
+      "editorial",
+      "historical",
+      "refined"
+    ],
+    "summary": "A geometric-humanist grotesque by André Baldinger and Toan Vu-Huu, originally developed for the visual identity of a Swiss art school and released as a standalone variant of the Eddi family.",
+    "description": "Developed from the Eddi typeface commissioned for ÉDHÉA, the Valais School of Art in Switzerland, Eddi Grotesk is a reinterpretation that pulls more explicitly from early sans-serif historical references while retaining the core formal vocabulary of its sibling. Four weights from Light to Heavy, each with an italic, cover a broad range of text and display applications. With 827 glyphs per style and extensive Latin language support, the family is built for serious typographic work across identity and editorial contexts.",
+    "foundry_blurb": "The foundry describes Eddi Grotesk as a variant that draws on early, historically rooted sans-serif aesthetics, positioning it as a subtle reinterpretation of Eddi while preserving part of its core DNA. Formal details including stroke endings, junctions and overall curvature balance have been carefully refined, and the result blends modern sans-serif clarity with a refined historical sensibility. Designed in 2024 and released in 2025, it is available in eight styles with over 800 glyphs per roman and italic."
+  },
+  {
+    "name": "Anto Rounded",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/anto-rounded",
+    "designer": "André Baldinger & Toan Vu-Huu",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Inspired by early sans-serif designs like Monotype Grotesque Bold Extended, Anto Rounded applies smooth, rounded terminals to a geometric skeleton, distinguishing it from the angular sibling Anto Plot.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Air"
+    ],
+    "subfamilies": [
+      "Anto Rounded",
+      "Anto Rounded Mono",
+      "Anto Rounded Air"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "institutional",
+      "editorial",
+      "cultural",
+      "multistyle"
+    ],
+    "summary": "A rounded geometric sans by André Baldinger and Toan Vu-Huu, originating from identity work for Parisian contemporary art institutions, with a smoother character than its angular sibling Anto Plot.",
+    "description": "Designed from 2017 and released in 2022, Anto Rounded shares its skeleton with the broader Anto family but favours soft terminals over the angular geometry of Anto Plot. The family spans four weights with italics, extends into a monospaced variant and an airy display cut called Anto Rounded Air, and offers 820 glyphs per roman style with extensive OpenType features including alternate figures, circled numbers and framed numbers. Language support covers a wide range of Latin-based scripts across several hundred languages.",
+    "foundry_blurb": "b•v-h type describe Anto Rounded as originating from a 2017 proposal for the contemporary art centre Bétonsalon in Paris, further developed for La Chaire des Arts & Sciences. Inspired by the bold extended proportions of early sans-serif types, the Rounded style was conceived in parallel with Anto Plot to share the same skeleton while offering a gentler, smoother expression. The family was subsequently expanded to include the experimental Anto Rounded Air and the more informal Anto Mono versions."
+  },
+  {
+    "name": "Anto Rounded Mono",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/anto-rounded-mono",
+    "designer": "André Baldinger & Toan Vu-Huu",
+    "year": 2022,
+    "category": "mono",
+    "subcategory": "geometric monospaced",
+    "classification_notes": "A monospaced variant of a geometric sans-serif family, with rounded terminals and proportions influenced by early grotesque designs. Classified as mono due to its fixed-width construction and its position as a distinct sub-family within the Anto Rounded collection.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Anto Rounded",
+      "Anto Rounded Mono",
+      "Anto Rounded Air"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "rounded",
+      "grotesque",
+      "editorial",
+      "institutional",
+      "paris"
+    ],
+    "summary": "A monospaced sub-family of the Anto Rounded collection, designed by André Baldinger and Toan Vu-Huu, with rounded terminals and geometric proportions rooted in early grotesque references.",
+    "description": "Originally developed from a 2017 visual identity proposal for Bétonsalon in Paris, the Anto Rounded Mono shares the same skeleton as the broader Anto family but applies fixed-width spacing. Its rounded terminals give it a softer character than angular geometric monospaced faces, and its 801 glyphs per style cover an extensive range of Latin languages. OpenType features include multiple figure styles, small capitals and stylistic alternates for characters such as g, l and the ampersand.",
+    "foundry_blurb": "The Anto family originated as a proposal for the contemporary art centre Bétonsalon in Paris in 2017, later developed for La Chaire des Arts & Sciences. Inspired by the brutal proportions of early sans-serif designs like the Monotype Grotesque Bold Extended, the Anto Rounded branch takes a smoother, gentler approach than the angular Anto Plot. The Mono version was designed in 2018 and released in 2022, available in four styles with an extensive glyph set and multiple OpenType features."
+  },
+  {
+    "name": "Anto Rounded Air",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/anto-rounded-air",
+    "designer": "André Baldinger & Toan Vu-Huu",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Anto Rounded Air is a geometric sans inspired by early grotesque proportions, distinguished by rounded terminals and an airy, open construction that sets it apart from the angular Anto Plot sibling.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Anto Rounded Air"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "grotesque",
+      "contemporary",
+      "editorial",
+      "cultural",
+      "institutional",
+      "french"
+    ],
+    "summary": "A rounded geometric sans with airy proportions, drawn by André Baldinger and Toan Vu-Huu as part of the broader Anto family originally conceived for Parisian arts institutions.",
+    "description": "Developed from a 2017 visual identity proposal for the contemporary art centre Bétonsalon in Paris, Anto Rounded Air is the open, experimental offshoot of the Anto Rounded subfamily. Where its siblings share a common skeleton rooted in early grotesque proportions, the Air variant introduces a lighter, more expansive character. Four weights from Light to Bold are accompanied by 801 glyphs per style, with a full suite of OpenType features including multiple figure sets, framed and circled numbers, and stylistic alternates.",
+    "foundry_blurb": "b•v-h type describe Anto Rounded Air as growing out of their 2017 identity work for Bétonsalon and La Chaire des Arts & Sciences in Paris. Inspired by the somewhat brutal proportions of early sans-serif designs such as Monotype Grotesque Bold Extended, the Anto family developed into a wide variety of styles sharing a single skeleton, with the Rounded Air acting as an experimental visual counterpart to the more angular Anto Plot."
+  },
+  {
+    "name": "Anto Plot",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/anto-plot",
+    "designer": "André Baldinger & Toan Vu-Huu",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described by the foundry as voluntarily angular geometric, inspired by early sans-serif designs like the Monotype Grotesque Bold Extended. The letterforms are built on a geometric skeleton with hard angles rather than rounded terminals.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Anto Plot",
+      "Anto Plot Mono",
+      "Anto Plot Lab"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "angular",
+      "institutional",
+      "contemporary",
+      "grotesque",
+      "editorial",
+      "french"
+    ],
+    "summary": "An angular geometric sans with roots in early grotesque proportions, designed by André Baldinger and Toan Vu-Huu for contemporary art institutional identities.",
+    "description": "First sketched in 2017 for the visual identity of Bétonsalon contemporary art centre in Paris, Anto Plot takes its proportional cues from the Monotype Grotesque Bold Extended, translating those references into deliberately hard-edged, geometric letterforms. The main family runs across four weights with matching italics, and extends into a monospaced variant and an experimental Lab sub-family. OpenType features cover small capitals, old-style figures, framed and circled number sets, and a suite of alternate glyphs, across 825 glyphs per roman style.",
+    "foundry_blurb": "b•v-h type describe Anto Plot as originating from a 2017 proposal for the visual identity of Bétonsalon in Paris, developed further for La Chaire des Arts & Sciences. Inspired by the brutal proportions of early sans-serifs such as the Monotype Grotesque Bold Extended, the style is characterised as voluntarily angular geometric, forming one strand of the broader Anto family alongside the smoother Anto Rounded, the experimental Anto Plot Lab, and the informal Anto Mono. The full collection was released in 2022."
+  },
+  {
+    "name": "Anto Plot Lab",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/anto-plot-lab",
+    "designer": "André Baldinger & Toan Vu-Huu",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "experimental geometric sans",
+    "classification_notes": "The Lab styles are described as experimental offshoots of the Anto Plot geometric sans, voluntarily angular in construction and derived from early brutal sans-serif proportions; their experimental nature places them firmly in the display category.",
+    "weights": [
+      "Lab 01",
+      "Lab 02"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Anto Plot Lab"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "experimental",
+      "angular",
+      "display",
+      "contemporary-art",
+      "paris",
+      "extended-latin"
+    ],
+    "summary": "Two experimental display styles derived from the angular Anto Plot geometric sans, designed by André Baldinger and Toan Vu-Huu.",
+    "description": "Grown from a family originally commissioned for the contemporary art centre Bétonsalon in Paris, the Lab styles push the angular geometry of Anto Plot into more speculative territory. Each of the two styles ships with 818 glyphs, covering an extensive range of Latin languages alongside a full set of figure styles, fractions, circled and framed numbers, and alternate arrows via OpenType Stylistic Sets. Assisted by Jimmy Le Guennec and Fanny Hamelin, the pair designed the Lab in 2018 with a public release in 2022.",
+    "foundry_blurb": "b•v-h type describe the Anto Plot Lab as the experimental visual style of the Anto family, itself rooted in the angular geometric proportions of early sans-serif designs like Monotype Grotesque Bold Extended. The family originated as a proposal for Bétonsalon's visual identity in 2017, with the Lab styles conceived alongside the broader Anto system as a more speculative counterpart to the standard Plot and Rounded styles."
+  },
+  {
+    "name": "Dina Chaumont Text",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/dina-chaumont-text",
+    "designer": "André Baldinger & Toan Vu-Huu",
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "A text serif with contrast arrangement inspired by Roger Excoffon's work, featuring deliberate weight balance shifts that create a lively rhythm on the page; sits within a humanist serif tradition inflected by French typographic heritage.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Dina Chaumont Text",
+      "Dina Chaumont Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "humanist",
+      "french",
+      "editorial",
+      "identity",
+      "text",
+      "excoffon-inspired",
+      "civic"
+    ],
+    "summary": "A text serif designed for the visual identity of Chaumont, France, drawing on Roger Excoffon's contrast arrangements to produce a lively, characterful type colour.",
+    "description": "Commissioned for the city of Chaumont's new visual identity, the Text family pairs with a Display counterpart and is designed specifically for running text at small sizes, using a generous x-height to aid legibility. Its defining quality is an unconventional weight balance that shifts contrast to unexpected positions within letterforms, producing a sparkling, animated grey on the page. Design ideas are drawn from Roger Excoffon's approach to contrast, situating the family within a distinctly French typographic sensibility.",
+    "foundry_blurb": "Dina Chaumont Text and Display were designed by bvh type for the new visual identity of the city of Chaumont, France. The Text family adapts the Display's design principles for small-scale reading with a generous x-height, and takes inspiration from Roger Excoffon's contrast arrangements to evoke French typographic heritage. Its unconventional weight distribution places emphasis in unexpected positions, producing what the foundry describe as a lively, sparkling text grey."
+  },
+  {
+    "name": "Anto Plot Mono",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/anto-plot-mono",
+    "designer": "André Baldinger & Toan Vu-Huu",
+    "year": 2022,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "A monospaced variant of the angular geometric Anto Plot family, derived from early grotesque proportions and drawn with deliberate geometric rigidity rather than humanist warmth.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Anto Plot Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "monospaced",
+      "grotesque",
+      "angular",
+      "editorial",
+      "contemporary",
+      "multilingual"
+    ],
+    "summary": "A geometric monospaced family in four weights, spun out of the Anto Plot sans conceived for French cultural institutions in 2017.",
+    "description": "Designed by André Baldinger and Toan Vu-Huu, Anto Plot Mono takes the angular, early-grotesque proportions of the broader Anto Plot family and applies them to a fixed-pitch format across Light, Regular, Medium and Bold. The family originated as an institutional identity proposal for Bétonsalon in Paris and draws formal inspiration from Monotype Grotesque Bold Extended. With 801 glyphs per style and extensive OpenType features including multiple figure sets, circled and framed numbers, and several stylistic alternates, it carries enough typographic rigour for demanding editorial and cultural contexts.",
+    "foundry_blurb": "b•v-h type describe Anto Plot Mono as part of the wider Anto family, which began as an identity proposal for Bétonsalon contemporary art centre in Paris in 2017, further developed for La Chaire des Arts & Sciences the following year. Anto Plot is characterised as voluntarily angular and geometric, inspired by the brutal proportions of early sans-serif designs such as Monotype Grotesque Bold Extended, with the Mono version forming the more informal branch of the family alongside the experimental Lab styles."
+  },
+  {
+    "name": "Dina Chaumont Display",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/dina-chaumont-display",
+    "designer": "André Baldinger & Toan Vu-Huu",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A lowercase-only monospace display face built around the DIN A paper ratio, with a highly structured, geometric construction. Its extreme weights and surface-filling letterforms place it firmly in the display category rather than functional text.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dina Chaumont Display",
+      "Dina Chaumont Text"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "monospace",
+      "lowercase-only",
+      "identity",
+      "municipal",
+      "pictograms",
+      "din-ratio"
+    ],
+    "summary": "Commissioned for the visual identity of Chaumont, France, this lowercase-only monospace family is structured around the DIN A paper format, with letterforms designed to fill the page surface across both portrait and landscape orientations.",
+    "description": "Designed by André Baldinger and Toan Vu-Huu, the Display family runs six weights from ExtraLight to Black, with the heaviest weight eliminating counterforms entirely to reduce letters to their most graphic state. The stems of lighter weights correspond in thickness to the counterforms of heavier ones, creating a deliberate visual logic across the range. A set of pictograms extends the glyph set beyond standard Latin coverage.",
+    "foundry_blurb": "b•v-h type describe Dina Chaumont Display as a lowercase-only monospace typeface built to the DIN A ratio, commissioned for the new visual identity of the city of Chaumont, France. The two-width system arises from the DIN A format used in both portrait and landscape orientation, with letters designed to fill the surface in each case. Six weights range from ExtraLight to Black, the latter stripping away counterforms to their most graphical essence, and a playful set of pictograms rounds out the family."
+  },
+  {
+    "name": "BDot",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/bdot",
+    "designer": "André Baldinger",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "dot matrix / decorative",
+    "classification_notes": "BDot uses individually placed dots to form letterforms inspired by early electric-bulb illuminated signage, making it a display face with a clear decorative and historical reference rather than a conventional text category.",
+    "weights": [
+      "ExtraThin",
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "BDot",
+      "BLine"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "dot-matrix",
+      "signage",
+      "display",
+      "decorative",
+      "geometric",
+      "animation",
+      "complementary-family",
+      "historical"
+    ],
+    "summary": "A dot-based display typeface by André Baldinger, designed in 1997 and released in 2023, built on optically placed points inspired by early electric-bulb illuminated lettering.",
+    "description": "Rather than placing dots on a fixed grid, Baldinger positions each point individually on an optical basis across six weights, from ExtraThin to ExtraBold. As the weight increases, the dots grow larger while their centres remain fixed, eventually merging into a solid line with indentations in the heaviest cuts. BDot shares its skeleton and proportions with the companion family BLine, allowing the two to combine freely in print and animation work.",
+    "foundry_blurb": "The foundry traces the concept to early twentieth-century illuminated signage, noting that the first electric-bulb letters appeared on the neo-Baroque pediment of the Corso cabaret theatre in Zurich in 1910, later replaced by Max Bill's neon type in 1934. BDot was designed in 1997, released in 2023 at version 2.00, and is available in 12 styles with extensive OpenType features including stylistic sets for circled and framed numbers and alternate letterforms."
+  },
+  {
+    "name": "BLine",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/bline",
+    "designer": "André Baldinger",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "BLine is a geometric sans-serif derived from BDot, built by connecting the skeletal points of its dot-based predecessor. Its very large x-height and constructed letterforms align it firmly with geometric sans tradition.",
+    "weights": [
+      "ExtraThin",
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "BLine",
+      "BDot"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "signage",
+      "wayfinding",
+      "large-x-height",
+      "constructed",
+      "institutional",
+      "paris",
+      "multilingual"
+    ],
+    "summary": "A geometric sans derived from its dot-matrix companion BDot, designed by André Baldinger and put to work in Parisian institutional signage and identity.",
+    "description": "Designed in 2008 and released in 2022, BLine was developed by connecting the skeletal points of BDot, making the dot-based typeface the necessary precursor. Its very large x-height gives it strong legibility at small sizes in print and on screen, and it has already proved itself at architectural scale in the sign system of Les Halles in Paris and in the visual identity of BULAC, the university library of languages and civilisations. Twelve styles run from ExtraThin to ExtraBold with matching italics, supported by a rich glyph set of over 820 characters including circled and framed letterforms via Stylistic Sets.",
+    "foundry_blurb": "b•v-h type describe BLine as the natural continuation of BDot, created by connecting BDot's points as closely as possible. The typeface saw its first broad use in the visual identity for BULAC in Paris, and a customised version called BLine Sans was developed for the sign system of the Les Halles district. Its large x-height is noted as practical for both signage and small-scale text use in print and on screen."
+  },
+  {
+    "name": "Bart Text",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/bart-text",
+    "designer": "André Baldinger & Toan Vu-Huu",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The designers describe the family as combining Oldstyle, Transitional and Neoclassical elements, with higher stroke contrast, right-angled terminals and square dots that position it in a contemporary interpretation of the transitional genre.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Normal",
+      "Display"
+    ],
+    "subfamilies": [
+      "Bart Text",
+      "Bart",
+      "Bart Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "neoclassical",
+      "text-serif",
+      "opera",
+      "editorial",
+      "contemporary",
+      "high-contrast",
+      "multilingual"
+    ],
+    "summary": "A contemporary serif combining Oldstyle, Transitional and Neoclassical influences, designed originally for the visual identity of the Opéra National du Rhin in Strasbourg.",
+    "description": "Designed in 2019 and released in 2022 by André Baldinger and Toan Vu-Huu, Bart Text is the text-optimised cut of a three-contrast family also available in Normal and Display variants. Distinguishing details include right-angled cuts on drops and terminals, square dots, wire elements and a strong stroke contrast that keeps the typeface formal yet contemporary. The Text subfamily runs across four weights from Regular to Heavy, each with a matching italic, and the glyph set of 839 characters covers an extensive range of Latin-based languages.",
+    "foundry_blurb": "Bart was conceived for a pitch for the new visual identity of the Opéra de Strasbourg in 2020. The family combines Oldstyle, Transitional and Neoclassical elements across three contrast variants — Text, Normal and Display — each in four weights. Distinguishing rational details such as right-angled terminal cuts, square dots and wire elements give the design a contemporary character, and extensive OpenType support includes stylistic alternates for figures, punctuation and select letterforms."
+  },
+  {
+    "name": "Bart",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/bart",
+    "designer": "André Baldinger & Toan Vu-Huu",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Bart combines Oldstyle, Transitional and Neoclassical serif elements, with strong stroke contrast and refined detail. The foundry explicitly describes this blend across three optical contrast variants.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Normal",
+      "Display"
+    ],
+    "subfamilies": [
+      "Bart Text",
+      "Bart",
+      "Bart Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "transitional",
+      "neoclassical",
+      "optical-sizes",
+      "editorial",
+      "opera",
+      "book",
+      "cultural"
+    ],
+    "summary": "A three-optical-size serif family by André Baldinger and Toan Vu-Huu, conceived for the Opera of Strasbourg and blending Oldstyle, Transitional and Neoclassical influences.",
+    "description": "Designed in 2019 and released in 2022, Bart grew from a visual identity pitch for the Opera of Strasbourg and spans Text, Normal and Display subfamilies, each in four weights with italics. Strong stroke contrast is paired with right-angled cut drops, square dots and wire elements to give the family a contemporary edge over its classical structure. OpenType features include four figure sets, small capitals, stylistic alternates and an extensive range of circled and framed numerals.",
+    "foundry_blurb": "Bart was created after b•v-h type were invited to pitch the new visual identity of the Opera of Strasbourg in 2020. The family combines Oldstyle, Transitional and Neoclassical elements across three contrast variants — Text, Normal and Display — each available in four weights. Distinguishing details including right-angled cuts, square dots and wire elements position it in a contemporary aesthetic, while the full collection runs to 24 styles with broad Latin language support."
+  },
+  {
+    "name": "Bart Display",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/bart-display",
+    "designer": "André Baldinger & Toan Vu-Huu",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "neoclassical serif",
+    "classification_notes": "The foundry describes the design as combining Oldstyle, Transitional and Neoclassical elements with strong stroke contrast and delicate right-angled cuts, placing it firmly in the neoclassical serif tradition. The Display subfamily is the highest-contrast optical variant of the three-contrast Bart family.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Normal",
+      "Display"
+    ],
+    "subfamilies": [
+      "Bart Text",
+      "Bart",
+      "Bart Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neoclassical",
+      "high-contrast",
+      "opera",
+      "editorial",
+      "display",
+      "text",
+      "multilingual",
+      "opentype-rich"
+    ],
+    "summary": "A high-contrast serif family designed originally for the Opera of Strasbourg, blending Oldstyle, Transitional and Neoclassical influences across three optical variants.",
+    "description": "Conceived in 2019 for a pitch to the Opera de Strasbourg and released in 2022, Bart Display is the highest-contrast of three optical subfamilies, each offered in four weights from Regular to Heavy with matching italics. Distinguishing details include square dots, wire elements, right-angled terminal cuts and wheelbase angles that push the design toward a contemporary aesthetic without abandoning classical structure. An extensive set of OpenType features covers alternate glyphs, multiple figure styles, circled and framed numbers, and broad Latin language support across hundreds of scripts.",
+    "foundry_blurb": "André Baldinger and Toan Vu-Huu, assisted by Jimmy Le Guennec and Fanny Hamelin, developed Bart following a 2019 invitation to pitch the visual identity of the Opera de Strasbourg. The family merges Oldstyle, Transitional and Neoclassical references and is structured across three contrast variations — Text, Normal and Display — each in four weights. Rational details such as right-angled drops, square dots, wire elements and wheelbase angles give the design a contemporary character, supported by rich OpenType feature sets and extensive multilingual Latin coverage."
+  },
+  {
+    "name": "Baldinger",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/baldinger",
+    "designer": "André Baldinger",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Explicitly described as a contemporary neo-grotesque connected to the Swiss school and International Typographic movement, sitting between Akzidenz Grotesk and Helvetica in texture and warmth.",
+    "weights": [
+      "ExtraHairline",
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Baldinger"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "swiss",
+      "international-style",
+      "neutral",
+      "editorial",
+      "small-caps",
+      "multilingual",
+      "signage"
+    ],
+    "summary": "A contemporary neo-grotesque by André Baldinger that sits between Akzidenz Grotesk's roughness and Helvetica's coolness, across seven carefully graduated weights.",
+    "description": "Designed by André Baldinger and released in 2022, the family spans fourteen styles from an exceptionally fine ExtraHairline (5-unit stroke) through to Heavy, each with matching italics. Uppercase letters are drawn slightly narrower than convention to improve economy in both text and sign systems, while small caps, discretionary ligatures and an extensive set of OpenType stylistic alternates give it considerable typographic depth. The result sits within the Swiss neo-grotesque tradition without being a revival, carrying enough personality to avoid the blankness of Helvetica.",
+    "foundry_blurb": "Baldinger is described by b•v-h type as André Baldinger's vision of a contemporary neo-grotesque connected to the Swiss school and the International Typographic movement. Less rough than Akzidenz Grotesk and warmer than Univers and Helvetica, it maintains a certain neutrality while expressing a distinguished personal style. Uppercase letters are drawn slightly narrower to aid economy, and the two ultra-fine weights, ExtraHairline and Hairline, allow delicate use at large sizes. Designed in 2006 and released in 2022, it is available in 14 styles with 826 glyphs per roman and italic, with small caps and discretionary ligatures completing its OpenType feature set."
+  },
+  {
+    "name": "Eiffel Level",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/eiffel-level",
+    "designer": "André Baldinger, Fanny Hamelin",
+    "year": 2004,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Constructed from squares, double squares and struts at six defined angles, derived directly from the Eiffel Tower's structural geometry; the extreme hairline Air weight and numbered level variants confirm its primary orientation as a display family.",
+    "weights": [
+      "Air",
+      "03",
+      "02",
+      "01",
+      "-01",
+      "-02"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Eiffel Level"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "constructed",
+      "signage",
+      "architectural",
+      "hairline",
+      "structural",
+      "paris"
+    ],
+    "summary": "A geometric display family by André Baldinger, constructed from the structural angles and proportions of the Eiffel Tower, originally developed for a signage pitch for the tower itself.",
+    "description": "Designed in 2004 and released in 2022, the family was commissioned through Intégral Ruedi Baur for an Eiffel Tower signage project requiring both large display and text variants. The design language draws not from the tower's silhouette but from its engineering: squares, double squares and struts at six fixed angles govern every letterform. Six styles range from the extreme Level Air — among the world's thinnest strokes at 1 unit — through numbered levels to -02, with 602 glyphs per roman style and OpenType features including circled and framed numbers.",
+    "foundry_blurb": "The trigger for this font was a design pitch for new Eiffel Tower signage, with André Baldinger invited by Intégral Ruedi Baur to create a typeface serving both display and text purposes. Research revealed the tower's structural elements — squares, double squares and struts at six defined angles — as the most compelling starting point, forming a strict geometric design principle that left little room for deviation. The Level Air weight is among the handful of typefaces worldwide with a stroke thickness of just 1 unit."
+  },
+  {
+    "name": "Eiffel",
+    "foundry": "b•v-h type",
+    "url": "https://bvhtype.com/typefaces/eiffel",
+    "designer": "André Baldinger, Fanny Hamelin",
+    "year": 2009,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Eiffel is built from a strict geometric vocabulary derived from the structural language of the Eiffel Tower: the square, the double square and six defined strut angles. This rigorous constructive logic places it firmly within geometric sans, with display and text variants extending its range.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Level Air",
+      "Level 03",
+      "Level 02",
+      "Level 01",
+      "Level -01",
+      "Level -02"
+    ],
+    "subfamilies": [
+      "Eiffel",
+      "Eiffel Level"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "signage",
+      "structural",
+      "constructed",
+      "editorial",
+      "multilingual"
+    ],
+    "summary": "A geometric sans drawn from the structural logic of the Eiffel Tower, designed by André Baldinger for a Paris signage commission and released commercially in 2022.",
+    "description": "Originally conceived as a typeface for Eiffel Tower wayfinding — with both a large display variant and a text variant — the design is governed by the square, the double square and six fixed strut angles drawn directly from the tower's ironwork. The Level subfamily extends the family with stroke-weight variants, including the extreme Level Air, which achieves a stroke thickness of just one unit. Across 14 styles and 642 glyphs per roman and italic, the family covers an exceptionally wide range of Latin-script languages.",
+    "foundry_blurb": "b•v-h type describe Eiffel as originating from a signage pitch for the Eiffel Tower, where André Baldinger was invited by Intégral Ruedi Baur to design a typeface serving both display signage and printed text. The structural elements of the tower — the square, double square and six angled struts — formed the geometric basis for the entire design. The Level Air weight is noted as one of a handful of typefaces worldwide with a stroke thickness of just one unit."
+  }
+]

@@ -105,6 +105,15 @@ import typeOfFeeling from "@/data/typefaces-type-of-feeling.json";
 import aIsFor from "@/data/typefaces-a-is-for.json";
 import aPracticeForEverydayLife from "@/data/typefaces-a-practice-for-everyday-life.json";
 import arrowtype from "@/data/typefaces-arrowtype.json";
+import boulevardLab from "@/data/typefaces-boulevard-lab.json";
+import bvhType from "@/data/typefaces-bvh-type.json";
+import centralType from "@/data/typefaces-central-type.json";
+import ddott from "@/data/typefaces-ddott.json";
+import delveFonts from "@/data/typefaces-delve-fonts.json";
+import davidJonathanRoss from "@/data/typefaces-david-jonathan-ross.json";
+import felicanType from "@/data/typefaces-feliciano-type.json";
+import floodFonts from "@/data/typefaces-flood-fonts.json";
+import fonderieBretagne from "@/data/typefaces-fonderie-bretagne.json";
 // Batch 11
 import brandonNickerson from "@/data/typefaces-brandon-nickerson.json";
 import rTypography from "@/data/typefaces-r-typography.json";
@@ -328,6 +337,15 @@ export function getAllTypefaces(): Typeface[] {
         aIsFor,
         aPracticeForEverydayLife,
         arrowtype,
+        boulevardLab,
+        bvhType,
+        centralType,
+        ddott,
+        delveFonts,
+        davidJonathanRoss,
+        felicanType,
+        floodFonts,
+        fonderieBretagne,
         // Batch 11
         brandonNickerson,
         rTypography,

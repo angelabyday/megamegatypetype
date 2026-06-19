@@ -1885,6 +1885,137 @@ const FOUNDRIES = [
       } catch { return false; }
     },
   },
+  {
+    name: "Boulevard LAB",
+    slug: "boulevard-lab",
+    homepage: "https://boulevardlab.com/",
+    listingUrl: "https://boulevardlab.com/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("boulevardlab.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        const skip = new Set(["Mobile-Menu", "Home", "Typefaces", "Information", "Desktop-License", "mobile-menu", "home", "typefaces", "information", "desktop-license"]);
+        return parts.length === 1 && !NON_TYPEFACE_SLUGS.has(parts[0].toLowerCase()) && !skip.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "b•v-h type",
+    slug: "bvh-type",
+    homepage: "https://bvhtype.com/",
+    listingUrl: "https://bvhtype.com/typefaces",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("bvhtype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Central Type",
+    slug: "central-type",
+    homepage: "https://centraltype.com/",
+    listingUrl: "https://centraltype.com/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("centraltype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        const skip = new Set(["fonts", "in-use", "licenses", "trial-fonts"]);
+        return parts.length === 1 && !NON_TYPEFACE_SLUGS.has(parts[0]) && !skip.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "DDOTT",
+    slug: "ddott",
+    homepage: "https://ddott.net/",
+    listingUrl: "https://ddott.net/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("ddott.net")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "font" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Delve Fonts",
+    slug: "delve-fonts",
+    homepage: "https://delvefonts.com/",
+    listingUrl: "https://delvefonts.com/fonts/",
+    tier: "okay",
+    filterFn: makeTypefaceFilter("https://delvefonts.com/fonts/"),
+  },
+  {
+    name: "David Jonathan Ross",
+    slug: "david-jonathan-ross",
+    homepage: "https://djr.com/",
+    listingUrl: "https://djr.com/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (u.hostname !== "djr.com" && u.hostname !== "www.djr.com") return false;
+        if (u.search || u.hash || u.pathname.includes(".")) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        const skip = new Set(["notes", "subscribe", "fonts-in-use-submissions", "font-of-the-month-club", "slight-chance"]);
+        return parts.length === 1 && !NON_TYPEFACE_SLUGS.has(parts[0]) && !skip.has(parts[0]) && parts[0] === parts[0].toLowerCase();
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Feliciano Type",
+    slug: "feliciano-type",
+    homepage: "https://felicianotype.com/",
+    listingUrl: "https://felicianotype.com/typefaces/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("felicianotype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Flood Fonts",
+    slug: "flood-fonts",
+    homepage: "https://floodfonts.com/",
+    listingUrl: "https://floodfonts.com/",
+    tier: "okay",
+    filterFn: makeTypefaceFilter("https://floodfonts.com/"),
+  },
+  {
+    name: "Fonderie Bretagne",
+    slug: "fonderie-bretagne",
+    homepage: "https://fonderiebretagne.fr/",
+    listingUrl: "https://fonderiebretagne.fr/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("fonderiebretagne.fr")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "font" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
 ];
 
 // ---- URL filter ----

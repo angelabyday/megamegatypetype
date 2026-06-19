@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Oatmeal Pro",
+    "foundry": "Boulevard LAB",
+    "url": "https://boulevardlab.com/Oatmeal-Pro",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The name and foundry context suggest a warm, humanist sans-serif character, though the page content is too sparse to confirm specific subcategory details with certainty.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Oatmeal Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "warm",
+      "contemporary",
+      "sans-serif"
+    ],
+    "summary": "A typeface from Boulevard LAB with insufficient page content available to describe in detail.",
+    "description": "The page for Oatmeal Pro at Boulevard LAB returned only navigation elements, with no substantive information about the typeface's design, weights, or intended use. No designer, release year, or descriptive copy was present in the scraped content. A visit to the foundry's site directly would be needed to assess the full family.",
+    "foundry_blurb": "No foundry copy was available from the scraped page content."
+  },
+  {
+    "name": "Office Times",
+    "foundry": "Boulevard LAB",
+    "url": "https://boulevardlab.com/Office-Times",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The name references Times, a canonical transitional serif; without further page content, classification defaults to that lineage based on naming convention.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Office Times"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "times-influenced",
+      "office",
+      "text"
+    ],
+    "summary": "A serif typeface from Boulevard LAB drawing on the Times tradition for office and text use.",
+    "description": "Office Times sits within the transitional serif genre, referencing the workhorse Times lineage associated with editorial and document typesetting. Boulevard LAB reframe this for contemporary office and text applications. Precise details on weights and character coverage were not available from the page content.",
+    "foundry_blurb": "Boulevard LAB offer Office Times as part of their typeface catalogue, though specific promotional copy for the typeface was not available from the page."
+  }
+]

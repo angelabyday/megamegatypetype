@@ -1,0 +1,1359 @@
+[
+  {
+    "name": "Bungee",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/bungee",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "display",
+    "subcategory": "signage display",
+    "classification_notes": "Bungee is a display typeface explicitly designed for vertical urban signage, with letterforms modified to stack legibly in vertical text. Its chromatic layering system and monowidth-leaning construction place it firmly in the display category.",
+    "weights": [
+      "Regular",
+      "Inline",
+      "Outline",
+      "Shade"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bungee",
+      "Bungee Color"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "display",
+      "signage",
+      "chromatic",
+      "vertical-text",
+      "layered",
+      "opentype-color",
+      "free",
+      "wood-type"
+    ],
+    "summary": "A free display typeface by David Jonathan Ross built for vertical urban signage, with chromatic layering and OpenType vertical text support.",
+    "description": "Drawn with straight sides on round and diagonal characters so letters stack cleanly edge to edge, Bungee translates the Latin alphabet into the vertical orientation of commercial street signage. It ships in four layerable styles, Regular, Inline, Outline and Shade, plus three OpenType colour font formats (OT-SVG, COLR/CPAL and SBIX) for chromatic typesetting without manual layering. Released under the SIL Open Font License with support from Google and The Font Bureau, it is also available on Google Fonts.",
+    "foundry_blurb": "DJR describes Bungee as a typeface that celebrates the urban sign, inspired by the vertical signage of American cities where letters are stacked one atop another to make dramatic use of limited space. It implements vertical forms via OpenType features normally reserved for East Asian scripts, includes vertical kerning, and comes in chromatic layers and colour font formats to revive the tradition of overprinting chromatic wood type."
+  },
+  {
+    "name": "Condor",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/condor",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "display",
+    "subcategory": "high-contrast display sans",
+    "classification_notes": "A display-only sans with pronounced thick-and-thin stroke contrast drawn from Art Deco lettering traditions. Its extreme contrast, open forms and steep italics place it firmly in the display category rather than a functional grotesque.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Regular",
+      "Wide",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Condor Compressed",
+      "Condor Condensed",
+      "Condor",
+      "Condor Wide",
+      "Condor Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "art-deco",
+      "display",
+      "sans-serif",
+      "editorial",
+      "fashion",
+      "variable",
+      "multi-width"
+    ],
+    "summary": "A high-contrast display sans in five widths and six weights, drawing on Art Deco lettering and the thick-and-thin commercial signage of early industrial America.",
+    "description": "Conceived after David Jonathan Ross encountered thick-and-thin commercial lettering on mill buildings in Lowell, Massachusetts, Condor merges that plain stressed structure with the elegance of Art Deco design. Sixty static styles span five widths from Compressed to Extended and six weights from Extra Light to Black, each with matching italics that use an extreme angle rather than cursive forms. A variable font beta is also available, giving access to weight, width and italic axes in a single file.",
+    "foundry_blurb": "DJR describes Condor as a high-contrast sans that glimmers with thick-and-thin contrast, intended only for display sizes. Spanning five widths and six weights, it is a contemporary take on Art Deco stylised sans serifs, with strong curves, open forms and steeply sloped italics that give it vibrant texture suited to dazzling displays."
+  },
+  {
+    "name": "Fern",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/fern",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "serif",
+    "subcategory": "venetian oldstyle",
+    "classification_notes": "Explicitly positioned within the Venetian Oldstyle tradition descending from Nicolas Jenson, with pronounced diagonal stress and triangular serifs characteristic of Renaissance romans, adapted for screen legibility.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Micro",
+      "Titling"
+    ],
+    "subfamilies": [
+      "Fern Text",
+      "Fern Micro",
+      "Fern Titling Caps",
+      "Fern Ornaments"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "venetian",
+      "oldstyle",
+      "humanist",
+      "screen-optimised",
+      "book",
+      "editorial",
+      "renaissance",
+      "variable"
+    ],
+    "summary": "A screen-native Venetian oldstyle by David Jonathan Ross that exaggerates diagonal stress and uses chunky triangular serifs to hold texture at small sizes.",
+    "description": "Rather than softening the diagonal stress typical of Venetian oldstyles, Ross amplifies it so that weight pools in the round strokes, giving Fern a rich colour even on low-resolution screens. The family spans Text and Micro optical sizes with Regular, Bold and matching italics in each, plus a Titling Caps cut and an Ornaments set, all available as variable fonts with weight and optical size axes. The result is a humanist serif with genuine vigour, suited to long-form reading on screen as much as to print.",
+    "foundry_blurb": "DJR frames Fern as a Venetian oldstyle built for the screen: where classics like Centaur and Dante go light and splotchy in digital environments, Fern uses exaggerated diagonal stress and chunky triangular serifs to cluster weight in the round strokes, producing a rich texture that holds at even the smallest sizes. DJR describes it as undeniably humanist but neither precious nor dainty, lending elegance, strength and grace to text."
+  },
+  {
+    "name": "Fit",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/fit",
+    "designer": "David Jonathan Ross",
+    "year": 2017,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Fit is a hyper-stylised display sans built around an extreme variable width axis, ranging from skyline-narrow to ultra-extended. Its primary purpose is filling space with maximum visual impact rather than text legibility.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Skyline",
+      "Compressed",
+      "Extra Condensed",
+      "Condensed",
+      "Normal",
+      "Wide",
+      "Extra Wide",
+      "Extended",
+      "Extra Extended",
+      "Ultra Extended"
+    ],
+    "subfamilies": [
+      "Fit",
+      "Fit Hebrew",
+      "Fit Armenian",
+      "Fit Devanagari",
+      "Fit Tamil",
+      "Fit Kannada",
+      "Fit Arabic"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Hebrew",
+      "Armenian",
+      "Devanagari",
+      "Tamil",
+      "Kannada",
+      "Arabic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "variable",
+      "width",
+      "modular",
+      "impact",
+      "multi-script",
+      "expressive",
+      "blackletter-adjacent"
+    ],
+    "summary": "A variable-width display typeface built around a single obsessive principle: filling any given space with maximum visual mass.",
+    "description": "Designed by David Jonathan Ross and first released in 2017, Fit operates across an enormous width axis spanning ten named styles from Skyline to Ultra Extended. Its defining structural logic anchors the white space within and between letters as a constant, regardless of width, so the letterforms fuse into a dense, interlocking grid of black and white. The family has since expanded to cover Hebrew, Armenian, Devanagari, Tamil, Kannada and Arabic, each script adapted by a specialist designer working within Fit's strict modular grammar.",
+    "foundry_blurb": "DJR describes Fit as a hyper-stylised typeface designed with one goal: filling space with maximum impact. Drawn as a variable font spanning ridiculously narrow to ludicrously wide, the family is anchored by its consistent white shapes, which remain fixed regardless of width and cut dramatically through the letterforms. Originally Latin and Cyrillic, Fit has since grown to include Hebrew, Armenian, Devanagari, Tamil, Kannada and Arabic, each extended by a specialist designer. Lowercase and small caps were added in 2024."
+  },
+  {
+    "name": "Forma DJR Mono",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/forma-mono",
+    "designer": "Ruggero Magrì, David Jonathan Ross",
+    "year": null,
+    "category": "mono",
+    "subcategory": "humanist monospace",
+    "classification_notes": "A monospaced sans rooted in Nebiolo's 1968 Forma, itself a humanist geometric sans; the fixed-width grid is the defining structural feature, placing it firmly in the mono category while retaining the warm, slightly organic qualities of its proportional source.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Forma DJR Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "revival",
+      "humanist",
+      "midcentury",
+      "coding",
+      "tabular",
+      "sans-serif",
+      "metal-type"
+    ],
+    "summary": "A monospaced adaptation of DJR's revival of Nebiolo's 1968 Forma, engineered by Ruggero Magrì to carry the original's subtly rounded corners and tapered stems onto a fixed-width grid.",
+    "description": "Drawn by Ruggero Magrì with David Jonathan Ross, the typeface reworks the proportionally-spaced Forma DJR for a monospace grid, compensating for the inevitable distortion of narrow and wide letters without losing the ink-on-paper warmth Roger Black sought to preserve in the original revival. Eight weights from Hairline to Black ship with matching italics and unserifed alternates for f and r, plus a variable font, making 16 styles in total. Suited to tables, code snippets and brand-consistent contexts where the cold regularity of most monospace fonts would feel out of place.",
+    "foundry_blurb": "DJR describe Forma DJR Mono as bringing the warmth of Nebiolo's 1968 classic sans serif to the cold, sterile world of monospace typography. Designed by Ruggero Magrì, it preserves the subtly rounded corners and tapered stems that evoke ink on paper, while addressing the funhouse-mirror distortion inherent in fitting every letter to the same fixed width. The family mirrors Forma DJR's full weight range and is intended for tables, code, and secondary text where you want to stay on brand but need a slightly different tone of voice."
+  },
+  {
+    "name": "Forma DJR",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/forma",
+    "designer": "David Jonathan Ross, Aldo Novarese (original), Ruggero Magrì (Condensed and Mono)",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "A revival of Nebiolo's 1968 neo-grotesque Forma, itself conceived as a warmer alternative to Helvetica and Univers, placing it squarely in the neo-grotesque tradition with humanist inflections.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Banner",
+      "Display",
+      "Deck",
+      "Text",
+      "Micro",
+      "UI"
+    ],
+    "subfamilies": [
+      "Forma DJR",
+      "Forma DJR Condensed",
+      "Forma DJR Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Arabic",
+      "Thai",
+      "Greek",
+      "Hebrew"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "revival",
+      "italian",
+      "midcentury",
+      "editorial",
+      "tight-spacing",
+      "optical-sizes",
+      "humanist"
+    ],
+    "summary": "A meticulous digital revival of Nebiolo's 1968 Forma, the Italian neo-grotesque designed by Aldo Novarese as a warmer, more considered alternative to Helvetica.",
+    "description": "Originally issued in metal and lost to history when Nebiolo closed in 1978, Forma was brought back by DJR in 2016 at the request of publications designer Roger Black, using fresh proofs cast from lead type as source material. The revival embraces the unintentional details of the printing process, swelling stems and rounded corners, rather than returning to the original drawings, and has since grown into a broad family spanning weights, widths, five optical sizes from Banner to Micro, italics and a monospaced variant. Extended script support in Cyrillic, Arabic, Thai, Greek and Hebrew is available upon request.",
+    "foundry_blurb": "DJR describes Forma DJR as a revival of Nebiolo's classic Italian neo-grotesque, originally released in 1968 under the leadership of Aldo Novarese. The digital version was commissioned by Roger Black in 2013 for Hong Kong Tatler and publicly released in 2016, drawing on lead-cast proofs rather than original drawings to capture the warmth and idiosyncrasies of the printed original. The family has since expanded far beyond the scope of the metal release, with Condensed styles and a Monospaced version contributed by Italian designer Ruggero Magrì."
+  },
+  {
+    "name": "Input",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/input",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "mono",
+    "subcategory": "code font",
+    "classification_notes": "Input is a programming-focused type system offering both monospaced and proportional variants across sans and serif subfamilies, with the monospaced forms being its primary use case and core identity.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Narrow",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Input Sans",
+      "Input Sans Narrow",
+      "Input Sans Condensed",
+      "Input Serif",
+      "Input Serif Narrow",
+      "Input Serif Condensed",
+      "Input Mono",
+      "Input Mono Narrow",
+      "Input Mono Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "coding",
+      "programming",
+      "sans-serif",
+      "serif",
+      "modular",
+      "screen",
+      "proportional"
+    ],
+    "summary": "A 168-style type system built for programming, offering monospaced and proportional variants across sans and serif forms with an unusually wide range of widths and weights.",
+    "description": "Designed specifically for code editors, Input addresses the practical demands of programming with easily distinguishable characters, large punctuation and generous letterspacing suited to dense onscreen text. The system spans three widths, seven weights and two styles per subfamily, with both monospaced and proportional cuts available in sans and serif forms, totalling 168 styles. Cyrillic support was developed in consultation with Russian type designer Maria Doreuli, giving the family broader script coverage than most coding fonts. Available as a free download for private use in code editors.",
+    "foundry_blurb": "DJR describes Input as a flexible system of fonts designed for programming, offering sans and serif forms, variable-width and monospaced versions, and an immense range of widths and weights. While code is traditionally set in monospaced fonts, Input also offers proportional variants intended to take what is best about the monospaced genre and give each letter the space it needs. The modular design recalls pixel-based fonts of early computer consoles while looking to a future where developers have full control over their typographic environments."
+  },
+  {
+    "name": "Job Clarendon",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/job-clarendon",
+    "designer": "Bethany Heck, David Jonathan Ross, Sophia Tai",
+    "year": null,
+    "category": "slab",
+    "subcategory": "clarendon",
+    "classification_notes": "A bracketed slab serif drawing directly from the Condensed Clarendon tradition of 19th century British and American job printing, with heavy serifs, strong contrast between hairline and black weights, and multiple condensed width variants.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Skyline",
+      "Compressed",
+      "Extra Condensed",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Job Clarendon Skyline",
+      "Job Clarendon Compressed",
+      "Job Clarendon Extra Condensed",
+      "Job Clarendon Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "clarendon",
+      "slab",
+      "display",
+      "letterpress",
+      "poster",
+      "condensed",
+      "victorian",
+      "variable"
+    ],
+    "summary": "A bracketed slab serif by Bethany Heck and David Jonathan Ross that takes the Condensed Clarendon of 19th century job printing and stretches it across four widths and ten weights, from Hairline to Black.",
+    "description": "Rooted in the visual language of letterpress job printing, the family spans 40 static styles plus a variable font, with stems growing up to 45 times thicker from Hairline to Black. Four width variants — Skyline, Compressed, Extra Condensed and Condensed — give it a range suited to everything from tight poster headlines to sprawling broadsheet display. Stylistic sets for squared terminals, tailed Rs and simplified letterforms let it shift between a crisp, modern register and a more overtly 19th century character.",
+    "foundry_blurb": "DJR describe Job Clarendon as an homage to the Condensed Clarendon, the bracketed slab serif style that was a mainstay of 19th century British and American job printing. Designed with Bethany Heck and additional drawing by Sophia Tai, the family began with a single hairline weight and expanded into a broad range of widths and weights, with several stylistic alternates included to allow the typeface to flex its personality — from cleaner simplified forms to an embrace of the overinked looseness of the heaviest letterpress weights."
+  },
+  {
+    "name": "Gimlet",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/gimlet",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast serif",
+    "classification_notes": "A high-contrast serif with superelliptical forms and an eclectic italic that blends sloped Roman and cursive shapes, drawing directly from Georg Trump's Schadow. The optical size structure and four-width system place it firmly as a contemporary text and display serif.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Text",
+      "Micro",
+      "Condensed",
+      "Narrow"
+    ],
+    "subfamilies": [
+      "Gimlet Display",
+      "Gimlet Text",
+      "Gimlet Micro"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "quirky",
+      "high-contrast",
+      "optical-sizes",
+      "responsive",
+      "editorial",
+      "workhorse",
+      "schadow-inspired",
+      "variable"
+    ],
+    "summary": "A 112-style serif family inspired by Georg Trump's 1938 Schadow, reinterpreted by David Jonathan Ross as a contemporary workhorse with three optical sizes and four widths per size.",
+    "description": "Where Schadow was chaotic and inconsistent across its release history, Gimlet imposes coherence while preserving the source material's essential oddity. Three optical sizes — Display, Text and Micro — each come in four widths from regular to condensed, making the family unusually well-suited to responsive layouts and narrow measures. The italic takes an idiosyncratic route, mixing sloped Roman letterforms with exuberant cursive ones, and stylistic alternates let the user calibrate how far that cursiveness runs.",
+    "foundry_blurb": "DJR describes Gimlet as half Schadow, half imagination, drawn at the suggestion of Nick Sherman who sent him a copy of Georg Trump's monograph Vita Activa. Indra Kupferschmid also advised on the project. The family is positioned as a funky yet functional all-purpose serif: 112 fully-featured OpenType fonts plus a variable font, covering desktop, web, e-book and app licensing, with full support for major European Latin languages."
+  },
+  {
+    "name": "Map Roman",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/map-roman",
+    "designer": "David Jonathan Ross",
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Map Roman is a display serif drawn from the hand-lettered titling caps of cartographer MacDonald Gill, with formal constructed letterforms and calligraphic tension in the lowercase, placing it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Map Roman",
+      "Map Roman Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "lettering",
+      "cartographic",
+      "calligraphic",
+      "historical",
+      "titling",
+      "serif",
+      "handmade"
+    ],
+    "summary": "A display serif drawn from the hand-lettered map titling of MacDonald Gill, balancing constructed typographic forms against calligraphic energy in the lowercase.",
+    "description": "Rooted in the illustrated maps of MacDonald Gill from the first half of the twentieth century, the typeface favours the formal elegance of his large-scale titling capitals. The lowercase, introduced in the Compressed variant, threads a line between constructed rigidity and Gill's looser calligraphic hand, retaining extra-long ascenders and descenders, flat connectors on p/d/b/q, and swashing descenders on j, g and y. The result carries a productive tension between typographic discipline and handmade warmth.",
+    "foundry_blurb": "DJR describes Map Roman as based on the lettering of MacDonald Gill, particularly the style he used on his many illustrated maps in the first half of the twentieth century. The Compressed Lowercase release attempts to reconcile the formal elegance of Gill's titling caps with the livelier, more calligraphic quality of his drawn lowercase, preserving long ascenders and descenders, unique flat connectors and hints of calligraphic movement throughout."
+  },
+  {
+    "name": "Megascope",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/megascope",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric sans",
+    "classification_notes": "Deco-inspired geometric sans with exaggerated proportions and circular forms; explicitly display-oriented, designed for headlines and expressive use rather than extended text setting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Megascope"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "art-deco",
+      "display",
+      "1970s",
+      "sci-fi",
+      "variable",
+      "retro",
+      "expressive"
+    ],
+    "summary": "A 1970s Deco-inflected geometric sans with exaggerated proportions, tight spacing and a variable axis that swells its circular forms.",
+    "description": "Drawn in the spirit of the Deco-inspired geometric sans serifs that decorated sci-fi paperbacks and album covers in the 1970s, Megascope leans into the period's characteristic exaggeration: wide circular counters, a consistent diagonal stroke angle and very tight spacing. A variable axis allows the circular elements to expand further, giving designers direct control over the typeface's most distinctive feature. At its core it is a headline face built for covers, titles and expressive display settings.",
+    "foundry_blurb": "David Jonathan Ross describes Megascope as his take on the expressive Deco-inspired geometric sans serifs of the 1970s, citing sci-fi book covers and album sleeves as reference material discovered at a local used bookstore moving sale. The typeface is defined by exaggerated proportions, tight spacing, a consistent diagonal stroke angle, and a variable axis that enlarges its distinctive circular forms."
+  },
+  {
+    "name": "Megazoid",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/megazoid",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A heavy geometric display face built on the tension between square exteriors and circular counterforms, placing it firmly in the retro-futurist display genre alongside phototype-era references such as Blippo and Pump.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Megazoid"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "retro-futurist",
+      "display",
+      "science-fiction",
+      "phototype",
+      "layered",
+      "heavy",
+      "1970s"
+    ],
+    "summary": "A single-weight geometric display face that plays square exteriors against circular counterforms, evoking the retro-futurist phototype lettering of the 1970s.",
+    "description": "Megazoid occupies the territory between the stroke-based legibility of Futura Extra Bold and the near-abstract geometry of Futura Black, leaning squarish rather than circular in its overall texture. DJR introduces asymmetrical trapezoids for A, V and Y in place of triangles, borrowing a move from Avant Garde to keep the design off-kilter rather than static. Five styles are included: Regular, Italic, Fill, Shade Left and Shade Right, the latter three designed for layering into drop-shade and inline effects in the tradition of Letraset and Photo-lettering catalogs.",
+    "foundry_blurb": "DJR describes Megazoid as a celebration of the awkwardness of raw geometry, pitting square and circle against each other with blocky exteriors and mostly circular counterforms. He positions it between the figurative stroke-based designs of the genre and those that veer into complete abstraction, citing the 1972 Radio Shack logo as a touchstone. The family includes Fill and Shade styles to encourage the kind of outlined, inlined and offset treatments common in 1970s phototype and dry-transfer lettering, with twelve stylistic sets covering everything from simplified letterforms to rounded alternates and flipped diagonals."
+  },
+  {
+    "name": "Output",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/output",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Output is positioned between humanist and neo-grotesque, with three aperture variants ranging from open and lyrical to closed and vertical-terminated, rooted in the design language of DJR's coding typeface Input.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Output Sans",
+      "Output Sans Open",
+      "Output Sans Closed"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "ui",
+      "technical",
+      "aperture-variants",
+      "text",
+      "interface",
+      "coding-adjacent",
+      "variable"
+    ],
+    "summary": "A sans-serif companion to DJR's coding typeface Input, offering three aperture variants tuned for text and user interface work.",
+    "description": "Derived from the design DNA of Input, Output softens the curves and moderates the proportions to suit readable body text and UI rather than code. Three sub-families, Sans, Sans Open and Sans Closed, let designers shift between a lyrical humanist feel and a tighter, neo-grotesque character by opening or closing terminals. The full series spans eight weights from Hairline to Black with italics throughout, plus a variable font covering weight and slant axes.",
+    "foundry_blurb": "DJR describes Output as a starting point for setting type without fuss, with a fresh and slightly technical voice suited to contexts where information takes priority over style. It is rooted in Input, his programming typeface, but trades code-specific tuning for softer curves and moderate proportions suited to text and interfaces. Alternates allow designers to open or close terminals to match the tone of a layout or maintain legibility in more demanding conditions."
+  },
+  {
+    "name": "Nickel Gothic",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/nickel-gothic",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "display",
+    "subcategory": "gothic sans",
+    "classification_notes": "A squarish, blocky display sans with flat tops and bottoms and stadium-like interiors, drawing on squared gothic and mid-century sans traditions; classified as display due to its high-impact, headline-oriented construction across a wide axis range.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Extra Condensed",
+      "Condensed",
+      "Narrow",
+      "Regular",
+      "Semi Wide",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Nickel Gothic"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "gothic",
+      "squared",
+      "blocky",
+      "variable",
+      "condensed",
+      "high-impact",
+      "retro"
+    ],
+    "summary": "A blocky, squared display sans derived from lettering on a 1918 Chinese banknote, spanning Compressed to Wide with oblique and backslant variants across a variable axis.",
+    "description": "Designed by David Jonathan Ross with additional drawing by Bea Korsh, the typeface takes its structural cue from century-old banknote lettering while carrying overtones of mid-century squared sans serifs like Eurostile and 1970s gothics like Serpentine. Its defining quirk is flat tops and bottoms rather than the flat sides common in condensed sans serifs, with weighted interior corners that give each letterform a planted, immovable quality. Fourteen static styles run from Compressed to Wide with oblique cuts throughout, backed by a variable font with Width and Slant axes and support for Latin, Cyrillic and Greek.",
+    "foundry_blurb": "DJR describes Nickel Gothic as a striking display sans built with durable straight sides, square shoulders and hefty weights for high-impact typography. Based on lettering from a 1918 Chinese banknote, it nods to mid-century sans serifs like Microgramma and Eurostile as well as squared gothics from the 1970s. Its signature feature is flat exteriors contrasted with stadium-like interior shapes that pile weight into the corners, giving each word a heavy, emphatic landing."
+  },
+  {
+    "name": "Roslindale",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/roslindale",
+    "designer": "David Jonathan Ross",
+    "year": 2017,
+    "category": "serif",
+    "subcategory": "victorian revival serif",
+    "classification_notes": "Roslindale is rooted in De Vinne, an 1890s old-style serif with Victorian characteristics, marked by a tension between sharp stubby serifs and round bulbous terminals with hints of diagonal stress. DJR classifies it as an old-style serif but acknowledges its Victorian origins resist that label.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Deck",
+      "Display"
+    ],
+    "subfamilies": [
+      "Roslindale Text",
+      "Roslindale Display",
+      "Roslindale Display Narrow",
+      "Roslindale Display Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "victorian",
+      "revival",
+      "editorial",
+      "display",
+      "variable",
+      "optical-sizes",
+      "serif",
+      "branding"
+    ],
+    "summary": "A revival of De Vinne, the 1890s American serif, redrawn by David Jonathan Ross into a variable type system spanning text to display across three widths and nine weights.",
+    "description": "Born from a single Condensed Bold sent to DJR's Font of the Month Club in 2017, Roslindale has grown into a conical design space with Text, Display, Narrow, and Condensed subfamilies sharing a single variable axis for slant, width and weight. The typeface smooths De Vinne's lumpy Victorian forms while preserving the friction between its sharp serifs and round terminals, a combination that reads as simultaneously plain and decorative. Its italic transitions progressively from sloped roman to fully cursive, and the variable slant axis lets designers dial in precise degrees of italicness.",
+    "foundry_blurb": "DJR describes Roslindale as a balancing act of style, service, and sentiment, pitting sharp stubby serifs against round bulbous terminals while following in the footsteps of De Vinne, the 1890s Central Type Foundry face named after printer Theodore Low De Vinne. Starting as a single weight in 2017, the family has grown into a full variable type system aimed at both dense paragraphs and confident display settings."
+  },
+  {
+    "name": "Trilby",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/trilby",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "slab",
+    "subcategory": "reversed-stress clarendon",
+    "classification_notes": "Trilby draws directly from the nineteenth-century French Clarendon tradition, defined by its reversed stress where horizontal strokes and serifs are heavier than the vertical stems. DJR retains this structural inversion while applying it to a more open, contemporary letterform, placing it firmly in the slab serif genre.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trilby"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "reversed-stress",
+      "clarendon",
+      "slab",
+      "text",
+      "quirky",
+      "contemporary",
+      "variable"
+    ],
+    "summary": "A reversed-stress slab drawn from the French Clarendon tradition, refined by David Jonathan Ross into a face genuinely usable at text sizes.",
+    "description": "Where most reversed-stress faces are confined to headline work, Trilby's restrained take on the French Clarendon's backward weight distribution allows it to set full paragraphs with legibility intact. DJR stripped away the genre's usual showiness and applied the inverted stress to an open, contemporary letter structure, producing something that reads as quaint and characterful rather than theatrical. Four weights from Regular to Black, each with an italic, are complemented by variable font versions spanning the full weight range.",
+    "foundry_blurb": "DJR describes Trilby as a departure from the French Clarendon's typical excess, noting that while Manicotti plays up the genre's showy, Western associations, Trilby takes a subtler path. By applying reversed stress to an open, contemporary structure, it achieves a versatility unusual for the genre, capable of setting paragraphs rather than just a few words on a poster, with what DJR calls offbeat charm and subtle wit."
+  },
+  {
+    "name": "Warbler",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/warbler",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Warbler follows the types of William Martin cut in 1790, which bridge Baskerville and Bodoni — more condensed and contrasty than Baskerville but less mechanical than Bodoni, placing it squarely in the transitional serif category.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Banner",
+      "Display",
+      "Deck",
+      "Text"
+    ],
+    "subfamilies": [
+      "Warbler Banner",
+      "Warbler Display",
+      "Warbler Deck",
+      "Warbler Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "historical-revival",
+      "optical-sizes",
+      "restrained",
+      "bookish",
+      "editorial",
+      "classical",
+      "william-martin"
+    ],
+    "summary": "A revival of William Martin's 1790 types for William Bulmer, developed across four optical sizes tuned for Banner, Display, Deck and Text settings.",
+    "description": "Drawing on the gentle, high-contrast letterforms that bridge Baskerville and Bodoni, Warbler captures Martin's subtle idiosyncrasies — the swing of the a, the low waist of the k, the slight backward lean of the g — calibrating them at each optical size so they read as characterful rather than caricatured. The family spans four size-specific variants from Banner to Text, each adjusting stroke contrast, proportions and the scale of details such as ball terminals accordingly. With only two weights and a deliberate restraint in the overall system, it makes hierarchy a matter of size rather than weight.",
+    "foundry_blurb": "DJR describes Warbler as following the unique gestures of William Martin's types, cut in 1790 for printer William Bulmer. Martin's design bridged the gap between Baskerville and Bodoni — more condensed and contrasty than the former, less mechanical than the latter. The family centres on optical size variants rather than a broad weight range, with each cut tuned to be the right degree of delicate for its intended setting, in keeping with the airy, restrained typographic system of Bulmer's original title pages."
+  },
+  {
+    "name": "Turnip",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/turnip",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "serif",
+    "subcategory": "oldstyle antique",
+    "classification_notes": "Turnip draws on 19th-century oldstyle antiques and Bookman in particular, with mostly-vertical stress, blobby terminals and angled vertical serifs that place it squarely in the oldstyle antique or 'faux oldstyle' tradition rather than classical old-face.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Reading Edge"
+    ],
+    "subfamilies": [
+      "Turnip",
+      "Turnip Reading Edge"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "oldstyle-antique",
+      "bookman-lineage",
+      "text",
+      "rustic",
+      "editorial",
+      "ornaments",
+      "screen-optimised"
+    ],
+    "summary": "A deliberate roughening of the oldstyle antique tradition, rooted in Bookman and 19th-century display faces, built to set dense, characterful text in print and on screen.",
+    "description": "David Jonathan Ross drew Turnip out of an appreciation for Bookman and similar faux oldstyle faces from the second half of the 19th century, but worked against their tendency towards static uniformity by setting round outer forms against crisp angular counters, making each letterform slightly off-balance. Six weights with italics run from Light to Black, plus a separate Reading Edge subfamily optimised for small onscreen sizes. The character set extends to stylistic alternates, text figures, small caps, florets, borders, fancy dashes and folio curls, giving the family unusual depth for its rustic register.",
+    "foundry_blurb": "DJR describes Turnip as a text face built for the dirty jobs prettier fonts cannot handle. Inspired by Bookman signage in Lowell, Massachusetts, and a 1930 Pynson Printers edition of Tom Sawyer set in Monotype Bookman, he looked to 19th-century oldstyle antiques and Cheltenham to develop a wide, beefy design with blobby terminals and angled serifs. He accentuated the tension between round outer forms and angular inner counters to give text set in Turnip some bite, and added a Reading Edge subfamily for onscreen use at small sizes."
+  },
+  {
+    "name": "Gimlet X-Ray",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/gimlet-xray",
+    "designer": "David Jonathan Ross",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "experimental variable",
+    "classification_notes": "An experimental derivative of Gimlet that visually exposes the internal mechanics of a variable font, including Bézier curves and control points; categorised as display due to its purely demonstrative and decorative intent rather than conventional text use.",
+    "weights": [
+      "Variable"
+    ],
+    "optical_sizes_or_widths": [
+      "Variable"
+    ],
+    "subfamilies": [
+      "Gimlet X-Ray"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "variable",
+      "color-font",
+      "opentype",
+      "technical",
+      "display",
+      "educational"
+    ],
+    "summary": "An experimental color variable font that renders the internal Bézier curves, control points and spacing data of Gimlet as visible letterform anatomy.",
+    "description": "Released as the January 2020 Font of the Month Club offering, this is a COLR/CPAL and SVG color variable font built on DJR's Gimlet. Rather than displaying finished glyphs, it makes the underlying construction of a variable font legible, showing glyph contours, on-curve and off-curve control points, and kerning information. The interactive online demo, built with Chris Lewis, allows independent adjustment of weight, width and the visibility of each structural layer.",
+    "foundry_blurb": "DJR describes Gimlet X-Ray as an experimental version of Gimlet that exposes the internal mechanics of a variable font, including glyph contours, control points, spacing, and kerning. Available in COLR/CPAL and SVG flavors, it was released to the Font of the Month Club in January 2020, with an online demo created in collaboration with Chris Lewis."
+  },
+  {
+    "name": "Kuhlman",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/kuhlman",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "display",
+    "subcategory": "display lettering revival",
+    "classification_notes": "An uppercase-only display typeface drawn from the hand lettering of graphic designer Roy Kuhlman, with expressive alternates and a variable width axis placing it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Variable Width"
+    ],
+    "subfamilies": [
+      "Kuhlman"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "lettering",
+      "revival",
+      "variable",
+      "uppercase",
+      "editorial",
+      "expressive",
+      "retro"
+    ],
+    "summary": "An uppercase display typeface drawn from the lettering of graphic designer Roy Kuhlman, released to coincide with Steven Brower's monograph on Kuhlman's work.",
+    "description": "Derived from the distinctive hand lettering of Roy Kuhlman, the typeface is built for titles and display settings where presence matters. It ships as a variable font with a width axis and includes a range of OpenType alternates — contextual alternates, diagonal K, X and Y forms, and a bearded G — giving users considerable expressive range from a single file. Coverage spans Latin Western and Eastern European scripts, plus Vietnamese.",
+    "foundry_blurb": "DJR describes Kuhlman as a typeface based on the distinctive lettering of graphic designer Roy Kuhlman, released to commemorate Steven Brower's new monograph 'Roy Kuhlman: Reluctant Modernist'. It features a variable width axis and a whole range of OpenType alternates, designed for display use where titles need to pack a wallop."
+  },
+  {
+    "name": "Input Cipher",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/input-cipher",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "mono",
+    "subcategory": "novelty mono",
+    "classification_notes": "A monospaced variable font designed around cipher and encoding mechanics; the monospacing is essential to its substitution-cipher logic and Morse code output, placing it firmly in the mono category with a novelty/display character.",
+    "weights": [
+      "100"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Input Cipher"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "ASCII"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "cipher",
+      "novelty",
+      "mono",
+      "morse-code",
+      "playful",
+      "display",
+      "encoding"
+    ],
+    "summary": "A variable font built around substitution ciphers, ROT encoding and Morse code, letting users encode and gradually reveal text through adjustable axes.",
+    "description": "Built as a typographic decoder ring, the font uses variable axes to rotate through Caesar cipher (A-Z), ROT47 (full ASCII range) and ROT5 (numerals), with additional axes for Atbash reversal, full redaction and a Decode axis that progressively reveals hidden text. Morse code input via dots and dashes is also supported, making it genuinely functional as a novelty encoding tool. Width and weight axes sit alongside the cipher controls, giving it some flexibility beyond its primary party trick.",
+    "foundry_blurb": "DJR frames Input Cipher as a typographic decoder ring, inviting users to encrypt messages and share them with friends. The font supports Caesar cipher, ROT47, ROT5, Atbash, full redaction, Morse code, and a Decode axis that gradually reveals encoded text, acknowledging with good humour that substitution ciphers offer little real cryptographic security but are a lot of fun."
+  },
+  {
+    "name": "Manicotti",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/manicotti",
+    "designer": "David Jonathan Ross",
+    "year": 2014,
+    "category": "slab",
+    "subcategory": "French Clarendon",
+    "classification_notes": "Manicotti uses a reversed-stress construction with thick horizontal strokes and massive slab serifs, placing it squarely in the French Clarendon tradition, pushed to a decorative display extreme.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Manicotti"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "french-clarendon",
+      "reversed-stress",
+      "display",
+      "wood-type",
+      "western",
+      "decorative",
+      "slab"
+    ],
+    "summary": "A reversed-stress French Clarendon pushed to decorative extremes, drawing on nineteenth-century wood type and the visual language of Spaghetti Westerns.",
+    "description": "Manicotti takes the French Clarendon's inverted weight distribution and amplifies it, producing thick horizontal strokes, massive slab serifs and a dense typographic texture that reads as both antique and theatrical. Expanded between 2014 and 2016 to cover Cyrillic and Greek, with Bulgarian and Serbian alternates developed with input from Maria Doreuli and George Triantafyllakos. The typeface has received Certificates of Excellence from the Type Directors Club and the Modern Cyrillic competition.",
+    "foundry_blurb": "DJR describes Manicotti as inspired by the boisterous wood types of the nineteenth century, pushing the reversed-stress French Clarendon style to its decorative extreme. Its thick tops, bottoms and massive slab serifs create a dense typographic texture evocative of Spaghetti Western films, rugged trails and rowdy saloons."
+  },
+  {
+    "name": "Megabase",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/megabase",
+    "designer": "David Jonathan Ross",
+    "year": null,
+    "category": "display",
+    "subcategory": "display gothic",
+    "classification_notes": "A display gothic with deliberate horizontal stress and optical imbalance, drawing directly from 19th-century gothic lettering and 1970s space-age display typography rather than fitting any conventional text category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Megabase"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "gothic",
+      "horizontal-stress",
+      "retro",
+      "1970s",
+      "expressive",
+      "vernacular",
+      "disruptive"
+    ],
+    "summary": "A display gothic that weaponises horizontal stress and optical imbalance, drawing on 19th-century gothics and 1970s space-age lettering from Novarese and Newman.",
+    "description": "Where most typefaces smooth over uneven typographic colour, Megabase makes a feature of it, letting top-heavy, bottom-heavy and diagonal forms sit conspicuously alongside one another. The design traces its lineage to Gothic Bold and to 1970s display faces such as Novarese's Sintex and Bob Newman's Zipper, pushing their horizontality further than either. Several variant forms for the most disruptive letters give designers control over how much tension they allow into a setting.",
+    "foundry_blurb": "DJR describes Megabase as a display gothic with strong horizontal stress, inspired by the clunkiness of 19th-century gothics like Gothic Bold and the space-age funkiness of 1970s designs such as Novarese's Sintex and Newman's Zipper. The typeface deliberately embraces uneven typographic colour, letting top-heavy, bottom-heavy and diagonal forms stand out, and offers variant forms for particularly disruptive letters so designers can calibrate how much disruption they introduce."
+  },
+  {
+    "name": "Forma DJR Mono",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/forma-djr-mono",
+    "designer": "Ruggero Magrì, David Jonathan Ross",
+    "year": null,
+    "category": "mono",
+    "subcategory": "humanist monospace",
+    "classification_notes": "A monospaced sans derived from Nebiolo's 1968 Forma, itself a humanist grotesque. The monospace grid constrains proportions but the subtly rounded corners and tapered stems retain a humanist warmth.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Forma DJR Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "humanist",
+      "revival",
+      "nebiolo",
+      "midcentury",
+      "coding",
+      "tabular",
+      "variable"
+    ],
+    "summary": "A monospaced revival of Nebiolo's 1968 Forma, designed by Ruggero Magrì and David Jonathan Ross, retaining the original's subtly rounded corners and tapered stems within a fixed-width grid.",
+    "description": "Derived from DJR's proportionally-spaced Forma revival, the family adapts the warmth of Aldo Novarese's midcentury grotesque to the constraints of a monospace grid, where narrow letters must widen and wide letters must compress. Magrì's approach avoids both distressed typewriter pastiche and purely digital austerity, landing in territory suited to code, tables and secondary text within brand systems already using Forma. Sixteen styles run from Hairline to Black with matching italics, plus a variable font and special unserifed alternates for f and r.",
+    "foundry_blurb": "DJR describe Forma DJR Mono as bringing the warmth of Nebiolo's 1968 Forma to the cold, sterile world of monospace typography. Designed by Ruggero Magrì, it preserves the subtly rounded corners and tapered stems that Roger Black sought to keep when commissioning the original revival, while solving the proportional distortions inherent to fixed-width type. The family was conceived as a companion to Forma DJR for use in tables, code snippets and secondary text, covering the full weight range from Hairline to Black with italics throughout."
+  },
+  {
+    "name": "Indoor Kid",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/indoor-kid",
+    "designer": "David Jonathan Ross",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "comic lettering",
+    "classification_notes": "Designed explicitly to replicate the conventions of pre-digital comic book lettering, with variable width and weight axes and features specific to comics typesetting; sits firmly in the display category as a specialised lettering system rather than a general-purpose text face.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "variable width",
+      "variable weight",
+      "Emphasis axis"
+    ],
+    "subfamilies": [
+      "Indoor Kid"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "comic-lettering",
+      "variable",
+      "display",
+      "comics",
+      "lettering",
+      "collaborative",
+      "pre-digital"
+    ],
+    "summary": "A variable comic book lettering superfamily developed with comics writer Ellis Bojar, offering a wide range of widths, weights and a custom Emphasis axis for typesetting dialogue and captions.",
+    "description": "Built over nearly three years of research into pre-digital comic book letterers including Gail Beckett, Tom Orzechowski and Gaspar Saladino, Indoor Kid synthesises their approaches into a flexible variable font system rather than reviving any single hand. A custom Emphasis axis allows letterers to enlarge and vertically centre words within a text block in a single slider movement, solving a longstanding copyfit problem in digital comics production. Three character variants per letter add baseline bounce, and the glyph set includes manga-influenced symbols such as breath marks, stars and musical notes.",
+    "foundry_blurb": "DJR describes Indoor Kid as a variable-first comic book superfamily created in collaboration with comics writer, editor and publisher Ellis Bojar. The font is intended to give letterers the typographic flexibility of a workhorse sans, including wide width and weight ranges and a bespoke Emphasis axis, while remaining rooted in the pre-digital tradition of pen-and-ink comics lettering."
+  },
+  {
+    "name": "Forma DJR Arabic",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/forma-arabic",
+    "designer": "Khajag Apelian, Wael Morcos",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "A companion Arabic typeface to Forma DJR, itself a revival of Nebiolo's 1968 neo-grotesque. The Arabic inherits the Latin's rounded corners and tapered stems, placing it firmly in the neo-grotesque sans tradition adapted for Arabic script.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Micro",
+      "Text",
+      "Deck",
+      "Display",
+      "Banner"
+    ],
+    "subfamilies": [
+      "Forma DJR Arabic"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Arabic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "neo-grotesque",
+      "editorial",
+      "branding",
+      "optical-sizes",
+      "variable",
+      "multilingual",
+      "companion"
+    ],
+    "summary": "An Arabic companion to DJR's Forma revival, designed by Khajag Apelian and Wael Morcos with rounded corners and tapered stems that carry the Latin's inky character into the Arabic script.",
+    "description": "Designed to work alongside DJR's revival of Nebiolo's 1968 Forma, this Arabic family translates the Latin's defining details — rounded corners, slightly tapered stems — into solutions specific to Arabic letterforms, including contextual dot stacking, adjusted connecting strokes and angled vocalization marks for tight spacing. Five optical sizes run from Micro through to Banner, each calibrated for its intended setting, with spacing progressively relaxed as size decreases. The 25-style series includes a variable font spanning both weight and optical size axes, and each font contains Latin alongside Arabic.",
+    "foundry_blurb": "DJR describe Forma DJR Arabic as a typeface that evokes the warmth of the printed page, conceived for editorial and branding systems. Designed by Khajag Apelian and Wael Morcos, it inherits Forma DJR's round corners and tapered stems, carefully re-interpreted for the Arabic writing system to achieve the same tight, inky graphic quality across five optical sizes from Micro to Banner."
+  },
+  {
+    "name": "Fit Hebrew",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/fit-hebrew",
+    "designer": "Oded Ezer, David Jonathan Ross",
+    "year": null,
+    "category": "display",
+    "subcategory": "variable display",
+    "classification_notes": "An extreme variable display typeface designed to fill any given space to its maximum width, mixing block and cursive Hebrew forms analogously to the Latin's uppercase and lowercase mixing. Its sole purpose is spatial saturation in titling and poster contexts.",
+    "weights": [
+      "Skyline",
+      "Ultra Extended"
+    ],
+    "optical_sizes_or_widths": [
+      "Skyline",
+      "Ultra Extended"
+    ],
+    "subfamilies": [
+      "Fit Hebrew"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Hebrew"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "variable",
+      "hebrew",
+      "poster",
+      "titling",
+      "extreme-width",
+      "space-filling",
+      "bilingual"
+    ],
+    "summary": "A variable Hebrew display typeface co-designed by Oded Ezer and David Jonathan Ross, adapted from FIT's Latin to fill any space to its absolute maximum width.",
+    "description": "Adapted from Ross's Latin Fit, this Hebrew counterpart was drawn by Oded Ezer to reconcile Fit's rigid alternating curves-and-corners system with the squareness and directional logic of the Hebrew alphabet. Where the Latin mixes uppercase and lowercase to maximise space, Fit Hebrew alternates block and cursive forms to the same end, with individual letters capable of stretching to 3,600% of their base width. The result is a variable font with effectively infinite widths, built for titling and poster work where every millimetre of space is contested.",
+    "foundry_blurb": "Fit Hebrew is presented as a dynamic variable font with a single purpose: to fill space to its maximum. Oded Ezer adapted Ross's Latin Fit to the Hebrew alphabet, accounting for the squareness of its letterforms and the direction in which they open, applying Fit's alternating curves and corners system sensitively throughout. Just as the Latin mixes uppercase and lowercase to occupy more space, Fit Hebrew mixes block and cursive forms, pushing the alphabet to surprising extremes to create an unforgettable tool for titling and poster work."
+  },
+  {
+    "name": "Roslindale Cyrillic",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/roslindale-cyrillic",
+    "designer": "Jovana Jocić",
+    "year": null,
+    "category": "serif",
+    "subcategory": "oldstyle serif",
+    "classification_notes": "A Cyrillic extension of Roslindale, which builds on De Vinne, a quirky 1892 oldstyle serif. The design carries forward Roslindale's tension between sharp pointy serifs and bulbous round shapes into the Cyrillic script.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display Condensed"
+    ],
+    "subfamilies": [
+      "Roslindale Cyrillic"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "cyrillic",
+      "oldstyle",
+      "display",
+      "editorial",
+      "condensed",
+      "variable",
+      "multilingual",
+      "serif"
+    ],
+    "summary": "A Cyrillic extension of Roslindale drawn by Jovana Jocić, carrying the family's characteristic tension between sharp serifs and round forms into Russian, Bulgarian, Serbian and Ukrainian.",
+    "description": "Serbia-based type designer Jovana Jocić adapted DJR's Roslindale for the Cyrillic script, preserving the interplay of spiky serifs and bulbous curves that defines the Latin original. The family covers Text and Display Condensed optical styles, spans eight weights from Extra Light to Ultra with matching italics, and includes Bulgarian and Serbian alternates. Both Latin and Cyrillic scripts are included in a single package, with a variable font also available.",
+    "foundry_blurb": "DJR describes this as a Cyrillic expansion of Roslindale, noting that Jovana Jocić has taken the original's tension between sharps and rounds even further in her Cyrillic interpretation. Roslindale itself is rooted in the model of De Vinne, a quirky 1892 oldstyle, though it leans more towards 1970s interpretations of that style. The expansion includes Text and Display Condensed styles, upright and italic cuts, and Bulgarian and Serbian script alternates."
+  },
+  {
+    "name": "Forma DJR Cyrillic",
+    "foundry": "David Jonathan Ross",
+    "url": "https://djr.com/forma-cyrillic",
+    "designer": "Jovana Jocić",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A Cyrillic extension of a revival of Nebiolo's Forma, a modernist sans-serif with grotesque characteristics. The design adapts the original's tight spacing and approachable modernism to Cyrillic script conventions.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Micro",
+      "Text",
+      "Banner",
+      "Display"
+    ],
+    "subfamilies": [
+      "Forma DJR Cyrillic"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "cyrillic",
+      "revival",
+      "nebiolo",
+      "modernist",
+      "tight-spacing",
+      "variable"
+    ],
+    "summary": "A Cyrillic extension of the Forma DJR revival, drawn by Jovana Jocić to adapt Nebiolo's modernist sans to Russian, Bulgarian, Serbian and Ukrainian scripts.",
+    "description": "Serbia-based type designer Jovana Jocić drew the Cyrillic component as an extension of DJR and Roger Black's revival of Nebiolo's Forma, preserving the original's characteristically tight spacing and approachable modernism. The family spans five weights from Extra Light to Bold, each available across four optical sizes — Micro, Text, Banner and Display — with a variable font included. Existing Latin licensees can upgrade to the Cyrillic at no additional cost.",
+    "foundry_blurb": "DJR describes Forma DJR Cyrillic as the definitive revival of Nebiolo's classic sans now extended to Cyrillic, with Jovana Jocić adapting Forma's approachable modernism and super-tight spacing to the needs of the Cyrillic script across Extra Light, Light, Regular, Medium and Bold weights, including all size-specific variants and variable fonts."
+  }
+]

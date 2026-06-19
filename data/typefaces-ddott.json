@@ -1,0 +1,438 @@
+[
+  {
+    "name": "Auto Grotesk Cameo",
+    "foundry": "DDOTT",
+    "url": "https://ddott.net/font/auto-grotesk-cameo/",
+    "designer": "Dominik Thieme",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "wood type grotesque",
+    "classification_notes": "A display-weight grotesque derived from historic wood type production, specifically cameo (negative) type traditions, with two body-height variants echoing 19th-century letterpress practice.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Part",
+      "Full"
+    ],
+    "subfamilies": [
+      "Auto Grotesk Cameo Part",
+      "Auto Grotesk Cameo Full"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "wood-type",
+      "letterpress",
+      "cameo",
+      "display",
+      "ornamental",
+      "historical",
+      "grotesque",
+      "modular"
+    ],
+    "summary": "A two-style cameo (negative) display family by Dominik Thieme, derived from historic wood type production and offered in two body heights matching 19th-century Bauer'sche Giesserei practice.",
+    "description": "Auto Grotesk Cameo translates letterpress cameo type into digital form, with Part and Full variants corresponding to differing body heights as found in historical wood type catalogues. The family ships with a suite of adaptive ornaments and coded ligatures that automatically switch to the correct ornament piece, enabling modular, block-style compositions in the tradition of display jobbing work. With 899 glyphs and 20 OpenType features including nine stylistic sets, it carries significant technical depth for a two-style release.",
+    "foundry_blurb": "DDOTT describe Auto Grotesk Cameo as following historic wood type production in two body-height styles, referencing Bauer'sche Giesserei's approach. The family includes ornaments for expressive compositions, with coded ligatures that automatically select the correct ornament, and is presented as part of the broader Auto Grotesk family released in 2025 by Dominik Thieme."
+  },
+  {
+    "name": "Aether",
+    "foundry": "DDOTT",
+    "url": "https://ddott.net/font/aether/",
+    "designer": "Dominik Thieme",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Aether is a geometric sans-serif built on a modular spacing system derived from Linn Boyd Benton's 1883 Self-Spacing Type, producing a rational, grid-like rhythm. Its two stylistic variations (A and B) explore optical adjustment within a strictly parametric framework.",
+    "weights": [
+      "Regular",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Aether A",
+      "Aether B"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "parametric",
+      "modular",
+      "scientific",
+      "mathematical",
+      "editorial",
+      "rationalist"
+    ],
+    "summary": "A parametric geometric sans in two stylistic variants, built on a modular spacing system derived from Linn Boyd Benton's 1883 Self-Spacing Type invention.",
+    "description": "Designed by Dominik Thieme and released in 2024, Aether uses the /n stem interval to set a consistent rhythmic cadence across all characters, producing a cohesive spatial unity without optical irregularity. Two sub-families distinguish the approach: Aether A retains bold, uncompensated brackets and joints, while Aether B incorporates optical corrections for greater legibility. The family ships with 1,091 glyphs, 28 OpenType features including swash variants, discretionary ligatures and stylistic sets for fractions and encircled numerals, making it well suited to scientific publishing, data design and rationalist editorial work.",
+    "foundry_blurb": "DDOTT describe Aether as deriving from Linn Boyd Benton's 1883 Self-Spacing Type system, which used predetermined character widths to reduce justification time and later influenced Linotype technology. By anchoring spacing to fixed stem intervals, the design achieves harmonic proportions across the character set. Two stylistic variants — Aether A without optical adjustments and Aether B with them — highlight its parametric design logic, with alternate characters and a wide ligature set offering further versatility."
+  },
+  {
+    "name": "Auto Grotesk",
+    "foundry": "DDOTT",
+    "url": "https://ddott.net/font/auto-grotesk/",
+    "designer": "Dominik Thieme",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Rooted in pre-Akzidenz grotesque sources such as Cirkular Grotesk and Breite Fette Grotesk, Auto Grotesk sits firmly in the nineteenth-century grotesque tradition, distinguished by intentionally naïve irregularities and a variable pressure axis that mimics letterpress ink squash.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Auto Grotesk A",
+      "Auto Grotesk B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "letterpress",
+      "wood-type",
+      "variable",
+      "historical-reference",
+      "imperfection",
+      "print",
+      "tactile"
+    ],
+    "summary": "A grotesque designed by Dominik Thieme that draws on pre-Akzidenz sources and wood-type production to bring deliberate irregularity and a variable pressure axis to digital type.",
+    "description": "Conceived as a wood type for letterpress, the family references early nineteenth-century sans serifs including Bauer & Co.'s Cirkular Grotesk and Weisert's Breite Fette Grotesk, with each of the twelve styles drawn individually to preserve idiosyncratic rhythms. Two subfamilies, Auto Grotesk A and B, each offer six weights from Light to Extrabold, and variable axes of weight and pressure let designers control how much the letterforms appear to squish under ink. The mixing of rectangular and circular forms, combined with deliberately dialled-back optical corrections, gives the typeface a lively, unconventional cadence rarely found in contemporary grotesques.",
+    "foundry_blurb": "DDOTT describe Auto Grotesk as a bridge between the tactile liveliness of wooden letters and the precision of digital drawing, conceived as a wood type for letterpress and shaped through digital drawing, prototyping and laser-cutting. Rather than a faithful revival, it draws from multiple sources echoing early sans serifs that preceded Akzidenz Grotesk, with each style designed individually to preserve naïve irregularities. Variable axes of weight and pressure allow designers to tweak how the letters squish, carrying the spirit of the press into the screen."
+  },
+  {
+    "name": "Aether Mono",
+    "foundry": "DDOTT",
+    "url": "https://ddott.net/font/aether-mono/",
+    "designer": "Dominik Thieme",
+    "year": 2024,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "A fixed-width typeface built on a cadence-unit system ensuring consistent stem intervals, with geometric letterforms derived from predetermined character width logic inspired by 19th-century self-spacing type systems.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Aether A Mono",
+      "Aether B Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "scientific",
+      "technical",
+      "parametric",
+      "mathematical",
+      "space-age",
+      "modular"
+    ],
+    "summary": "A geometric monospaced family in two stylistic variants, derived from Linn Boyd Benton's 1883 self-spacing type system, with a cadence-unit structure that keeps stem intervals consistent within and between letters.",
+    "description": "Designed by Dominik Thieme and released in 2024, the family splits into Aether A Mono, which retains dark, unmodified brackets and joints, and Aether B Mono, which applies optical corrections for improved legibility. Both variants share 1074 glyphs, 28 OpenType features, swash alternates, and an extensive ligature set designed to harmonise spacing within monospaced columns. The parametric logic behind the spacing makes it well suited to scientific, mathematical and technical typesetting.",
+    "foundry_blurb": "DDOTT describe Aether Mono as a typeface that creates spatial unity by arranging letters into a harmonious pattern, derived from the invention of Self-Spacing Type, a system of predetermined character widths developed in 1883 by Linn Boyd Benton to reduce justification time. The family offers two stylistic variations: Aether A, without optical adjustments, for a bold, striking look, and Aether B, with optical adjustments for enhanced legibility. A wide range of ligatures and alternate characters extend the geometric system across diverse typographic applications."
+  },
+  {
+    "name": "Nouveau Grotesque",
+    "foundry": "DDOTT",
+    "url": "https://ddott.net/font/nouveau-grotesque/",
+    "designer": "Dominik Thieme",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Built on an early grotesque structure with Art Nouveau calligraphic details grafted onto terminals and counters, placing it firmly in the grotesque sans-serif tradition with expressive decorative overlays.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Nouveau Grotesque",
+      "Nouveau Grande"
+    ],
+    "subfamilies": [
+      "Nouveau Grotesque",
+      "Nouveau Grande"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "art-nouveau",
+      "calligraphic",
+      "editorial",
+      "branding",
+      "ornamental",
+      "expressive",
+      "ligatures"
+    ],
+    "summary": "An early grotesque redrawn with Art Nouveau calligraphic details, swashes and whiplash ornaments, released in five weights with true italics.",
+    "description": "Originally a corporate commission from 2017, Nouveau Grotesque has been fully redrawn with improved terminals and counters for legibility at text sizes. Five weights from Light to Bold each carry true italics, and a sister family, Nouveau Grande, adds a Black weight with higher contrast for display use. Thirty-five OpenType features include swashes, stylistic sets for individual letterforms, circled and boxed figures, and an extensive ligature set that introduces calligraphic rhythm into running text.",
+    "foundry_blurb": "DDOTT describe Nouveau Grotesque as a modern sans serif drawing on hand-drawn late 19th-century poster lettering, with playful floral details from Art Nouveau lettering applied to an early grotesque structure. Completely redrawn from its 2017 origins, the family now offers five weights plus a display companion, Nouveau Grande, and includes smart features such as contextual forms, case-sensitive alternates, small caps, and a wide selection of ligatures suited to branding and editorial work."
+  },
+  {
+    "name": "Nouveau Grande",
+    "foundry": "DDOTT",
+    "url": "https://ddott.net/font/nouveau-grande/",
+    "designer": "Dominik Thieme",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Rooted in early Grotesque letterforms, Nouveau Grande layers Art Nouveau calligraphic details, swashes and high contrast onto a sans-serif structure, placing it firmly in the grotesque tradition with decorative display characteristics.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Grande"
+    ],
+    "subfamilies": [
+      "Nouveau Grande",
+      "Nouveau Grotesque"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "art-nouveau",
+      "display",
+      "swash",
+      "editorial",
+      "branding",
+      "calligraphic",
+      "ornamental"
+    ],
+    "summary": "A display-grade grotesque drawing on Art Nouveau hand-lettering traditions, with high-contrast strokes, swashes and whiplash ornaments designed for headline use.",
+    "description": "Nouveau Grande is the high-contrast display companion to Nouveau Grotesque, sharing the same Art Nouveau-inflected grotesque foundation but adding pronounced stroke contrast, calligraphic swashes and ornamental forms suited to titles and branding. Twelve styles run across six weights from Light to Black, each with true italics, and the font ships with 29 OpenType features including swash alternates, ornaments, ligatures and small caps. Originally drawn as a corporate font in 2017, it was completely redrawn and expanded with this display variant.",
+    "foundry_blurb": "DDOTT describe Nouveau Grande as a modern sans serif inspired by hand-drawn posters of the late 19th century, grafting playful floral Art Nouveau details onto an early Grotesque skeleton. The display version introduces higher contrast, expressive swashes and whiplash ornaments drawn from calligraphy, while a broad set of alternates, ligatures and smart OpenType features give designers control over how much calligraphic character appears in the text."
+  },
+  {
+    "name": "Diverse B",
+    "foundry": "DDOTT",
+    "url": "https://ddott.net/font/diverse-b/",
+    "designer": "Dominik Thieme",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Diverse B is a humanist sans with subtle stroke contrast, rooted in the broad-nib pen tradition and inspired by early humanist designs such as Johnston and Gill Sans. It sits between the monolinear Diverse A and high-contrast Diverse C within a system grounded in Gerrit Noordzij's contrast theory.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Diverse A",
+      "Diverse B",
+      "Diverse C"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "calligraphic",
+      "contrast",
+      "variable",
+      "opentype",
+      "text",
+      "headline",
+      "pen-derived"
+    ],
+    "summary": "A humanist sans with subtle stroke contrast drawn from broad-nib pen logic, forming the middle member of a three-family system grounded in Gerrit Noordzij's theory of the stroke.",
+    "description": "Diverse B occupies the middle ground of the Diverse system by Dominik Thieme, offering a measured stroke contrast between the monolinear A and the high-contrast C. All three families share a common skeleton inspired by Johnston and Gill Sans, with spacing and kerning unified across the system so contrast levels can be switched between columns without layout disruption. Six weights from Light to Black with true italics are available, alongside an extensive OpenType feature set including small caps, sub- and superscripts, and geometric alternates that temper the calligraphic quality of the base forms.",
+    "foundry_blurb": "DDOTT describe Diverse B as part of a six-year project investigating increasing stroke contrast on a humanist sans serif. The three-family system — A, B and C — represents an exclusive section of Gerrit Noordzij's contrast model from The Stroke, produced with variable font technology and resulting in 36 fonts across three contrast levels, six weights, and true italics. Diverse B applies a subtle contrast imprint to a shared skeleton inspired by early humanist designs, and includes optical corrections for small sizes alongside an extended list of OpenType features."
+  },
+  {
+    "name": "Diverse C",
+    "foundry": "DDOTT",
+    "url": "https://ddott.net/font/diverse-c/",
+    "designer": "Dominik Thieme",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Diverse C is a humanist sans with high stroke contrast derived from broad-nib pen logic, grounded in Gerrit Noordzij's contrast model. Its skeleton draws from Johnston and Gill Sans, placing it firmly in the humanist sans tradition despite its calligraphic contrast levels.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Diverse A",
+      "Diverse B",
+      "Diverse C"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "high-contrast",
+      "calligraphic",
+      "variable",
+      "opentype",
+      "editorial",
+      "text",
+      "display"
+    ],
+    "summary": "A high-contrast humanist sans by Dominik Thieme, the third member of a three-family system built on Gerrit Noordzij's pen-stroke contrast theory.",
+    "description": "Diverse C applies the highest stroke contrast of the three Diverse families, all of which share a common skeleton rooted in early humanist designs like Johnston and Gill Sans. The contrast is shaped by broad-nib pen logic following Noordzij's model, and the family ships with 12 styles across six weights with true italics, plus over 33 OpenType features including small caps, sub- and superscripts, and geometric alternates. Optical corrections and shared spacing across all three contrast variants allow columns to be swapped between A, B and C without layout adjustment.",
+    "foundry_blurb": "Diverse C is the high-contrast member of a three-family system by Dominik Thieme, released in 2022 after six years of development. The system investigates increasing stroke contrast on a humanist sans skeleton inspired by Johnston and Gill Sans, structured around Gerrit Noordzij's model of contrast as described in The Stroke. Produced with variable font technology, the full Diverse collection amounts to 36 fonts across three contrast models, six weights and true italics, with an extended OpenType feature set and optical corrections for small-size legibility."
+  },
+  {
+    "name": "Diverse A",
+    "foundry": "DDOTT",
+    "url": "https://ddott.net/font/diverse/",
+    "designer": "Dominik Thieme",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Diverse A is a monolinear humanist sans with a skeleton derived from early humanist designs such as Johnston and Gill Sans, shaped by the broad-nib pen model. It is the first of three families exploring increasing stroke contrast across Gerrit Noordzij's contrast model.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Diverse A",
+      "Diverse B",
+      "Diverse C"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "calligraphic",
+      "variable",
+      "contrast",
+      "opentype",
+      "editorial",
+      "text",
+      "display"
+    ],
+    "summary": "A lively monolinear humanist sans by Dominik Thieme, grounded in Gerrit Noordzij's stroke theory and the skeletons of Johnston and Gill Sans.",
+    "description": "Diverse A is the monolinear entry in a three-family system that steps through increasing stroke contrast, all sharing identical spacing and kerning so families can be swapped within a layout without adjustment. Six weights run from Light to Black with true italics, totalling 12 styles, and an extended OpenType feature set offers geometric alternates that shift the calligraphic character of the letterforms. Six years in development, the project draws on Noordzij's broad-nib pen model to define how orientation determines stroke contrast across the three families.",
+    "foundry_blurb": "Diverse investigates increasing stroke contrast on a humanist sans serif across three families — A, B and C — representing an exclusive section of Gerrit Noordzij's model of contrast as set out in The Stroke. All families share the same skeleton, inspired by Johnston and Gill Sans, with each applying a different stroke imprint: Diverse A is a lively monolinear, B offers subtle contrast, and C presents high contrast. The system comprises 36 fonts produced with variable font technology, with 33 OpenType features including small caps and sub- and superscripts, and optical corrections for small-size legibility."
+  },
+  {
+    "name": "Diverse A",
+    "foundry": "DDOTT",
+    "url": "https://ddott.net/font/diverse-a/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "No page content was available; classified as display based on foundry context and naming conventions typical of DDOTT's catalogue.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Diverse A"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "ddott"
+    ],
+    "summary": "No page content was retrievable for this typeface due to a 404 error.",
+    "description": "The page returned a 404 error, so no details about weights, styles, designer or release year could be extracted. Information should be verified directly with DDOTT once the page is restored.",
+    "foundry_blurb": "No foundry copy was available as the page returned a 404 error."
+  }
+]
