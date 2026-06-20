@@ -6244,5 +6244,41 @@
     "summary": "A single-cut display typeface by Jean-Baptiste Morizot, released under the SIL Open Font License for free commercial and personal use.",
     "description": "A display typeface from Jean-Baptiste Morizot offered in one cut with no variable axis. Released under the SIL Open Font License 1.1, it is free to use in commercial and personal projects, with redistribution and modification permitted under additional conditions. The single-weight offering positions it as a headline or accent face rather than a workhorse family.",
     "foundry_blurb": "Uncut lists Trickster as a display typeface by Jean-Baptiste Morizot, available in one cut with no variable version. It is free to use in commercial and personal projects under the SIL Open Font License 1.1, which also permits modification and redistribution subject to certain conditions."
+  },
+  {
+    "name": "Outward",
+    "foundry": "Uncut",
+    "url": "https://uncut.wtf/display/outward/",
+    "designer": "Raoul Audouin",
+    "year": null,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "The foundry classifies this as Display; with only three cuts and no variable axis, it is positioned for headline and decorative use rather than text.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Outward"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "free",
+      "open-source",
+      "headline",
+      "decorative",
+      "commercial-use"
+    ],
+    "summary": "A three-cut display typeface by Raoul Audouin, released under the SIL Open Font License for free commercial and personal use.",
+    "description": "Outward is a display typeface by Raoul Audouin, offered in three cuts with no variable font axis. It is free to use in both commercial and personal projects under the SIL Open Font License 1.1, which permits modification and redistribution with some conditions. The family is positioned squarely at headline and decorative applications.",
+    "foundry_blurb": "Uncut lists Outward as a Display typeface by Raoul Audouin, available in three cuts and free to use commercially and personally under the SIL Open Font License 1.1, which allows commercial use, modification and redistribution."
   }
 ]
