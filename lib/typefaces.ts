@@ -144,6 +144,16 @@ import yeahrightType from "@/data/typefaces-yeahright-type.json";
 // Batch 11
 import brandonNickerson from "@/data/typefaces-brandon-nickerson.json";
 import rTypography from "@/data/typefaces-r-typography.json";
+// Batch 16
+import powerType from "@/data/typefaces-power-type.json";
+import sourceType from "@/data/typefaces-source-type.json";
+import outOfTheDark from "@/data/typefaces-out-of-the-dark.json";
+import nouvelleNoire from "@/data/typefaces-nouvelle-noire.json";
+import tokotype from "@/data/typefaces-tokotype.json";
+import typeDepartment from "@/data/typefaces-type-department.json";
+import tropicalType from "@/data/typefaces-tropical-type.json";
+import fontshare from "@/data/typefaces-fontshare.json";
+import uncut from "@/data/typefaces-uncut.json";
 // Batch 10
 import altTf from "@/data/typefaces-alt-tf.json";
 import blackFoundry from "@/data/typefaces-black-foundry.json";
@@ -425,6 +435,16 @@ export function getAllTypefaces(): Typeface[] {
         typeBy,
         typeForward,
         zetafonts,
+        // Batch 16
+        powerType,
+        sourceType,
+        outOfTheDark,
+        nouvelleNoire,
+        tokotype,
+        typeDepartment,
+        tropicalType,
+        fontshare,
+        uncut,
       ] as RawTypeface[][]
     )
       .flat()

@@ -196,6 +196,15 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Weekend Type", slug: "weekend-type", homepage: "https://weekendtype.xyz/", tier: "okay" },
   { name: "WiseType", slug: "wisetype", homepage: "https://wisetype.nl/", tier: "okay" },
   { name: "Yeahright Type", slug: "yeahright-type", homepage: "https://yeahrighttype.com/", tier: "okay" },
+  // Batch 16
+  { name: "Power Type", slug: "power-type", homepage: "https://power-type.com/", tier: "best" },
+  { name: "Source Type", slug: "source-type", homepage: "https://www.sourcetype.com/", tier: "best" },
+  { name: "Out of the Dark", slug: "out-of-the-dark", homepage: "https://www.outofthedark.swiss/", tier: "best" },
+  { name: "Nouvelle Noire", slug: "nouvelle-noire", homepage: "https://nouvellenoire.ch/", tier: "okay" },
+  { name: "Tokotype", slug: "tokotype", homepage: "https://www.tokotype.com/", tier: "okay" },
+  { name: "Type Department", slug: "type-department", homepage: "https://type-department.com/", tier: "okay" },
+  { name: "Tropical Type", slug: "tropical-type", homepage: "https://tropicaltype.com/", tier: "okay" },
+  { name: "Uncut", slug: "uncut", homepage: "https://uncut.wtf/", tier: "okay" },
 ];
 
 // Foundries confirmed unscrapable — JS-rendered, bot-blocked, or no listing page.
@@ -218,7 +227,7 @@ export const BLOCKED_FOUNDRIES: { domain: string; name: string; reason: string }
   { domain: "paratype.com", name: "Paratype", reason: "large catalogue, no structured listing page" },
   { domain: "colophon-foundry.org", name: "Colophon", reason: "JS-rendered, no crawlable listing" },
   { domain: "familytype.co", name: "Family Type", reason: "JS-rendered, no crawlable listing" },
-  { domain: "outofthedark.xyz", name: "Out of the Dark", reason: "JS-rendered, no crawlable listing" },
+  { domain: "contemporarytype.com", name: "Contemporary Type", reason: "reseller, JS-rendered listing with no crawlable font links" },
   { domain: "ott-foundry.com", name: "OTT Foundry", reason: "JS-rendered, no crawlable listing" },
   { domain: "vllg.com", name: "Village", reason: "React SPA, no crawlable listing" },
   { domain: "205.tf", name: "205TF", reason: "Next.js SPA, no crawlable listing" },

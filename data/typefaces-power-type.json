@@ -1,0 +1,427 @@
+[
+  {
+    "name": "Artific",
+    "foundry": "Power Type",
+    "url": "https://power-type.com/artific",
+    "designer": "Teguh Arief",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A clean, modern sans-serif with geometric sensibility, designed for UI and screen work, available as a variable font across nine weights with oblique companions.",
+    "weights": [
+      "Thin",
+      "Super Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Super Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Artific"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "variable",
+      "ui",
+      "screen",
+      "interface",
+      "clean",
+      "modern"
+    ],
+    "summary": "A geometric sans-serif variable font by Teguh Arief, spanning nine weights with oblique counterparts and targeting UI and screen design.",
+    "description": "Designed by Teguh Arief and released in September 2024, Artific runs from Thin to Black across nine weights, each paired with an oblique, totalling 18 static styles alongside a variable font with continuous weight and oblique axes. The glyph set is extensive, covering over 92 languages in Latin script plus a broad range of symbols, currency marks and UI-friendly icons. Its clean, upright construction suits interface work as readily as editorial or print contexts.",
+    "foundry_blurb": "Power Type describe Artific as a modern sans-serif designed to bring versatility and elegance to both online and offline media. They position it as ideal for contemporary interface and user experience design, citing its clean lines, comprehensive symbol set and 18-style range spanning nine weights with oblique variants."
+  },
+  {
+    "name": "Neue Power",
+    "foundry": "Power Type",
+    "url": "https://power-type.com/neue-power",
+    "designer": "Teguh Arief",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described by the foundry as following the grotesk typeface tradition, with a contemporary display orientation and clean upright structure across six weights.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Neue Power"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "display",
+      "variable",
+      "oblique",
+      "branding",
+      "latin-extended",
+      "contemporary"
+    ],
+    "summary": "A contemporary grotesque display family by Teguh Arief, offered in six weights with matching 12-degree obliques and variable font support.",
+    "description": "Designed by Teguh Arief and released in May 2022, the family runs from Light to Ultra with oblique counterparts across all six weights, totalling 12 static fonts alongside a variable axis. Coverage extends to 91 Latin-based languages, making it viable for multilingual branding and editorial work. Positioned across display and body text use cases, it follows grotesk conventions without strong stylistic differentiation.",
+    "foundry_blurb": "Power Type describe Neue Power as a contemporary sans serif display font family available in six weights plus 12-degree obliques, supporting 75+ Latin-based languages. They position it for branding, logotypes, posters, headlines and body text, and offer it in OTF, TTF, WOFF and WOFF2 formats including a variable font version."
+  },
+  {
+    "name": "Power Grotesk",
+    "foundry": "Power Type",
+    "url": "https://power-type.com/power-grotesk",
+    "designer": "Teguh Arief",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described as a sans serif with geometric shapes and medieval typographic influences, sitting within the grotesque tradition while incorporating contemporary details and slightly widened proportions.",
+    "weights": [
+      "Ultra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Ultra Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Power Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "variable",
+      "wide",
+      "multi-weight",
+      "latin-extended"
+    ],
+    "summary": "A slightly widened grotesque with ink-trap detailing across eight weights and a variable font axis, designed by Teguh Arief and released in 2021.",
+    "description": "Designed by Teguh Arief at Power Type, this sans serif draws on geometric structure and medieval typographic references to produce a grotesque with its own character across a broad weight range. The slightly widened proportions and ink-trapping features are intended to aid legibility and reproduction across different sizes and media. Available as both static fonts and a variable font, the family spans 16 styles covering upright and italic cuts from Ultra Light to Black.",
+    "foundry_blurb": "Power Type describe Power Grotesk as a sans serif with individual character from lightest to heaviest weight, slightly widened in proportion. The goal was legibility and strong black-and-white contrast across different sizes, with ink trapping built in to aid reading and reproduction. The design combines contemporary details with influences drawn from medieval typography and the broader history of modern type."
+  },
+  {
+    "name": "Yapari",
+    "foundry": "Power Type",
+    "url": "https://power-type.com/yapari",
+    "designer": "Teguh Arief",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Though categorised by the foundry as sans-serif and decorative, the street typography origins and strong width variation make it primarily a display face; the decorative and variable nature places it firmly in the display category.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Wide",
+      "Extended",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Yapari",
+      "Yapari Wide",
+      "Yapari Extended",
+      "Yapari Expanded"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "street-typography",
+      "variable",
+      "wide",
+      "extended",
+      "decorative",
+      "latin"
+    ],
+    "summary": "A display sans drawn from street lettering observed in Makassar, Indonesia, offered as a variable font across nine weights and four width variants.",
+    "description": "Designed by Teguh Arief and released in June 2022, the family spans 36 static fonts covering Thin through Ultra across Regular, Wide, Extended and Expanded widths. The street lettering source gives it a bold, informal character suited to display work, signage and graphic design projects where strong visual weight is needed. Variable font axes for weight and width allow fluid adjustment across the full range without switching between static files.",
+    "foundry_blurb": "Power Type describe Yapari as a font inspired by street typography found in Makassar City, Indonesia, with the hand-lettered source material translated into a font family featuring multiple width variations — Wide, Extended and Expanded — and nine weights from Thin to Ultra, suitable for bold design projects across formal and informal media."
+  },
+  {
+    "name": "Base Neue",
+    "foundry": "Power Type",
+    "url": "https://power-type.com/base-neue",
+    "designer": "Teguh Arief",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A clean, neutral sans-serif spanning an unusually wide range of widths and weights, characteristic of geometric or neo-grotesque workhorses designed for systematic, multi-context deployment.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Super Condensed",
+      "Condensed",
+      "Regular",
+      "Wide",
+      "Expanded",
+      "Super Expanded"
+    ],
+    "subfamilies": [
+      "Base Neue"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "variable",
+      "multi-width",
+      "geometric",
+      "neutral",
+      "workhorse",
+      "condensed",
+      "expanded"
+    ],
+    "summary": "A broad-coverage variable sans spanning nine weights and six widths, from Super Condensed to Super Expanded, with oblique companions throughout.",
+    "description": "Designed by Teguh Arief and released in January 2023, Base Neue offers 108 static styles alongside a variable font with weight, width and oblique axes. Each style carries 782 glyphs with support for over 95 languages across Latin-based scripts, plus alternate letters and ligatures. The range of widths makes it a practical choice for layouts requiring type to adapt across narrow columns and large-format display work within a single family.",
+    "foundry_blurb": "Power Type describe Base Neue as a reincarnation of basic typography for modern civilisation, offering variations suited to everything from very narrow media to extra-large publications. The family spans nine weights from Thin to Black and six widths from Super Condensed to Super Expanded, covering 108 styles with 782 glyphs per style and support for 97 or more languages."
+  },
+  {
+    "name": "OffBit",
+    "foundry": "Power Type",
+    "url": "https://power-type.com/offbit",
+    "designer": "Teguh Arief",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "bitmap/dot matrix",
+    "classification_notes": "OffBit is derived from bitmap typography, where letterforms are constructed from pixel-mapped arrays rendered as dots, rings, crosses and other geometric shapes. Its decorative, screen-referencing structure places it firmly in the display and experimental category.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "OffBit Regular",
+      "OffBit Dot",
+      "OffBit 101",
+      "OffBit Ring",
+      "OffBit Plus",
+      "OffBit Pixel",
+      "OffBit Point",
+      "OffBit Star",
+      "OffBit Up",
+      "OffBit Down",
+      "OffBit Right",
+      "OffBit Left",
+      "OffBit Cross",
+      "OffBit Bar",
+      "OffBit Line",
+      "OffBit Tilt",
+      "OffBit Stack"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "bitmap",
+      "dot-matrix",
+      "retro",
+      "pixel",
+      "display",
+      "decorative",
+      "gaming",
+      "experimental"
+    ],
+    "summary": "A bitmap-derived display family by Teguh Arief offering 17 stylistic variations, each replacing the standard pixel fill with shapes such as dots, rings, crosses and stars.",
+    "description": "Designed by Teguh Arief and released in September 2022, OffBit constructs its letterforms on a pixel-grid logic drawn from bitmap typography, then replaces each unit with one of 17 interchangeable fill styles including rings, plus signs, stars and directional arrows. The 2.0 update expanded the family to 34 fonts across two weights, with coverage extending to Latin Extended and Cyrillic scripts across 92 languages. It is suited to retro-digital aesthetics, gaming-inspired posters and experimental graphic work where the individual style variants can be freely mixed.",
+    "foundry_blurb": "Power Type describe OffBit as a font type derived from bitmap, featuring various variations in each box, expanded in the 2.0 release with more styles including Ring, Plus, Pixel, Point, Star, Up, Down, Left, Right, Cross, Bar, Line, Tilt and Stack. They position it for themes of computing, retro digital aesthetics, experimental visuals and gaming-inspired posters, with each style freely mixable and matchable."
+  },
+  {
+    "name": "Tips",
+    "foundry": "Power Type",
+    "url": "https://power-type.com/tips",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Page returned a 404 error; no typeface information was available to determine category or subcategory accurately. Defaulting to sans-serif grotesque as a placeholder.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tips"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "unknown"
+    ],
+    "summary": "No typeface data could be retrieved as the page returned a 404 error.",
+    "description": "The page at the provided URL returned a 404 error, meaning no information about this typeface was available. No weights, styles, designer credits or descriptions could be extracted. All fields reflect the absence of data rather than confirmed attributes.",
+    "foundry_blurb": "No foundry copy was available; the page returned a 404 error."
+  },
+  {
+    "name": "36DOPE",
+    "foundry": "Power Type",
+    "url": "https://power-type.com/36dope",
+    "designer": "Teguh Arief",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "experimental serif display",
+    "classification_notes": "Classified as display due to its unconventional, expressive serif construction intended solely for headlines and graphic work rather than running text. The serifs are deliberately non-traditional, making it an experimental variant rather than any classical serif category.",
+    "weights": [
+      "Super Light",
+      "Light",
+      "Regular",
+      "Bold",
+      "Super Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "36DOPE"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "experimental",
+      "serif",
+      "variable",
+      "headline",
+      "bold",
+      "expressive",
+      "graphic-design"
+    ],
+    "summary": "An experimental display serif with unconventional construction, released by Teguh Arief in June 2023 as part of the 36 Days of Type event.",
+    "description": "Designed around the 36 Days of Type 2023 challenge, the typeface features five weights from Super Light to Super Bold, available as a variable font. The serifs deviate deliberately from classical forms, giving each letterform an angular, expressive quality suited to short-form headline work. Coverage extends across 91 or more Latin-based languages via broad diacritic support.",
+    "foundry_blurb": "Power Type describe 36DOPE as a display typeface with an experimental serif design, created for their '36DaysOfPower' theme within the 2023 '36DaysOfType' event. They highlight its unique and unconventional serifs as a reflection of the creative and powerful spirit of the event, positioning it for bold headlines, titles and graphic design projects that require a strong, experimental aesthetic."
+  },
+  {
+    "name": "Power Display",
+    "foundry": "Power Type",
+    "url": "https://power-type.com/power-display",
+    "designer": "Teguh Arief",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "decorative display",
+    "classification_notes": "Explicitly categorised by the foundry as Decorative/Display; the funk-influenced letterforms with three width variants and obliques place it firmly in the expressive display category rather than any text-type tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Regular",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Power Display Condensed",
+      "Power Display",
+      "Power Display Expanded"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "decorative",
+      "funk",
+      "variable",
+      "branding",
+      "logotype",
+      "vintage",
+      "packaging"
+    ],
+    "summary": "A funk-inflected display typeface by Teguh Arief available as a variable font across three widths and six weights, aimed at branding, logotype and packaging work.",
+    "description": "Designed by Teguh Arief and released in April 2022, the family spans Condensed, Regular and Expanded widths, each running from Light to Heavy, with oblique companions, totalling 18 styles. The foundry frames it as a blend of funk and modern aesthetics, suited to both vintage-leaning and contemporary design contexts. Available in OTF, TTF, WOFF and WOFF2 formats with support for over 92 Latin-script languages.",
+    "foundry_blurb": "Power Type describe Power Display as a playful font inspired by a combination of funk and modern style, available in three widths (Condensed, Normal, Expanded) and six weights plus obliques. They position it as versatile for modern and vintage designs, and easy to pair with graphic elements such as illustration and photography, with recommended uses including logotype, branding, titles and packaging."
+  }
+]

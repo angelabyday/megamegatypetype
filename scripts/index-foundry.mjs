@@ -2437,6 +2437,284 @@ const FOUNDRIES = [
       } catch { return false; }
     },
   },
+  // ---- Batch 16 ----
+  // Family Type (familytype.co) skipped: SPA with no URL routing per typeface.
+  // DKType already indexed in Batch 9.
+  {
+    name: "Power Type",
+    slug: "power-type",
+    homepage: "https://power-type.com/",
+    listingUrl: "https://power-type.com/",
+    tier: "best",
+    scrollCount: 30,
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("power-type.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        const POWER_SKIP = new Set(["articles", "font-in-use", "privacy-policy", "cookie-policy", "eula", "font-license", "type-school"]);
+        return parts.length === 1 && !NON_TYPEFACE_SLUGS.has(parts[0]) && !POWER_SKIP.has(parts[0]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Source Type",
+    slug: "source-type",
+    homepage: "https://www.sourcetype.com/",
+    listingUrl: "https://www.sourcetype.com/typefaces",
+    tier: "best",
+    scrollCount: 30,
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("sourcetype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 3 && parts[0] === "typefaces" && /^\d+$/.test(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Out of the Dark",
+    slug: "out-of-the-dark",
+    homepage: "https://www.outofthedark.swiss/",
+    listingUrl: "https://www.outofthedark.swiss/",
+    tier: "best",
+    // Site homepage links only to specimen PDFs, not HTML typeface pages.
+    // Typeface pages exist at /{lowercase-name} — enumerated from PDF hrefs.
+    staticUrls: [
+      "https://www.outofthedark.swiss/atak",
+      "https://www.outofthedark.swiss/blitz",
+      "https://www.outofthedark.swiss/copy",
+      "https://www.outofthedark.swiss/cosplay",
+      "https://www.outofthedark.swiss/crack",
+      "https://www.outofthedark.swiss/gaya",
+      "https://www.outofthedark.swiss/gza",
+      "https://www.outofthedark.swiss/hammer",
+      "https://www.outofthedark.swiss/handwerk",
+      "https://www.outofthedark.swiss/monoform",
+      "https://www.outofthedark.swiss/plakat",
+      "https://www.outofthedark.swiss/play-extra",
+      "https://www.outofthedark.swiss/protokoll",
+      "https://www.outofthedark.swiss/quick",
+      "https://www.outofthedark.swiss/rauschen-a",
+      "https://www.outofthedark.swiss/rauschen-b",
+      "https://www.outofthedark.swiss/rauschen-max",
+      "https://www.outofthedark.swiss/raw",
+      "https://www.outofthedark.swiss/remix-a",
+      "https://www.outofthedark.swiss/remix-b",
+      "https://www.outofthedark.swiss/resonanz-a",
+      "https://www.outofthedark.swiss/resonanz-b",
+      "https://www.outofthedark.swiss/rza",
+      "https://www.outofthedark.swiss/solow",
+      "https://www.outofthedark.swiss/subsans",
+      "https://www.outofthedark.swiss/syncro",
+      "https://www.outofthedark.swiss/toy",
+    ],
+  },
+  {
+    name: "Nouvelle Noire",
+    slug: "nouvelle-noire",
+    homepage: "https://nouvellenoire.ch/",
+    listingUrl: "https://nouvellenoire.ch/type-collection/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("nouvellenoire.ch")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "product" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Tokotype",
+    slug: "tokotype",
+    homepage: "https://www.tokotype.com/",
+    listingUrl: "https://www.tokotype.com/fonts",
+    tier: "okay",
+    // /fonts listing only exposes /purchase subpaths for most fonts; use staticUrls.
+    staticUrls: [
+      "https://www.tokotype.com/fonts/sinar-grotesk",
+      "https://www.tokotype.com/fonts/fonetika",
+      "https://www.tokotype.com/fonts/gramatika",
+      "https://www.tokotype.com/fonts/aksen",
+      "https://www.tokotype.com/fonts/makro",
+      "https://www.tokotype.com/fonts/frasa",
+      "https://www.tokotype.com/fonts/leksikal-sans",
+      "https://www.tokotype.com/fonts/maleo",
+      "https://www.tokotype.com/fonts/nomina",
+    ],
+  },
+  {
+    name: "Type Department",
+    slug: "type-department",
+    homepage: "https://type-department.com/",
+    listingUrl: "https://type-department.com/collections/browse-all-fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("type-department.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Tropical Type",
+    slug: "tropical-type",
+    homepage: "https://tropicaltype.com/",
+    listingUrl: "https://tropicaltype.com/collections/all",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("tropicaltype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Contemporary Type",
+    slug: "contemporary-type",
+    homepage: "https://contemporarytype.com/",
+    listingUrl: "https://contemporarytype.com/fonts",
+    tier: "okay",
+  },
+  {
+    name: "Fontshare",
+    slug: "fontshare",
+    homepage: "https://www.fontshare.com/",
+    listingUrl: "https://www.fontshare.com/fonts",
+    tier: "okay",
+    // Listing page uses React SPA — fonts don't appear as <a> tags.
+    // Full font list from public API: api.fontshare.com/v2/fonts?limit=200
+    staticUrls: [
+      "https://www.fontshare.com/fonts/satoshi",
+      "https://www.fontshare.com/fonts/clash-display",
+      "https://www.fontshare.com/fonts/general-sans",
+      "https://www.fontshare.com/fonts/cabinet-grotesk",
+      "https://www.fontshare.com/fonts/ranade",
+      "https://www.fontshare.com/fonts/chillax",
+      "https://www.fontshare.com/fonts/clash-grotesk",
+      "https://www.fontshare.com/fonts/switzer",
+      "https://www.fontshare.com/fonts/panchang",
+      "https://www.fontshare.com/fonts/stardom",
+      "https://www.fontshare.com/fonts/zodiak",
+      "https://www.fontshare.com/fonts/sentient",
+      "https://www.fontshare.com/fonts/supreme",
+      "https://www.fontshare.com/fonts/boska",
+      "https://www.fontshare.com/fonts/author",
+      "https://www.fontshare.com/fonts/telma",
+      "https://www.fontshare.com/fonts/bespoke-serif",
+      "https://www.fontshare.com/fonts/gambetta",
+      "https://www.fontshare.com/fonts/tanker",
+      "https://www.fontshare.com/fonts/excon",
+      "https://www.fontshare.com/fonts/gambarino",
+      "https://www.fontshare.com/fonts/neco",
+      "https://www.fontshare.com/fonts/alpino",
+      "https://www.fontshare.com/fonts/quilon",
+      "https://www.fontshare.com/fonts/pally",
+      "https://www.fontshare.com/fonts/bespoke-sans",
+      "https://www.fontshare.com/fonts/erode",
+      "https://www.fontshare.com/fonts/pencerio",
+      "https://www.fontshare.com/fonts/nippo",
+      "https://www.fontshare.com/fonts/sharpie",
+      "https://www.fontshare.com/fonts/pramukh-rounded",
+      "https://www.fontshare.com/fonts/plein",
+      "https://www.fontshare.com/fonts/bespoke-stencil",
+      "https://www.fontshare.com/fonts/amulya",
+      "https://www.fontshare.com/fonts/bevellier",
+      "https://www.fontshare.com/fonts/synonym",
+      "https://www.fontshare.com/fonts/bonny",
+      "https://www.fontshare.com/fonts/comico",
+      "https://www.fontshare.com/fonts/rowan",
+      "https://www.fontshare.com/fonts/aktura",
+      "https://www.fontshare.com/fonts/technor",
+      "https://www.fontshare.com/fonts/bespoke-slab",
+      "https://www.fontshare.com/fonts/britney",
+      "https://www.fontshare.com/fonts/array",
+      "https://www.fontshare.com/fonts/styro",
+      "https://www.fontshare.com/fonts/recia",
+      "https://www.fontshare.com/fonts/melodrama",
+      "https://www.fontshare.com/fonts/rosaline",
+      "https://www.fontshare.com/fonts/hoover",
+      "https://www.fontshare.com/fonts/trench-slab",
+      "https://www.fontshare.com/fonts/chubbo",
+      "https://www.fontshare.com/fonts/boxing",
+      "https://www.fontshare.com/fonts/kola",
+      "https://www.fontshare.com/fonts/rx-100",
+      "https://www.fontshare.com/fonts/paquito",
+      "https://www.fontshare.com/fonts/zina",
+      "https://www.fontshare.com/fonts/tabular",
+      "https://www.fontshare.com/fonts/expose",
+      "https://www.fontshare.com/fonts/segment",
+      "https://www.fontshare.com/fonts/kihim",
+      "https://www.fontshare.com/fonts/pilcrow-rounded",
+      "https://www.fontshare.com/fonts/striper",
+      "https://www.fontshare.com/fonts/new-title",
+      "https://www.fontshare.com/fonts/kohinoor-zerone",
+      "https://www.fontshare.com/fonts/nunito",
+      "https://www.fontshare.com/fonts/anton",
+      "https://www.fontshare.com/fonts/poppins",
+      "https://www.fontshare.com/fonts/khand",
+      "https://www.fontshare.com/fonts/lora",
+      "https://www.fontshare.com/fonts/asap",
+      "https://www.fontshare.com/fonts/quicksand",
+      "https://www.fontshare.com/fonts/crimson-pro",
+      "https://www.fontshare.com/fonts/literata",
+      "https://www.fontshare.com/fonts/sora",
+      "https://www.fontshare.com/fonts/space-grotesk",
+      "https://www.fontshare.com/fonts/azeret-mono",
+      "https://www.fontshare.com/fonts/rajdhani",
+      "https://www.fontshare.com/fonts/hind",
+      "https://www.fontshare.com/fonts/roundo",
+      "https://www.fontshare.com/fonts/teko",
+      "https://www.fontshare.com/fonts/dancing-script",
+      "https://www.fontshare.com/fonts/plus-jakarta-sans",
+      "https://www.fontshare.com/fonts/kalam",
+      "https://www.fontshare.com/fonts/merriweather-sans",
+      "https://www.fontshare.com/fonts/red-hat-display",
+      "https://www.fontshare.com/fonts/jet-brains-mono",
+      "https://www.fontshare.com/fonts/fira-sans",
+      "https://www.fontshare.com/fonts/oswald",
+      "https://www.fontshare.com/fonts/outfit",
+      "https://www.fontshare.com/fonts/work-sans",
+      "https://www.fontshare.com/fonts/public-sans",
+      "https://www.fontshare.com/fonts/karma",
+      "https://www.fontshare.com/fonts/familjen-grotesk",
+      "https://www.fontshare.com/fonts/manrope",
+      "https://www.fontshare.com/fonts/spline-sans",
+      "https://www.fontshare.com/fonts/archivo",
+      "https://www.fontshare.com/fonts/bebas-neue",
+      "https://www.fontshare.com/fonts/montserrat",
+      "https://www.fontshare.com/fonts/epilogue",
+      "https://www.fontshare.com/fonts/beVietnam-pro",
+    ],
+  },
+  {
+    name: "Uncut",
+    slug: "uncut",
+    homepage: "https://uncut.wtf/",
+    listingUrl: "https://uncut.wtf/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("uncut.wtf")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        const CATS = new Set(["sans-serif", "serif", "monospace", "display", "slab"]);
+        return parts.length === 2 && CATS.has(parts[0]) && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
 ];
 
 // ---- URL filter ----
@@ -2652,6 +2930,9 @@ async function loadPage(page, url) {
 }
 
 async function extractTypefaceUrls(page, foundry) {
+  // staticUrls: bypass listing-page scrape entirely.
+  if (foundry.staticUrls) return foundry.staticUrls;
+
   const filter = foundry.filterFn ?? makeTypefaceFilter(foundry.listingUrl);
   const scrollCount = foundry.scrollCount ?? 20;
   await loadPage(page, foundry.listingUrl);
