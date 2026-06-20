@@ -179,7 +179,7 @@ function loadTypefaces() {
   return files.flatMap((f) => JSON.parse(readFileSync(join(dataDir, f), "utf8"))).map((t) => ({
     name: t.name,
     url: t.url,
-    foundrySlug: FOUNDRY_SLUGS[t.foundry],
+    foundrySlug: FOUNDRY_SLUGS[t.foundry] ?? slugify(t.foundry),
     slug: slugify(t.name),
   }));
 }
