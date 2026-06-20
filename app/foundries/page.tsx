@@ -19,15 +19,13 @@ export default function FoundriesPage() {
   }, {});
 
   const sorted = [...FOUNDRIES].sort((a, b) => a.name.localeCompare(b.name));
+  const indexed = sorted.filter((f) => (countByFoundry[f.slug] ?? 0) > 0);
+  const notIndexed = sorted.filter((f) => (countByFoundry[f.slug] ?? 0) === 0);
 
-  return (
-    <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6">
-      <h1 className="text-3xl font-bold">Foundries</h1>
-      <p className="mt-1 text-muted-foreground">
-        {sorted.length} foundries in the directory
-      </p>
-      <div className="mt-6 grid grid-cols-2 gap-2 sm:grid-cols-3 xl:grid-cols-4">
-        {sorted.map((foundry) => {
+  function FoundryGrid({ foundries }: { foundries: typeof sorted }) {
+    return (
+      <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 xl:grid-cols-4">
+        {foundries.map((foundry) => {
           const hasImage = existsSync(
             join(process.cwd(), "public", "foundry-images", `${foundry.slug}.webp`)
           );
@@ -65,6 +63,31 @@ export default function FoundriesPage() {
           );
         })}
       </div>
+    );
+  }
+
+  return (
+    <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6">
+      <h1 className="text-3xl font-bold">Foundries</h1>
+      <p className="mt-1 text-muted-foreground">
+        {sorted.length} foundries in the directory
+      </p>
+
+      <section className="mt-8">
+        <h2 className="mb-4 text-lg font-semibold">
+          Indexed{" "}
+          <span className="font-normal text-muted-foreground">— {indexed.length} foundries</span>
+        </h2>
+        <FoundryGrid foundries={indexed} />
+      </section>
+
+      <section className="mt-12">
+        <h2 className="mb-4 text-lg font-semibold">
+          Not yet indexed{" "}
+          <span className="font-normal text-muted-foreground">— {notIndexed.length} foundries</span>
+        </h2>
+        <FoundryGrid foundries={notIndexed} />
+      </section>
     </div>
   );
 }
