@@ -778,7 +778,7 @@ const FOUNDRIES = [
     homepage: "https://www.hvdfonts.com/",
     listingUrl: "https://www.hvdfonts.com/fonts",
     tier: "okay",
-    specimenMinY: 600,
+    specimenMinY: 1500,
     filterFn: (href) => {
       try {
         const u = new URL(href);
@@ -2699,6 +2699,22 @@ const FOUNDRIES = [
       "https://www.fontshare.com/fonts/beVietnam-pro",
     ],
   },
+  // ---- Batch 17 ----
+  {
+    name: "Tofu Type",
+    slug: "tofu-type",
+    homepage: "https://tofutype.ca/",
+    listingUrl: "https://tofutype.ca/",
+    tier: "best",
+    staticUrls: [
+      "https://tofutype.ca/meiros/",
+      "https://tofutype.ca/demur/",
+      "https://tofutype.ca/renwick/",
+      "https://tofutype.ca/mosko/",
+      "https://tofutype.ca/ice-tray/",
+      "https://tofutype.ca/for-the-record/",
+    ],
+  },
   {
     name: "Uncut",
     slug: "uncut",
@@ -2886,6 +2902,12 @@ async function fetchSpecimenFromPage(page, foundrySlug, typefaceSlug, { specimen
   if (existsSync(out)) return "cached";
 
   const SKIP = /logo|icon|avatar|placeholder|sprite|flag|badge/i;
+
+  // Scroll to trigger lazy-loading of below-fold content before scanning
+  if (specimenMinY > 0) {
+    await page.evaluate((y) => window.scrollTo(0, y), specimenMinY);
+    await page.waitForTimeout(800);
+  }
 
   // 1. Largest landscape <img> (optionally filtered by page Y position)
   const imgSrc = await page.evaluate(([skip, minY]) => {

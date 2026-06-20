@@ -1,0 +1,241 @@
+[
+  {
+    "name": "Renwick",
+    "foundry": "Tofu Type",
+    "url": "https://tofutype.ca/renwick/",
+    "designer": "Reese Lee",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Explicitly classified as a humanist sans in the British tradition, drawing on Johnston Sans, Gill Sans and Granby as direct references with calligraphic influence in the lowercase.",
+    "weights": [
+      "XLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Renwick"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "humanist",
+      "british",
+      "body-text",
+      "calligraphic",
+      "small-caps",
+      "johnston-lineage",
+      "gill-sans-lineage",
+      "readable"
+    ],
+    "summary": "A British humanist sans by Reese Lee, drawn in the tradition of Johnston Sans and Gill Sans and optimised for body copy at small sizes.",
+    "description": "Renwick takes its cues from British humanist sans serifs of the 1920s, citing Johnston Sans, Gill Sans and Granby as its touchstones. Open apertures, calligraphic lowercase forms and generous letterspacing make it well-suited to sustained reading at 9pt, and a full set of OpenType small caps supports novel and long-form typesetting. Language support covers over 200 Latin-script languages including Vietnamese and Greenlandic. The family is currently undergoing a full redesign, with the original release remaining available in the interim.",
+    "foundry_blurb": "Tofu Type describe Renwick as a humanist sans optimised for body copy at 9pt, inspired by British humanist sans serifs of the 1920s such as Johnston Sans, Gill Sans and Granby. They highlight its open apertures, calligraphic lowercase and generous letterspacing as key reading comfort features, alongside broad language support spanning over 200 languages and a complete set of OpenType small caps for novel typesetting."
+  },
+  {
+    "name": "Meiros",
+    "foundry": "Tofu Type",
+    "url": "https://tofutype.ca/meiros/",
+    "designer": "Reese Lee",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Classified by the foundry as Sans, display; the extreme stroke contrast, Art Deco inspiration, geometric construction and all-caps orientation place it firmly in the display category rather than functional text sans.",
+    "weights": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Meiros"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "high-contrast",
+      "art-deco",
+      "all-caps",
+      "cyrillic",
+      "decorative"
+    ],
+    "summary": "A super high-contrast, all-caps geometric display typeface from Tofu Type, drawn with Art Deco sensibility and exaggerated hairline-to-stem contrast cuts.",
+    "description": "Designed by Reese Lee as a deliberate stylistic inversion of their humanist work on Renwick, Meiros pushes stroke contrast to an extreme and introduces a cut through each heavy section to balance visual weight and create directional rhythm. The Art Deco movement and the BioShock game series served as primary references, lending the design a theatrical, period-inflected character. Three weight variants cover Latin and Cyrillic scripts, with fifteen stylistic sets offering alternate forms including angled S, serifed I, Bulgarian Cyrillic variants and a hollow zero.",
+    "foundry_blurb": "Tofu Type describe Meiros as a super high-contrast geometric typeface born from the urge to design something completely opposite to their humanist work. The extreme contrast required cutting through each heavy section to balance the heavy darks against the hairlines, a move that also introduced directional rhythm to the letterforms. Inspired by Art Deco geometry and the BioShock game series, Meiros launched in June 2025 with three styles and Latin and Cyrillic script support."
+  },
+  {
+    "name": "Demur",
+    "foundry": "Tofu Type",
+    "url": "https://tofutype.ca/demur/",
+    "designer": "Reese Lee",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "constructivist sans",
+    "classification_notes": "Classified by the foundry as a constructivist sans; features modular construction, condensed proportions and tall x-height consistent with early Soviet-era geometric lettering traditions.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Demur"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "constructivist",
+      "condensed",
+      "modular",
+      "political",
+      "display",
+      "zine",
+      "protest"
+    ],
+    "summary": "A single-weight condensed sans by Reese Lee, commissioned by the Winnipeg 1919 Workers Collective and rooted in constructivist lettering traditions.",
+    "description": "Designed by Reese Lee for the Winnipeg 1919 Workers Collective, Demur grew from the collective's existing logo into a full typeface. Modular construction gives the letterforms a consistent internal rhythm, while condensed proportions and tight spacing make it feel most at home in headlines, posters and zine layouts. Latin and Cyrillic coverage, alongside stylistic sets for Bulgarian and Serbian forms, extends its reach across scripts with political heritage in constructivist typography.",
+    "foundry_blurb": "Tofu Type describe Demur as a sans inspired by social issues and constructivist aesthetics, commissioned by the Winnipeg 1919 Workers Collective to expand their logo into a full typeface. The condensed proportions and tight spacing are intended to evoke letters packed together like a crowd of marching protesters, and the foundry recommends using it at medium to large sizes where emphasis is needed, such as headlines in grassroots zine publications."
+  },
+  {
+    "name": "Ice Tray",
+    "foundry": "Tofu Type",
+    "url": "https://tofutype.ca/ice-tray/",
+    "designer": "Reese Lee",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "pixel display",
+    "classification_notes": "Classified by the foundry as Display and pixel; built on a rigid grid with diagonal emphasis and connected construction, placing it firmly in the geometric pixel-display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ice Tray"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "pixel",
+      "grid-based",
+      "geometric",
+      "expressive",
+      "experimental",
+      "connected"
+    ],
+    "summary": "A grid-aligned pixel display face by Reese Lee, drawing its construction from the ice bridges formed in ice cube trays.",
+    "description": "Built on a strict grid with diagonal emphasis and connected letterforms, Ice Tray takes its formal logic from the frozen water bridges of ice cube trays. The three-style family is designed purely for display use, with deliberately unorthodox letterforms kept in check by rigid grid alignment. A generous set of stylistic sets covers alternate single and double storey letters, art deco variants and simplified forms, giving the face considerable flexibility within its eccentric framework.",
+    "foundry_blurb": "Tofu Type describe Ice Tray as a grid-based display face inspired by the freezing of water and the frozen water bridges formed in ice cube trays, designed for display use and composed from wild, unorthodox letterforms set on a rigid grid."
+  },
+  {
+    "name": "For the Record",
+    "foundry": "Tofu Type",
+    "url": "https://tofutype.ca/for-the-record/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "The page does not describe a typeface; it documents a personal music ranking project. No typographic classification is possible from the available content.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "For the Record"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "personal",
+      "editorial"
+    ],
+    "summary": "The page at this URL does not describe a typeface but a personal annual music listening log maintained by the Tofu Type designer.",
+    "description": "The page presents a year-by-year record of albums listened to during the design process, organised as themed annual lists from 2019 onwards. Each list is described as a time capsule of listening tastes at year end, with no retrospective editing permitted. No typeface product, specimen or typographic information is present on this page.",
+    "foundry_blurb": "Tofu Type describes For the Record as a personal project cataloguing albums listened to each calendar year, with each annual list given a short theme title and accompanied by a Spotify playlist and PDF. The premise prohibits editing previous years' rankings, resulting in what they call some embarrassing retrospective discoveries."
+  },
+  {
+    "name": "Mosko",
+    "foundry": "Tofu Type",
+    "url": "https://tofutype.ca/mosko/",
+    "designer": "Reese Lee",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "stencil display",
+    "classification_notes": "A single-weight all-caps stencil display typeface with heavy, chunky construction and no lowercase, explicitly designed for large-scale display use with a strong graphic character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mosko"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "display",
+      "all-caps",
+      "political",
+      "berlin",
+      "cold-war",
+      "heavy",
+      "german"
+    ],
+    "summary": "A single-weight all-caps stencil display typeface by Reese Lee, drawn from Cold War Berlin's graphic culture and built for large-scale, assertive use.",
+    "description": "Designed by Reese Lee and released in May 2023, Mosko takes its name as an anagram of a Soviet-era Berlin restaurant called KOSMOS. The glyphs are bisected down their vertical centreline, a structural metaphor for the Berlin Wall's division of the city, with letterforms sharing component parts across the alphabet. There is no lowercase by design: the typeface is intended for shouting, not conversation, making it well suited to posters, signage and protest graphics.",
+    "foundry_blurb": "Tofu Type describe Mosko as inspired by the political division of East and West Berlin during the Cold War. The design references a restaurant logo from the Soviet occupation era, and the entire typeface is divided down its centre as an allusion to the Berlin Wall. Glyphs share construction pieces out of necessity rather than formula, echoing the resourcefulness of revolutionaries, and the absence of lowercase is a deliberate choice: Mosko is meant to be screamed into the world."
+  }
+]

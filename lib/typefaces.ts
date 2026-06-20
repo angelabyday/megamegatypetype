@@ -144,6 +144,8 @@ import yeahrightType from "@/data/typefaces-yeahright-type.json";
 // Batch 11
 import brandonNickerson from "@/data/typefaces-brandon-nickerson.json";
 import rTypography from "@/data/typefaces-r-typography.json";
+// Batch 17
+import tofuType from "@/data/typefaces-tofu-type.json";
 // Batch 16
 import powerType from "@/data/typefaces-power-type.json";
 import sourceType from "@/data/typefaces-source-type.json";
@@ -435,6 +437,8 @@ export function getAllTypefaces(): Typeface[] {
         typeBy,
         typeForward,
         zetafonts,
+        // Batch 17
+        tofuType,
         // Batch 16
         powerType,
         sourceType,

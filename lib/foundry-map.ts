@@ -205,6 +205,8 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Type Department", slug: "type-department", homepage: "https://type-department.com/", tier: "okay" },
   { name: "Tropical Type", slug: "tropical-type", homepage: "https://tropicaltype.com/", tier: "okay" },
   { name: "Uncut", slug: "uncut", homepage: "https://uncut.wtf/", tier: "okay" },
+  // Batch 17
+  { name: "Tofu Type", slug: "tofu-type", homepage: "https://tofutype.ca/", tier: "best" },
 ];
 
 // Foundries confirmed unscrapable — JS-rendered, bot-blocked, or no listing page.
