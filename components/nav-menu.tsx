@@ -55,7 +55,7 @@ export function NavMenu() {
 
       {/* Mobile menu overlay */}
       {open && (
-        <div className="fixed inset-x-0 top-[var(--header-height,56px)] bottom-0 z-40 sm:hidden">
+        <div className="fixed inset-x-0 top-20 bottom-0 z-40 sm:hidden">
           <div className="absolute inset-0 bg-black/40" onClick={() => setOpen(false)} />
           <div className="absolute inset-x-0 top-0 bg-background border-b border-border shadow-lg">
             <nav className="flex flex-col divide-y divide-border">

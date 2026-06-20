@@ -5,7 +5,7 @@ import { BackToTop } from "@/components/back-to-top";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://megamegatypetype.vercel.app"),
+  metadataBase: new URL("https://www.megamegatypetype.xyz"),
   title: {
     default: "MegaMegaTypeType",
     template: "%s · MegaMegaTypeType",
@@ -38,7 +38,7 @@ export default function RootLayout({
         <script dangerouslySetInnerHTML={{__html: `(function(){var s=localStorage.getItem('theme'),d=window.matchMedia('(prefers-color-scheme:dark)').matches;if(s==='dark'||(s===null&&d))document.documentElement.classList.add('dark');})()`}} />
       </head>
       <body className="min-h-full flex flex-col bg-background text-foreground overflow-x-hidden">
-        <header className="border-b-[0.5px] border-border">
+        <header className="sticky top-0 z-30 bg-background border-b-[0.5px] border-border">
           <div className="mx-auto flex items-center justify-between px-4 pt-3 pb-2 sm:px-6">
             <Link href="/" className="text-lg font-bold tracking-tight">
               *MegaMegaTypeType*
