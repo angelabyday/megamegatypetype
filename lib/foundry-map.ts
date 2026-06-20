@@ -206,6 +206,12 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Tropical Type", slug: "tropical-type", homepage: "https://tropicaltype.com/", tier: "okay" },
   { name: "Uncut", slug: "uncut", homepage: "https://uncut.wtf/", tier: "okay" },
   // Batch 17
+  { name: "Approximate Type", slug: "approximate-type", homepage: "https://approxtype.com/", tier: "okay" },
+  { name: "Superior Type", slug: "superior-type", homepage: "https://superiortype.com/", tier: "okay" },
+  { name: "type.today", slug: "type-today", homepage: "https://type.today/en", tier: "okay" },
+  { name: "Wabi Sabi Type", slug: "wabi-sabi-type", homepage: "https://wabisabitypeshop.com/", tier: "okay" },
+  { name: "JP Flexner", slug: "jp-flexner", homepage: "https://www.jpflexner.com/", tier: "okay" },
+  { name: "The Temporary State", slug: "the-temporary-state", homepage: "https://type.tmpstate.net/", tier: "okay" },
   { name: "Tofu Type", slug: "tofu-type", homepage: "https://tofutype.ca/", tier: "best" },
 ];
 

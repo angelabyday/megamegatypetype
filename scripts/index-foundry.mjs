@@ -2701,6 +2701,108 @@ const FOUNDRIES = [
   },
   // ---- Batch 17 ----
   {
+    name: "Approximate Type",
+    slug: "approximate-type",
+    homepage: "https://approxtype.com/",
+    listingUrl: "https://www.approxtype.com/typefaces",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("approxtype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Superior Type",
+    slug: "superior-type",
+    homepage: "https://superiortype.com/",
+    listingUrl: "https://superiortype.com/fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("superiortype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "type.today",
+    slug: "type-today",
+    homepage: "https://type.today/en",
+    listingUrl: "https://type.today/en",
+    tier: "okay",
+    scrollCount: 40,
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("type.today")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        const TYPE_TODAY_SKIP = new Set(["about", "cart", "faq", "journal", "license", "rules", "ru", "en"]);
+        return parts.length === 2 && parts[0] === "en" && !TYPE_TODAY_SKIP.has(parts[1]) && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Wabi Sabi Type",
+    slug: "wabi-sabi-type",
+    homepage: "https://wabisabitypeshop.com/",
+    listingUrl: "https://wabisabitypeshop.com/collections/fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("wabisabitypeshop.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "JP Flexner",
+    slug: "jp-flexner",
+    homepage: "https://www.jpflexner.com/",
+    listingUrl: "https://www.jpflexner.com/fonts-1",
+    tier: "okay",
+    staticUrls: [
+      "https://www.jpflexner.com/blackbird-roman-1",
+      "https://www.jpflexner.com/blackbird-script-1",
+      "https://www.jpflexner.com/fairmount-gothic-round",
+      "https://www.jpflexner.com/fairmount-gothic-sharp",
+      "https://www.jpflexner.com/ncbc-condensed",
+      "https://www.jpflexner.com/ncbc-display",
+      "https://www.jpflexner.com/trusty-serif-medium",
+      "https://www.jpflexner.com/trusty-serif-tall",
+      "https://www.jpflexner.com/trusty-serif-wide",
+    ],
+  },
+  {
+    name: "The Temporary State",
+    slug: "the-temporary-state",
+    homepage: "https://type.tmpstate.net/",
+    listingUrl: "https://type.tmpstate.net/",
+    tier: "okay",
+    staticUrls: [
+      "https://type.tmpstate.net/shop/fyl",
+      "https://type.tmpstate.net/shop/gramatika",
+      "https://type.tmpstate.net/shop/kommuna",
+      "https://type.tmpstate.net/shop/literatura",
+      "https://type.tmpstate.net/shop/manege",
+      "https://type.tmpstate.net/shop/panama",
+      "https://type.tmpstate.net/shop/soyuz-grotesk",
+      "https://type.tmpstate.net/shop/steinbeck",
+      "https://type.tmpstate.net/shop/wremena",
+    ],
+  },
+  {
     name: "Tofu Type",
     slug: "tofu-type",
     homepage: "https://tofutype.ca/",

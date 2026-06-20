@@ -52,10 +52,15 @@ export default function RootLayout({
         <main className="flex-1">{children}</main>
         <BackToTop />
         <footer className="border-t-[0.5px] border-border">
-          <div className="mx-auto px-4 py-4 text-xs text-muted-foreground sm:px-6">
-            Typeface data drawn from each foundry&apos;s own catalogue. All
-            typefaces belong to their foundries. Not affiliated with any of
-            them.
+          <div className="mx-auto px-4 py-4 text-xs text-muted-foreground sm:px-6 flex items-center justify-between gap-4">
+            <span>
+              Typeface data drawn from each foundry&apos;s own catalogue. All
+              typefaces belong to their foundries. Not affiliated with any of
+              them.
+            </span>
+            <Link href="/takedown" className="shrink-0 underline underline-offset-2 hover:text-foreground transition-colors">
+              Takedown
+            </Link>
           </div>
         </footer>
       </body>
