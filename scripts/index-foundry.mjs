@@ -778,6 +778,7 @@ const FOUNDRIES = [
     homepage: "https://www.hvdfonts.com/",
     listingUrl: "https://www.hvdfonts.com/fonts",
     tier: "okay",
+    specimenMinY: 600,
     filterFn: (href) => {
       try {
         const u = new URL(href);
@@ -2880,28 +2881,30 @@ async function saveSpecimen(buffer, foundrySlug, typefaceSlug, position = "centr
 }
 
 // Uses the already-loaded page (saves a second HTTP round-trip).
-async function fetchSpecimenFromPage(page, foundrySlug, typefaceSlug) {
+async function fetchSpecimenFromPage(page, foundrySlug, typefaceSlug, { specimenMinY = 0 } = {}) {
   const out = specimenPath(foundrySlug, typefaceSlug);
   if (existsSync(out)) return "cached";
 
   const SKIP = /logo|icon|avatar|placeholder|sprite|flag|badge/i;
 
-  // 1. Largest landscape <img>
-  const imgSrc = await page.evaluate((skip) => {
+  // 1. Largest landscape <img> (optionally filtered by page Y position)
+  const imgSrc = await page.evaluate(([skip, minY]) => {
     const SKIP_RE = new RegExp(skip);
     const candidates = [...document.querySelectorAll("img")].map((el) => ({
       src: el.currentSrc || el.src,
       w: el.naturalWidth,
       h: el.naturalHeight,
+      y: el.getBoundingClientRect().top + window.scrollY,
     })).filter((c) =>
       c.src &&
       !c.src.startsWith("data:") &&
       !/\.svg(\?|$)/i.test(c.src) &&
       !SKIP_RE.test(c.src) &&
-      c.w >= 400 && c.h >= 150 && c.w / c.h >= 1.2
+      c.w >= 400 && c.h >= 150 && c.w / c.h >= 1.2 &&
+      c.y >= minY
     ).sort((a, b) => b.w * b.h - a.w * a.h);
     return candidates[0]?.src ?? null;
-  }, SKIP.source);
+  }, [SKIP.source, specimenMinY]);
 
   if (imgSrc) {
     try {
@@ -2912,6 +2915,10 @@ async function fetchSpecimenFromPage(page, foundrySlug, typefaceSlug) {
   }
 
   // 2. Screenshot fallback (og:image intentionally skipped — foundries share site-wide og images)
+  if (specimenMinY > 0) {
+    await page.evaluate((y) => window.scrollTo(0, y), specimenMinY);
+    await page.waitForTimeout(400);
+  }
   const buf = await page.screenshot({ type: "png" });
   await saveSpecimen(buf, foundrySlug, typefaceSlug, "top");
   return "screenshot";
@@ -3006,6 +3013,7 @@ async function generateEntry(client, foundry, url, content) {
 async function main() {
   const argv = process.argv.slice(2);
   const dryRun = argv.includes("--dry-run");
+  const specimensOnly = argv.includes("--specimens-only");
 
   const foundryArgs = [];
   for (let i = 0; i < argv.length; i++) {
@@ -3076,6 +3084,34 @@ async function main() {
       // Use listing page for URL extraction only, then close it
       await page.close();
 
+      // --specimens-only: re-fetch specimens for already-indexed entries without re-generating data
+      if (specimensOnly) {
+        console.log(`Specimens-only: re-fetching ${existing.length} specimens`);
+        for (let i = 0; i < existing.length; i += CONCURRENCY) {
+          const batch = existing.slice(i, i + CONCURRENCY);
+          await Promise.all(batch.map(async (entry) => {
+            const typefaceSlug = slugify(entry.name);
+            const specimenPage = await ctx.newPage();
+            process.stdout.write(`  ${typefaceSlug} ... `);
+            try {
+              await loadPage(specimenPage, entry.url);
+              const specimenResult = await fetchSpecimenFromPage(specimenPage, foundry.slug, typefaceSlug, { specimenMinY: foundry.specimenMinY ?? 0 });
+              const manifest = existsSync(MANIFEST_PATH)
+                ? JSON.parse(readFileSync(MANIFEST_PATH, "utf8"))
+                : {};
+              manifest[`${foundry.slug}/${typefaceSlug}`] = true;
+              writeFileSync(MANIFEST_PATH, JSON.stringify(manifest) + "\n");
+              console.log(`✓ ${entry.name} [specimen: ${specimenResult}]`);
+            } catch (err) {
+              console.log(`✗ ${entry.name}: ${err.message.slice(0, 80)}`);
+            } finally {
+              await specimenPage.close();
+            }
+          }));
+        }
+        continue;
+      }
+
       const urlsToProcess = urls.filter((u) => !indexed.has(u));
 
       if (indexed.size > 0) {
@@ -3099,7 +3135,7 @@ async function main() {
               writeFileSync(outPath, JSON.stringify(entries, null, 2) + "\n");
               const typefaceSlug = slugify(entry.name);
               try {
-                const specimenResult = await fetchSpecimenFromPage(batchPage, foundry.slug, typefaceSlug);
+                const specimenResult = await fetchSpecimenFromPage(batchPage, foundry.slug, typefaceSlug, { specimenMinY: foundry.specimenMinY ?? 0 });
                 console.log(`✓ ${entry.name} [specimen: ${specimenResult}]`);
                 const manifest = existsSync(MANIFEST_PATH)
                   ? JSON.parse(readFileSync(MANIFEST_PATH, "utf8"))
