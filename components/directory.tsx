@@ -218,7 +218,7 @@ export function Directory({
 
         <CollapsibleSection label="Pricing" collapsible={false}>
           <div className="flex rounded-full border-[0.5px] border-border overflow-hidden text-xs">
-            {(["all", "free", "paid"] as const).map((p) => (
+            {(["all", "paid", "free"] as const).map((p) => (
               <button
                 key={p}
                 onClick={() => setPricing(p)}
