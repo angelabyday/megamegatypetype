@@ -17,15 +17,25 @@ export default function FoundriesPage() {
     return acc;
   }, {});
 
+  const firstSpecimenByFoundry = typefaces.reduce<Record<string, string>>((acc, t) => {
+    if (!acc[t.foundrySlug]) acc[t.foundrySlug] = t.slug;
+    return acc;
+  }, {});
+
   const sorted = [...FOUNDRIES]
     .sort((a, b) => a.name.localeCompare(b.name))
-    .map((f) => ({
-      slug: f.slug,
-      name: f.name,
-      homepage: f.homepage,
-      hasImage: existsSync(join(process.cwd(), "public", "foundry-images", `${f.slug}.webp`)),
-      count: countByFoundry[f.slug] ?? 0,
-    }));
+    .map((f) => {
+      const hasImage = existsSync(join(process.cwd(), "public", "foundry-images", `${f.slug}.webp`));
+      const firstSpecimen = firstSpecimenByFoundry[f.slug] ?? null;
+      return {
+        slug: f.slug,
+        name: f.name,
+        homepage: f.homepage,
+        hasImage,
+        firstSpecimen,
+        count: countByFoundry[f.slug] ?? 0,
+      };
+    });
 
   const indexed = sorted.filter((f) => f.count > 0);
   const notIndexed = sorted.filter((f) => f.count === 0);

@@ -9,22 +9,29 @@ export type FoundryEntry = {
   name: string;
   homepage: string;
   hasImage: boolean;
+  firstSpecimen: string | null;
   count: number;
 };
 
 function FoundryGrid({ foundries }: { foundries: FoundryEntry[] }) {
   return (
     <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 xl:grid-cols-4">
-      {foundries.map((foundry) => (
+      {foundries.map((foundry) => {
+        const imageSrc = foundry.hasImage
+          ? `/foundry-images/${foundry.slug}.webp`
+          : foundry.firstSpecimen
+          ? `/specimens/${foundry.slug}/${foundry.firstSpecimen}.webp`
+          : null;
+        return (
         <Link
           key={foundry.slug}
           href={`/foundry/${foundry.slug}`}
           className="group relative overflow-hidden rounded-[12px] border-[0.5px] border-border hover:border-foreground/30 transition-colors"
         >
-          {foundry.hasImage ? (
+          {imageSrc ? (
             <div className="relative aspect-[16/10] w-full overflow-hidden bg-muted">
               <Image
-                src={`/foundry-images/${foundry.slug}.webp`}
+                src={imageSrc}
                 alt={foundry.name}
                 fill
                 sizes="(min-width: 1280px) 25vw, (min-width: 640px) 33vw, 50vw"
@@ -47,7 +54,8 @@ function FoundryGrid({ foundries }: { foundries: FoundryEntry[] }) {
             )}
           </div>
         </Link>
-      ))}
+        );
+      })}
     </div>
   );
 }
