@@ -68,34 +68,53 @@ export function FoundriesToggle({
   notIndexed: FoundryEntry[];
 }) {
   const [tab, setTab] = useState<"indexed" | "not-indexed">("indexed");
+  const [query, setQuery] = useState("");
+
+  const active = tab === "indexed" ? indexed : notIndexed;
+  const filtered = query.trim()
+    ? active.filter((f) => f.name.toLowerCase().includes(query.toLowerCase()))
+    : active;
 
   return (
     <div>
-      <div className="mt-6 flex gap-1 rounded-full bg-muted p-1 w-fit">
-        <button
-          onClick={() => setTab("indexed")}
-          className={`rounded-full px-4 py-1.5 text-sm font-medium transition-colors ${
-            tab === "indexed"
-              ? "bg-foreground text-background"
-              : "text-muted-foreground hover:text-foreground"
-          }`}
-        >
-          Indexed <span className="ml-1 opacity-60">{indexed.length}</span>
-        </button>
-        <button
-          onClick={() => setTab("not-indexed")}
-          className={`rounded-full px-4 py-1.5 text-sm font-medium transition-colors ${
-            tab === "not-indexed"
-              ? "bg-foreground text-background"
-              : "text-muted-foreground hover:text-foreground"
-          }`}
-        >
-          Not yet indexed <span className="ml-1 opacity-60">{notIndexed.length}</span>
-        </button>
+      <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+        <div className="flex gap-1 rounded-full bg-muted p-1 w-fit">
+          <button
+            onClick={() => setTab("indexed")}
+            className={`rounded-full px-4 py-1.5 text-sm font-medium transition-colors ${
+              tab === "indexed"
+                ? "bg-foreground text-background"
+                : "text-muted-foreground hover:text-foreground"
+            }`}
+          >
+            Indexed <span className="ml-1 opacity-60">{indexed.length}</span>
+          </button>
+          <button
+            onClick={() => setTab("not-indexed")}
+            className={`rounded-full px-4 py-1.5 text-sm font-medium transition-colors ${
+              tab === "not-indexed"
+                ? "bg-foreground text-background"
+                : "text-muted-foreground hover:text-foreground"
+            }`}
+          >
+            Not yet indexed <span className="ml-1 opacity-60">{notIndexed.length}</span>
+          </button>
+        </div>
+        <input
+          type="search"
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          placeholder="Search foundries…"
+          className="h-9 w-full sm:w-56 rounded-full border-[0.5px] border-border bg-background px-4 text-sm outline-none placeholder:text-muted-foreground focus:border-foreground/40"
+        />
       </div>
 
       <div className="mt-6">
-        <FoundryGrid foundries={tab === "indexed" ? indexed : notIndexed} />
+        {filtered.length === 0 ? (
+          <p className="text-sm text-muted-foreground">No foundries match &ldquo;{query}&rdquo;.</p>
+        ) : (
+          <FoundryGrid foundries={filtered} />
+        )}
       </div>
     </div>
   );
