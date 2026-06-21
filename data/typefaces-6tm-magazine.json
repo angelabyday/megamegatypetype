@@ -1,0 +1,972 @@
+[
+  {
+    "name": "TPM Typeface",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/tpm-typeface",
+    "designer": "Sara Barcons",
+    "year": null,
+    "category": "display",
+    "subcategory": "dot matrix",
+    "classification_notes": "Built on a 5×7 dot grid with three variable axes controlling dot size, spacing and slant, placing it firmly in the dot matrix display tradition and the broader display category.",
+    "weights": [
+      "Light",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Extended"
+    ],
+    "subfamilies": [
+      "TPM Typeface"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "dot-matrix",
+      "variable",
+      "display",
+      "experimental",
+      "branding",
+      "digital",
+      "condensed",
+      "extended"
+    ],
+    "summary": "A three-axis variable display typeface by Sara Barcons, built on a 5×7 dot grid with axes mapping weight, width and slant to typographic expression.",
+    "description": "Designed by Sara Barcons, TPM (Types per Minute) originates from an experimental research project in which each variable axis represented a vital sign from a pulse oximetry sensor: dot weight for body temperature, horizontal spacing for oxygen saturation, and slant for heart rate. The typeface comprises eight static styles across light and bold weights in condensed and extended widths, each with italics, plus a variable font covering the full three-axis range. The dot matrix aesthetic makes it well suited to branding, packaging and screen work where a technological or data-driven character is appropriate.",
+    "foundry_blurb": "6TM Magazine describe TPM as a three-axis display variable typeface inspired by early technology displays and based on a 5×7 dot array. The weight axis controls dot size, the width axis adjusts horizontal spacing, and the slant axis tilts the matrix up to 30 degrees. The project emerged from experimental research using a pulse oximetry sensor to represent vital signs in real-time through the variable axes, creating a dual layer of information where letterforms carry data and language carries meaning."
+  },
+  {
+    "name": "403 Mesapholic",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/403-mesapholic",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast serif",
+    "classification_notes": "High-contrast sharp serifs in the upright style with a calligraphic, flowing italic that departs substantially from the roman, placing it in the high-contrast serif category with display characteristics.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "403 Mesapholic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "editorial",
+      "calligraphic",
+      "craft",
+      "packaging",
+      "display",
+      "artisanal",
+      "branding"
+    ],
+    "summary": "A two-style display serif with a structured roman and a markedly calligraphic italic, aimed at craft and specialty brand packaging.",
+    "description": "The upright style carries high contrast and sharp serifs for an editorial, authoritative tone, while the italic departs entirely from the roman into a flowing, calligraphic form intended to read as a personal signature. The duality makes it well suited to logotypes, menus and packaging where a brand wants to alternate between formal confidence and handcrafted warmth. The 501-glyph set includes ligatures, alternates, three numeral sets and extended punctuation.",
+    "foundry_blurb": "403 Mesapholic is described by 403TF as a system of two complementary personalities: a high-contrast, razor-sharp Regular for structure and sophistication, and an expressive, fluid Italic that acts as a calligraphic counterpart rather than a simple slant. The foundry positions it as ideal for third-wave coffee roasters, craft distilleries, boutique bakeries and similar artisan brands, particularly for packaging, logotypes and headline use."
+  },
+  {
+    "name": "403 Sparco",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/403-sparco",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "industrial display",
+    "classification_notes": "Wide, boxy letterforms with explicit brutalist and industrial utility references place this firmly in display; the Bleed variant's ink-bleed texture and Slant styles confirm it is designed purely for high-impact headline use rather than text setting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "403 Sparco"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "industrial",
+      "brutalist",
+      "gorpcore",
+      "techwear",
+      "wide",
+      "textured",
+      "headline"
+    ],
+    "summary": "A wide, boxy display typeface in four styles spanning clean machine-cut forms and roughened ink-bleed variants, aimed at techwear, outdoor and brutalist branding.",
+    "description": "Four styles cover Regular, Slant, Bleed and Bleed Slant, the latter two simulating heavy ink bleed on nylon or weathered signage while the Slant variants add a sense of forward momentum. The letterforms are deliberately wide and structured, suited to oversized headline settings, race bibs, apparel labels and underground event flyers. Each style ships with 769 glyphs including five numeral sets, ligatures, alternates and broad diacritic coverage across 341 languages.",
+    "foundry_blurb": "403TF describe 403 Sparco as a heavy-duty display typeface bridging clean digital precision and raw physical grit, rooted in industrial utility and high-performance outdoor gear. The Regular style offers a crisp machine-cut aesthetic, while the Bleed version introduces organic roughness resembling ink bleeding on tactical nylon. With wide, confident and unapologetically boxy proportions, they position it for techwear labels, gorpcore branding, extreme sports apparel and brutalist visual identities."
+  },
+  {
+    "name": "Structur Typeface",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/structur-typeface",
+    "designer": "Jules Rousseau",
+    "year": null,
+    "category": "display",
+    "subcategory": "hybrid display",
+    "classification_notes": "A display typeface blending uncial letterforms with cyberpunk and industrial aesthetics; its mix of straight technical lines and rounded curves places it firmly in the display category rather than any classical type genre.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Structur Typeface"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "uncial",
+      "cyberpunk",
+      "industrial",
+      "tech-noir",
+      "neo-medieval",
+      "brutalist",
+      "experimental"
+    ],
+    "summary": "A single-weight display face by Jules Rousseau that fuses uncial manuscript forms with a cyberpunk industrial aesthetic.",
+    "description": "Straight technical lines meet rounded, fluid curves throughout the 379-glyph character set, producing what the designer calls a mechanical yet neo-medieval hybrid. The Latin European coverage, including diacritics and ligatures, makes it workable across European branding and editorial projects. It sits squarely in high-impact display territory: logos, poster work, underground music identities, and futuristic interface graphics.",
+    "foundry_blurb": "6TM Magazine describe Structur as a typeface that blends uncial and cyberpunk influences, built for a hyper-technological world. They position it for futuristic interface HUDs, experimental posters, and underground music visual identities, citing its 379-glyph set and broad Latin European language support as suited to global branding projects requiring a tech-noir or neo-medieval edge."
+  },
+  {
+    "name": "HV Kanda",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/hv-kanda-typeface",
+    "designer": "hvnter",
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "A bold, uppercase-only display sans with wide proportions and geometric character, designed explicitly for large-scale, high-impact applications rather than extended text setting.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "HV Kanda"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "bold",
+      "geometric",
+      "branding",
+      "poster",
+      "fashion",
+      "uppercase",
+      "expressive"
+    ],
+    "summary": "A single-weight, uppercase display sans by hvnter, built for large-scale branding and poster work with wide proportions and geometric curves.",
+    "description": "With only 59 glyphs covering uppercase letters, numerals, punctuation and a handful of alternates, HV Kanda is a narrow-purpose display typeface aimed squarely at fashion branding, album covers and social media graphics. Its slightly wide proportions and strong curves give it a confident rhythm at headline sizes, though the limited character set makes it unsuitable for anything beyond short bursts of text. Available in OTF for commercial use, with WOFF and WOFF2 included in the extended licence.",
+    "foundry_blurb": "HV Kanda is described by the foundry as a bold sans serif built for instant impact, with slightly wide proportions, strong curves and a confident rhythm. Designed for modern and expressive branding, it is said to balance geometric precision with playful character, making it suited to fashion branding, album covers, posters, packaging, social media and contemporary logos."
+  },
+  {
+    "name": "Ultra Mono Typeface",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/ultra-mono-typeface",
+    "designer": "Maxime Thill",
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "Classified as display due to its experimental constraint-driven design where uppercase and lowercase share identical height, producing a graphic, texture-like typographic surface rather than conventional text use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ultra Mono Typeface"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "experimental",
+      "variable",
+      "condensed",
+      "editorial",
+      "poster",
+      "contemporary",
+      "graphic"
+    ],
+    "summary": "A variable display typeface by Maxime Thill built on a single structural rule: uppercase and lowercase characters share identical height, eliminating traditional ascenders and descenders.",
+    "description": "By forcing all characters to the same vertical measure, Ultra Mono produces dense, compressed text blocks where descenders fold back into the baseline and diacritics sit flush against their letters. The typeface ships as a variable font with adjustable height and slant axes, spanning from a rigid upright to more dynamic angled compositions, with a condensed variant that permits very tight leading. Suited to editorial design, posters and experimental visual identities where typographic density doubles as surface texture.",
+    "foundry_blurb": "Ultra Mono is described by 6TM Magazine as an experimental display typeface built around a bold typographic constraint: a unified vertical structure where uppercase and lowercase characters share the exact same height. The removal of traditional capital and ascender distinctions creates a dense, compressed rhythm with a contemporary presence. As a variable font with height and slant axes, it supports layouts ranging from rigid and controlled to dynamic and expressive, with a condensed structure enabling extremely tight leading."
+  },
+  {
+    "name": "Inkbleed Light Font",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/inkbleed-light-font",
+    "designer": "Jeremy Traun",
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental grotesque",
+    "classification_notes": "Rooted in grotesque sans-serif logic but heavily distorted through an ink-bleed graphic system, softened edges, and connective ligatures that push it firmly into display/experimental territory.",
+    "weights": [
+      "Light"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Inkbleed Light Font"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "experimental",
+      "grotesque",
+      "geometric",
+      "ligatures",
+      "identity",
+      "disruption"
+    ],
+    "summary": "A single-weight experimental display face by Jeremy Traun that translates the visual effect of ink bleed into a codified graphic system of softened edges and connective ligatures.",
+    "description": "Built on grotesque sans-serif geometry, Inkbleed Light introduces controlled disruption through rounded terminals, circular alternates, and ligatures that bind numerals, arrows and symbols into continuous typographic forms. A repositioned baseline asterisk signals its intent to challenge conventional typographic hierarchy rather than simply decorate it. The face is listed for inclusion in the Yearbook of Type 2026 and is aimed at bold brand identities where visual friction is the point.",
+    "foundry_blurb": "6TM Magazine describe Inkbleed Light as an experimental display font that brings geometric clarity into tension with controlled disruption, inspired by grotesque sans-serif logic and translating ink bleed into a graphic system of softened edges, circular alternates, and connective ligatures. Numerals, arrows and symbols merge into continuous typographic forms, while a repositioned baseline asterisk challenges default hierarchies."
+  },
+  {
+    "name": "dclt Typeface",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/dclt-typeface",
+    "designer": "Guillaume Santial",
+    "year": null,
+    "category": "display",
+    "subcategory": "pixel display",
+    "classification_notes": "A variable pixel display typeface built around strict pixel grids; its four styles (dot, chip, line, tape) span compact square pixels to wide flat strokes, firmly placing it in the display/pixel category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "dclt dot",
+      "dclt chip",
+      "dclt line",
+      "dclt tape"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "pixel",
+      "variable",
+      "display",
+      "glitch",
+      "experimental",
+      "poster",
+      "motion",
+      "branding"
+    ],
+    "summary": "A variable pixel display typeface in four distinct styles, from dense dot grids to tall narrow tape bars, built for experimental and glitch-influenced work.",
+    "description": "Four styles, dot, chip, line and tape, each bring a different visual rhythm ranging from compact square pixels to wide flat strokes and stretched vertical bars. Variable technology gives designers flexibility across layouts, and the family is explicitly designed to be pushed beyond conventional use: stacked, outlined, glitched or distorted. With 305 glyphs including diacritics, alternates and mathematical symbols, it covers the practical needs of posters, album artwork, motion design and digital interfaces.",
+    "foundry_blurb": "6TM Magazine describe dclt as a variable pixel display typeface whose four styles move between strict pixel grids and more expressive forms. Designed by Guillaume Santial to be misused, it is positioned for experimental and contemporary design projects that embrace glitch aesthetics and bold visual identity, including posters, branding, album artwork and motion design."
+  },
+  {
+    "name": "GEO Typeface",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/geo-typeface",
+    "designer": "Lena Weber",
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "GEO is a display typeface with heavily textured, stone-like letterforms built for high-impact use at large sizes; its extreme visual complexity and geological inspiration place it firmly in the experimental display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "GEO Typeface"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "textured",
+      "geological",
+      "organic",
+      "poster",
+      "uppercase-only",
+      "opentype-alternates"
+    ],
+    "summary": "An experimental all-caps display typeface by Lena Weber, built from around 20,000 anchors per glyph to simulate the physical complexity of geological stone samples.",
+    "description": "Each glyph carries approximately 20,000 anchors, creating a dense, stone-like texture that pushes the limits of what a digital typeface can encode. The family ships with two to four contextual alternates per letter, activated automatically via OpenType features to prevent repetition across a composition. Best suited to posters, album artwork and editorial layouts where it can be set large enough for the detail to read.",
+    "foundry_blurb": "6TM Magazine describe GEO as an experimental typeface that explores the maximum texture a typeface can store, with each glyph's physical complexity drawn from geological samples. They note that no two stones are alike, so the font includes 2–4 alternates per letter activated via contextual OpenType features, producing natural variation and an organic feel suited to expressive, high-impact typography."
+  },
+  {
+    "name": "Abyme Typeface",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/abyme-typeface",
+    "designer": "Maxime Thill",
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "A self-referential, layered display typeface built for maximalist and experimental graphic use, with no conventional text application intended.",
+    "weights": [
+      "×111",
+      "×222",
+      "×333"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Abyme Typeface"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "experimental",
+      "maximalist",
+      "layered",
+      "editorial",
+      "conceptual",
+      "graphic",
+      "ascii"
+    ],
+    "summary": "A self-referential display typeface by Maxime Thill built on the mise en abyme concept, offering three weight styles suited to maximalist and experimental graphic work.",
+    "description": "Derived from the ÆUROPA Typeface, Abyme uses a layered, self-referential structure to create bold, graphic letterforms across three styles: ×111, ×222, and ×333. Each weight pushes the visual density further, moving from sharp contrast to immersive, dense compositions. The 81-glyph set is aimed at editorial layouts, ASCII projects, branding and contemporary visual identities.",
+    "foundry_blurb": "6TM Magazine describe Abyme as inspired by the mise en abyme concept, a technique in which a work contains a smaller version or reflection of itself. Version 2.0 introduced three distinct weight styles (×111, ×222, ×333) to expand it into a more versatile visual system. They position it for ASCII projects, editorial layouts, branding and experimental design, noting that its layered forms feel both graphic and conceptual."
+  },
+  {
+    "name": "403 Super Vega",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/403-super-vega",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Monolinear strokes, rounded geometric letterforms and a futuristic aesthetic place this firmly in the geometric display category, designed for large-scale titles and headings rather than continuous text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "403 Super Vega"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "futuristic",
+      "monolinear",
+      "display",
+      "sci-fi",
+      "rounded",
+      "editorial"
+    ],
+    "summary": "A monolinear geometric display face from 403TF with rounded letterforms and a sci-fi flavour suited to titles and logos.",
+    "description": "Built on thin, monolinear strokes and rounded balanced letterforms, it aims for a crisp contemporary feel with minor idiosyncrasies in letters such as 'k', 'y' and 'g'. The family ships in two styles, Regular and Slant, with 496 glyphs covering diacritics, ligatures, alternates, currency and mathematical symbols. It is oriented towards editorial headlines, tech branding and experimental design work at large sizes.",
+    "foundry_blurb": "403TF describe Super Vega as a sleek, contemporary font with a geometric and futuristic look suited to the creative, tech and sci-fi sectors. They highlight its rounded letterforms and thin monolinear strokes as giving it a crisp, modern appearance, with distinctive details in certain letters adding individuality. The font is positioned for editorial titles, headings and logos, and is aimed at forward-thinking brands and experimental design projects."
+  },
+  {
+    "name": "403 Obrinda",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/403-obrinda",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "slab serif mono",
+    "classification_notes": "A fixed-width typeface with prominent serifs and a typewriter heritage, placing it squarely in the monospaced slab serif subcategory rather than a purely utilitarian mono.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "403 Obrinda"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "slab-serif",
+      "typewriter",
+      "variable",
+      "editorial",
+      "branding",
+      "technical"
+    ],
+    "summary": "A slab-serif monospaced typeface drawing on typewriter heritage, available in five weights with matching slanted variants and variable font technology.",
+    "description": "Built on a fixed-width grid with confident serifs and balanced proportions, 403 Obrinda takes its cues from the mechanical clarity of typewriter type while keeping its forms clean enough for screen and editorial use. The family spans five weights from Light to Black, each with a slanted companion, and ships as a variable font covering 602 glyphs including ligatures, alternates, mathematical symbols and currency signs. Suited to branding, data-heavy interfaces, dashboards and editorial layouts where a structured rhythm and legibility are both required.",
+    "foundry_blurb": "403TF describe 403 Obrinda as a monospaced typeface where mechanical precision and humanistic warmth meet, framed as a tribute to the golden age of typewriters reimagined for digital use. They position it as a workhorse for branding agencies, editorial designers and UI/UX practitioners, noting its deliberate structure as purposeful rather than restrictive, and highlight its 10 styles, variable technology and 602-glyph character set."
+  },
+  {
+    "name": "Rocaille Typeface",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/rocaille-typeface",
+    "designer": "Jules Rousseau",
+    "year": null,
+    "category": "mono",
+    "subcategory": "slab mono",
+    "classification_notes": "The foundry explicitly describes Rocaille as a Slab Mono, combining monospaced letterforms with slab serif construction and geometric shapes inspired by natural stone.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rocaille Typeface"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "monospaced",
+      "geometric",
+      "organic",
+      "nature-inspired",
+      "code",
+      "editorial"
+    ],
+    "summary": "A slab monospaced typeface by Jules Rousseau that replaces conventional screen-optimised slab forms with angular, stone-like organic shapes.",
+    "description": "Designed by Jules Rousseau, Rocaille draws a conceptual line between the digital language of code and the physical language of rock climbing, treating both as systems of communication between human and environment. The geometric construction departs from the smooth, screen-friendly conventions of most slab serifs, favouring rougher, more mineral forms. It covers 342 glyphs across Latin European, including diacritics, ligatures, mathematics and currency symbols.",
+    "foundry_blurb": "6TM Magazine describe Rocaille as a Slab Mono with geometric shapes inspired by rocks and mountains. The design deconstructs conventional slab forms, typically built for screens, to propose organic shapes drawn from natural stone, drawing a parallel between the digital world of code and the physical pursuit of rock climbing as two distinct modes of communication."
+  },
+  {
+    "name": "Bezier Typeface",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/bezier-typeface",
+    "designer": "Lena Weber",
+    "year": null,
+    "category": "display",
+    "subcategory": "modular display",
+    "classification_notes": "Bezier is a mono-modular display typeface built on a tiling grid system where all non-connector strokes are smooth curves, placing it firmly in the experimental/display category rather than any conventional serif or sans classification.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bezier Typeface"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "tiling",
+      "experimental",
+      "display",
+      "geometric",
+      "pattern",
+      "poster",
+      "graphic"
+    ],
+    "summary": "A mono-modular tiling typeface by Lena Weber in which all letterforms are built from smooth curves, allowing them to interlock horizontally and vertically without spacing to form continuous pattern-like compositions.",
+    "description": "Designed by Lena Weber, Bezier operates as a typographic tiling system where uppercase letters and numerals share a common module footprint, enabling them to butt together on a grid without gaps. Every non-connector line is a smooth Bézier curve, giving compositions a fluid, almost liquid quality despite sitting on a strict geometric structure. The 36-glyph set is intentionally limited, aimed at poster work, bold branding and experimental layout rather than running text.",
+    "foundry_blurb": "6TM Magazine describe Bezier as a typographic tiling system whose mono-modular design lets letters flow together horizontally and vertically with zero spacing, producing freeform and liquid-looking compositions that simultaneously build a perfect grid. All non-connector lines are smooth curves, making it suited to generative design, typographic patterns, posters, branding and digital design."
+  },
+  {
+    "name": "Normal TM",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/normal-tm",
+    "designer": "Type Mania",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described as a sans serif with contextual alternates and stylistic sets producing organic variation; no further structural detail places it beyond a general grotesque classification.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Normal TM"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "contextual-alternates",
+      "organic",
+      "single-weight",
+      "display",
+      "layout"
+    ],
+    "summary": "A single-weight sans serif with two stylistic sets and contextual alternates that rotate automatically to give layouts an organic, varied feel.",
+    "description": "Designed by Type Mania, Normal TM uses contextual alternatives and two stylistic sets to shuffle glyph variants without manual intervention, keeping text from looking mechanically uniform. The 270-glyph set covers upper and lowercase, diacritics, ligatures, numbers, punctuation, currency and mathematics. Available in OTF and TTF for commercial use, with WOFF2 added in the extended licence.",
+    "foundry_blurb": "6TM Magazine describe Normal TM as a gently handled sans serif that rotates two stylistic sets with contextual alternatives active, making layouts look organic and almost automatic in their variation."
+  },
+  {
+    "name": "Junky Notes",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/junky-notes-typeface",
+    "designer": "Softulka",
+    "year": null,
+    "category": "script",
+    "subcategory": "handwritten",
+    "classification_notes": "Junky Notes is a casual handwritten script designed to mimic notebook scribbles, doodles and margin sketches, placing it firmly in the informal handwritten subcategory of script typefaces.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Junky Notes"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "handwritten",
+      "casual",
+      "informal",
+      "notebook",
+      "sketch",
+      "playful",
+      "display"
+    ],
+    "summary": "A casual handwritten typeface by Softulka, built around the irregular strokes and uneven spacing of notebook margins and everyday pen scribbles.",
+    "description": "Two weights, Regular and Bold, make up this 192-glyph script designed to mimic the spontaneous energy of doodles and quick sketches rather than polished calligraphy. Its deliberately imperfect rhythm and hand-drawn character give it an approachable warmth suited to posters, greeting cards, packaging and children's projects. Diacritics, currency symbols and basic mathematics are included, broadening its utility beyond decorative use.",
+    "foundry_blurb": "Junky Notes is described by the foundry as a playful handwritten typeface inspired by the imperfect beauty of notebook margins, quick sketches, spontaneous doodles and everyday pen scribbles. They say it celebrates authenticity over polish, with a loose rhythm and hand-drawn character that makes it feel pulled directly from a creative journal or sketchbook."
+  },
+  {
+    "name": "OFW Helvet",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/ofw-helvet",
+    "designer": "ENCH",
+    "year": null,
+    "category": "display",
+    "subcategory": "decorated sans",
+    "classification_notes": "Based on Helvetica Bold letterforms with a recurring Off-White cross pattern overlaid, making it a decorative or display variant rather than a functional text typeface.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "OFW Helvet"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "tribute",
+      "helvetica-based",
+      "streetwear",
+      "display",
+      "decorative",
+      "fashion",
+      "virgil-abloh"
+    ],
+    "summary": "A single-weight decorative typeface based on Helvetica Bold, overlaid with the Off-White cross motif as a tribute to Virgil Abloh.",
+    "description": "Designed by ENCH as a personal homage to Virgil Abloh, the letterforms derive directly from Helvetica Bold, a typeface closely associated with Abloh's visual identity at Off-White. The Off-White cross pattern is woven into the design as a recurring decorative element, referencing Abloh's signature graphic language. The family covers 81 glyphs including uppercase, lowercase, numbers, punctuation and symbols, available in OTF and TTF formats.",
+    "foundry_blurb": "ENCH describes OFW Helvet as a tribute to Virgil Abloh, built on Helvetica Bold letterforms and incorporating the iconic Off-White cross as a recurring visual pattern. Developed through a long and careful design process, it is presented as a personal homage to a major creative influence."
+  },
+  {
+    "name": "Dukat Typeface",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/dukat-typeface",
+    "designer": "Alyona Korysta",
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "An experimental display typeface with variable optical sizes simulating the progressive decay of vinyl lettering, inspired by decorative Ukrainian manuscript script; clearly display-oriented with no text applications implied.",
+    "weights": [
+      "Family (+Variable)"
+    ],
+    "optical_sizes_or_widths": [
+      "Dukat 12",
+      "Dukat 40",
+      "Dukat 56",
+      "Dukat 72",
+      "Dukat 96"
+    ],
+    "subfamilies": [
+      "Dukat Typeface"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "ukrainian",
+      "vyaz",
+      "variable",
+      "decorative",
+      "signage",
+      "modular"
+    ],
+    "summary": "An experimental variable display typeface by Alyona Korysta that stages the progressive decay of vinyl letterforms across five optical styles, rooted in Ukrainian manuscript script tradition.",
+    "description": "Each of the five styles — numbered 12 through 96 — represents a stage in the physical deterioration of a vinyl letter, from intact to near-abstract, while each character holds a fixed width across all stages. The concept draws equally from Vyaz, the ornamental ligature script found in historic Ukrainian manuscripts, and from the weathered aesthetic of peeling adhesive signage. Latin and Cyrillic coverage spans Ukrainian, Serbian and Macedonian, with 544 glyphs including ligatures, alternates and a variable font file.",
+    "foundry_blurb": "Dukat is described by 6TM Magazine as an experimental display typeface inspired by the modularity and decorativeness of Vyaz, a historic decorative script used in Ukrainian manuscripts, and by weathered vinyl signage that slowly peels and turns letterforms abstract and ornamental. Each style keeps its letters at the same width, reflecting how a real vinyl letter might look at the start of its life and how destructured it becomes over time."
+  },
+  {
+    "name": "sMegs Display",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/smegs-display",
+    "designer": "hvnter",
+    "year": null,
+    "category": "display",
+    "subcategory": "hand-drawn display",
+    "classification_notes": "Explicitly described as a bold display typeface with hand-drawn character and rough, organic letterforms, placing it squarely in the display category with a hand-drawn subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "sMegs Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "hand-drawn",
+      "textured",
+      "organic",
+      "poster",
+      "branding",
+      "expressive",
+      "rough"
+    ],
+    "summary": "A bold, hand-drawn display typeface with textured, organic letterforms offered in two raw styles for posters and distinctive branding.",
+    "description": "Designed by hvnter, sMegs Display leans on rough edges and tactile, hand-drawn shapes to bring personality to large-scale typographic work. Two styles are included within the 213-glyph set, covering uppercase, lowercase, alternates, numbers and basic punctuation. Aimed at posters, album covers and branding where a raw, expressive quality is required.",
+    "foundry_blurb": "6TM Magazine describe sMegs Display as a bold display typeface with hand-drawn character and strong, organic letterforms, noting that its textured shapes and slightly rough edges bring depth and personality to typography. They highlight its two raw styles as offering flexibility while maintaining a consistent, expressive look, and position it for posters, album covers and distinctive branding."
+  },
+  {
+    "name": "Late Cinema Handwritten Script",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/late-cinema-handwritten-script",
+    "designer": "Victoria Strukovskaya",
+    "year": null,
+    "category": "script",
+    "subcategory": "handwritten script",
+    "classification_notes": "Categorised as script due to its handwritten character throughout, with the designer noting a deliberate blend of sans-serif structure in the uppercase and flowing script in the lowercase.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Late Cinema Handwritten Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "handwritten",
+      "script",
+      "branding",
+      "poster",
+      "packaging",
+      "mixed-case",
+      "casual",
+      "expressive"
+    ],
+    "summary": "A handwritten script by Victoria Strukovskaya that pairs bold, confident uppercase letters with a flowing lowercase to balance structure with a personal, informal quality.",
+    "description": "The uppercase characters carry the weight of a strong sans-serif, making them serviceable for headlines and logos, while the lowercase shifts into a natural handwritten rhythm that softens the overall feel. With 199 glyphs covering Latin European characters, diacritics, numbers, currency and mathematics, it covers practical range for branding and packaging work. Available in OTF and TTF under commercial licence, with web formats added at the extended tier.",
+    "foundry_blurb": "6TM Magazine describe Late Cinema as a versatile handwritten font that blends the boldness of a strong sans-serif with the warmth of a handwritten script. The uppercase is intended for headlines, logos and titles, while the lowercase adds intimacy and natural rhythm. They position it for branding, posters, packaging and projects that need both impact and subtle emotion, with support for the most popular Latin-based languages."
+  },
+  {
+    "name": "MOB-X3",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/mob-x3-typeface",
+    "designer": "Jules Bigot",
+    "year": null,
+    "category": "display",
+    "subcategory": "futuristic display",
+    "classification_notes": "Condensed, heavy and angular letterforms with a futuristic aesthetic place this firmly in the display category; the tight geometry and sharp construction recall sci-fi and electronic music visual culture rather than any classical type tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "MOB-X3"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "futuristic",
+      "condensed",
+      "angular",
+      "electronic",
+      "branding",
+      "poster",
+      "experimental"
+    ],
+    "summary": "A condensed, angular display face by Jules Bigot, originating from experimental electronic music visuals and built around a stark, futuristic aesthetic.",
+    "description": "Designed initially for electronic music contexts, the face carries condensed proportions and heavy, angular letterforms that read strongly at large sizes while remaining functional in editorial settings. Version 1.0 ships as a single Regular style with a Latin European character set covering over 370 glyphs, including alternates, three numeral sets, arrows and mathematical symbols. The extended licence adds WOFF and WOFF2 formats for web use.",
+    "foundry_blurb": "6TM describe MOB-X3 as an entity rooted in their server systems and spreading through contemporary digital culture, originally created for experimental electronic music before evolving into a complete futuristic typeface for bold visual communication across branding, posters, editorial layouts and digital projects."
+  },
+  {
+    "name": "Kodai Typeface",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/kodai-typeface",
+    "designer": "Sinuhé Cid",
+    "year": null,
+    "category": "display",
+    "subcategory": "display script",
+    "classification_notes": "Kodai is explicitly a display typeface built on an italic axis with handwritten influences translated into angular, high-contrast letterforms, placing it firmly in the display category with script-derived characteristics.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kodai Typeface"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "handwritten",
+      "angular",
+      "editorial",
+      "headline",
+      "high-contrast",
+      "expressive",
+      "italic"
+    ],
+    "summary": "A single-weight display typeface by Sinuhé Cid that translates handwritten energy into sharp, angular letterforms set on a strong italic axis.",
+    "description": "Designed by Sinuhé Cid, Kodai takes the gestural rhythm of handwriting and refines it into a bold, angular display face with contrasting strokes and a pronounced forward lean. The 231-glyph Latin European character set covers diacritics, ligatures, currency and mathematical symbols, making it reasonably complete for its intended uses. It suits headline work, editorial layouts and visual identity projects where momentum and personality are the priority.",
+    "foundry_blurb": "6TM Magazine describe Kodai as a dynamic display typeface that combines expressive, handwritten influences with a sharp, angular design. Built on a strong italic axis, it captures the energy of handwritten gestures and translates them into sharp forms that give each word a sense of forward momentum, making it particularly suited to headlines, editorial layouts, visual identities and expressive typographic compositions."
+  },
+  {
+    "name": "Mother TM",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/mother-tm",
+    "designer": "Type Mania",
+    "year": null,
+    "category": "display",
+    "subcategory": "hand-drawn display",
+    "classification_notes": "An organic display face with ink bleeds and hand-drawn character, designed for expressive headline use rather than continuous text. Two alternating stylistic sets reinforce its informal, craft-inflected nature.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mother TM"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "hand-drawn",
+      "organic",
+      "ink-bleed",
+      "alternates",
+      "expressive",
+      "textured"
+    ],
+    "summary": "An organic hand-drawn display face with ink bleeds and two contextual stylistic sets that alternate automatically as you type.",
+    "description": "Drawn with visible ink bleed and hand-crafted irregularity, this display face from Type Mania leans into texture and spontaneity. Contextual Alternates cycle between two distinct stylistic sets automatically, introducing rhythm and variation without manual intervention. With 249 glyphs covering Latin diacritics, numbers, punctuation and currency, it covers most Latin-based language needs for headline and expressive typographic work.",
+    "foundry_blurb": "6TM Magazine describe Mother TM as an organic display typeface with ink bleeds and hand-drawn character. Activating Contextual Alternates causes the face to rotate between two stylistic sets as you type. It supports the most popular Latin-based languages and ships in OTF and TTF formats under commercial licensing, with WOFF2 added on extended licences."
+  },
+  {
+    "name": "UNKNOWN Typeface",
+    "foundry": "6TM Magazine",
+    "url": "https://shop.6tm-magazine.com/products/unknown-typeface",
+    "designer": "Lukas Haider, Alexander Raffl",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "The typeface is built from a linear grid system with organic character variation across three stylistic cuts, placing it firmly in the geometric display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "UNKNOWN RND",
+      "UNKNOWN PX",
+      "UNKNOWN MX"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "grid-based",
+      "organic",
+      "editorial",
+      "logo",
+      "magazine",
+      "alternates"
+    ],
+    "summary": "A grid-derived display typeface in three stylistic cuts — RND, PX and MX — with organic character variation and extensive alternate glyphs.",
+    "description": "Designed by Lukas Haider and Alexander Raffl, UNKNOWN draws its structure from a linear grid system while introducing enough variation across individual characters to keep the overall texture feeling organic rather than mechanical. Three distinct styles — RND, PX and MX — give designers flexibility, with additional alternates accessible via uppercase and lowercase switching. At 375 glyphs, it covers diacritics, symbols, currency and mathematics, making it well suited to editorial, artwork and identity projects.",
+    "foundry_blurb": "6TM Magazine describe UNKNOWN as a contemporary display typeface by Lukas Haider and Alexander Raffl, comprising three styles — RND, PX and MX — rooted in a linear grid system yet remaining organic through character variation. With 375 glyphs including alternates, diacritics and symbols, they position it as ideal for artworks, magazines and logos."
+  }
+]

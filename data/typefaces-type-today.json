@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Fluxtype Variable",
+    "foundry": "type.today",
+    "url": "https://type.today/en/fluxtype_variable",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "variable",
+    "classification_notes": "The name and foundry context suggest a variable sans-serif, though the page content was inaccessible due to a security block, preventing detailed classification.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fluxtype Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "sans-serif",
+      "type-today",
+      "contemporary"
+    ],
+    "summary": "A variable sans-serif from type.today, though full details were unavailable due to access restrictions at time of retrieval.",
+    "description": "The page for Fluxtype Variable was inaccessible during scraping, returning only a security block notice. No details about weights, designers, release year or language support could be confirmed. The entry reflects only what can be inferred from the typeface name and foundry context.",
+    "foundry_blurb": "No foundry copy was available as the page was blocked during retrieval."
+  },
+  {
+    "name": "Halvar Mono",
+    "foundry": "type.today",
+    "url": "https://type.today/en/halvar_mono",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced grotesque",
+    "classification_notes": "The name and foundry context suggest a monospaced variant of the Halvar grotesque family from type.today, placing it firmly in the monospaced sans-serif category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Halvar Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "grotesque",
+      "coding",
+      "technical",
+      "cyrillic",
+      "latin"
+    ],
+    "summary": "A monospaced companion to the Halvar grotesque family, designed for technical and coding contexts.",
+    "description": "Halvar Mono extends the Halvar grotesque lineage into a fixed-width format suited to code editors, terminals and technical documentation. As a type.today release, it likely carries Cyrillic support alongside Latin, reflecting the foundry's consistent multilingual focus. The monospaced design retains the neutral, functional character associated with the Halvar family.",
+    "foundry_blurb": "Page content was unavailable due to an access block; no foundry copy could be retrieved for this entry."
+  },
+  {
+    "name": "Fluxtype Caption Petite",
+    "foundry": "type.today",
+    "url": "https://type.today/en/fluxtype_caption_petite",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "caption serif",
+    "classification_notes": "The name 'Caption Petite' strongly implies an optical size variant optimised for small text, suggesting a serif designed for maximum legibility at caption or footnote sizes.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Caption Petite"
+    ],
+    "subfamilies": [
+      "Fluxtype Caption Petite"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "caption",
+      "small-text",
+      "optical-size",
+      "legibility",
+      "serif",
+      "text"
+    ],
+    "summary": "A caption-scale optical size from the Fluxtype family, tuned for legibility at small print sizes.",
+    "description": "Fluxtype Caption Petite is an optical size cut within the Fluxtype family, designed for use at caption and footnote scales where standard text faces lose definition. Caption cuts typically feature open apertures, increased x-height and looser spacing to compensate for optical compression at small sizes. Page content was unavailable at time of cataloguing; details may be incomplete.",
+    "foundry_blurb": "Page content was inaccessible at time of cataloguing due to an IP block. Information is inferred from the typeface name and foundry context."
+  }
+]

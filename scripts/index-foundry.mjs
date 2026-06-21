@@ -2704,17 +2704,18 @@ const FOUNDRIES = [
     name: "Approximate Type",
     slug: "approximate-type",
     homepage: "https://approxtype.com/",
-    listingUrl: "https://www.approxtype.com/typefaces",
+    listingUrl: "https://approxtype.com/typefaces",
     tier: "okay",
-    filterFn: (href) => {
-      try {
-        const u = new URL(href);
-        if (!u.hostname.includes("approxtype.com")) return false;
-        if (u.search || u.hash) return false;
-        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
-        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
-      } catch { return false; }
-    },
+    // listing page HTML contains all typeface links; use staticUrls for reliability
+    staticUrls: [
+      "https://approxtype.com/typefaces/canopy",
+      "https://approxtype.com/typefaces/reply",
+      "https://approxtype.com/typefaces/skanner",
+      "https://approxtype.com/typefaces/stick",
+      "https://approxtype.com/typefaces/medley",
+      "https://approxtype.com/typefaces/clerk",
+      "https://approxtype.com/typefaces/aguzzo",
+    ],
   },
   {
     name: "Superior Type",
@@ -2831,6 +2832,25 @@ const FOUNDRIES = [
         const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
         const CATS = new Set(["sans-serif", "serif", "monospace", "display", "slab"]);
         return parts.length === 2 && CATS.has(parts[0]) && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+
+  // ---- Batch 18 ----
+  {
+    name: "6TM Magazine",
+    slug: "6tm-magazine",
+    homepage: "https://shop.6tm-magazine.com/",
+    listingUrl: "https://shop.6tm-magazine.com/collections/fonts",
+    tier: "okay",
+    // Shopify: typefaces at /products/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("6tm-magazine.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
       } catch { return false; }
     },
   },
@@ -3175,6 +3195,17 @@ async function main() {
       console.log(`Listing: ${foundry.listingUrl}`);
 
       const outPath = join(root, "data", `typefaces-${foundry.slug}.json`);
+
+      // Early exit: skip foundries already fully indexed
+      if (!dryRun && !specimensOnly) {
+        if (existsSync(outPath)) {
+          const existing = JSON.parse(readFileSync(outPath, "utf8"));
+          if (existing.length > 0) {
+            console.log(`  Already indexed (${existing.length} entries) — skipping`);
+            continue;
+          }
+        }
+      }
 
       const page = await ctx.newPage();
 

@@ -1,0 +1,368 @@
+[
+  {
+    "name": "Gramatika",
+    "foundry": "The Temporary State",
+    "url": "https://type.tmpstate.net/shop/gramatika",
+    "designer": "Roman Gornitsky",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The family's naming conventions and style variants suggest a straightforward grotesque sans-serif lineage, with slanted and shifted alternatives rather than conventional italics pointing to a contemporary, experimental approach within the grotesque tradition.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gramatika"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "experimental",
+      "slanted",
+      "shifted",
+      "contemporary",
+      "editorial"
+    ],
+    "summary": "A two-weight grotesque from The Temporary State with slanted and shifted style variants in place of conventional italics.",
+    "description": "Gramatika offers Regular and Bold weights, each accompanied by Slanted and Shifted cuts rather than traditional italics, suggesting a deliberate departure from orthodox type family structure. The six-style family is the work of Roman Gornitsky, operating under The Temporary State in Leipzig. Its unconventional variant naming aligns with the foundry's broader interest in questioning established typographic conventions.",
+    "foundry_blurb": "The Temporary State offers Gramatika in six styles across two weights, with slanted and shifted variants available individually or as part of the full family package, licensed under their standard corporate and single-user terms."
+  },
+  {
+    "name": "Fyl",
+    "foundry": "The Temporary State",
+    "url": "https://type.tmpstate.net/shop/fyl",
+    "designer": "Roman Gornitsky",
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "The two styles — Regular and Rotated — suggest a conceptually driven display typeface rather than a workhorse text face; the Rotated variant implies a self-aware, experimental approach typical of The Temporary State's output.",
+    "weights": [
+      "Regular",
+      "Rotated"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fyl"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "experimental",
+      "conceptual",
+      "rotated",
+      "editorial",
+      "contemporary"
+    ],
+    "summary": "A two-style display typeface from The Temporary State, offered in a standard Regular and an unconventional Rotated cut.",
+    "description": "Fyl comes in just two styles: Regular and Rotated, the latter suggesting a deliberate formal conceit rather than a conventional italic or bold companion. It is the work of Roman Gornitsky, whose Leipzig-based foundry The Temporary State consistently pursues typefaces with a conceptual edge. The limited family keeps things focused, suited to editorial and identity contexts where the Rotated style can be used as a graphic device.",
+    "foundry_blurb": "The Temporary State offers Fyl in two styles — Fyl Regular and Fyl Rotated — available individually or as a full family, licensed under their standard corporate agreement structure."
+  },
+  {
+    "name": "Kommuna",
+    "foundry": "The Temporary State",
+    "url": "https://type.tmpstate.net/shop/kommuna",
+    "designer": "Roman Gornitsky",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Kommuna is a sans-serif with multiple width variants from Ultra Narrow to Ultra Wide, consistent with a grotesque or neo-grotesque tradition built for flexible typographic systems.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Ultra Narrow",
+      "Narrow",
+      "Normal",
+      "Wide",
+      "Ultra Wide"
+    ],
+    "subfamilies": [
+      "Kommuna Ultra Narrow",
+      "Kommuna Narrow",
+      "Kommuna Normal",
+      "Kommuna Wide",
+      "Kommuna Ultra Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "multi-width",
+      "condensed",
+      "extended",
+      "display",
+      "systematic"
+    ],
+    "summary": "A systematic grotesque family spanning five widths and three weights, designed to cover everything from ultra-narrow titling to ultra-wide display.",
+    "description": "Kommuna is built around a grid of fifteen styles across five widths (Ultra Narrow to Ultra Wide) and three weights (Regular, Bold, Black), giving designers a single-family system for varied typographic demands. The range of widths makes it particularly suited to editorial and identity work where one typeface needs to adapt across formats and sizes. No italic is offered, keeping the system focused and intentional.",
+    "foundry_blurb": "The Temporary State offers Kommuna as a full family of fifteen styles, sold individually or in curated packages by width or weight grouping, with licensing scaled by workstations, web traffic and social media reach."
+  },
+  {
+    "name": "Panama",
+    "foundry": "The Temporary State",
+    "url": "https://type.tmpstate.net/shop/panama",
+    "designer": "Roman Gornitsky",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Panama appears as a geometric or neutral sans available in both proportional and monospaced variants, with an Iranic style suggesting a design rooted in systematic, neutral letterforms suited to technical and multilingual use.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Panama Proportional",
+      "Panama Monospace"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Arabic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "monospace",
+      "proportional",
+      "multilingual",
+      "arabic",
+      "neutral",
+      "technical"
+    ],
+    "summary": "A dual-format sans offered in both proportional and monospaced cuts, with an Iranic variant extending coverage to Arabic script.",
+    "description": "Panama comes in two subfamilies, Proportional and Monospace, each sharing the same four styles: Regular, Italic, Iranic and Bold. The Iranic style points to Arabic or Persian script support alongside Latin, making it a practical choice for multilingual settings. The parallel proportional and monospaced structures give it flexibility across editorial, coding and interface contexts.",
+    "foundry_blurb": "The Temporary State offers Panama as a full family of eight styles split between Panama Proportional and Panama Monospace, covering Regular, Italic, Iranic and Bold in each subfamily, with the full family available together or as separate packages."
+  },
+  {
+    "name": "Literatura",
+    "foundry": "The Temporary State",
+    "url": "https://type.tmpstate.net/shop/literatura",
+    "designer": "Roman Gornitsky",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The three subfamilies named Past, Present and Future suggest a progression through historical serif models, from classical to contemporary forms, placing it broadly within the transitional or text serif tradition.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Literatura Past",
+      "Literatura Present",
+      "Literatura Future"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "historical",
+      "editorial",
+      "literary",
+      "multistyle"
+    ],
+    "summary": "A serif family in three stylistic branches named Past, Present and Future, each offered in regular, italic, bold and bold italic.",
+    "description": "The family is structured around three named subfamilies, Past, Present and Future, which appear to map onto distinct historical moments in serif type design. Each branch carries four styles: regular, italic, bold and bold italic, giving twelve cuts in total across the full family. The naming conceit gives the collection a conceptual backbone that suits literary and editorial contexts.",
+    "foundry_blurb": "Literatura is offered by The Temporary State in three sub-families, Literatura Past, Literatura Present and Literatura Future, each available individually or as part of the full twelve-style family."
+  },
+  {
+    "name": "Manege",
+    "foundry": "The Temporary State",
+    "url": "https://type.tmpstate.net/shop/manege",
+    "designer": "Roman Gornitsky",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Based on its association with The Temporary State's broader catalogue of European grotesque-influenced designs and the minimal single-weight offering, Manege is classified as a sans-serif grotesque. Insufficient specimen detail to refine further.",
+    "weights": [
+      "Light"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Manege"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "minimal",
+      "single-weight",
+      "eastern-european",
+      "editorial"
+    ],
+    "summary": "A single-weight grotesque sans available only in Light, from Leipzig-based The Temporary State.",
+    "description": "Manege is offered as a single style — Light — with no italic or additional weights, making it a spare, focused release from Roman Gornitsky's The Temporary State. The foundry's catalogue tends towards European grotesque traditions with a restrained, structured aesthetic, and Manege fits that pattern. Its limited availability suggests it functions best in contexts where a clean, light-handed grotesque is the entire point.",
+    "foundry_blurb": "Manege is available from The Temporary State as a single Light weight, licensed under the foundry's standard tiered corporate, nonprofit, single-user, publishing house and student licence structures."
+  },
+  {
+    "name": "Steinbeck",
+    "foundry": "The Temporary State",
+    "url": "https://type.tmpstate.net/shop/steinbeck",
+    "designer": "Roman Gornitsky",
+    "year": null,
+    "category": "serif",
+    "subcategory": "text serif",
+    "classification_notes": "The name and the two-style family structure suggest a traditional text serif intended for literary or editorial use, consistent with The Temporary State's broader type catalogue which includes classical revival serifs.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Steinbeck"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "literary",
+      "editorial",
+      "book",
+      "two-style"
+    ],
+    "summary": "A compact two-style text serif from Roman Gornitsky at The Temporary State, offered in Regular and Italic.",
+    "description": "Steinbeck is a text serif from The Temporary State, available in Regular and Italic only. The minimal family structure positions it as a focused tool for body text and literary typesetting rather than a display or multi-weight system. It sits within the foundry's wider roster of considered, European-inflected type designs.",
+    "foundry_blurb": "The Temporary State offers Steinbeck as a two-style serif family comprising Regular and Italic, available as individual styles or as a full family package under their standard licensing tiers."
+  },
+  {
+    "name": "Soyuz Grotesk",
+    "foundry": "The Temporary State",
+    "url": "https://type.tmpstate.net/shop/soyuz-grotesk",
+    "designer": "Roman Gornitsky",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Named with the Soviet-era 'Soyuz' reference and styled as a grotesk, placing it firmly in the grotesque sans-serif tradition with likely Cyrillic roots given the foundry's background.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Soyuz Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "soviet",
+      "cyrillic",
+      "free",
+      "bold",
+      "display"
+    ],
+    "summary": "A single-weight grotesque offered free of charge by The Temporary State, drawing on Soviet-era typographic references.",
+    "description": "Available only in Bold and priced at zero euros across all licence tiers, Soyuz Grotesk is a free grotesque sans from Roman Gornitsky's Leipzig-based foundry The Temporary State. The name nods to Soviet-era design culture, consistent with the foundry's broader interest in post-Soviet typographic heritage. Its availability as a no-cost download makes it accessible for both personal and commercial use under the standard licence framework.",
+    "foundry_blurb": "The Temporary State lists Soyuz Grotesk Bold as a free font, available at no cost under their standard licensing structure covering desktop, web and social media use."
+  },
+  {
+    "name": "Wremena",
+    "foundry": "The Temporary State",
+    "url": "https://type.tmpstate.net/shop/wremena",
+    "designer": "Roman Gornitsky",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The name Wremena (\"времена\", meaning \"times\" in Russian) and the foundry's Eastern European design sensibility suggest a text serif in the transitional or old-style tradition. The three-weight family with Light, Regular and Bold is consistent with a text-oriented serif design.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Wremena"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "cyrillic",
+      "text",
+      "eastern-european",
+      "transitional",
+      "free"
+    ],
+    "summary": "A three-weight serif from The Temporary State, offered free of charge, with a name drawn from the Russian word for \"times\".",
+    "description": "Released by Roman Gornitsky under The Temporary State, Wremena is a serif family available in Light, Regular and Bold, distributed at no cost across all licence tiers. Its Russian name points to Cyrillic heritage and a design sensibility rooted in Eastern European typographic traditions. The free pricing makes it accessible for a wide range of uses, from editorial to identity work.",
+    "foundry_blurb": "Wremena is offered by The Temporary State as a free font family in three weights: Light, Regular and Bold. All styles are available at no cost under the foundry's standard licence structure, including corporate and publishing house licences."
+  }
+]

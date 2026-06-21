@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Blackbird Roman",
+    "foundry": "JP Flexner",
+    "url": "https://www.jpflexner.com/blackbird-roman-1",
+    "designer": "JP Flexner",
+    "year": null,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "A display serif with alternate characters and ligatures designed for logotype use, with decorative flourishes that soften an otherwise formal structure.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blackbird Roman"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "branding",
+      "logotype",
+      "alternates",
+      "ligatures",
+      "decorative"
+    ],
+    "summary": "A display serif created for the Blackbird brand identity, featuring an alternate character set of ligatures and flourishes that soften its otherwise formal tone.",
+    "description": "Designed as the centrepiece of the Blackbird logo, this display serif works alongside a companion script. The alternate character set introduces ligatures and decorative flourishes that counterbalance the typeface's more mature, structured qualities, lending it a playful quality when alternates are mixed with the standard alphabet. Primarily suited to logotype and branding contexts where a formal serif needs a degree of warmth.",
+    "foundry_blurb": "Blackbird Roman was created as part of a branding project for Blackbird, serving as the logo's central typeface alongside its sister font, Blackbird Script. The alternate character set includes ligatures and flourishes that fill visual gaps and prevent the font from feeling overly masculine or rigid, adding a playful dimension to an otherwise mature typeface."
+  },
+  {
+    "name": "Fairmount Gothic Round",
+    "foundry": "JP Flexner",
+    "url": "https://www.jpflexner.com/fairmount-gothic-round",
+    "designer": "JP Flexner",
+    "year": null,
+    "category": "display",
+    "subcategory": "rounded grotesque",
+    "classification_notes": "Rooted in sign painter lettering tradition and mid-century American consumer product design, with uniformly rounded corners throughout; sits between grotesque and display categories due to its decorative rounding and vernacular origins.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fairmount Gothic Round"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "grotesque",
+      "sign-painting",
+      "mid-century",
+      "american",
+      "vernacular",
+      "display",
+      "consumer"
+    ],
+    "summary": "A rounded grotesque drawn from sign painter lettering and mid-century American consumer product design, with uniformly rounded corners on every junction.",
+    "description": "Every corner and meeting point across the letterforms has been rounded, eliminating any sharp junction throughout the face. The proportions and weight reference utilitarian mid-century American product typography rather than the narrower craft tradition of sign painting alone. A companion to the standard Fairmount Gothic, this variant leans further into decorative warmth through its consistent rounding.",
+    "foundry_blurb": "JP Flexner describes Fairmount Gothic as born out of necessity, wanting a font with roots in classic sign painter lettering but weighted and proportioned to reflect the utilitarian type of mid-century American consumer product design. The Round version applies even rounding to all corners, ensuring no two or more ligatures meeting create a point anywhere in the typeface."
+  },
+  {
+    "name": "Blackbird Script",
+    "foundry": "JP Flexner",
+    "url": "https://www.jpflexner.com/blackbird-script-1",
+    "designer": "JP Flexner",
+    "year": null,
+    "category": "script",
+    "subcategory": "casual script",
+    "classification_notes": "A casual display script built from near-uniform strokes with slight stroke modulation at ligature terminals, bouncing baseline and all-caps compatibility place it firmly in the casual script category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blackbird Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "display",
+      "casual",
+      "branding",
+      "bouncing-baseline",
+      "all-caps",
+      "ligatures"
+    ],
+    "summary": "A casual display script originally commissioned for brand work, built from near-uniform strokes with subtle modulation at ligature terminals and a lightly bouncing baseline.",
+    "description": "Designed initially as a secondary support face within a brand identity project, Blackbird Script holds its own as a standalone display typeface. Its strokes are nearly uniform, with gentle undulations appearing near the beginnings and ends of ligatures, counters and cast-offs. The baseline carries a slight bounce, and the face adapts well to all-caps settings with minor manual tracking adjustments.",
+    "foundry_blurb": "JP Flexner notes that Blackbird Script was custom made as a secondary support typeface for a brand development project, but possesses enough style and legibility to function as a display font in its own right. It features near-uniform strokes with slight undulations near ligatures, counters and cast-offs, a lightly bouncing baseline, and works well in all caps with a little manual adjustment."
+  },
+  {
+    "name": "N.C.B.C. Condensed",
+    "foundry": "JP Flexner",
+    "url": "https://www.jpflexner.com/ncbc-condensed",
+    "designer": "JP Flexner",
+    "year": null,
+    "category": "display",
+    "subcategory": "handwritten display",
+    "classification_notes": "A condensed display face derived directly from the designer's own handwriting, intended to complement hand-inked illustration work rather than serve as a conventional script or text face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "N.C.B.C. Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "handwritten",
+      "condensed",
+      "display",
+      "craft",
+      "illustration",
+      "brewing",
+      "informal"
+    ],
+    "summary": "A condensed display face drawn from the designer's own handwriting, originally created to pair with hand-inked illustration work for Neshaminy Creek Brewing Company.",
+    "description": "Derived directly from JP Flexner's personal handwriting, this face was first deployed on packaging and promotional material for Neshaminy Creek Brewing Company. Its condensed proportions and inked character make it a functional companion to hand-drawn illustration, providing supporting text without breaking the visual register of the broader artwork. Best suited to craft, food and beverage, or editorial contexts where a raw, hand-produced quality is the goal.",
+    "foundry_blurb": "JP Flexner describes N.C.B.C. Condensed as a typeface based on his own handwriting, originally developed for work created for Neshaminy Creek Brewing Company. It is designed to carry supporting information in layouts where illustrations share matching inked characteristics."
+  },
+  {
+    "name": "Fairmount Gothic Sharp",
+    "foundry": "JP Flexner",
+    "url": "https://www.jpflexner.com/fairmount-gothic-sharp",
+    "designer": "JP Flexner",
+    "year": null,
+    "category": "display",
+    "subcategory": "gothic display",
+    "classification_notes": "Rooted in American sign painter lettering traditions with mid-century consumer product proportions, this is a display gothic with a distinctive rounded-corner treatment applied uniformly across all glyphs and ligatures.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fairmount Gothic Sharp"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "gothic",
+      "sign-painting",
+      "mid-century",
+      "american",
+      "rounded",
+      "display",
+      "utilitarian"
+    ],
+    "summary": "A display gothic drawn from American sign painter traditions and mid-century consumer product lettering, distinguished by uniformly rounded corners across every glyph and ligature junction.",
+    "description": "Built from the visual language of classic sign painter lettering, Fairmount Gothic Sharp adapts that heritage to the utilitarian weight and proportion of mid-century American consumer product design. Its defining feature is a consistent rounding treatment: no junction between two or more strokes resolves to a point, giving the face a softened, cohesive quality that separates it from harder-edged gothics. Suited to branding, packaging and display contexts where a hand-crafted American vernacular is wanted without rough edges.",
+    "foundry_blurb": "JP Flexner describes Fairmount Gothic as born out of necessity, conceived as a font with roots in classic sign painter lettering but weighted and proportioned to reflect the utilitarian type of mid-century American consumer product design. This Sharp version applies evenly rounded corners throughout, ensuring no junction of two or more ligatures creates a point."
+  },
+  {
+    "name": "NCBC Display",
+    "foundry": "JP Flexner",
+    "url": "https://www.jpflexner.com/ncbc-display",
+    "designer": "JP Flexner",
+    "year": null,
+    "category": "display",
+    "subcategory": "hand-lettered display",
+    "classification_notes": "A hand-inked display face with drop-shadow and dense kerning, designed for high-impact pairings with illustration; sits firmly in the display category with an expressive, vernacular hand-lettering subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "NCBC Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "hand-lettered",
+      "display",
+      "punk",
+      "illustration",
+      "vernacular",
+      "drop-shadow",
+      "expressive"
+    ],
+    "summary": "A hand-inked display face drawn for Neshaminy Creek Brewing Company, channelling underground comics and early-90s East Bay punk record aesthetics.",
+    "description": "Originally created as part of illustration work for Neshaminy Creek Brewing Company, this face is hand-inked throughout, with dense kerning and a built-in drop-shadow that keeps it readable against busy or chaotic backgrounds. The designer cites ZAP Comics and East Bay punk records circa 1992 as its tonal reference points. Best suited to packaging, poster work or any setting where rough-edged energy is the point.",
+    "foundry_blurb": "JP Flexner describes NCBC Display as entirely hand-inked in the same style as illustration work produced for Neshaminy Creek Brewing Company. Its dense kerning and slight drop-shadow are designed to maintain legibility even alongside loud illustrations or complex design settings, lending what Flexner calls a ZAP Comics meets East Bay punk record circa 1992 quality."
+  },
+  {
+    "name": "Trusty Serif Medium",
+    "foundry": "JP Flexner",
+    "url": "https://www.jpflexner.com/trusty-serif-medium",
+    "designer": "JP Flexner",
+    "year": null,
+    "category": "serif",
+    "subcategory": "bracketed serif",
+    "classification_notes": "Described as having subtle bracketed serifs with utilitarian proportions optimised for legibility in tight or curved settings, placing it in a practical bracketed serif category.",
+    "weights": [
+      "Medium"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trusty Serif Medium"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "bracketed",
+      "utilitarian",
+      "workhorse",
+      "legible",
+      "functional"
+    ],
+    "summary": "A bracketed serif cut from a three-font workhorse family, sized and proportioned for legibility across curved paths and cramped settings.",
+    "description": "The middle weight of the Trusty Serif trio, designed to sit between extremes of weight while maintaining clear, confident letterforms. Subtle bracketed serifs aid scanning, and the character proportions are built to hold up when set along curved paths or compressed into tight spaces. Positioned as a dependable utilitarian face for practical typographic tasks.",
+    "foundry_blurb": "JP Flexner describes Trusty Serif Medium as the 'just right' proportion of the Trusty Serif trio, with subtle bracketed serifs aiding readability and an air of confidence. The family is designed as a utilitarian workhorse trio that balances tone and legibility, with character proportions suited to curved paths and tight spaces."
+  },
+  {
+    "name": "Trusty Serif Wide",
+    "foundry": "JP Flexner",
+    "url": "https://www.jpflexner.com/trusty-serif-wide",
+    "designer": "JP Flexner",
+    "year": null,
+    "category": "serif",
+    "subcategory": "glyphic serif",
+    "classification_notes": "The typeface draws explicit comparison to Copperplate Gothic with its wide proportions and subtle bracketed serifs, placing it in the glyphic or inscribed serif tradition designed for legibility at distance and small sizes.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "Wide"
+    ],
+    "subfamilies": [
+      "Trusty Serif Wide"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "glyphic",
+      "wide",
+      "utilitarian",
+      "workhorse",
+      "legibility",
+      "display",
+      "copperplate-adjacent"
+    ],
+    "summary": "A wide, bracketed-serif face designed for legibility at distance and small sizes, pitched as a more readable alternative to Copperplate Gothic.",
+    "description": "Part of a trio of Trusty Serif fonts built as utilitarian workhorses, the Wide cut prioritises legibility across curved paths, tight spaces and small sizes. Subtle bracketed serifs give it authority without sacrificing scanning ease, and its wide proportions are calibrated to hold up under awkward typesetting conditions. The family is positioned for signage, branding and any context where tone and readability need to coexist.",
+    "foundry_blurb": "JP Flexner describes Trusty Serif Wide as the font you wish Copperplate Gothic was: weighty and authoritative, but with a focus on legibility at distance and small sizes. Subtle bracketed serifs aid scanning, and the proportions are designed to stay legible on curved paths or in tight spaces. It forms part of a utilitarian workhorse trio built for the right balance of tone and legibility."
+  },
+  {
+    "name": "Trusty Serif Tall",
+    "foundry": "JP Flexner",
+    "url": "https://www.jpflexner.com/trusty-serif-tall",
+    "designer": "JP Flexner",
+    "year": null,
+    "category": "serif",
+    "subcategory": "bracketed serif",
+    "classification_notes": "Described as having subtle bracketed serifs with upright, confident proportions; the tall variant suggests extended x-height or elongated letterforms for display use.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "Tall"
+    ],
+    "subfamilies": [
+      "Trusty Serif Tall"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "bracketed",
+      "display",
+      "workhorse",
+      "legible",
+      "upright",
+      "utilitarian"
+    ],
+    "summary": "A tall, upright bracketed serif designed for confident display use, part of a trio of Trusty Serif cuts.",
+    "description": "One of three fonts in the Trusty Serif family, the Tall variant is characterised by upright proportions and subtle bracketed serifs intended to aid legibility even across curved paths or in tight spaces. The designer describes it as having a warm yet direct quality, suited to headers and display settings where legibility and tone must work together. It sits within a utilitarian family designed for dependable, versatile use.",
+    "foundry_blurb": "JP Flexner describes Trusty Serif Tall as the font chosen for their own website headers, characterised by confident, upright proportions and subtle bracketed serifs that aid scanning and legibility. The Trusty Serif family is presented as a trio of workhorse fonts offering the right balance of tone and legibility across varied applications."
+  }
+]
