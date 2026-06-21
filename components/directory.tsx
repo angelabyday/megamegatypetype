@@ -46,6 +46,11 @@ const STYLES: { label: string; tags: string[] }[] = [
   { label: "High Contrast",   tags: ["high-contrast", "high contrast"] },
   { label: "Rounded",         tags: ["rounded"] },
   { label: "Industrial",      tags: ["industrial"] },
+  { label: "Calligraphic",    tags: ["calligraphic"] },
+  { label: "Stencil",         tags: ["stencil"] },
+  { label: "Transitional",    tags: ["transitional"] },
+  { label: "Playful",         tags: ["playful", "friendly"] },
+  { label: "Modular",         tags: ["modular"] },
 ];
 
 function CollapsibleSection({
@@ -93,6 +98,9 @@ export function Directory({
   const [condensedOnly, setCondensedOnly] = useState(false);
   const [italicOnly, setItalicOnly] = useState(false);
   const [monoOnly, setMonoOnly] = useState(false);
+  const [variableOnly, setVariableOnly] = useState(false);
+  const [wideOnly, setWideOnly] = useState(false);
+  const [opticalSizesOnly, setOpticalSizesOnly] = useState(false);
   const [pricing, setPricing] = useState<"all" | "free" | "paid">("all");
   const [sort, setSort] = useState<SortKey>("name");
   const [visibleCount, setVisibleCount] = useState(60);
@@ -107,6 +115,9 @@ export function Directory({
     (condensedOnly ? 1 : 0) +
     (italicOnly ? 1 : 0) +
     (monoOnly ? 1 : 0) +
+    (variableOnly ? 1 : 0) +
+    (wideOnly ? 1 : 0) +
+    (opticalSizesOnly ? 1 : 0) +
     (pricing !== "all" ? 1 : 0);
 
   const filtered = useMemo(() => {
@@ -133,6 +144,9 @@ export function Directory({
       if (condensedOnly && !t.has_condensed) return false;
       if (italicOnly && !t.has_italic) return false;
       if (monoOnly && !t.has_mono) return false;
+      if (variableOnly && !t.tags.includes("variable")) return false;
+      if (wideOnly && !t.tags.some((tag) => ["wide", "multi-width"].includes(tag))) return false;
+      if (opticalSizesOnly && !t.tags.includes("optical-sizes")) return false;
       if (q) {
         const haystack = fold(
           [t.name, t.foundry, t.designer ?? "", t.summary, t.subcategory ?? "", ...t.tags].join(" ")
@@ -160,11 +174,11 @@ export function Directory({
           return a.name.localeCompare(b.name);
       }
     });
-  }, [typefaces, query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, pricing, sort]);
+  }, [typefaces, query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, variableOnly, wideOnly, opticalSizesOnly, pricing, sort]);
 
   useEffect(() => {
     setVisibleCount(60);
-  }, [query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, pricing, sort]);
+  }, [query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, variableOnly, wideOnly, opticalSizesOnly, pricing, sort]);
 
   useEffect(() => {
     const el = loadMoreRef.current;
@@ -282,6 +296,18 @@ export function Directory({
             <label className="flex items-center gap-2 text-sm">
               <Checkbox checked={monoOnly} onCheckedChange={() => setMonoOnly(!monoOnly)} />
               Has mono
+            </label>
+            <label className="flex items-center gap-2 text-sm">
+              <Checkbox checked={variableOnly} onCheckedChange={() => setVariableOnly(!variableOnly)} />
+              Variable font
+            </label>
+            <label className="flex items-center gap-2 text-sm">
+              <Checkbox checked={wideOnly} onCheckedChange={() => setWideOnly(!wideOnly)} />
+              Wide / extended
+            </label>
+            <label className="flex items-center gap-2 text-sm">
+              <Checkbox checked={opticalSizesOnly} onCheckedChange={() => setOpticalSizesOnly(!opticalSizesOnly)} />
+              Optical sizes
             </label>
           </div>
         </CollapsibleSection>

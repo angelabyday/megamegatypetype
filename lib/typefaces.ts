@@ -144,8 +144,17 @@ import yeahrightType from "@/data/typefaces-yeahright-type.json";
 // Batch 11
 import brandonNickerson from "@/data/typefaces-brandon-nickerson.json";
 import rTypography from "@/data/typefaces-r-typography.json";
+// Batch 19
+import googleFonts from "@/data/typefaces-google-fonts.json";
+// Batch 18
+import sixTmMagazine from "@/data/typefaces-6tm-magazine.json";
 // Batch 17
 import tofuType from "@/data/typefaces-tofu-type.json";
+import approximateType from "@/data/typefaces-approximate-type.json";
+import wabiSabiType from "@/data/typefaces-wabi-sabi-type.json";
+import jpFlexner from "@/data/typefaces-jp-flexner.json";
+import theTemporaryState from "@/data/typefaces-the-temporary-state.json";
+import typeToday from "@/data/typefaces-type-today.json";
 // Batch 16
 import powerType from "@/data/typefaces-power-type.json";
 import sourceType from "@/data/typefaces-source-type.json";
@@ -437,8 +446,17 @@ export function getAllTypefaces(): Typeface[] {
         typeBy,
         typeForward,
         zetafonts,
+        // Batch 19
+        ...googleFonts,
+        // Batch 18
+        sixTmMagazine,
         // Batch 17
         tofuType,
+        approximateType,
+        wabiSabiType,
+        jpFlexner,
+        theTemporaryState,
+        typeToday,
         // Batch 16
         powerType,
         sourceType,
