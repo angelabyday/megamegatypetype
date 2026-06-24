@@ -1311,6 +1311,11 @@ const FOUNDRIES = [
     homepage: "https://www.indiantypefoundry.com/",
     listingUrl: "https://www.indiantypefoundry.com/fonts",
     tier: "okay",
+    staticUrls: [
+      "https://www.indiantypefoundry.com/fonts/associate-mono",
+      "https://www.indiantypefoundry.com/fonts/griff",
+      "https://www.indiantypefoundry.com/fonts/associate-sans-stencil",
+    ],
     filterFn: (href) => {
       try {
         const u = new URL(href);
@@ -3158,6 +3163,7 @@ async function main() {
   const argv = process.argv.slice(2);
   const dryRun = argv.includes("--dry-run");
   const specimensOnly = argv.includes("--specimens-only");
+  const force = argv.includes("--force");
 
   const foundryArgs = [];
   for (let i = 0; i < argv.length; i++) {
@@ -3197,7 +3203,7 @@ async function main() {
       const outPath = join(root, "data", `typefaces-${foundry.slug}.json`);
 
       // Early exit: skip foundries already fully indexed
-      if (!dryRun && !specimensOnly) {
+      if (!dryRun && !specimensOnly && !force) {
         if (existsSync(outPath)) {
           const existing = JSON.parse(readFileSync(outPath, "utf8"));
           if (existing.length > 0) {

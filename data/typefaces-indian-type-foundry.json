@@ -1019,5 +1019,131 @@
     "summary": "A five-weight slab serif from Indian Type Foundry, part of a wider Associate superfamily that also covers sans, mono and stencil variants.",
     "description": "Ten styles span Extralight through Bold with matching italics, making it a practical slab for text and editorial work. It sits within the broader Associate family alongside Associate Sans, Associate Mono and Associate Sans Stencil, suggesting a coherent design system built for versatile deployment. The range covers standard Latin and is sold per style or as a complete ten-font bundle.",
     "foundry_blurb": "Associate Slab is part of Indian Type Foundry's Associate family, which includes Associate Sans, Associate Mono, Associate Sans Stencil and Associate Slab Stencil. The slab variant is offered in five weights from Extralight to Bold, each with a matching italic, available individually or as a complete ten-font package."
+  },
+  {
+    "name": "Associate Sans Stencil",
+    "foundry": "Indian Type Foundry",
+    "url": "https://www.indiantypefoundry.com/fonts/associate-sans-stencil",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "stencil sans",
+    "classification_notes": "A stencil variant of a sans-serif family, where the interrupted strokes and cutouts define it as a display stencil rather than a conventional sans-serif.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Associate Sans Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "sans-serif",
+      "display",
+      "geometric",
+      "modular",
+      "industrial"
+    ],
+    "summary": "A stencil variant of the Associate Sans family, available in five weights each with a matching italic.",
+    "description": "Associate Sans Stencil applies stencil interruptions to the Associate Sans skeleton, producing ten styles across five weights from Extralight to Bold. Each weight includes an italic, giving the family more range than most stencil offerings. It sits alongside Associate Mono, Associate Slab and Associate Slab Stencil as part of a broader type system.",
+    "foundry_blurb": "Associate Sans Stencil is part of the Associate type system from Indian Type Foundry, offering ten fonts across five weights with italics throughout, available individually or as a complete family."
+  },
+  {
+    "name": "Associate Mono",
+    "foundry": "Indian Type Foundry",
+    "url": "https://www.indiantypefoundry.com/fonts/associate-mono",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced sans",
+    "classification_notes": "A monospaced typeface in the Associate superfamily, sitting alongside sans, slab and stencil variants; the fixed-pitch design places it firmly in the mono category.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Associate Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "coding",
+      "technical",
+      "superfamily",
+      "fixed-pitch",
+      "editorial"
+    ],
+    "summary": "A five-weight monospaced member of the Associate superfamily, offered with matching italics across all weights.",
+    "description": "Associate Mono forms the fixed-pitch branch of the broader Associate family, which also includes sans, slab and stencil variants. Five weights run from Extralight to Bold, each paired with an italic, giving ten styles in total. The consistent weight range and family coherence make it a practical choice for technical documents, coding interfaces or editorial work requiring a monospaced voice.",
+    "foundry_blurb": "Associate Mono is offered by Indian Type Foundry as a ten-font family spanning five weights with italics, sold individually or as a complete set."
+  },
+  {
+    "name": "Griff",
+    "foundry": "Indian Type Foundry",
+    "url": "https://www.indiantypefoundry.com/fonts/griff",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Griff presents as a humanist sans-serif based on its Latin script coverage and the naming conventions used by ITF, sitting within a warm, text-friendly sans tradition rather than geometric or grotesque lineage.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Griff"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "sans-serif",
+      "text",
+      "latin",
+      "professional",
+      "clean"
+    ],
+    "summary": "A five-weight humanist sans-serif from Indian Type Foundry with matching italics across each weight.",
+    "description": "Ten styles in total, running from Light to Bold with a corresponding italic for each weight. The family is positioned as a clean, versatile text face suited to a range of professional applications. ITF offer the complete set at a bundled price through their standard retail licensing model.",
+    "foundry_blurb": "Griff is a Latin sans-serif typeface from Indian Type Foundry, available in five weights from Light to Bold, each accompanied by an italic. The complete family of ten fonts is available to purchase individually or as a bundle."
   }
 ]
