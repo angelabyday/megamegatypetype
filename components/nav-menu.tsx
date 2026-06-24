@@ -9,7 +9,7 @@ import { SubmitFoundryButton } from "@/components/submit-foundry-dialog";
 const NAV_LINKS = [
   { href: "/foundries", label: "Foundries" },
   { href: "/brief", label: "Font brief" },
-  { href: "/wtf", label: "What Font Is This?" },
+  { href: "/wtf", label: "What font is this?" },
   { href: "/about", label: "About" },
 ];
 
