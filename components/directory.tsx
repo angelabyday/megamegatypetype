@@ -102,6 +102,7 @@ export function Directory({
   const [wideOnly, setWideOnly] = useState(false);
   const [opticalSizesOnly, setOpticalSizesOnly] = useState(false);
   const [pricing, setPricing] = useState<"all" | "free" | "paid">("all");
+  const [source, setSource] = useState<"all" | "foundry" | "reseller">("all");
   const [sort, setSort] = useState<SortKey>("name");
   const [visibleCount, setVisibleCount] = useState(60);
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
@@ -118,7 +119,8 @@ export function Directory({
     (variableOnly ? 1 : 0) +
     (wideOnly ? 1 : 0) +
     (opticalSizesOnly ? 1 : 0) +
-    (pricing !== "all" ? 1 : 0);
+    (pricing !== "all" ? 1 : 0) +
+    (source !== "all" ? 1 : 0);
 
   const filtered = useMemo(() => {
     const q = fold(query.trim());
@@ -141,6 +143,8 @@ export function Directory({
       }
       if (pricing === "free" && t.type !== "free") return false;
       if (pricing === "paid" && t.type === "free") return false;
+      if (source === "foundry" && t.type !== "foundry") return false;
+      if (source === "reseller" && t.type !== "reseller") return false;
       if (condensedOnly && !t.has_condensed) return false;
       if (italicOnly && !t.has_italic) return false;
       if (monoOnly && !t.has_mono) return false;
@@ -174,11 +178,11 @@ export function Directory({
           return a.name.localeCompare(b.name);
       }
     });
-  }, [typefaces, query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, variableOnly, wideOnly, opticalSizesOnly, pricing, sort]);
+  }, [typefaces, query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, variableOnly, wideOnly, opticalSizesOnly, pricing, source, sort]);
 
   useEffect(() => {
     setVisibleCount(60);
-  }, [query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, variableOnly, wideOnly, opticalSizesOnly, pricing, sort]);
+  }, [query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, variableOnly, wideOnly, opticalSizesOnly, pricing, source, sort]);
 
   useEffect(() => {
     const el = loadMoreRef.current;
@@ -242,6 +246,23 @@ export function Directory({
                 )}
               >
                 {p}
+              </button>
+            ))}
+          </div>
+        </CollapsibleSection>
+
+        <CollapsibleSection label="Source" collapsible={false}>
+          <div className="flex rounded-full border-[0.5px] border-border overflow-hidden text-xs">
+            {(["all", "foundry", "reseller"] as const).map((s) => (
+              <button
+                key={s}
+                onClick={() => setSource(s)}
+                className={cn(
+                  "flex-1 py-1 capitalize transition-colors",
+                  source === s ? "bg-foreground text-background" : "hover:bg-muted"
+                )}
+              >
+                {s === "foundry" ? "Foundries" : s === "reseller" ? "Resellers" : "All"}
               </button>
             ))}
           </div>
