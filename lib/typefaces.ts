@@ -185,6 +185,9 @@ import smussTypeKiosk from "@/data/typefaces-smuss-type-kiosk.json";
 import studioFeixen from "@/data/typefaces-studio-feixen-fonts.json";
 import openFoundry from "@/data/typefaces-open-foundry.json";
 import freeFaces from "@/data/typefaces-free-faces.json";
+import u270d from "@/data/typefaces-u270d.json";
+import xCicero from "@/data/typefaces-x-cicero.json";
+import lewisMcguffie from "@/data/typefaces-lewis-mcguffie.json";
 import studioTriple from "@/data/typefaces-studio-triple.json";
 import typeBy from "@/data/typefaces-type-by.json";
 import typeForward from "@/data/typefaces-type-forward.json";
@@ -446,6 +449,9 @@ export function getAllTypefaces(): Typeface[] {
         studioFeixen,
         openFoundry,
         freeFaces,
+        u270d,
+        xCicero,
+        lewisMcguffie,
         studioTriple,
         typeBy,
         typeForward,

@@ -3022,6 +3022,53 @@ const FOUNDRIES = [
       } catch { return false; }
     },
   },
+
+  // ---- Batch 21 ----
+  {
+    name: "U+270D",
+    slug: "u270d",
+    homepage: "https://u270d.eesab.fr/",
+    listingUrl: "https://u270d.eesab.fr/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("u270d.eesab.fr")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "projets" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "X Cicéro",
+    slug: "x-cicero",
+    homepage: "https://xcicero.esad-gv.net/",
+    listingUrl: "https://xcicero.esad-gv.net/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("xcicero.esad-gv.net")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        // URL pattern is /page/:slug/ (sometimes /page/:slug/index.php)
+        if (parts.length < 2 || parts[0] !== "page") return false;
+        return !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Lewis McGuffie",
+    slug: "lewis-mcguffie",
+    homepage: "https://www.lewismcguffie.com/",
+    listingUrl: "https://www.lewismcguffie.com/",
+    tier: "okay",
+    staticUrls: [
+      "https://www.lewismcguffie.com/Tekst-Roman",
+      "https://www.lewismcguffie.com/Jooks-Script-9B",
+    ],
+  },
 ];
 
 // ---- URL filter ----

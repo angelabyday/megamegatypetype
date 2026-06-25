@@ -188,14 +188,14 @@ Last updated: 2026-06-25.
 | Typespec | typespec.co.uk | best | Indexed | 13 | |
 | Dutype | dutypefoundry.com | best | Blocked | – | DNS dead — domain lapsed |
 | F37 Foundry | f37foundry.com | okay | Not registered | 76 | Data file exists — needs registering |
-| Fonts from Folch | fontsfromfolch.com | okay | Not registered | – | No individual typeface pages |
-| Lettermatic | lettermatic.com | okay | Not registered | – | |
-| Lewis McGuffie | lewismcguffie.com | okay | Not registered | – | |
-| Radim Pesko | radimpesko.com | okay | Not registered | – | |
-| Riegla & Riegraf | typefriends.com | okay | Not registered | – | |
-| U+270D | u270d.eesab.fr | okay | Not registered | – | |
-| Uxum | uxumuxum.com | okay | Not registered | – | |
-| X Cicéro | xcicero.esad-gv.net | okay | Not registered | – | |
+| Lewis McGuffie | lewismcguffie.com | okay | Indexed | 2 | Only 2 typefaces have dedicated pages |
+| U+270D | u270d.eesab.fr | okay | Indexed | 10 | |
+| X Cicéro | xcicero.esad-gv.net | okay | Indexed | 18 | 1 failed (Bocalupo — no Claude response) |
+| Fonts from Folch | fontsfromfolch.com | okay | Blocked | – | Single-page site; no individual typeface pages |
+| Lettermatic | lettermatic.com | okay | Indexed | 4 | Already registered |
+| Radim Pesko | radimpesko.com | okay | Indexed | – | Already registered |
+| Riegla & Riegraf | typefriends.com | okay | Blocked | – | Readymag subscription expired; site dead |
+| Uxum | uxumuxum.com | okay | Blocked | – | React SPA, single product — not a catalogue |
 | 205TF | 205.tf | okay | Blocked | – | Next.js RSC — zero links extracted |
 | Aeonik | aeonik.co.uk | best | Blocked | – | |
 | AlfaType Fonts Foundry | alfatypefonts.com | loose | Blocked | – | |

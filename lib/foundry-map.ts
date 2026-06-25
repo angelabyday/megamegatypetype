@@ -216,6 +216,10 @@ export const FOUNDRIES: FoundryInfo[] = [
   // Batch 18
   { name: "Google Fonts", slug: "google-fonts", homepage: "https://fonts.google.com/", tier: "okay" },
   { name: "6TM Magazine", slug: "6tm-magazine", homepage: "https://shop.6tm-magazine.com/", tier: "okay" },
+  // Batch 21
+  { name: "U+270D", slug: "u270d", homepage: "https://u270d.eesab.fr/", tier: "okay" },
+  { name: "X Cicéro", slug: "x-cicero", homepage: "https://xcicero.esad-gv.net/", tier: "okay" },
+  { name: "Lewis McGuffie", slug: "lewis-mcguffie", homepage: "https://www.lewismcguffie.com/", tier: "okay" },
 ];
 
 // Foundries confirmed unscrapable — JS-rendered, bot-blocked, or no listing page.
@@ -301,6 +305,9 @@ export const BLOCKED_FOUNDRIES: { domain: string; name: string; reason: string }
   { domain: "ultra-kuhl.com", name: "Ultra Kuhl", reason: "domain expired and hijacked; site dead" },
   { domain: "milieugrotesque.com", name: "Milieu Grotesque", reason: "domain redirects to MyFonts; foundry site gone" },
   { domain: "vllg.com", name: "Village", reason: "vllg.com permanently redirects to laborandwait.xyz; indexed separately as Labor and Wait" },
+  { domain: "typefriends.com", name: "Riegla & Riegraf", reason: "Readymag subscription expired; site dead" },
+  { domain: "uxumuxum.com", name: "Uxum", reason: "React SPA, single-product site — not a foundry catalogue" },
+  { domain: "fontsfromfolch.com", name: "Fonts from Folch", reason: "single-page site; no individual typeface pages to index" },
 ];
 
 export function getFoundryBySlug(slug: string): FoundryInfo | undefined {
