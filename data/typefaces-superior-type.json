@@ -1,0 +1,1606 @@
+[
+  {
+    "name": "Edgy",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/edgy",
+    "designer": "Matyáš Machat",
+    "year": null,
+    "category": "serif",
+    "subcategory": "Renaissance serif",
+    "classification_notes": "The foundry explicitly describes Edgy as an attempt to reconcile vector curves with the dynamic essence of Renaissance serif type, placing it squarely in the humanist/Renaissance serif tradition despite its contemporary digital construction approach.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Edgy"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "renaissance",
+      "humanist",
+      "variable",
+      "digital",
+      "editorial",
+      "contemporary"
+    ],
+    "summary": "A six-weight variable serif by Matyáš Machat that pushes Renaissance letterform construction to its geometric limits through minimal Bézier point count.",
+    "description": "Designed by Matyáš Machat, Edgy reconciles the organic logic of Renaissance serif type with the strict realities of vector drawing, paring each letterform back to the fewest Bézier points possible without losing its essential dynamism. Six static styles run from Light to ExtraBold, accompanied by a variable axis, and the family supports 302 languages across Latin script. OpenType features include oldstyle figures, discretionary ligatures, fractions and six stylistic sets.",
+    "foundry_blurb": "Superior Type describe Edgy as testing the limits of shapes, both digital and traditional. Its organic forms result from extremely strict construction that eliminates any unnecessary Bézier points, framing the typeface as an attempt to reconcile the nature of vector curves with the dynamic essence of Renaissance serif type."
+  },
+  {
+    "name": "Epika",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/epika",
+    "designer": "Rostislav Vaněk",
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "Epika is a serif with playful details and unexpected letterform quirks grafted onto a composed, balanced construction — sitting between classical British typographic tradition and a more expressive Italian sensibility.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Epika"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "contemporary",
+      "playful",
+      "editorial",
+      "variable",
+      "expressive",
+      "multilingual",
+      "refined"
+    ],
+    "summary": "A contemporary serif with 16 styles and a variable axis, folding subtle quirks and unexpected letterform details into an otherwise composed, balanced construction.",
+    "description": "Designed by Rostislav Vaněk in collaboration with Matyáš Machat and Petr Kučera, Epika spans eight weights from ExtraLight to Black, each with a matching italic, plus a variable font. The design takes a broadly classical serif structure and introduces idiosyncratic details — alternate letterforms across 19 stylistic sets and 13 OpenType features including small caps, swash, oldstyle figures and discretionary ligatures. Coverage extends to 310 languages within the Latin script.",
+    "foundry_blurb": "Superior Type describe Epika as British typography meeting Italian sensibility, bringing playfulness through detail into the serif genre. Subtle quirks, unexpected shapes and refined nuances give the typeface a sense of delight, while the overall construction stays composed and balanced."
+  },
+  {
+    "name": "Epika Condensed",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/epika-condensed",
+    "designer": "Rostislav Vaněk",
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "A serif typeface with condensed proportions and playful detail work; the foundry describes a blend of British typography and Italian sensibility, placing it in a contemporary, character-rich serif tradition rather than any strict historical model.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Epika Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "serif",
+      "playful",
+      "editorial",
+      "variable",
+      "contemporary",
+      "display",
+      "text"
+    ],
+    "summary": "A condensed serif with 16 styles and variable font support, mixing considered detail with a composed overall structure across eight weights.",
+    "description": "Designed by Rostislav Vaněk with collaboration from Matyáš Machat and Petr Kučera, Epika Condensed runs from ExtraLight to Black with matching italics throughout. The foundry describes its character as a meeting of British typographic discipline and Italian sensibility, expressed through subtle quirks and unexpected letterform decisions that sit within a balanced construction. Nineteen stylistic sets and a broad OpenType feature set including small caps, swash, oldstyle figures and discretionary ligatures give it considerable flexibility for editorial and display use.",
+    "foundry_blurb": "Superior Type describe Epika Condensed as introducing playfulness through detail into the serif genre, as if British typography met Italian sensibility. Subtle quirks and unexpected shapes bring delight while the overall construction stays composed and balanced. The family ships with 16 styles, variable font support, 310 language coverage, 19 stylistic sets and 13 OpenType features."
+  },
+  {
+    "name": "Gradient Comic",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/gradient-comic",
+    "designer": "Matyáš Machat",
+    "year": null,
+    "category": "display",
+    "subcategory": "casual sans",
+    "classification_notes": "Described as bridging constructed sans-serif features with playful handwriting, the Comic variant leans into informal, casual letterform diversity typical of display or comic-style sans faces.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gradient Comic"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "comic",
+      "casual",
+      "handwriting",
+      "display",
+      "variable",
+      "sans-serif",
+      "playful",
+      "editorial"
+    ],
+    "summary": "A casual sans with handwriting inflections, built around a recurring diagonal stroke that ties together deliberately diverse letterforms across eight weights and a variable axis.",
+    "description": "Gradient Comic sits between constructed sans-serif geometry and loose handwriting, with individual letterforms allowed to vary rather than conform to strict uniformity. A diagonal stroke recurring throughout the family serves as the only unifying design element, referencing multiple strands of 20th-century type history. The family ships in eight styles from Thin to ExtraBold, with a variable font included, 10 stylistic sets and support for 308 languages within the Latin script.",
+    "foundry_blurb": "Superior Type describe Gradient Comic as a transitional typeface that connects constructed sans-serif features with the freedom of playful handwriting. Rather than enforcing strict unification, the design embraces diversity in individual letterforms, with a recurring diagonal stroke as the sole binding element, acting as a subtle reference to multiple historical design languages of the 20th century."
+  },
+  {
+    "name": "Gradient",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/gradient",
+    "designer": "Matyáš Machat",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as a transitional typeface bridging constructed sans-serif structures with handwriting-derived freedom; diversity in individual letterforms and a recurring diagonal stroke link it to humanist sans traditions.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gradient"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "handwriting-influenced",
+      "variable",
+      "editorial",
+      "contemporary",
+      "playful",
+      "latin"
+    ],
+    "summary": "A sans-serif spanning eight weights and a variable axis, built on the tension between geometric construction and handwritten looseness.",
+    "description": "Designed by Matyáš Machat, Gradient treats individual letterform diversity as a feature rather than an inconsistency, allowing each glyph some expressive latitude. A shared diagonal stroke runs through the family as a unifying thread, referencing multiple 20th-century design languages without committing to any single one. Ten stylistic sets and a broad 308-language Latin coverage give it considerable flexibility for editorial and branding work.",
+    "foundry_blurb": "Superior Type describe Gradient as a transitional typeface that connects constructed sans-serif features with the freedom of playful handwriting. Rather than enforcing strict formal unity, its design embraces diversity in individual letterforms, with a recurring diagonal stroke serving as the sole binding element — a subtle nod to multiple historical design languages of the 20th century."
+  },
+  {
+    "name": "Gradient Gothic",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/gradient-gothic",
+    "designer": "Matyáš Machat",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "gothic sans",
+    "classification_notes": "Described as a transitional typeface connecting constructed sans-serif features with playful handwriting; the gothic naming and diagonal stroke motif place it in the gothic sans tradition with expressive, humanist inflections.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gradient Gothic"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "gothic",
+      "sans-serif",
+      "variable",
+      "expressive",
+      "handwriting-influenced",
+      "display",
+      "multilingual",
+      "playful"
+    ],
+    "summary": "A sans-serif by Matyáš Machat that bridges constructed gothic letterforms with the looseness of handwritten script, unified by a recurring diagonal stroke.",
+    "description": "Eight static styles from Thin to ExtraBold are accompanied by a variable axis, giving designers fine control across the full weight range. Rather than imposing uniformity across letterforms, the design embraces diversity in individual characters, with a diagonal stroke acting as the sole binding element and a nod to 20th-century graphic traditions. Ten stylistic sets and a broad feature set including oldstyle figures, discretionary ligatures and contextual alternates add considerable flexibility for editorial and display use.",
+    "foundry_blurb": "Superior Type describe Gradient Gothic as a transitional typeface conceived to connect constructed sans-serif features with the freedom of playful handwriting. Rather than enforcing strict unification, the design embraces diversity across individual letterforms, with a recurring diagonal stroke as the only binding element — a subtle reference to multiple historical design languages of the 20th century."
+  },
+  {
+    "name": "Grain",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/grain",
+    "designer": "Petr Kučera",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Grain is described as a grotesque constructed from simple forms with compact spacing; its soft, controlled curves and restrained presence place it firmly within the grotesque sans-serif tradition.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grain"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "compact",
+      "neutral",
+      "legible",
+      "variable",
+      "soft",
+      "text",
+      "editorial"
+    ],
+    "summary": "A compact grotesque with soft, controlled curves and restrained spacing, available in 18 styles plus a variable font, covering Latin and Cyrillic.",
+    "description": "Designed by Petr Kučera, Grain is built from simple geometric forms with compact spacing that keeps text tight without feeling cramped. Curves are settled and unaccented, lending the face a quiet, controlled character suited to extended reading as much as display work. Nine weights from Thin to Black each carry matching italics, and a variable font spans the full range.",
+    "foundry_blurb": "Superior Type describe Grain as a grotesque constructed from simple forms with compact spacing, noting that its drawing is soft yet controlled, with curves that remain settled and unaccented. They emphasise that clarity and readability are maintained while the typeface keeps a restrained presence on the page."
+  },
+  {
+    "name": "Lenora",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/lenora",
+    "designer": "Vojtěch Říha",
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast serif",
+    "classification_notes": "Lenora draws explicit inspiration from Didot and Bodoni, placing it firmly in the high-contrast, Didone tradition typical of fashion and editorial headline serifs.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lenora"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "high-contrast",
+      "editorial",
+      "fashion",
+      "headline",
+      "display",
+      "elegant"
+    ],
+    "summary": "A Didone headline serif by Vojtěch Říha, built around high contrast and expressive curves aimed at fashion and editorial contexts.",
+    "description": "Drawing from Didot and Bodoni, Lenora is a high-contrast display serif with eight static weights from Thin to ExtraBold, plus a variable font axis. Its proportions and rhythmic contrast are tuned for large-scale headline setting in fashion and editorial work. Twelve stylistic sets and a broad Latin coverage of 308 languages give it practical flexibility beneath its decorative surface.",
+    "foundry_blurb": "Superior Type describe Lenora as born from typographic fantasy, inspired by the refined details of Didot and Bodoni and the visual language of fashion and editorial design. They say its construction embraces elegance and contrast, allowing shapes, proportions, and rhythm to take centre stage with a distinctly expressive attitude."
+  },
+  {
+    "name": "Lenora Grade",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/lenora-grade",
+    "designer": "Vojtěch Říha",
+    "year": null,
+    "category": "serif",
+    "subcategory": "didone",
+    "classification_notes": "Lenora Grade draws explicitly from Didot and Bodoni, featuring high stroke contrast and the vertical stress characteristic of the didone tradition, positioned for headline and editorial use.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lenora Grade"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "high-contrast",
+      "editorial",
+      "fashion",
+      "headline",
+      "display",
+      "luxury"
+    ],
+    "summary": "A high-contrast didone serif by Vojtěch Říha, drawing from Didot and Bodoni for headline and fashion editorial work.",
+    "description": "Designed by Vojtěch Říha, Lenora Grade sits firmly in the didone tradition, borrowing the sharp stroke contrast and refined proportions of Didot and Bodoni. Eight weights run from Thin to ExtraBold, supported by a variable font axis and a broad Latin language coverage spanning 308 languages. The family is pitched squarely at editorial, fashion and luxury branding contexts where expressive contrast and typographic elegance are the primary requirements.",
+    "foundry_blurb": "Superior Type describe Lenora Grade as born from typographic fantasy, drawing inspiration from the refined details of Didot and Bodoni alongside the visual language of fashion and editorial design. Its construction embraces elegance and contrast, allowing shapes, proportions and rhythm to take centre stage with a distinctly expressive attitude."
+  },
+  {
+    "name": "Mixtape",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/mixtape",
+    "designer": "Rostislav Vaněk",
+    "year": 2008,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Mixtape is rooted in Bauhaus and avant-garde principles with Futura as a historical reference point, placing it firmly in the geometric sans-serif tradition, though the designer distinguishes it as a practical text-oriented family rather than a strict geometric revival.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mixtape"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "bauhaus",
+      "avant-garde",
+      "text",
+      "variable",
+      "functional",
+      "contemporary"
+    ],
+    "summary": "A geometric sans-serif with Bauhaus roots designed for practical text use, available across 18 styles and a variable axis.",
+    "description": "Originating in 2008, Mixtape draws on Bauhaus and avant-garde principles while positioning itself as a workhorse text family rather than a historical revival. Futura is acknowledged as a reference point, but the family stakes out its own ground with nine weights from Thin to Black, each with a matching italic, plus variable font support. Coverage extends to 302 languages across the Latin script, and OpenType features include oldstyle figures, fractions and stylistic alternates.",
+    "foundry_blurb": "Superior Type describe Mixtape as a typeface family with origins in 2008, conceived by Rostislav Vaněk to combine Bauhaus and avant-garde principles with practical text usability. While Futura is cited as a historical reference, they note that Mixtape defines its own territory — functional, contemporary, and distinct from its influences."
+  },
+  {
+    "name": "Mixtape Condensed",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/mixtape-condensed",
+    "designer": "Rostislav Vaněk",
+    "year": 2008,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Rooted in Bauhaus and avant-garde principles with Futura as a historical reference point, Mixtape Condensed is a geometric sans-serif with a condensed cut across nine weights.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Mixtape Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "condensed",
+      "bauhaus",
+      "avant-garde",
+      "variable",
+      "text",
+      "functional",
+      "contemporary"
+    ],
+    "summary": "A condensed geometric sans with Bauhaus roots, offered in nine weights with matching italics and a variable axis across 18 styles.",
+    "description": "Originally conceived in 2008 by Rostislav Vaněk, Mixtape Condensed draws on Bauhaus and avant-garde traditions while positioning itself as a practical text face rather than a Futura revival. The family spans nine weights from Thin to Black, each with a matching italic, and is also available as a variable font. With coverage of 302 languages across the Latin script and a suite of OpenType features including oldstyle figures, fractions and a slashed zero, it is built for sustained text use at condensed widths.",
+    "foundry_blurb": "Superior Type describe Mixtape Condensed as tracing its origins to 2008, when designer Rostislav Vaněk set out to create a typeface rooted in Bauhaus and avant-garde principles while remaining grounded in practical text use. Though Futura served as a historical reference point, they note that Mixtape ultimately defines its own territory, describing it as functional, contemporary and distinct from its influences."
+  },
+  {
+    "name": "Micro",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/micro",
+    "designer": "Marek Pistora",
+    "year": 2001,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Micro features rounded forms alongside sharper geometric cuts, characteristic of early 2000s digital product aesthetics; its clean construction and variable axis place it firmly in the geometric sans category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Micro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "y2k",
+      "digital",
+      "variable",
+      "editorial",
+      "early-2000s"
+    ],
+    "summary": "A geometric sans drawn from early-2000s product and digital aesthetics, available in 14 styles and a variable font.",
+    "description": "Originally conceived in 2001, Micro takes its formal cues from the rounded contours of early portable electronics and the crisper geometry of PlayStation 2-era industrial design. That tension between soft and sharp is built into the letterforms themselves, giving the family a specific period character without tipping into pastiche. Fourteen styles run from Light to Black with matching italics, supplemented by a variable font and a set of OpenType features including oldstyle figures, discretionary ligatures and fractions across 302 languages.",
+    "foundry_blurb": "Superior Type describe Micro as originally designed in 2001, absorbing the visual language of its time. Rounded forms recall the soft industrial design of early discmans, while sharper cuts echo the crisp geometry of the PlayStation 2 era. This contrast is embedded directly into the typeface, reflecting a moment when digital and physical aesthetics began to overlap."
+  },
+  {
+    "name": "Mixtape ExtraCondensed",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/mixtape-extracondensed",
+    "designer": "Rostislav Vaněk",
+    "year": 2008,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Rooted in Bauhaus and avant-garde principles with Futura as a historical reference, Mixtape ExtraCondensed is a geometric sans in an extra-condensed cut with 18 styles across nine weights.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "ExtraCondensed"
+    ],
+    "subfamilies": [
+      "Mixtape ExtraCondensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "condensed",
+      "bauhaus",
+      "avant-garde",
+      "variable",
+      "extended-latin",
+      "display",
+      "text"
+    ],
+    "summary": "A Bauhaus-rooted geometric sans in an extra-condensed cut, offered across nine weights with italics and a variable axis, covering 302 languages in Latin script.",
+    "description": "Originating from a 2008 project by Rostislav Vaněk, this extra-condensed geometric sans draws on Bauhaus and avant-garde principles while distancing itself from direct Futura derivation. Eighteen static styles run from Thin to Black with matching italics, complemented by a variable font, and the family supports an unusually broad range of 302 Latin-script languages. OpenType features include oldstyle figures, fractions, superscripts, subscripts and a slashed zero, making it practical beyond display settings.",
+    "foundry_blurb": "Superior Type describe Mixtape ExtraCondensed as originating in 2008, when designer Rostislav Vaněk set out to create a typeface rooted in Bauhaus and avant-garde principles while remaining grounded in practical text use. Though Futura served as a historical reference point, they note that Mixtape defines its own territory as functional, contemporary and distinct from its influences."
+  },
+  {
+    "name": "Nika Condensed",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/nika-condensed",
+    "designer": "Rostislav Vaněk",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "condensed sans",
+    "classification_notes": "A condensed sans-serif with deliberate stroke modulation and contrast, departing from the strict uniformity typical of grotesque or geometric sans families.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Nika Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "sans-serif",
+      "modulated",
+      "variable",
+      "branding",
+      "display",
+      "editorial"
+    ],
+    "summary": "A condensed sans-serif with 16 styles and a variable axis, distinguished by deliberate stroke modulation that adds depth and tension without ornament.",
+    "description": "Designed by Rostislav Vaněk in collaboration with Matyáš Machat and Petr Kučera, Nika Condensed introduces controlled contrast within strokes to a genre that typically prizes uniformity. Eight weights from ExtraLight to Black each carry italic counterparts, and a variable font file spans the full range. The stroke modulation gives it a sense of movement suited to branding and display work where a plain condensed grotesque would read as inert.",
+    "foundry_blurb": "Superior Type describe Nika Condensed as bringing expressive shading and controlled variability to the sans-serif genre. Rather than adhering to strict uniformity, the design uses modulation and contrast within strokes to create depth, tension, and movement, resulting in a typeface that feels dynamic without becoming ornamental."
+  },
+  {
+    "name": "Nika",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/nika",
+    "designer": "Rostislav Vaněk",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Nika is a sans-serif with deliberate stroke modulation and contrast, departing from strict grotesque uniformity; the organic tension in its strokes places it closest to the humanist sans tradition.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nika"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "modulated",
+      "variable",
+      "expressive",
+      "branding",
+      "dynamic",
+      "stroke-contrast"
+    ],
+    "summary": "A sans-serif with controlled stroke modulation by Rostislav Vaněk, adding depth and tension without drifting into ornament.",
+    "description": "Nika introduces deliberate shading and contrast into a sans-serif framework, departing from the flat uniformity typical of the genre. Sixteen static styles run from ExtraLight to Black with matching italics, and a variable font spans the weight axis across 308 languages within the Latin script. Developed with collaboration from Matyáš Machat and Petr Kučera, it suits branding and editorial contexts where a geometric-feeling sans risks feeling too cold.",
+    "foundry_blurb": "Superior Type describe Nika as bringing expressive shading and controlled variability to the sans-serif genre. Its design uses modulation and contrast within strokes to add depth, tension, and a sense of movement, producing a typeface that feels dynamic without becoming ornamental."
+  },
+  {
+    "name": "Prizma",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/prizma",
+    "designer": "Rostislav Vaněk",
+    "year": null,
+    "category": "display",
+    "subcategory": "stencil",
+    "classification_notes": "Prizma is explicitly described as a stencil typeface, though it extends the category with decorative details including swashes and alternates. Its sharp-meets-rounded character and display-oriented presence place it firmly in the display category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Prizma"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "display",
+      "variable",
+      "swash",
+      "decorative",
+      "fashion",
+      "contemporary"
+    ],
+    "summary": "A stencil display family from Rostislav Vaněk that pairs sharp and rounded forms, enriched with swashes, oldstyle figures and 17 stylistic sets across 12 styles plus a variable font.",
+    "description": "Built on the visual tension between sharp and rounded shapes, Prizma moves beyond the utilitarian conventions of stencil type by introducing decorative swashes and lowercase figure variants that give it an unusual richness. Six weights from Light to ExtraBold each carry a matching italic, and the variable axis allows continuous interpolation across the range. With 308-language Latin coverage and a broad OpenType feature set, it suits fashion, editorial and identity work that wants stencil character without stencil austerity.",
+    "foundry_blurb": "Superior Type describe Prizma as a typeface that combines sharp and rounded shapes in a refined typographic interplay. While it fulfils the functional requirements of a stencil typeface, it extends beyond the expected boundaries of the category, with decorative details including swashes and lowercase figures introducing an unusual richness rarely associated with stencil designs."
+  },
+  {
+    "name": "Nika Expanded",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/nika-expanded",
+    "designer": "Rostislav Vaněk",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "expanded grotesque",
+    "classification_notes": "A sans-serif with stroke modulation and contrast rather than strict uniformity, placing it closer to a humanist or modulated grotesque; the expanded width variant gives it a distinctive display character.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Nika Expanded"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "expanded",
+      "modulated",
+      "variable",
+      "display",
+      "branding",
+      "expressive"
+    ],
+    "summary": "An expanded sans-serif with deliberate stroke modulation that introduces depth and tension without veering into ornament.",
+    "description": "Designed by Rostislav Vaněk in collaboration with Matyáš Machat and Petr Kučera, Nika Expanded applies contrast and modulation within strokes to a broadly expanded sans-serif structure, creating a sense of movement uncommon in the genre. Sixteen static styles run from ExtraLight to Black with matching italics, and a variable font is included. OpenType features cover oldstyle figures, fractions, discretionary ligatures and alternate single- and double-storey letterforms.",
+    "foundry_blurb": "Superior Type describe Nika Expanded as bringing expressive shading and controlled variability to the sans-serif genre, departing from strict uniformity through stroke modulation and contrast to produce depth, tension and movement without becoming ornamental."
+  },
+  {
+    "name": "Nika ExtraCondensed",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/nika-extracondensed",
+    "designer": "Rostislav Vaněk",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "condensed grotesque",
+    "classification_notes": "A sans-serif with modulated stroke contrast and an extra-condensed width; the controlled shading departs from strict grotesque uniformity while remaining within the sans-serif tradition.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "ExtraCondensed"
+    ],
+    "subfamilies": [
+      "Nika ExtraCondensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "grotesque",
+      "modulated",
+      "variable",
+      "display",
+      "branding",
+      "expressive"
+    ],
+    "summary": "An extra-condensed sans with modulated stroke contrast that introduces depth and movement without ornament.",
+    "description": "Designed by Rostislav Vaněk with collaboration from Matyáš Machat and Petr Kučera, this extra-condensed sans departs from strict geometric uniformity by introducing controlled stroke modulation and contrast. The result is a family of 16 styles spanning ExtraLight to Black with matching italics, all available as a variable font across 308 languages in Latin script. The tension between condensed rigidity and expressive shading makes it well suited to branding, editorial headlines and display applications.",
+    "foundry_blurb": "Nika ExtraCondensed brings expressive shading and controlled variability to the sans-serif genre. Its design uses modulation and stroke contrast to add depth, tension and a sense of movement, producing a typeface that feels dynamic without becoming ornamental. The family ships as 16 static styles plus a variable font, covering 308 languages in Latin script."
+  },
+  {
+    "name": "Raptor V1",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/raptor-v1",
+    "designer": "Vojtěch Říha",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The foundry explicitly describes it as a geometric sans-serif positioned between Futura and Helvetica, combining geometric clarity with proportions tuned for text.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Raptor V1"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "variable",
+      "text",
+      "futura-influenced",
+      "multilingual",
+      "contemporary"
+    ],
+    "summary": "A geometric sans positioned between Futura and Helvetica, offered in 18 styles plus a variable font with Latin and Cyrillic coverage.",
+    "description": "Drawing from historical geometric references while avoiding short-lived trends, Raptor V1 combines clean geometric structure with proportions suited to continuous reading. Nine weights from Thin to Black each carry an italic, and a variable font spans the full range. Twelve stylistic sets and nine OpenType features including oldstyle figures and slashed zero give it flexibility across branding and editorial contexts.",
+    "foundry_blurb": "Superior Type describe Raptor V1 as a geometric sans designed for fresh, confident typography with a high level of reading comfort. It draws from historical references while introducing details outside short-lived trends, positioned somewhere between Futura and Helvetica with geometric clarity and text-optimised proportions."
+  },
+  {
+    "name": "Raptor V2",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/raptor-v2",
+    "designer": "Vojtěch Říha",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as a geometric sans-serif positioned between Futura and Helvetica, combining geometric clarity with text-optimised proportions.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "ExtraBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Raptor V2"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "variable",
+      "text",
+      "futura-influenced",
+      "multilingual",
+      "reading-comfort"
+    ],
+    "summary": "A geometric sans-serif positioned between Futura and Helvetica, available in 18 styles plus a variable font with Latin and Cyrillic coverage.",
+    "description": "Designed by Vojtěch Říha, Raptor V2 sits in the territory between geometric rigidity and text-friendly proportions, drawing on historical references without committing to any single period or movement. The family spans nine weights from Thin to Black, each with a matching italic, and is also available as a variable font. Support for 351 languages across Latin and Cyrillic scripts, alongside features including oldstyle figures, fractions and 12 stylistic sets, makes it a practical choice for multilingual editorial and branding work.",
+    "foundry_blurb": "Superior Type describe Raptor V2 as a geometric sans-serif designed for fresh, confident typography with a high level of reading comfort. Drawing from historical references while avoiding short-lived trends, it is positioned somewhere between Futura and Helvetica, combining geometric clarity with proportions optimised for continuous text."
+  },
+  {
+    "name": "Raptor V3",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/raptor-v3",
+    "designer": "Vojtěch Říha",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described by the foundry as a geometric sans-serif positioned between Futura and Helvetica, combining geometric clarity with text-optimised proportions — a clear geometric sans classification.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Raptor V3"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "variable",
+      "text",
+      "confident",
+      "multilingual",
+      "futura-influenced",
+      "helvetica-influenced"
+    ],
+    "summary": "A geometric sans-serif with 18 styles and a variable axis, positioned between Futura and Helvetica with an emphasis on reading comfort.",
+    "description": "Drawing from historical geometric references while aiming to avoid short-lived trends, Raptor V3 sits in the space between the strict geometry of Futura and the neutral proportions of Helvetica. Nine weights from Thin to Black each carry matching italics, and the family is available as a variable font. Latin and Cyrillic scripts are covered across 351 languages, with a full suite of OpenType features including oldstyle figures, fractions and 12 stylistic sets.",
+    "foundry_blurb": "Superior Type describe Raptor V3 as a geometric sans-serif designed for fresh, confident typography with a high level of reading comfort. It draws from historical references while introducing details intended to sit outside short-lived trends, positioned somewhere between Futura and Helvetica with proportions optimised for continuous text."
+  },
+  {
+    "name": "Restart Ginger",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/restart-ginger",
+    "designer": "Vojtěch Říha",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "The foundry explicitly describes Restart Ginger as taking the neo-grotesque sans-serif as its starting point, with selected characters reworked to inject expressive tension while preserving readability.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Restart Ginger"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "expressive",
+      "variable",
+      "branding",
+      "editorial",
+      "multilingual",
+      "disrupted"
+    ],
+    "summary": "A neo-grotesque with selectively reworked characters that inject expressive tension into an otherwise familiar structure.",
+    "description": "Built on the foundation of Superior Type's Restart Hard, Restart Ginger takes the neo-grotesque as its base and deliberately disrupts it by partially or radically reworking individual characters. The result is a family of 18 styles spanning Thin to Black with matching italics, plus a variable font, covering Latin and Cyrillic across 351 languages. It sits between workhorse neutrality and expressive display work, with nine stylistic sets and a full suite of OpenType features giving designers granular control.",
+    "foundry_blurb": "Superior Type describe Restart Ginger as a neo-grotesque that takes Restart Hard as its foundation, then partially and at times radically reworks selected characters to inject a sharper rhythm and expressive tension while preserving readability. Version 2.0, designed by Vojtěch Říha, ships in 18 styles with variable font support and covers Latin and Cyrillic scripts."
+  },
+  {
+    "name": "Restart Soft",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/restart-soft",
+    "designer": "Vojtěch Říha",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "The foundry explicitly describes it as a neo-grotesque sans-serif, characterised by a generous x-height, clear stroke endings and tight spacing — consistent hallmarks of the neo-grotesque tradition.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Restart Soft"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "branding",
+      "variable",
+      "corporate",
+      "legible",
+      "extended-latin",
+      "cyrillic"
+    ],
+    "summary": "A neo-grotesque sans with 18 styles and variable font support, covering Latin and Cyrillic with a generous x-height and tight spacing suited to branding and identity work.",
+    "description": "Designed by Vojtěch Říha, Restart Soft follows the neo-grotesque model with clear stroke endings, open spacing and a tall x-height that keeps it legible across a wide range of sizes and contexts. Nine weights run from Thin to Black, each with a matching italic, and the family is also available as a variable font. Latin and Cyrillic script coverage and ten stylistic sets give it reasonable flexibility for multilingual brand applications.",
+    "foundry_blurb": "Superior Type describe Restart Soft as a neo-grotesque sans-serif that embodies what some consider the pinnacle of the Latin script — defined by readability and broad usability. A generous x-height, clear stroke endings and tight spacing ensure clarity across a wide range of applications, with the family available in 18 static styles plus a variable font, covering Latin and Cyrillic scripts."
+  },
+  {
+    "name": "Restart Hard",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/restart-hard",
+    "designer": "Vojtěch Říha",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "The foundry explicitly describes it as a neo-grotesque sans-serif, with a generous x-height, clear stroke endings and tight spacing consistent with that tradition.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Restart Hard"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "variable",
+      "branding",
+      "corporate",
+      "contemporary",
+      "multilingual"
+    ],
+    "summary": "A neo-grotesque sans covering Latin and Cyrillic in 18 styles plus a variable font, designed for branding and broad editorial use.",
+    "description": "Designed by Vojtěch Říha, Restart Hard follows the neo-grotesque tradition with a generous x-height, clean stroke terminals and tight spacing aimed at clarity across print and screen. The family runs from Thin to Black with matching italics, totalling 18 static styles alongside a variable font, and supports 351 languages across Latin and Cyrillic scripts. Ten stylistic sets and a full suite of OpenType features including old-style figures, fractions and slashed zero give it practical depth for identity and typographic systems work.",
+    "foundry_blurb": "Superior Type describe Restart Hard as a neo-grotesque sans-serif, positioning it within a tradition they frame as the pinnacle of the Latin script. They highlight its generous x-height, clear stroke endings and tight spacing as the basis for its readability and broad usability across applications."
+  },
+  {
+    "name": "Rytual ExtraCondensed",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/rytual-extracondensed",
+    "designer": "Petr Kučera",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "An extra condensed sans-serif with a grotesque character, designed around consistent repetition of a single decision across weights and widths. The narrow proportions and upright structure place it firmly in the grotesque sans tradition.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "ExtraCondensed"
+    ],
+    "subfamilies": [
+      "Rytual ExtraCondensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "grotesque",
+      "variable",
+      "display",
+      "editorial",
+      "tight",
+      "narrow"
+    ],
+    "summary": "An extra condensed grotesque sans in 18 styles plus a variable axis, covering Latin and Cyrillic, grown from a custom commission into a full family.",
+    "description": "Designed by Petr Kučera and originating as a custom typeface for a friend, Rytual ExtraCondensed builds its character through accumulated consistency rather than any single dramatic formal gesture. The family spans 18 styles across a substantial weight range from Thin to Black, each with matching italics, and ships with a variable font. Fourteen stylistic sets and OpenType features including oldstyle figures and localised forms extend its typographic range for display and editorial work.",
+    "foundry_blurb": "Superior Type describe the name as coming from a running habit — same time, same route, same coffee after — and say the typeface follows the same logic: no single dramatic move, just one decision repeated consistently until character accumulates. What started as a custom job grew into a full family, shaped by the rhythm that ran alongside its creation."
+  },
+  {
+    "name": "Rytual Condensed",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/rytual-condensed",
+    "designer": "Petr Kučera",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "condensed grotesque",
+    "classification_notes": "A condensed sans-serif with grotesque characteristics, presented as a narrow counterpart to the Rytual family, with upright and italic cuts across multiple weights.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Rytual Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "grotesque",
+      "editorial",
+      "display",
+      "variable",
+      "cyrillic",
+      "narrow",
+      "contemporary"
+    ],
+    "summary": "A condensed grotesque sans by Petr Kučera, offered in 18 styles plus a variable font with Latin and Cyrillic coverage.",
+    "description": "Designed by Petr Kučera and released by Superior Type, Rytual Condensed is a narrow grotesque that grew from a custom commission into a full family. It spans nine weights from Thin to Black with matching italics and is available as a variable font for flexible weight interpolation. Latin and Cyrillic script support, alongside 14 stylistic sets and OpenType features including oldstyle figures and fractions, make it suited to editorial and display applications.",
+    "foundry_blurb": "Superior Type describe Rytual Condensed as a typeface that follows the logic of a personal ritual: no single dramatic gesture, just one decision repeated consistently until character accumulates. What began as a custom job for a friend grew into a full family, shaped by the rhythm of a daily running route at the same time, on the same path, whatever the weather."
+  },
+  {
+    "name": "Rytual",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/rytual",
+    "designer": "Petr Kučera",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The specimen and design logic suggest a contemporary grotesque sans with condensed tendencies and variable axis support, built around consistent rhythmic structure rather than dramatic stylistic gesture.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rytual"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "variable",
+      "condensed",
+      "editorial",
+      "display",
+      "contemporary",
+      "rhythm"
+    ],
+    "summary": "A grotesque sans by Petr Kučera that grew from a custom commission into an 18-style variable family covering Latin and Cyrillic.",
+    "description": "Originating as a bespoke project for a friend, Rytual expanded into a full family of 18 styles plus a variable font, with weights running from Thin to Black and matching italics. The design philosophy favours accumulated consistency over single dramatic moves, a logic the foundry traces directly to the routine of a daily run. Cyrillic support broadens its reach, and a suite of 14 stylistic sets and 9 OpenType features adds flexibility for editorial and display use.",
+    "foundry_blurb": "Superior Type describe Rytual as a typeface that follows the logic of a running ritual: same time, same route, same coffee after. What began as a custom job for a friend grew into a full family, shaped by the rhythm that ran alongside its development. The name itself is a contraction of that routine."
+  },
+  {
+    "name": "Svatopluk Max",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/svatopluk-max",
+    "designer": "Vojtěch Říha",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "expressive sans",
+    "classification_notes": "A sans-serif with exaggerated, unruly curves and bold character that push it firmly into expressive territory; the page describes it as the wilder counterpart to Svatopluk, leaning into playful energy over neutrality.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Svatopluk Max"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "expressive",
+      "variable",
+      "display",
+      "playful",
+      "bold",
+      "multilingual",
+      "contemporary"
+    ],
+    "summary": "The expressive, more unruly sibling of Svatopluk, with sharper curves and amplified movement across 18 styles and a variable axis.",
+    "description": "Designed by Vojtěch Říha, Svatopluk Max takes the structural foundations of the Svatopluk family and exaggerates them into something louder and more characterful. Curves are sharper and less restrained, lending the typeface a playful energy suited to display and editorial contexts where personality is the priority. The family spans nine weights from Thin to Black, each with a matching italic, and covers Latin and Cyrillic scripts across 351 languages.",
+    "foundry_blurb": "Superior Type describe Svatopluk Max as the wilder counterpart within its family, pushing expression to the foreground with curves that are sharper, bolder and more unruly. They note that the typeface amplifies movement and character while maintaining structural control, creating a louder and more playful voice without slipping into chaos."
+  },
+  {
+    "name": "Serial",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/serial",
+    "designer": "Rostislav Vaněk",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described by the foundry as a pragmatic grotesque with narrow proportions and a rigid geometric construction, placing it at the intersection of grotesque and geometric sans traditions.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Serial"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "condensed",
+      "pragmatic",
+      "neutral",
+      "editorial",
+      "variable"
+    ],
+    "summary": "A narrow, geometrically constructed grotesque in 16 styles with variable font support, designed for structural precision and consistent rhythm across weights.",
+    "description": "Built on deliberately restrained drawing principles, Serial prioritises structural precision and controlled relationships between letterforms. Its narrow proportions give it an efficient, compact character suited to settings where space is at a premium. Sixteen styles run from Thin to ExtraBold with matching italics, backed by a variable font and OpenType features including oldstyle figures, discretionary ligatures and six stylistic sets.",
+    "foundry_blurb": "Superior Type describe Serial as a pragmatic grotesque defined by narrow proportions and a rigid geometric construction. The drawing is deliberately restrained, focusing on structural precision, consistent rhythm and controlled relationships between forms, with reduced width reinforcing efficiency and compactness across its 16 styles."
+  },
+  {
+    "name": "Svatopluk",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/svatopluk",
+    "designer": "Vojtěch Říha",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A clean, upright sans with geometric proportions and humanist personality details such as a looped lowercase 'a' and expressive dot, placing it firmly in the geometric sans tradition with humanist inflections.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Svatopluk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "humanist",
+      "variable",
+      "multilingual",
+      "cyrillic",
+      "display",
+      "text",
+      "playful"
+    ],
+    "summary": "A geometric sans with humanist personality details, available in 18 static styles and a variable font covering Latin and Cyrillic scripts.",
+    "description": "Designed by Vojtěch Říha, Svatopluk draws on the designer's childhood fascination with trains, planes and complex systems built from simple parts. Distinctive letterforms including a looped lowercase 'a', a turned tail on the 'g' and an expressive dot introduce character without compromising legibility. The family spans nine weights from Thin to Black, each with a matching italic, supported by a variable font and a broad language coverage of 351 languages across Latin and Cyrillic scripts.",
+    "foundry_blurb": "Superior Type describe Svatopluk as inspired by the technical curiosity of a seven-year-old mind fascinated by trains, planes, trams and complex systems built from simple parts. The typeface balances logic with playfulness, with distinctive details such as a looped lowercase 'a', a turned tail on the 'g' and an expressive dot that introduce personality while preserving usability — precise yet human, structured yet gently unconventional."
+  },
+  {
+    "name": "Typograf",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/typograf",
+    "designer": "Rostislav Vaněk",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A clean, contemporary sans-serif with geometric tendencies, designed specifically for UI environments with a uniwidth constraint across all styles.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Typograf"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "uniwidth",
+      "ui",
+      "interface",
+      "geometric",
+      "variable",
+      "cyrillic",
+      "latin",
+      "digital"
+    ],
+    "summary": "A uniwidth sans-serif with 18 styles and a variable axis, built so that text never shifts when weights change in interface contexts.",
+    "description": "All nine weights from Thin to Black, each with an italic, share identical character widths across every style, keeping buttons, tables and UI components stable regardless of weight changes. The variable font axis allows smooth interpolation without disrupting layout. Coverage spans 342 languages across Latin and Cyrillic scripts, with 12 stylistic sets and features including oldstyle figures, discretionary ligatures and a slashed zero.",
+    "foundry_blurb": "Superior Type describe Typograf as a uniwidth sans-serif designed for interface environments where consistency matters. Every character shares the same width across all styles, ensuring that text never shifts, elements stay aligned, and spacing remains predictable across states and sizes in UI components, tables, buttons and system-driven interfaces."
+  },
+  {
+    "name": "Typograf Condensed",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/typograf-condensed",
+    "designer": "Rostislav Vaněk",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A condensed grotesque sans-serif built around uniwidth principles, where every style shares identical character widths to maintain stable layouts across UI states and weights.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Typograf Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "uniwidth",
+      "interface",
+      "ui",
+      "grotesque",
+      "variable",
+      "latin",
+      "cyrillic"
+    ],
+    "summary": "A uniwidth condensed sans-serif in 18 styles, built so that character widths remain constant across all weights to keep UI layouts stable.",
+    "description": "Designed by Rostislav Vaněk with collaboration from Matyáš Machat and Petr Kučera, Typograf Condensed applies a uniwidth principle where every glyph occupies the same horizontal space regardless of weight. This prevents text reflow and layout shift in buttons, tables and interface components when styles change. The family spans nine weights from Thin to Black, each with a matching italic, and is available as a variable font with Latin and Cyrillic coverage across 342 languages.",
+    "foundry_blurb": "Superior Type describe Typograf Condensed as a uniwidth sans-serif designed for interface environments where consistency matters. Every character shares the same width across all styles, ensuring stable layouts in UI components, tables, buttons and system-driven interfaces, so text never shifts, elements stay aligned and spacing remains predictable across states and sizes."
+  },
+  {
+    "name": "Trans Sans",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/trans-sans",
+    "designer": "Matyáš Machat",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Trans Sans is a geometric sans with a variable axis spanning eight weights; its design philosophy of moving between contrasts — circular and squared forms, rhythm and order — places it firmly in the geometric sans tradition with humanist inflections.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trans Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "variable",
+      "versatile",
+      "signage",
+      "playful",
+      "contemporary",
+      "latin"
+    ],
+    "summary": "A variable geometric sans by Matyáš Machat that spans eight weights and positions itself between contrasting formal poles — circular and squared, rigid and playful.",
+    "description": "Designed by Matyáš Machat for Superior Type, Trans Sans draws on references ranging from highway signage to playful typography, using the tension between geometric and humanist tendencies as a defining feature rather than a problem to resolve. Eight styles from Thin to ExtraBold are available as static fonts or via a single variable file, with broad Latin coverage across 302 languages. Stylistic sets offer alternate letterforms and ampersands, and OpenType features include oldstyle figures, fractions and a slashed zero.",
+    "foundry_blurb": "Superior Type describe Trans Sans as moving freely between contrasts — from east to west, highway signs to playfulness, circle or square, order or relaxation — treating variation as an essential part of the typeface's character rather than committing to any single extreme."
+  },
+  {
+    "name": "Typograf ExtraCondensed",
+    "foundry": "Superior Type",
+    "url": "https://superiortype.com/fonts/typograf-extracondensed",
+    "designer": "Rostislav Vaněk",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A uniwidth sans-serif with condensed proportions designed primarily for interface use; its consistent character widths across all weights align it with functional grotesque conventions rather than geometric or humanist models.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "ExtraCondensed"
+    ],
+    "subfamilies": [
+      "Typograf ExtraCondensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "uniwidth",
+      "condensed",
+      "ui",
+      "interface",
+      "grotesque",
+      "variable",
+      "multilingual",
+      "functional"
+    ],
+    "summary": "A uniwidth extra-condensed sans with 18 styles and a variable axis, built so character widths stay fixed across all weights to prevent layout shift in UI components.",
+    "description": "Designed by Rostislav Vaněk, Typograf ExtraCondensed applies a uniwidth principle to an extra-condensed sans, meaning every glyph occupies identical horizontal space regardless of weight. This keeps buttons, tables and other state-driven interface elements stable without reflow. Nine weights from Thin to Black each carry a matching italic, with full Latin and Cyrillic coverage across 342 languages.",
+    "foundry_blurb": "Superior Type describe Typograf as a uniwidth sans-serif designed for interface environments where consistency matters. Because every character shares the same width across all styles, layouts in UI components, tables and buttons remain stable across states and sizes, with text that never shifts and spacing that stays predictable."
+  }
+]

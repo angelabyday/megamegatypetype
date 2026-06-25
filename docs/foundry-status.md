@@ -179,15 +179,13 @@ Last updated: 2026-06-25.
 | Yeahright Type | yeahrighttype.com | okay | Indexed | 51 | |
 | zetafonts | zetafonts.com | okay | Indexed | 154 | |
 | Latinotype | latinotype.com | okay | Registered, no data | – | Geo-blocked / timeout |
-| Store Norske Skriftkompani | skriftkompani.no | loose | Registered, no data | – | |
-| Superior Type | superiortype.com | okay | Registered, no data | – | JS-rendered listing, bot-blocking |
 | A2-Type | a2-type.co.uk | best | Indexed | 140 | |
 | Blaze | blazetype.eu | best | Indexed | 110 | |
 | Catalogue (Florian Karsten) | fonts.floriankarsten.com | best | Indexed | 10 | |
 | Hand Drawn Fonts (Taylor Penton) | taylorpenton.com | best | Indexed | 65 | |
 | Typespec | typespec.co.uk | best | Indexed | 13 | |
 | Dutype | dutypefoundry.com | best | Blocked | – | DNS dead — domain lapsed |
-| F37 Foundry | f37foundry.com | okay | Not registered | 76 | Data file exists — needs registering |
+| F37 Foundry | f37foundry.com | okay | Indexed | 76 | |
 | Lewis McGuffie | lewismcguffie.com | okay | Indexed | 2 | Only 2 typefaces have dedicated pages |
 | U+270D | u270d.eesab.fr | okay | Indexed | 10 | |
 | X Cicéro | xcicero.esad-gv.net | okay | Indexed | 18 | 1 failed (Bocalupo — no Claude response) |
@@ -207,7 +205,14 @@ Last updated: 2026-06-25.
 | CastleType | castletype.com | best | Blocked | – | |
 | Cinta Mundo | supercontinente.com | loose | Blocked | – | |
 | Claude Type | claudetype.com | loose | Blocked | – | |
-| Colophon | colophon-foundry.org | best | Blocked | – | |
+| Capitalics | capitalics.wtf | best | Indexed | 63 | |
+| Family Type | familytype.co | best | Indexed | 6 | |
+| McLetters | mcletters.co | best | Indexed | 24 | |
+| OTT Foundry | ott-foundry.com | best | Indexed | 22 | |
+| Store Norske Skriftkompani | skriftkompani.no | okay | Indexed | 37 | |
+| Superior Type | superiortype.com | okay | Indexed | 34 | |
+| Threedotstype | threedotstype.com | best | Indexed | 14 | |
+| Colophon | colophon-foundry.org | best | Blocked | – | Redirects to MyFonts; catalogue no longer on own domain |
 | Commercial Classics | commercialclassics.com | okay | Blocked | – | Duplicate of Commercial Type |
 | Contemporary Type | contemporarytype.com | okay | Blocked | – | |
 | CoType Foundry | cotypefoundry.com | best | Blocked | – | |

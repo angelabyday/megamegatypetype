@@ -220,6 +220,11 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "U+270D", slug: "u270d", homepage: "https://u270d.eesab.fr/", tier: "okay" },
   { name: "X Cicéro", slug: "x-cicero", homepage: "https://xcicero.esad-gv.net/", tier: "okay" },
   { name: "Lewis McGuffie", slug: "lewis-mcguffie", homepage: "https://www.lewismcguffie.com/", tier: "okay" },
+  // Batch 22
+  { name: "Threedotstype", slug: "threedotstype", homepage: "https://threedotstype.com/", tier: "best" },
+  { name: "Capitalics", slug: "capitalics", homepage: "https://capitalics.wtf/", tier: "best" },
+  { name: "McLetters", slug: "mcletters", homepage: "https://mcletters.co/", tier: "best" },
+  { name: "Family Type", slug: "family-type", homepage: "https://familytype.co/", tier: "best" },
 ];
 
 // Foundries confirmed unscrapable — JS-rendered, bot-blocked, or no listing page.
@@ -231,19 +236,14 @@ export const BLOCKED_FOUNDRIES: { domain: string; name: string; reason: string }
   { domain: "studioplums.com", name: "Ian Adjeidu", reason: "portfolio site, no listing page" },
   { domain: "experim-etal.lettersetal.co.uk", name: "Lettersetal", reason: "JS-rendered" },
   { domain: "limitype.com", name: "Limitype", reason: "JS-rendered, no crawlable listing" },
-  { domain: "mcletters.co", name: "McLetters", reason: "JS-rendered" },
-  { domain: "capitalics.wtf", name: "Capitalics", reason: "JS-rendered" },
   { domain: "typokompanii.com", name: "Tüpokompanii", reason: "JS-rendered" },
-  { domain: "threedotstype.com", name: "Threedotstype", reason: "JS-rendered, no listing page" },
   { domain: "typeverything.com", name: "Typeverything", reason: "inspiration blog, not a foundry" },
   { domain: "behance.net", name: "Rajesh Rajput", reason: "Behance portfolio, not indexable" },
   { domain: "castletype.com", name: "Castle Type", reason: "old static site, no structured listing" },
   { domain: "youworkforthem.com", name: "YouWorkForThem", reason: "reseller marketplace, not a foundry" },
   { domain: "paratype.com", name: "Paratype", reason: "large catalogue, no structured listing page" },
-  { domain: "colophon-foundry.org", name: "Colophon", reason: "JS-rendered, no crawlable listing" },
-  { domain: "familytype.co", name: "Family Type", reason: "JS-rendered, no crawlable listing" },
+  { domain: "colophon-foundry.org", name: "Colophon", reason: "Redirects to MyFonts; original domain no longer has a catalogue" },
   { domain: "contemporarytype.com", name: "Contemporary Type", reason: "reseller, JS-rendered listing with no crawlable font links" },
-  { domain: "ott-foundry.com", name: "OTT Foundry", reason: "JS-rendered, no crawlable listing" },
   { domain: "vllg.com", name: "Village", reason: "React SPA, no crawlable listing" },
   { domain: "205.tf", name: "205TF", reason: "Next.js SPA, no crawlable listing" },
   { domain: "monkeytype.xyz", name: "Monkey Type", reason: "SPA, no crawlable listing" },

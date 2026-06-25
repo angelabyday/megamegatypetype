@@ -188,6 +188,14 @@ import freeFaces from "@/data/typefaces-free-faces.json";
 import u270d from "@/data/typefaces-u270d.json";
 import xCicero from "@/data/typefaces-x-cicero.json";
 import lewisMcguffie from "@/data/typefaces-lewis-mcguffie.json";
+// Batch 22
+import storeNorskeSkriftkompani from "@/data/typefaces-store-norske-skriftkompani.json";
+import superiorType from "@/data/typefaces-superior-type.json";
+import threedotstype from "@/data/typefaces-threedotstype.json";
+import ottFoundry from "@/data/typefaces-ott-foundry.json";
+import capitalics from "@/data/typefaces-capitalics.json";
+import mcletters from "@/data/typefaces-mcletters.json";
+import familyType from "@/data/typefaces-family-type.json";
 import studioTriple from "@/data/typefaces-studio-triple.json";
 import typeBy from "@/data/typefaces-type-by.json";
 import typeForward from "@/data/typefaces-type-forward.json";
@@ -452,6 +460,14 @@ export function getAllTypefaces(): Typeface[] {
         u270d,
         xCicero,
         lewisMcguffie,
+        // Batch 22
+        storeNorskeSkriftkompani,
+        superiorType,
+        threedotstype,
+        ottFoundry,
+        capitalics,
+        mcletters,
+        familyType,
         studioTriple,
         typeBy,
         typeForward,

@@ -3069,6 +3069,147 @@ const FOUNDRIES = [
       "https://www.lewismcguffie.com/Jooks-Script-9B",
     ],
   },
+
+  // ---- Batch 22 ----
+  {
+    name: "Store Norske Skriftkompani",
+    slug: "store-norske-skriftkompani",
+    homepage: "https://skriftkompani.no/",
+    listingUrl: "https://skriftkompani.no/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("skriftkompani.no")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Superior Type",
+    slug: "superior-type",
+    homepage: "https://superiortype.com/",
+    listingUrl: "https://superiortype.com/",
+    tier: "okay",
+    staticUrls: [
+      "https://superiortype.com/fonts/edgy",
+      "https://superiortype.com/fonts/epika",
+      "https://superiortype.com/fonts/epika-condensed",
+      "https://superiortype.com/fonts/epika-expanded",
+      "https://superiortype.com/fonts/epika-extracondensed",
+      "https://superiortype.com/fonts/final",
+      "https://superiortype.com/fonts/gradient",
+      "https://superiortype.com/fonts/gradient-comic",
+      "https://superiortype.com/fonts/gradient-gothic",
+      "https://superiortype.com/fonts/grain",
+      "https://superiortype.com/fonts/lenora",
+      "https://superiortype.com/fonts/lenora-grade",
+      "https://superiortype.com/fonts/micro",
+      "https://superiortype.com/fonts/mixtape",
+      "https://superiortype.com/fonts/mixtape-condensed",
+      "https://superiortype.com/fonts/mixtape-extracondensed",
+      "https://superiortype.com/fonts/nika",
+      "https://superiortype.com/fonts/nika-condensed",
+      "https://superiortype.com/fonts/nika-expanded",
+      "https://superiortype.com/fonts/nika-extracondensed",
+      "https://superiortype.com/fonts/prizma",
+      "https://superiortype.com/fonts/raptor-v1",
+      "https://superiortype.com/fonts/raptor-v2",
+      "https://superiortype.com/fonts/raptor-v3",
+      "https://superiortype.com/fonts/restart-ginger",
+      "https://superiortype.com/fonts/restart-hard",
+      "https://superiortype.com/fonts/restart-soft",
+      "https://superiortype.com/fonts/rytual",
+      "https://superiortype.com/fonts/rytual-condensed",
+      "https://superiortype.com/fonts/rytual-extracondensed",
+      "https://superiortype.com/fonts/serial",
+      "https://superiortype.com/fonts/svatopluk",
+      "https://superiortype.com/fonts/svatopluk-max",
+      "https://superiortype.com/fonts/trans-sans",
+      "https://superiortype.com/fonts/typograf",
+      "https://superiortype.com/fonts/typograf-condensed",
+      "https://superiortype.com/fonts/typograf-extracondensed",
+    ],
+  },
+  {
+    name: "Threedotstype",
+    slug: "threedotstype",
+    homepage: "https://threedotstype.com/",
+    listingUrl: "https://threedotstype.com/shop/",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("threedotstype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "product" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "OTT Foundry",
+    slug: "ott-foundry",
+    homepage: "https://ott-foundry.com/",
+    listingUrl: "https://ott-foundry.com/",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("ott-foundry.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Capitalics",
+    slug: "capitalics",
+    homepage: "https://capitalics.wtf/",
+    listingUrl: "https://capitalics.wtf/en/retail-fonts",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("capitalics.wtf")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 3 && parts[0] === "en" && parts[1] === "font" && !NON_TYPEFACE_SLUGS.has(parts[2]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "McLetters",
+    slug: "mcletters",
+    homepage: "https://mcletters.co/",
+    listingUrl: "https://mcletters.co/?page_id=13645",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("mcletters.co")) return false;
+        return u.searchParams.has("product") && !u.searchParams.has("page_id");
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Family Type",
+    slug: "family-type",
+    homepage: "https://familytype.co/",
+    listingUrl: "https://familytype.co/",
+    tier: "best",
+    staticUrls: [
+      "https://familytype.co/typefaces/athletics",
+      "https://familytype.co/typefaces/lanterne",
+      "https://familytype.co/typefaces/modern-era",
+      "https://familytype.co/typefaces/universal-sans",
+      "https://familytype.co/typefaces/aime",
+      "https://familytype.co/typefaces/fazer",
+    ],
+  },
 ];
 
 // ---- URL filter ----

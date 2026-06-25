@@ -1,0 +1,2966 @@
+[
+  {
+    "name": "Balagan",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/balagan",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Balagan is explicitly described as a geometric sans with teardrop-shaped counters and soft curves. Strong contrasts and distinctive counters give it a geometric structure with a friendly personality.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Balagan"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "friendly",
+      "branding",
+      "display",
+      "expressive",
+      "contemporary"
+    ],
+    "summary": "A geometric sans with teardrop-shaped counters and strong stroke contrast, designed by Mateusz Machalski for Capitalics.",
+    "description": "Balagan takes its name from the Polish word for mess or disorder, though the design itself is anything but: five weights from ExtraLight to Bold form a controlled family built around soft curves and distinctive teardrop counters. The interplay between those rounded details and the underlying geometric structure creates a mild tension that keeps the letterforms from feeling purely neutral. Developed in collaboration with Weronika Kanigowska and Małgorzata Bartosik, it suits branding and editorial work where a geometric sans needs a touch of personality.",
+    "foundry_blurb": "Capitalics describe Balagan as a geometric sans with a friendly character and distinct personality. Its name, drawn from the Polish for mess or disorder, reflects the idea that diverse aesthetics can be brought together into a cohesive form. Teardrop-shaped counters, soft curves and strong contrasts introduce a subtle tension, balancing softness with expressiveness across five weights."
+  },
+  {
+    "name": "Quartet Sans",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/quartet-sans",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The name and specimen presentation suggest a clean, contemporary sans-serif; without strong geometric or grotesque characteristics evident, a humanist sans classification is most fitting for a branding-oriented design from this foundry.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Quartet Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "branding",
+      "contemporary",
+      "clean",
+      "professional"
+    ],
+    "summary": "A four-weight sans-serif family from Capitalics designer Mateusz Machalski, offered in regular through bold with matching italics for branding and editorial use.",
+    "description": "Eight styles span Regular, Medium, SemiBold and Bold, each with a matching italic, giving the family a practical range for branding and text work. Designed by Mateusz Machalski, co-founder of Capitalics and a branding specialist, the family carries a professional, contemporary character suited to identity and interface contexts. Available individually or as a complete family at a bundled price.",
+    "foundry_blurb": "Quartet Sans is a sans-serif family from Capitalics, designed by Mateusz Machalski. It is offered in eight styles across four weights from Regular to Bold, each with an italic, available as a complete family or as individual styles."
+  },
+  {
+    "name": "Quartet Serif",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/quartet-serif",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "Presented as a serif family with no strong historical revival reference; the range of weights and italics suggests a general-purpose contemporary serif intended for branding and editorial use.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Quartet Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "branding",
+      "editorial",
+      "contemporary",
+      "multi-weight",
+      "professional"
+    ],
+    "summary": "A four-weight serif family with matching italics from Polish type designer Mateusz Machalski, aimed at branding and editorial applications.",
+    "description": "Eight styles span Regular through Bold, each paired with an italic, giving the family enough range for body text and display use within brand contexts. Designed by Mateusz Machalski, co-founder of Capitalics and a specialist in branding, the family reflects a practical, professionally oriented approach to contemporary serif design. Pricing is per-style or as a discounted full family bundle in PLN, USD or EUR.",
+    "foundry_blurb": "Capitalics offer Quartet Serif as an eight-style family covering Regular, Medium, SemiBold and Bold with matching italics, designed by Mateusz Machalski. The full family is available at a 50% saving over individual style pricing."
+  },
+  {
+    "name": "Acai",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/acai",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Acai is a width-variable sans-serif spanning ultra condensed to ultra expanded, with no italic or weight axis evident, suggesting a grotesque or neutral sans built around horizontal variation rather than optical size or stroke modulation.",
+    "weights": [
+      "Ultra Condensed",
+      "Condensed",
+      "Normal",
+      "Semi Expanded",
+      "Expanded",
+      "Ultra Expanded"
+    ],
+    "optical_sizes_or_widths": [
+      "Ultra Condensed",
+      "Condensed",
+      "Normal",
+      "Semi Expanded",
+      "Expanded",
+      "Ultra Expanded"
+    ],
+    "subfamilies": [
+      "Acai"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "width-axis",
+      "condensed",
+      "expanded",
+      "branding",
+      "grotesque",
+      "neutral"
+    ],
+    "summary": "A width-variable sans-serif from Capitalics spanning six widths from ultra condensed to ultra expanded, with a variable font included in the family purchase.",
+    "description": "Designed by Mateusz Machalski of Capitalics, Acai covers an unusually broad horizontal range across six discrete styles and a continuous variable axis. The family appears tailored to branding contexts where a single typeface must adapt across very different spatial constraints. No italic or weight variation is offered, keeping the focus squarely on width flexibility.",
+    "foundry_blurb": "Acai is a sans-serif family from Capitalics offering six width variants from Ultra Condensed to Ultra Expanded, with a variable font included. The full family is available at a 50% saving over individual style pricing."
+  },
+  {
+    "name": "Silesianum",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/silesianum",
+    "designer": "Mateusz Machalski, Henryk Sakwerda, Karol Mularczyk, Weronika Kanigowska, Małgorzata Bartosik, Borys Kosmynka",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "The typeface derives from Henryk Sakwerda's 1986 Monitor, which exhibits sharp organic calligraphic letterforms rooted in humanist tradition; its phototypesetting origins and calligraphic texture place it firmly in the humanist serif category.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Silesianum"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "polish-typography",
+      "calligraphic",
+      "humanist",
+      "revival",
+      "phototypesetting",
+      "historical",
+      "editorial"
+    ],
+    "summary": "A contemporary revival of Henryk Sakwerda's 1986 Monitor typeface, reconstructed from original drawings and expanded into a full eight-style family for the first time.",
+    "description": "Originally designed for phototypesetting on strictly defined character widths, Monitor by Henryk Sakwerda (1942–2017) was only ever realised in a single Regular weight and never crossed into digital use. Mateusz Machalski led a team of five over nearly three years to reconstruct, digitise and expand the family to Regular, Medium, SemiBold and Bold with matching italics, working from scans of Sakwerda's original drawings. The sharpness and organic texture of the letterforms — a direct trace of Sakwerda's calligraphic hand — is central to what makes this revival substantive rather than merely archival.",
+    "foundry_blurb": "Capitalics describe Silesianum as a contemporary interpretation of Monitor, one of the most compelling yet underrated works of Polish typography from the second half of the 20th century. Designed by Henryk Sakwerda in 1986 with phototypesetting constraints, it was never fully realised in later technological contexts. A team of six spent nearly three years reconstructing the typeface from original scanned drawings, expanding it into a complete family of eight styles and restoring what they call an important chapter in the history of Polish typography."
+  },
+  {
+    "name": "Alergia",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/alergia",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "Described by the foundry as a hybrid between a classical geometric grotesque and a linear antiqua, with delicate contrast and distinctive letterform details such as a double-storey g and idiosyncratic cuts on 'a' and 's'.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Normal",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Alergia",
+      "Alergia Condensed",
+      "Alergia Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Vietnamese",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric-grotesque",
+      "high-contrast",
+      "branding",
+      "editorial",
+      "multilingual",
+      "wide-family",
+      "cyrillic",
+      "extended"
+    ],
+    "summary": "A 60-style geometric grotesque with linear antiqua influences, notable for its idiosyncratic letter cuts and three-width system spanning Condensed to Extended.",
+    "description": "Built across 10 weights, three widths and matching italics, the family blends geometric grotesque construction with the subtle stroke contrast of a linear antiqua. Distinctive details include unconventional cuts on 'a' and 's' and a double-storey 'g', giving the typeface a character that separates it from more neutral geometric grotesques. Script coverage extends to Vietnamese, extended Cyrillic with Abkhazian support, and Greek.",
+    "foundry_blurb": "Capitalics describe Alergia Grotesk as a hybrid between a classical geometric grotesque and a linear antiqua, characterised by strong detail, unpredictable cuts in 'a' and 's', a double 'g' and delicate contrast. The 60-style family spans 10 weights, three widths and full italics, with comprehensive character support including Vietnamese, extended Cyrillic and Greek."
+  },
+  {
+    "name": "Seweryn",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/seweryn",
+    "designer": "Ania Wieluńska",
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Described explicitly as a display serif family; high contrast, playful curves and expressive weights position it firmly in the display category rather than text use.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Seweryn"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "retro",
+      "1970s",
+      "high-contrast",
+      "branding",
+      "vintage",
+      "expressive"
+    ],
+    "summary": "A nine-weight display serif drawing on 1970s Polish graphic design and album art, with high contrast strokes and playful geometry.",
+    "description": "Designed by Ania Wieluńska at Capitalics, Seweryn takes its personality from Polish design of the 1970s and the visual language of vintage album covers. Nine weights from Thin to Black give it range, while the high contrast and curved forms keep it firmly in headline and branding territory. It suits music-related identity work and retro-modern editorial layouts where a confident, rhythmic serif is needed.",
+    "foundry_blurb": "Capitalics describe Seweryn as a bold and charismatic display serif family with a funky, retro twist. The family features nine expressive weights blending high contrast and playful curves with confident geometry, drawing inspiration from 1970s Polish design and album art for use in eye-catching headlines, music-inspired branding and vintage-modern layouts."
+  },
+  {
+    "name": "Hasior",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/hasior",
+    "designer": "Mateusz Machalski, Weronika Kanigowska, Małgorzata Bartosik",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Hasior is designed explicitly for posters and large-scale headlines, with sharp, dynamic, high-contrast forms inspired by mountain folk aesthetics and the bold visual language of Zakopane artists, placing it firmly in the display category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hasior"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "poster",
+      "high-contrast",
+      "folk",
+      "eastern-european",
+      "sharp",
+      "expressive",
+      "headline"
+    ],
+    "summary": "A sharp, high-contrast display typeface drawn from the folk art traditions and mountain aesthetics of Podhale and Zakopane in southern Poland.",
+    "description": "Designed by Mateusz Machalski with contributions from Weronika Kanigowska and Małgorzata Bartosik, Hasior takes its name and visual cues from the bold, raw artistic language of Polish mountain culture, referencing figures such as sculptor Władysław Hasior and painter Stanisław Witkiewicz. Four weights from Thin to Bold carry the sharp contrasts and dynamic forms suited to posters, large headlines and visual identities requiring immediate expressive impact. The cultural grounding gives it a more specific character than most display serifs aimed at the same applications.",
+    "foundry_blurb": "Capitalics describe Hasior as a response to the aesthetics of Podhale and Zakopane, where the rawness of nature and the sharpness of rocky edges meet a distinct folk artistic tradition. They cite creators such as Władysław Hasior, Antoni Rząsa, Władysław Skoczylas and Stanisław Witkiewicz as influences, noting that all shared a boldness of form and the ability to translate a local idiom into a universal artistic language. The typeface is positioned for posters, large-scale headlines and visual identities that demand strength and expression."
+  },
+  {
+    "name": "Chaconne",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/chaconne",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "serif",
+    "subcategory": "Renaissance serif",
+    "classification_notes": "Chaconne draws directly from Excelsior and Goudy Old Style, placing it in the humanist/Renaissance serif tradition. Its organic construction, free of grids or modules, reinforces a warm, pre-rational sensibility.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Chaconne"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "renaissance",
+      "humanist",
+      "organic",
+      "editorial",
+      "text",
+      "classical",
+      "warm"
+    ],
+    "summary": "A Renaissance-inflected serif drawn from Goudy Old Style and Excelsior, built without grids to preserve an organic, hand-guided rhythm across five weights.",
+    "description": "Designed by Mateusz Machalski at Capitalics, Chaconne takes Goudy Old Style and Excelsior as its classical starting points, then reinterprets them through a process deliberately free of grids or modular construction. The result is a ten-style family whose softness and subtle variation feel more observed than engineered. Each weight is accompanied by an organic italic, and the family is suited to long-form reading where warmth and quiet expressiveness matter more than neutrality.",
+    "foundry_blurb": "Capitalics describe Chaconne as a serif typeface with an organic character, named after the Baroque dance form in which a recurring theme provides a framework for endless variations. Built on a reinterpretation of Excelsior and Goudy Old Style, and constructed without grids or modules, the family was designed by Mateusz Machalski with contributions from Karol Mularczyk, Weronika Kanigowska, Jakub Maślak, Małgorzata Bartosik and Borys Kosmynka."
+  },
+  {
+    "name": "Heidrich Sans",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/heidrich-sans",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as an elegant sans-serif inspired by sketches for the Bona typeface and the broader typographic work of Andrzej Heidrich, suggesting a humanist rather than geometric or grotesque approach.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Heidrich Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "elegant",
+      "polish",
+      "heritage",
+      "editorial",
+      "sans-serif"
+    ],
+    "summary": "An elegant sans-serif by Mateusz Machalski, developed from research into Andrzej Heidrich's Bona typeface and the broader typographic legacy of one of Poland's foremost graphic designers.",
+    "description": "Rooted in Machalski's 2017 digitisation work on Bona Nova, the family draws on original sketches by Andrzej Heidrich and archival research conducted with Leszek Bielski. The six-style family spans Regular, Bold and ExtraBold, each with a companion italic. It reads as a considered tribute to a significant figure in Polish graphic design rather than a generic revival.",
+    "foundry_blurb": "Capitalics describe Heidrich Sans as an elegant sans-serif that explores the typographic heritage of Andrzej Heidrich, one of the most eminent contemporary graphic designers. Designer Mateusz Machalski developed the typeface from sketches connected to the Bona Nova project and archival material collected during research conducted alongside Leszek Bielski and Andrzej Heidrich himself."
+  },
+  {
+    "name": "Impacto",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/impacto",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A grid-based geometric display typeface drawing on sports poster aesthetics and jersey numerals, designed for high-impact use at large scale across condensed to wide widths.",
+    "weights": [
+      "Extra Condensed",
+      "Condensed",
+      "Semi Condensed",
+      "Normal",
+      "Semi Wide",
+      "Wide"
+    ],
+    "optical_sizes_or_widths": [
+      "Extra Condensed",
+      "Condensed",
+      "Semi Condensed",
+      "Normal",
+      "Semi Wide",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Impacto"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "sports",
+      "poster",
+      "variable",
+      "condensed",
+      "modular",
+      "grid"
+    ],
+    "summary": "A grid-based geometric display typeface built on sports poster and stadium signage references, available as a variable font across six widths from Extra Condensed to Wide.",
+    "description": "Designed by Mateusz Machalski at Capitalics, it draws on the visual language of 20th century sports posters, jersey numbers and historical event affiches. The letterforms are constructed on a rigorous modular grid that gives the family a rhythmic, compact quality suited to identity, information systems and large-scale print or digital work. A variable font is included with the family, allowing continuous control over width and expression across all six named widths.",
+    "foundry_blurb": "Capitalics describe Impacto as a modern typeface inspired by the geometry and aesthetics of 20th century sports posters, created for designers seeking dynamic, compact and expressive form. They cite jersey numbers, stadium signs and historical sporting event affiches as visual references, and position the variable font technology as enabling control from a precise technical hairline condensed to a heavy monumental black expanded, adaptable across both physical and digital contexts."
+  },
+  {
+    "name": "Octagonica",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/octagonica",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Constructed on a rigorous modular grid with geometric letterforms drawn from sports poster aesthetics, placing it firmly in the geometric sans-serif tradition with a display orientation.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Standard",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Octagonica",
+      "Octagonica Condensed",
+      "Octagonica Expanded"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sports",
+      "grid-based",
+      "display",
+      "poster",
+      "variable",
+      "condensed",
+      "expanded"
+    ],
+    "summary": "A grid-constructed geometric sans drawn from 20th-century sports poster lettering, spanning 60 styles across three widths with variable font support.",
+    "description": "Built on rhythmic modular grids evoking jersey numbers and stadium signage, the family runs from Hairline to Black across standard, condensed and expanded widths, each with italics. Variable font axes for weight, width and slant give designers continuous control across the full range. Best suited to corporate identity, event branding and large-scale print where structural rigour and expressive weight contrast are both required.",
+    "foundry_blurb": "Capitalics describe Octagonica as a modern typeface inspired by the geometry and aesthetics of 20th-century sports posters, designed for designers seeking dynamic, compact and expressive letterforms suited to corporate identity, information systems and posters. The letters draw on jersey numbers, stadium signs and historical sports event affiches, and the variable font technology allows the user to control thickness, width and expression from a precise hairline condensed to a heavy monumental black expanded."
+  },
+  {
+    "name": "Spirala",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/spirala",
+    "designer": "Mateusz Machalski, Karol Mularczyk, Malgorzata Bartosik, Borys Kosmynka",
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "Spirala is categorised as display due to its experimental exploration of Bézier curves and stencil-style construction; though usable in text setting, its chamfered-nib calligraphic allusions and divided elements mark it as a display-oriented design.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Spirala"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "stencil",
+      "calligraphic",
+      "bezier",
+      "display",
+      "dynamic",
+      "divided-elements"
+    ],
+    "summary": "An experimental display typeface that merges chamfered-nib calligraphic references with stencil construction and Bézier curve exploration across four weights with matching italics.",
+    "description": "Designed under the creative direction of Mateusz Machalski, Spirala pushes the geometry of Bézier curves while referencing the marks of a chamfered calligraphic nib. Its stencil-style construction, with deliberately divided stroke elements, lends a dynamic rhythm that can carry into text setting as well as display use. The family runs across Regular, Medium, SemiBold and Bold, each with a complementary italic.",
+    "foundry_blurb": "Capitalics describe Spirala as a typeface that alludes to calligraphy drawn with a chamfered nib while also exploring the limits of Bézier curves. Despite its experimental character, they note it can be used in typesetting for a dynamic structure, and that its stencil-style approach to divided elements makes it suitable wherever separated forms are needed."
+  },
+  {
+    "name": "Nocturne Sans",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/nocturne-sans",
+    "designer": "Mateusz Machalski",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described by the foundry as a contemporary grotesque blending geometric precision with humanist warmth; a sans-serif companion to Nocturne Serif, sharing its historical origins but adopting a clean, minimal form.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nocturne Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "humanist",
+      "geometric",
+      "editorial",
+      "branding",
+      "warsaw",
+      "historical-reference",
+      "contemporary"
+    ],
+    "summary": "A contemporary grotesque with humanist undertones, designed in 2025 as a companion to Nocturne Serif, itself rooted in Warsaw's wartime commemorative plaques.",
+    "description": "Developed by Mateusz Machalski with contributions from Karol Mularczyk, Małgorzata Bartosik and Borys Kosmynka, Nocturne Sans translates the Renaissance proportions and calligraphic warmth of Nocturne Serif into a sharper, more minimal form. The family spans ten weights from Hairline to Black, each with a matching italic, covering editorial, branding and identity applications. Its origins trace back to Karol Tchorek's 1949 Warsaw martyrdom plaques, giving the typeface a specific cultural grounding rarely found in contemporary grotesque releases.",
+    "foundry_blurb": "Capitalics describe Nocturne Sans as a natural extension of Nocturne Serif, which was created in 2016 under the Warszawskie Kroje project and drew inspiration from Warsaw's World War II commemorative plaques designed by Karol Tchorek in 1949. They position the sans as translating that historical and emotional depth into a clean, modern grotesque form that blends geometric precision with humanist warmth, suited to both editorial and branding contexts."
+  },
+  {
+    "name": "Regards",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/regards",
+    "designer": "Mateusz Machalski",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Rooted in the Johnston/Gill tradition of the London Underground, Regards carries humanistic letterform details with a sharp, contemporary character — placing it firmly in the humanist sans category.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Regards"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "johnston-influenced",
+      "london",
+      "variable",
+      "branding",
+      "editorial",
+      "sharp"
+    ],
+    "summary": "A humanist sans with nine weights and italics, rooted in the Edward Johnston and Eric Gill tradition and shaped by a decade of revision from an earlier typeface called Picadilly.",
+    "description": "Designed by Mateusz Machalski of Capitalics, Regards grew out of a 2013 typeface inspired by Johnston's London Underground lettering, revised so extensively over ten years that it warranted a new name. The family spans Hairline to ExtraBold with matching italics across 18 styles, plus a variable font, and each weight carries humanistic detail alongside a sharp contemporary edge. Multiple alternate glyphs per character allow for visual experimentation in branding and editorial contexts.",
+    "foundry_blurb": "Capitalics describe Regards as a homage to London street aesthetics, where the work of Johnston and Gill sits alongside neo-Gothic architecture and Brutalist insets. Designer Mateusz Machalski traces the typeface back to Picadilly, a 2013 design made on his return from London, which evolved through numerous revisions over a decade until the changes were so significant that even the name had to change. The full family includes 18 styles with a variable font, and features many alternate glyph variants for visual experimentation."
+  },
+  {
+    "name": "ADHD",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/adhd",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A modular, geometric variable typeface built on four masters that morph between states; its expressive interpolation and dynamic grid construction place it firmly in the display category.",
+    "weights": [
+      "Focused",
+      "Hyperactive",
+      "Impulsive",
+      "Distracted"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "ADHD"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "geometric",
+      "modular",
+      "display",
+      "experimental",
+      "dynamic",
+      "identity",
+      "grid"
+    ],
+    "summary": "A variable display typeface built on four morphing masters, drawing on Armin Hoffmann's grid research to produce letterforms that shift between geometric and expressive states.",
+    "description": "Built from four compatible masters on a geometric, modular base, the family uses variable font interpolation to transform each letter across states named Focused, Hyperactive, Impulsive and Distracted. The system is designed for dynamic visual identities where type is expected to move or adapt rather than sit static. Conceived under the creative direction of Mateusz Machalski with a team of collaborators at Capitalics.",
+    "foundry_blurb": "Capitalics describe ADHD as a visual experiment exploring the possibilities of variable fonts and a dynamic grid inspired by Armin Hoffmann's research. The family is built on four compatible masters with a geometric, modular typeface as their base; interpolation causes each letter to morph into expressive forms, making it a living tool for dynamic visual identities."
+  },
+  {
+    "name": "Fliper",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/fliper",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric humanist sans",
+    "classification_notes": "Described as having a geometric core with humanistic details, placing it at the intersection of geometric and humanist sans-serif traditions.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fliper"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "humanist",
+      "branding",
+      "stylistic-sets",
+      "variable",
+      "friendly",
+      "display"
+    ],
+    "summary": "A nine-weight geometric sans with humanist inflections and stylistic sets for introducing rotated letterforms into headlines.",
+    "description": "Built primarily for branding work, Fliper balances a geometric skeleton with softer, humanist detailing across nine weights from Hairline to ExtraBold, with a variable font included. Its distinguishing feature is a set of stylistic alternates that allow individual letters to be rotated, adding an expressive quality suited to headline use. Designed under the creative direction of Mateusz Machalski, with contributions from Małgorzata Bartosik, Borys Kosmynka and Weronika Kanigowska.",
+    "foundry_blurb": "Capitalics describe Fliper as a friendly sans-serif that combines a geometric core with humanistic details. The family was created primarily for branding solutions where character is the priority, and features stylistic sets enabling rotated letters to add distinction to headlines. It consists of nine weights and includes a variable font."
+  },
+  {
+    "name": "Magiore",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/magiore",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as a sans serif with a friendly character and Italian provenance; the warm, humanist quality and alternate letterforms point to a humanist sans classification rather than a strict geometric or grotesque.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Magiore",
+      "Magiore Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "italian",
+      "branding",
+      "poster",
+      "variable",
+      "friendly",
+      "condensed",
+      "multi-width"
+    ],
+    "summary": "A warm sans serif with Italian character, available across nine weights in both normal and condensed widths, including a variable font.",
+    "description": "Designed by Mateusz Machalski at Capitalics, Magiore draws on an Italian sensibility to produce a sans serif suited to branding, posters and visual communication. The family spans nine weights from Thin to Black in both normal and condensed widths, giving 18 styles in total, with a variable font rounding out the offering. Many letters carry alternate versions, adding flexibility for typographic work that benefits from a more expressive touch.",
+    "foundry_blurb": "Capitalics describe Magiore as a sans serif typeface with a friendly character and a decidedly Italian provenance, designed as a type system offering nine weights across two widths. The family includes alternate letterforms for added versatility and is completed by a variable font. The project was led by Mateusz Machalski with contributions from Jakub Maślak, Małgorzata Bartosik, Borys Kosmynka and Weronika Kanigowska."
+  },
+  {
+    "name": "Realise",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/realise",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "slab",
+    "subcategory": "scotch slab",
+    "classification_notes": "The foundry describes Realise as a slab serif drawing on Scotch Modern aesthetics with high contrast and sharp details, placing it firmly in the slab category with a Scotch-influenced subcategory.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Realise"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "scotch-modern",
+      "brutalist",
+      "high-contrast",
+      "editorial",
+      "display",
+      "text"
+    ],
+    "summary": "A high-contrast slab serif by Mateusz Machalski that channels Scotch Modern tradition through a deliberately brutalist and experimental lens.",
+    "description": "Sharp details and experimental minuscule forms give this six-style family a distinct character that sits between historical reference and contemporary severity. The three weights span Regular to Black with matching italics, making the lighter cuts serviceable for body text while Bold and Black push into titles and logotype work. Its Scotch Modern lineage gives it a certain rigour that separates it from more decorative high-contrast slabs.",
+    "foundry_blurb": "Capitalics describe Realise Slab as a serif typeface family that references the Scotch Modern aesthetic in a modern and brutalist form, combining sharp details with high contrast and experimental minuscule. The family is available in six styles across three weights with italics, suited to both small text and display settings. The project was led by Mateusz Machalski with support from Michał Gorczyca, Małgorzata Bartosik and Borys Kosmynek."
+  },
+  {
+    "name": "Acus",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/acus",
+    "designer": "Borys Kosmynka",
+    "year": null,
+    "category": "display",
+    "subcategory": "high-contrast display",
+    "classification_notes": "Described explicitly as a display style, with high contrast and condensed proportions drawn from Polish hand-painted enamel signage vernacular; these characteristics place it firmly in the display category rather than a conventional text serif or sans.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Acus"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Polish"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "vernacular",
+      "signage",
+      "polish",
+      "quirky",
+      "diacritics",
+      "small-caps"
+    ],
+    "summary": "A high-contrast display typeface rooted in the hand-painted enamel signage tradition of Poland from the 1950s to 1980s, with broad diacritic support and stylistic alternates.",
+    "description": "Drawn from the visual language of Polish hand-painted enamel signs popular between the 1950s and 1980s, Acus brings a condensed feel and high contrast to display settings. Six weights from ExtraLight to Black are accompanied by stylistic alternates and small caps, giving designers considerable typographic range. Broad diacritic coverage makes it well-suited to Polish and Central European typography.",
+    "foundry_blurb": "Capitalics describe Acus as inspired by hand-painted enamel signs from Polish vernacular typography of the 1950s to 1980s. They note its high contrast, condensed character and quirky details as qualities suited to display use, and highlight extensive diacritic coverage, stylistic alternates and small caps for designs demanding strong typographic personality."
+  },
+  {
+    "name": "Mosir",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/mosir",
+    "designer": "Mateusz Machalski, Karol Mularczyk, Małgorzata Bartosik",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Modular construction with rounded details and strong geometric structure places it firmly in the geometric sans tradition, with an aesthetic that sits between retro and contemporary.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mosir"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modular",
+      "rounded",
+      "retro",
+      "brutalist",
+      "display",
+      "friendly",
+      "signage"
+    ],
+    "summary": "A modular geometric sans inspired by Iranian shop signage and a Polish gym's neon, balancing brutalist structure with rounded, approachable details.",
+    "description": "Drawn from two real-world encounters, a 'TECHNO' shop display in Iran and a neon sign above a Warsaw gym, Mosir channels the visual logic of signage lettering into a seven-weight type family. Its modular construction and rounded terminals give it a dual quality, reading as thoroughly contemporary or knowingly retro depending on context. Designed by Mateusz Machalski with Karol Mularczyk and Małgorzata Bartosik, it suits display settings where geometric character and a degree of warmth are both required.",
+    "foundry_blurb": "Capitalics describe Mosir as rooted in a brutalist and geometric aesthetic drawn from real signage encountered in Iran and at a Polish sports centre. The family features a modular design with rounded details that can read as modern or old-school depending on context, and is suited to applications requiring strong geometric character with a friendly feel. The project was led by Mateusz Machalski, with Karol Mularczyk and Małgorzata Bartosik contributing to the design."
+  },
+  {
+    "name": "Bacalar PRO",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/bacalar",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "display",
+    "subcategory": "vernacular display",
+    "classification_notes": "Geometric forms combined with reversed contrast and very thin details place this firmly in the display category; its brutalist, mechanically stretched width variants and vernacular Mexican bus signage origins make a vernacular display subcategory most accurate.",
+    "weights": [
+      "Turbo Condensed",
+      "Ultra Condensed",
+      "Extra Condensed",
+      "Condensed",
+      "Regular",
+      "Semi Expanded",
+      "Expanded",
+      "Extra Expanded",
+      "Ultra Expanded",
+      "Turbo Expanded"
+    ],
+    "optical_sizes_or_widths": [
+      "Turbo Condensed",
+      "Ultra Condensed",
+      "Extra Condensed",
+      "Condensed",
+      "Regular",
+      "Semi Expanded",
+      "Expanded",
+      "Extra Expanded",
+      "Ultra Expanded",
+      "Turbo Expanded"
+    ],
+    "subfamilies": [
+      "Bacalar PRO"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "vernacular",
+      "brutalist",
+      "reversed-contrast",
+      "geometric",
+      "mexican",
+      "condensed",
+      "expanded"
+    ],
+    "summary": "A display typeface drawn from the hand-painted signage on Yucatán colectivo buses, built across ten mechanically stretched width variants from Turbo Condensed to Turbo Expanded.",
+    "description": "Inspired by vernacular lettering on public transport buses in the Yucatán peninsula, Bacalar pairs geometric forms with reversed contrast and very thin details to create a typeface that reads as deliberately confrontational. The ten styles are produced through mechanical stretching rather than optical correction, which gives the whole family a deliberately crude, brutalist quality. Designed by Mateusz Machalski of Capitalics, it suits poster, branding and signage work where blunt eccentricity is the point.",
+    "foundry_blurb": "Capitalics describe Bacalar as inspired by vernacular typography found on colectivo buses in the Yucatán peninsula, Mexico. Geometric forms contrast with very thin details and reversed contrast, and the family of ten width styles – created by mechanical stretching – gives the typeface a brutalist character throughout."
+  },
+  {
+    "name": "Mathieu",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/mathieu",
+    "designer": "Mateusz Machalski, Karol Mularczyk, Małgorzata Bartosik",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Mathieu is described as a sans-serif with humanistic calligraphic details drawn from Renaissance typeface proportions and Dutch typographic traditions, placing it squarely in the humanist sans category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mathieu"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "sans-serif",
+      "calligraphic",
+      "renaissance",
+      "dutch",
+      "text",
+      "branding",
+      "identity"
+    ],
+    "summary": "A humanist sans with Renaissance proportions and calligraphic details, designed by Mateusz Machalski at Capitalics with creative input from Karol Mularczyk and Małgorzata Bartosik.",
+    "description": "Drawing on the texture and elegance of Renaissance typefaces and the balance found in Dutch typography, Mathieu sits between classical warmth and contemporary restraint. Humanistic details give the letterforms a calligraphic undercurrent despite the sans-serif structure, and expressive italics complement the upright styles. The family runs across five weights from Light to Bold and is positioned for both extended text and visual identity work.",
+    "foundry_blurb": "Capitalics describe Mathieu as a typeface born from the meeting of classic and modern, inspired by the proportions and elegance of Renaissance type and the experimental yet traditional approach of Dutch typographers. It carries humanistic calligraphic details within a sans-serif structure, and the full family offers multiple width options alongside expressive italics for text and identity use."
+  },
+  {
+    "name": "Polin",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/polin",
+    "designer": "Mateusz Machalski, Ben Nathan",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Polin is a geometric sans rooted in Polish modernist letterform research, specifically the Alphabet a.r. by Władysław Strzemiński, with circular geometric forms applied consistently across Latin, Cyrillic, Hebrew and Greek scripts.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Polin"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Hebrew",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modernist",
+      "multiscript",
+      "polish-modernism",
+      "hebrew",
+      "cyrillic",
+      "pre-war",
+      "cultural-heritage"
+    ],
+    "summary": "A geometric sans family by Mateusz Machalski and Ben Nathan, rooted in Polish modernist letterform research and extended across Latin, Cyrillic, Hebrew, Greek and Vietnamese scripts.",
+    "description": "Inspired by Władysław Strzemiński's Alphabet a.r. and pre-war Warsaw's multiscript typographic culture, Polin draws on circular geometric forms adapted sensitively for each script it covers. The Hebrew was led by Ben Nathan, informed by the Idźkowski & Sk-a foundry's Jaffa typeface, while the Cyrillic takes its cues from open-form Bulgarian variants applied to classical letterforms. Twenty styles run from Hairline to Black with matching italics, making this as much a historical document as a working type family.",
+    "foundry_blurb": "Capitalics describe Polin as the result of years of research into modernist aesthetics and multiscript pre-war Warsaw, drawing on Strzemiński's Alphabet a.r. as its primary reference. Designed by Mateusz Machalski and Ben Nathan with support from Michał Gorczyca and Małgorzata Bartosik, the family grew from a geometric sans concept into a multilingual project encompassing Cyrillic, Hebrew, Greek and Vietnamese."
+  },
+  {
+    "name": "Bar Sady",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/bar-sady",
+    "designer": "Mateusz Machalski, Małgorzata Bartosik",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "vernacular display",
+    "classification_notes": "A revival of hand-lettered signage from a Warsaw bar, rooted in vernacular lettering traditions rather than any formal typographic genre; classified as display given its decorative, sign-painting origins.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bar Sady"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "revival",
+      "vernacular",
+      "signage",
+      "polish",
+      "display",
+      "variable",
+      "free",
+      "lettering"
+    ],
+    "summary": "A free revival of vernacular bar signage lettering from Warsaw, produced as part of the city's 2023 Participatory Budget.",
+    "description": "Drawn from the original lettering of the \"BAR SADY\" sign in Warsaw's Żoliborz district, this revival was produced by Mateusz Machalski and Małgorzata Bartosik. The original glyphs were first lifted from the source lettering, then extended to a full A-Z character set before a Bold weight was developed. The family is released free of charge in three weights plus a variable version.",
+    "foundry_blurb": "Capitalics describe Bar Sady as a revival of lettering from the famous \"BAR SADY\" sign, developed as part of the Warsaw Participatory Budget 2023. Machalski and Bartosik first digitised the original lettering, then expanded it to a complete character set and added a Bold style. The full family, comprising three weights and a variable version, is available under a free licence."
+  },
+  {
+    "name": "Mercato",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/mercato",
+    "designer": "Mateusz Machalski",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "brush display",
+    "classification_notes": "Mercato sits at the intersection of brush script and geometric display lettering, inspired by hand-painted price tags and a thick display typeface called Chrysler, with organic irregularities constrained by drafting principles.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mercato"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "brush",
+      "geometric",
+      "expressive",
+      "headline",
+      "organic",
+      "variable",
+      "lettering"
+    ],
+    "summary": "A display family rooted in hand-painted South American price tags, blending brush-script irregularity with geometric construction across five weights plus italics.",
+    "description": "Designed by Mateusz Machalski over roughly three years, Mercato draws on the visual energy of hand-lettered market price tags and a rediscovered thick display face called Chrysler. The family balances spontaneous, organic line work against drafting-based geometry, enabling full interpolation across Light to Bold with matching italics and a variable font. Suited to logos, posters and headlines where warmth and movement are needed without sacrificing structural clarity.",
+    "foundry_blurb": "Capitalics describe Mercato as a headline family inspired by hand-painted price tags, with the original idea born in South America. A 2021 discovery of an old specimen featuring thick display lettering called Chrysler gave the project its starting point. The result, three years in the making, explores the space between brush scripts and classic geometric typefaces, available as ten static styles plus a variable font."
+  },
+  {
+    "name": "Buffo",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/buffo",
+    "designer": "Michał Jarociński",
+    "year": null,
+    "category": "display",
+    "subcategory": "theatrical display",
+    "classification_notes": "Described as spirited and theatrical with exaggerated flair, Buffo is a display typeface with a comedic, expressive character that places it firmly outside workhorse text categories.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Buffo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "theatrical",
+      "expressive",
+      "playful",
+      "editorial",
+      "branding",
+      "wide-weight-range"
+    ],
+    "summary": "A theatrical display typeface by Michał Jarociński, built around comedic exuberance and drawn across ten weights with matching italics.",
+    "description": "Named after the Italian operatic tradition of comic performance, Buffo leans into exaggerated, light-hearted character as its defining trait. The family spans ten weights from Hairline to Black, each with an italic, giving designers a wide range of tone within the same expressive voice. It suits editorial work, branding and any context where personality is the point rather than a concession.",
+    "foundry_blurb": "Capitalics describe Buffo as a spirited, theatrical typeface that embodies comedy and caprice, drawing its name from the comedic operatic term buffo. They say it bursts onto the scene with exaggerated flair and never takes itself too seriously, bringing a smile to anyone who encounters it."
+  },
+  {
+    "name": "Salo",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/salo",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "display",
+    "subcategory": "hybrid serif/sans",
+    "classification_notes": "Salo pairs a decorative serif style referencing Italian café and boutique signage with a sans variant drawn from Italian modernist road signage, making it a display hybrid rather than a conventional single-category face.",
+    "weights": [
+      "Paolo",
+      "Giorgio",
+      "Uberto",
+      "Aldo"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Salo Paolo",
+      "Salo Giorgio",
+      "Salo Uberto",
+      "Salo Aldo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "italian",
+      "display",
+      "hybrid",
+      "signage",
+      "variable",
+      "branding",
+      "editorial",
+      "poster"
+    ],
+    "summary": "A hybrid type family by Mateusz Machalski that pairs Italian café-signage serifs with modernist road-signage sans in four named styles built on a shared variable-font skeleton.",
+    "description": "Salo draws from two distinct strands of Italian typographic culture: decorative lettering from café and boutique signs on the serif side, and clean modernist road signage on the sans. The four styles, Paolo, Giorgio, Uberto and Aldo, share the same underlying structure but express it in markedly different ways, and the family is engineered as a 100% variable font. Intended for posters, magazine headlines and branding where mixing styles across the family is part of the intended use.",
+    "foundry_blurb": "Capitalics describe Salo as a hybrid of two Italian typographic worlds: a serif side referencing the elegant lettering of Italian cafés, restaurants and boutiques, and a sans side inspired by Italian modernism and road signage. All four styles share the same core skeleton yet deliver entirely different expressions, and the family is fully variable. Capitalics suggest experimenting by combining the different varieties and position the family for posters, magazine headlines and branding work."
+  },
+  {
+    "name": "Bomboniere",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/bomboniere",
+    "designer": "Michał Jarociński",
+    "year": null,
+    "category": "serif",
+    "subcategory": "elegant serif",
+    "classification_notes": "Described as having delicate, graceful, flowing letterforms with intricate details, suggesting a high-contrast elegant serif suited to formal and luxury contexts.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bomboniere"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "elegant",
+      "formal",
+      "luxury",
+      "wedding",
+      "high-contrast",
+      "serif",
+      "editorial"
+    ],
+    "summary": "A high-contrast elegant serif spanning ten weights with italics, pitched at formal print and luxury branding work.",
+    "description": "Spanning from Hairline to Black with matching italics across all ten weights, Bomboniere is built for occasions where refinement is the priority. Its flowing letterforms and fine detailing make it a natural fit for wedding stationery, formal announcements and upmarket brand identities. The breadth of weights gives it more range than its delicate aesthetic might suggest.",
+    "foundry_blurb": "Capitalics describe Bomboniere as an elegant and sophisticated font with delicate, graceful letterforms and flowing lines that create a sense of luxury and refinement. They position it for wedding invitations, formal announcements and high-end design projects, noting it is also highly functional with a full character set across multiple weights."
+  },
+  {
+    "name": "Sztos",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/sztos",
+    "designer": "Mateusz Machalski",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Sztos is a modernised remix of Baccarat, a Polish grotesque from 1922, retaining historical printing details while updating proportions — placing it firmly in the grotesque tradition with a central European vernacular character.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Sztos Normal Width",
+      "Sztos Condensed Width"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "polish",
+      "historical-revival",
+      "condensed",
+      "editorial",
+      "printing",
+      "vernacular"
+    ],
+    "summary": "A 40-style grotesque family by Mateusz Machalski, loosely reviving the Polish typeface Baccarat (1922) with modernised proportions and a retained historical character.",
+    "description": "Developed between 2018 and 2022, Sztos takes Baccarat — a grotesque published by Jan Idźkowski i S-ka in 1922 — as its starting point, updating the drawing and proportions while keeping traces of traditional Polish printing craft. The family spans 10 weights from Hairline to Black across normal and condensed widths, each with matching italics, totalling 40 styles plus a variable font. The contrast between the wider normal and tighter condensed cuts makes the family well suited to expressive typographic combinations in editorial and branding contexts.",
+    "foundry_blurb": "Capitalics describe Sztos as a remix of Baccarat, one of the most recognisable grotesques used in Poland, originally published in 1922. Designer Mateusz Machalski aimed to modernise the drawing and proportions while preserving the historical flavour and details that recall traditional printing. The family offers 10 weights in two widths with slanted versions, and includes a variable font."
+  },
+  {
+    "name": "Yalla PRO",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/yalla",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "display",
+    "subcategory": "futuristic display",
+    "classification_notes": "The specimen text references 'Futuristic Forms' and the letterforms appear to be a decorative display typeface with unconventional, forward-looking construction rather than a neutral text face.",
+    "weights": [
+      "Thin",
+      "Ultralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Yalla PRO"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "futuristic",
+      "branding",
+      "geometric",
+      "decorative",
+      "headline"
+    ],
+    "summary": "A seven-weight display family from Capitalics with futuristic letterforms suited to branding and headline work.",
+    "description": "Designed by Mateusz Machalski at Capitalics, Yalla PRO spans seven weights from Thin to Bold with no italics. Its specimen copy references futuristic forms, suggesting a constructed, unconventional Latin display character. The family is positioned for branding and expressive editorial contexts rather than extended text setting.",
+    "foundry_blurb": "Yalla PRO is a seven-weight Latin display typeface designed by Mateusz Machalski, co-founder and type designer at Capitalics. The full family is available as a bundle or as individual weights, with futuristic forms at its core."
+  },
+  {
+    "name": "Ping Pong",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/ping-pong",
+    "designer": "Elżbieta Krużyńska, Mateusz Machalski, Małgorzata Bartosik",
+    "year": 1974,
+    "category": "display",
+    "subcategory": "raster/bitmap display",
+    "classification_notes": "Ping Pong is a rasterised surface typeface originally designed for phototypesetting matrices, with its halftone dot-grid structure placing it firmly in the display category as a bitmap or raster-style decorative face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ping Pong"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "raster",
+      "bitmap",
+      "display",
+      "halftone",
+      "polish",
+      "phototypesetting",
+      "retro",
+      "experimental"
+    ],
+    "summary": "A digitisation of Elżbieta Krużyńska's 1974 raster surface typeface, originally designed for phototypesetting matrices using halftone dot structures.",
+    "description": "Originally conceived in 1974 by Elżbieta Krużyńska at the Research and Development Center for the Printing Industry in Poland, the typeface used rasterised letterforms in positive and negative variants intended for phototypesetting matrix production. The 2020 digitisation by Mateusz Machalski and Małgorzata Bartosik adapted the raster to screen display and expanded the character set to cover extended Latin, using a custom vector processing program developed by professor Piotr Welk. The result is a rare piece of Polish graphic heritage made available as a functioning typeface.",
+    "foundry_blurb": "Capitalics describe Ping Pong as a surface typeface originally designed by Elżbieta Krużyńska in 1974 for phototypesetting matrix production, created with photographer Zenon Renke in an attempt to rasterise letters at different sizes and line densities. The 2020 digitisation by Mateusz Machalski and Małgorzata Bartosik, supported by professor Piotr Welk's vector raster processing program, adapted the raster for screen use and expanded the character set to support extended Latin."
+  },
+  {
+    "name": "Raritas",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/raritas",
+    "designer": "Michał Jarociński",
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "The specimen imagery and naming conventions suggest a refined contemporary serif with editorial applications; the wide weight range and true italics position it firmly in the text and display serif tradition.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "UltraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Raritas"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "branding",
+      "contemporary",
+      "text",
+      "display",
+      "wide-weight-range"
+    ],
+    "summary": "A 20-style serif family by Michał Jarociński, spanning Thin to Black with true italics for editorial and branding work.",
+    "description": "Ten upright weights from Thin to Black, each paired with a true italic, give Raritas a broad range suited to both editorial layouts and identity work. The family is sold in full or via targeted packs — an Editorial Pack of eight styles and a Branding Pack of ten — making it accessible at different project scales. Capitalics positions it as a versatile workhorse with typographic character rather than neutrality.",
+    "foundry_blurb": "Capitalics describe Raritas as a feast for the eyes aimed at type aficionados, offering 20 weights each with a true italic counterpart. They pitch it as a versatile toolkit for editorial layouts and branding, with a character they liken to rich typographic flavour."
+  },
+  {
+    "name": "Afronaut PRO",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/afronaut",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Geometric forms contrasted with smooth, round elements drawn from vernacular Arabic and African lettering traditions; the hybrid visual language and multiple alternate forms place it firmly in the display category.",
+    "weights": [
+      "Thin",
+      "UltraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Afronaut PRO"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "vernacular",
+      "african-inspired",
+      "arabic-influenced",
+      "futuristic",
+      "alternate-glyphs"
+    ],
+    "summary": "A geometric display typeface drawing on vernacular Latin and Arabic signage from West Africa, with multiple alternate letterforms per character.",
+    "description": "Designed by Mateusz Machalski of Capitalics, Afronaut PRO blends geometric construction with rounded, organic elements pulled from vernacular typography encountered across Senegal, Mauritania, Guinea-Bissau and Gambia. Each letter may carry up to three alternate forms, giving typographers room to vary rhythm and texture within a single weight. The family spans seven weights from Thin to Bold and is positioned as a companion to the foundry's Yalla typeface.",
+    "foundry_blurb": "Capitalics describe Afronaut as inspired by vernacular Latin and Arabic typography found near the Senegal-Mauritania border, combining geometric forms with smooth, rounded elements. The design brief emerged from designer Mateusz Machalski's reading of Afronautics by Bartek Sabela and his own travels across West Africa, resulting in a typeface mixing vernacular African lettering, futuristic typography and Arabic script references across seven weights with multiple alternate letter forms."
+  },
+  {
+    "name": "Sigmund PRO",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/sigmund-pro",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Rooted in Polish road signage lettering by Marek Sigmund, the family transitions from a signage-derived grotesque at lighter weights into a geometric display character at heavier weights, sitting broadly within geometric sans-serif territory.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "UltraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sigmund PRO"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "signage",
+      "polish",
+      "vernacular",
+      "display",
+      "branding",
+      "editorial"
+    ],
+    "summary": "An 18-style family drawn from Polish road signage lettering, shifting from a functional grotesque at light weights to a geometric display character as weight increases.",
+    "description": "Designed by Mateusz Machalski at Capitalics, the family takes Marek Sigmund's Polish road signage typeface as its starting point, evolving through nine weights and matching italics into something closer to vernacular street-sign display typography at the heavy end. The span from Thin to Heavy gives it range across identity, editorial and poster work. Alternative characters add flexibility for branding applications.",
+    "foundry_blurb": "Capitalics describe Sigmund PRO as a visual journey around Poland, with its lightest styles inspired by the Polish road signage typeface designed by Marek Sigmund. As weight increases, the design shifts into a geometric display face in the spirit of vernacular typography from Polish street signs. The 18-style family suits both visual identities and posters, and includes many alternative characters."
+  },
+  {
+    "name": "Alfabet",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/alfabet",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Designed with an explicit geometric and rational character inspired by Swiss and German typographic tradition, placing it squarely in the geometric sans-serif subcategory.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Alfabet"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended (Vietnamese)",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "swiss-influenced",
+      "multiscript",
+      "branding",
+      "rational",
+      "contemporary"
+    ],
+    "summary": "A geometric sans-serif spanning 10 weights with matching italics, designed for multiscript branding with Latin, Greek and Cyrillic support.",
+    "description": "Built over three years by Mateusz Machalski of Capitalics, Alfabet draws on Swiss and German typographic thinking to produce a sans-serif with a clean, rational character. The full family runs across 10 weights from Hairline to Black, each with a matching italic, and covers Latin (including Vietnamese), Greek and Cyrillic scripts with localised forms for Ukrainian, Bulgarian and Serbian. Beyond the broad character set, the family includes alternates, superscript, subscript, ligatures, an arrows set and seven styles of numerals.",
+    "foundry_blurb": "Capitalics describe Alfabet as the result of over three years of work inspired by Swiss and German designers and researchers, with the core aim of producing a sans-serif with a geometric and strong feeling. The family of 20 styles is positioned for multiscript branding and any context that calls for modernity and rational visual thinking, with extended support for Latin, Greek and Cyrillic scripts."
+  },
+  {
+    "name": "Engram",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/engram",
+    "designer": "Mateusz Machalski",
+    "year": 2015,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as a classical sans geometric family, with rounded corners and a scalable x-height consistent with geometric humanist conventions.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "UltraLight",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Engram"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "friendly",
+      "branding",
+      "rounded",
+      "extensive-weights",
+      "clean"
+    ],
+    "summary": "A geometric sans from Polish designer Mateusz Machalski, spanning 22 styles from Hairline to Heavy with rounded corners and a scalable x-height.",
+    "description": "Developed between 2015 and 2020, Engram is a classical geometric sans that leans toward friendliness through rounded corners and attentive detail. The family covers eleven weights, each with a matching italic, making it versatile across branding and editorial contexts. The scalable x-height keeps it readable across a range of sizes and applications.",
+    "foundry_blurb": "Capitalics describe Engram as a classical sans geometric family designed by Mateusz Machalski, developed from 2015 to 2020. They highlight its wealth of details, rounded corners and scalable x-height as qualities that give the typeface a friendly character and make it suitable for a wide range of purposes, with 22 styles spanning Hairline to Heavy."
+  },
+  {
+    "name": "Change",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/change",
+    "designer": "Mateusz Machalski",
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "renaissance serif",
+    "classification_notes": "Based on Renaissance proportions with expressive calligraphic italics inspired by Robert Granjon, placing it firmly in the humanist/renaissance serif tradition with historical grounding.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Change"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "renaissance",
+      "humanist",
+      "scholarly",
+      "multilingual",
+      "calligraphic",
+      "historical",
+      "multiscript",
+      "academic"
+    ],
+    "summary": "A multiscript serif developed across a PhD project, drawing on Renaissance proportions and Granjon-inspired calligraphic italics to support complex humanistic and historical texts.",
+    "description": "Developed by Mateusz Machalski over six years as part of his doctoral research, Change treats Latin, Cyrillic and Greek with equal typographic rigour, offering around 4,000 glyphs per style. The italics draw directly from the calligraphic tradition of Robert Granjon, giving them an expressive quality that contrasts with the more restrained upright cuts. OpenType features including swashes, final forms and decorative ligatures are available across all three scripts, making it well suited to multilingual academic publishing and historical transcription.",
+    "foundry_blurb": "Capitalics describe Change as a typeface family built around Renaissance proportions with contemporary detailing, designed to handle complex humanistic texts across Latin, Cyrillic and Greek. The italics are inspired by the work of Robert Granjon, and each style contains around 4,000 characters with full OpenType feature support across all scripts. The name reflects both the constant revision inherent in the design process and the personal transformation Machalski underwent in his relationship with typography."
+  },
+  {
+    "name": "Almanach",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/almanach",
+    "designer": "Michał Jarociński",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as a sans-serif with softened stroke endings and italics drawn in the tradition of Italian serif typefaces, giving it a humanist character rather than a purely geometric or grotesque construction.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Almanach"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "multifunctional",
+      "cyrillic",
+      "editorial",
+      "branding",
+      "soft-endings",
+      "dancing-numbers"
+    ],
+    "summary": "A versatile sans-serif by Michał Jarociński with softened stroke terminals and italics shaped by Italian serif conventions, covering Latin and Cyrillic scripts across ten weights.",
+    "description": "Spanning ten weights from Hairline to Black, each with a matching italic, Almanach is designed for broad application without feeling anonymous. The italics follow conventions drawn from Italian serif typefaces, which is especially apparent in the Cyrillic, where many characters take distinct forms from their upright counterparts. Softened letter endings and lively numeral forms give the family a quiet personality beneath its general-purpose utility.",
+    "foundry_blurb": "Capitalics describe Almanach as a multifunctional sans-serif whose universality is its strength, yet it retains character through delicately softened letter endings and dancing numerals. The italics are designed in compliance with rules appropriate to Italian serif typefaces, most visibly in the Cyrillic script where many characters differ in form from their upright versions."
+  },
+  {
+    "name": "Półtawski Nowy",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/poltawski-nowy",
+    "designer": "Mateusz Machalski, Ania Wieluńska, Borys Kosmynka",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Digitisation of the 1928 Antykwa Półtawskiego, a Polish Latin serif with ornamental qualities. Its historical roots place it within the transitional serif tradition, balancing calligraphic influence with regularised typographic rhythm.",
+    "weights": [
+      "Regular",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Półtawski Nowy"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "polish",
+      "revival",
+      "historical",
+      "text",
+      "open-source",
+      "ornamental",
+      "transitional",
+      "digitalisation"
+    ],
+    "summary": "A careful digitisation of Adam Półtawski's 1928 Antykwa Półtawskiego, grounded in archival research across specimen books, punch drawings and Monotype punches held at the Type Archive London.",
+    "description": "The project reconstructs the most recognised Polish typeface design using primary sources: scans of the Idźkowski i S-ka foundry specimen book alongside punch patterns and punches produced by Monotype in Salfords between 1934 and 1955. The digital version standardises character forms and balances typographic rhythm while preserving the ornamental character of the original, and extends the base character set with small caps, multiple number variants and a full suite of OpenType features. It is intended for text setting between 10 and 18 pt and is released under an open font licence.",
+    "foundry_blurb": "Capitalics describe Półtawski Nowy as a digitisation of the Antykwa Półtawskiego typeface from 1928, undertaken alongside historical research that uncovered the unique story behind Poland's most recognisable typeface. The family comprises six styles across three upright and three italic weights, is intended for text sizes of 10 to 18 pt, and was supported by Poland's Digital Culture 2020 programme of the Ministry of Culture and National Heritage."
+  },
+  {
+    "name": "Geller Sans",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/geller-sans",
+    "designer": "Ludka Biniek",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as derived from the proportions of its serif predecessor Geller Serif, suggesting a humanist construction with organic proportions rather than strict geometric or grotesque forms.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "UltraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "UltraBlack",
+      "Heavy",
+      "ExtraHeavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Narrow",
+      "Condensed",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Geller Sans",
+      "Geller Sans Narrow",
+      "Geller Sans Condensed",
+      "Geller Sans Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "editorial",
+      "multi-width",
+      "large-family",
+      "advertising",
+      "text",
+      "display"
+    ],
+    "summary": "A 104-style sans-serif family by Ludka Biniek, built on the proportions of Geller Serif and spanning four widths from Regular to Compressed.",
+    "description": "Derived from the proportions of its serif companion, the family runs thirteen weights from Thin to ExtraHeavy across Regular, Narrow, Condensed and Compressed widths, each with matching italics. OpenType features include bullets and dingbats for list-making, following the same approach as Geller Serif. The range of widths and weights makes it serviceable across both editorial text setting and larger advertising use.",
+    "foundry_blurb": "Capitalics describe Geller Sans as developed from the proportions of Geller Serif, with enough charm across its thin-to-extraheavy range to stand out in advertising and sufficient reliability in text weights for complex design tasks. The full family comprises 104 styles across four widths, with OpenType features including bullets and dingbats carried over from the serif counterpart."
+  },
+  {
+    "name": "Podium Sharp",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/podium",
+    "designer": "Mateusz Machalski",
+    "year": 2012,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A modular geometric display typeface derived from old Polish woodtype specimens, spanning ultra-compressed to ultra-expanded widths across 13 weights — firmly display in character and application.",
+    "weights": [
+      "1 (Hairline)",
+      "2",
+      "3",
+      "4",
+      "5 (Regular)",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13 (Heavy)"
+    ],
+    "optical_sizes_or_widths": [
+      "1 (Ultra Compressed)",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 (Ultra Expanded)"
+    ],
+    "subfamilies": [
+      "Podium Sharp"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modular",
+      "woodtype",
+      "display",
+      "poster",
+      "condensed",
+      "expanded",
+      "polish"
+    ],
+    "summary": "A 234-style geometric display family by Mateusz Machalski, rooted in Polish woodtype specimens and organised by a Frutiger-inspired numeric grid of widths and weights.",
+    "description": "Built as an extended rebuild of Machalski's 2012 DUDU typeface, Podium Sharp spans nine widths from ultra-compressed to ultra-expanded, each available in 13 weights from hairline to heavy, all with matching italics. The design draws on historical Polish modular and geometric woodtypes including Rex, Blok and Bacarat. Styles are named using a two-digit system where the first digit denotes width and the second denotes weight, making navigation across the 234-style family straightforward for posters, visual identities and large-scale display work.",
+    "foundry_blurb": "Capitalics describe Podium Sharp as an extended version of the DUDU typeface, rebuilt with new masters and weights to reach 234 styles. The design is conceived as a hybrid of modular and geometric woodtypes found in old Polish type specimens, and the numeric naming convention is modelled on Frutiger's Univers system, with the first digit indicating width and the second indicating weight."
+  },
+  {
+    "name": "Promo",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/promo",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "rounded sans",
+    "classification_notes": "A rounded sans-serif with soft terminals throughout, described by the foundry as having a friendly, approachable character suited to branding and display use.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "UltraLight",
+      "Light",
+      "Normal",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Promo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "friendly",
+      "branding",
+      "display",
+      "geometric",
+      "soft"
+    ],
+    "summary": "A nine-weight rounded sans-serif from Capitalics, designed for branding and display work with soft, friendly letterforms.",
+    "description": "A rounded sans-serif family spanning nine weights from Thin to Bold, with no italics or condensed cuts. The soft terminals give it a warm, approachable tone suited to consumer-facing branding and display settings. Designed by Mateusz Machalski of Capitalics.",
+    "foundry_blurb": "Capitalics describe Promo as a charming rounded sans family defined by multiple features that give it a friendly feeling, positioned as ideal for branding and display purposes. The family consists of nine styles from Thin to Bold."
+  },
+  {
+    "name": "Gaultier",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/gaultier",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described by its designer as a sans-serif antiqua drawing on Garamond, Granjon and Eric Gill, with delicate upright contrast and Granjon-inspired italic construction — placing it firmly in the humanist sans tradition.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "UltraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gaultier"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "antiqua",
+      "text",
+      "branding",
+      "editorial",
+      "contrast",
+      "classic-influences"
+    ],
+    "summary": "A humanist sans-serif drawing on Garamond, Granjon and Eric Gill, built across ten weights with matching italics for text and branding work.",
+    "description": "Designed by Mateusz Machalski over five years, Gaultier applies serif-typographic thinking to a sans-serif structure, taking influence from Claude Garamond, Robert Granjon and Eric Gill. Upright styles carry delicate stroke contrast while the italics are more expressive, modelled on Granjon's italic construction. The family ships with small caps, five digit styles, swash variants, ligatures and contextual alternates, aiming at longer text, visual communications and identity work.",
+    "foundry_blurb": "Capitalics describe Gaultier as the result of over five years of development, conceived as a sans-serif antiqua that brings to the genre the rich typographic features normally reserved for serif faces. Inspired by Garamond, Granjon and Eric Gill, it pairs contrast-bearing upright styles with expressive italic forms and an extensive OpenType feature set including small caps, ligatures, swash variants and five styles of digits."
+  },
+  {
+    "name": "Maecenas",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/maecenas",
+    "designer": "Michał Jarociński",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The specimen text and foundry copy emphasise elegance, timelessness and professional character, consistent with a transitional serif. The range of weights and italics, combined with the formal tone of the specimen settings, supports this classification.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "UltraBold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Maecenas"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "elegant",
+      "professional",
+      "editorial",
+      "branding",
+      "versatile",
+      "transitional"
+    ],
+    "summary": "An eleven-weight serif family by Michał Jarociński designed for professional use across editorial and branding contexts.",
+    "description": "Spanning eleven weights from Thin to Heavy, each with a matching italic, Maecenas is positioned as a versatile workhorse with a formal, elegant character. The specimen demonstrates strong Latin and Cyrillic support, broadening its reach across European markets. Packs are available in editorial and branding configurations, suggesting the family holds up across both running text and display settings.",
+    "foundry_blurb": "Capitalics describe Maecenas as an elegant professional that stands apart through its timeless style and versatility. They claim it adds smartness to any text regardless of the task, making an impression for those who need character and reliability from a typeface. The foundry note that Maecenas won't be lost in the crowd."
+  },
+  {
+    "name": "Harpagan",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/harpagan",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The specimen and weight range suggest a contemporary grotesque sans-serif with no italics or condensed variants listed, pointing to a restrained, functional design.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Harpagan"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "branding",
+      "contemporary",
+      "clean",
+      "functional"
+    ],
+    "summary": "A five-weight grotesque sans from Capitalics designer Mateusz Machalski, aimed at branding and identity work.",
+    "description": "Spanning Thin through Bold, Harpagan is a grotesque sans designed by Mateusz Machalski at Capitalics, a Polish foundry. The family offers five weights without italics or condensed cuts, keeping the focus on clean upright forms suited to logotypes and visual identity. A straightforward option for brand-led work where restraint is the priority.",
+    "foundry_blurb": "Capitalics offer Harpagan as a five-weight family designed by Mateusz Machalski, available as a complete family bundle or as individual weight licences, priced in PLN, USD or EUR."
+  },
+  {
+    "name": "Disalina",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/disalina",
+    "designer": "Maciej Włoczewski",
+    "year": null,
+    "category": "display",
+    "subcategory": "art nouveau display",
+    "classification_notes": "Inspired by late 19th and early 20th century lettering and posters, Disalina blends geometric shapes with Art Nouveau stylistic flourishes, making it a display typeface with decorative historical roots.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Disalina"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "art-nouveau",
+      "vintage",
+      "geometric",
+      "decorative",
+      "display",
+      "ligatures",
+      "swashes",
+      "poster"
+    ],
+    "summary": "A display typeface by Maciej Włoczewski drawing on late 19th and early 20th century lettering traditions, with three stylistic sets offering geometric, ligature-heavy and Art Nouveau-inflected options across seven weights.",
+    "description": "Rooted in the poster lettering of the 1800s and early 1900s, Disalina merges vintage decorative sensibilities with a more considered geometric structure. Each of the seven weights includes stylistic sets, ligatures, swashes and arrows, reducing the need to mix multiple typefaces within a single project. The result sits comfortably in branding, editorial and poster work that calls for period-inflected character without surrendering legibility.",
+    "foundry_blurb": "Capitalics describe Disalina as a typeface adjusted to the user's needs, offering geometrical shapes, stylised ligatures and lettering reminiscent of Art Nouveau through three stylistic sets included in every weight. The family of seven weights was inspired by lettering and posters from the late 1800s and early 1900s, merging vintage design with modern graphic thinking, and includes opentype features such as ligatures, swashes and arrows."
+  },
+  {
+    "name": "Geller",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/geller",
+    "designer": "Ludka Biniek",
+    "year": null,
+    "category": "serif",
+    "subcategory": "didone",
+    "classification_notes": "Geller draws directly on Didone proportions for its capital letters, with high contrast and narrow letter construction typical of the style, optimised for editorial and newspaper use across headline and text optical sizes.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Headline"
+    ],
+    "subfamilies": [
+      "Geller Text",
+      "Geller Headline"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "editorial",
+      "newspaper",
+      "high-contrast",
+      "serif",
+      "graduation-project",
+      "optical-sizes",
+      "diacritics"
+    ],
+    "summary": "A Didone-influenced editorial serif by Ludka Biniek, designed for newspaper and editorial use across headline and text optical sizes.",
+    "description": "Originating as a graduation project at Typowa Pracownia, Academy of Fine Arts in Warsaw, Geller draws on Didone proportions for its capital letters, with optimised inner counters, short ascenders and descenders, and a narrow letter construction suited to tight column setting. The family spans twenty styles across two optical sizes, Text and Headline, with weights from Light to Black and matching italics throughout. Bullets, dingbats and compact diacritics extend its usefulness for editorial layouts where entry points and economical typesetting matter.",
+    "foundry_blurb": "Capitalics describe Geller as a faithful ally for designers seeking a fresh yet familiar and reliable typeface, built for newspaper and editorial use. Capital proportions derive from Didone models, with optimised inner lights, short ascenders and descenders, and a narrow construction that suits both headline and narrow text columns. The family includes OpenType features, bullets, dingbats and compact diacritics."
+  },
+  {
+    "name": "Lazarus",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/lazarus",
+    "designer": "Ania Wieluńska",
+    "year": 2017,
+    "category": "serif",
+    "subcategory": "renaissance serif",
+    "classification_notes": "Digitised from a 16th-century Polish typeface system, the family includes antiqua, italic, upright italic and fraktur cuts, placing it firmly in the historical revival tradition of renaissance and humanist type.",
+    "weights": [
+      "Regular",
+      "Italic",
+      "Upright Italic",
+      "Fraktur"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lazarus Regular",
+      "Lazarus Italic",
+      "Lazarus Upright Italic",
+      "Lazarus Fraktur"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "historical-revival",
+      "renaissance",
+      "16th-century",
+      "polish",
+      "antiqua",
+      "fraktur",
+      "diplomatic",
+      "academic"
+    ],
+    "summary": "A four-style revival digitised from the 1594 'New Polish Karakter' typefaces developed by Jan Januszowski, including antiqua, italic, upright italic and a fraktur cut.",
+    "description": "Ania Wieluńska spent over two years researching and digitising the typefaces commissioned for Jan Januszowski's orthographic reform publication of 1594, extending the original character sets to cover Western, Central and South-Eastern European Latin. The family pairs two historicising cuts based directly on Januszowski's own italic designs with a Regular drawn from the antiqua he used for Latin texts, and a Fraktur derived from the Mytel Polski. Italic includes decorative stylistic sets; Regular carries ornaments and pointing hands. The diploma project received a rector's distinction at the Warsaw Academy of Fine Arts and was exhibited at Coming Out 2017.",
+    "foundry_blurb": "Capitalics describe Lazarus as a family of four typefaces digitised from the fonts created for the 'New Polish Karakter' of 1594, a landmark attempt to standardise written Polish. The project involved extensive archival research, a bespoke digitisation method and a significant expansion of the original character sets, documented in a theoretical master's thesis. The Italic and Upright Italic cuts were supported by a scholarship from the Polish Minister of Culture and National Heritage."
+  },
+  {
+    "name": "Brygada 1918",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/brygada1918",
+    "designer": "Mateusz Machalski, Borys Kosmynka, Przemysław Hoffer, Ania Wieluńska",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "A digital revival of a Polish interwar serif typeface, likely originating from the Idźkowski and Co. type foundry in Warsaw, exhibiting characteristics typical of early 20th-century European transitional serif designs.",
+    "weights": [
+      "Regular",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brygada 1918"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic Extended",
+      "Greek",
+      "IPA"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "revival",
+      "polish",
+      "interwar",
+      "heritage",
+      "editorial",
+      "oldstyle-figures",
+      "small-caps",
+      "cultural"
+    ],
+    "summary": "A digital revival of a Polish interwar serif typeface, sourced from original casting matrices found in the Book Art Museum in Łódź, released under the Open Font Licence.",
+    "description": "Designed by Mateusz Machalski, Borys Kosmynka, Przemysław Hoffer and Ania Wieluńska, the project revives a typeface most likely produced by the Warsaw-based Type Foundry Idźkowski and Co. during the interwar period. The original three cuts — regular, italic and bold — were extended with semibold and bold italic variants to broaden practical use, while the glyph set was greatly expanded to include extended Latin and Cyrillic, basic Greek, IPA, four figure styles, small caps and a wide set of ornaments. Produced with support from the Polish President's office and the 'Independent' cultural programme, it honours a largely forgotten chapter of Polish typographic history.",
+    "foundry_blurb": "Capitalics describe Brygada 1918 as a digital revival project supported by Poland's 'Independent' programme and the President of the Republic of Poland, with source inspiration drawn from casting matrices discovered by Janusz Paweł Tryzno at the Book Art Museum in Łódź. The typeface is believed to originate from the interwar-era Warsaw foundry Idźkowski and Co. The family is available in six styles under the Open Font Licence, with the aim of building a shared awareness of type design as a culturally significant discipline."
+  },
+  {
+    "name": "Tzimmes",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/tzimmes",
+    "designer": "Michał Jarociński",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The page references 'fleshy serifs' and 'subtle calligraphic references', placing Tzimmes in the transitional serif tradition with humanist calligraphic influence and pronounced stroke contrast.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "UltraBold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tzimmes"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "calligraphic",
+      "editorial",
+      "text",
+      "branding",
+      "high-contrast",
+      "latin",
+      "cyrillic"
+    ],
+    "summary": "A fleshy, calligraphically inflected serif from Capitalics, spanning 22 weights with true italics for editorial and branding work.",
+    "description": "Designed by Michał Jarociński, Tzimmes pairs pronounced serifs with calligraphic undertones and strong stroke contrast across an unusually wide weight range from Thin to Heavy. The lighter and bolder extremes suit display and logotype work, while the middle weights hold up well in long-form text. Latin and Cyrillic coverage is included alongside small capitals, fractions, ligatures and a full suite of OpenType features.",
+    "foundry_blurb": "Capitalics describe Tzimmes as a tasty morsel for lovers of fine letterforms, combining fleshy serifs with subtle calligraphic references to give texts a distinctive character. The family of 22 weights with true italics is positioned across book, magazine and logotype work, with full Latin and Cyrillic language support and extensive OpenType features including small capitals, fractions and ligatures."
+  },
+  {
+    "name": "Bilbao",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/bilbao",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric hybrid",
+    "classification_notes": "Described by the foundry as a hybrid of sans, slab and mono with geometric details; the blending of structural references across multiple type categories makes display the most accurate top-level classification.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "UltraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bilbao"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "hybrid",
+      "branding",
+      "display",
+      "friendly",
+      "slab-influenced",
+      "mono-influenced"
+    ],
+    "summary": "A geometric hybrid typeface blending sans, slab and mono references across 22 styles from Hairline to Black, aimed at branding and display use.",
+    "description": "Designed by Mateusz Machalski at Capitalics, Bilbao draws from sans, slab and mono traditions while maintaining a consistent geometric character throughout its range. The full family spans 11 weights from Hairline to Black, each with a matching italic, giving designers broad flexibility for hierarchical work. The foundry positions it for branding and display purposes, where its mixed structural references read as approachable rather than clinical.",
+    "foundry_blurb": "Capitalics describe Bilbao as a hybrid between sans, slab and mono fonts with geometric details, giving it a friendly feeling suited to branding and display purposes. The entire family consists of 18 styles with italics running from Hairline to Black."
+  },
+  {
+    "name": "Picador Sans",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/picador-sans",
+    "designer": "Maciej Włoczewski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as a modern sans serif with subtle calligraphic letter endings, giving it humanist characteristics despite its condensed proportions. The pen-influenced terminals and strong legibility at text sizes align with the humanist sans category.",
+    "weights": [
+      "ExtraThin",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Picador Sans"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "humanist",
+      "calligraphic",
+      "editorial",
+      "magazine",
+      "text",
+      "legible"
+    ],
+    "summary": "A condensed humanist sans with calligraphic letter endings, offered in ten weights with matching italics for editorial and text use.",
+    "description": "Designed by Maciej Włoczewski, Picador Sans pairs condensed proportions with subtle pen-influenced terminals that ease reading in long text settings. The family spans ten weights from ExtraThin to ExtraBold, each with a matching italic, and includes small caps, old-style figures, tabular figures, superscript, subscript, ligatures and fractions. Each style carries over 1,200 glyphs covering the Latin script.",
+    "foundry_blurb": "Capitalics describe Picador Sans as a modern sans serif that is intriguingly condensed and distinctively eye-catching, designed to maximise text space while maintaining legibility. Subtle calligraphic letter endings are cited as the reason it reads so naturally in magazines and books. The full family comprises ten weights and italics, with an extensive glyph set including small caps, oldstyle figures, ligatures and fractions."
+  },
+  {
+    "name": "Bona",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/bona",
+    "designer": "Andrzej Heidrich, Mateusz Machalski",
+    "year": 1971,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Bona is a classic triad serif originally designed in 1971 by Andrzej Heidrich, the designer of Polish banknotes, with a humanist serif character typical of mid-twentieth-century Central European type design. The display variants suggest a refined, calligraphic serif tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Nova",
+      "Sforza",
+      "Title"
+    ],
+    "subfamilies": [
+      "Bona Nova",
+      "Bona Sforza",
+      "Bona Title"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Arabic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "polish",
+      "heritage",
+      "banknote",
+      "digitisation",
+      "display",
+      "classic",
+      "open-license"
+    ],
+    "summary": "A digitisation of Andrzej Heidrich's 1971 Polish serif, expanded into a full family including display variants by Mateusz Machalski at Capitalics.",
+    "description": "Originally drawn by Andrzej Heidrich, the designer responsible for Polish banknote typography, Bona was digitised and extended by Capitalics into a three-subfamily system. Bona Nova, the text family, is distributed free under an open licence and spans Regular, Italic and Bold. The display range splits into Bona Sforza and Bona Title, each with three weights, giving the family reach from continuous text to large-scale typographic work.",
+    "foundry_blurb": "Capitalics describe Bona Nova as a digitisation project for Andrzej Heidrich's 1971 Bona typeface, created in collaboration with the original author. Beyond giving it a digital form, the project expands the character set, adds small caps, alternative characters and typographic functions. Two additional weights were developed to complete a classic Regular–Italic–Bold triad, distributed under an open licence, complemented by six display variants under the Bona Sforza name."
+  },
+  {
+    "name": "Nocturne Serif",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/nocturne-serif",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "Named and presented as a serif with a wide weight range from ExtraThin to Black; the nocturne naming and specimen presentation suggest a refined, editorial serif character rather than a historical revival.",
+    "weights": [
+      "ExtraThin",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nocturne Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "branding",
+      "contemporary",
+      "wide-range",
+      "polish"
+    ],
+    "summary": "A contemporary serif by Mateusz Machalski spanning ten weights from ExtraThin to Black, each with a matching italic.",
+    "description": "Designed by Mateusz Machalski of Capitalics, this serif covers a broad weight range across twenty styles. The family is sold as a full set or in a basic four-style pack of Regular, Regular Italic, Bold and Bold Italic, suggesting practical branding and editorial use. The nocturne naming implies a darker, refined aesthetic suited to upscale identity work.",
+    "foundry_blurb": "Capitalics present Nocturne Serif as a 20-weight serif family designed by Mateusz Machalski, available as a full family, a basic four-weight pack, or as individual styles purchased separately."
+  },
+  {
+    "name": "Praho Pro",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/praho-pro",
+    "designer": "Maciej Włoczewski",
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast serif",
+    "classification_notes": "High contrast with thin serifs and sharp terminals places this firmly in the high-contrast display serif category, drawing on the visual character of neoclassical or didone-influenced letterforms suited to headlines.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Praho Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "high-contrast",
+      "display",
+      "editorial",
+      "polish",
+      "heritage",
+      "multilingual",
+      "headlines"
+    ],
+    "summary": "A high-contrast serif inspired by the historic Praga district of Warsaw, designed by Maciej Włoczewski as part of the Warsaw Types collaborative project.",
+    "description": "Part of a collaboration between 12 young Polish typographers presented at the Museum of Praga, the family draws on the local typographic heritage of Warsaw's Praga district. High contrast, thin serifs, a large x-height and sharp terminals give it a distinctive quality suited to headline work. Nine weights with real italics, small caps, old-style and tabular figures, superscript, subscript and fractions are included, with each weight running to nearly 2,000 glyphs across Latin and Cyrillic scripts.",
+    "foundry_blurb": "Praho Pro is a multilingual serif family designed by Maciej Włoczewski and developed as part of Warsaw Types, a project rooted in Warsaw's local typographic heritage and presented at the Museum of Praga. The family covers nine weights with real italics, small caps, multiple figure styles and fractions, and supports both Latin and Cyrillic scripts with nearly 2,000 glyphs per weight."
+  },
+  {
+    "name": "Favela",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/favela",
+    "designer": "Mateusz Machalski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as geometric and sans serif; the scalable construction shifting from condensed at hairline to super extended at black is a distinctive geometric design logic.",
+    "weights": [
+      "Hairline",
+      "ExtraThin",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Favela"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "experimental",
+      "branding",
+      "display",
+      "scalable",
+      "extended-range"
+    ],
+    "summary": "A geometric sans by Mateusz Machalski where glyph width and x-height scale progressively across the weight range, from condensed hairlines to super-extended blacks.",
+    "description": "Spanning 22 styles across 11 weights from Hairline to Black, the family's defining trait is that width is not fixed: the lightest styles are condensed, Regular sits at a neutral proportion, and Black is super extended with shortened ascenders. Middle weights are suited to short text, while the extremes are aimed at display, branding and layout work. All styles include over 500 glyphs and a full set of small caps.",
+    "foundry_blurb": "Capitalics describe Favela as an experimental, geometric sans serif type family designed by Mateusz Machalski, characterised by scalable glyph construction where hairline styles are condensed, regular is normal proportioned, and black is super extended with short ascenders. The family of 18 styles was designed primarily for branding and display, with middle weights suitable for short text, and each style includes over 500 glyphs with small caps."
+  },
+  {
+    "name": "Artigua",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/artigua",
+    "designer": "Maciej Włoczewski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "High contrast with sharp terminals and geometrical shapes places Artigua firmly in the geometric sans tradition, though its contrast ratio shifting across weights gives it a slightly display-oriented character at heavier settings.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Artigua"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "high-contrast",
+      "clean",
+      "minimal",
+      "editorial",
+      "display",
+      "text"
+    ],
+    "summary": "A high-contrast geometric sans by Maciej Włoczewski, with sharp terminals and a contrast ratio that eases across weights to suit both running text and headlines.",
+    "description": "Designed by Maciej Włoczewski, Artigua uses geometrical forms and sharp stroke endings to create a crisp, minimal character. The relationship between vertical and horizontal stroke widths narrows progressively from Thin to Black, making the Regular weight comfortable for longer passages while the Black lends itself to headings and display use. The full 18-style family ships with over 1,100 glyphs, including small caps, old-style and tabular figures, superscript, subscript and fractions.",
+    "foundry_blurb": "Capitalics describe Artigua as built around high contrast, sharp endings and geometrical shapes. The variable stroke relationship across weights means lighter cuts work for text while heavier ones suit headings. The complete family spans 18 fonts with over 1,100 glyphs, including small caps, italics, fractions, and both old-style and tabular figures, aimed at clean and minimal projects such as adverts, books and web headings."
+  },
+  {
+    "name": "Macho",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/macho",
+    "designer": "Michał Jarociński",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The page does not specify a precise subcategory, but the specimen and naming conventions suggest a general-purpose grotesque sans-serif with a wide weight range and broad language support.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Macho"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "latin",
+      "cyrillic",
+      "opentype",
+      "multiweight",
+      "workhorse"
+    ],
+    "summary": "A nine-weight grotesque sans by Michał Jarociński, covering Latin and Cyrillic with a full suite of OpenType features including small caps, ligatures and superscript and subscript glyphs.",
+    "description": "Designed by Michał Jarociński at Capitalics, Macho runs from Thin to Black across nine weights, each with a matching italic, giving 18 styles in total. OpenType features include small capitals, fractions, ordinals, alternates, ligatures, local forms and a complete set of superscript and subscript glyphs. Latin and Cyrillic coverage makes it a capable choice for multilingual editorial and identity work.",
+    "foundry_blurb": "Capitalics describe Macho as a font with a complex nature, calling it a true gentle giant that handles itself equally well across demanding typographic situations. The family covers all Latin languages and Cyrillic, ships in nine weights plus matching italics, and is packed with OpenType features including small capitals, fractions, local forms, ordinals, alternates, ligatures and a full set of superscript and subscript glyphs."
+  },
+  {
+    "name": "Mato Sans",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/mato-sans",
+    "designer": "Maciej Włoczewski",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Mato Sans presents as a conventional sans-serif with a broad weight range and matching italics, consistent with a grotesque or general-purpose humanist sans classification. No condensed or display variants are indicated on the page.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mato Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "text",
+      "multweight",
+      "professional",
+      "clean"
+    ],
+    "summary": "A nine-weight sans-serif family with matching italics from Polish designer Maciej Włoczewski, sold through Capitalics.",
+    "description": "Mato Sans spans nine weights from Thin to Black, each with a corresponding italic, giving eighteen styles in total. The family is offered as a full bundle, a basic four-weight pack or individual cuts. Suited to text and interface work where a clean, unassuming sans is needed across a range of weights.",
+    "foundry_blurb": "Capitalics offer Mato Sans as an 18-style family designed by Maciej Włoczewski, available as a full family bundle, a basic pack of four essential weights, or as individual styles purchased separately."
+  },
+  {
+    "name": "Servus",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/servus",
+    "designer": "Michał Jarociński",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The page describes a family that transitions from narrow, delicate thin weights to broader, heavier blacks, suggesting a humanist sans with variable personality across the range rather than a strict geometric or grotesque approach.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Servus"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "humanist",
+      "multweight",
+      "display",
+      "text",
+      "polish",
+      "legible"
+    ],
+    "summary": "An 18-style sans from Polish foundry Capitalics, conceived around the metaphor of a child growing from thin and narrow to black and wide.",
+    "description": "Designed by Michał Jarociński, Servus spans nine weights from Thin to Black, each with a matching italic, totalling 18 fonts. The lighter weights are described as well-suited to display work owing to their strong personality, while the Regular provides the even colour needed for longer text. The family covers all Latin languages and includes small capitals, fractions, ligatures and a broad numeral set.",
+    "foundry_blurb": "Capitalics describe Servus, designed by Michał Jarociński, as a family whose name means 'Hello' in Polish. The concept follows a child's growth, beginning with thin and narrow weights like a newborn and gradually expanding to black and wide. Nine weights with matching italics give 18 fonts in total, with comprehensive OpenType features including small caps, fractions and ligatures, covering all Latin languages."
+  },
+  {
+    "name": "Sharik Sans",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/sharik",
+    "designer": "Michał Jarociński",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as a sans serif with a calligrapher's touch in its subtle details and endings, placing it firmly in the humanist sans tradition where pen-drawn influences inform letterform construction.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sharik Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "calligraphic",
+      "warm",
+      "text",
+      "web",
+      "opentype",
+      "ligatures",
+      "small-caps"
+    ],
+    "summary": "A nine-weight humanist sans by Michał Jarociński with calligraphic detailing that becomes most apparent at display sizes.",
+    "description": "Designed by Michał Jarociński and named after a dog character from a favourite TV series, Sharik Sans is a humanist sans with subtle calligraphic touches in its terminals and details. The family spans nine weights from Thin to Black, each with a matching italic, for a total of 18 styles. OpenType features include small capitals, a wide range of numeral styles, fractions, ordinals, alternates and ligatures, and the family is intended to complement Jarociński's serif-influenced typeface Clavo.",
+    "foundry_blurb": "Capitalics describe Sharik Sans as a typeface with a warm and gentle personality, designed not to shout or stand out but to serve reliably in everyday work. Though a sans serif, it carries a calligrapher's touch in its details and endings that becomes especially visible at display sizes. The family covers nine weights with matching italics and is packed with OpenType features including small capitals, a wide set of numerals, fractions, ordinals, alternates and ligatures."
+  },
+  {
+    "name": "Clavo",
+    "foundry": "Capitalics",
+    "url": "https://capitalics.wtf/en/font/clavo",
+    "designer": "Michał Jarociński",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Clavo draws on classical proportions and traditional forms with subtle humanist warmth, placing it in the transitional serif tradition suited to both text and display settings.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Clavo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "multipurpose",
+      "classical",
+      "transitional",
+      "editorial",
+      "opentype"
+    ],
+    "summary": "A multipurpose serif with classical proportions and subtle warmth, designed across nine weights with optically calibrated steps and matching italics.",
+    "description": "Designed by Michał Jarociński, Clavo is a serif family of eighteen styles built around traditional forms and harmonious structure intended to ease reading without distraction. The nine weights were spaced by optical judgement rather than mechanical graduation, giving the family a more natural rhythm across sizes. Coverage runs from caption to display use, with small capitals, a wide numeral set, fractions and other OpenType features included throughout.",
+    "foundry_blurb": "Capitalics describe Clavo as a multipurpose font family designed by Michał Jarociński. Its warmth derives from subtle details, classical proportions and traditional forms, while a harmonious structure keeps it readable at any size from caption to display. The family spans nine weights, each with a matching italic, stepped by optical rather than mechanical increments, and covers all Latin languages with a broad OpenType feature set including small capitals, fractions and multiple numeral styles."
+  }
+]

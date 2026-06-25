@@ -1,0 +1,894 @@
+[
+  {
+    "name": "Blueberry",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/blueberry",
+    "designer": "Eliott Grunewald",
+    "year": null,
+    "category": "display",
+    "subcategory": "comic/hand-lettered",
+    "classification_notes": "Blueberry imitates comic book hand-lettering, with rounded, whimsical letterforms evolving toward the mechanical lettering conventions seen in Franco-Belgian comics. It is best classified as a display typeface in the comic/hand-lettered subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blueberry"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "comic",
+      "hand-lettered",
+      "rounded",
+      "playful",
+      "display",
+      "franco-belgian",
+      "tribute",
+      "lettering"
+    ],
+    "summary": "A comic book lettering typeface by Eliott Grunewald, named in tribute to the classic Franco-Belgian western saga by Giraud and Charlier.",
+    "description": "Designed by Eliott Grunewald and developed by OTT, Blueberry draws on the hand-lettered traditions of European comics, specifically the mechanical lettering style that became standardised in the bande dessinée tradition. Its rounded, open letterforms are suited to editorial projects, children's publishing and branding that calls for a friendly, informal register. The extensive Latin Extended character set covers a broad range of European languages.",
+    "foundry_blurb": "OTT describe Blueberry as a comic book typeface that seeks to imitate a form of handwriting as it evolved into the mechanical lettering system widely seen in comics. The name pays tribute to the classic Franco-Belgian western saga Blueberry, by Giraud and Charlier, and by extension to the broader tradition of comic book typography and its brilliant authors."
+  },
+  {
+    "name": "Algol",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/algol",
+    "designer": "Eliott Grunewald",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A modular, single-weight display sans with even stroke weights and geometric construction, clearly intended for headlines and covers rather than text setting, placing it firmly in the display category with geometric roots.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Algol"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modular",
+      "retro-futurist",
+      "science-fiction",
+      "display",
+      "1970s",
+      "phototypesetting"
+    ],
+    "summary": "A modular geometric display typeface by Eliott Grunewald drawing on the phototypesetting-era science fiction aesthetic of the 1970s.",
+    "description": "Designed in 2023 and mastered by Wei Huang with spacing by Igino Marini, Algol sits in a lineage of geometric, even-stroke display faces from the phototypesetting era including ITC Bauhaus, Pipeline and ITC Ronda. Its simple geometric construction and angular glyphs are well-suited to book covers, poster headlines and editorial contexts that call for a retro-futurist register. The name is a tribute to the science fiction fanzine published by Andrew Ian Silverberg in New York City from 1963.",
+    "foundry_blurb": "OTT Foundry describe Algol as a sans serif and modular typeface inspired by the phototypesetting era, when many science fiction typefaces were designed. They cite ITC Bauhaus, Pipeline, Soul, Vero, Harry and ITC Ronda as reference points, noting that simple geometric shapes and even stroke weights give the face a strong graphic presence. The name pays tribute to an old sci-fi fanzine created by Andrew Ian Silverberg in New York City in 1963."
+  },
+  {
+    "name": "Chardon",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/chardon",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The specimen pages show a serif typeface with strong contrast between thick and thin strokes, classical proportions and an accompanying italic, consistent with a transitional or neoclassical serif tradition suited to long-form editorial text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Chardon"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "text",
+      "classical",
+      "transitional",
+      "magazine",
+      "longform"
+    ],
+    "summary": "A text serif from OTT Foundry offered in Regular and Italic, designed around the demands of sustained reading in editorial and journalistic contexts.",
+    "description": "Chardon is a high-contrast serif cut in Regular and Italic, with specimen copy drawn entirely from long-form editorial writing — art criticism, science journalism, political commentary. The proportions and rhythm suggest a typeface built for magazine and book typography rather than display use. The pairing of roman and italic is the family's full extent, keeping the offering focused and purposeful.",
+    "foundry_blurb": "OTT Foundry present Chardon as a serif typeface available in Regular and Italic, demonstrated through extended editorial and journalistic text specimens across a range of typographic contexts."
+  },
+  {
+    "name": "Dank",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/dank",
+    "designer": "Axel Pelletanche",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A wide, angular sans-serif drawn in direct homage to Bank Gothic, with optional slab-serif alternates; its broad silhouette and geometric rigidity place it firmly in the grotesque tradition with display-oriented characteristics.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dank"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "bank-gothic",
+      "wide",
+      "angular",
+      "display",
+      "architectural",
+      "alternates",
+      "geometric"
+    ],
+    "summary": "A wide, angular sans-serif drawn from the Bank Gothic tradition, designed to reframe that style's rigid industrial associations towards new contexts.",
+    "description": "Drawing directly from Morris Fuller Benton's Bank Gothic (1930), Dank inherits its broad silhouette and geometric angularity while introducing deliberate irregularities that give the face its own rhythm. An alternate character set allows optional small slab serifs, adding a second register for use. The result is a display sans with familiar visual weight — stadiums, logistics, game covers — but with enough considered craft to escape those clichés.",
+    "foundry_blurb": "OTT describe Dank as a homage to the brutal and rigid typographic shapes that have shaped the visual environment for the past century, citing references including the Emirates Stadium, Maersk, Call of Duty and Grand Theft Auto. Designed by Axel Pelletanche with development and mastering by Solenn Bordeau, the typeface draws from Bank Gothic while offering alternate styles that allow for optional slab serifs, aiming to open the style to new territory beyond its established associations with construction, sport and dystopian fiction."
+  },
+  {
+    "name": "Buzz",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/buzz",
+    "designer": "Quentin Coulombier",
+    "year": null,
+    "category": "display",
+    "subcategory": "wood type display",
+    "classification_notes": "Buzz is a heavy display typeface drawn explicitly from mid-20th-century American wood type, designed for large-scale headline use with intentional optical irregularities that reflect carved letterpress production.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Buzz"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "wood-type",
+      "display",
+      "headline",
+      "heavy",
+      "letterpress",
+      "american",
+      "newspaper",
+      "playful"
+    ],
+    "summary": "A single-weight display type drawn from mid-20th-century American wood typefaces, with deliberate optical imperfections that evoke the materiality of carved letterpress production.",
+    "description": "Designed by Quentin Coulombier and mastered at OTT, Buzz takes its cues from the front-page wood type of American newspapers at their peak, particularly the heavy, impactful vernacular of the mid-1900s. Rather than correcting for optical consistency, the typeface intentionally omits standard optical adjustments, producing subtle weight variations that read as handcrafted rather than digital. Rounded curves soften the otherwise imposing mass, sitting somewhere between authoritative and playful.",
+    "foundry_blurb": "OTT describe Buzz as a typeface designed primarily for large-scale, bold headline use, with forms inspired by archetypal American wood typefaces found on mid-20th-century newspaper front pages. The concept was to capture the imperfect materiality of wood-carved letters, so the typeface deliberately skips standard optical corrections to create subtle weight variation. Despite its heavy mass, soft rounded curves give it a friendly, playful tone alongside its strong visual presence."
+  },
+  {
+    "name": "Gelbique",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/gelbique",
+    "designer": "Eliott Grunewald",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A condensed, modular sans-serif derived from lettering on a 1949 René Magritte poster, built from mechanically rounded curves contrasted with right angles. Its highly constructed, display-oriented structure places it firmly in the geometric display category.",
+    "weights": [
+      "Ostende",
+      "Knokke"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gelbique Ostende",
+      "Gelbique Knokke"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "condensed",
+      "modular",
+      "display",
+      "magritte",
+      "belgian",
+      "poster",
+      "retro"
+    ],
+    "summary": "A condensed geometric display face drawn from lettering on a 1949 René Magritte exhibition poster, reconstructed into a complete alphabet by Eliott Grunewald.",
+    "description": "The letterforms originate from a lithographic poster Magritte designed for the Second Film and Fine Arts World Festival of Belgium held at Knokke-le-Zoute, now held in the Magritte Museum in Brussels. Each glyph is built from a minimal set of components, pairing mechanically rounded curves with hard right angles to create strong counter forms and a distinctive silhouette. The family is split into two subfamilies named after Belgian coastal towns, Ostende being the base weight and Knokke a variant offering a different weight register.",
+    "foundry_blurb": "OTT describe Gelbique as rooted in a unique work of art: a 1949 poster by René Magritte advertising a Belgian film and fine arts festival. The condensed sans-serif lettering from that poster instantly captured designer Eliott Grunewald's attention, and from its few original characters a full alphabet was constructed, exploiting the font's minimalist modular structure. Several variants were developed, each named after a town on the Belgian coast, with the design functioning as a tribute to Magritte's art while serving as a tool for modern typographic expression."
+  },
+  {
+    "name": "Harry",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/harry",
+    "designer": "Eliott Grunewald",
+    "year": null,
+    "category": "display",
+    "subcategory": "retro display",
+    "classification_notes": "Harry is an uppercase-only display typeface derived from a 1970s VGC design, featuring high contrast and irregular letterforms characteristic of the bold, playful display styles of that era, closely related to Frankfurter.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Harry"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "retro",
+      "1970s",
+      "uppercase",
+      "high-contrast",
+      "decorative",
+      "letraset-era",
+      "revival"
+    ],
+    "summary": "An interpretation of William Bill Seifert's 1970s VGC typeface 'Too Much', a lesser-known contemporary of Frankfurter with more contrast and eccentric letterforms.",
+    "description": "Designed by Eliott Grunewald, Harry draws from 'Too Much', a capitals-only display typeface created by William Bill Seifert for VGC in the 1970s. Where Frankfurter leans mono-linear, the source material offered higher contrast and some unexpected letter constructions; this revival retains that character while refining weights, curves and proportions. Coverage extends across Latin Extended, supporting a wide range of European languages.",
+    "foundry_blurb": "OTT Foundry describe Harry as an interpretation of 'Too Much', a 1970s display typeface by William Bill Seifert for the Visual Graphics Corporation, which emerged as a more contrasted and less mono-linear alternative to Frankfurter. The revival remains close to the original but adjusts weights, curves and proportions, and was designed by Eliott Grunewald with development and mastering by Solenn Bordeau."
+  },
+  {
+    "name": "Harker",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/harker",
+    "designer": "Thomas Bizzarri and Alain Rodriguez",
+    "year": null,
+    "category": "display",
+    "subcategory": "didone display",
+    "classification_notes": "Harker is a condensed, high-contrast typeface with thin flat serifs in the Didot tradition, drawing on 19th-century all-capitals display types via the 1937 Deberny & Peignot revival Olympic. Its display-oriented construction and dual capital heights place it firmly in the decorative didone category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Harker"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "display",
+      "condensed",
+      "high-contrast",
+      "historical-revival",
+      "all-caps",
+      "editorial",
+      "gothic-novel"
+    ],
+    "summary": "A condensed, high-contrast didone display type drawn from 19th-century all-capitals foundry specimens, routed through the 1937 Deberny & Peignot typeface Olympic, with two capital heights for varied composition.",
+    "description": "Designed by Thomas Bizzarri and Alain Rodriguez, Harker traces a lineage from anonymous 19th-century display types through Olympic, the Deberny & Peignot revival of 1937, reinterpreting their formal qualities for contemporary use. The typeface pairs the calligraphic origins of letter construction with geometric rationalisation, and its two capital heights recall the compositional methods seen on serialised literature covers and early advertising of the era. Named after the narrator of Bram Stoker's Dracula, it speaks directly to a tradition of bold, typographic title-setting that resurfaces across decades, from Club du Livre to 1990s film and music packaging.",
+    "foundry_blurb": "OTT Foundry describe Harker as a condensed, high-contrast typeface with thin flat serifs in the style of a Didot, whose design balances calligraphic origins with geometric rationalisation. Its primary inspiration is Olympic, released in 1937 by Deberny & Peignot, itself a revival of anonymous 19th-century display types widely used in press, advertising, fashion and publishing. The typeface features two capital heights offering additional compositional options, and takes its name from the narrator and heroine of Dracula by Bram Stoker."
+  },
+  {
+    "name": "Horizon",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/horizon",
+    "designer": "Quentin Coulombier",
+    "year": null,
+    "category": "slab",
+    "subcategory": "French Clarendon",
+    "classification_notes": "A condensed display slab with reverse-contrast serifs, classifiable as Antique, Egyptian, French Clarendon or Italian Clarendon — all period terms for the same wooden type tradition rooted in 19th-century broadside printing.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Horizon"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "condensed",
+      "slab",
+      "western",
+      "wooden-type",
+      "broadside",
+      "reverse-contrast",
+      "clarendon"
+    ],
+    "summary": "A condensed display slab drawing on wooden letterpress and French Clarendon traditions associated with Old West broadside printing and circus advertising.",
+    "description": "Designed by Quentin Coulombier, Horizon synthesises archetypal sources from 19th and early 20th-century wooden type, including French Clarendon and Italian Clarendon forms with their characteristic reverse-contrast serifs. The family is pitched at large-format applications: poster work, signage, sports jerseys and editorial display. A broad Latin Extended character set supports over a hundred languages across Latin script.",
+    "foundry_blurb": "OTT Foundry describe Horizon as a strong, condensed display slab with a wooden type feeling, associated with American Old West folklore and classifiable as Antique, Egyptian, French Clarendon or Italian Clarendon. They frame it as a stylistic synthesis of archetypal sources used historically in broadside posters, circus advertising, Western movie titles, signage, basketball jerseys and university logos, blending a contemporary aesthetic with a modern, functional Latin-script approach."
+  },
+  {
+    "name": "James",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/james",
+    "designer": "Eliott Grunewald",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "unicase display",
+    "classification_notes": "James is a unicase capitals-only display typeface with variable proportions, geometric curves and stencil variant, derived from a 1970 album cover alphabet and not suited to body text use.",
+    "weights": [
+      "Regular",
+      "Stencil"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "James"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "unicase",
+      "stencil",
+      "display",
+      "geometric",
+      "afro-american",
+      "revival",
+      "identity",
+      "modular"
+    ],
+    "summary": "A unicase capitals-only display typeface reviving an alphabet from a 1970 Afro-American music album cover, available in Regular and Stencil versions.",
+    "description": "Designed by Eliott Grunewald and released in 2022, James reinterprets lettering found on the cover of Dr. Willis James's 'Afro-American Music - A Demonstration Recording'. The design is marked by shifting proportions that alternate between narrow and very wide characters, creating strong rhythmic silhouettes across a block of text. Geometric curves on letters like S, C and O sit alongside distinctive connections in M, N and A, giving the face a convincingly contemporary feel despite its 1970 source material. The Stencil variant explores modular letter-forming in unexpected ways.",
+    "foundry_blurb": "OTT Foundry describe James as a contemporary reinterpretation of an alphabet seen on a 1970 Afro-American music album cover. The design retains the source's variable proportions and surprising geometric curves, with the overall weight revised to be lighter, reinforcing the sense of silhouette. The Stencil version explores modular letterforms in an original way. Development and mastering was handled by OTT, with design by Eliott Grunewald."
+  },
+  {
+    "name": "Herbus",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/herbus",
+    "designer": "Eliott Grunewald",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A geometric display family drawing formally from Avant Garde Gothic, Serif Gothic and Busorama, favouring expressive geometry and tight spacing characteristic of mid-century American advertising typography. The serif variants extend its range without shifting its fundamental display character.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Herbus",
+      "Herbus Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "avant-garde",
+      "mid-century",
+      "advertising",
+      "editorial",
+      "branding",
+      "lubalin"
+    ],
+    "summary": "A six-style geometric family rooted in the formal language of Herb Lubalin and the tight, image-like typography of 1960s–80s American graphic design.",
+    "description": "Drawing from Avant Garde Gothic, Serif Gothic and Busorama, Herbus synthesises the expressive geometry and compact spacing that defined a particular strain of mid-century American advertising and editorial work. Each of the three weights — Regular, Medium and Bold — comes with a serif counterpart, and the family includes ligatures and alternates intended to facilitate dense, graphically charged compositions. First released in 2019 and expanded to six styles in 2025, it is a considered homage rather than a straight revival.",
+    "foundry_blurb": "OTT Foundry describe Herbus as a type family available in six styles — Regular, Medium and Bold with corresponding serif variants — whose name pays explicit tribute to Herb Lubalin. They position it as a synthesis of Avant Garde Gothic, Serif Gothic and Busorama, designed to favour tight spacing and compact leading so that words become powerful visual forms rather than mere carriers of language. The expanded six-style version was published in 2025, designed by Eliott Grunewald with development and mastering by Solenn Bordeau."
+  },
+  {
+    "name": "Leto",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/leto",
+    "designer": "Eliott Grunewald",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Leto is built on a modular, geometric structure with a very high x-height and low overall proportions, derived from motorsport logos and industrial lettering traditions — hallmarks of geometric sans design.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Leto"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modular",
+      "industrial",
+      "motorsport",
+      "high-x-height",
+      "technical",
+      "compact",
+      "futuristic"
+    ],
+    "summary": "A modular geometric sans drawn from motorsport logos and industrial lettering, built around a very high x-height and compact proportions.",
+    "description": "Designed by Eliott Grunewald with development and mastering by OTT, Leto takes its formal cues from the lettering found on racing vehicles, printing machinery and science fiction production design. Its very low overall structure produces an exceptionally high x-height, giving text a streamlined, compressed quality suited to technical or fast-paced contexts. The broad Latin Extended character set supports well over a hundred languages across Europe and Africa.",
+    "foundry_blurb": "OTT describe Leto as originating in motorsport logos and lettering, built on a modular, geometric and pragmatic structure with a very low profile and high x-height. They note its presence in industrial contexts such as printing machinery and science fiction film design, and position the typeface for content intended to read as technical, ergonomic, fast or futuristic."
+  },
+  {
+    "name": "Memoria",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/memoria",
+    "designer": "Arnaud Chemin",
+    "year": null,
+    "category": "display",
+    "subcategory": "blackletter-influenced display",
+    "classification_notes": "Memoria is rooted in rustic broad-nib lettering and tombstone epigraphy with strong blackletter influence, but its condensed modular forms, stylistic alternates and all-caps stone-cut origins place it firmly in the display category rather than traditional blackletter.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Memoria"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "blackletter-influenced",
+      "inscription",
+      "tombstone",
+      "editorial",
+      "expressive",
+      "modular",
+      "all-caps"
+    ],
+    "summary": "A contemporary reimagining of primitive broad-nib stone-cut lettering, drawn from Swiss Germanic inscription traditions and tombstone epigraphy.",
+    "description": "Designed by Arnaud Chemin, Memoria takes its uppercase model from a type specimen in Schrift + Symbol in Stein, Holz und Metall (1977), an archetypal form passed down through stone-carving craft. A newly added lowercase set expands its range, with condensed forms counterbalanced by circular 'O/o' constructions and up to 20 stylistic sets of playful alternates. The result sits between geometric order and the raw tension of the hand, well suited to dramatic titles, posters, album covers and expressive identity work.",
+    "foundry_blurb": "OTT Foundry describe Memoria as a contemporary reinterpretation of rustic, primitive broad-nib lettering that echoes the naive style of early Swiss Germanic inscriptions. Its high density, repetitive rhythm and straightforward ductus evoke a spirit that is both structured and raw, steeped in blackletter influence yet modular rather than mechanical. The uppercase derives from a 1977 stone-carving specimen by Sepp Jakob and Donatus M. Leicher, while a full lowercase and 20 stylistic sets extend its expressive possibilities."
+  },
+  {
+    "name": "Marlfield",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/marlfield",
+    "designer": "Eliott Grunewald",
+    "year": null,
+    "category": "display",
+    "subcategory": "condensed display serif",
+    "classification_notes": "Marlfield is a condensed display serif with high contrast and a tall x-height, drawing on early 20th-century press typefaces such as Plantin and Times New Roman. Its condensed construction and editorial origins place it firmly in the display category, with a companion sans family that echoes French lettering of the 1930s to 1950s.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Marlfield",
+      "Marlfield Sans"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "condensed",
+      "editorial",
+      "high-contrast",
+      "serif",
+      "french",
+      "magazine",
+      "headlines"
+    ],
+    "summary": "A condensed display serif designed for magazine covers and headlines, with a companion sans family that quietly echoes mid-century French lettering.",
+    "description": "Marlfield was conceived almost as a single emblematic sign before expanding into a four-style family: Regular and Bold serifs, plus Sans Regular and Sans Bold. Its structure borrows from early 20th-century press typefaces, then reinterprets them through tight spacing, a high x-height, and shortened ascenders and descenders to create a dense, space-claiming presence. The sans counterparts were entirely redrawn rather than simply stripped of serifs, drawing on the spirit of Cassandre and Excoffon without direct imitation.",
+    "foundry_blurb": "OTT describe Marlfield as a display typeface with condensed proportions and assertive shapes, originally designed for editorial use, particularly magazine covers and headlines. The family grew from a single Bold weight into four styles, with the sans versions redrawn to maintain internal harmony while carrying a cleaner, more energetic character. Its structure draws on early 20th-century press typefaces, reinterpreted through condensed construction, high contrast, and careful kerning, and is suited to editorial, cultural, and identity-driven projects where a strong typographic presence is needed."
+  },
+  {
+    "name": "New Burns",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/newburns",
+    "designer": "Eliott Grunewald",
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "New Burns is described as an organic serif with generous x-height and low contrast, characteristics consistent with a humanist approach to serif design rather than a high-contrast transitional or rational model.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "New Burns"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "humanist",
+      "low-contrast",
+      "editorial",
+      "x-height",
+      "itc-inspired",
+      "body-text",
+      "organic"
+    ],
+    "summary": "A low-contrast serif with a generous x-height, designed as a tribute to Aaron Burns and grounded in research into ITC's typographic legacy.",
+    "description": "Designed by Eliott Grunewald and developed by OTT Foundry, New Burns draws on a research project into the International Typeface Corporation, the New York foundry co-founded by Aaron Burns, Herb Lubalin and Edward Rondthaler in 1970. The typeface takes an organic approach to the serif form, with a wide x-height and restrained stroke contrast that performs best at close tracking and tight leading. Its extended Latin character set supports a broad range of European languages.",
+    "foundry_blurb": "OTT Foundry describe New Burns as the product of a research project into ITC's heritage, examining both the foundry's economic model and its formal influence on typographic designers worldwide. The typeface is a tribute to Aaron Burns, one of ITC's co-founders, and is characterised as an organic, robust serif with a generous x-height and low contrast, best used with tight spacing and leading."
+  },
+  {
+    "name": "Neuf",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/neuf",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A revival of a late-1920s French grotesque from the Fonderie Typographique Française catalogue, classified in the French Antiques tradition with distinctive national character in its letterforms and numerals.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Rounded"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Neuf"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "revival",
+      "french",
+      "antique",
+      "vintage",
+      "editorial",
+      "display",
+      "1920s"
+    ],
+    "summary": "A revival of 'Gravure Taille Douce', a late-1920s French grotesque from the Fonderie Typographique Française catalogue, with strong personality drawn from its original idiosyncrasies.",
+    "description": "Based on a bold sans-serif from the FTF's 'Fantaisies Modernes avec bas de casse' category, this typeface closely follows the weight, proportions and curve dynamics of the original metal type while making selective stylistic revisions. The result sits within the French Antiques tradition yet carries a distinct national interpretation of the grotesque genre, particularly evident in the numerals, symbols and punctuation. Five weights from Light to Rounded give the family enough range for both text and display use.",
+    "foundry_blurb": "OTT Foundry describe Neuf as a revival of 'Gravure Taille Douce', a bold French sans-serif grotesque that appeared in the 1928 general catalogue of the Fonderie Typographique Française, a consortium of foundries including Chaix, Marcou, Saling, Durey and Huart. The designer of the original is unknown, likely an in-house punchcutter. The revival aims to match the original's weight, proportions and curve dynamics closely, with minor stylistic adjustments, and the family includes a Rounded variant alongside Light, Regular, Semibold and Bold weights."
+  },
+  {
+    "name": "Moore",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/moore",
+    "designer": "Eliott Grunewald",
+    "year": null,
+    "category": "display",
+    "subcategory": "rounded display",
+    "classification_notes": "A condensed, rounded display typeface with modular construction and intentional weight variation between letters, derived from a 1968 Tate Gallery exhibition poster. Its expressive, singular-weight design places it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Moore"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "rounded",
+      "condensed",
+      "modular",
+      "vintage",
+      "poster",
+      "revival",
+      "expressive"
+    ],
+    "summary": "A rounded, condensed display typeface revived from a little-known 1968 Tate Gallery poster for an exhibition of sculptor Henry Moore, with deliberate weight inconsistencies retained as a design feature.",
+    "description": "Designed by Eliott Grunewald with the help of Olivier Lebrun, Moore reconstructs a full alphabet from the handful of letters found on an anonymous 1968 Tate Gallery poster. The original typeface's variation in stroke weight between letters, which might read as error in another context, is preserved and at times amplified, giving the face a playful, handcrafted quality rare in a display type of this condensed proportion. It has seen use in cultural and arts contexts including festival posters and theatre productions, which suit its bold, tightly spaced character well.",
+    "foundry_blurb": "OTT describe Moore as a rounded display typeface originating from a collaboration with Olivier Lebrun, who discovered a 1968 Tate Gallery poster for a Henry Moore exhibition. The designer of the original poster remains unknown. Eliott Grunewald used the letters from that poster as modular building blocks to construct a complete alphabet, inventing new shapes where needed and intentionally preserving the original's weight variation from letter to letter, which he found pleasingly distinctive rather than inconsistent."
+  },
+  {
+    "name": "New Eddy",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/neweddy",
+    "designer": "Eliott Grunewald",
+    "year": null,
+    "category": "display",
+    "subcategory": "high-contrast condensed serif",
+    "classification_notes": "A titling serif with pronounced vertical contrast, exaggerated serifs and condensed proportions, designed for large-scale display use. Art deco influences appear in specific letterforms such as B, R, P and E.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "New Eddy"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "condensed",
+      "serif",
+      "titling",
+      "art-deco",
+      "retro",
+      "expressive"
+    ],
+    "summary": "A condensed titling serif conceived for large-scale projection during a dance performance, built around extreme stroke contrast and exaggerated serifs.",
+    "description": "Designed by Eliott Grunewald, New Eddy was originally commissioned to appear on a giant screen during a live performance, which drove its priority of legibility at scale alongside maximum contrast. Long tapering strokes and high-waisted capitals push toward caricature without breaking readability, and the mix of wide round letters with narrower upright ones creates a distinctive typographic rhythm. Certain capitals, notably B, R, P and E, carry an art deco construction that gives the face a period quality at odds with its contemporary application.",
+    "foundry_blurb": "OTT describe New Eddy as a font created to push the limits of contrast while remaining technically legible at large scale, built for use on a giant screen during a dance performance. They note its condensed proportions, pronounced contrast and exaggerated serifs, alongside a visual rhythm produced by the interplay of large round shapes with narrower letters, and highlight art deco references in specific capitals."
+  },
+  {
+    "name": "Polka",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/polka",
+    "designer": "Eliott Grunewald",
+    "year": null,
+    "category": "display",
+    "subcategory": "display grotesque",
+    "classification_notes": "A high-contrast, bold display grotesque with round, bubbly letterforms derived from a 1972 Estonian type specimen; the single heavy weight and decorative character place it firmly in the display category rather than a workhorse grotesque.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Polka"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "grotesque",
+      "revival",
+      "bold",
+      "decorative",
+      "high-contrast",
+      "playful",
+      "single-weight"
+    ],
+    "summary": "A single-weight display grotesque reviving a 1972 type specimen by Estonian typographer Villu Toots, pushed even bolder than its source material.",
+    "description": "Designed by Eliott Grunewald, Polka traces its lineage through Villu Toots's 1972 'Kirjakunsti abc' back to Eugene Nerdinger's grotesque, resulting in a high-contrast, round letterform with deliberate irregularities in weight distribution. The x-height is intentionally large and the spacing tight, making compact, bold text blocks the intended use. Available in a single weight as OTF, TTF, WOFF and WOFF2, it covers Latin Extended with support for a wide range of European languages.",
+    "foundry_blurb": "OTT Foundry describe Polka as a re-interpretation of a character designed by Estonian typographer Villu Toots in 1972, found in his book 'Kirjakunsti abc'. Toots's original was itself close to Eugene Nerdinger's grotesque typeface and likely a revival of the German designer's work. Polka goes bolder than Toots's boldest version, preserving irregularities in weight and proportion, with a large x-height intended for compact, tightly-set display typography."
+  },
+  {
+    "name": "Phlegm",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/phlegm",
+    "designer": "Eliott Grunewald",
+    "year": null,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Phlegm draws on American 1970s typography with accentuated serifs and minimal stroke contrast, evoking the ITC Benguiat style; its expressive, gritty letterforms place it firmly in display serif territory rather than text use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Phlegm"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "1970s",
+      "benguiat-inspired",
+      "lubalin-tribute",
+      "edgy",
+      "poster",
+      "urban",
+      "serif"
+    ],
+    "summary": "A display serif rooted in American 1970s typography, designed as a tribute to Herb Lubalin and inflected with the expressive character of Ed Benguiat's ITC work.",
+    "description": "Designed by Eliott Grunewald, Phlegm takes its name from Herb Lubalin's reported favourite word, published in the 1978 issue of U&lc. The design began as a synthesis of several American typefaces from that decade before being reworked to strip away most stroke contrast, push the serifs outward and lean into a Benguiat-like fibre. The result suits posters, album covers and urban-oriented work where raw, unconventional letterforms are the point.",
+    "foundry_blurb": "OTT Foundry describe Phlegm as a small homage to Herb Lubalin, inspired by his 1978 U&lc article on his favourite words. Formally, the typeface draws on American typography of the 1970s, synthesising several typefaces from that era before being refined to reduce stroke contrast, exaggerate the serifs and take on a character resembling Ed Benguiat's ITC Benguiat, which itself featured in the very article that inspired the design."
+  },
+  {
+    "name": "Wien",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/wien",
+    "designer": "Eliott Grunewald",
+    "year": null,
+    "category": "display",
+    "subcategory": "art nouveau display",
+    "classification_notes": "Wien draws on the calligraphic, organic typographic forms of the Vienna Secession and Jugendstil movements, with strong Gothic influence and fluid strokes that place it firmly in the decorative display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Wien"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "art-nouveau",
+      "jugendstil",
+      "vienna-secession",
+      "calligraphic",
+      "historical",
+      "decorative",
+      "display",
+      "organic"
+    ],
+    "summary": "A display typeface rooted in the organic, calligraphic letterforms of the Vienna Secession and Jugendstil movements of the early 20th century.",
+    "description": "Drawing on the typographic experiments published in magazines such as Ver Sacrum and Die Fläche, Wien revives the fluid, Gothic-inflected character of secessionist type design from Vienna circa 1898 to 1910. The letterforms reflect the movement's characteristic relationship between text and image, with curves and organic strokes that were considered barely legible by contemporary audiences. Designed by Eliott Grunewald with development and mastering by OTT Foundry, it suits editorial and cultural projects where a historically grounded decorative voice is required.",
+    "foundry_blurb": "OTT Foundry describe Wien as a typeface influenced by the Vienna Secession and the typographic forms that emerged from it in the early 20th century. They note the style is characterised by organic forms, an abundance of curves, a strong relationship between text and image, and a Gothic influence, citing key secessionist magazines and artists including Roller, Moser and Behrens as reference points."
+  },
+  {
+    "name": "Rigaldon",
+    "foundry": "OTT Foundry",
+    "url": "https://ott-foundry.com/typefaces/rigaldon",
+    "designer": "Eliott Grunewald",
+    "year": null,
+    "category": "display",
+    "subcategory": "art nouveau display",
+    "classification_notes": "Rigaldon is a capitals-only display typeface reviving Giraldon, an early 20th-century French Art Nouveau typeface. Its highly ornamental, organic letterforms place it firmly in the display category with an art nouveau subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rigaldon"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "art-nouveau",
+      "display",
+      "capitals-only",
+      "ornamental",
+      "french",
+      "revival",
+      "organic",
+      "book"
+    ],
+    "summary": "A contemporary revival of Giraldon, the early 20th-century French Art Nouveau typeface originally distributed by Deberny & Cie, redrawn for digital use as a capitals-only display face.",
+    "description": "Based on the original drawings of Adolphe Giraldon, a French illustrator and decorator associated with the Art Nouveau period, this revival was initially commissioned for use as lettering in the reprinting of classic French novels. The typeface is available only in capitals, drawn close to the original, with additional ligatures, symbols and glyphs added for contemporary digital use. Its highly ornamental, organic forms make it well suited to period-styled editorial work, book covers and decorative display contexts.",
+    "foundry_blurb": "OTT Foundry describe Rigaldon as a contemporary version of Giraldon, a well-known French typeface from the early 20th century distributed by the Deberny & Cie foundry. The typeface is named after its creator Adolphe Giraldon, a French illustrator and decorator active during the Art Nouveau period, whose work appeared on book covers and as illustrations in publications such as Alfred de Musset's Les Nuits. Designed by Eliott Grunewald and developed and mastered by OTT, Rigaldon was originally redesigned for a commissioned project involving the reprinting of classic French novels, and is available in capitals only with several ligatures, symbols and glyphs added for digital use."
+  }
+]
