@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Commit Mono",
+    "foundry": "Free Faces",
+    "url": "https://www.freefaces.gallery/typefaces/commit-mono",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced",
+    "classification_notes": "Commit Mono is explicitly a monospaced typeface designed for coding environments, with a neutral, utilitarian character typical of programmer-oriented fonts.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Commit Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "coding",
+      "terminal",
+      "programmer",
+      "neutral",
+      "utilitarian"
+    ],
+    "summary": "A monospaced typeface in a single Regular weight, built for coding and terminal use.",
+    "description": "A clean, utilitarian monospaced font aimed at developers and programmers. With only a Regular weight available, it keeps its scope narrow and focused. Suited to code editors and terminal environments where legibility at small sizes matters most.",
+    "foundry_blurb": "Commit Mono is listed on Free Faces as a Regular-weight monospaced typeface."
+  },
+  {
+    "name": "Instrument Serif",
+    "foundry": "Free Faces",
+    "url": "https://www.freefaces.gallery/typefaces/instrument",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Named as a serif and presented with a single Regular weight; the sparse page content suggests a classical text serif, consistent with transitional serif conventions.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Instrument Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "serif",
+      "text",
+      "single-weight",
+      "free",
+      "minimal"
+    ],
+    "summary": "A single-weight serif available free, offering a clean and unfussy option for text-setting.",
+    "description": "Instrument Serif is offered at no cost with a single Regular weight, making it a straightforward choice for text-oriented work. The name and category suggest a classical serif intended for reading rather than display. Its simplicity suits body copy in digital and print contexts where an unadorned serif is preferable.",
+    "foundry_blurb": "Free Faces lists Instrument Serif as a free serif typeface available in a Regular weight."
+  },
+  {
+    "name": "Unique",
+    "foundry": "Free Faces",
+    "url": "https://www.freefaces.gallery/typefaces/unique",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "With only a Bold weight and the name 'Unique', this appears to be a display-oriented sans-serif typeface, likely with distinctive or experimental letterforms suited to headlines rather than body text.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Unique"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "free",
+    "tags": [
+      "display",
+      "bold",
+      "free",
+      "single-weight",
+      "headline",
+      "sans-serif"
+    ],
+    "summary": "A single-weight bold display sans available as a free typeface with minimal documentation.",
+    "description": "Only a Bold weight is offered, suggesting a typeface built for headlines and short-form display use rather than extended text setting. The sparse page content makes it difficult to assess its character coverage or intended applications beyond basic Latin. Available freely through the Free Faces gallery.",
+    "foundry_blurb": "Free Faces presents Unique as a bold display typeface available to download at no cost."
+  },
+  {
+    "name": "Façade",
+    "foundry": "Free Faces",
+    "url": "https://www.freefaces.gallery/typefaces/facade",
+    "designer": "Sud",
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Minimal page content prevents detailed classification, but the name and foundry context suggest a display-oriented sans or decorative typeface rather than a text face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Façade"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "free",
+      "decorative",
+      "experimental"
+    ],
+    "summary": "A free display typeface by Sud, available through the Free Faces gallery.",
+    "description": "Façade is a free typeface by the designer Sud, distributed via the Free Faces gallery. Limited page content prevents detailed assessment of its full character set or stylistic range. Available for free use, it sits within the Free Faces collection of openly licensed type.",
+    "foundry_blurb": "Façade is a typeface by Sud, listed in the Free Faces gallery."
+  },
+  {
+    "name": "Space Grotesk",
+    "foundry": "Free Faces",
+    "url": "https://www.freefaces.gallery/typefaces/space-grotesk",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Space Grotesk is a proportional grotesque sans-serif, drawing on the fixed-width Space Mono as its typographic base while adapting forms for general text and display use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Space Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "display",
+      "editorial",
+      "open-source",
+      "variable"
+    ],
+    "summary": "A proportional grotesque derived from Space Mono, released as a free and open-source typeface for display and text settings.",
+    "description": "Space Grotesk takes its structural cues from Space Mono, translating fixed-width eccentricities into a proportional grotesque suited to both text and display work. The typeface carries a lightly geometric character with details that retain some of the idiosyncratic flavour of its monospaced origin. Available free through Free Faces, it suits editorial and interface work where a slightly unusual grotesque is preferred over a neutral one.",
+    "foundry_blurb": "Space Grotesk is listed on Free Faces as a free grotesque typeface, presented in Regular weight and available for download."
+  },
+  {
+    "name": "Oi",
+    "foundry": "Free Faces",
+    "url": "https://www.freefaces.gallery/typefaces/oi",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "decorative serif",
+    "classification_notes": "Oi is a single-weight display typeface with highly ornate, decorative serif forms, placing it firmly in the display/decorative category rather than a conventional serif classification.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Oi"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "decorative",
+      "ornate",
+      "serif",
+      "single-weight",
+      "expressive"
+    ],
+    "summary": "A single-weight ornamental display typeface with highly decorative serif letterforms suited to headlines and editorial accent work.",
+    "description": "Available in one weight, Oi offers a heavily embellished approach to display typography, with letterforms that lean into decorative serif tradition. Its ornate character makes it suited to titles, posters and short-form settings where visual impact is the priority. The limited style range keeps it a focused tool rather than a workhorse family.",
+    "foundry_blurb": "Oi is a decorative display typeface available in a single Regular weight, offered freely through the Free Faces gallery."
+  },
+  {
+    "name": "Barriecito",
+    "foundry": "Free Faces",
+    "url": "https://www.freefaces.gallery/typefaces/barriecito",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "decorative",
+    "classification_notes": "Barriecito is a single-weight display face with an informal, hand-drawn character, placing it firmly in the decorative display category rather than any structured text classification.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Barriecito"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "decorative",
+      "hand-drawn",
+      "informal",
+      "single-weight",
+      "free"
+    ],
+    "summary": "A single-weight decorative display face with a loose, hand-drawn quality suited to informal and expressive typesetting.",
+    "description": "Available in one weight, Barriecito has the irregular rhythm and informal character typical of hand-drawn lettering translated into a digital font. Its limited weight range makes it a specialist tool rather than a workhorse, best deployed at larger sizes where its personality is most legible. Distributed free through Free Faces gallery.",
+    "foundry_blurb": "Barriecito is offered as a free typeface through the Free Faces gallery, available in a single Regular weight."
+  },
+  {
+    "name": "Lastik",
+    "foundry": "Free Faces",
+    "url": "https://www.freefaces.gallery/typefaces/lastik",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The page provides minimal information, but the name and single-weight presentation suggest a straightforward sans-serif grotesque style typical of free foundry releases.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lastik"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "free",
+    "tags": [
+      "grotesque",
+      "free",
+      "single-weight",
+      "minimal"
+    ],
+    "summary": "A single-weight free grotesque with very limited available information on its design origins or intended use.",
+    "description": "Available in a single Regular weight, Lastik is a free grotesque with minimal documentation on the Free Faces gallery. With no named designer, no stated year of release and no extended family, it offers little context for considered typographic application. Suitable only for projects where licensing cost is the primary concern.",
+    "foundry_blurb": "Free Faces lists Lastik as a free typeface available in a single Regular weight."
+  },
+  {
+    "name": "GTL001",
+    "foundry": "Free Faces",
+    "url": "https://www.freefaces.gallery/typefaces/gtl001",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "The sparse page content and name 'GTL001' suggest an experimental or display typeface; classified as display given the alphanumeric designation typical of concept-driven or experimental releases.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "GTL001"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "conceptual",
+      "free",
+      "geometric"
+    ],
+    "summary": "A minimal, likely experimental display typeface with little published information beyond its alphanumeric designation.",
+    "description": "GTL001 appears to be an early or experimental release listed on the Free Faces gallery, given only an alphanumeric identifier and the label 'Alpha'. Virtually no design detail or metadata accompanies the listing, suggesting it is either a work-in-progress or a concept release. Its tier and usability are difficult to assess without further specification.",
+    "foundry_blurb": "Free Faces lists GTL001 under the Alpha designation, offering no further description or detail about the typeface's design or intended use."
+  },
+  {
+    "name": "Memoir",
+    "foundry": "Free Faces",
+    "url": "https://www.freefaces.gallery/typefaces/memoir",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The single Regular weight and the name 'Memoir' suggest a classical serif design; without further detail, the clean, book-oriented character points toward a transitional serif classification.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Memoir"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "free",
+    "tags": [
+      "serif",
+      "free",
+      "single-weight",
+      "book",
+      "minimal"
+    ],
+    "summary": "A single-weight serif available as a free download from the Free Faces gallery.",
+    "description": "Memoir is a free serif typeface offered in a single Regular weight. The minimal page information suggests a straightforward, unadorned design suited to body text or editorial use. No italic or condensed variants are available.",
+    "foundry_blurb": "Free Faces presents Memoir as a free typeface available in Regular weight."
+  },
+  {
+    "name": "Getai Grotesk",
+    "foundry": "Free Faces",
+    "url": "https://www.freefaces.gallery/typefaces/getai",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display grotesque",
+    "classification_notes": "Listed explicitly as Display on the page, combining grotesque sans characteristics with display-oriented proportions intended for large-scale use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Getai Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "free",
+    "tags": [
+      "display",
+      "grotesque",
+      "free",
+      "sans-serif",
+      "headline",
+      "open-source"
+    ],
+    "summary": "A free display grotesque with minimal documentation, offering a single weight for headline use.",
+    "description": "A display-oriented grotesque available as a free typeface through the Free Faces gallery. The page provides minimal detail, listing a single weight with no italic or condensed variants. Suited to large-scale headline settings where a straightforward grotesque character is needed.",
+    "foundry_blurb": "Free Faces lists Getai Grotesk under the Display category, presenting it as a free typeface available through their gallery."
+  },
+  {
+    "name": "Hyperlegible Sans",
+    "foundry": "Free Faces",
+    "url": "https://www.freefaces.gallery/typefaces/hyperlegible-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as a humanist sans with accessibility and legibility as its central design goals, prioritising clear letterform differentiation over stylistic expression.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hyperlegible Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "legibility",
+      "accessibility",
+      "clean",
+      "functional"
+    ],
+    "summary": "A humanist sans designed around maximum legibility, with letterforms engineered to reduce confusion between similar characters.",
+    "description": "The typeface centres on letterform differentiation, making glyphs that are commonly mistaken for one another visually distinct. Currently available in a single Bold weight. Suited to signage, wayfinding, interfaces and any context where reading clarity takes priority over typographic personality.",
+    "foundry_blurb": "Free Faces lists Hyperlegible Sans as a typeface focused on legibility, currently available in Bold weight."
+  },
+  {
+    "name": "Martian Mono",
+    "foundry": "Free Faces",
+    "url": "https://www.freefaces.gallery/typefaces/martian-mono",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced",
+    "classification_notes": "Martian Mono is a monospaced typeface, purpose-built for coding and terminal use, with a single upright style.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Martian Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "coding",
+      "terminal",
+      "minimal",
+      "technical",
+      "clean"
+    ],
+    "summary": "A clean monospaced typeface with a single Regular weight, suited to coding environments and terminal interfaces.",
+    "description": "A monospaced design in one weight, Martian Mono keeps things spare and functional. Its single upright style makes it a straightforward choice for code editors and terminal displays where clarity and consistency matter most. The limited weight range suggests a focus on simplicity rather than typographic range.",
+    "foundry_blurb": "Free Faces lists Martian Mono as a Regular-weight monospaced typeface available through the gallery."
+  }
+]

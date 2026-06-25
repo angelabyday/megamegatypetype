@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Editor",
+    "foundry": "Studio Feixen Fonts",
+    "url": "https://fonts.studiofeixen.ch/editor",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The typeface presents as a grotesque sans-serif with a broad range of OpenType alternates including single and double storey 'a', alternate 'g', and contextual features typical of contemporary grotesque designs.",
+    "weights": [
+      "Thin",
+      "Ultralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Editor"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "opentype",
+      "alternates",
+      "contemporary",
+      "variable",
+      "editorial"
+    ],
+    "summary": "A grotesque sans with eight weights and an unusually rich set of OpenType alternates, including multiple 'a' and 'g' forms, spaghetti alternates and headline letters.",
+    "description": "Eight weights from Thin to Black make up the family, supported by a variable axis and an extensive suite of stylistic sets covering single and double storey 'a', alternate 'g', creamy 'f' and 't' forms, square dots, thinner punctuation and headline letter variants. The breadth of OpenType features gives designers fine control over texture and personality across different contexts and sizes. Greek character support extends its reach beyond standard Latin coverage.",
+    "foundry_blurb": "Studio Feixen Fonts present Editor as a grotesque typeface with eight weights and a wide range of OpenType features, including stylistic alternates for letters, punctuation and numerals, accessible through an interactive web editor."
+  },
+  {
+    "name": "Ease",
+    "foundry": "Studio Feixen Fonts",
+    "url": "https://fonts.studiofeixen.ch/store",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Ease is a geometric sans-serif with a systematic range of subfamilies moving from standard cuts through progressively rounded terminals to display and geometric alternates, a structure typical of contemporary geometric sans families.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "SemiDisplay",
+      "Display"
+    ],
+    "subfamilies": [
+      "Ease Standard",
+      "Ease SemiRounded",
+      "Ease Rounded",
+      "Ease DoubleRounded",
+      "Ease FullRounded",
+      "Ease SemiDisplay",
+      "Ease Display",
+      "Ease Geometric A+B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "variable",
+      "systematic",
+      "display",
+      "swiss",
+      "modular"
+    ],
+    "summary": "A highly systematic geometric sans from Studio Feixen that spans eight subfamilies ranging from sharp standard cuts to fully rounded terminals and display variants.",
+    "description": "Ease is organised around a single weight range of five cuts — Regular through Black — replicated across eight distinct subfamilies that vary the degree of corner rounding, from Standard through SemiRounded, Rounded, DoubleRounded and FullRounded, then into SemiDisplay, Display and a Geometric A+B variant. The full family ships with variable fonts for each subfamily, and a single Ease Full Variable covers the entire system. The result is a typeface that can shift tone considerably whilst maintaining a consistent underlying structure.",
+    "foundry_blurb": "Studio Feixen offer Ease as a full family bundle at a 60% discount, comprising all eight subfamilies — Standard, SemiRounded, Rounded, DoubleRounded, FullRounded, SemiDisplay, Display and Geometric A+B — together with variable fonts for each and a unified Ease Full Variable covering the complete system."
+  },
+  {
+    "name": "Noi Grotesk",
+    "foundry": "Studio Feixen Fonts",
+    "url": "https://fonts.studiofeixen.ch/Wiki",
+    "designer": "Felix Pfäffli, Robin Eberwein",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Described explicitly as a neo-grotesk family inspired by Swiss typographic traditions, placing it firmly in the neo-grotesque subcategory with a contemporary and friendly character.",
+    "weights": [
+      "Thin",
+      "Ultralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Noi Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "swiss",
+      "variable",
+      "opentype-features",
+      "alternates",
+      "contemporary",
+      "friendly"
+    ],
+    "summary": "A Swiss-inspired neo-grotesque with an unusually extensive set of OpenType alternates and a variable axis spanning eight weights from Thin to Black.",
+    "description": "Noi Grotesk draws on Swiss typographic tradition but tempers its precision with a more approachable character, offering thirteen stylistic sets that cover single and double storey letterforms, spaghetti alternates and headline-specific letterforms among others. The variable font spans weight 100 to 900 with a continuous italic axis, giving designers fine control over interpolated values between named weights. Broad Latin and Cyrillic coverage across dozens of languages makes it viable for international publishing and branding work.",
+    "foundry_blurb": "Studio Feixen Fonts describe Noi Grotesk as a neo-grotesk family inspired by Swiss typographic traditions but with a more contemporary and friendly touch. They emphasise its versatility through an extensive range of OpenType features and alternates, including contextual alternates, multiple figure sets and thirteen stylistic sets covering everything from alternate letterforms to decorative headline variants."
+  },
+  {
+    "name": "Studio Feixen Fonts",
+    "foundry": "Studio Feixen Fonts",
+    "url": "https://fonts.studiofeixen.ch/dashboard",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "The page content is a login/dashboard page with no typeface-specific information available; classification defaults to display as a placeholder given the foundry context.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Studio Feixen Fonts"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "foundry"
+    ],
+    "summary": "No typeface-specific information could be retrieved from this URL, which resolves to a login-protected dashboard.",
+    "description": "The provided URL leads to a login screen for the Studio Feixen Fonts account dashboard rather than a public-facing typeface page. No typeface name, description, weights, or other metadata were available in the page content. A specific typeface URL would be needed to produce a meaningful entry.",
+    "foundry_blurb": "No foundry copy was available from this page, as it is a login-gated dashboard rather than a typeface product page."
+  },
+  {
+    "name": "Ease",
+    "foundry": "Studio Feixen Fonts",
+    "url": "https://fonts.studiofeixen.ch/ease",
+    "designer": "Felix Pfäffli and Robin Eberwein",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The clean, even letterforms and minimal stroke contrast point to a geometric sans tradition, with a contemporary neutral quality suited to text and display use.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ease"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "neutral",
+      "text",
+      "contemporary",
+      "clean",
+      "swiss"
+    ],
+    "summary": "A five-weight geometric sans by Felix Pfäffli and Robin Eberwein of Studio Feixen, ranging from Regular to Black with a clean, even texture.",
+    "description": "Designed by Felix Pfäffli and Robin Eberwein, Ease runs five weights from Regular to Black with consistent stroke contrast and a quietly geometric character. The spacing and proportions read comfortably at text sizes while holding their own in display settings. It sits alongside Studio Feixen's other releases as a workhorse option without strong stylistic idiosyncrasies.",
+    "foundry_blurb": "Ease is a type family designed by Felix Pfäffli and Robin Eberwein, available in five weights: Regular, Medium, Semibold, Bold and Black."
+  },
+  {
+    "name": "Noi Grotesk",
+    "foundry": "Studio Feixen Fonts",
+    "url": "https://fonts.studiofeixen.ch/noi-grotesk",
+    "designer": "Robin Eberwein and Felix Pfäffli",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A Swiss grotesque with humanist warmth, offering a wide range of alternates and variable font technology. The letterform options and Swiss studio origin place it firmly in the grotesque tradition with a contemporary, characterful approach.",
+    "weights": [
+      "Thin",
+      "Ultralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Noi Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "swiss",
+      "variable",
+      "multilingual",
+      "alternates",
+      "characterful",
+      "editorial"
+    ],
+    "summary": "A Swiss grotesque from Studio Feixen with eight weights, a variable axis, extensive OpenType alternates and coverage across Latin, Cyrillic and Greek scripts.",
+    "description": "Designed by Robin Eberwein and Felix Pfäffli, Noi Grotesk version 2.0 offers eight weights from Thin to Black with italics, delivered as both a Variable Flex edition optimised for web and animation and a Variable Fix edition for print. The family includes eleven stylistic sets covering single and double-storey variants, creamy alternates, square dots, spaghetti letters and more, giving designers considerable room to tune the typeface's character. Script coverage spans over 280 languages across Latin, Cyrillic and Modern Greek, making it a capable choice for international work.",
+    "foundry_blurb": "Studio Feixen describe Noi Grotesk as a fusion of Swiss tradition, friendliness and nerdism, with form following beauty. Version 2.0 comes in two variable font configurations: Variable Flex for print and text, and Variable Fix for web and animation, alongside a rich set of alternates and OpenType features."
+  },
+  {
+    "name": "Noi Grotesk",
+    "foundry": "Studio Feixen Fonts",
+    "url": "https://fonts.studiofeixen.ch/wiki",
+    "designer": "Felix Pfäffli, Robin Eberwein",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Described by the foundry as a neo-grotesk family inspired by Swiss typographic tradition; shares formal characteristics with Helvetica-lineage typefaces but with more contemporary detailing and extensive OpenType alternates.",
+    "weights": [
+      "Thin",
+      "Ultralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Noi Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "swiss",
+      "variable",
+      "alternates",
+      "contemporary",
+      "geometric",
+      "friendly"
+    ],
+    "summary": "A Swiss-tradition neo-grotesque with a warmer disposition than its predecessors, built with an unusually broad set of OpenType alternates and variable axis support.",
+    "description": "Rooted in the Swiss grotesque tradition but softened with more contemporary proportions, Noi Grotesk runs from Thin to Black across a continuous variable weight axis with an additional italic axis. Thirteen stylistic sets offer genuine typographic flexibility, covering single-storey and double-storey letterform variants, spaghetti alternates and headline-specific glyph cuts. Cyrillic and extended Latin coverage makes it a practical choice for multilingual work.",
+    "foundry_blurb": "Studio Feixen Fonts describe Noi Grotesk as a neo-grotesk family inspired by Swiss typographic traditions but with a more contemporary and friendly character. They highlight its many alternates and features as key to its versatility, positioning it as a complex tool for both everyday design challenges and more experimental typographic approaches."
+  }
+]

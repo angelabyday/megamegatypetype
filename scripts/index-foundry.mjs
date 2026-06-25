@@ -1484,7 +1484,7 @@ const FOUNDRIES = [
   // Batch 10
   {
     name: "Studio Feixen Fonts",
-    slug: "studio-feixen",
+    slug: "studio-feixen-fonts",
     homepage: "https://fonts.studiofeixen.ch/",
     listingUrl: "https://fonts.studiofeixen.ch/",
     tier: "best",
@@ -2848,6 +2848,56 @@ const FOUNDRIES = [
         const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
         const CATS = new Set(["sans-serif", "serif", "monospace", "display", "slab"]);
         return parts.length === 2 && CATS.has(parts[0]) && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+
+  // ---- Batch 20 ----
+  {
+    name: "F37 Foundry",
+    slug: "f37-foundry",
+    homepage: "https://f37foundry.com/",
+    listingUrl: "https://f37foundry.com/font-library",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("f37foundry.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Open Foundry",
+    slug: "open-foundry",
+    homepage: "https://open-foundry.com/",
+    listingUrl: "https://open-foundry.com/fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("open-foundry.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Free Faces",
+    slug: "free-faces",
+    homepage: "https://www.freefaces.gallery/",
+    listingUrl: "https://www.freefaces.gallery/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("freefaces.gallery")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
       } catch { return false; }
     },
   },

@@ -182,7 +182,9 @@ import processTypeFoundry from "@/data/typefaces-process-type-foundry.json";
 import regularBoldItalic from "@/data/typefaces-regular-bold-italic.json";
 import rosetta from "@/data/typefaces-rosetta.json";
 import smussTypeKiosk from "@/data/typefaces-smuss-type-kiosk.json";
-import studioFeixen from "@/data/typefaces-studio-feixen.json";
+import studioFeixen from "@/data/typefaces-studio-feixen-fonts.json";
+import openFoundry from "@/data/typefaces-open-foundry.json";
+import freeFaces from "@/data/typefaces-free-faces.json";
 import studioTriple from "@/data/typefaces-studio-triple.json";
 import typeBy from "@/data/typefaces-type-by.json";
 import typeForward from "@/data/typefaces-type-forward.json";
@@ -442,6 +444,8 @@ export function getAllTypefaces(): Typeface[] {
         rosetta,
         smussTypeKiosk,
         studioFeixen,
+        openFoundry,
+        freeFaces,
         studioTriple,
         typeBy,
         typeForward,
