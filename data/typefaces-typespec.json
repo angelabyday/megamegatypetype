@@ -1,13 +1,459 @@
 [
   {
-    "name": "The Doves Type",
+    "name": "AType Stencil",
     "foundry": "Typespec",
-    "url": "https://typespec.co.uk/doves-type/",
-    "designer": "Robert Green",
-    "year": 2013,
+    "url": "https://typespec.co.uk/downloads/atype-stencil/",
+    "designer": "Matt Willey",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "stencil",
+    "classification_notes": "An all-caps stencil display face with hybrid uppercase stencil and solid lowercase forms; the rounded terminals and counters place it firmly in the display category with a stencil subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "AType Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "all-caps",
+      "display",
+      "rounded",
+      "hybrid",
+      "uppercase"
+    ],
+    "summary": "A hybrid all-caps stencil face by Matt Willey, pairing stencil uppercase forms with solid lowercase characters and distinctively rounded terminals.",
+    "description": "Designed by Matt Willey, the face combines stencil letterforms in the uppercase slots with solid characters in the lowercase, creating an unusual hybrid suitable for display work. Soft, rounded corners on terminals and counters give it a warmth that distinguishes it from harder military-derived stencil cuts. Originally donated to the BuyFontsSaveLives charity initiative, with an updated version 2.0 released in late 2020.",
+    "foundry_blurb": "AType Stencil is described as a hybrid all-caps font designed by Matt Willey, featuring stencil letterforms on the uppercase and solid characters on the lowercase slots, with distinctively soft, rounded corners on the terminals and counters. Matt Willey became a partner at Pentagram New York in 2020 and donated the typeface to BuyFontsSaveLives, with proceeds going to Cancer Research and Macmillan Cancer Support. Version 2.0 was released in late 2020."
+  },
+  {
+    "name": "BWord",
+    "foundry": "Typespec",
+    "url": "https://typespec.co.uk/downloads/bword/",
+    "designer": "Matt Willey",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "condensed all-caps sans",
+    "classification_notes": "An all-caps condensed sans with monolinear strokes and rounded terminals, designed for display use. The overtly stylised terminals and condensed proportions place it firmly in the display category rather than general-purpose sans.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "BWord"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "all-caps",
+      "condensed",
+      "display",
+      "monolinear",
+      "rounded-terminals",
+      "sans-serif",
+      "charity"
+    ],
+    "summary": "An all-caps condensed sans by Matt Willey, featuring monolinear strokes and rounded terminals, released as part of the BuyFontsSaveLives charity initiative.",
+    "description": "Designed by Matt Willey and donated to the BuyFontsSaveLives charity collection, all proceeds go to Cancer Research UK and Macmillan Cancer Support. The two-weight family, Regular and Bold, uses condensed letterforms with monolinear strokes and overtly rounded terminals, giving it a distinctive display character. Version 2.0 was released in late 2020 following Willey's appointment as a partner at Pentagram New York.",
+    "foundry_blurb": "BWord is an all-caps condensed sans serif designed by Matt Willey in two weights, Regular and Bold, with monolinear strokes and rounded terminals. Donated to the BuyFontsSaveLives initiative in 2020, purchases of the typeface raise funds for Cancer Research UK and Macmillan Cancer Support. An updated version 2.0 was released in late 2020."
+  },
+  {
+    "name": "Blakey Slab",
+    "foundry": "Typespec",
+    "url": "https://typespec.co.uk/downloads/blakey-slab/",
+    "designer": "Matt Willey",
+    "year": 2020,
+    "category": "slab",
+    "subcategory": "condensed slab serif",
+    "classification_notes": "An all-caps condensed slab serif, placing it firmly in the display slab category with its compressed proportions and heavy bracketed serifs suited to editorial headlines.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blakey Slab"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "condensed",
+      "all-caps",
+      "display",
+      "editorial",
+      "headline",
+      "charity"
+    ],
+    "summary": "A condensed, all-caps slab serif in two weights, designed by Matt Willey and originally donated to the ACLU, later updated and released through the BuyFontsSaveLives charity initiative.",
+    "description": "Designed by Matt Willey and originally created as a donation to the ACLU, this condensed all-caps slab gained visibility through its use in the New York Times Magazine's L.A. Noir 'Great Performances' issues, both in print and an acclaimed experimental video series. A version 2.0 was released in late 2020 following Willey's appointment as a partner at Pentagram, with proceeds from sales directed to Cancer Research and MacMillan Cancer Support. Its two weights, Regular and Bold, suit high-contrast editorial display settings where a taut, institutional tone is needed.",
+    "foundry_blurb": "Blakey Slab is a condensed, all-caps slab serif in Regular and Bold, originally designed by Matt Willey as a donation to the ACLU. It featured in the New York Times Magazine's L.A. Noir 'Great Performances' issues and an experimental video series. In 2020, following Willey becoming a partner at Pentagram, an updated version 2.0 was released as part of the BuyFontsSaveLives initiative, with all sales raising funds for Cancer Research and MacMillan Cancer Support."
+  },
+  {
+    "name": "MFred Rounded",
+    "foundry": "Typespec",
+    "url": "https://typespec.co.uk/downloads/mfred-rounded/",
+    "designer": "Matt Willey",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "condensed display",
+    "classification_notes": "A caps-only condensed headline face designed for display use, with rounded terminals that place it firmly in display rather than text typography.",
+    "weights": [
+      "Regular",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "MFred Rounded"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "caps-only",
+      "headline",
+      "rounded",
+      "display",
+      "charity"
+    ],
+    "summary": "A condensed, caps-only headline face in two weights, extensively reworked in 2021 by Matt Willey with assistance from Diana Ovezea.",
+    "description": "Designed by Matt Willey with early assistance from Henrik Kubel of A2-Type, this condensed display face offers Regular and Heavy weights alongside alternate glyphs for G, K, M, R and W. Originally released as a companion to the MFred family, version 2.0 was thoroughly revised for its 2021 release with contributions from Diana Ovezea. Sold as part of the BuyFontsSaveLives initiative, with proceeds going to Cancer Research UK and Macmillan Cancer Support.",
+    "foundry_blurb": "MFred Rounded is a condensed, caps-only headline typeface in two weights designed by Matt Willey, with assistance from Henrik Kubel and, for version 2.0, Diana Ovezea. It includes alternates for select glyphs and was released through the BuyFontsSaveLives charity initiative, with all sales supporting Cancer Research UK and Macmillan Cancer Support."
+  },
+  {
+    "name": "Grace Roman",
+    "foundry": "Typespec",
+    "url": "https://typespec.co.uk/downloads/grace-roman/",
+    "designer": "Paul Harpin",
+    "year": null,
     "category": "serif",
-    "subcategory": "renaissance serif",
-    "classification_notes": "A faithful digital facsimile of the Doves Press typeface, which belongs to the Venetian/Renaissance tradition of late 19th-century private press revivals, with roots in the work of typeface cutting associated with Emery Walker and the Arts and Crafts movement.",
+    "subcategory": "classical roman",
+    "classification_notes": "Described as a classical Roman typeface with a painterly, brush-drawn quality; the designer references the pre-carving tradition of Roman lettering, placing it firmly in the classical roman subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grace Roman"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "classical",
+      "roman",
+      "brush-influenced",
+      "elegant",
+      "serif",
+      "charitable"
+    ],
+    "summary": "A classical roman serif by Paul Harpin, drawn with a brush-influenced approach that references the pre-inscription tradition of Roman lettering.",
+    "description": "Paul Harpin designed Grace Roman as a personal exercise in classical typeface design, following his first release Laura. The letterforms lean into the painted origins of Roman capitals, before their forms were hardened by stone carving, lending the design a refined delicacy compared to more conventional classical revivals. Sales of the typeface contribute to Cancer Research UK and Macmillan Cancer Support through the Buy Fonts Save Lives campaign.",
+    "foundry_blurb": "Typespec describe Grace Roman as a classical Roman typeface with refined delicacy, designed by Paul Harpin. The designer drew it as an exercise immediately after completing Laura, and the painterly approach references the brush-drawn origins of Roman letterforms. All sales raise funds for Cancer Research and Macmillan Cancer Support through the BFSL campaign."
+  },
+  {
+    "name": "Doves Type Headline",
+    "foundry": "Typespec",
+    "url": "https://typespec.co.uk/downloads/doves-type-headline/",
+    "designer": "Robert Green",
+    "year": null,
+    "category": "serif",
+    "subcategory": "arts and crafts serif",
+    "classification_notes": "Based on the historic Doves Press type, itself a revival of a fifteenth-century Venetian roman; the Headline cut is optically adjusted for display sizes, making it a display serif in practical application.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Headline"
+    ],
+    "subfamilies": [
+      "Doves Type Headline"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "revival",
+      "arts-and-crafts",
+      "display",
+      "editorial",
+      "venetian",
+      "historical",
+      "doves-press"
+    ],
+    "summary": "An optically adjusted display cut of the revived Doves Press type, drawn lighter and sharper than the Text version for use at sizes above 20 pt.",
+    "description": "Evolved from work on the Thames Tideway project, this headline cut of Doves Type is lighter and crisper than its text companion, calibrated for titles and headings rather than body copy. The Doves Press type itself was one of the most celebrated faces of the Arts and Crafts movement, and this revival by Robert Green brings it back in a form suited to contemporary display work. Recommended for use above 20 pt, it pairs with Doves Type Text as a properly optically scaled system.",
+    "foundry_blurb": "Typespec describe Doves Type Headline as designed for larger applications such as titles, headings and sub-headings, emerging from practical considerations during work on the Thames Tideway project. It is lighter and sharper than the Text font and is recommended for sizes above 20 pt as an optically adjusted cut of the Doves Type."
+  },
+  {
+    "name": "NSW 01",
+    "foundry": "Typespec",
+    "url": "https://typespec.co.uk/downloads/nsw-01/",
+    "designer": "Matt Willey",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "compressed display",
+    "classification_notes": "A compressed all-caps display typeface with uniform cap-height characters and no ascenders or descenders, designed for maximum impact at headline sizes.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "NSW 01"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "compressed",
+      "display",
+      "headline",
+      "news",
+      "poster",
+      "editorial",
+      "bold"
+    ],
+    "summary": "A compressed display typeface by Matt Willey, built for forceful news headlines and posters with uniform cap-height characters and no ascenders or descenders.",
+    "description": "Designed by Matt Willey, former art director at the New York Times and Pentagram partner, NSW 01 uses thick strokes and a compressed form to deliver assertive impact at display sizes. All characters sit at the same height with no ascenders or descenders, creating a dense, unbroken line particularly suited to news and poster work. Version 2.0 was released in late 2020 as part of the BuyFontsSaveLives initiative, with proceeds going to Cancer Research UK and Macmillan Cancer Support.",
+    "foundry_blurb": "NSW 01 is a compressed display typeface by Matt Willey, whose characters are all the same height with no ascenders or descenders. Thick, outspoken strokes give it a forceful, modern feel suited to news headlines and posters. An updated version 2.0 was released in late 2020, donated by Willey to the BuyFontsSaveLives initiative to raise funds for Cancer Research UK and Macmillan Cancer Support."
+  },
+  {
+    "name": "Organon",
+    "foundry": "Typespec",
+    "url": "https://typespec.co.uk/downloads/organon/",
+    "designer": "Nick Cooke",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Organon is a paired sans and serif family; categorised as sans-serif as the sans is the lead style, with a companion serif sharing identical proportions. The humanist subcategory fits given the emphasis on legibility and elegance.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Organon Sans",
+      "Organon Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "paired-family",
+      "humanist",
+      "legible",
+      "elegant",
+      "charity",
+      "opentype",
+      "serif",
+      "sans-serif"
+    ],
+    "summary": "A paired sans and serif family by G-Type's Nick Cooke, sharing cap heights, x-heights and stem widths for seamless typographic pairing.",
+    "description": "Designed by Nick Cooke of G-Type, Organon comprises a sans and a serif cut that share identical proportional values across cap height, x-height, stem width and ascender/descender metrics. This charity volume, released through the BuyFontsSaveLives campaign in aid of Cancer Research and Macmillan Cancer Support, includes Regular and Bold weights from each family, totalling four fonts. The matched proportions make it straightforward to mix the two styles across a single layout without visual inconsistency.",
+    "foundry_blurb": "Organon was donated to the BuyFontsSaveLives charity campaign by Nick Cooke of G-Type. It is a stylish, feature-laden OpenType family whose sans and serif styles complement one another through shared cap heights, x-heights, stem widths and ascender/descender values. Purchases raise funds for Cancer Research and Macmillan Cancer Support."
+  },
+  {
+    "name": "Timmons NY",
+    "foundry": "Typespec",
+    "url": "https://typespec.co.uk/downloads/timmons-ny/",
+    "designer": "Matt Willey",
+    "year": 2015,
+    "category": "display",
+    "subcategory": "compressed display",
+    "classification_notes": "A bold, caps-only compressed headline face with angular letterforms, designed explicitly for large-scale editorial use; its single weight and display-only intent place it firmly in the display category.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Timmons NY"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "compressed",
+      "caps-only",
+      "headline",
+      "editorial",
+      "display",
+      "angular",
+      "single-weight"
+    ],
+    "summary": "A bold, compressed, caps-only headline face by Matt Willey, originally drawn for Jazz FM and later reworked for the New York Times Magazine's 'Walking New York' issue in 2015.",
+    "description": "Designed by Matt Willey with assistance from Henrik Kubel of A2-Type, this single-weight compressed face was built for stark, high-impact editorial layouts. Its angular, muscular letterforms are suited to large-scale headline work and were notably used across black-and-white spreads in the New York Times Magazine. Version 2.0 was released in 2020, and sales of the font contribute to Cancer Research and Macmillan Cancer Support through the BuyFontsSaveLives campaign.",
+    "foundry_blurb": "Typespec describes Timmons NY as a bold, compressed, caps-only headline font in one weight with multiple glyph alternates, donated to the BuyFontsSaveLives campaign by Matt Willey in memory of his father Nick. Originally conceived for a Jazz FM booklet in 2012 and later reworked for the New York Times Magazine in 2015, an updated version 2.0 was released in late 2020. All proceeds from sales support Cancer Research and Macmillan Cancer Support."
+  },
+  {
+    "name": "Heseltine",
+    "foundry": "Typespec",
+    "url": "https://typespec.co.uk/downloads/heseltine/",
+    "designer": "Paul Hickson, Pat Hickson",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Described as an elegant serif with Text and Titling weights, suggesting a traditional serif structure suited to both body and display settings.",
+    "weights": [
+      "Text",
+      "Titling"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Titling"
+    ],
+    "subfamilies": [
+      "Heseltine"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "elegant",
+      "titling",
+      "ligatures",
+      "extended-charset",
+      "charity",
+      "editorial"
+    ],
+    "summary": "A traditional serif family designed as a personal commission for Lord Heseltine, later released for charity via BuyFontsSaveLives.",
+    "description": "Designed by Paul and Pat Hickson for Haymarket Media Group as a 75th birthday gift to Lord Heseltine, the family covers Text and Titling weights with italics added for his 80th birthday. The extended character set includes a generous ligature complement and support for Latin plant names. All proceeds from sales go to Cancer Research UK and Macmillan Cancer Support.",
+    "foundry_blurb": "Heseltine was originally commissioned as a gift from Haymarket Media Group to Lord Heseltine for his 75th birthday, designed by Paul and Pat Hickson. Kindly donated to BuyFontsSaveLives by Lord Heseltine himself, italics were later added to mark his 80th birthday and to allow the setting of Latin plant names. The family features an extended character set and a wide range of ligatures, with all sales raising funds for Cancer Research UK and Macmillan Cancer Support."
+  },
+  {
+    "name": "Laura",
+    "foundry": "Typespec",
+    "url": "https://typespec.co.uk/downloads/laura/",
+    "designer": "Paul Harpin",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist grotesque",
+    "classification_notes": "Described as a narrow grotesque with humanist qualities, hand-drawn feel and circular punctuation rather than ruler-and-compass construction, placing it between grotesque and humanist sans-serif traditions.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Heavy",
+      "Ultra",
+      "Poster"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Laura Plain",
+      "Laura Display"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "humanist",
+      "narrow",
+      "condensed",
+      "hand-drawn",
+      "charity",
+      "editorial"
+    ],
+    "summary": "A narrow humanist grotesque with twelve weights and matching italics, designed by Paul Harpin to raise funds for cancer charities through the BuyFontsSaveLives campaign.",
+    "description": "Designed by former Haymarket Media Group Creative Director Paul Harpin in memory of his niece, Laura is a narrow grotesque with a large x-height and a hand-drawn quality that sets it apart from mechanically constructed condensed faces. It comes in two sub-families, Plain and Display, each offering twelve weights with matching italics. All proceeds from sales go to Cancer Research UK and Macmillan Cancer Support.",
+    "foundry_blurb": "The Laura type family is a set of narrow grotesque fonts with a large x-height, notable for its hand-drawn feel and humanist curves rather than compass-and-ruler construction. Available in Plain and Display variants, each with twelve weights and matching italics, all sales contribute to Cancer Research UK and Macmillan Cancer Support through the BuyFontsSaveLives campaign."
+  },
+  {
+    "name": "Doves Type Imprint",
+    "foundry": "Typespec",
+    "url": "https://typespec.co.uk/downloads/doves-type-imprint/",
+    "designer": "Robert Green",
+    "year": 2016,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "The Doves Type is a revival of the historic Doves Press typeface, itself derived from a late 15th-century Venetian model by Nicolas Jenson, placing it firmly in the humanist serif tradition.",
     "weights": [
       "Regular"
     ],
@@ -29,35 +475,39 @@
     "type": "foundry",
     "tags": [
       "revival",
-      "private-press",
-      "renaissance",
-      "historical",
-      "arts-and-crafts",
+      "humanist",
       "letterpress",
+      "historical",
+      "doves-press",
+      "book",
       "editorial",
-      "book"
+      "arts-and-crafts"
     ],
-    "summary": "A digital facsimile of the celebrated Doves Press typeface, reconstructed by Robert Green using metal sorts recovered from the bed of the River Thames in 2014.",
-    "description": "Originally released in 2013 and substantially revised through 2022, the typeface exists in two optical cuts: Doves Text for body copy below 20pt, which preserves the softer ink-spread quality of letterpress printing, and Doves Headline, a lighter and sharper variant developed through work on the Thames Tideway project for use at larger sizes and on fabricated surfaces including brass, granite and steel. The fourth version was redrawn entirely using digital microscope photography of the recovered metal sorts, cross-referenced with printed specimens from an expanding archive of Doves Press publications.",
-    "foundry_blurb": "Typespec describe the Doves Type as Robert Green's facsimile of the famous Doves Press typeface, a digital reconstruction devised using original metal type salvaged in 2014 from the River Thames. The type was originally created for the Doves Press, founded in 1900 by T. J. Cobden-Sanderson and Emery Walker in Hammersmith, and was famously thrown into the Thames by Cobden-Sanderson after the press closed in 1917. The 2022 revision introduced two distinct versions, Doves Text and Doves Headline, each optimised for different size ranges and applications."
+    "summary": "A painstakingly researched revival of the Doves Press typeface, drawing directly on 151 metal sorts recovered from the River Thames.",
+    "description": "Robert Green spent over a decade refining his digital reconstruction of the Doves Type, ultimately recovering original metal sorts from the Thames riverbed in 2014 to use as primary source material. The fourth version splits into two optically adjusted cuts: Doves Text, heavier and softer for body copy below 20pt, and Doves Headline, lighter and sharper for display use, the latter originating from a commission by the Thames Tideway infrastructure project. Extended glyph coverage includes small caps and both lining and tabular figures, with spacing adjusted throughout for contemporary print and screen applications.",
+    "foundry_blurb": "Typespec describes the Doves Type as the product of over a decade of research by Robert Green, who salvaged original metal type from the Thames and used a digital microscope camera to capture fine detail from the historic sorts. The fourth version comprises two distinct fonts: Doves Text for setting copy at smaller sizes, and Doves Headline for titles and display use, the latter developed in response to the fabrication demands of the Thames Tideway project across surfaces including brick, granite and steel."
   },
   {
-    "name": "Typespec",
+    "name": "MFred",
     "foundry": "Typespec",
-    "url": "https://typespec.co.uk/about-typespec/",
-    "designer": "Joe Graham",
-    "year": null,
-    "category": "sans-serif",
-    "subcategory": "custom type studio",
-    "classification_notes": "This is a foundry about page rather than a specific typeface; no typeface classification is possible from the provided content.",
-    "weights": [],
+    "url": "https://typespec.co.uk/downloads/mfred/",
+    "designer": "Matt Willey",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "condensed display",
+    "classification_notes": "A caps-only condensed headline face designed for magazine use, placing it firmly in the display category with a condensed display subcategory given its narrow proportions and editorial origins.",
+    "weights": [
+      "Regular",
+      "Heavy"
+    ],
     "optical_sizes_or_widths": [
       "standard"
     ],
     "subfamilies": [
-      "Typespec"
+      "MFred",
+      "MFred Rounded"
     ],
-    "has_condensed": false,
+    "has_condensed": true,
     "has_italic": false,
     "has_mono": false,
     "languages": [
@@ -66,15 +516,16 @@
     "tier": "okay",
     "type": "foundry",
     "tags": [
-      "custom",
-      "bespoke",
-      "branding",
-      "type-consultancy",
-      "corporate",
-      "identity"
+      "condensed",
+      "display",
+      "caps-only",
+      "headline",
+      "editorial",
+      "magazine",
+      "charity"
     ],
-    "summary": "A British custom type studio and consultancy founded by Joe Graham, formerly of Fontworks, serving branding and identity clients worldwide.",
-    "description": "Founded by Joe Graham after his time as General Manager at Fontworks in London, Typespec operates as a custom font studio and type consultancy. The studio works with designers, agencies and branding professionals to produce bespoke typefaces intended as long-term brand assets. Clients include Unilever, Morrisons, Cadbury and Associated Newspapers.",
-    "foundry_blurb": "Typespec describes itself as an experienced type consultancy and custom font studio offering a wide range of type-related services to organisations worldwide. Founded by Joe Graham, formerly General Manager at Fontworks in London, the studio works closely with designers, agencies and branding professionals to create bespoke typefaces and custom fonts that become invaluable company assets. Satisfied clients include Unilever, Morrisons, Cadbury and Associated Newspapers."
+    "summary": "A condensed caps-only headline face originally drawn for ELEPHANT magazine by Matt Willey, reworked in 2021 with a companion rounded variant.",
+    "description": "Originally drawn for ELEPHANT magazine and later used in PORT magazine and the US edition of WIRED, this condensed caps-only face was donated to the BuyFontsSaveLives initiative in memory of designer Matt Willey's father. The 2021 rework, undertaken with assistance from Diana Ovezea, expanded the character set and brought the weight count to Regular and Heavy, aligning it with the companion MFred Rounded. Alternate glyphs for G, K, M, R and W give some typographic flexibility within the single-case design. All sales raise funds for Cancer Research UK and Macmillan Cancer Support.",
+    "foundry_blurb": "MFred is a condensed caps-only headline typeface originally drawn by Matt Willey for ELEPHANT magazine and later used in PORT magazine and US WIRED. Donated to BuyFontsSaveLives in memory of his father Nick, the 2021 version 2.0 was reworked with Diana Ovezea's assistance, matching the weight count and character set of the companion MFred Rounded. Purchases contribute to Cancer Research UK and Macmillan Cancer Support."
   }
 ]

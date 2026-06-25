@@ -365,20 +365,23 @@ const FOUNDRIES = [
     name: "Typespec",
     slug: "typespec",
     homepage: "https://typespec.co.uk/",
-    listingUrl: "https://typespec.co.uk/",
+    listingUrl: "https://typespec.co.uk/shop/",
     tier: "best",
-    // root-level typefaces; exclude known nav slugs
-    filterFn: (href) => {
-      try {
-        const u = new URL(href);
-        if (!u.hostname.includes("typespec.co.uk")) return false;
-        if (u.search || u.hash) return false;
-        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
-        if (parts.length !== 1) return false;
-        const NAV = new Set(["custom-font-services", "buyfontssavelives"]);
-        return !NON_TYPEFACE_SLUGS.has(parts[0]) && !NAV.has(parts[0]);
-      } catch { return false; }
-    },
+    staticUrls: [
+      "https://typespec.co.uk/downloads/atype-stencil/",
+      "https://typespec.co.uk/downloads/blakey-slab/",
+      "https://typespec.co.uk/downloads/bword/",
+      "https://typespec.co.uk/downloads/doves-type-headline/",
+      "https://typespec.co.uk/downloads/grace-roman/",
+      "https://typespec.co.uk/downloads/mfred-rounded/",
+      "https://typespec.co.uk/downloads/nsw-01/",
+      "https://typespec.co.uk/downloads/organon/",
+      "https://typespec.co.uk/downloads/timmons-ny/",
+      "https://typespec.co.uk/downloads/doves-type-imprint/",
+      "https://typespec.co.uk/downloads/heseltine/",
+      "https://typespec.co.uk/downloads/laura/",
+      "https://typespec.co.uk/downloads/mfred/",
+    ],
   },
 
   // ---- Batch 4 ----
