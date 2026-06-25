@@ -101,9 +101,7 @@ export function Directory({
   const [variableOnly, setVariableOnly] = useState(false);
   const [wideOnly, setWideOnly] = useState(false);
   const [opticalSizesOnly, setOpticalSizesOnly] = useState(false);
-  const [selectedTypes, setSelectedTypes] = useState<Set<"foundry" | "reseller" | "free">>(
-    new Set(["foundry", "reseller", "free"])
-  );
+  const [pricing, setPricing] = useState<"all" | "free" | "paid">("all");
   const [sort, setSort] = useState<SortKey>("name");
   const [visibleCount, setVisibleCount] = useState(60);
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
@@ -120,7 +118,7 @@ export function Directory({
     (variableOnly ? 1 : 0) +
     (wideOnly ? 1 : 0) +
     (opticalSizesOnly ? 1 : 0) +
-    (selectedTypes.size < 3 ? 1 : 0);
+    (pricing !== "all" ? 1 : 0);
 
   const filtered = useMemo(() => {
     const q = fold(query.trim());
@@ -141,7 +139,8 @@ export function Directory({
         );
         if (!match) return false;
       }
-      if (!selectedTypes.has(t.type as "foundry" | "reseller" | "free")) return false;
+      if (pricing === "free" && t.type !== "free") return false;
+      if (pricing === "paid" && t.type === "free") return false;
       if (condensedOnly && !t.has_condensed) return false;
       if (italicOnly && !t.has_italic) return false;
       if (monoOnly && !t.has_mono) return false;
@@ -175,11 +174,11 @@ export function Directory({
           return a.name.localeCompare(b.name);
       }
     });
-  }, [typefaces, query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, variableOnly, wideOnly, opticalSizesOnly, selectedTypes, sort]);
+  }, [typefaces, query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, variableOnly, wideOnly, opticalSizesOnly, pricing, sort]);
 
   useEffect(() => {
     setVisibleCount(60);
-  }, [query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, variableOnly, wideOnly, opticalSizesOnly, selectedTypes, sort]);
+  }, [query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, variableOnly, wideOnly, opticalSizesOnly, pricing, sort]);
 
   useEffect(() => {
     const el = loadMoreRef.current;
@@ -231,18 +230,18 @@ export function Directory({
           </div>
         </CollapsibleSection>
 
-        <CollapsibleSection label="Source" collapsible={false}>
-          <div className="flex flex-wrap gap-1">
-            {(["foundry", "reseller", "free"] as const).map((t) => (
+        <CollapsibleSection label="Pricing" collapsible={false}>
+          <div className="flex rounded-full border-[0.5px] border-border overflow-hidden text-xs">
+            {(["all", "paid", "free"] as const).map((p) => (
               <button
-                key={t}
-                onClick={() => toggle(selectedTypes, t, setSelectedTypes)}
+                key={p}
+                onClick={() => setPricing(p)}
                 className={cn(
-                  "rounded-full border-[0.5px] border-border px-2 py-1 text-xs capitalize transition-colors",
-                  selectedTypes.has(t) ? "bg-foreground text-background" : "hover:bg-muted"
+                  "flex-1 py-1 capitalize transition-colors",
+                  pricing === p ? "bg-foreground text-background" : "hover:bg-muted"
                 )}
               >
-                {t === "foundry" ? "Foundries" : t === "reseller" ? "Resellers" : "Free"}
+                {p}
               </button>
             ))}
           </div>
