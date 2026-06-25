@@ -1,0 +1,1065 @@
+[
+  {
+    "name": "GT Alpina",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-alpina",
+    "designer": "Reto Moser",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "GT Alpina is positioned as a workhorse serif that deliberately revives expressive historical letterforms; its mix of pragmatic construction and typographic archaeology places it firmly in the transitional serif tradition with display-aware sensibilities.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Standard",
+      "Extended",
+      "Fine Condensed",
+      "Fine Standard",
+      "Fine Extended",
+      "Typewriter"
+    ],
+    "subfamilies": [
+      "GT Alpina Condensed",
+      "GT Alpina Standard",
+      "GT Alpina Extended",
+      "GT Alpina Fine Condensed",
+      "GT Alpina Fine Standard",
+      "GT Alpina Fine Extended",
+      "GT Alpina Typewriter"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "workhorse",
+      "historical-revival",
+      "editorial",
+      "magazine",
+      "typewriter",
+      "expressive",
+      "multilingual"
+    ],
+    "summary": "A 70-style serif by Reto Moser that pairs pragmatic text utility with deliberately expressive historical letterforms across condensed, standard, extended, fine and typewriter subfamilies.",
+    "description": "Designed by Reto Moser and released in 2020, GT Alpina spans seven subfamilies and 70 styles, ranging from condensed to extended widths and from standard optical weights to finer cuts and a typewriter variant. The family deliberately resurrects shapes from typographic history that might be considered too expressive for a workhorse role, then grounds them in a practical, text-ready construction. Its breadth of language support across Latin-script languages and a full suite of OpenType features including small caps, oldstyle figures and stylistic alternates make it well suited to editorial and long-form publishing work.",
+    "foundry_blurb": "Grilli Type describe GT Alpina as a workhorse serif that plays with the very meaning of that concept, reaching into typographic history to resurrect shapes some may see as too expressive, and blending them with a pragmatic execution across 70 styles."
+  },
+  {
+    "name": "GT America Intl Collection",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-america-intl-collection",
+    "designer": "Noël Leu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "GT America is explicitly positioned as a bridge between 19th century American Gothic and 20th century European Neo-Grotesque traditions, placing it firmly in the grotesque sans-serif category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "GT America",
+      "GT America Arabic",
+      "GT America Devanagari",
+      "GT America Hebrew",
+      "GT America Korean",
+      "GT America Thai"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese",
+      "Arabic",
+      "Devanagari",
+      "Hebrew",
+      "Korean",
+      "Thai",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Japanese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "neo-grotesque",
+      "multilingual",
+      "multiscript",
+      "american gothic",
+      "extended",
+      "variable"
+    ],
+    "summary": "A grotesque sans spanning Latin, Cyrillic, Greek, Arabic, Devanagari, Hebrew, Korean, Thai and CJK scripts, designed to bridge 19th century American Gothic and 20th century European Neo-Grotesque models.",
+    "description": "Grilli Type's GT America Intl collection extends the original GT America family across a wide range of writing systems, with each script developed by specialist partners alongside Noël Leu and the Grilli Type design team. The Latin base covers 84 styles across multiple widths and weights, with Cyrillic, Greek and Vietnamese offered as extensions, while Arabic, Devanagari, Hebrew, Korean and Thai each ship as standalone companion families at seven weights with variable font support. Chinese and Japanese matching families are also available, produced by Arphic and Type Projects respectively.",
+    "foundry_blurb": "Grilli Type describe GT America as the missing bridge between 19th century American Gothics and 20th century European Neo-Grotesque typefaces, drawing on the best design features of both traditions in the widths and weights where they work most effectively. The Intl collection extends this concept across a wide range of writing systems, with each script designed by expert partners alongside Noël Leu and Grilli Type's design team."
+  },
+  {
+    "name": "GT America",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-america",
+    "designer": "Noël Leu, Seb McLauchlan",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "GT America is explicitly positioned as a bridge between 19th-century American Gothics and 20th-century European Neo-Grotesks, placing it firmly in the grotesque tradition with neo-grotesque refinements.",
+    "weights": [
+      "Ultra Light",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Standard",
+      "Extended",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "GT America Compressed",
+      "GT America Condensed",
+      "GT America Standard",
+      "GT America Extended",
+      "GT America Expanded",
+      "GT America Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "american gothic",
+      "neo-grotesque",
+      "editorial",
+      "identity",
+      "wide-family",
+      "multilingual"
+    ],
+    "summary": "An 84-style grotesque designed by Noël Leu to reconcile 19th-century American Gothic letterforms with 20th-century European Neo-Grotesque discipline across five widths and a monospaced subfamily.",
+    "description": "Designed by Noël Leu with Seb McLauchlan and released in 2016, GT America draws on American Gothic and European Neo-Grotesque traditions, selecting design features from each where they perform best at a given weight or width. The family spans Compressed, Condensed, Standard, Extended and Expanded widths plus a Mono subfamily, each running seven weights from Ultra Light to Black with matching italics. Script extensions cover Cyrillic, Greek and Vietnamese alongside an exceptionally broad Latin character set.",
+    "foundry_blurb": "Grilli Type describe GT America as the missing bridge between 19th-century American Gothics and 20th-century European Neo-Grotesque typefaces, using the best design features from both traditions in the widths and weights where they function optimally. The family was designed by Noël Leu with Seb McLauchlan, with script extensions developed by Grilli Type with Tania Chacana and consulting from Maria Doreuli for Cyrillics, Vassilis Georgiou for Greek and Donny Trương for Vietnamese."
+  },
+  {
+    "name": "GT Eesti",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-eesti",
+    "designer": "Reto Moser",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Derived from the Soviet geometric sans-serif 'Zhurnalnaya Roublennaya', GT Eesti follows geometric construction principles with circular dots and clean architecture typical of mid-century Soviet type design.",
+    "weights": [
+      "Ultra Light",
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Ultra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "GT Eesti Text",
+      "GT Eesti Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "soviet",
+      "cyrillic",
+      "editorial",
+      "dual-script",
+      "text",
+      "display",
+      "historic-revival"
+    ],
+    "summary": "A reinterpretation of the Soviet geometric sans-serif 'Zhurnalnaya Roublennaya', expanded into Text and Display subfamilies with broad Latin and Cyrillic coverage.",
+    "description": "Developed from books printed in Soviet-occupied Estonia, GT Eesti takes the mid-century Soviet geometric sans 'Zhurnalnaya Roublennaya' as its starting point and adapts it for contemporary use. The family splits into Text and Display subfamilies, each running across multiple weights with matching italics, totalling 28 styles. Both Latin and Cyrillic scripts are fully supported, with OpenType features including circular dot alternates, compact accents and an alternate 'w' and 'v' for the Text cut.",
+    "foundry_blurb": "Grilli Type describe GT Eesti as a free-spirited interpretation of the Soviet geometric sans-serif 'Zhurnalnaya Roublennaya', developed from books found in Soviet-occupied Estonia. Designed by Reto Moser and released in 2016, the family spans 28 styles across separate Text and Display subfamilies, covering an extensive range of Latin and Cyrillic languages."
+  },
+  {
+    "name": "GT Cinetype",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-cinetype",
+    "designer": "Mauro Paolozzi, Rafael Koch",
+    "year": 2015,
+    "category": "display",
+    "subcategory": "techno/laser-cut",
+    "classification_notes": "GT Cinetype is engineered around the mechanical constraints of a cinema subtitling laser, which can only move in straight lines, producing a typeface entirely without curves. This places it firmly in the display/techno category rather than any conventional humanist or geometric tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "GT Cinetype",
+      "GT Cinetype Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "techno",
+      "geometric",
+      "cinema",
+      "subtitling",
+      "angular",
+      "display",
+      "no-curves",
+      "industrial"
+    ],
+    "summary": "A typeface derived from a cinema subtitling laser machine, its letterforms constructed entirely from straight lines because the laser cannot move in curves.",
+    "description": "Based on the output of a laser subtitling system used in cinemas, where the laser erases a colour layer from film to produce brilliantly white, very small letters. Because the laser can only travel in straight lines, every character is built from angular segments with no curves whatsoever, giving the family a distinct technical rigour. Seven styles span Light, Regular and Bold with matching italics and a Mono variant, covering an extensive range of Latin-script languages.",
+    "foundry_blurb": "Grilli Type describe GT Cinetype as a design engineered for a cinema subtitling machine: a laser erases the colour layer of film to create small, brilliantly white letters, and because the laser can only move in straight lines, the typeface contains no curves. Designed by Mauro Paolozzi and Rafael Koch and released in 2015, it is available in seven styles with options for customisation and language extensions."
+  },
+  {
+    "name": "GT Canon",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-canon",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "GT Canon exhibits the hallmarks of a transitional serif: strong stroke contrast, bracketed serifs and a rational, upright axis. The family's range of optical sizes, widths and the mono variant indicate a system designed with both editorial precision and functional range in mind.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "S",
+      "M",
+      "L"
+    ],
+    "subfamilies": [
+      "GT Canon Condensed",
+      "GT Canon Narrow",
+      "GT Canon Standard",
+      "GT Canon Extended",
+      "GT Canon Expanded",
+      "GT Canon Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "serif",
+      "editorial",
+      "optical-sizes",
+      "wide-range",
+      "text",
+      "display",
+      "multi-width"
+    ],
+    "summary": "A large-scale transitional serif system from Grilli Type spanning five widths, three optical sizes and seven weights, with a matching mono subfamily.",
+    "description": "GT Canon is a highly systematic serif family built around five width variants — Condensed, Narrow, Standard, Extended and Expanded — each offered across three optical sizes (S, M, L) and seven weights from Light to Black, all with italics. The inclusion of a monospaced subfamily makes it unusually self-contained for a serif release of this kind. The design draws on transitional serif conventions with clear stroke contrast and structured letterforms suited to both continuous text and display use.",
+    "foundry_blurb": "Grilli Type present GT Canon as a comprehensive serif family offering exceptional range across widths, weights and optical sizes, culminating in a system that spans condensed to expanded proportions and includes a mono variant alongside the upright and italic styles."
+  },
+  {
+    "name": "GT Era",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-era",
+    "designer": "Thierry Blancpain",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "GT Era draws explicitly from pre-modernist grotesk typefaces and their use in modernist movements such as Bauhaus and De Stijl, placing it firmly in the early grotesque tradition with a warm, idiosyncratic character.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "GT Era Display",
+      "GT Era Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "bauhaus",
+      "pre-modernist",
+      "editorial",
+      "display",
+      "warmth",
+      "historical"
+    ],
+    "summary": "A two-subfamily grotesque by Thierry Blancpain that revives the warmth and quirks of pre-modernist grotesk lettering, with separate Display and Text optical cuts across seven weights each.",
+    "description": "Drawing on the idiosyncratic grotesk letterforms that circulated through Bauhaus and De Stijl movements, GT Era deliberately resists neutrality in favour of character and recognition. The family splits into Display and Text optical sizes, each running from Thin to Black with obliques throughout, giving 28 styles in total. An alternate double-storey g is available via OpenType, and the Latin coverage spans several hundred languages.",
+    "foundry_blurb": "Grilli Type describe GT Era as a reimagining of the warmth and idiosyncrasies of early grotesk typefaces, noting that these pre-modernist tools were pushed to their extremes in the radical designs of movements like Bauhaus and De Stijl. The typeface shuns neutrality and embraces friction, championing recognition over uniformity and flavour over conformity. Designed by Thierry Blancpain, it was released in 2025 in 28 styles."
+  },
+  {
+    "name": "GT Flaire",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-flaire",
+    "designer": "Reto Moser",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "GT Flaire draws from calligraphic pen forms, giving it the organic curves and stroke contrast typical of humanist sans-serifs rather than geometric or grotesque lineage.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Extra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "GT Flaire Basic",
+      "GT Flaire Extra"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "calligraphic",
+      "humanist",
+      "playful",
+      "corporate",
+      "italic",
+      "contemporary",
+      "sans-serif"
+    ],
+    "summary": "A calligraphically informed sans-serif in 28 styles, translating the pressure curves of an ink pen into a digital typeface designed to balance professional weight with expressive warmth.",
+    "description": "Designed by Reto Moser and released in 2024, GT Flaire is built around the pronounced curves that a calligraphic pen produces under pressure, giving its letterforms an organic quality rarely found in corporate sans-serifs. The family is split into two subfamilies, Basic and Extra, each running through seven weights from Light to an additional Extra cut, all with matching italics. Grilli position it as a typeface that bridges seriousness and playfulness, supported by OpenType features including stylistic alternates and framed letter sets.",
+    "foundry_blurb": "Grilli Type describe GT Flaire as a typeface that captures the pronounced curves produced by calligraphic pens when applying ink to paper under pressure, translating this quality into a digital format. They frame it as bridging business and pleasure, breaking free from corporate rigidity by combining seriousness with playfulness."
+  },
+  {
+    "name": "GT Flexa",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-flexa",
+    "designer": "Dominik Huber, Marc Kappeler",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "GT Flexa is a variable grotesque sans-serif spanning eight widths from X Compressed to X Expanded, including a monospaced variant, with a fluid design space philosophy underpinning its 112-style system.",
+    "weights": [
+      "Lazer",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "X Compressed",
+      "Compressed",
+      "Condensed",
+      "Standard",
+      "Extended",
+      "Expanded",
+      "X Expanded"
+    ],
+    "subfamilies": [
+      "GT Flexa X Compressed",
+      "GT Flexa Compressed",
+      "GT Flexa Condensed",
+      "GT Flexa Standard",
+      "GT Flexa Extended",
+      "GT Flexa Expanded",
+      "GT Flexa X Expanded",
+      "GT Flexa Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "variable",
+      "multi-width",
+      "extended-family",
+      "identity",
+      "editorial",
+      "flexible",
+      "contemporary"
+    ],
+    "summary": "A 112-style grotesque by Dominik Huber and Marc Kappeler spanning eight widths from X Compressed to X Expanded, with a monospaced variant and a distinctive Lazer weight throughout.",
+    "description": "Released by Grilli Type in 2020, GT Flexa treats the typeface as a fluid design space rather than a fixed set of styles. Eight width variants run from X Compressed to X Expanded, each offering seven weights from Lazer to Black with matching italics, plus a full Mono subfamily. OpenType features include rounded punctuation, a single-storey 'a' and a half-crossbar 'f' and 't', giving designers fine control over the typeface's personality.",
+    "foundry_blurb": "Grilli Type describe GT Flexa as embracing the idea of a fluid design space rather than a traditional collection of static styles. Designed by Dominik Huber and Marc Kappeler and released in 2020, it is available in 112 styles and positioned as a dynamic tool enabling joyful typesetting and fully responsive designs, with an impressively extensive typographic system and a distinctive personality."
+  },
+  {
+    "name": "GT Haptik",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-haptik",
+    "designer": "Reto Moser, Tobias Rechsteiner",
+    "year": 2010,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "Described explicitly as a monolinear geometric grotesque; uppercase letters and numbers were designed for tactile legibility, reinforcing a geometric, even-stroked construction throughout.",
+    "weights": [
+      "Lazer",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "GT Haptik"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grotesque",
+      "monolinear",
+      "tactile",
+      "oblique",
+      "rotalic",
+      "extended-latin",
+      "multiscript"
+    ],
+    "summary": "A monolinear geometric grotesque whose uppercase letters and numerals were designed for tactile legibility, readable by touch alone.",
+    "description": "Originally released in 2010 and expanded in 2014, GT Haptik draws on an unusual brief: uppercase letters and numbers optimised to be distinguished by fingertip rather than eye. The seven weights run from Lazer to Black, each with Oblique and Rotalic companions, and alternate characters plus proportional and tabular figures are included throughout. The monolinear construction gives the family a clean, even tone suited to editorial and identity work where the geometric grotesque vernacular is wanted without excessive neutrality.",
+    "foundry_blurb": "Grilli Type describe GT Haptik as a monolinear geometric grotesque designed by Reto Moser and Tobias Rechsteiner, first released in 2010 and updated in 2014. Its uppercase letters and numbers were optimised to be read blindfolded and by touch. The family is available in 21 styles across seven weights, each with Oblique and Rotalic variants, and includes alternate characters, proportional figures and tabular figures."
+  },
+  {
+    "name": "GT Mechanik",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-mechanik",
+    "designer": "Shiva Nallaperumal, Reto Moser, Noël Leu",
+    "year": 2026,
+    "category": "mono",
+    "subcategory": "electromechanical mono",
+    "classification_notes": "GT Mechanik is built around a monospace style rooted in electromechanical typesetting systems, with idiosyncratic features of mechanical text composition serving as design principles across the family's three subfamilies.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Mono",
+      "Semi",
+      "Poly"
+    ],
+    "subfamilies": [
+      "GT Mechanik Mono",
+      "GT Mechanik Semi",
+      "GT Mechanik Poly"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "electromechanical",
+      "grotesque",
+      "technical",
+      "typewriter",
+      "oblique",
+      "multi-width"
+    ],
+    "summary": "A family built outward from a monospace core, translating the constraints of electromechanical typesetting into a three-subfamily system of increasing proportional freedom.",
+    "description": "Designed by Shiva Nallaperumal, Reto Moser and Noël Leu, GT Mechanik takes the idiosyncrasies of mechanical text systems as its governing logic rather than its starting point. The family runs across three subfamilies — Mono, Semi and Poly — each applying the same design principles at different degrees of spacing flexibility, from fixed-width to near-proportional. Seven weights from Thin to Black with obliques across all three subfamilies give 42 styles in total, with broad Latin extended language coverage.",
+    "foundry_blurb": "Grilli Type describe GT Mechanik as dialling in the appeal of electromechanical text systems by building an inevitable family around its monospace style. The idiosyncratic features that come with the restraints of mechanic typesetting become guiding principles along what they call a tone axis, with Mono, Text and Display each following that logic at a different scale and intensity."
+  },
+  {
+    "name": "GT Maru",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-maru",
+    "designer": "Thierry Blancpain",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "rounded sans",
+    "classification_notes": "GT Maru is a rounded sans-serif drawing on Japanese Latin signage traditions, combining sign-painting warmth with mechanically engraved letterform qualities. The consistent terminal rounding and soft geometry place it firmly in the rounded sans subcategory.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "GT Maru",
+      "GT Maru Mono",
+      "GT Maru Mega",
+      "GT Maru Emoji"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "japanese-inspired",
+      "signage",
+      "geometric",
+      "playful",
+      "mono",
+      "emoji",
+      "display"
+    ],
+    "summary": "A rounded Latin sans drawn from Japanese signage traditions by Thierry Blancpain, extending into mono, mega-display and emoji subfamilies.",
+    "description": "Inspired by the rounded English lettering found on signage across Japan, GT Maru blends the looseness of sign painting with the precision of engraved type. Released in 2021 across 25 styles, the family spans five weights with obliques, a monospaced variant, oversized Mega cuts in Mini, Midi and Maxi optical sizes, and a colour emoji set. OpenType alternates include single-storey a and g, multiple outline and glow treatments, making it one of the more considered rounded sans families available.",
+    "foundry_blurb": "Grilli Type describe GT Maru as an ode to rounded English characters found on signage across Japan, with the name referencing maru, the Japanese word for roundness. The typeface pairs the warmth and flow of sign painting with the mechanical quality of engraved letters, designed by Thierry Blancpain with production by Huw Williams and emoji by Grilli Type with work by Anya Danilova."
+  },
+  {
+    "name": "GT Planar",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-planar",
+    "designer": "Dominik Huber",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "GT Planar is a geometric sans-serif distinguished by its continuous axis system spanning Retalic, Upright, and Italic styles across a 90-degree range, placing it firmly in the geometric sans tradition with an experimental slant mechanism.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "GT Planar"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "variable-axis",
+      "italic",
+      "retalic",
+      "experimental",
+      "editorial",
+      "multi-script"
+    ],
+    "summary": "A geometric sans by Dominik Huber that maps Retalic, Upright and Italic styles across a continuous 90-degree design space in 42 styles.",
+    "description": "Released in 2022, GT Planar runs from -45° Retalic through upright to +45° Italic, treating slant as a continuous axis rather than a binary toggle between roman and italic. Six weights from Thin to Black are available in each of three style directions, with OpenType features offering single-storey alternates, curved numerals and flat-shape variants. The result is a family suited to editorial and identity work where the angle of type itself becomes a graphic variable.",
+    "foundry_blurb": "Grilli Type describe GT Planar as a typeface that tests the limits of a 90-degree range, combining Retalic, Upright and Italic styles into one continuous design space. It transitions from -45° Retalic to +45° Italic while retaining its integrity across any length, size or angle, and is available in 42 styles designed by Dominik Huber."
+  },
+  {
+    "name": "GT Pantheon",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-pantheon",
+    "designer": "Tobias Rechsteiner, Noël Leu",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "optical serif",
+    "classification_notes": "GT Pantheon is a multi-optical serif family with three size-specific cuts (Micro, Text, Display), drawing on historic letterform traditions with a contemporary expressive character. Its dynamic stroke contrast and classical proportions place it firmly in the serif category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Micro",
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "GT Pantheon Micro",
+      "GT Pantheon Text",
+      "GT Pantheon Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "optical-sizes",
+      "editorial",
+      "expressive",
+      "classical",
+      "contemporary",
+      "multi-optical",
+      "display"
+    ],
+    "summary": "A three-cut optical serif by Tobias Rechsteiner and Noël Leu, spanning Micro, Text and Display with expressive stroke contrast rooted in historic letterform traditions.",
+    "description": "Released by Grilli Type in 2024, the family comprises 30 styles across five weights from Light to Black, each with matching italics, and three optically-adjusted cuts tuned to perform at small, reading and display sizes respectively. The optical range moves through distinct registers — warmth and robustness at small sizes, sharpness and elegance at large — without losing a consistent expressive character across the spectrum. Latin coverage extends across hundreds of languages and the family is available for customisation and language extension.",
+    "foundry_blurb": "Grilli Type describe GT Pantheon as an interpretation of historic shapes in a contemporary manner, with an expressive and dynamic character visible in every stroke. At its core are three optically-adjusted faces — Display, Text and Micro — each designed to best represent the same type at different sizes, moving between elegance, sharpness, warmth and robustness as expression meets functionality."
+  },
+  {
+    "name": "GT Pressura",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-pressura",
+    "designer": "Dominik Huber, Marc Kappeler",
+    "year": 2012,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "GT Pressura draws from metal type printing and industrial stamped lettering, giving it a grotesque character defined by ink-spread aesthetics rather than conventional optical refinement.",
+    "weights": [
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "GT Pressura Standard",
+      "GT Pressura Mono",
+      "GT Pressura Extended"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "industrial",
+      "mono",
+      "extended",
+      "ink-spread",
+      "shipping",
+      "metal-type",
+      "editorial"
+    ],
+    "summary": "A grotesque sans drawn from metal type printing history and the stamped lettering found on shipping containers, using ink spread under pressure as a deliberate stylistic device.",
+    "description": "Designed by Dominik Huber and Marc Kappeler of Moiré, GT Pressura takes the optical effects of ink pressing into paper and transfers them into a coherent sans-serif system. The family runs across 36 styles in three subfamilies: Standard, Mono and Extended, each available in six weights from Light to Black with matching italics. Script extensions cover Latin, Cyrillic, Greek and Vietnamese, and OpenType features include tabular figures, an alternate single-storey 'a' and case-sensitive forms.",
+    "foundry_blurb": "Grilli Type describe GT Pressura as inspired by metal type printing history and engineered letters stamped onto shipping boxes. The typeface uses the visual gesture of ink spreading under pressure as a stylistic device, offering an alternative to the more spindly typefaces of the digital age. It was designed by Dominik Huber and Marc Kappeler of Moiré, with script extensions by Dominik Huber in collaboration with Grilli Type, and consulting by Panos Haratzopoulos for Greek and Donny Trương for Vietnamese. Released across 2012, 2017 and 2022, it is available in 36 styles."
+  },
+  {
+    "name": "GT Sectra",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-sectra",
+    "designer": "Dominik Huber, Marc Kappeler, Noël Leu",
+    "year": 2013,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "GT Sectra is a contemporary serif combining broad nib calligraphic stroke contrast with scalpel-sharp terminals, placing it in the category of calligraphic or pen-influenced contemporary serifs rather than a traditional old style or transitional classification.",
+    "weights": [
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Light",
+      "Super"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Fine",
+      "Display"
+    ],
+    "subfamilies": [
+      "GT Sectra",
+      "GT Sectra Fine",
+      "GT Sectra Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "journalism",
+      "calligraphic",
+      "long-form",
+      "newspaper",
+      "magazine",
+      "contemporary"
+    ],
+    "summary": "A calligraphic serif with sharp, scalpel-cut terminals, originally drawn for the long-form journalism magazine Reportagen and now spanning three optical subfamilies across 30 styles.",
+    "description": "Designed by Dominik Huber, Marc Kappeler and Noël Leu, GT Sectra marries the stroke contrast of the broad nib pen with crisp, incised terminals. It extends across three subfamilies — GT Sectra, GT Sectra Fine and GT Sectra Display — covering a spectrum from text to large-scale use. Script coverage includes Latin, Cyrillic, Greek and Vietnamese, making it suitable for international editorial and long-form publishing contexts.",
+    "foundry_blurb": "Grilli Type describe GT Sectra as a contemporary serif that combines the calligraphy of the broad nib pen with the sharpness of the scalpel knife. Originally designed for the long-form journalism magazine Reportagen, the family has since expanded into three subfamilies — GT Sectra, GT Sectra Fine and GT Sectra Display — and is available in 30 styles with options for customisation and language extensions."
+  },
+  {
+    "name": "GT Super",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-super",
+    "designer": "Noël Leu",
+    "year": 2018,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Rooted in the expressive, calligraphic display serifs of the 1970s and 80s, GT Super sits firmly in the display serif category with idiosyncratic curves and high-contrast strokes that distinguish it from conventional text serifs.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Super"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "GT Super Text",
+      "GT Super Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display-serif",
+      "editorial",
+      "high-contrast",
+      "calligraphic",
+      "1970s",
+      "expressive",
+      "magazine",
+      "identity"
+    ],
+    "summary": "A display serif by Noël Leu drawing on the idiosyncratic, calligraphic serif typefaces of the 1970s and 80s, available in separate Text and Display subfamilies across six weights.",
+    "description": "Designed by Noël Leu with assistance from Mirco Schiavone and Reto Moser, GT Super translates the loose, calligraphic energy of 1970s and 80s display serifs into stable, refined typographic shapes. The family splits into Text and Display optical subfamilies, each running from Light to Super with matching italics, giving twenty styles in total. Its high contrast and flowing curves make it well suited to editorial mastheads, book covers and brand identities that want personality without period pastiche.",
+    "foundry_blurb": "Grilli Type describe GT Super as the result of an extensive investigation into display serif typefaces from the 1970s and 80s, focusing on the expressive and idiosyncratic nature of calligraphic motions compelled into stable typographic shapes. Designed by Noël Leu with help from Mirco Schiavone and Reto Moser, it was released in 2018 and is available in 20 styles with options for customisation and language extensions."
+  },
+  {
+    "name": "GT Standard",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-standard",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "GT Standard is a wide-ranging grotesque sans-serif with multiple widths from Compressed to Expanded, seven weights, and obliques throughout, positioning it as a systematic neutral grotesque for extended typographic systems.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Narrow",
+      "Standard",
+      "Extended",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "GT Standard Compressed",
+      "GT Standard Condensed",
+      "GT Standard Narrow",
+      "GT Standard Standard",
+      "GT Standard Extended",
+      "GT Standard Expanded",
+      "GT Standard Mono Compressed",
+      "GT Standard Mono Condensed",
+      "GT Standard Mono Narrow",
+      "GT Standard Mono Standard",
+      "GT Standard Mono Extended",
+      "GT Standard Mono Expanded"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "systematic",
+      "multi-width",
+      "mono",
+      "editorial",
+      "neutral",
+      "extended-family",
+      "oblique"
+    ],
+    "summary": "A vast grotesque sans-serif family spanning six widths, seven weights and a full monospaced counterpart, built for large-scale typographic systems.",
+    "description": "GT Standard covers an exceptional range of widths from Compressed through to Expanded, each with seven weights from Light to Black and matching obliques, yielding well over 200 styles before the mono variants are counted. The monospaced sub-families mirror the same six widths and seven weights, making it unusually complete for systems work that requires both proportional and fixed-pitch settings. The name nods to the idea of standardisation, and the specimen text reinforces this with dry, encyclopaedic copy about technical norms and protocols.",
+    "foundry_blurb": "Grilli Type present GT Standard as a comprehensive grotesque family structured around the concept of a standard as a basis for comparison. The family spans six width variants from Compressed to Expanded, each available in seven weights with obliques, alongside a full mono counterpart in all six widths."
+  },
+  {
+    "name": "GT Zirkon",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-zirkon",
+    "designer": "Tobias Rechsteiner",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Grilli Type describe it as an extravagant sans serif workhorse that blends rational tool with ornamentation; its application of small-size optical refinement techniques in a decorative context points to a humanist sensibility.",
+    "weights": [
+      "Ultra Light",
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "GT Zirkon"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "humanist",
+      "workhorse",
+      "editorial",
+      "ornamental",
+      "text",
+      "extended-language"
+    ],
+    "summary": "A sans serif by Tobias Rechsteiner that applies optical small-size refinement techniques to produce a typeface with both functional and ornamental character.",
+    "description": "Designed by Tobias Rechsteiner and released in 2018, GT Zirkon sits between rational workhouse and decorative type by borrowing the precision of small-size optical optimisation and applying it with a refined, expressive touch. Sixteen styles span eight weights from Ultra Light to Black, each with a matching italic. Small caps, oldstyle figures and alternate arrow glyphs round out a feature set suited to detailed editorial and identity work.",
+    "foundry_blurb": "Grilli Type describe GT Zirkon as an extravagant sans serif workhorse that blends the worlds of rational tool and ornamentation, achieving this by applying techniques ordinarily used to optimise type for small sizes in a refined and decorative way."
+  },
+  {
+    "name": "GT Walsheim",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-walsheim",
+    "designer": "Noël Leu",
+    "year": 2009,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "GT Walsheim draws from the geometric sans tradition, inspired by Swiss poster lettering of the 1930s, with circular forms and a friendly character typical of geometric humanist hybrids.",
+    "weights": [
+      "Ultra Light",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Ultra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "GT Walsheim",
+      "GT Walsheim Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "swiss",
+      "poster",
+      "friendly",
+      "corporate",
+      "multilingual",
+      "cyrillic",
+      "oblique"
+    ],
+    "summary": "A geometric sans with a warm character, drawn from the 1930s Swiss poster lettering of Otto Baumberger and available in 32 styles with extensive Latin and Cyrillic coverage.",
+    "description": "Designed by Noël Leu and first released in 2009, GT Walsheim takes its reference from the hand-lettering of Swiss poster designer Otto Baumberger, resulting in a geometric sans that avoids the coldness of strict Futura derivatives. The family spans eight weights from Ultra Light to Ultra Bold, each with a matching oblique, and extends into a Condensed subfamily. Script coverage reaches across hundreds of Latin-alphabet languages and the full range of Cyrillic, supported by OpenType alternates for Bulgarian, Serbian and Macedonian.",
+    "foundry_blurb": "Grilli Type describe GT Walsheim as a friendly but precise typeface inspired by the lettering of Swiss poster designer legend Otto Baumberger from the 1930s. Designed by Noël Leu and released in 2009 and updated in 2017, it is available in 32 styles and supports all Cyrillic languages, with options for customisation and language extensions."
+  },
+  {
+    "name": "GT Ultra",
+    "foundry": "Grilli Type",
+    "url": "https://www.grillitype.com/typeface/gt-ultra",
+    "designer": "Noël Leu",
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "GT Ultra occupies a deliberately hybrid space between sans and serif, fusing calligraphic stroke contrast with constructed letterforms. Its serif presence and historical references to centuries-old type traditions place it closest to transitional serif, though its design intent is explicitly to blur that boundary.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Median",
+      "Fine"
+    ],
+    "subfamilies": [
+      "GT Ultra Standard",
+      "GT Ultra Median",
+      "GT Ultra Fine"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "hybrid",
+      "serif",
+      "sans-serif",
+      "calligraphic",
+      "editorial",
+      "system",
+      "versatile",
+      "contemporary"
+    ],
+    "summary": "A 33-style type system by Noël Leu that deliberately blurs the boundary between serif and sans, across three optical subfamilies.",
+    "description": "Designed by Noël Leu with assistance from Huw Williams and Grilli Type, GT Ultra fuses calligraphic stroke contrast with constructed, modernist forms to produce a family that resists easy classification. Three subfamilies, Standard, Median and Fine, each run six weights from Thin to Ultra with matching italics, giving 33 styles in total. The optical distinction between subfamilies allows the family to shift register from text to display without losing internal coherence.",
+    "foundry_blurb": "Grilli Type describe GT Ultra as dancing between the worlds of sans and serifs, fusing calligraphy and construction. They frame it as a versatile typographic system that combines the centuries-old context of serif type with the dynamism of modern sans, challenging its own definition and questioning contemporary typographic expectation. The family was released in 2021 in 33 styles and is available for customisation and language extensions."
+  }
+]

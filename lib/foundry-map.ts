@@ -298,6 +298,9 @@ export const BLOCKED_FOUNDRIES: { domain: string; name: string; reason: string }
   { domain: "type-01.com", name: "TYPE01", reason: "editorial/blog site, not a type foundry storefront" },
   { domain: "fonts.gr", name: "Fonts.gr", reason: "Greek aggregator site" },
   { domain: "t26.com", name: "T.26", reason: "sells individual font weight packs rather than typeface families; structure too granular" },
+  { domain: "ultra-kuhl.com", name: "Ultra Kuhl", reason: "domain expired and hijacked; site dead" },
+  { domain: "milieugrotesque.com", name: "Milieu Grotesque", reason: "domain redirects to MyFonts; foundry site gone" },
+  { domain: "vllg.com", name: "Village", reason: "vllg.com permanently redirects to laborandwait.xyz; indexed separately as Labor and Wait" },
 ];
 
 export function getFoundryBySlug(slug: string): FoundryInfo | undefined {

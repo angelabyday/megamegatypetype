@@ -1,0 +1,1731 @@
+[
+  {
+    "name": "Aguzzo",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/aguzzo",
+    "designer": "Alessandro Butti",
+    "year": 1951,
+    "category": "serif",
+    "subcategory": "glyphic serif",
+    "classification_notes": "Aguzzo is rooted in Augustea, a display serif from Fonderie Nebiolo with sharp, incised letterforms characteristic of glyphic or lapidary serif traditions, drawing on inscriptional Roman letter forms.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Aguzzo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "glyphic",
+      "display",
+      "roman",
+      "historical",
+      "revival",
+      "incised",
+      "lapidary"
+    ],
+    "summary": "A digital revival of Augustea, the 1951 Fonderie Nebiolo display serif drawn by Alessandro Butti, reinterpreted from 36pt lead hotmetal forms.",
+    "description": "Based on Alessandro Butti's Augustea, originally cut for Fonderie Nebiolo in 1951, this revival draws directly from 36pt lead hotmetal sources. The typeface sits within the glyphic serif tradition, with sharply incised strokes that evoke inscriptional Roman letterforms. Well suited to display and headline use where classical authority and material texture are desirable.",
+    "foundry_blurb": "Displaay present Aguzzo as a typeface rooted in Augustea by Fonderie Nebiolo, designed by Alessandro Butti in 1951, sourced from 36pt lead hotmetal forms."
+  },
+  {
+    "name": "Avantt",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/avantt",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The page explicitly describes Avantt as operating within a geometric world with various proportions, and its visual character \u2014 circular forms, clean construction \u2014 aligns squarely with the geometric sans tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Avantt"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "variable",
+      "modernist",
+      "functional",
+      "clean",
+      "european",
+      "multweight"
+    ],
+    "summary": "A geometric sans in eight weights with matching italics, offered as a variable font across weight and slant axes.",
+    "description": "Avantt spans 16 styles from Thin to Heavy, each paired with an italic, drawing on a geometric construction that the foundry frames around mid-century European modernism \u2014 referencing buildings such as Villa M\u00fcller and Hotel Avion. A variable font with weight and slant axes gives the family additional flexibility for on-screen and motion applications. The proportions sit in conventional geometric sans territory without departing into novelty.",
+    "foundry_blurb": "Displaay describe Avantt as exploring various proportions within the geometric world, offering a collection of 8 weights and 16 styles alongside a variable font with weight and slant axes."
+  },
+  {
+    "name": "Azeret",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/azeret",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The typeface draws on OCR and technical display aesthetics, with a geometric construction and a variable Mono axis that shifts between proportional and monospaced letterforms, placing it firmly in the geometric sans category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Azeret",
+      "Azeret SemiMono",
+      "Azeret Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "mono",
+      "variable",
+      "technical",
+      "ocr-influenced",
+      "display",
+      "screen",
+      "digital"
+    ],
+    "summary": "A three-family collection spanning proportional, semi-mono and fully monospaced cuts, unified by a variable font with Weight, Slant and Mono axes.",
+    "description": "The Azeret collection comprises 48 styles across three families \u2014 Azeret, Azeret SemiMono and Azeret Mono \u2014 each sharing a geometric, technically inflected construction with clear OCR-era references. A variable font ties all three together via Weight, Slant and Mono axes, allowing smooth interpolation between proportional and monospaced spacing within a single file. The aesthetic draws on consumer electronics and digital display culture, making it well suited to tech interfaces, editorial design and screen-first applications.",
+    "foundry_blurb": "Displaay present Azeret as a collection of three families totalling 24 weights and 48 styles, available as a variable font with three axes \u2014 Weight, Slant and Mono \u2014 covering proportional, semi-mono and fully mono spacing in a single system."
+  },
+  {
+    "name": "Bagoss",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/bagoss",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Bagoss presents as a contemporary grotesque sans-serif available across three width variants; its clean, upright forms and range of weights place it squarely in the grotesque tradition without overt humanist or geometric tendencies.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Standard",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Bagoss Condensed",
+      "Bagoss Standard",
+      "Bagoss Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "variable",
+      "condensed",
+      "extended",
+      "multi-width",
+      "editorial",
+      "contemporary"
+    ],
+    "summary": "A grotesque sans in three width families \u2014 Condensed, Standard and Extended \u2014 spanning six weights each, with a three-axis variable font covering weight, slant and width.",
+    "description": "Thirty-six static styles across Condensed, Standard and Extended families give the collection considerable range for layout work requiring consistent type across different measures. Each family runs from Thin to Bold with matching italics, and the accompanying variable font exposes weight, slant and width axes for finer control. The name references Bag\u00f2ss, a saffron-tinged grana cheese from Bagolino in Lombardy, lending the collection a deliberate regional character without spelling it out in the letterforms.",
+    "foundry_blurb": "Displaay present Bagoss as a collection of three families \u2014 Condensed, Standard and Extended \u2014 totalling 18 weights and 36 styles, alongside a variable font with axes for weight, slant and width. The typeface takes its name from Bag\u00f2ss, a salty grana cheese from the Lombardy comune of Bagolino, coloured with local saffron."
+  },
+  {
+    "name": "Bagoss Condensed",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/bagoss/",
+    "designer": "Daniel Quisek",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "condensed high-contrast sans",
+    "classification_notes": "Displaay class Bagoss under sans / grotesque. Condensed is the narrowest of three width families inside the Bagoss Collection. Carries the same hint serif and high contrast, scaled to a tighter width.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "condensed"
+    ],
+    "subfamilies": [
+      "Bagoss Condensed",
+      "Bagoss Standard",
+      "Bagoss Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "high contrast",
+      "hint serif",
+      "fashion",
+      "editorial",
+      "headline"
+    ],
+    "summary": "The condensed width of Bagoss by Daniel Quisek, narrowed from the standard with the same hint serif and stroke contrast.",
+    "description": "The Condensed width of the Bagoss Collection by Daniel Quisek, the narrowest of three width families. Twelve styles run across six weights with matching italics, sharing the family's high contrast and tiny single-edge serif. The Bagoss Collection variable cut covers Weight, Slant and Width axes, so designers can move between Condensed, Standard and Extended in one file.",
+    "foundry_blurb": "Displaay describe Bagoss Condensed as the narrowest width inside the Bagoss Collection, sharing the family's high stroke contrast and tiny single-edge serif. The collection is designed by Daniel Quisek with spacing and kerning by Igino Marini, and pairs cursive forms unlocked through OpenType with three width subfamilies running from condensed to expanded."
+  },
+  {
+    "name": "Bagoss Extended",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/bagoss/",
+    "designer": "Daniel Quisek",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "extended high-contrast sans",
+    "classification_notes": "Displaay class Bagoss under sans / grotesque. Extended is the widest of three width families inside the Bagoss Collection. Carries the same hint serif and high contrast in a wider proportion.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "extended"
+    ],
+    "subfamilies": [
+      "Bagoss Condensed",
+      "Bagoss Standard",
+      "Bagoss Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "extended",
+      "wide",
+      "high contrast",
+      "hint serif",
+      "fashion",
+      "editorial"
+    ],
+    "summary": "The extended width of Bagoss by Daniel Quisek, the widest cut of the collection with the same hint serif and contrast.",
+    "description": "The Extended width of the Bagoss Collection by Daniel Quisek, the widest of three width families. Twelve styles run across six weights with matching italics, sharing the family's high contrast and tiny single-edge serif. Use it for posters, mastheads and identity work where wider proportions help the contrast read at scale.",
+    "foundry_blurb": "Displaay describe Bagoss Extended as the widest width inside the Bagoss Collection, sharing the family's high stroke contrast and tiny single-edge serif. The collection is designed by Daniel Quisek with spacing and kerning by Igino Marini, and the Extended cut completes the family alongside Standard and Condensed widths."
+  },
+  {
+    "name": "Bagoss Standard",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/bagoss/",
+    "designer": "Daniel Quisek",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "high-contrast sans with hint serif",
+    "classification_notes": "Displaay class Bagoss under sans / grotesque. The Bagoss Collection holds three width families: Condensed, Standard and Extended. Stroke contrast was raised over time and a tiny single-edge serif developed, with cursive forms unlocked via OpenType.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bagoss Condensed",
+      "Bagoss Standard",
+      "Bagoss Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "high contrast",
+      "hint serif",
+      "editorial",
+      "fashion",
+      "cursive opentype",
+      "variable"
+    ],
+    "summary": "The standard width of Bagoss by Daniel Quisek, a high-contrast sans with a tiny single-edge serif and optional cursive forms.",
+    "description": "The Standard width of the Bagoss Collection by Daniel Quisek, released February 2022. Twelve styles run across six weights with matching italics, and the wider Bagoss Collection extends into Condensed and Extended widths for a total of thirty-six styles, with a three-axis variable cut on Weight, Slant and Width. Stroke contrast was increased through the design and a tiny single-edge serif developed. Cursive forms are unlocked via OpenType features.",
+    "foundry_blurb": "Displaay say the original Bagoss sketch was a crude condensed sans-serif with a large x-height and diagonal terminals, and that as the typeface matured it gained higher stroke contrast and a tiny single-edge serif. Designed by Daniel Quisek with spacing and kerning by Igino Marini, the family grew into three subfamilies running from condensed to expanded widths, with cursive forms revealed through OpenType."
+  },
+  {
+    "name": "Booton",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/booton",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described explicitly as a Franklin Gothic for the digital age, Booton is a grotesque sans designed with uniwidth duplexed metrics and a focus on screen and UI environments.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Booton"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "uniwidth",
+      "duplexed",
+      "digital",
+      "ui",
+      "screen",
+      "variable",
+      "franklin-gothic-lineage"
+    ],
+    "summary": "A uniwidth grotesque with Franklin Gothic lineage, built for screen interfaces with equal-width metrics across all 8 weights.",
+    "description": "Booton is a duplexed grotesque in which every weight shares identical character widths, preventing layout reflow when weight changes at the interface level. The family spans 8 weights from Thin to Heavy with matching italics, totalling 16 styles, and is also available as a variable font with weight and slant axes. Displaay position it explicitly as a Franklin Gothic adapted for contemporary digital and UI contexts.",
+    "foundry_blurb": "Displaay describe Booton as a Franklin Gothic for the digital age, built as a uniwidth, duplexed grotesque with equal character widths across all weights. The collection offers 8 weights and 16 styles plus a variable font with weight and slant axes, tailored for digital environments from display to text sizes and UI/UX contexts."
+  },
+  {
+    "name": "Concrette",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/concrette",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Concrette is a sans-serif with a brutalist aesthetic and geometric underpinning, drawing on Roman capital proportions and raw concrete architecture as its conceptual framework. The three contrast variants (S, M, XL) suggest a family spanning text to display use without moving into slab or serif territory.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "S",
+      "M",
+      "XL"
+    ],
+    "subfamilies": [
+      "Concrette S",
+      "Concrette M",
+      "Concrette XL"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "brutalist",
+      "geometric",
+      "grotesque",
+      "display",
+      "editorial",
+      "variable",
+      "contrast",
+      "architectural"
+    ],
+    "summary": "A brutalist-themed sans-serif collection from Displaay, structured around three contrast grades and eight weights with variable font support across two axes.",
+    "description": "Concrette organises 48 styles across three families distinguished by contrast level: S for running text, M for mid-scale use and XL for headline work. Each family runs eight weights from Thin to Heavy with matching italics, and the variable font allows continuous interpolation along weight and contrast axes. The brutalist framing, referencing raw concrete and Roman capital construction, gives the family a clear visual identity suited to editorial and architectural branding contexts.",
+    "foundry_blurb": "Displaay position Concrette as a three-family, 48-style collection built around three contrast grades (S, M, XL) and a variable font with weight and contrast axes. The typeface draws on brutalist architecture and Roman capitals as its conceptual foundation, framing it as a solid, structural choice for ambitious typographic work."
+  },
+  {
+    "name": "Coolkit",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/coolkit",
+    "designer": null,
+    "year": 2022,
+    "category": "display",
+    "subcategory": "outline display",
+    "classification_notes": "Coolkit builds weight through its outline rather than filled strokes, placing it firmly in display territory as an outline or contour-style typeface designed for impact at large sizes.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Coolkit"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "outline",
+      "display",
+      "experimental",
+      "academic",
+      "contour",
+      "decorative"
+    ],
+    "summary": "An outline display typeface that builds visual weight through its contour strokes rather than filled letterforms, originating as a student project at UMPRUM Prague in 2022.",
+    "description": "Designed during a three-week semester project at UMPRUM, the Academy of Arts, Architecture and Design in Prague, Coolkit takes an unconventional approach to weight by constructing it through the outline rather than a solid fill. The core concept survived refinement intact, though every curve was reworked before release. Its character makes it best suited to headlines, posters and contexts where a distinctive drawn quality is the point.",
+    "foundry_blurb": "Coolkit debuted in January 2022, originating as a three-week semester project at UMPRUM in Prague. While every curve was refined after the initial concept, the central idea remained unchanged: building typographic weight through the outline itself."
+  },
+  {
+    "name": "Coxx",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/coxx",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric sans",
+    "classification_notes": "Coxx is a display-oriented geometric sans with a rave and techno aesthetic, described as 'Preissig on coke at a rave party', suggesting a modernist geometric lineage pushed into subcultural display territory. The GAPS variant with its open counters reinforces its display character.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Coxx",
+      "Coxx GAPS"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "techno",
+      "rave",
+      "variable",
+      "club",
+      "editorial",
+      "counterculture"
+    ],
+    "summary": "A geometric display sans in two subfamilies, one standard and one with open-counter GAPS cuts, built around a techno and rave-club aesthetic with a variable font axis spanning weight.",
+    "description": "The collection spans 14 styles across Coxx and Coxx GAPS, with seven weights each running from Thin to Heavy. A variable font with weight and GAPS axes gives designers control over stroke thickness and counter aperture simultaneously. The framing draws explicitly on rave culture and Czech modernist type heritage, positioning the family for music, nightlife and counterculture applications.",
+    "foundry_blurb": "Displaay describe Coxx as 'Preissig on coke at a rave party', framing it as a 14-style collection across two families with a variable font offering weight and GAPS axes, designed for the energy and aesthetic of techno and house club culture."
+  },
+  {
+    "name": "Dazzed",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/dazzed",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The specimen imagery and terminology \u2014 digital circuitry, binary numerals, tech references \u2014 alongside the clean, structured forms visible in the showcase point to a geometric sans with a tech-inflected character.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dazzed"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "tech",
+      "digital",
+      "variable",
+      "display",
+      "modern",
+      "editorial"
+    ],
+    "summary": "A seven-weight geometric sans from Displaay with a distinct digital and tech-inflected character, available as a variable font across weight and slant axes.",
+    "description": "Fourteen styles span seven weights from Thin to Heavy, each with a matching italic, and the family ships as a variable font with weight and slant axes for fine-grained control. The specimen leans heavily into digital culture \u2014 binary numerals, circuit diagrams, command-line references \u2014 suggesting a typeface aimed at tech branding, music culture and screen-forward editorial work. The forms are clean and structured without being purely neutral, carrying enough personality for display use while holding together at text sizes.",
+    "foundry_blurb": "Displaay present Dazzed as a 14-style collection spanning 7 weights, framed around digital and electronic culture. They describe it as a variable font with weight and slant axes, evoking themes of computation, circuitry and modern digital life \u2014 a \"new brontosaurus in a modern digital world\"."
+  },
+  {
+    "name": "Denim",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/denim",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Denim presents as a contemporary grotesque sans-serif with flattened overshoots and variable axes for weight, slant and width, characteristic of a workhorse grotesque family with display ambitions.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Denim",
+      "Denim WD",
+      "Denim INK",
+      "Denim INK WD"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "variable",
+      "wide",
+      "fashion",
+      "display",
+      "text",
+      "contemporary"
+    ],
+    "summary": "A four-family grotesque collection spanning 24 weights and 48 styles, with variable axes for weight, slant and width, and coverage across Latin, Cyrillic and Greek scripts.",
+    "description": "Denim is a grotesque sans-serif collection comprising four families: Denim, Denim WD, Denim INK and Denim INK WD, each offered in six weights with matching italics. A variable font with weight, slant and width axes underpins the collection, which is notable for flattened overshoots that give it a consistent optical evenness across sizes. The wide variants (WD) extend the family's range for headline and fashion-adjacent work, while Latin, Cyrillic and Greek coverage makes it suitable for multilingual publishing.",
+    "foundry_blurb": "Displaay present Denim as a collection of four families totalling 24 weights and 48 styles, built around a variable font with three axes: weight, slant and width. The family features flattened overshoots described as suiting any occasion, and includes standard and wide widths alongside an INK variant, covering Latin, Cyrillic and Greek scripts."
+  },
+  {
+    "name": "Documan",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/documan",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "typewriter",
+    "classification_notes": "Described explicitly as a proportional typewriter tool with semi-rounded forms; the three subfamilies (Standard, CNT, STC) all share typewriter DNA, and the aesthetic is rooted in office document culture rather than code or technical mono conventions.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Documan",
+      "Documan CNT",
+      "Documan STC"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "typewriter",
+      "semi-rounded",
+      "document",
+      "office",
+      "proportional",
+      "variable",
+      "bureaucratic",
+      "functional"
+    ],
+    "summary": "A semi-rounded proportional typewriter family in three subfamilies and 27 styles, built around an office-document aesthetic and offered as a variable font across a single weight axis.",
+    "description": "Rooted in the visual language of bureaucratic paperwork, the collection spans three subfamilies \u2014 Documan, Documan CNT and Documan STC \u2014 each running nine styles from Thin to Heavy. The semi-rounded forms soften the machine-stamped quality typical of typewriter faces, giving it a degree of warmth without losing the deadpan, clerical character that drives its identity. A single-axis variable font is included, covering the full weight range in one file.",
+    "foundry_blurb": "Displaay describe Documan as a semi-rounded proportional typewriter tool, comprising a collection of three families across 27 weights and 27 styles, with a variable font offering a weight axis."
+  },
+  {
+    "name": "Fellix",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/fellix",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Fellix is built on pure geometry with straight terminals and smooth connections, placing it firmly in the geometric sans tradition. The foundry explicitly invokes the Futura legacy, reinforcing this classification.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fellix"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "futura-lineage",
+      "variable",
+      "straight-terminals",
+      "modern",
+      "editorial",
+      "clean"
+    ],
+    "summary": "A geometric sans in 8 weights and 16 styles, built on pure geometry with straight terminals and a variable font spanning weight and slant axes.",
+    "description": "Fellix draws from the Futura lineage, using pure geometric construction with straight terminals and smooth stroke connections throughout. The family runs from Thin to Black with matching italics across all weights, and a variable font covers both weight and slant axes for flexible use. Its clean, precise character suits editorial, branding and digital applications where a contemporary geometric sans is needed.",
+    "foundry_blurb": "Displaay describe Fellix as pure geometry with straight terminals and smooth connections, positioning it within the Futura legacy. The collection comprises 8 weights and 16 styles, with a variable font offering weight and slant axes."
+  },
+  {
+    "name": "Fenul",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/fenul",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Fenul presents as a geometric sans with a structured, modular character visible across its compressed and condensed widths. The proportional, semi-mono and mono variants suggest a system designed for technical and editorial versatility.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Standard"
+    ],
+    "subfamilies": [
+      "Fenul Compressed",
+      "Fenul Condensed",
+      "Fenul Standard"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "condensed",
+      "variable",
+      "editorial",
+      "modular",
+      "semi-mono",
+      "mono",
+      "system"
+    ],
+    "summary": "A three-family sans collection spanning compressed through standard widths, with proportional, semi-mono and mono variants across 48 styles and a three-axis variable font.",
+    "description": "Fenul is a large-scale type system from Displaay offering 24 weights across 48 styles in three width families: Compressed, Condensed and Standard. Each family runs from Thin to Heavy with matching italics, and the system accommodates two x-height options alongside proportional, semi-mono and mono spacing variants. A variable font with weight, slant and width axes covers the full range in a single file, making the collection practical for complex editorial and interface work.",
+    "foundry_blurb": "Displaay present Fenul as a collection of three families and 24 weights across 48 styles, structured around three designs (Proportional, SemiMono and Mono) and two x-heights (Standard and XL). The family is available as a variable font with three axes: Weight, Slant and Width."
+  },
+  {
+    "name": "Gellix",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/gellix",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The foundry describes Gellix as built on pure geometry with straight terminals and smooth connections, placing it squarely in the geometric sans-serif tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gellix"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "clean",
+      "variable",
+      "modern",
+      "neutral",
+      "corporate"
+    ],
+    "summary": "A geometric sans-serif in 8 weights with matching italics, built around straight terminals and smooth stroke connections, available as a variable font with weight and slant axes.",
+    "description": "Gellix offers 16 styles across 8 weights from Thin to Black, each paired with an italic, all drawn from a geometric framework that prioritises straight terminals and fluid joins rather than optical correction. The variable font supports two axes, weight and slant, giving designers continuous control across the range. It sits comfortably in editorial, branding and interface work where clean geometry is preferred over humanist warmth.",
+    "foundry_blurb": "Displaay describe Gellix as a collection of 16 styles defined by pure geometry, straight terminals and smooth connections, available as a variable font with weight and slant axes spanning 8 weights from Thin to Black."
+  },
+  {
+    "name": "Greed",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/greed",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "grotesque",
+    "classification_notes": "Greed is a wide-ranging display grotesque with five distinct width variants and a strong rave and club-culture visual identity, positioning it firmly as a display typeface despite functional text weights.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Narrow",
+      "Standard",
+      "Wide",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Greed Condensed",
+      "Greed Narrow",
+      "Greed Standard",
+      "Greed Wide",
+      "Greed Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "grotesque",
+      "variable",
+      "rave",
+      "club",
+      "editorial",
+      "wide-family",
+      "contemporary"
+    ],
+    "summary": "A five-width grotesque collection from Displaay, spanning 30 weights and 60 styles with a variable font offering weight, slant and width axes, pitched squarely at rave and club-culture aesthetics.",
+    "description": "Greed comes in five subfamilies running from Condensed to Extended, each offering six weights from Light to Heavy with matching italics, for a total of 60 static styles. A variable font with three axes \u2014 weight, slant and width \u2014 gives further flexibility across the full range. The branding and specimen work is steeped in 1990s UK rave imagery, making it a pointed choice for music, nightlife and counterculture-adjacent projects.",
+    "foundry_blurb": "Displaay present Greed as a collection of five families and 30 weights across 60 styles, available in five widths \u2014 Condensed, Narrow, Standard, Wide and Extended \u2014 with a variable font offering weight, slant and width axes. The typeface is demonstrated extensively through rave and dance music imagery, referencing house music culture and club aesthetics."
+  },
+  {
+    "name": "Haffer",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/haffer",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Haffer presents as a geometric sans-serif with a clean, contemporary structure. The collection spans proportional, semi-mono and mono subfamilies, all sharing the same underlying geometric character.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "XH"
+    ],
+    "subfamilies": [
+      "Haffer",
+      "Haffer SemiMono",
+      "Haffer Mono",
+      "Haffer XH",
+      "Haffer XH SemiMono",
+      "Haffer XH Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "variable",
+      "mono",
+      "semimono",
+      "multilingual",
+      "contemporary",
+      "collection"
+    ],
+    "summary": "A six-family collection spanning proportional, semi-mono and mono variants across two x-heights, totalling 96 styles with a four-axis variable font.",
+    "description": "The Haffer Collection comprises three structural designs \u2014 Proportional, SemiMono and Mono \u2014 each available in a standard and an extended x-height (XH) variant, yielding six discrete families and 96 styles in total. Each family runs eight weights from Thin to Black with matching italics, and the variable font exposes axes for weight, slant, mono interpolation and x-height. Multilingual support covers Latin, Greek and Cyrillic with 1,132 characters per style.",
+    "foundry_blurb": "Displaay describe the Haffer Collection as comprising six families, 48 weights and 96 styles built around three design approaches \u2014 Proportional, SemiMono and Mono \u2014 combined with two x-height options, Standard and XL. The collection ships as a four-axis variable font covering weight, slant, mono and x-height, with 1,132 characters and coverage of Latin, Greek and Cyrillic scripts."
+  },
+  {
+    "name": "Hellix",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/hellix",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Displaay describe Hellix as built on pure geometry with open terminals and sharp connections, placing it firmly in the geometric sans tradition alongside its variable font axes for weight and slant.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hellix"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "variable",
+      "editorial",
+      "modern",
+      "clean",
+      "sharp"
+    ],
+    "summary": "A geometric sans built on pure geometry with open terminals and sharp stroke connections, available in eight weights with matching italics and a variable font across weight and slant axes.",
+    "description": "Hellix runs sixteen styles across eight weights from Thin to Black, each with a paired italic. The design is anchored in pure geometric construction with open terminals and sharp junctions, giving it a crisp, modern character suited to editorial and branding contexts. A variable font with weight and slant axes rounds out the collection.",
+    "foundry_blurb": "Displaay present Hellix as a geometric sans defined by pure geometry, open terminals and sharp connections. The collection spans 8 weights and 16 styles, with a variable font offering weight and slant axes for flexible use."
+  },
+  {
+    "name": "Jokker",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/jokker",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described by the foundry as a 'Strange Grotesque', Jokker follows the broad tradition of gothic and grotesk sans-serifs with an eccentric, characterful edge suited to display use.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Jokker"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "gothic",
+      "display",
+      "variable",
+      "expressive",
+      "eccentric",
+      "editorial"
+    ],
+    "summary": "A seven-weight grotesque with a self-consciously odd personality, available as a variable font with weight and slant axes.",
+    "description": "Jokker spans 14 styles across seven weights from Thin to Heavy, each with a matching italic, and ships as a variable font with weight and slant axes. The foundry bills it as a 'Strange Grotesque', signalling a deliberate departure from neutral utility towards something more characterful and display-oriented. Its card-sharp promotional framing and chaotic specimen imagery suggest it is aimed at branding, editorial and cultural projects that want a grotesque with some edge.",
+    "foundry_blurb": "Displaay describe Jokker as a Strange Grotesque \u2014 seriously, no joke \u2014 comprising one family of 14 styles across seven weights, with a variable font offering weight and slant axes."
+  },
+  {
+    "name": "Lazzer",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/lazzer",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The specimen imagery and digital/tech-themed copywriting suggest a clean, geometric sans-serif construction. The display usage and variable weight axis reinforce a modern geometric classification.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lazzer"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "variable",
+      "digital",
+      "tech",
+      "display",
+      "modern"
+    ],
+    "summary": "A seven-weight geometric sans with variable font support across weight and slant axes, aimed at digital and tech-inflected design work.",
+    "description": "Fourteen styles across seven weights from Thin to Heavy, each with a matching italic, make up the Lazzer family. A variable font with weight and slant axes gives further control between named instances. The specimen leans heavily on digital and programming imagery, positioning the typeface for tech, UI and editorial contexts where a clean geometric voice is needed.",
+    "foundry_blurb": "Displaay describe Lazzer as a collection of 14 styles across 7 weights, available as a variable font with two axes: weight and slant. The specimen draws on digital and programming culture references to frame its intended territory."
+  },
+  {
+    "name": "Matter",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/matter",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Matter is a geometric sans-serif with three spacing variants \u2014 proportional, semi-mono and mono \u2014 and two x-height options, placing it firmly in the geometric sans tradition with functional, systematic design logic.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "XH"
+    ],
+    "subfamilies": [
+      "Matter",
+      "Matter SemiMono",
+      "Matter Mono",
+      "Matter XH",
+      "Matter XH SemiMono",
+      "Matter XH Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "systematic",
+      "variable",
+      "multi-width",
+      "ui",
+      "editorial",
+      "neutral",
+      "functional"
+    ],
+    "summary": "A systematic geometric sans in six families across three spacing variants and two x-heights, totalling 96 styles with a four-axis variable font.",
+    "description": "Matter is structured around a matrix of decisions: proportional, semi-mono or mono spacing, paired with a standard or extra-large x-height, producing six discrete families at eight weights each with italics throughout. The variable font exposes four axes \u2014 weight, slant, mono and x-height \u2014 allowing continuous interpolation across the entire system. The Latin, Cyrillic and Greek coverage, combined with the mono variant, makes it as suited to interface and code contexts as to editorial and branding work.",
+    "foundry_blurb": "Displaay describe Matter as a collection of six families, 48 weights and 96 styles built around three spacing designs \u2014 Proportional, SemiMono and Mono \u2014 and two x-height variants, Standard and XL. The collection ships as a four-axis variable font with axes for weight, slant, mono and x-height."
+  },
+  {
+    "name": "Ofform",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/ofform",
+    "designer": "Marek Such\u00e1nek, Krist\u00edna Jandov\u00e1, Martin V\u00e1cha",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "modular display",
+    "classification_notes": "A grid-based modular typeface built on a 7\u00d75 grid with uniform cap and x-heights, designed for sci-fi and futuristic applications. Its geometric, constructed letterforms place it firmly in the display category with a modular subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ofform"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "scifi",
+      "geometric",
+      "cyberpunk",
+      "display",
+      "grid-based",
+      "futuristic"
+    ],
+    "summary": "A modular display typeface built on a 7\u00d75 grid, originating from lettering inspired by folded textile fabric for a 3D fashion brand.",
+    "description": "Designed by Marek Such\u00e1nek, Krist\u00edna Jandov\u00e1 and Martin V\u00e1cha and first sketched in November 2019, the typeface uses a strict 7\u00d75 grid with equal uppercase and lowercase heights, punctuated by thin contrast strokes in select glyphs and diacritics. The family spans just two styles, Regular and Italic, supported by eight stylistic sets and a variable slant axis. Its visual language is oriented towards sci-fi, technology and cyberpunk contexts.",
+    "foundry_blurb": "Displaay describe Ofform as originating from a word-mark project for fashion brand Ofform 3D, where the lettering was inspired by folding strips of textile fabric. The typeface is built primarily on a 7\u00d75 grid with matching uppercase and lowercase heights, reflecting future times, sci-fi, technology and modularity, with thin contrast lines appearing in certain glyphs and diacritics."
+  },
+  {
+    "name": "Panell",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/panell",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The page content does not provide sufficient detail about Panell itself, but the Displaay foundry is known for geometric and display-oriented sans-serifs; classified provisionally as geometric sans based on foundry context.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Panell"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "sans-serif",
+      "contemporary"
+    ],
+    "summary": "A typeface from Displaay Type Foundry with insufficient page data to draw detailed conclusions about its design.",
+    "description": "The scraped page content relates entirely to a 1965 Eurostile specimen catalogue and provides no usable information about Panell itself. As a result, specific details about weights, styles, language support and design intent cannot be determined from the available source. Further information would be needed to assess this typeface properly.",
+    "foundry_blurb": "No foundry copy about Panell was present in the scraped page content; the page appeared to display a reference to a 1965 Eurostile type specimen catalogue rather than product information for Panell."
+  },
+  {
+    "name": "Perfektta",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/perfektta",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "condensed grotesque",
+    "classification_notes": "Described explicitly as a narrow sans-serif typeface with grotesque characteristics; the tight proportions and geometric construction place it firmly in the condensed grotesque subcategory.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Perfektta"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "narrow",
+      "condensed",
+      "grotesque",
+      "signage",
+      "wayfinding",
+      "variable",
+      "italic",
+      "sans-serif"
+    ],
+    "summary": "A narrow grotesque with eight weights and matching italics, built around a variable font with weight and slant axes, drawing visual inspiration from Italian road signage.",
+    "description": "Perfektta is a condensed sans-serif in sixteen styles running from Thin to Black with full italic companions. The variable font offers two axes \u2014 weight and slant \u2014 giving designers continuous control across the range. Its showcase imagery leans heavily on Italian traffic signs and road typography, suggesting a design language rooted in functional wayfinding rather than editorial refinement.",
+    "foundry_blurb": "Displaay frame Perfektta as a collection of eight weights and sixteen styles built around a love of imperfection, positioning it as a narrow sans-serif that moves 'from zero to alphabet' with a variable font offering weight and slant axes."
+  },
+  {
+    "name": "Post",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/post",
+    "designer": "Viktor",
+    "year": 2022,
+    "category": "mono",
+    "subcategory": "monospaced serif",
+    "classification_notes": "Post originates from a glitched interpretation of Courier, a classic monospaced serif typeface; its pixel-derived stroke variation and retained readability at small sizes place it squarely in the monospaced serif category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Post"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "courier-inspired",
+      "glitch",
+      "pixel",
+      "readable",
+      "experimental"
+    ],
+    "summary": "A monospaced serif rooted in a glitched Courier, with stroke variation derived from poorly placed pixels that nonetheless holds up at small sizes.",
+    "description": "Post began as an experimental interpretation of Courier where the stroke variation was determined entirely by pixel misalignment rather than calligraphic convention. Despite its glitch-derived aesthetic, the typeface remains legible at smaller sizes, a property that prompted further research into readability by its designer Viktor. The result sits between expressive pixel-era distortion and functional text use.",
+    "foundry_blurb": "Displaay describe Post as originating from a strangely authentic, glitched-out interpretation of Courier, with stroke variation based solely on poorly placed pixels. Despite this unconventional approach, the typeface remained readable at small sizes, which led designer Viktor to pursue separate research into readability. First sketches date to 2022."
+  },
+  {
+    "name": "Reckless",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/reckless",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Reckless takes traditional serif typefaces such as Times as its starting point, reworking their inconsistencies into a more systematic form, placing it within the transitional serif tradition with a contemporary critical lens.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Reckless"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "transitional",
+      "editorial",
+      "contemporary",
+      "systematic",
+      "text"
+    ],
+    "summary": "A serif that questions the inherited inconsistencies of typefaces like Times, applying a more unified logic to letterform construction.",
+    "description": "Starting from the divergent bottom strokes found in letters such as 'a', 'd' and 'u' in Times and similar traditional serifs, Reckless asks why those forms differ and resolves them into a consistent shape. The result is a serif with classical proportions reread through a more analytical, rule-driven approach. It suits editorial and text contexts where a contemporary take on the traditional serif is preferred.",
+    "foundry_blurb": "Displaay describe Reckless as emerging from a close study of letter inconsistencies in Times and other traditional serifs, particularly the differing bottom forms in letters like 'a', 'd' and 'u'. The designer questioned why those shapes were designed differently and chose instead to give them a consistent, unified form."
+  },
+  {
+    "name": "Reckless Collection",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/reckless/",
+    "designer": "Martin Vacha",
+    "year": 2014,
+    "category": "serif",
+    "subcategory": "renaissance old-style with calligraphic terminals",
+    "classification_notes": "Displaay describes Reckless as a serif typeface with a renaissance (old-style) character and a notably raised x-height, drawing from calligraphic influences in early serif designs. The current Reckless Collection replaces the legacy Reckless and Reckless Neue with nine sub-families: three widths (Condensed, Standard, Wide) by three contrasts (S, M, XL).",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed S",
+      "Standard S",
+      "Wide S",
+      "Condensed M",
+      "Standard M",
+      "Wide M",
+      "Condensed XL",
+      "Standard XL",
+      "Wide XL"
+    ],
+    "subfamilies": [
+      "Reckless Condensed S",
+      "Reckless Standard S",
+      "Reckless Wide S",
+      "Reckless Condensed M",
+      "Reckless Standard M",
+      "Reckless Wide M",
+      "Reckless Condensed XL",
+      "Reckless Standard XL",
+      "Reckless Wide XL"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "old-style",
+      "renaissance",
+      "calligraphic terminals",
+      "high x-height",
+      "widths",
+      "contrast levels",
+      "editorial",
+      "fashion",
+      "variable"
+    ],
+    "summary": "A nine-family renaissance serif system by Martin Vacha, with three widths and three contrast levels totalling 72 weights and 144 styles.",
+    "description": "A renaissance old-style serif system by Martin Vacha, first sketched in September 2012 during a UAL London internship in the Monotype archives, released in June 2014 and consolidated as the Reckless Collection in February 2026 (version 3.002). The collection runs to 9 families across three widths (Condensed, Standard, Wide) and three contrasts (S for small text with thick serifs and lower contrast, M for medium sizes, XL for large display). Total range is 72 weights and 144 styles, with a three-axis variable font covering Weight, Contrast and Width. Calligraphic terminals on a, f, j, r, C, c, G, S and s give it its character, with consistent bottoms across a, d and u that resolve the inconsistencies Vacha noticed in Times. Language support covers Latin and Central European plus Vietnamese, Greek and Cyrillic. Note that the legacy Reckless and Reckless Neue have been retired and replaced by this collection.",
+    "foundry_blurb": "Displaay describe Reckless as a serif with renaissance (old-style) character and a notably raised x-height, designed by Martin Vacha with assistance from Daniel Quisek and Marek Cuban, spacing and kerning by Igino Marini, and language expansion by Ilja Bazhanov, Irene Vlachou and Tuan Vuong. They cite Bembo's calligraphy terminals, Plantin's a detail, the De Vinne Series specimen book from Barnhart Brothers and Spindler (1907) and Gerrit Dou's Scholar Sharpening His Quill (1635) as direct sources."
+  },
+  {
+    "name": "Roobert",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/roobert",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Roobert is a geometric sans-serif with friendly, rounded characteristics typical of the genre, positioned for both display and text use.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Roobert"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "friendly",
+      "contemporary",
+      "versatile",
+      "branding"
+    ],
+    "summary": "A geometric sans from Displaay Type Foundry with broad language coverage and a friendly, contemporary character.",
+    "description": "Roobert is a geometric sans-serif designed for both display and text settings, with open apertures and a warm disposition that keeps it readable across sizes. The family covers Latin, Cyrillic and Greek scripts, making it a practical choice for multilingual projects. Its clean construction suits branding and interface work without veering into the severity of stricter geometric designs.",
+    "foundry_blurb": "Displaay present Roobert as a geometric sans with wide script support including Latin, Cyrillic and Greek, designed to work across display and text applications with a friendly and contemporary voice."
+  },
+  {
+    "name": "Saans",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/saans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The foundry positions Saans explicitly as neutral and universal, with descriptors like 'Average, Basic, Common, Default, Grotesk' pointing firmly to the grotesque sans-serif tradition. The collection spans proportional, semi-mono and mono subfamilies.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Saans",
+      "Saans SemiMono",
+      "Saans Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "neutral",
+      "swiss",
+      "variable",
+      "mono",
+      "ui",
+      "functional",
+      "grotesk"
+    ],
+    "summary": "A three-family grotesque collection spanning proportional, semi-mono and mono cuts, built around deliberate neutrality and a variable font axis covering weight, slant and mono.",
+    "description": "The Saans collection comprises 36 styles across three related families: the proportional Saans, the transitional Saans SemiMono and the fully spaced Saans Mono. All three share six weights from Light to Heavy with matching italics, and the variable font exposes weight, slant and mono axes for fluid interpolation across the range. The foundry's framing leans heavily on intentional genericness, positioning the typeface as a Swiss-inflected default for UI and editorial contexts where invisibility is the goal.",
+    "foundry_blurb": "Displaay describe Saans as a neutral, universal grotesque, framing it with words like Average, Basic, Common, Default and Pedestrian. The collection spans three families and 36 styles, with a three-axis variable font covering weight, slant and mono, presented as the typographic equivalent of a system default."
+  },
+  {
+    "name": "Season",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/season",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The collection spans three subfamilies \u2014 Sans, Mix and Serif \u2014 with a variable axis controlling serif presence (SERF), placing the core family in a humanist sans tradition that morphs toward serif territory via interpolation rather than discrete cuts.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Season Sans",
+      "Season Mix",
+      "Season Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "serif-axis",
+      "editorial",
+      "contemporary",
+      "multi-family",
+      "magazine",
+      "versatile"
+    ],
+    "summary": "A three-family variable collection from Displaay that spans sans, hybrid and serif styles across a single interpolation space, offering 36 styles in 18 weights.",
+    "description": "Season ships as three related families \u2014 Sans, Mix and Serif \u2014 each in six weights with matching italics, totalling 36 static styles. A variable font ties them together across three axes: Weight, Slant and SERF, the last of which controls the degree of seriffing and allows continuous movement between the sans and serif extremes. The result is a system suited to editorial and brand work where a single type family needs to carry both text and display roles without switching typefaces.",
+    "foundry_blurb": "Displaay describe Season as a collection of three families \u2014 Sans, Mix and Serif \u2014 comprising 18 weights and 36 styles, available as a variable font with Weight, Slant and SERF axes, the SERF axis enabling continuous stylistic movement across all three classifications."
+  },
+  {
+    "name": "Serrif",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/serrif",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "scotch roman",
+    "classification_notes": "The page explicitly roots Serrif in the Scotch Roman tradition, a class of early nineteenth-century serif typefaces modelled on William Miller's Edinburgh foundry designs, characterised by high contrast and a rational, upright structure.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Standard"
+    ],
+    "subfamilies": [
+      "Serrif Compressed",
+      "Serrif Condensed",
+      "Serrif",
+      "Serrif Mono Compressed",
+      "Serrif Mono Condensed",
+      "Serrif Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "scotch-roman",
+      "serif",
+      "variable",
+      "mono",
+      "condensed",
+      "compressed",
+      "editorial",
+      "neutral"
+    ],
+    "summary": "A Scotch Roman-rooted serif collection spanning six families and 84 styles, with proportional and monospaced cuts across compressed, condensed and standard widths, all available as variable fonts.",
+    "description": "Built on the Scotch Roman tradition traced back to William Miller's Edinburgh foundry and Richard Austin's punchcutting, the collection frames that nineteenth-century heritage through a deliberately plain, almost anti-expressive contemporary lens. Six families cover proportional and monospaced variants at three widths, each running seven weights with matching italics and three variable axes for weight, slant and width. The deadpan naming convention \u2014 Average, Basic, Common, Default, Normal \u2014 reads as a pointed comment on the neutrality that type designers often claim for their serifs.",
+    "foundry_blurb": "Displaay present Serrif as a collection of six families totalling 42 weights and 84 styles, grounding the design in the Scotch Roman class of typefaces popular in the early nineteenth century, particularly in the United States, and tracing its lineage to William Miller's Edinburgh foundry and the punchcutter Richard Austin. The collection is available as variable fonts with axes for weight, slant and width."
+  },
+  {
+    "name": "Teodor",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/teodor",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "neo-classical serif",
+    "classification_notes": "Displaay describe it as a Romantic Modern Neo-Classical Serif, placing it in the tradition of high-contrast classical serifs with a romantic sensibility rather than strict rationalist construction.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Teodor"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-classical",
+      "romantic",
+      "high-contrast",
+      "editorial",
+      "fashion",
+      "variable",
+      "serif",
+      "display"
+    ],
+    "summary": "A neo-classical serif with romantic character, offered in eight weights with matching italics and a variable font spanning weight and slant axes.",
+    "description": "Framed around Romantic movement references and Spanish art history, this high-contrast serif sits comfortably in editorial, fashion and cultural publishing contexts. Sixteen static styles run from Thin to Heavy with full italic companions, and the variable font exposes weight and slant axes for fluid typographic control. The display-oriented proportions and contrast ratios make it better suited to large sizes than continuous text.",
+    "foundry_blurb": "Displaay position Teodor as a Romantic Modern Neo-Classical Serif, presenting it as a collection of 8 weights and 16 styles with a variable font offering weight and slant axes, framed around references to Vel\u00e1zquez, Romanticism and Spanish Surrealism."
+  },
+  {
+    "name": "Tobias",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/tobias",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The page explicitly describes Tobias as sitting between Baroque and Transitional, with a direct reference to Times as its tonal touchstone, placing it firmly in the transitional serif tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tobias"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "baroque",
+      "serif",
+      "editorial",
+      "books",
+      "newspapers",
+      "variable",
+      "text"
+    ],
+    "summary": "A transitional serif in the Times lineage, spanning eight weights with matching italics and a two-axis variable font covering weight and slant.",
+    "description": "Tobias sits between Baroque and Transitional in character, taking Times as its primary reference while adding enough contrast and sharpness to work across editorial, book and newspaper contexts. The family runs to 16 styles across eight weights from Thin to Heavy, each with a corresponding italic. A variable font with weight and slant axes allows fine-grained control across the range.",
+    "foundry_blurb": "Displaay describe Tobias as a collection of 8 weights and 16 styles with a Baroque and Transitional take on Times, offered as a variable font with weight and slant axes, suited to newspapers and books with a decorative transitional vibe."
+  },
+  {
+    "name": "Wallop",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/wallop",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The page references Johnston's Underground and Gill as lineage, placing Wallop squarely in the British humanist sans tradition with a sharp, contemporary cut alongside the standard forms.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Wallop"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "variable",
+      "club-culture",
+      "editorial",
+      "music",
+      "british-lineage",
+      "disco",
+      "display"
+    ],
+    "summary": "A 14-style humanist sans drawing on the Johnston and Gill lineage, packaged as a variable font with weight and slant axes and styled around club and disco culture.",
+    "description": "Wallop positions itself in the British humanist sans tradition, citing Johnston's Underground and Gill as reference points, and extends that lineage into a seven-weight family with matching italics. A variable font with weight and slant axes runs across all 14 styles, giving designers continuous control between the extremes. The visual identity leans heavily into disco and nightlife references, making it a natural fit for music, events and culture-facing work.",
+    "foundry_blurb": "Displaay present Wallop as a collection of 14 styles across 7 weights, tracing its roots from Johnston's Underground to Gill, and position it as a variable font with weight and slant axes suited to club culture and disco-era visual language."
+  },
+  {
+    "name": "Yellix",
+    "foundry": "Displaay Type Foundry",
+    "url": "https://displaay.net/typeface/yellix",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as built on pure geometry with straight terminals and smooth connections, placing it firmly in the geometric sans-serif tradition with a contemporary, clean character.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Yellix"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modern",
+      "variable",
+      "clean",
+      "editorial",
+      "display",
+      "straight-terminals"
+    ],
+    "summary": "A geometric sans built on pure geometry with straight terminals, offered in eight weights with italics and a two-axis variable font spanning weight and slant.",
+    "description": "Sixteen styles cover Thin through Black with matching italics, all shaped by consistent geometric construction and straight-cut terminals that give the family a precise, contemporary edge. A variable font with weight and slant axes allows fluid interpolation across the range. The overall character suits editorial, branding and display work where a clean, modern geometric sans is required.",
+    "foundry_blurb": "Displaay describe Yellix as pure geometry with straight terminals and smooth connections, comprising 8 weights and 16 styles with a variable font offering two axes: weight and slant."
+  }
+]

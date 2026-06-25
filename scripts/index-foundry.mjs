@@ -275,6 +275,16 @@ const FOUNDRIES = [
     homepage: "https://ott-foundry.com/",
     listingUrl: "https://ott-foundry.com/typefaces",
     tier: "best",
+    scrollCount: 30,
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("ott-foundry.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
   },
   {
     name: "Bureau Brut",
@@ -2728,6 +2738,7 @@ const FOUNDRIES = [
     homepage: "https://superiortype.com/",
     listingUrl: "https://superiortype.com/fonts",
     tier: "okay",
+    scrollCount: 30,
     filterFn: (href) => {
       try {
         const u = new URL(href);
@@ -2837,6 +2848,105 @@ const FOUNDRIES = [
         const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
         const CATS = new Set(["sans-serif", "serif", "monospace", "display", "slab"]);
         return parts.length === 2 && CATS.has(parts[0]) && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+
+  // ---- Batch 19 ----
+  {
+    name: "Atipo Foundry",
+    slug: "atipo-foundry",
+    homepage: "https://www.atipofoundry.com/",
+    listingUrl: "https://www.atipofoundry.com/fonts",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("atipofoundry.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Dinamo Typefaces",
+    slug: "dinamo-typefaces",
+    homepage: "https://abcdinamo.com/",
+    listingUrl: "https://abcdinamo.com/typefaces",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("abcdinamo.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Displaay Type Foundry",
+    slug: "displaay-type-foundry",
+    homepage: "https://displaay.net/",
+    listingUrl: "https://displaay.net/typefaces",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("displaay.net")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typeface" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Grilli Type",
+    slug: "grilli-type",
+    homepage: "https://www.grillitype.com/",
+    listingUrl: "https://www.grillitype.com/typefaces",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("grillitype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typeface" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Klim Type Foundry",
+    slug: "klim-type-foundry",
+    homepage: "https://klim.co.nz/",
+    listingUrl: "https://klim.co.nz/retail-fonts",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("klim.co.nz")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Pangram Pangram Foundry",
+    slug: "pangram-pangram-foundry",
+    homepage: "https://pangrampangram.com/",
+    listingUrl: "https://pangrampangram.com/collections/fonts",
+    tier: "best",
+    // Shopify store: typefaces at /products/[slug]
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("pangrampangram.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
       } catch { return false; }
     },
   },
