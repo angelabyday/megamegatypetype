@@ -196,6 +196,7 @@ import ottFoundry from "@/data/typefaces-ott-foundry.json";
 import capitalics from "@/data/typefaces-capitalics.json";
 import mcletters from "@/data/typefaces-mcletters.json";
 import familyType from "@/data/typefaces-family-type.json";
+import formerlyKnown from "@/data/typefaces-formerly-known.json";
 import studioTriple from "@/data/typefaces-studio-triple.json";
 import typeBy from "@/data/typefaces-type-by.json";
 import typeForward from "@/data/typefaces-type-forward.json";
@@ -468,6 +469,7 @@ export function getAllTypefaces(): Typeface[] {
         capitalics,
         mcletters,
         familyType,
+        formerlyKnown,
         studioTriple,
         typeBy,
         typeForward,

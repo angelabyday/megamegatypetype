@@ -68,6 +68,7 @@ Last updated: 2026-06-25.
 | Fontwerk | fontwerk.com | best | Indexed | 16 | |
 | Forgotten Shapes | forgotten-shapes.com | okay | Indexed | 9 | |
 | Formagari | formagari.com | okay | Indexed | 10 | |
+| Formerly Known | formerly-known.com | okay | Indexed | 6 | |
 | Free Faces | freefaces.gallery | notgood | Indexed | 13 | |
 | Frost | frostype.xyz | best | Indexed | 14 | |
 | Gallery Type | gallerytype.com | loose | Indexed | 2 | |

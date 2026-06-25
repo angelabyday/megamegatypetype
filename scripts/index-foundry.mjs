@@ -3210,6 +3210,21 @@ const FOUNDRIES = [
       "https://familytype.co/typefaces/fazer",
     ],
   },
+  {
+    name: "Formerly Known",
+    slug: "formerly-known",
+    homepage: "https://formerly-known.com/",
+    listingUrl: "https://formerly-known.com/",
+    tier: "okay",
+    staticUrls: [
+      "https://formerly-known.com/buy/gnarly",
+      "https://formerly-known.com/buy/rag",
+      "https://formerly-known.com/buy/rhosyn",
+      "https://formerly-known.com/buy/ashmore",
+      "https://formerly-known.com/buy/echo",
+      "https://formerly-known.com/buy/sinvoll",
+    ],
+  },
 ];
 
 // ---- URL filter ----
