@@ -203,6 +203,7 @@ import typeForward from "@/data/typefaces-type-forward.json";
 import zetafonts from "@/data/typefaces-zetafonts.json";
 
 import { FOUNDRIES, getFoundryByName, type FoundryInfo } from "./foundry-map";
+import foundryResellers from "@/data/foundry-resellers.json";
 
 export const CATEGORIES = [
   "serif",
@@ -246,6 +247,7 @@ export type Typeface = {
   // derived
   slug: string;
   foundrySlug: string;
+  via_reseller: boolean;
 };
 
 // A few files stray from the canonical seven categories.
@@ -276,12 +278,14 @@ type RawTypeface = Omit<Typeface, "category" | "tier" | "slug" | "foundrySlug"> 
 function normalise(raw: RawTypeface): Typeface {
   const category = (CATEGORY_ALIASES[raw.category] ?? raw.category) as Category;
   const foundry = getFoundryByName(raw.foundry);
+  const foundrySlug = foundry?.slug ?? slugify(raw.foundry);
   return {
     ...raw,
     category,
     tier: raw.tier as Tier,
     slug: slugify(raw.name),
-    foundrySlug: foundry?.slug ?? slugify(raw.foundry),
+    foundrySlug,
+    via_reseller: foundrySlug in foundryResellers,
   };
 }
 
@@ -523,6 +527,7 @@ export type DirectoryEntry = Pick<
   | "has_condensed"
   | "has_italic"
   | "has_mono"
+  | "via_reseller"
 >;
 
 export function toDirectoryEntry(t: Typeface): DirectoryEntry {
@@ -543,6 +548,7 @@ export function toDirectoryEntry(t: Typeface): DirectoryEntry {
     has_condensed: t.has_condensed,
     has_italic: t.has_italic,
     has_mono: t.has_mono,
+    via_reseller: t.via_reseller,
   };
 }
 

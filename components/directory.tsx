@@ -143,8 +143,8 @@ export function Directory({
       }
       if (pricing === "free" && t.type !== "free") return false;
       if (pricing === "paid" && t.type === "free") return false;
-      if (source === "foundry" && t.type !== "foundry") return false;
-      if (source === "reseller" && t.type !== "reseller") return false;
+      if (source === "foundry" && t.via_reseller) return false;
+      if (source === "reseller" && !t.via_reseller) return false;
       if (condensedOnly && !t.has_condensed) return false;
       if (italicOnly && !t.has_italic) return false;
       if (monoOnly && !t.has_mono) return false;
