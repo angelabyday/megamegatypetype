@@ -1,0 +1,481 @@
+[
+  {
+    "name": "Persona",
+    "foundry": "Abyme",
+    "url": "https://www.abyme.net/catalogue/persona/",
+    "designer": "John Morgan and Adrien Vasquez",
+    "year": 2017,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "A display-only uppercase sans inspired by Renaissance Florentine letterforms and Hans Möhring's Florida (c.1931), characterised by flared terminals, tapered strokes and wedge-shaped endings rather than traditional serifs or a conventional grotesque structure.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Persona"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "renaissance",
+      "florentine",
+      "uppercase",
+      "historical",
+      "inscriptional",
+      "sans-serif"
+    ],
+    "summary": "A display sans drawn from Hans Möhring's Florida and fifteenth-century Florentine inscriptional lettering, available in three uppercase-only styles.",
+    "description": "Designed by John Morgan and Adrien Vasquez between 2017 and 2022, Persona traces its lineage to Hans Möhring's Florida (c.1931) and the littera antiqua of early Renaissance Florence, a style distinguished by tapered strokes and wedge-shaped terminals rather than conventional serifs. The Regular and Medium retain Florida's monoline bowls and asymmetric forms, while the Bold moves closer to Cassandre's Peignot, dispensing with the flared terminals. Each of the three styles includes three sets of capitals at differing heights, designed to be combined in the manner of inscriptional texts.",
+    "foundry_blurb": "Abyme describe Persona as a display sans based on Hans Möhring's Florida and the Florentine Renaissance letterform tradition, noting its defining tapered strokes and wedge-shaped terminals as both primitive and eminently modern. The typeface was first used for inscriptions at The Order of St Augustine's church in Hammersmith, designed by John Morgan studio, and each style includes uppercase, lowercase-height and superscript capitals that can be nested together."
+  },
+  {
+    "name": "Sweathearts",
+    "foundry": "Abyme",
+    "url": "https://www.abyme.net/catalogue/sweathearts/",
+    "designer": "Martin Groch",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "illustrative/dingbat",
+    "classification_notes": "Sweathearts is explicitly comprised of illustrations rather than letters, functioning as a pictorial or dingbat font where each character slot contains a drawn figure or creature rather than a typographic glyph. It sits squarely in the display/illustrative category.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sweathearts"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "illustrative",
+      "dingbat",
+      "pictorial",
+      "dark",
+      "surreal",
+      "character-set",
+      "novelty",
+      "hand-drawn"
+    ],
+    "summary": "An illustrative dingbat font by Martin Groch in which each of the 26 character slots contains a drawn figure rather than a letter, populated by a cast of surreal and darkly comic entities.",
+    "description": "Rather than letterforms, Sweathearts delivers 26 illustrated characters: a duck, a vampire, a Wall Street shark, a detective and others, each assigned to a key. Drawn by Martin Groch and released in 2022, the font leans into a Twilight Zone sensibility of unexplained dread and dark humour, with ligature-like interactions occurring when certain figures are placed adjacent to one another. Available in a single style, it offers no trial version given its illustrative nature.",
+    "foundry_blurb": "Abyme describe Sweathearts as a collection of 26 improbable entities drawn together into a pit of darkness, with no logic or explanation, inspired by the opening narration of The Twilight Zone's Five Characters in Search of an Exit. Certain character pairings produce ligature-style interactions, and the foundry note explicitly that Sweathearts is comprised of illustrations, not letters."
+  },
+  {
+    "name": "Axo",
+    "foundry": "Abyme",
+    "url": "https://www.abyme.net/catalogue/axo/",
+    "designer": "Charles Mazé",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A rounded geometric sans drawing on monolinear writing models and technical lettering traditions; the rounded terminals and geometric construction place it firmly in the geometric sans category with a distinct rounded variant character.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Regular",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Axo"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "technical",
+      "architectural",
+      "educational",
+      "monolinear",
+      "stencil-influenced",
+      "historical-reference"
+    ],
+    "summary": "A rounded geometric sans by Charles Mazé tracing a lineage from Johnston's essential forms through German pen nibs, French school scripts and technical drafting norms.",
+    "description": "Rooted in writing models from Britain, Germany and France, the design traces a path from Edward Johnston's monolinear letterforms through the 'redis' nibs of Heintze & Blanckertz to the French 'norme E04-105' used in architecture and engineering. The rounded terminals are a direct translation of those pen nibs into type, and the geometric base favours primary forms over optical correction in the manner of technical and pedagogical lettering. Fifteen styles across three widths and five weights give the family the same flexibility the original norm allowed for shifts in width and weight.",
+    "foundry_blurb": "Abyme describe Axo as a rounded geometric typeface drawing on writing models from the UK, Germany and France, tracing influences from Johnston's essential forms and Heintze & Blanckertz pen nibs through to French technical drafting standards. Released in 15 styles across three widths and five weights, it reflects a tradition of simplified, legible letterforms used in school manuals, architectural plans and engraved plates."
+  },
+  {
+    "name": "English Egyptian",
+    "foundry": "Abyme",
+    "url": "https://www.abyme.net/catalogue/englishegyptian/",
+    "designer": "John Morgan and Adrien Vasquez",
+    "year": 2011,
+    "category": "display",
+    "subcategory": "geometric sans",
+    "classification_notes": "A revival of the 1816 Caslon Egyptian, considered the first commercial sans serif printing type; uppercase-only with incised, elemental letterforms rooted in neo-classical and vernacular traditions, making it a display face rather than a text sans.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "English Egyptian"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "revival",
+      "historical",
+      "sans-serif",
+      "uppercase",
+      "industrial",
+      "neoclassical",
+      "display",
+      "letterpress"
+    ],
+    "summary": "A scholarly revival of William Caslon's 1816 'Two Lines English Egyptian', arguably the first commercially sold sans serif printing type, extended from its original incomplete uppercase into a usable display face.",
+    "description": "Designed by John Morgan and Adrien Vasquez between 2011 and 2017, this revival draws on the anonymous vernacular lettering of early nineteenth-century buildings, engravings and maps to complete what Caslon's original specimen left unfinished. The typeface ships as a single uppercase-only style, faithful to the elemental, incised character that links the industrial revolution's graphic culture to ancient Greek and Roman inscriptions. Available from £240, it sits firmly in the territory of historically informed display work.",
+    "foundry_blurb": "Abyme describe English Egyptian as their interpretation of Caslon's 1816 specimen, which they consider the first commercially available sans serif printing type. They note the type's connections to both the industrial revolution and the incised letterforms of ancient Greece and Rome, and explain that they studied period vernacular lettering on buildings, engravings and maps to extend the incomplete original into a complete character set with punctuation, numerals and diacritics."
+  },
+  {
+    "name": "Mercure",
+    "foundry": "Abyme",
+    "url": "https://www.abyme.net/catalogue/mercure/",
+    "designer": "Charles Mazé",
+    "year": 2010,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Rooted in French Renaissance models for the lowercase and Roman capitalis monumentalis for the uppercase, Mercure draws directly from epigraphic and elzevir typographic traditions, placing it firmly within the humanist serif category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mercure Regular",
+      "Mercure Italic",
+      "Mercure Transcript"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "epigraphy",
+      "historical revival",
+      "elzevir",
+      "renaissance",
+      "scholarly",
+      "classical"
+    ],
+    "summary": "A serif typeface by Charles Mazé rooted in French and German epigraphic type history, drawing on Louis Perrin's Caractères Augustaux and Théophile Beaudoire's Elzévir for its forms.",
+    "description": "Designed between 2010 and 2021, Mercure traces a line from the Roman capitalis monumentalis through the nineteenth-century epigraphic typefaces produced in Lyon, Paris and Berlin for transcribing classical inscriptions into print. The Regular and Italic take the French Renaissance lowercase and epigraphic uppercase as their models, while the accompanying Transcript style provides a fixed-width set of signs and symbols for scholarly transcription work, including fragmented, false, broken and missing letterforms. Transcript is included with any purchase of the Regular or Italic.",
+    "foundry_blurb": "Abyme describe Mercure as the product of an inquiry into Latin epigraphy and the typographic forms associated with it. Designer Charles Mazé traces the lineage from Perrin and Rey's Caractères Augustaux of 1846 and Beaudoire's Elzévir of around 1858, situating Mercure within the nineteenth-century French and German effort to produce typefaces suited to the scholarly transcription of classical inscriptions. The family includes a specialised fixed-width Transcript style for epigraphic notation, provided with any Regular or Italic licence."
+  },
+  {
+    "name": "Anguille",
+    "foundry": "Abyme",
+    "url": "https://www.abyme.net/catalogue/anguille/",
+    "designer": "Christophe Jacquet dit Toffe",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "experimental / video typeface",
+    "classification_notes": "Anguille defies conventional typographic classification: it is a video file documenting live eels filmed from above, presented as a typeface in concept only. It is categorised as display due to its purely artistic and non-functional nature.",
+    "weights": [
+      "Standard"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Anguille"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "conceptual",
+      "video",
+      "art-typeface",
+      "cursive-forms",
+      "nature",
+      "film",
+      "avant-garde"
+    ],
+    "summary": "A video artwork sold as a typeface, made by filming live eels on the banks of the Loire in February 2019.",
+    "description": "Christophe Jacquet dit Toffe filmed eels moving in a white container on the banks of the Loire, capturing their looping, shifting forms as a stand-in for cursive letterforms. The result is a 9-minute video file sold for £48 that functions as a typeface only in name and spirit, with no installable font data. The piece draws on eel mythology, Seamus Heaney, and the biological enigma of the European eel's life cycle to position typography as something living, transient and ultimately unresolvable.",
+    "foundry_blurb": "Abyme describe Anguille as a typeface that loops, takes detours and moves backwards and forwards with no fathomable beginning or end, its slippery beauty lying in the fact it can't be fixed or fully known. Filmed mid-afternoon on the banks of the Loire by Christophe Jacquet dit Toffe, with eels provided by fisherman Jérôme Monfray, the work is a video file of 9 minutes and 4 seconds, available in one style. The eels were returned to the river after filming."
+  },
+  {
+    "name": "Nizioleti",
+    "foundry": "Abyme",
+    "url": "https://www.abyme.net/catalogue/nizioleti/",
+    "designer": "John Morgan and Adrien Vasquez",
+    "year": 2011,
+    "category": "display",
+    "subcategory": "stencil display",
+    "classification_notes": "Drawn from Venice's painted street sign tradition, Nizioleti is a stencil-influenced display face with a single uppercase style, placing it firmly in the display category with a stencil subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nizioleti"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "display",
+      "venetian",
+      "signage",
+      "uppercase",
+      "heritage",
+      "architectural",
+      "revival"
+    ],
+    "summary": "A single-style uppercase display face drawn from Venice's painted street sign tradition, designed by John Morgan and Adrien Vasquez between 2011 and 2017.",
+    "description": "Originally developed for the identity of Common Ground, the 13th Venice Architecture Biennale, this face draws on the nizioleti, painted stencil letters set within white plaster panels affixed to Venetian walls since the early 19th century. Rather than a straight revival, Morgan and Vasquez synthesised forms that evolved across the sign system over time, including an O with a double cut, an R with a loosely curled tail and a distinctive arrow glyph. Available in one uppercase-only style, it carries a strong sense of place and institutional weight.",
+    "foundry_blurb": "Abyme describe Nizioleti as a reflection of Venice's sign system, painted letters stencilled onto city walls since the early 19th century. Designed by John Morgan and Adrien Vasquez between 2011 and 2017, it borrows from a variety of forms that evolved over time rather than offering a faithful revival, including an O with a perverse double cut and an R with a loose curled tail perhaps clipped from the mane of St Mark's lion."
+  },
+  {
+    "name": "Berthe",
+    "foundry": "Abyme",
+    "url": "https://www.abyme.net/catalogue/berthe/",
+    "designer": "Charles Mazé",
+    "year": 2011,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Berthe is drawn after Série no. 16, a late nineteenth-century Parisian type foundry cut from Deberny & Peignot, placing it within the transitional serif tradition common to French printing of that era.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Berthe"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "revival",
+      "french",
+      "nineteenth-century",
+      "book",
+      "classical",
+      "deberny-peignot",
+      "text",
+      "historic"
+    ],
+    "summary": "A careful revival of Série no. 16, a workhorse Parisian typeface from Deberny & Peignot, named after the overlooked daughter in Flaubert's Madame Bovary.",
+    "description": "Drawn by Charles Mazé over seven years, Berthe revives Série no. 16, one of the anonymous caractères ordinaires that quietly populated French printing throughout the twentieth century before disappearing with metal type. The typeface was originally commissioned for a 2013 Four Corners Books edition of Madame Bovary, designed by John Morgan, and takes its name from Emma Bovary's neglected daughter. Available in two styles, it carries the restrained rhythm of a genuine book face with a specific and traceable lineage.",
+    "foundry_blurb": "Abyme describe Berthe as designed after Série no. 16, whose first cuts were produced at the end of the nineteenth century by the Parisian type foundry Deberny & Peignot. Engraved by Constant and Auguste Aubert under the direction of Charles Tuleu, the face became a quiet but pervasive presence in French printing. Charles Mazé's revival was originally conceived for a new edition of Madame Bovary published by Four Corners Books in 2013, and is named after Berthe, Flaubert's quiet and progressively neglected character."
+  },
+  {
+    "name": "Sweathearts",
+    "foundry": "Abyme",
+    "url": "https://www.abyme.net/catalogue/sweatheartsbook/",
+    "designer": "Martin Groch",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "illustrative/cartoon",
+    "classification_notes": "The page describes Sweathearts as a typeface whose twenty-six characters are treated as distinct illustrated personalities; the book format and cartoon-drawn origins place it firmly in display/illustrative territory rather than any conventional text category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sweathearts"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "illustrative",
+      "cartoon",
+      "expressive",
+      "character-driven",
+      "vaudeville",
+      "novelty"
+    ],
+    "summary": "A typeface by Martin Groch in which each of the twenty-six letterforms is conceived as a distinct illustrated character, published by Abyme in 2022 and subsequently expanded into a 224-page book of cartoons.",
+    "description": "Each glyph in Sweathearts is drawn as a separate personality: a duck, a vampire, a Wall Street shark, a music-hall entertainer and so on, making the alphabet function more as a cast of characters than a type system. The accompanying book, edited and designed by Martin Groch, John Morgan and Adrien Vasquez, collects cartoons made between 2021 and 2023 that follow these figures through what Groch describes as a prolonged nightmare of fear, loneliness and vaudeville unease. The project sits at the boundary between type design and sequential art, treating letterforms as actors rather than tools.",
+    "foundry_blurb": "Abyme describe Sweathearts as a drama in nine acts, with the book serving as a companion to the 2022 typeface. Written and drawn by Martin Groch, the 224-page paperback chronicles the misadventures of the typeface's twenty-six character-glyphs, edited and designed alongside John Morgan and Adrien Vasquez, and distributed through Art Data."
+  },
+  {
+    "name": "YES, NO, DON'T KNOW",
+    "foundry": "Abyme",
+    "url": "https://www.abyme.net/catalogue/yesno/",
+    "designer": "Paul Elliman",
+    "year": 2000,
+    "category": "display",
+    "subcategory": "modular",
+    "classification_notes": "Based on a modular stencil typeface designed by Josef Albers in 1926, adapted by Paul Elliman into a limited-edition Ouija board format; its geometric, modular construction places it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "YES, NO, DON'T KNOW"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "bauhaus",
+      "geometric",
+      "stencil",
+      "limited-edition",
+      "conceptual",
+      "display",
+      "albers"
+    ],
+    "summary": "A limited-edition glass panel work by Paul Elliman, adapting Josef Albers's 1926 modular stencil typeface into a Ouija board as a conceptual piece made while Elliman was teaching at Yale.",
+    "description": "Paul Elliman developed this piece in the early 2000s from a desire to contact Josef Albers directly, adding the words YES, NO and DON'T KNOW to Albers's original Bauhaus modular stencil design from 1926. The edition takes the form of a 16-inch square glass panel, referencing the glass studio workshops Albers ran at the Bauhaus. It occupies the boundary between typeface, artwork and object rather than functioning as a conventional text face.",
+    "foundry_blurb": "Abyme describe the first edition of this Ouija board as having been made by Paul Elliman during his time as a professor of design at Yale in the early 2000s, developed from a wish to contact Josef Albers. The words YES, NO and DON'T KNOW were added to an Albers-designed modular stencil typeface from 1926, and the edition is cut into a 16-inch square glass panel in reference to the Bauhaus glass studio workshops."
+  },
+  {
+    "name": "Margaret",
+    "foundry": "Abyme",
+    "url": "https://www.abyme.net/catalogue/margaret/",
+    "designer": "Thomas Grünfeld",
+    "year": null,
+    "category": "display",
+    "subcategory": "decorative",
+    "classification_notes": "Margaret is an art edition rather than a typeface; it is an anodized aluminium panel with milled, printed and engraved lettering, placing it firmly in the display/decorative category as an object-based typographic work.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Margaret"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "art-edition",
+      "intercom",
+      "engraved",
+      "aluminium",
+      "twin-peaks",
+      "decorative",
+      "object",
+      "limited-edition"
+    ],
+    "summary": "A limited-edition anodized aluminium intercom panel referencing Margaret Lanterman, the Log Lady from David Lynch's Twin Peaks, combining milled, printed and engraved lettering with a photographic portrait.",
+    "description": "Produced in an edition of 16 plus four artist's proofs, this 540 × 480 mm anodized aluminium panel adapts the aesthetic of metal intercom systems with a photograph by Thomas Grünfeld, originally made for an exhibition of fireplace sculptures. The engraved name and title refer to Twin Peaks' Log Lady, whose log functions as a medium of communication, mirroring the intercom form. It sits between functional object and art multiple, oscillating between the familiar and the uncanny.",
+    "foundry_blurb": "Abyme describe Margaret as an edition that adapts the aesthetics of metal intercom panels, combining a photograph by Thomas Grünfeld with engraved text referencing Margaret Lanterman, the Log Lady from David Lynch's Twin Peaks. The log she carries serves as a personal intercom of sorts, and the edition allows the viewer to communicate with the Lady through an apparently functional object that shifts between the familiar and unfamiliar. It is produced in anodized aluminium, milled, printed, engraved and colour-filled, in an edition of 16 plus IV AP, priced at £2,500."
+  },
+  {
+    "name": "ABC We Print Anything",
+    "foundry": "Abyme",
+    "url": "https://www.abyme.net/catalogue/abc/",
+    "designer": "Carolee Schneemann",
+    "year": null,
+    "category": "display",
+    "subcategory": "vernacular display",
+    "classification_notes": "The lettering is derived from a found vernacular sign photographed in 1976, reproduced as a silkscreened garment rather than a conventional digital typeface; classified as display given its single-use, expressive, non-text character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "ABC We Print Anything"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "vernacular",
+      "found-lettering",
+      "artist-collaboration",
+      "silkscreen",
+      "conceptual",
+      "historical"
+    ],
+    "summary": "A recreation of hand-lettered signage worn by Carolee Schneemann in 1976, produced as a silkscreened sweatshirt edition in collaboration with the artist and The Artist's Institute, New York.",
+    "description": "The lettering originates from a printer's shop-window sign that Schneemann photographed and later adapted as the title of her collaborative project with Anthony McCall and Bruce Nauman. Abyme's edition reproduces that lettering on a french terry sweatshirt, silkscreened in a limited run of 75 plus 15 artist's proofs. It sits at the border of type artefact and artist multiple rather than functioning as a deployable typeface.",
+    "foundry_blurb": "Abyme describe ABC We Print Anything as a recreation of a sweatshirt worn by Carolee Schneemann in a 1976 photograph, itself sourced from a printer's shop-window. Produced in collaboration with Schneemann and The Artist's Institute, New York, the edition comprises 75 silkscreened french terry sweatshirts available in sizes S, M and L at £175 each."
+  }
+]

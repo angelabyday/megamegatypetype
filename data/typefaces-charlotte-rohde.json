@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Oficía Mono",
+    "foundry": "Charlotte Rohde",
+    "url": "https://www.charlotterohde.de/typefaces/oficia-mono",
+    "designer": "Charlotte Rohde",
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced sans",
+    "classification_notes": "A monospaced typeface with condensed and standard width variants across a range of weights, fitting squarely in the mono category with its fixed-width structure and sans-serif letterforms.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Comp"
+    ],
+    "subfamilies": [
+      "Oficía Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "condensed",
+      "functional",
+      "editorial",
+      "data",
+      "tabular",
+      "multilingual"
+    ],
+    "summary": "A monospaced family from Charlotte Rohde in eight styles, pairing standard and condensed widths across Hairline, Light, Regular and Bold weights.",
+    "description": "Eight styles cover standard and compressed widths at four weights from Hairline through Bold, making the family adaptable for both text-dense interfaces and display use. Glyph coverage runs across Latin Extended and Latin Extended Additional, with stylistic sets offering alternate umlaut and diacritic forms. The specimen leans heavily on financial data, currency symbols and German copy, suggesting a natural fit for editorial and data contexts.",
+    "foundry_blurb": "Oficía Mono is offered by Charlotte Rohde in nine styles including Hairline Comp, Light Comp, Bold Comp, Hairline, Light, Bold, Regular and Regular Comp, with trial fonts available to download."
+  },
+  {
+    "name": "New Edge 666",
+    "foundry": "Charlotte Rohde",
+    "url": "https://www.charlotterohde.de/typefaces/new-edge-666",
+    "designer": "Charlotte Rohde",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A geometric sans with rounded and slanted variants throughout; the systematic alternates and angular construction place it firmly in the geometric sans tradition with a distinctly experimental edge.",
+    "weights": [
+      "Ultra Light",
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Semibold",
+      "Ultra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "New Edge 666"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "feminist",
+      "identity",
+      "experimental",
+      "rounded",
+      "slanted",
+      "berlin",
+      "display"
+    ],
+    "summary": "Originally a custom face for Berlin feminist project space soft power, it has since been adapted for institutions including Haus der Kulturen der Welt and the dating app FEELD.",
+    "description": "Developed in collaboration with Melissa Lücking, this geometric sans spans 21 styles across five weights, each available in upright, slanted, rounded and rounded-slanted cuts. The systematic multiplication of variants gives designers granular control over tone, from the sparest Ultra Light to a heavy Ultra Bold, with the rounded alternates softening its angular geometry. Its institutional clients suggest a typeface that can hold both sharp political identity work and more commercial applications.",
+    "foundry_blurb": "New Edge 666 was first developed as a custom typeface for the visual identity of soft power, a Berlin-based feminist project space, in special collaboration with Melissa Lücking. It has since been customised for institutions and companies including Haus der Kulturen der Welt in Berlin and the dating app FEELD."
+  },
+  {
+    "name": "Temair Beta",
+    "foundry": "Charlotte Rohde",
+    "url": "https://www.charlotterohde.de/typefaces/temair-beta",
+    "designer": "Charlotte Rohde",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The glyph set, ligature constructions and demonstration text in Irish suggest a typeface with strong connections to Latin extended letterforms; the proportions and style cues visible in the character set point toward a transitional or humanist serif classification.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Temair Beta"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "beta",
+      "irish",
+      "latin-extended",
+      "ligatures",
+      "single-weight",
+      "text",
+      "experimental"
+    ],
+    "summary": "A single-weight serif in beta release, with an extensive ligature set and specimen text in Irish, suggesting a typeface designed with Celtic language support in mind.",
+    "description": "Currently available as a beta in Regular only, the family includes oldstyle figures, case-sensitive forms and a notably large ligature set covering combinations such as Ka, Lo, RRA and Th alongside conventional f-ligatures. The stylistic sets offer alternates for letters including J, K, R, S, U, W and the German umlauts, indicating careful attention to letterform variation. The Irish-language specimen text points to deliberate extended Latin support beyond standard Western European coverage.",
+    "foundry_blurb": "Charlotte Rohde presents Temair Beta as a work-in-progress typeface available for trial download, currently offered in a single Regular style with a rich glyph set including ligatures, oldstyle figures and multiple stylistic alternates."
+  },
+  {
+    "name": "Armand Grotesk",
+    "foundry": "Charlotte Rohde",
+    "url": "https://www.charlotterohde.de/typefaces/armand-grotesk",
+    "designer": "Charlotte Rohde",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The name and visual character place it squarely in the grotesque sans-serif tradition, with a five-weight range typical of contemporary workhorse grotesques.",
+    "weights": [
+      "Light",
+      "SemiLight",
+      "Regular",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Armand Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "literary",
+      "contemporary",
+      "workhorse",
+      "european",
+      "sans-serif"
+    ],
+    "summary": "A five-weight grotesque inspired by Armand Duval, the male protagonist of Alexandre Dumas Jr's nineteenth-century novel La Dame aux Camélias.",
+    "description": "Named after Armand Duval from Dumas Jr's La Dame aux Camélias, the typeface draws a literary reference into a clean, contemporary grotesque. Five weights run from Light to Bold, with no italics or condensed variants. Glyph coverage spans Latin Extended with Vietnamese support, making it serviceable across Western European and Central European languages.",
+    "foundry_blurb": "Charlotte Rohde describes Armand Grotesk as being based on the main character Armand Duval of the novel La Dame aux Camélias by Alexandre Dumas Jr, available in five styles from Light to Bold with trial fonts available for download."
+  },
+  {
+    "name": "SandEdge",
+    "foundry": "Charlotte Rohde",
+    "url": "https://www.charlotterohde.de/typefaces/sandedge",
+    "designer": "Charlotte Rohde",
+    "year": null,
+    "category": "display",
+    "subcategory": "decorative display",
+    "classification_notes": "A single-weight display face with a name evoking texture and natural forms; its glyph alternates and stylistic sets suggest an expressive, hand-influenced character rather than any functional text category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "SandEdge"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "decorative",
+      "single-weight",
+      "textural",
+      "expressive",
+      "alternates"
+    ],
+    "summary": "A single-weight display typeface from Charlotte Rohde with extensive glyph alternates across two stylistic sets, covering Western European Latin languages.",
+    "description": "SandEdge comes in one weight and offers a broad set of alternate glyphs accessible via Access All Alternates, Stylistic Set 1 and Stylistic Set 2, giving designers considerable variation within a single style. Coverage spans English, German, Spanish, French and Dutch, with Latin Extended-A characters included. The name and specimen language suggest a typeface oriented towards editorial and branding contexts where textural personality is wanted.",
+    "foundry_blurb": "Charlotte Rohde presents SandEdge as a display typeface available in a single Regular style, with trial fonts available for download. The specimen highlights its expressive character through phrases such as 'Sand Grain Desert Lightning Love', positioning it as a typeface with a distinct atmospheric quality."
+  },
+  {
+    "name": "Kéroïne PRO",
+    "foundry": "Charlotte Rohde",
+    "url": "https://www.charlotterohde.de/typefaces/keroine-pro",
+    "designer": "Charlotte Rohde",
+    "year": null,
+    "category": "display",
+    "subcategory": "high-contrast display serif",
+    "classification_notes": "Kéroïne PRO features elongated forms, thin graceful strokes and high contrast typical of display serifs with a fashion or luxury orientation, closer to didone in spirit with flowing, refined letterforms.",
+    "weights": [
+      "Doux Extreme",
+      "Intense Legere"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kéroïne PRO"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "luxury",
+      "fashion",
+      "high-contrast",
+      "didone",
+      "editorial",
+      "elegant"
+    ],
+    "summary": "A high-contrast display serif with elongated, flowing letterforms designed to evoke luxury skincare and beauty aesthetics.",
+    "description": "Two styles — Doux Extreme and Intense Legere — offer distinct moods within the same delicate visual language, both built around thin, graceful strokes and generous ascenders. The glyph set is broad, covering Latin Extended and Vietnamese alongside oldstyle figures, standard ligatures and stylistic alternates. Suited to editorial fashion work, packaging and branding where an ethereal, feminine tone is needed.",
+    "foundry_blurb": "Charlotte Rohde describes Kéroine Doux Extrême as embodying a balance between strength and softness, with elongated forms and smooth flowing lines that reference the rituals of luxury skincare. Each letter is said to evoke the sensation of a silky serum being absorbed, leaving a subtle sheen."
+  },
+  {
+    "name": "Palma BETA",
+    "foundry": "Charlotte Rohde",
+    "url": "https://www.charlotterohde.de/typefaces/palma-beta",
+    "designer": "Charlotte Rohde",
+    "year": null,
+    "category": "display",
+    "subcategory": "pixel/LED display",
+    "classification_notes": "Directly modelled on the LED dot-matrix displays found on buses in Palma de Mallorca and Barcelona, placing it firmly in the display category as a pixel or bitmap-derived typeface.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Palma BETA Initial",
+      "Palma BETA Regular"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "pixel",
+      "led",
+      "display",
+      "bitmap",
+      "signage",
+      "transport",
+      "experimental"
+    ],
+    "summary": "A display typeface drawn from the LED dot-matrix bus destination signs found in Palma de Mallorca and Barcelona.",
+    "description": "Two styles make up the family: an Initial variant and a Regular, both faithfully translating the chunky pixel grid of public-transport LED displays into usable type. Glyph coverage spans Basic Latin, Latin-1 Supplement and a selection of Latin Extended characters, accommodating Spanish and related Western European languages. Trial fonts are available for download directly from the foundry.",
+    "foundry_blurb": "Palma BETA is based on the LED displays of buses in Palma de Mallorca, a typographic source also found on buses in Barcelona. The family is released in two styles, Initial and Regular, with trial fonts available to download."
+  },
+  {
+    "name": "Marguerite Grotesk",
+    "foundry": "Charlotte Rohde",
+    "url": "https://www.charlotterohde.de/typefaces/marguerite-grotesk",
+    "designer": "Charlotte Rohde",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Named 'Grotesk' by the designer; the upright and italic weights follow conventions of the grotesque sans tradition with a clean, restrained structure.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Marguerite Grotesk",
+      "Marguerite Grotesk Italic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "literary",
+      "french",
+      "editorial",
+      "clean",
+      "upright",
+      "feminine"
+    ],
+    "summary": "A grotesque sans in four weights with matching italics, conceived around the character of Marguerite Gautier from Dumas's 'La Dame aux Camélias'.",
+    "description": "Charlotte Rohde's Marguerite Grotesk draws its name and mood from the protagonist of Alexandre Dumas Jr's nineteenth-century novel, a courtisane navigating bourgeois society. The family runs across Light, Regular, Medium and Bold with corresponding italics, and supports extended Latin coverage for broad European language use. Several OpenType feature sets offer alternate forms for characters including J, the umlaut vowels and currency symbols.",
+    "foundry_blurb": "Marguerite Grotesk is inspired by the main character Marguerite Gautier from Alexandre Dumas Jr's novel 'La Dame aux Camélias', which tells the story of a love affair between a young bourgeois man and a courtesan suffering from tuberculosis. Trial fonts are available for download."
+  },
+  {
+    "name": "Serifbabe",
+    "foundry": "Charlotte Rohde",
+    "url": "https://www.charlotterohde.de/typefaces/serifbabe",
+    "designer": "Charlotte Rohde",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "A display serif with an eccentric, expressive character; the designer's own framing as an alter ego and the exaggerated personality across three distinct weights confirms a display rather than text orientation.",
+    "weights": [
+      "ALPHA",
+      "ALPHA Italic",
+      "SIGMA"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Serifbabe ALPHA",
+      "Serifbabe ALPHA Italic",
+      "Serifbabe SIGMA"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "expressive",
+      "eccentric",
+      "editorial",
+      "personal",
+      "feminine",
+      "identity"
+    ],
+    "summary": "A three-weight display serif by Charlotte Rohde, first released in 2020 and developed across two distinct phases with a deliberately eccentric, personal character.",
+    "description": "Serifbabe began in 2020 with an Alpha and Alpha Italic before a 2024 update introduced the Sigma weight, described by the designer as a further maturation of the typeface's personality. Each version is framed as a stage of growth, with the italic positioned as more considered and specific in tone. The family suits editorial and identity work where an opinionated, feminine serif voice is called for.",
+    "foundry_blurb": "Charlotte Rohde describes Serifbabe as a retail typeface in three weights, born from a feeling of 'being too much' and conceived as a kind of alter ego. The Alpha (2020) marks Serifbabe leaving adolescence behind; the Alpha Italic (2020) shows her learning to articulate her needs with specificity and care; and the Sigma (2024) reflects whatever eccentric self-improvement a woman in her thirties feels like pursuing."
+  },
+  {
+    "name": "Calyces Inc",
+    "foundry": "Charlotte Rohde",
+    "url": "https://www.charlotterohde.de/typefaces/calyces-inc",
+    "designer": "Charlotte Rohde",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The page offers limited visual context, but the glyph set and alternate characters suggest a humanist sans construction with attention to letterspacing and optical detail. It is positioned as a successor to Calyces with a refined, purposeful character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Calyces Inc"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "feminist",
+      "single-weight",
+      "extended-latin",
+      "editorial",
+      "purposeful"
+    ],
+    "summary": "A single-weight sans offered free for feminist projects, with broad Latin coverage and a careful set of OpenType alternates.",
+    "description": "Described as the successor to Calyces, this typeface carries the same ethos of its predecessor: it is available without charge for feminist projects upon request. The single Regular weight ships with a thorough Latin Extended character set, oldstyle and tabular figures, standard ligatures and multiple stylistic sets providing alternate forms for a number of characters. Its political positioning is as considered as its glyph design.",
+    "foundry_blurb": "Charlotte Rohde describes Calyces Inc as the follow-up to her typeface Calyces, and like its predecessor it is always free for feminist projects. She invites those wishing to use it under those terms to contact her by email, and offers trial fonts for download."
+  }
+]

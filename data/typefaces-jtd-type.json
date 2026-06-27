@@ -1,0 +1,597 @@
+[
+  {
+    "name": "Chapman",
+    "foundry": "JTD Type",
+    "url": "https://jtdtype.com/typeface/Chapman",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "scotch roman",
+    "classification_notes": "Chapman draws explicitly from engraver typefaces and Scotch Roman models, exhibiting the characteristic high contrast, broad flat bracketed serifs, large ball terminals and sharply vertical stress of that tradition.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Standard",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Chapman Condensed",
+      "Chapman",
+      "Chapman Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "scotch-roman",
+      "high-contrast",
+      "engraver",
+      "editorial",
+      "versatile",
+      "multi-width",
+      "contemporary"
+    ],
+    "summary": "A high-contrast serif rooted in engraver typefaces and Scotch Roman tradition, offered across condensed, standard and extended widths with four weights each.",
+    "description": "Drawn from the conventions of historic all-capital engraver faces and Scotch Roman lowercase models, Chapman offers large ball terminals, broad flat bracketed serifs and sharply vertical stress across 24 styles. The three-width structure, condensed through extended, gives the family genuine range for both tight editorial settings and generous display work. Idiosyncrasies from the source genres are selectively tamed or exaggerated, producing a face that feels familiar without being derivative.",
+    "foundry_blurb": "Chapman emerged from extended study of all-capital engraver typefaces from defunct foundries, with a lowercase modelled on Scotch Roman conventions. The goal was a typeface that is neutral without being dull, adaptable enough to work across contexts, and capable of being squeezed or stretched via its width variants to suit any measure. It draws from the engraver and Scotch Roman genres broadly rather than from any single historical source."
+  },
+  {
+    "name": "Array",
+    "foundry": "JTD Type",
+    "url": "https://jtdtype.com/typeface/Array",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "Renaissance serif",
+    "classification_notes": "Array draws explicitly on Renaissance type traditions, using broad-nib and brush-pen letterform models, calligraphic stress and swashed italic capitals, while adapting these qualities for both monospaced and proportional settings.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Array Mono",
+      "Array Proportional"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "proportional",
+      "renaissance",
+      "coding",
+      "serif",
+      "typewriter",
+      "calligraphic",
+      "dual-family"
+    ],
+    "summary": "A dual-family serif that pairs a monospaced coding face with a proportional companion, both rooted in Renaissance letterform traditions drawn with a brush pen.",
+    "description": "Array is two typefaces built on a single system: a monospaced family designed with the legibility demands of coding in mind, and a proportional variant that divides the mono character width into thirds to allow comfortable reading in running text. Both families share letterforms derived from Renaissance models drawn with a brush pen rather than a broad nib, giving them a lively, organic quality unusual for monospaced type. The italics feature swashed capitals inspired by Renaissance chancery practice, distinct enough to aid comprehension in code editors without tipping into decoration.",
+    "foundry_blurb": "JTD Type describe Array as a typeface designed to resolve the tension between coding utility and Renaissance warmth. The monospaced family follows fixed-width conventions adapted for legibility in programming contexts, while Array Proportional subdivides the monospace unit into two-thirds and one-and-a-third widths to approximate conventional text spacing. Letterforms were drawn with a brush pen to introduce a hand-made quality, and the italic uppercases carry swashed forms that help italic lines stand out clearly in code."
+  },
+  {
+    "name": "Cresta",
+    "foundry": "JTD Type",
+    "url": "https://jtdtype.com/typeface/Cresta",
+    "designer": "Doug Wilson",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Cresta has a large x-height, open apertures and angled stroke joins characteristic of humanist sans design, with distinctive terminals on the lowercase r that give it a warmer, more characterful feel than a neutral grotesque.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cresta"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "ui",
+      "workhorse",
+      "screen",
+      "editorial",
+      "large-x-height",
+      "open-apertures"
+    ],
+    "summary": "A workhorse humanist sans by Doug Wilson, originally designed for JTD Type's own website and built for legibility across screen and print in six weights.",
+    "description": "Cresta was designed without a historical reference, with every decision driven by what worked best for a general-purpose sans serif family. A large x-height, wide counters and generous apertures make it sturdy at small sizes on screen, while distinctive details — angled stroke joins on the n and idiosyncratic terminals on the lowercase r — give heavier weights a clear personality. The family spans Hairline to Black, each with a matching italic, and includes small caps, tabular figures and a broad Latin language set.",
+    "foundry_blurb": "JTD Type describe Cresta as a typeface loaded with personality and functionality, built to survive rough conditions and work equally well on screen and in print. Originally created as the primary typeface for the JTD Type website, it needed to function across copy, headlines and navigation on all devices. Its large x-height, ample counters and giant apertures serve easy utility, while increasing weights reveal a distinct character defined by the terminals on the lowercase r and the angle of stroke joins."
+  },
+  {
+    "name": "Enfilade",
+    "foundry": "JTD Type",
+    "url": "https://jtdtype.com/typeface/Enfilade",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "condensed sans",
+    "classification_notes": "Enfilade is a condensed sans-serif designed specifically for compressed settings across a range of point sizes, with five optical sizes and an oblique rather than a true italic, placing it firmly in the display/condensed sans tradition.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "1x",
+      "2x",
+      "4x",
+      "8x",
+      "16x"
+    ],
+    "subfamilies": [
+      "Enfilade"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "optical-sizes",
+      "display",
+      "ink-traps",
+      "variable",
+      "headlines",
+      "logos",
+      "technical"
+    ],
+    "summary": "A condensed sans-serif built across five optical sizes, each calibrated to work at double the point size of the previous, with ink traps and glyph widths that shift accordingly.",
+    "description": "Most condensed typefaces are drawn for a single size range and become illegible outside it; Enfilade addresses this directly with five optical sizes spanning 1x through 16x, each doubling the intended point size of the previous. Ink traps appear and disappear as needed, and glyph widths adjust per size to preserve both compression and readability. A variable font covering the entire family is available, allowing finer control across the full optical range. Six weights from Hairline to Black are offered at each optical size, with matching obliques throughout.",
+    "foundry_blurb": "JTD Type describe Enfilade as an attempt to solve the legibility problems inherent to condensed type at varying sizes. With five optical sizes, each designed to function at double the point size of the previous, the family uses ink traps, adjusted glyph widths and a variable font version to ensure the best possible blend of readability and compression at any setting. Individual styles include all five optical sizes for a single price."
+  },
+  {
+    "name": "Elfreth",
+    "foundry": "JTD Type",
+    "url": "https://jtdtype.com/typeface/Elfreth",
+    "designer": null,
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "contemporary blackletter",
+    "classification_notes": "Elfreth is a blackletter typeface that deliberately departs from traditional textualis and fraktur conventions by reducing contrast and softening angles, giving it a more casual, contemporary character while retaining blackletter structure.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Elfreth"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "contemporary",
+      "casual",
+      "display",
+      "low-contrast",
+      "humanist",
+      "legibility",
+      "all-caps"
+    ],
+    "summary": "A lower-contrast blackletter in four weights that softens the style's traditional severity without tipping into pastiche.",
+    "description": "Elfreth reduces the thick-thin contrast typical of blackletter to give the letterforms a more casual, bone-like quality, while subtle curves replace rigid angles throughout. Letterforms that commonly trip up non-German readers, such as the k and x, are redrawn to blend traditional German forms with more familiar constructions. The result holds together across the full weight range from Light to Black, with oldstyle figures and contextual alternates rounding out the OpenType feature set.",
+    "foundry_blurb": "JTD Type describe Elfreth as a blackletter designed to push against the associations the style typically carries. Inspired partly by the lettering work of Max Körner, the design uses reduced contrast and graceful curves to make the typeface feel less austere and more suited to contemporary use. Particular attention was paid to problem letterforms like the k, x and r, which are redrawn so they remain legible to readers unfamiliar with blackletter conventions."
+  },
+  {
+    "name": "Essonnes",
+    "foundry": "JTD Type",
+    "url": "https://jtdtype.com/typeface/Essonnes",
+    "designer": null,
+    "year": 2011,
+    "category": "serif",
+    "subcategory": "didone",
+    "classification_notes": "Essonnes is a high-contrast serif with vertical stress, hairline serifs and extreme thick-to-thin contrast, placing it firmly in the Didone tradition. The foundry explicitly references Pierre Didot's 1819 type as the primary historical source.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Headline",
+      "Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "Essonnes Headline",
+      "Essonnes Display",
+      "Essonnes Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "high-contrast",
+      "editorial",
+      "optical-sizes",
+      "historical",
+      "serif",
+      "text",
+      "display"
+    ],
+    "summary": "A sixteen-style Didone system spanning three optical sizes, rooted in the eccentric forms of Pierre Didot's 1819 type and designed to make high-contrast serifs workable from text to headline.",
+    "description": "Drawn from the eccentric letterforms of Pierre Didot's 1819 type, Essonnes extends the Didone tradition into a genuinely optical family where Text, Display and Headline cuts are each designed from scratch rather than derived by simple contrast adjustment. Distinctive stylistic sets restore Didot's unconventional lowercase g, s and y treatments, available as alternates rather than defaults. The family runs to sixteen individual styles across its three optical sizes, covering Thin through Bold with matching italics throughout.",
+    "foundry_blurb": "JTD Type describe Essonnes as born of a union between Didot experimentation, late Victorian extravagance and contemporary pragmatism. The project began in 2011 after the designer fell in love with Pierre Didot's eccentric letterforms, particularly the devil-tail serifs on the lowercase g, s and y. Made up of sixteen weights spread over three optical sizes, the family is intended to bring utility back to the Didot genre and demonstrate that Didones are as capable in text as they are at display scales."
+  },
+  {
+    "name": "Gastromond",
+    "foundry": "JTD Type",
+    "url": "https://jtdtype.com/typeface/Gastromond",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "fat face serif",
+    "classification_notes": "Gastromond is a display fat face that deliberately fuses Renaissance Garamond proportions and angled stress with the extreme weight contrast of Victorian fat faces, placing it firmly in the display serif tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gastromond"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "fat-face",
+      "display",
+      "garamond-inspired",
+      "victorian",
+      "swash",
+      "high-contrast",
+      "expressive",
+      "historical"
+    ],
+    "summary": "A fat face serif that fuses Garamond's angled Renaissance stress with the extreme weight contrast of Victorian display types, loaded with swashes and alternates.",
+    "description": "Where most fat faces inherit vertical or horizontal stress from Didot or Bodoni, Gastromond applies the angled pen stress of Garamond-tradition letterforms to an ultra-heavy display weight. The italic is particularly rich, offering swashed capitals, alternate diagonal letters drawn to match the italic angle, and lowercase swashes carried over from both upright and italic Garamond conventions. Small caps, discretionary ligatures, tabular figures and multiple stylistic sets round out an OpenType feature set suited to editorial and branding work that wants period character without period constraints.",
+    "foundry_blurb": "JTD Type describe Gastromond as arising from a question about why fat faces always follow Didot or Bodoni models with vertical or horizontal stress. The face blends Renaissance Garamond stylings with Victorian fat face outlandishness, producing an emphatic take on a classic genre. The italic features a host of swashed capitals and alternate diagonal letterforms, and the family has been used in work for Netflix's Stranger Things branding among other projects."
+  },
+  {
+    "name": "Oculi",
+    "foundry": "JTD Type",
+    "url": "https://jtdtype.com/typeface/Oculi",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "inscriptional serif",
+    "classification_notes": "Oculi draws directly from Roman inscriptional lettering for its capitals, with an oldstyle contrast model governing both Display and Text optical sizes. The italics derive from Renaissance models by Arrighi and Griffo, placing the family firmly in the humanist serif tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "Oculi Display",
+      "Oculi Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "inscriptional",
+      "humanist-serif",
+      "roman",
+      "oldstyle",
+      "editorial",
+      "text",
+      "renaissance-italic",
+      "optical-sizes"
+    ],
+    "summary": "A typeface that reimagines Roman inscriptional lettering with a designed lowercase, split across Display and Text optical sizes with Renaissance-derived italics at a 4-degree slant.",
+    "description": "Oculi takes Roman carved capitals as its starting point, then pursues the hypothetical question of what a matching lowercase would look like if built for running text. The oldstyle contrast of the capitals carries through to the lowercase, and the italics borrow their forms from Arrighi and Griffo rather than simply slanting the upright letters. Two optical sizes divide the family: Display holds higher contrast with gently curving strokes, while Text opens counters, loosens spacing and raises the x-height for legibility at smaller settings.",
+    "foundry_blurb": "JTD Type describe Oculi as an exploration of what Roman inscriptional lettering might look like if it had been extended to include a lowercase designed for running text. The Display optical size features higher contrast and gently curving strokes, while the Text size lowers contrast, increases counter size, loosens spacing and raises the x-height. Italics are based on Renaissance models by Arrighi and Griffo, with a slant of only 4 degrees, relying on a change of letterform rather than angle to distinguish them from the uprights."
+  },
+  {
+    "name": "Garvis",
+    "foundry": "JTD Type",
+    "url": "https://jtdtype.com/typeface/Garvis",
+    "designer": null,
+    "year": 2012,
+    "category": "serif",
+    "subcategory": "neoclassical serif",
+    "classification_notes": "Garvis bridges Dutch Baroque type in the Fleischmann tradition with neoclassical proportions, featuring modulated contrast and refined letterforms suited to both text and display use.",
+    "weights": [
+      "Book",
+      "Regular",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Garvis"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "IPA"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neoclassical",
+      "fleischmann",
+      "editorial",
+      "book",
+      "text",
+      "ipa-support",
+      "linguistic",
+      "web"
+    ],
+    "summary": "A neoclassical text serif drawing on the Dutch Fleischmann tradition, built for legibility on screen and at small sizes with full IPA coverage.",
+    "description": "Positioned between Dutch Baroque and neoclassical type, Garvis carries subtle irregularities at display sizes that recall metal type printing, smoothing to a warm, even texture at text sizes. Four weights from Book to Bold each have a matching italic, and the family covers all contemporary Latin-based orthographies alongside a complete IPA character set. Dan Reynolds selected it for Typographica's Favourite Typefaces of 2012.",
+    "foundry_blurb": "JTD Type describe Garvis as bridging Dutch Fleischmann and neoclassical type, offering sturdiness and legibility on the web and at small sizes without sacrificing character or aesthetics. At display sizes, subtle inconsistencies evoke traditional metal type printing; at text sizes these details recede, lending a warm, human quality. The family was built with linguistic use in mind, covering all contemporary Latin-based orthographies and complete IPA support."
+  },
+  {
+    "name": "Stack",
+    "foundry": "JTD Type",
+    "url": "https://jtdtype.com/typeface/Stack",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "chromatic/layered display",
+    "classification_notes": "Stack is a display typeface built as a system of layerable fonts mimicking the brick-and-mortar construction of early twentieth-century industrial chimney lettering, making it firmly a display type with a highly specific structural concept.",
+    "weights": [
+      "Fill",
+      "Bricks",
+      "Mortar Bricks",
+      "Courses",
+      "Mortar Courses"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Stack Fill",
+      "Stack Bricks",
+      "Stack Mortar Bricks",
+      "Stack Courses",
+      "Stack Mortar Courses"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "chromatic",
+      "layered",
+      "industrial",
+      "display",
+      "historical-revival",
+      "masonry",
+      "vertical",
+      "experimental"
+    ],
+    "summary": "A chromatic display family built from five layerable fonts modelled on the brick-and-mortar lettering found on early twentieth-century industrial chimneys.",
+    "description": "Each of the five fonts in the family corresponds to a structural layer: fill, bricks, mortar bricks, courses, and mortar courses, reproducing the 15-course grid of masonry lettering developed from over 150 archival photographs and two dozen engineering drawings. The fonts work horizontally and vertically, with OpenType vertical forms available via Stylistic Set 2, allowing signs, stacks and typographic structures to run in either direction. Proportions and mortar-joint thickness have been optically adjusted for screen and print, extending the system's utility beyond purely decorative applications.",
+    "foundry_blurb": "JTD Type describe Stack as bringing the spirit of industrial chimney lettering from the early twentieth century into the digital age. Designed to function both horizontally and vertically, the fonts layer together in chromatic combinations for limitless design possibilities. The family is true to the spirit of masonry lettering without directly lifting any specific historical style, and is structured as 15 courses of bricks informed by years of research into archival photographs and engineering drawings."
+  },
+  {
+    "name": "Parabolica",
+    "foundry": "JTD Type",
+    "url": "https://jtdtype.com/typeface/Parabolica",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Parabolica is explicitly described as a Neo Grotesk, drawing from the Helvetica lineage while also referencing Franklin Gothic and utilitarian display typefaces like Matthew Carter's Video and CRT Gothic. Its stripped-down geometry, large apertures and subtle weight modulation are characteristic of the neo-grotesque genre.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Text"
+    ],
+    "subfamilies": [
+      "Parabolica",
+      "Parabolica Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "utilitarian",
+      "workhorse",
+      "optical-sizes",
+      "legibility",
+      "identity",
+      "ui",
+      "technical"
+    ],
+    "summary": "A neo-grotesque built across two optical sizes, drawing on utilitarian screen and display type rather than purely the Swiss tradition.",
+    "description": "Developed over ten years with repeated restarts, Parabolica takes the neo-grotesque genre as its base but reaches toward Matthew Carter's CRT Gothic and Video for its core logic: type that holds up in bad conditions. The Text optical size features squared counters, a larger x-height and looser spacing tuned for small sizes, while the Regular optical size is tighter and more curved for display use. Six weights from Hairline to Black, each with obliques, give the family range for both identity work and editorial settings.",
+    "foundry_blurb": "JTD Type describe Parabolica as a neo-grotesque ten years in the making, born not from the glamour of mid-century Swiss design but from the utilitarian tradition of typefaces built to work anywhere. Inspired by Matthew Carter's Video and CRT Gothic, it features large apertures, subtle weight modulation and two optical variations: a Text version with squared counters and looser spacing for small sizes, and a Regular version with tighter spacing for larger use."
+  },
+  {
+    "name": "Transducer",
+    "foundry": "JTD Type",
+    "url": "https://jtdtype.com/typeface/Transducer",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A squarish, high x-height sans-serif drawing on the modernist geometric tradition of electronics-industry typefaces such as Microgramma, but with deliberate humanist departures including subtly tapered vertical strokes and differentiated letterforms.",
+    "weights": [
+      "Hairline",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Standard",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Transducer Condensed",
+      "Transducer",
+      "Transducer Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "technical",
+      "industrial",
+      "electronics",
+      "interface",
+      "ui",
+      "analog",
+      "squarish"
+    ],
+    "summary": "A squarish sans-serif drawn from the aesthetic of analogue electronics, with subtly tapered vertical stems and a high x-height designed for interface and diagram legibility.",
+    "description": "Spanning three widths and five weights with obliques throughout, Transducer takes the geometric sans conventions of electronics labelling and introduces deliberate imperfections: vertical strokes taper almost imperceptibly towards their centres, recalling the hand-soldered character of vintage equipment. The high x-height maximises counter space for quick reading at small sizes, and alternate characters for Y, r and t give extra flexibility in tight settings. A rich symbol set drawn to capital height makes it well suited to UI work, and the family has seen use by McLaren Racing, Major League Baseball and others.",
+    "foundry_blurb": "JTD Type describe Transducer as rooted in the era of turntables, CRT screens and vacuum tubes, a time when technology was tactile, required manuals, and left a physical impression. The typeface takes the squarish sans-serif style ubiquitous with electronics and tempers its modernist rigidity with slight humanity: tapered vertical stems, a deliberately differentiated lowercase t, and a high x-height suited to interfaces and diagrams. Extended OpenType support includes oldstyle figures, superscripts, denominators and a full suite of UI symbols."
+  },
+  {
+    "name": "Ultramega",
+    "foundry": "JTD Type",
+    "url": "https://jtdtype.com/typeface/Ultramega",
+    "designer": "Rachel Kriebel",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A geometric sans-serif drawing directly from the Soviet Futura copy Zhurnalnaya Roublennaya, with characteristic circular forms, high x-height and OpenType alternates that shift the feel between austere geometry and 1970s warmth.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ultramega"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "futura-inspired",
+      "soviet",
+      "1970s",
+      "high-x-height",
+      "technical",
+      "ui",
+      "alternate-glyphs"
+    ],
+    "summary": "A geometric sans by Rachel Kriebel drawn from Zhurnalnaya Roublennaya, the Soviet bootleg of Futura, with a high x-height and stylistic alternates that push it between clinical geometry and 1970s warmth.",
+    "description": "Designed by Rachel Kriebel as JTD Type's first release, it takes Zhurnalnaya Roublennaya's naive approach to geometric forms as its starting point, toning down the most eccentric letterforms while retaining the underlying character. The family runs across six weights from Hairline to Black, each with an oblique, and OpenType features include round-dot alternates, a double-storey 'a' variant and an alternate 'M' to fine-tune the geometric register. A full set of cap-height symbols is included for UI work, and language support extends across a broad range of Latin-script languages including Vietnamese.",
+    "foundry_blurb": "JTD Type describe Ultramega as Rachel Kriebel's take on the classic geometric sans genre, inspired by Zhurnalnaya Roublennaya, the Soviet copy of Futura, whose naive quirks she channelled into a design with a higher x-height and a 1970s inflection. OpenType features let users adjust the level of geometric purity to suit any application."
+  }
+]

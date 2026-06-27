@@ -1,0 +1,1765 @@
+[
+  {
+    "name": "Fieldstone",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/fieldstone",
+    "designer": "Mattox Shuler",
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospace sans",
+    "classification_notes": "The foundry explicitly describes Fieldstone as a quirky monospace; its fixed-width construction and sans letterforms place it firmly in the mono category with a sans-influenced subcategory.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fieldstone"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "quirky",
+      "utilitarian",
+      "editorial",
+      "packaging",
+      "fixed-width",
+      "friendly"
+    ],
+    "summary": "A fixed-width sans with sturdy forms softened by friendly curves, designed for both utilitarian and editorial applications.",
+    "description": "Designed by Mattox Shuler, Fieldstone is a monospace with an unusual character: angular, almost architectural letterforms sit alongside unexpectedly warm curves and small idiosyncratic details. Eight styles span Regular to Heavy with matching italics, and a variable font is included. The broad language coverage and confident personality make it a workable choice across packaging, editorial and interface contexts.",
+    "foundry_blurb": "Fort Foundry describe Fieldstone as a quirky monospace built like something ancient and engineered at the same time, with sturdy shapes softened by friendly curves and odd little surprises throughout. They position it as thoroughly equipped for utilitarian purposes while retaining enough personality for headlines, packaging and editorial design."
+  },
+  {
+    "name": "Silverberg",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/silverberg",
+    "designer": "Mattox Shuler",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric sans",
+    "classification_notes": "Silverberg is built on geometric sans foundations akin to Futura but with eccentric, decorative inflections drawn from 1970s typographic styles, making it function primarily as a display face rather than a neutral grotesque.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Silverberg"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "retro",
+      "1970s",
+      "eccentric",
+      "halloween",
+      "futura-inspired",
+      "titling"
+    ],
+    "summary": "A geometric display sans with deliberate eccentricities drawn from 1970s typographic styles, pitched as Futura dressed up as Dracula.",
+    "description": "Designed by Mattox Shuler and produced by Graeme Swank and Brian Brubaker, Silverberg takes the geometric skeleton of faces like Futura and layers in eccentric details inspired by 1970s typefaces such as ITC Serif Gothic and Cortez. The family is minimal in scope — just Bold and Bold Italic — making it a focused titling tool rather than a workhorse. Wide Latin Extended language support makes it practical for international display work despite its narrow weight range.",
+    "foundry_blurb": "Fort Foundry describe Silverberg as combining the familiar geometric foundations of families like Futura with favourite eccentricities inspired by 1970s typographic styles, citing ITC Serif Gothic, Cortez and more as references. Originally drawn from a 1980s book cover design, they playfully pitch it as 'What if Futura went to a Halloween party in the late 70s dressed up as Dracula?'"
+  },
+  {
+    "name": "Scenic Sans",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/scenic-sans",
+    "designer": "Mattox Shuler, Brian Brubaker",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "The foundry explicitly describes it as a geometric grotesk, citing Helvetica and Digiset as reference points. Its structure combines geometric proportions with grotesque warmth, placing it firmly in that subcategory.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Scenic Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric-grotesque",
+      "helvetica-influenced",
+      "ui",
+      "editorial",
+      "branding",
+      "wayfinding",
+      "variable"
+    ],
+    "summary": "A geometric grotesque spanning nine weights with matching italics, designed with Helvetica and the early digital typeface Digiset as reference points.",
+    "description": "Designed by Mattox Shuler and Brian Brubaker at Fort Foundry, Scenic Sans draws on Helvetica's screen ubiquity and Digiset, one of the earliest digital typefaces built for screens. The family runs from Thin to Black across 18 styles plus a variable font, covering editorial, branding, wayfinding and information design. Latin extended glyph coverage supports a wide range of languages across the full weight range.",
+    "foundry_blurb": "Fort Foundry describe Scenic Sans as inspired by the geometric grotesk tradition, merging Digiset, one of the first digital typefaces made for screens, with the Helvetica lineage that has underpinned screen UI since the original iPhone. Designed by Mattox Shuler and Brian Brubaker, the family offers nine weights with italics and a variable font, built for editorial, branding, wayfinding and information design."
+  },
+  {
+    "name": "Abolition",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/abolition",
+    "designer": "Mattox Shuler",
+    "year": 2013,
+    "category": "display",
+    "subcategory": "condensed sans",
+    "classification_notes": "Condensed, industrial sans-serif with stylistic variants including rough and round treatments; the page categorises it as Sans but its display-oriented construction and textured variants place it firmly in the display category.",
+    "weights": [
+      "Lines",
+      "Lines Oblique",
+      "Soft",
+      "Soft Oblique",
+      "Regular",
+      "Oblique",
+      "Round",
+      "Round Oblique",
+      "Rough",
+      "Rough Oblique"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Abolition"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "industrial",
+      "display",
+      "sans-serif",
+      "rough",
+      "textured",
+      "poster"
+    ],
+    "summary": "A condensed industrial sans in ten styles, derived from Bourbon and extensively revised in 2013, with rough and round stylistic variants.",
+    "description": "Derived from Bourbon and heavily reworked, Abolition pairs a tightly condensed structure with an industrial character suited to display and poster use. Ten styles cover the family, ranging from Lines and Soft through to Rough and Round, each paired with an oblique. Stylistic alternates, tabular figures and broad Latin language support broaden its practical range beyond its rugged visual personality.",
+    "foundry_blurb": "Fort Foundry describe Abolition as condensed and dependable with an industrial work ethic. It is a highly modified sans-serif version of Bourbon, featuring stylistic alternates and international language support, and underwent an extensive revision in 2013."
+  },
+  {
+    "name": "Cambridge",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/cambridge",
+    "designer": "Jen Hood",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The foundry describes it as elevated and timeless, drawing from engraved headstones and bronze institutional plaques, placing it firmly in the classical serif tradition with controlled stroke contrast and an academic character.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Cambridge",
+      "Cambridge Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "academic",
+      "editorial",
+      "institutional",
+      "classical",
+      "condensed",
+      "heritage"
+    ],
+    "summary": "A classical serif in 20 styles drawing on the engraved headstones and bronze plaques of Boston and Cambridge, Massachusetts.",
+    "description": "Designed by Jen Hood, Cambridge runs across two widths, standard and condensed, each with five weights from Light to Bold and matching italics. Its inspiration comes from the engraved stonework and institutional signage of the Boston area, lending the family a controlled, heritage character suited to editorial, academic and branding work where restraint is required. The extended Latin glyph set provides broad Western European language coverage.",
+    "foundry_blurb": "Fort Foundry describe Cambridge as an elevated, timeless serif inspired by the history and academic atmosphere of Boston and Cambridge, Massachusetts, drawing from old engraved cemetery headstones and bronze de-bossed plaques at historical institutions. They position it as a typeface for projects that need to make a confident yet controlled statement, with both normal and condensed widths and matching italics across 20 styles."
+  },
+  {
+    "name": "Molfetta",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/molfetta",
+    "designer": "Jen Hood, Amy Hood",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Fort Foundry categorises Molfetta as a sans, but its deco-inflected geometry, heavy optical presence and explicit display orientation place it firmly in the display category with a geometric sans structure.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Molfetta"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "art-deco",
+      "chunky",
+      "italian-inspired",
+      "editorial",
+      "packaging"
+    ],
+    "summary": "A deco-inflected geometric display sans from Hoodzpah, drawing on the chunky limestone architecture of the southern Italian port city of Molfetta.",
+    "description": "Designed by Jen Hood and Amy Hood of Hoodzpah, the family runs across six weights from Light to Black with matching italics, plus a variable font. Its forms mix angled strokes with arched constructions and pronounced weight, giving it a sturdy, architectural quality suited to packaging, editorial headlines and food and hospitality branding. The extended Latin character set covers a broad range of languages.",
+    "foundry_blurb": "Fort Foundry describes Molfetta as a deco-infused display typeface inspired by the ancient port city of Molfetta in southern Italy, where chunky geometric limestone buildings line the coast. They characterise it as a mix of angles, arches and thick architecture — charming but sturdy, both timeless and nostalgic."
+  },
+  {
+    "name": "Alkaline",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/alkaline",
+    "designer": "Jonathan Ball, Mattox Shuler",
+    "year": null,
+    "category": "script",
+    "subcategory": "casual script",
+    "classification_notes": "Categorised as Script by the foundry; inspired by mid-century lettering and logos, it has a casual, connected letterform style with a pronounced forward slant typical of informal script typefaces.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Alkaline",
+      "Alkaline Caps"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "mid-century",
+      "casual",
+      "retro",
+      "lettering",
+      "ligatures",
+      "caps-variant"
+    ],
+    "summary": "A mid-century-inspired casual script with a 18° camber, developed in collaboration between Fort Foundry and letterer Jonathan Ball.",
+    "description": "Drawn from mid-century lettering and kitchen appliance logos, Alkaline pairs playful informality with considerable OpenType functionality: contextual and stylistic alternates, full ligature support and an all-caps companion family. Five weights from Regular to Heavy are available across both the standard and Caps subfamilies, giving designers ten styles in total. Broad Latin Extended language coverage makes it a practical choice for international work that still wants warmth and character.",
+    "foundry_blurb": "Fort describe Alkaline as a highly fun and functional mid-century script, developed with letterer Jonathan Ball to be as fun yet functional as possible. Inspired by mid-century lettering and logos on kitchen appliances, it features a clubby camber of 18°, fully functional ligatures, stylistic and contextual alternates, an all-caps version and international language support."
+  },
+  {
+    "name": "Beale",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/beale",
+    "designer": "Amy Hood",
+    "year": null,
+    "category": "display",
+    "subcategory": "retro display serif",
+    "classification_notes": "Classified as display given its origin as decorative lettering for a specific event and its inspiration from Blues and Rock 'N' Roll record typography; the serif construction has a funky, expressive retro character rather than a text setting intent.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Beale"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "retro",
+      "display",
+      "serif",
+      "music",
+      "americana",
+      "memphis",
+      "lettering",
+      "decorative"
+    ],
+    "summary": "A retro display serif drawn from Blues and Rock 'N' Roll record lettering associated with Sun Studio and Stax Records in Memphis, Tennessee.",
+    "description": "Originally created as custom lettering for a speaking engagement in Memphis with Creative Works, Beale takes its cues from the hand-lettered typography found on Blues and Rock 'N' Roll records from Sun Studio and Stax. Three weights from Light to Black provide range for display and headline use, and the character set includes an extended range of Latin accents and additional fun glyphs. Best suited to music, cultural and event contexts where a sense of American Southern retro identity is wanted.",
+    "foundry_blurb": "Fort Foundry describe Beale as a funky, retro display serif inspired by Memphis, Tennessee, born from a custom lettering project tied to a speaking engagement with Creative Works. The letterforms draw on the record typography of Sun Studio and Stax Records, and the font ships with a wide range of additional characters and glyphs."
+  },
+  {
+    "name": "Bearklaw",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/bearklaw",
+    "designer": "Brian Brubaker, Mattox Shuler",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Inspired by Futura Display and pre-digital geometric cuts, Bearklaw is a display-oriented geometric sans built for large sizes, with a wider 'Cub' cut and a distressed 'Printed' variant extending its expressive range.",
+    "weights": [
+      "Medium",
+      "Demi",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Cub"
+    ],
+    "subfamilies": [
+      "Bearklaw"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "futura-inspired",
+      "retro",
+      "expressive",
+      "bold",
+      "poster"
+    ],
+    "summary": "A geometric display family by Brian Brubaker and Mattox Shuler, fusing pre-digital cuts of Futura Display into a modern ten-style family with period alternates and a wider small-size cut.",
+    "description": "Taking its cues from a mail order advertisement set in a vintage cut of Futura Display, Bearklaw is not a straight revival but a creative synthesis of pre-digital geometric systems. The family runs from Medium to Black with matching italics, and adds two bonus styles: Cub, a wider cut suited to smaller sizes, and Printed, a textured variant. Stylistic alternates and historical forms give designers room to dial in character without leaving the family.",
+    "foundry_blurb": "Fort Foundry describe Bearklaw as a playful powerhouse inspired by the geometry behind Futura Display, born from research into various pre-digital cuts of that second cousin of Futura. Rather than a pure revival, the designers treated it as a fusion of geometric ideas, expanded into a modern display family complete with historical alternates, a wider Cub cut for smaller settings, and a Printed style."
+  },
+  {
+    "name": "Beverly Drive Right",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/beverly-drive-right",
+    "designer": "Amy Hood",
+    "year": null,
+    "category": "script",
+    "subcategory": "retro script",
+    "classification_notes": "The foundry classifies it as a script; it is a retro-styled, right-leaning cursive with a low x-height and exaggerated cap height, consistent with mid-century American casual scripts.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Beverly Drive Right"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "retro",
+      "cursive",
+      "casual",
+      "vintage",
+      "display",
+      "handlettered"
+    ],
+    "summary": "A right-leaning retro script by Amy Hood with a low x-height and two weights suited to packaging, branding and occasion print.",
+    "description": "Designed by Amy Hood, Beverly Drive Right is a casual retro script with a slightly exaggerated cap height and low x-height that gives it a mid-century feel. Two weights, Regular and Bold, carry the family across a wide range of uses from restaurant logos and beer labels to holiday cards and invitations. The accompanying left-leaning Beverly Drive variant completes the pair for designers wanting directional contrast.",
+    "foundry_blurb": "Fort Foundry describe Beverly Drive Right as a retro script font with a low x-height, slightly exaggerated cap height, and two unique style sets. They suggest it can be dressed up for wedding invitations and holiday cards or dressed down for restaurant logos and beer labels."
+  },
+  {
+    "name": "Beverly Drive",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/beverly-drive",
+    "designer": "Amy Hood",
+    "year": null,
+    "category": "script",
+    "subcategory": "casual script",
+    "classification_notes": "A left-leaning casual script with roots in mid-century American sign painting and commercial lettering traditions, placing it firmly in the script category with a retro-casual subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Beverly Drive"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "retro",
+      "casual",
+      "left-leaning",
+      "mid-century",
+      "signage",
+      "americana",
+      "decorative"
+    ],
+    "summary": "A left-leaning casual script by Amy Hood, drawn from the signage culture of Beverly Hills, from boutique shop fronts to apartment complex lettering.",
+    "description": "Designed by Amy Hood of Hoodzpah, Inc., it pulls from two distinct ends of the Beverly Hills aesthetic: the polished Rodeo Drive shop signs and the kitschier logos of local apartment complexes. That range makes it adaptable across formal and informal applications, from wedding stationery to laminated diner menus. Available in a single Regular style with broad Latin Extended language support.",
+    "foundry_blurb": "Fort Foundry describe Beverly Drive as a left-leaning script font inspired by Beverly Hills, citing the posh Rodeo shop signs and kitschy apartment complex logos as its reference points. They position it as a versatile choice that can be dressed up for holiday cards or wedding invitations, or dressed down for casual everyday use."
+  },
+  {
+    "name": "Blackbird",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/blackbird",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Listed under Sans by Fort Foundry; the specimen previews show a clean, upright grotesque with narrow and condensed widths across a broad weight range, consistent with a functional grotesque sans classification.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Narrow",
+      "Standard"
+    ],
+    "subfamilies": [
+      "Blackbird Condensed",
+      "Blackbird Narrow",
+      "Blackbird"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "condensed",
+      "narrow",
+      "multiwidth",
+      "workhorse",
+      "editorial",
+      "functional"
+    ],
+    "summary": "A 54-style grotesque sans spanning three widths and nine weights, designed to cover a wide range of typographic settings.",
+    "description": "Three width variants — Condensed, Narrow and Standard — each run through nine weights from Thin to Black, with italics throughout, giving the family 54 styles in total. The clean, upright letterforms sit comfortably across editorial, branding and display applications without pushing a strong personality in any one direction. The range of widths makes it practical for situations requiring tight column setting alongside looser display work within the same visual system.",
+    "foundry_blurb": "Fort Foundry offer Blackbird as a Sans family with 54 styles, available through their subscription catalogue. The family spans Condensed, Narrow and regular widths across a full weight range with italic companions."
+  },
+  {
+    "name": "Chapman Ave",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/chapman-ave",
+    "designer": "Amy Hood",
+    "year": null,
+    "category": "display",
+    "subcategory": "layered display",
+    "classification_notes": "Chapman Ave is a dimensional, all-caps layered display family built for decorative headline use, with chrome, shadow, corner and fill styles designed to be mixed and stacked rather than used as a conventional text face.",
+    "weights": [
+      "Chrome",
+      "Corner",
+      "Fill",
+      "Shadow"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Chapman Ave"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "layered",
+      "chrome",
+      "dimensional",
+      "all-caps",
+      "decorative",
+      "headline",
+      "bold"
+    ],
+    "summary": "A four-style layered display family by Amy Hood, offering chrome, shadow, fill and corner variants designed to be combined for dimensional headline effects.",
+    "description": "Chapman Ave is an all-caps display family derived from Santa Ana Sans, rebuilt as a chrome-effect layering system across four styles: Chrome, Corner, Fill and Shadow. Styles can be mixed and matched to produce depth and dimensional effects, with OpenType stylistic sets and contextual alternates adding further variation. Specimen work by Hoodzpah suggests a primary audience in bold editorial, event and packaging design.",
+    "foundry_blurb": "Fort Foundry describe Chapman Ave as a dimensional display family with built-in chrome and drop shadow effects, offering more looks than the Met Gala. It features four layerable styles, OpenType stylistic sets for an underlined look via contextual alternates, and different case options for wide design possibilities. The font was made as a chrome all-caps variation of Santa Ana Sans, with title specimens by Hoodzpah."
+  },
+  {
+    "name": "Bourbon",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/bourbon",
+    "designer": "Mattox Shuler",
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Described as a condensed display serif inspired by old whiskey bottle lettering, with rough and inline variants that make it unsuitable for body text use. Its heritage-americana character and distressed styles place it firmly in the display category.",
+    "weights": [
+      "Regular",
+      "Oblique",
+      "Rough",
+      "Rough Oblique",
+      "Lines",
+      "Lines Oblique"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bourbon"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "condensed",
+      "vintage",
+      "americana",
+      "whiskey",
+      "distressed",
+      "heritage"
+    ],
+    "summary": "A condensed display serif drawn from old whiskey bottle lettering, offered in clean, rough and inline variants.",
+    "description": "Designed by Mattox Shuler, Bourbon takes its cues from the hand-lettered typography found on American whiskey packaging, with tall condensed letterforms that suit headlines, labels and signage. Six styles cover a clean regular and oblique, a distressed rough pair and a lines variant with inline detailing. The rough styles are intended for large sizes with smooth anti-aliasing, and the foundry recommends pairing with script or distressed textures.",
+    "foundry_blurb": "Fort Foundry describe Bourbon as a condensed display serif inspired by old whiskey bottles, noting that its letters work well alongside distressed textures or script typefaces. The Rough style is recommended at large sizes with anti-aliasing set to Smooth. Bourbon is an updated version of an earlier release called Moonshiner, and has a sans-serif companion named Abolition."
+  },
+  {
+    "name": "Bowery Lane",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/bowery-lane",
+    "designer": "Amy Hood",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The foundry describes it as sitting between a Scotch Modern, Transitional and Slab serif, with moderate contrast and swash alternates for both roman and italic styles, which places it squarely in the transitional serif tradition with eclectic influences.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bowery Lane"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "scotch-modern",
+      "swash",
+      "editorial",
+      "bookish",
+      "versatile",
+      "new-york"
+    ],
+    "summary": "A 12-style transitional serif with swash alternates for both roman and italic cuts, drawing on Scotch Modern and slab traditions.",
+    "description": "Designed by Amy Hood, it sits somewhere between Scotch Modern, transitional and slab serif conventions, with moderate contrast that keeps it readable at smaller sizes. Swash style sets are available for both the italic and roman styles, offering a rounder, more whimsical character than the old-money restraint of a Caslon. The family spans six weights from Thin to Black, each with a matching italic.",
+    "foundry_blurb": "Fort Foundry describe Bowery Lane as landing between Scotch Modern, Transitional and Slab serif, with a confident, classic character in its default set and a warmer, more playful personality when curl swash alternates are switched on. The font takes its name from the iconic New York street and aims to carry a similar breadth of character and broad usability, with swash style sets available for roman as well as italic styles."
+  },
+  {
+    "name": "Factoria",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/factoria",
+    "designer": "Mattox Shuler",
+    "year": null,
+    "category": "slab",
+    "subcategory": "geometric slab",
+    "classification_notes": "Factoria is described by the foundry as a geometric, square slab serif, with the squarish geometry and industrial roots placing it firmly in the geometric slab category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Factoria"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "geometric",
+      "square",
+      "industrial",
+      "sports",
+      "editorial",
+      "multi-weight"
+    ],
+    "summary": "A geometric square slab serif in eight weights from Thin to Ultra, designed by Mattox Shuler with a deliberately industrial character.",
+    "description": "Born from an industrial reference point, Factoria pairs clean, restrained lighter weights with bolder cuts that carry genuine weight and presence. All eight weights from Thin to Ultra come with matching italics, giving the family 16 styles in total. OpenType features include tabular figures, fractions, subscripts and superscripts, making it serviceable across editorial, branding and sporting contexts.",
+    "foundry_blurb": "Fort Foundry describe Factoria as a hard-working geometric, square slab born out of industry, capable of moving from an industrial building to a sports magazine with ease. Lighter weights offer a clean, no-nonsense character while heavier cuts exude strength and personality across eight weights from Thin to Ultra, each with a corresponding italic."
+  },
+  {
+    "name": "Colt",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/colt",
+    "designer": "Mattox Shuler",
+    "year": null,
+    "category": "slab",
+    "subcategory": "extended slab serif",
+    "classification_notes": "Colt draws on Clarendon conventions with ball terminals and wide letterforms, placing it firmly in the extended slab serif tradition inspired by 1960s vehicle typography.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Colt",
+      "Colt Soft"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "clarendon",
+      "extended",
+      "wide",
+      "retro",
+      "automotive",
+      "ball-terminals"
+    ],
+    "summary": "A wide Clarendon-style slab serif by Mattox Shuler, drawing on 1960s vehicle lettering with distinctive ball terminals across six weights.",
+    "description": "Colt is an extended slab serif with letterforms rooted in the wide, muscular proportions found on American cars of the 1960s. Ball terminals anchor the design and tie it to the Clarendon genre, while the family comes in two sub-families, Colt and the softer-edged Colt Soft, each spanning six weights from Light to Black. Broad Latin language support and OpenType features including fractions and symbols round out a workmanlike package for display and branding use.",
+    "foundry_blurb": "Fort Foundry describe Colt as aiming to balance unbridled power and finesse, like a muscle car from decades ago. The wide letterforms arose from a love of type found on 1960s vehicles, and as the typeface developed it adopted the Clarendon style with attention to ball terminals, yielding what they call a new take on the extended slab-serif genre across six weights."
+  },
+  {
+    "name": "Cinder",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/cinder",
+    "designer": "Mattox Shuler",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "blackletter display",
+    "classification_notes": "Fort Foundry categorises it explicitly as blackletter. It takes cues from mid-century animation titling and interprets blackletter conventions for display and titling use rather than continuous text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cinder"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "display",
+      "titling",
+      "animation",
+      "retro",
+      "small-caps",
+      "decorative"
+    ],
+    "summary": "A blackletter display face by Mattox Shuler, drawn from mid-century animation titling and built around small caps in place of lowercase.",
+    "description": "Cinder draws on titling and lettering from 1950s animated films, reinterpreting blackletter conventions for contemporary display use. In place of a traditional lowercase, it uses small caps, which can be set alongside the uppercase in the conventional manner, used independently as an all-caps style, or flipped to centred alternates for a more playful effect. The two styles, Regular and Italic, suit titles, short-form copy and name treatments rather than extended text.",
+    "foundry_blurb": "Fort Foundry describe Cinder as a classic blackletter enchanted with a dose of modern magic, inspired by titling and lettering in animation films from the 1950s. The typeface replaces the lowercase with small caps, offering flexibility for titles and short copy, with stylistic alternates that centre the small caps onto the uppercase for an extra layer of decorative flair."
+  },
+  {
+    "name": "Gin",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/gin",
+    "designer": "Mattox Shuler",
+    "year": null,
+    "category": "display",
+    "subcategory": "vintage display serif",
+    "classification_notes": "Gin is classified as a serif by the foundry but functions as a display typeface, drawing from old-style serif letterforms and vintage bottle typography rather than any text-oriented tradition.",
+    "weights": [
+      "Regular",
+      "Oblique",
+      "Rough",
+      "Rough Oblique",
+      "Round",
+      "Round Oblique",
+      "Lines",
+      "Lines Oblique"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gin"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "vintage",
+      "serif",
+      "oblique",
+      "rough",
+      "retro",
+      "packaging",
+      "decorative"
+    ],
+    "summary": "A vintage display serif by Mattox Shuler, drawing from old bottle typography and classic serif forms across four stylistic variants each with an oblique counterpart.",
+    "description": "Related to Fort Foundry's Bourbon, Gin shares similar letterforms but is condensed less, giving it a slightly wider presence suited to headlines and packaging. The family offers Regular, Rough, Round and Lines styles, each paired with an oblique, totalling eight styles. Stylistic alternates and broad Latin language support extend its utility for display and editorial work with a heritage character.",
+    "foundry_blurb": "Fort Foundry describe Gin as a brother to Bourbon, distilled from similar letterforms but condensed less. They position it as a vintage display typeface inspired by old serifs and classic spirits bottle typography, offering four styles with oblique counterparts, stylistic alternates and multiple language support."
+  },
+  {
+    "name": "Figure",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/figure",
+    "designer": "Brian Brubaker, Mattox Shuler",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Rooted in 19th-century gothic wood type traditions, Figure is a sans-serif with grotesque characteristics, offering warmth and quirk derived from historical American display type.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Narrow",
+      "Standard",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Figure Condensed",
+      "Figure Narrow",
+      "Figure",
+      "Figure Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "wood-type",
+      "display",
+      "19th-century",
+      "revival",
+      "warmth",
+      "editorial",
+      "multi-width"
+    ],
+    "summary": "A 40-style sans-serif family rooted in 19th-century gothic wood type, spanning four widths from Condensed to Extended.",
+    "description": "Designed by Brian Brubaker and Mattox Shuler, Figure draws on the idiosyncrasies of 19th-century American gothic wood type to produce a sans with genuine warmth and character. Forty styles spread across Condensed, Narrow, Standard and Extended widths, each running from Regular to Heavy with matching italics. The breadth of the family makes it adaptable across display and text settings without losing the quirk that distinguishes it from purely neutral grotesques.",
+    "foundry_blurb": "Fort Foundry describe Figure as their 'quirkhorse' - a workhorse font family that retains the quirks of a revival. With roots in the character and idiosyncrasies of 19th-century gothic wood type, they say it brings warmth and charm wherever it goes."
+  },
+  {
+    "name": "Grandway",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/grandway",
+    "designer": "Seth Nickerson, Mattox Shuler",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A geometric sans with Bauhaus-influenced construction, split across a text-oriented and a display-oriented subfamily. Rounded, tubular forms in the Display variant push it towards decorative geometric territory.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Display"
+    ],
+    "subfamilies": [
+      "Grandway",
+      "Grandway Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "bauhaus",
+      "display",
+      "warm",
+      "quirky",
+      "dual-family",
+      "ice-cream",
+      "playful"
+    ],
+    "summary": "A dual-family geometric sans by Seth Nickerson, originally drawn for an ice cream trailer and grown into a 32-style collection pairing a practical text family with a Bauhaus-inspired display counterpart.",
+    "description": "Grandway splits across two complementary subfamilies: a workhorse geometric sans and Grandway Display, which leans into rounded, tubular forms and Bauhaus-inflected construction. Both share the same DNA but diverge in personality, with the Display variant offering stylistic alternates that can shift the tone considerably. Eight weights from Thin to Black, each with matching italics, give the collection a combined 32 styles and 601 characters across broad Latin language support.",
+    "foundry_blurb": "Fort Foundry describe Grandway as having begun as a quirky set of capitals for an ice cream sandwich trailer, evolving over the years into a dual-family collection combining a practical geometric sans with the more playful, Bauhaus-inspired Grandway Display. They liken the collection to a good ice cream sandwich: much more than the sum of its parts, bringing two complementary flavours into one fully-baked, 601-character package with italics, a wide range of weights and other typographic niceties."
+  },
+  {
+    "name": "Industry",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/industry",
+    "designer": "Mattox Shuler",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Industry draws from geometric and technical letter construction, with a strong structured rhythm suited to display and headline use. Its blend of vintage and futuristic qualities places it firmly in the geometric sans tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Industry"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "industrial",
+      "display",
+      "headline",
+      "technical",
+      "sturdy",
+      "vintage",
+      "futuristic"
+    ],
+    "summary": "A geometric sans in eight weights from Thin to Ultra, drawing on industrial and technical forms for headline and display work.",
+    "description": "Built from geometric and technical influences, Industry carries a dual character that shifts between refined vintage and futuristic industrial depending on how it is applied. The family spans sixteen styles across eight weights, each with a matching italic, and supports an extended Latin character set with tabular figures, fractions and superscript and subscript numerals. Fort Foundry suggest it for headlines, display and logotype, though it also holds its own in short-form body copy.",
+    "foundry_blurb": "Fort Foundry describe Industry as forged from geometric and technical styles, standing sturdy and strong. They note it can span from a refined vintage feel to an industrial futuristic vibe, and recommend it for headlines, display, logotype and short-form body copy. The family includes eight weights from Thin to Ultra with corresponding italics, plus features such as tabular figures, fractions, subscripts and superscripts."
+  },
+  {
+    "name": "Industry Inc",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/industry-inc",
+    "designer": "Mattox Shuler",
+    "year": null,
+    "category": "display",
+    "subcategory": "industrial sans",
+    "classification_notes": "A bold, all-caps display sans built around a layered type system with decorative variants including stencil, bevel, inline and 3D cuts; firmly display in application and intent.",
+    "weights": [
+      "Base"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Industry Inc"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "layered",
+      "stencil",
+      "industrial",
+      "bold",
+      "modular",
+      "all-caps",
+      "decorative"
+    ],
+    "summary": "A layered display type system derived from the bold uppercase of the Industry family, offering 14 stylistic variants for stacking and combining.",
+    "description": "Built on the bold uppercase skeleton of Fort Foundry's Industry family, Industry Inc provides 14 distinct styles including Base, Stencil, Bevel, Inline, Outline, Cutline, Detail, 3D and their fill counterparts. The family functions as a modular system, with styles designed to be layered on top of one another to produce multi-effect typographic treatments. Suited to branding, packaging and editorial contexts where a bold, industrial character is wanted alongside flexible decorative control.",
+    "foundry_blurb": "Fort Foundry describe Industry Inc as a toolbox of type giving designers extensive typographic options and combinations. Based on the bold uppercase style of the Industry family, it comprises numerous stand-alone styles alongside a layered type system, with a manual and video tutorial available to guide the layering process."
+  },
+  {
+    "name": "Kensington",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/kensington",
+    "designer": "Jennifer Hood",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "compressed grotesque",
+    "classification_notes": "A narrow, compressed sans serif across five weights with italics, described by the foundry as eclectic and quirky, drawing on Victorian and ornate architectural references rather than strict grotesque geometry.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Kensington"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "compressed",
+      "condensed",
+      "quirky",
+      "eclectic",
+      "victorian",
+      "ornamental",
+      "display",
+      "narrow"
+    ],
+    "summary": "A compressed sans serif in five weights designed by Jennifer Hood, drawing on the dense architectural variety of West London's Kensington district.",
+    "description": "All ten styles are compressed cuts, running from Regular to Black with matching italics, and the family leans into eccentricity through unexpected letterform details in the 'x', 'g' and 'k'. Ornamental dingbats branded as Kensingdings extend its usefulness into decorative work, alongside architectural borders, cartouches and floral patterns. Broad Latin language support and OpenType features including stylistic alternates, fractions and tabular figures make it practical beyond display use.",
+    "foundry_blurb": "Fort Foundry describe Kensington as a narrow, stately and eclectic sans serif inspired by the compact and charming area of West London, drawing on Victorian townhomes, cobblestoned mews, ornate museums and whimsical gardens. Available in five weights plus italics, it can sway from elegant to bold, with unexpected flourishes in key letters lending whimsicality to any text. The family includes international language support, stylistic alternates and ornamental dingbats they call Kensingdings, designed by Jennifer Hood of Hoodzpah."
+  },
+  {
+    "name": "Lowdrag",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/lowdrag",
+    "designer": "Clark Orr",
+    "year": null,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Categorised as serif by the foundry; the vintage, quirky character and range of width variants (Narrow through Extended) suggest a display-oriented serif designed for headlines and expressive use rather than body text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Regular",
+      "Wide",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Lowdrag"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "vintage",
+      "serif",
+      "expressive",
+      "headline",
+      "label",
+      "retro",
+      "width-variants"
+    ],
+    "summary": "A display serif with vintage character from Fort Foundry, offered in four widths from Narrow to Extended.",
+    "description": "Designed by Clark Orr with design contributions from Mattox Shuler, Lowdrag is a display serif that leans on vintage charm and idiosyncratic detail. Four width variants, from Narrow to Extended, make it adaptable across headlines, labels and poster work. OpenType features include lowercase alternates, stylistic alternates and extra symbols, backed by broad Latin extended language coverage.",
+    "foundry_blurb": "Fort Foundry describe Lowdrag as a font with vintage charm and flair, comparing it to an old friend with new sideburns. Designed by Clark Orr, it is pitched at label design, headline setting and flyer work, with a playful character and a broad range of supported styles."
+  },
+  {
+    "name": "Locale",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/locale",
+    "designer": "Mattox Shuler",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "rounded grotesque",
+    "classification_notes": "Fort Foundry describe it as sitting between geometric and neo-grotesque styles with rounded terminals, placing it firmly in the rounded grotesque subcategory of sans-serif.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Locale",
+      "Locale Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "grotesque",
+      "geometric",
+      "friendly",
+      "monospace",
+      "extended-latin",
+      "legible"
+    ],
+    "summary": "A rounded sans-serif by Mattox Shuler that blends geometric and neo-grotesque qualities, offered in both proportional and monospaced cuts.",
+    "description": "Designed by Mattox Shuler and produced by Brian Brubaker, Locale pairs a generous x-height with softly rounded terminals and playful stroke construction. The family runs across four weights from Regular to Heavy, each with a matching italic, and the full set is mirrored in a Locale Mono subfamily for code or tabular contexts. Broad Latin Extended language support and OpenType features including fractions, case-sensitive forms and stylistic alternates round out a practical workhorse.",
+    "foundry_blurb": "Fort Foundry describe Locale as a friendly, rounded sans-serif that moves easily between geometric and neo-grotesque styles. They highlight its generous x-height, playful strokes and charming construction, noting that the family includes a monospaced version and is built to adapt to a wide range of settings."
+  },
+  {
+    "name": "Lone Pine",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/lone-pine",
+    "designer": "Amy Hood",
+    "year": null,
+    "category": "display",
+    "subcategory": "reverse contrast serif",
+    "classification_notes": "Lone Pine is a high-contrast reverse contrast slab serif display typeface with pronounced swashes, designed explicitly for headline and display use rather than text setting.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lone Pine"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "reverse-contrast",
+      "slab",
+      "swash",
+      "decorative",
+      "retro",
+      "western",
+      "70s"
+    ],
+    "summary": "A reverse-contrast display slab with dramatic swashes, drawn by Amy Hood and inspired by the roadside towns along California's Route 395.",
+    "description": "Designed by Amy Hood of Hoodzpah, Lone Pine draws from the desert towns and highways of the Eastern Sierra Nevada for its visual character. The typeface pairs extreme stroke contrast, inverted from the conventional axis, with generous swash details that make an immediate impression at large sizes. A style set toggles a more pronounced 1970s science-fiction feel, giving the family a second distinct personality.",
+    "foundry_blurb": "Fort Foundry describe Lone Pine as a reverse contrast serif with 110% zazz and juuj, inspired by California's Route 395 and the town of Lone Pine at the base of Mt. Whitney. They note it is super high contrast with big swashes for immediate wow factor, and that activating style set 01 gives it a 70s sci-fi aesthetic."
+  },
+  {
+    "name": "Pentz",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/pentz",
+    "designer": "Brian Brubaker, Mattox Shuler",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "textura revival",
+    "classification_notes": "Pentz is a revival of Tedesca, a late 19th-century blackletter typeface, offered in two stylistic cuts that vary in fidelity to the historical source.",
+    "weights": [
+      "Regular",
+      "Classic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pentz"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "revival",
+      "textura",
+      "motown",
+      "historical",
+      "display",
+      "cultural"
+    ],
+    "summary": "A two-style revival of Tedesca, a late 19th-century blackletter, developed for the Motown Museum to mark the 50th anniversary of Marvin Gaye's What's Going On.",
+    "description": "Designed by Brian Brubaker and Mattox Shuler in collaboration with Commonwealth // McCann, Pentz takes its cues from the lettering on Marvin Gaye's What's Going On album cover, where the original Tedesca type was freely adapted by cover designer Curtis McNair. The Classic style hews closer to the historical source, while Regular introduces a more restrained and reimagined treatment. OpenType features include uppercase and lowercase alternates, case-sensitive punctuation and fractions, with broad Latin extended language support.",
+    "foundry_blurb": "Fort Foundry describe Pentz as inspired by the type set on Marvin Gaye's What's Going On, developed with Commonwealth // McCann for the Motown Museum's 50th anniversary of the album. The design revives Tedesca, a late 19th-century blackletter, while adding stylistic flair in two cuts: Classic, which is more faithful to the original, and Regular, which is reimagined and restrained without losing the charm of the source material."
+  },
+  {
+    "name": "Mastermind",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/mastermind",
+    "designer": "Clark Orr, Brian Brubaker",
+    "year": null,
+    "category": "serif",
+    "subcategory": "flared serif",
+    "classification_notes": "Mastermind is described as a condensed flared serif, combining influences from 20th-century sign painting and late 19th-century print ephemera, placing it firmly in the flared or glyphic serif tradition.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mastermind"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "flared-serif",
+      "condensed",
+      "vintage",
+      "signpainting",
+      "nostalgic",
+      "editorial",
+      "display"
+    ],
+    "summary": "A condensed flared serif drawing on American sign painting and late 19th-century print ephemera, available in five weights with matching italics.",
+    "description": "Designed by Clark Orr and Brian Brubaker, Mastermind sits between the warmth of hand-lettered signage and the formality of 19th-century typographic ornament. Its condensed proportions and flared terminals give it a period character that works across display and editorial applications without reading as pastiche. The family spans ten styles from Regular to Black Italic, plus a variable font, with broad Latin language support.",
+    "foundry_blurb": "Fort Foundry describe Mastermind as a condensed flared serif that captures the feeling of opening a liquor cabinet untouched for a century, or browsing the shelves of a generational tobacco farm. They cite subtle influences from 20th-century sign painting and late 19th-century print ephemera, combining nostalgic character with a strikingly contemporary sensibility."
+  },
+  {
+    "name": "Native",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/native",
+    "designer": "Mattox Shuler",
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospace sans",
+    "classification_notes": "Native is explicitly described as a monospace typeface, with all weights and italics occupying the same horizontal space. Its letterforms are drawn with a humanist sensibility, placing it within the monospace sans category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Native"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "developer",
+      "coding",
+      "humanist",
+      "editorial",
+      "legible",
+      "fixed-width"
+    ],
+    "summary": "A monospace type family by Mattox Shuler, designed to balance personality and readability for both designers and developers.",
+    "description": "Six styles across three weights, each with a matching italic, all sharing the same fixed horizontal advance to prevent alignment shifts when switching between styles. Open counters aid legibility at small sizes, and the italics are sufficiently differentiated to serve as emphasis in code comments or running text. Small personality flourishes, such as the tail of the 'a' and the curve of the italic 'r', keep it from feeling anonymous.",
+    "foundry_blurb": "Fort Foundry describe Native as a monospace built with designers and developers in mind, striking a balance between personality and usability. The family's character surfaces in details like the tail of the 'a' and the italic 'r', while open counters support legibility at small sizes. All weights and italics occupy identical horizontal space, eliminating alignment issues when switching between styles."
+  },
+  {
+    "name": "Redondo Ave",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/redondo-ave",
+    "designer": "Amy Hood",
+    "year": null,
+    "category": "script",
+    "subcategory": "casual script",
+    "classification_notes": "Described explicitly as a casual, organic script with alternate characters; the page categorises it under Script and notes its display personality.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Redondo Ave"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "casual",
+      "display",
+      "handwritten",
+      "alternates",
+      "personality",
+      "latin"
+    ],
+    "summary": "A casual, organic script in two weights with extensive alternate characters and broad Latin language support.",
+    "description": "Designed by Amy Hood, Redondo Ave is a display script with 560 glyphs and a relaxed, hand-drawn quality tempered by enough polish for finished design work. Two weights, Regular and Bold, are offered alongside a generous set of stylistic alternates that allow for a more spontaneous, varied texture in setting. Its broad Latin coverage makes it practical across many European and indigenous language contexts.",
+    "foundry_blurb": "Fort Foundry describe Redondo Ave as an organic, casual script that can dress up and be taken out. It comes in two weights with 560 glyphs supporting most Latin-based languages, and features extensive alternate characters and style sets for a truly organic feel. They note it adds instant personality to any design or layout, with an extravagance that is simultaneously relatable and down to earth."
+  },
+  {
+    "name": "Prohibition",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/prohibition",
+    "designer": "Mattox Shuler",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A vintage-styled geometric sans with no serifs, drawing from early twentieth-century war and workforce poster lettering. The inclusion of stylistic alternates, rough and round variants reinforces its display-oriented, retro character.",
+    "weights": [
+      "Lines",
+      "Lines Oblique",
+      "Regular",
+      "Oblique",
+      "Round",
+      "Round Oblique",
+      "Rough",
+      "Rough Oblique"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Prohibition"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "vintage",
+      "poster",
+      "geometric",
+      "display",
+      "retro",
+      "industrial",
+      "alternate-styles"
+    ],
+    "summary": "A vintage sans in eight styles by Mattox Shuler, drawn from early twentieth-century war and workforce poster lettering.",
+    "description": "Prohibition takes the clean geometry of early sans letterforms and gives them a worn, printed character through its Rough and Round variants. Eight styles cover Lines, Regular, Round and Rough, each with an oblique companion, offering a useful range for display and poster work. Discretionary catchwords and stylistic alternates add period flavour.",
+    "foundry_blurb": "Fort Foundry describe Prohibition as a vintage sans typeface taking cues from classic war and workforce posters and industrial factories. Designed by Mattox Shuler, it features stylistic alternates, discretionary ligatures and multiple language support across eight styles."
+  },
+  {
+    "name": "Rift",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/rift",
+    "designer": "Mattox Shuler",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Rift is rooted in the square-sans genre with tall, geometric letterforms inspired by sci-fi poster typography, placing it firmly in the geometric sans category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rift",
+      "Rift Soft"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "square-sans",
+      "sci-fi",
+      "display",
+      "tall",
+      "versatile",
+      "alternate-styles"
+    ],
+    "summary": "A tall, square-cut geometric sans drawn from sci-fi poster lettering of an earlier era, available in five weights with italics and a softened variant.",
+    "description": "Inspired by the geometric type found on mid-century sci-fi posters, Rift is built on a square-sans foundation with tall proportions across five weights from Light to Bold. The family splits into standard and Soft styles, each with matching italics, giving twenty styles in total. OpenType features include stylistic alternates for a more playful tone, tabular figures for numerical alignment, and fractions.",
+    "foundry_blurb": "Fort Foundry describe Rift as drawing on letterforms inspired by sci-fi posters from an earlier age, noting that the research pointed toward tall, geometric type rooted in the square-sans genre. Though sci-fi usage was the original influence, the finished family became considerably more versatile, with five weights, corresponding italics, soft styles, and OpenType features including stylistic alternates and tabular figures."
+  },
+  {
+    "name": "Santa Ana",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/santa-ana",
+    "designer": "Amy Hood",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described as a semi-condensed pseudo geometric sans, drawing on vintage storefront signage with geometric influences but deliberately imperfect character forms.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Santa Ana"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "semi-condensed",
+      "retro",
+      "signage",
+      "vintage",
+      "display",
+      "workhorse",
+      "personality"
+    ],
+    "summary": "A semi-condensed geometric sans by Amy Hood, drawn from vintage storefront signage and marquee lettering across six weights with italics.",
+    "description": "Inspired by the imperfect letterforms found on retro storefronts and marquees, Santa Ana blends a pseudo-geometric structure with deliberate personality. Its semi-condensed proportions make it efficient at text sizes while the six weights and matching italics give it range for headlines, logos and display work. The foundry recommends tracking it tight or wide, suggesting the design holds up across a variety of spacing choices.",
+    "foundry_blurb": "Fort Foundry describe Santa Ana as a semi-condensed pseudo geometric sans with plenty of personality, inspired by the perfectly imperfect typography of vintage and retro storefront signage and marquees. Available in six weights plus italics, they position it as a workhorse that can handle heavier text setting as well as headline copy, logos and display use."
+  },
+  {
+    "name": "Shackleton",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/shackleton",
+    "designer": "Brian Brubaker, Mattox Shuler",
+    "year": null,
+    "category": "serif",
+    "subcategory": "flared serif",
+    "classification_notes": "A serif with pronounced flared serifs drawing on Victorian typographic conventions. The width variants and historical reference place it firmly in the display serif tradition rather than a conventional text classification.",
+    "weights": [
+      "Regular",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Narrow",
+      "Regular",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Shackleton Condensed",
+      "Shackleton Narrow",
+      "Shackleton Regular",
+      "Shackleton Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "victorian",
+      "flared",
+      "display",
+      "historical",
+      "adventure",
+      "width-variants"
+    ],
+    "summary": "A flared serif family in four widths, designed by Brian Brubaker and Mattox Shuler and inspired by the Victorian-era aesthetic surrounding polar explorer Ernest Shackleton.",
+    "description": "The family spans Condensed, Narrow, Regular and Wide, each with an italic, giving eight styles in total. Pronounced flared serifs carry the gilded quality of late Victorian lettering while the range of widths keeps it practical across headlines and display settings. Uppercase and lowercase alternates, ligatures and a broad Latin extended character set extend its usefulness beyond purely decorative work.",
+    "foundry_blurb": "Fort Foundry describe Shackleton as built for adventure and imbued with nostalgic charm, inspired by the intrepid life of Sir Ernest Shackleton and the Imperial Trans-Antarctic Expedition. They note its princely flared serifs preserve the gilded shards of the Victorian aesthetic, while the family is designed to withstand the rigours of a changing world."
+  },
+  {
+    "name": "Route Sans",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/route-sans",
+    "designer": "Mattox Shuler, Brian Brubaker",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Route Sans is described as taking a geometric approach derived from Digiset's geometric N-style variants, distinguishing it from its grotesk-leaning sibling Scenic Sans through a handful of alternate letterforms.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Route Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "editorial",
+      "branding",
+      "wayfinding",
+      "information-design",
+      "variable"
+    ],
+    "summary": "A geometric sans in 9 weights with matching italics, derived from the Digiset tradition and built for editorial, branding and wayfinding work.",
+    "description": "An offshoot of Fort Foundry's Scenic Sans, Route Sans takes the geometric strand of the early digital typeface Digiset as its reference point, with a small set of alternate letters giving it a distinctly contemporary character. Eighteen static styles run from Thin to Black with matching italics, accompanied by a variable version. The family is positioned for sustained use across editorial, branding, wayfinding and information design.",
+    "foundry_blurb": "Fort Foundry describe Route Sans as an offshoot of Scenic Sans in the vein of Digiset, one of the earliest digital typefaces. Where Digiset spans both grotesk and geometric approaches, Route Sans takes the geometric path with a few alternate letters lending a modern feel. Clear and capable, it is offered in 9 weights from Thin to Black with matching italics and a variable version, covering editorial, branding, wayfinding and information design."
+  },
+  {
+    "name": "Tiller",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/tiller",
+    "designer": "Brian Brubaker, Mattox Shuler",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Tiller is a serif drawing on Romanesque typography and 19th-century ephemera, with geometric influences giving it a historical yet structured character suited to text and display use.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tiller"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "historical",
+      "19th-century",
+      "workhorse",
+      "editorial",
+      "geometric-influenced",
+      "multilingual"
+    ],
+    "summary": "A workhorse serif family drawing on Romanesque typography and 19th-century ephemera, offered in five weights with matching italics.",
+    "description": "Inspired by geometric forms and 19th-century printed ephemera, Tiller strikes a balance between historical warmth and practical function. Five weights run from Regular to Heavy, each with a Roman and Italic, totalling ten styles. The family covers more than 200 languages and includes OpenType features such as stylistic alternates and case-sensitive punctuation.",
+    "foundry_blurb": "Fort Foundry describe Tiller as inspired by geometric shapes, Romanesque typography, and a love of 19th-century ephemera. Designed by Brian Brubaker and Mattox Shuler, the family takes a workhorse approach compared to their more ornate Shackleton, offering five weights with Roman and Italic styles, support for over 200 languages, and features including stylistic alternates and case-sensitive punctuation."
+  },
+  {
+    "name": "Termina",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/termina",
+    "designer": "Mattox Shuler",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Termina is a geometric sans with wide, high-x-height letterforms. Fort Foundry categorises it as Sans and positions it within the geometric tradition, distinguished by its deliberately wide proportions.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Termina"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "wide",
+      "high-x-height",
+      "advertising",
+      "display",
+      "logotype",
+      "legible"
+    ],
+    "summary": "A wide geometric sans by Mattox Shuler, spanning nine weights from Thin to Black with a high x-height suited to both display and small-scale use.",
+    "description": "Termina sets itself apart from typical geometrics through its generously wide letterforms and high x-height, which maintain legibility at smaller sizes while giving it presence at display scale. Nine weights from Thin to Black cover a range of applications including advertising, logotypes, pull quotes and descriptive copy. OpenType features include small caps, oldstyle figures, fractions and super- and subscripts.",
+    "foundry_blurb": "Fort Foundry describe Termina as a departure from the norm among geometric sans-serifs, distinguished by its wide letterforms. The family's high x-height and broad proportions are said to support legibility and readability at small sizes, while its range of nine styles makes it suitable for uses from advertising to logotype design."
+  },
+  {
+    "name": "Shuttleblock",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/shuttleblock",
+    "designer": "Brian Brubaker, Mattox Shuler, Clark Orr",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Shuttleblock is a geometric sans with block letterforms inspired by space programme signage, balancing sturdy upright forms with a restrained, classical sensibility across four widths.",
+    "weights": [
+      "Medium",
+      "Demi",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Narrow",
+      "Regular",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Shuttleblock Condensed",
+      "Shuttleblock Narrow",
+      "Shuttleblock",
+      "Shuttleblock Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "block",
+      "space",
+      "industrial",
+      "display",
+      "multi-width",
+      "sturdy"
+    ],
+    "summary": "A block sans in four widths inspired by the lettering of 20th-century space programmes, originally developed for the Hellcats brand before being expanded into a full family.",
+    "description": "Drawn from the block letterforms found on NASA-era space initiatives, Shuttleblock pairs a restrained classical quality with simple, sturdy construction. The family spans four widths — Condensed, Narrow, Regular and Wide — each offered in Medium, Demi and Bold with matching italics, totalling 24 styles. Helpful OpenType alternates, custom symbols and wide Latin language support make it practical across a range of display contexts.",
+    "foundry_blurb": "Fort Foundry describe Shuttleblock as classic, solid and sturdy — worthy of its place on a space shuttle. It began as a set of letters developed for the Hellcats brand by Brittany Reagan and Clark Orr, with Fort helping to build out the full family. Inspired by block letters from last-century space initiatives, it balances a refined feel with simple forms, coming in four widths and three weights per width, plus alternates and custom-designed symbols."
+  },
+  {
+    "name": "Venice Blvd",
+    "foundry": "Fort Foundry",
+    "url": "https://fortfoundry.com/fonts/venice-blvd",
+    "designer": "Jen Hood, Amy Hood",
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Categorised as a display sans by the foundry; its expressive weight range and illustrative character set make it unsuitable for body text, placing it firmly in the display category.",
+    "weights": [
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Venice Blvd"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sans-serif",
+      "playful",
+      "expressive",
+      "illustrative",
+      "multiscript",
+      "bold"
+    ],
+    "summary": "A cheerful display sans by Hoodzpah running four weights from Regular to Black, each with italics and a set of illustrative symbols.",
+    "description": "Designed by Jen and Amy Hood of Hoodzpah, Venice Blvd covers eight styles across four weights with a deliberately light-hearted character that shifts from whimsical at Regular to heavy and expressive at Black. The family includes over 22 illustrative symbols and broad Latin extended coverage across a wide range of languages. Best suited to headlines, posters and branding work where personality takes priority over neutrality.",
+    "foundry_blurb": "Fort Foundry describe Venice Blvd as an amusing and unpretentious display sans-serif family with four weights and eight styles, ranging from a whimsical Regular to a deep-fried Black, with 22+ illustrative symbols included for good measure."
+  }
+]

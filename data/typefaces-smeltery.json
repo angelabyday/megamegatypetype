@@ -1,0 +1,840 @@
+[
+  {
+    "name": "Live Test",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/live-test",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "type tester",
+    "classification_notes": "This page is a live type-testing tool for the Smeltery foundry, not a specific typeface. It displays multiple fonts from their catalogue for comparison and testing purposes.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Bold Italic",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Live Test"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "type-tester",
+      "specimen",
+      "foundry-tool",
+      "multi-font",
+      "preview"
+    ],
+    "summary": "A live type-testing page from Smeltery displaying a selection of their typefaces at adjustable sizes for comparison.",
+    "description": "This page functions as a font preview tool rather than a single typeface, presenting a range of Smeltery's catalogue including Justice, Audimat 3000, Papier Sans, Telerysm Mono 2 and others. Each entry can be tested at varying sizes using the standard pangram-style phrase. It serves as a practical specimen page for evaluating multiple typefaces side by side.",
+    "foundry_blurb": "Smeltery's live test page lets users preview a selection of their typefaces interactively, adjusting sizes and reading the fonts in context before purchase."
+  },
+  {
+    "name": "Justice",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/justice",
+    "designer": "Jack Usine & Fanny Garcia",
+    "year": 2004,
+    "category": "mono",
+    "subcategory": "display monospace",
+    "classification_notes": "Fixed-width construction with no curves, designed as a display monospace with decorative accessories; its strict grid and stencil-ready geometry place it firmly in the display mono category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Justice"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "display",
+      "stencil",
+      "western",
+      "geometric",
+      "decorative",
+      "signage",
+      "construction"
+    ],
+    "summary": "A stencil-ready display monospace with a western character, built on a strict fixed-width grid with no curves and a set of borders, arrows and ornaments for playful typesetting.",
+    "description": "Originally drawn in 2004 and thoroughly reworked in 2017 for the Ceinturama visual identity project, Justice treats its fixed-width structure as a modular construction game. Drawn entirely without curves, it can be painted, cut, or engraved directly, making it well suited to handmade signage and stencil work. A suite of decorative accessories, including border systems, arrows and ornaments, extends the family beyond the base letterforms into a small design system.",
+    "foundry_blurb": "Smeltery describe Justice as a rough monospace typeface with cowboy boots, first designed in 2004 and fully rethought in 2017 for the Ceinturama project around Paris's disused Petite Ceinture railway. The fixed-width principle was used as a construction game logic, with decorative borders, arrows and ornaments developed to make typesetting more playful. Drawn without curves, it is equally at home on screen, paper or wall, and is designed to be stencilled, painted or engraved with ease."
+  },
+  {
+    "name": "Assemblage Cuvelier",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/assemblage-cuvelier",
+    "designer": "Jack Usine",
+    "year": 2018,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Blends Elzevir and Didot influences, combining old-style and neoclassical serif characteristics into a single bespoke design rooted in French typographic tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Assemblage Cuvelier"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "bespoke",
+      "serif",
+      "french",
+      "wine",
+      "branding",
+      "lettering",
+      "elzevir",
+      "didot"
+    ],
+    "summary": "A bespoke serif drawn from the historical logo of Château Léoville-Poyferré, blending Elzevir and Didot influences into a single typeface for the Saint-Julien estate.",
+    "description": "Commissioned for Château Léoville-Poyferré, a second Grand Cru classé property in AOC Saint-Julien, this typeface by Jack Usine translates the château's existing handmade lettering into a formalised type design. The source material had accumulated its own character over decades, merging old-style Elzevir warmth with the high-contrast verticals of Didot. The result is a single-style face built for brand identity rather than extended typesetting.",
+    "foundry_blurb": "Smeltery describe Assemblage Cuvelier as a bespoke typeface created for Château Léoville-Poyferré, a prestigious property holding second Grand Cru rank in the 1855 classification of AOC Saint-Julien. Designed by Jack Usine and commissioned through Freak Fabric in 2018, the typeface draws on the château's historical logo — a piece of handmade lettering that evolved its own identity by subtly mixing Elzevir and Didot typographic styles."
+  },
+  {
+    "name": "Excursion",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/excursion",
+    "designer": "Fanny Garcia & Jack Usine",
+    "year": 2013,
+    "category": "display",
+    "subcategory": "display lettering",
+    "classification_notes": "A collection of five all-caps display faces drawn from observed handcrafted lettering in Marseille, with an accompanying dingbats set; firmly in the display category by intent and construction.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Excursion"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "all-caps",
+      "lettering",
+      "dingbats",
+      "handcrafted",
+      "whimsical",
+      "french",
+      "city-inspired"
+    ],
+    "summary": "Five all-caps display faces drawn from handcrafted lettering spotted on the streets of Marseille, packaged with an eclectic dingbats collection.",
+    "description": "Born from a 2011 field trip through Marseille by Fanny Garcia and Jack Usine, the family translates five distinct styles of observed street lettering into usable typefaces, all set in capitals. A dingbats companion extends the set, reflecting the unpredictable variety of the city's visual landscape. One of the six styles is available free of charge.",
+    "foundry_blurb": "Smeltery describe Excursion as a typographic synthesis of a trip through the streets of Marseille, calling it a type medley of five all-caps display faces inspired by remarkable handcrafted lettering, accompanied by an uncommon dingbats collection as surprising and diverse as the cityscape itself."
+  },
+  {
+    "name": "Papier Sans",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/papier-sans",
+    "designer": "Jack Usine",
+    "year": 2010,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described explicitly as a humanistic sans-serif; drawn freehand but structured to maintain lineal regularity, placing it firmly in the humanist sans tradition rather than script or display.",
+    "weights": [
+      "Regular",
+      "Italic",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Papier Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "handdrawn",
+      "raw",
+      "informal",
+      "lineal",
+      "freehand"
+    ],
+    "summary": "A freehand-drawn humanist sans by Jack Usine that sits between handwriting and structured lineal type.",
+    "description": "Drawn freehandedly but disciplined enough to read as a lineal, Papier Sans occupies an unusual position between casual mark-making and structured sans-serif. The italic departs more boldly from the roman, adopting an unlinked script movement rather than a simple slant. Three styles make up the family, lending it a quiet, rough-edged character suited to editorial or print work that wants tactility without full-blown script.",
+    "foundry_blurb": "Smeltery describe Papier Sans as a modest, raw-scan humanistic sans-serif. Though drawn freehandedly, it moves away from handwriting by adopting the structure and regularity of a lineal, while the italic takes greater distance from the roman through an unlinked-script movement. Designed by Jack Usine and released in 2010 across three styles."
+  },
+  {
+    "name": "Audimat 3000",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/audimat-3000",
+    "designer": "Jack Usine",
+    "year": 2003,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Grid-constructed and DIN-derived, Audimat 3000 sits squarely in the geometric/technical sans tradition, distinguished by eccentric details drawn from French vernacular signage rather than pure industrial rigour.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Audimat 3000"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "din-inspired",
+      "french-vernacular",
+      "grid-constructed",
+      "wayfinding",
+      "signage",
+      "quirky",
+      "display"
+    ],
+    "summary": "A DIN-derived geometric sans by Jack Usine that tempers technical rigidity with eccentric details borrowed from French amateur signage.",
+    "description": "First cut in 2003 and expanded to eight styles by 2014, Audimat 3000 takes the grid-constructed logic of DIN and introduces the irregular warmth of hand-lettered French shop signs. The result sits between formal wayfinding type and something more characterful, suited to logos, magazine layouts and signage systems that need legibility without austerity. Named a Typographica favourite and Typefacts Best Of in 2014.",
+    "foundry_blurb": "Smeltery describe Audimat 3000 as a DIN-like, grid-constructed typeface with a quirky touch, drawing on the 'beautiful monstrosities' of amateurish French hand-made signs. Designed by Jack Usine, it blends rigidity with eccentricity across a large character set suited to logos, wayfinding and magazine layouts."
+  },
+  {
+    "name": "Vidange Stitch",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/vidange-stitch",
+    "designer": "Jack Usine",
+    "year": 2009,
+    "category": "display",
+    "subcategory": "decorative",
+    "classification_notes": "A cross-stitch embroidery variant of the Vidange typeface, designed for a specific exhibition identity; falls into display/decorative due to its highly ornamental, craft-derived texture.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vidange Stitch"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "decorative",
+      "embroidery",
+      "cross-stitch",
+      "exhibition",
+      "bespoke",
+      "textured"
+    ],
+    "summary": "A cross-stitch embroidery variant of Vidange, created for the graphic identity of the Insiders exhibition in Bordeaux in 2009.",
+    "description": "Designed by Jack Usine as a companion to Fanny Garcia and Jack Usine's graphic identity for the Insiders exhibition at CAPC and arc en rêve in Bordeaux, this single-style typeface renders the forms of Vidange in a cross-stitch pattern. The result sits at the intersection of type and textile craft, making it highly specific in application. Available on request only.",
+    "foundry_blurb": "Smeltery describe Vidange Stitch as a cross-stitched version of Vidange, created specifically to accompany the graphic identity of the Insiders exhibition (CAPC and arc en rêve, Bordeaux, 2009), designed by Fanny Garcia and Jack Usine. The typeface is available on request."
+  },
+  {
+    "name": "Vidange",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/vidange",
+    "designer": "Jack Usine",
+    "year": 2009,
+    "category": "sans-serif",
+    "subcategory": "hybrid sans",
+    "classification_notes": "Vidange is explicitly described as a hybrid between humanist and geometric lineal references, making it difficult to classify as purely either; the designer likens it to a mix between Gill Sans and Futura sensibilities.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vidange"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "geometric",
+      "hybrid",
+      "sans-serif",
+      "experimental",
+      "lettering-influenced",
+      "character"
+    ],
+    "summary": "A deliberately mongrel sans that splices humanist and geometric lineal conventions into an uneasy but characterful whole.",
+    "description": "Designed by Jack Usine and released in 2009, Vidange mixes the organic warmth of humanist sans-serifs with the structural logic of geometric lineals, producing a typeface the designer compares to the illegitimate offspring of Eric Gill and Paul Renner. The inconsistency is intentional, evoking amateurish hand-lettering that borrows from different typographic traditions without forcing reconciliation. Eight styles are available, giving the family enough range for display and text use.",
+    "foundry_blurb": "Smeltery describe Vidange as a bastard typeface — an improbable mix of humanistic and geometric lineal references, as compatible as water and oil. They liken it to lettering drawn without concern for overall consistency, and suggest it might have been made by the hidden son of Eric Gill and Paul Renner."
+  },
+  {
+    "name": "Cnocession",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/cnocession",
+    "designer": "Jack Usine",
+    "year": 2010,
+    "category": "display",
+    "subcategory": "decorative",
+    "classification_notes": "An ornamental display face composed of 26 illustrated initials drawn from cemetery typography; its pictorial, funereal character places it firmly in the decorative display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cnocession"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "ornamental",
+      "initials",
+      "funerary",
+      "decorative",
+      "illustration",
+      "lettering",
+      "exhibition"
+    ],
+    "summary": "A set of 26 illustrated initials drawn from the cemetery typography of Castillon-la-Bataille, created for a 2010 Berlin gallery exhibition.",
+    "description": "Each glyph in this single-style display face is an initial letter reimagined through the engraved and monumental lettering of a French cemetery. Designed by Jack Usine for an exhibition with Fanny Garcia at Berlin's Zirkumflex gallery, it also accompanied an eponymous printed edition. The result is less a working typeface than a curated typographic artefact: 26 characters plus an ampersand that document a specific place and funereal visual tradition.",
+    "foundry_blurb": "Smeltery describe Cnocession as an alphabet inspired by the cemetery of Castillon-la-Bataille in the Gironde, France. Comprising 26 initials and an ampersand, it retranscribes the typographical atmosphere of that place. It was created for an exhibition by Fanny Garcia and Jack Usine at the Zirkumflex gallery in Berlin in May 2010, and accompanied by an eponymous edition published by Zirkumflex."
+  },
+  {
+    "name": "Geronto Bis",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/geronto-bis",
+    "designer": "Jack Usine",
+    "year": 2005,
+    "category": "display",
+    "subcategory": "inscriptional display",
+    "classification_notes": "Geronto Bis draws from a church marble inscription and 19th-century Catholic almanac ornaments, placing it firmly in the display category with an inscriptional, historical character rather than any conventional text classification.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Geronto Bis"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "inscriptional",
+      "historical",
+      "religious",
+      "ornamental",
+      "french",
+      "vintage",
+      "decorative"
+    ],
+    "summary": "A single-style display face combining a Lille church marble inscription with ornamental forms lifted from a Catholic almanac of 1891.",
+    "description": "Designed by Jack Usine and first released in 2005, Geronto Bis merges two sources discovered together on a single walk in Lille: an engraved church inscription and the typographic ornaments of a 19th-century Catholic almanac. The result is a one-style display face that carries the weight and formality of stone-cut lettering alongside decorative ecclesiastical detail. Best suited to editorial work, posters or cultural projects where a specific historical and religious visual register is required.",
+    "foundry_blurb": "Smeltery describe Geronto as the marriage between a church inscription engraved in marble and the typographic ornaments of an old Catholic almanac from 1891, both discovered on the same day during a walk in Lille, in the north of France."
+  },
+  {
+    "name": "Telerysm Mono 2",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/telerysm-mono-2",
+    "designer": "Jack Usine",
+    "year": 2008,
+    "category": "display",
+    "subcategory": "experimental mono",
+    "classification_notes": "A display typeface built around a monospace concept taken to an extreme, where letterforms are forcibly constrained and distorted within fixed widths, making it more expressive than functional.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Telerysm Mono 2"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "monospace",
+      "distorted",
+      "provocative",
+      "underground",
+      "niche"
+    ],
+    "summary": "An experimental display face by Jack Usine that forces letterforms into monospace constraints until they buckle, stretch and distort.",
+    "description": "Originally released in 2004 and revised in 2008, Telerysm Mono 2 treats monospace as a form of constraint rather than a functional grid, with letters crowded, stretched and warped to fit fixed side-bearings. Two styles make up the family, which is deliberately rough and heterogeneous in character. Best suited to nightlife graphics, provocative editorial work or any context where unruly type is the point.",
+    "foundry_blurb": "Smeltery describe Telerysm Mono 2 as a monospace display font that is uninhibited and exploratory, with letters maintained by force in their side-bearings — stretched, mutilated and tormented. They note the result is fully assumed in its heterogeneity and suggest it for Saturday night bondage party flyers."
+  },
+  {
+    "name": "Oryza",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/oryza",
+    "designer": "Jack Usine",
+    "year": 2008,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "Oryza is a display typeface designed with a single style, blending Asian calligraphic influences with Basque cultural references, making it a culturally hybrid display face unsuited to any conventional subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Oryza"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "custom",
+      "cultural",
+      "asian-influence",
+      "basque",
+      "identity",
+      "single-weight",
+      "exotic"
+    ],
+    "summary": "A single-style display typeface blending Asian calligraphic and Basque influences, originally created for the graphic identity of French exotic supermarket France Asia.",
+    "description": "Designed by Jack Usine in 2008, Oryza was commissioned as a bespoke typeface for the France Asia supermarket identity. Its letterforms draw on both East Asian typographic traditions and Basque cultural references, producing a visually distinctive hybrid suited to expressive branding. Available in one style only, it is a narrow, purpose-built display face rather than a general-use family.",
+    "foundry_blurb": "Smeltery describe Oryza as a 'sweet and sour' custom typeface carrying both Asian and Basque influences, created specifically for the graphic identity of the exotic supermarket France Asia."
+  },
+  {
+    "name": "Megalopolis Extra",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/megalopolis-extra",
+    "designer": "Jack Usine",
+    "year": 2008,
+    "category": "display",
+    "subcategory": "glyphic display",
+    "classification_notes": "Positioned by the foundry as sitting between sans and glyphic serifs, with a bold display character that resists clean classification into either camp; best described as a glyphic display face.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Megalopolis Extra"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "glyphic",
+      "bold",
+      "decorative",
+      "headline",
+      "ligatures"
+    ],
+    "summary": "A bold display face by Jack Usine that bridges sans and glyphic serif territory, offering alternate glyphs and ligatures for expressive headline work.",
+    "description": "Released in 2008 as an improved iteration of the original Megalopolis (2004), this single-style display face sits in an unusual zone between clean sans forms and serif-like incised detailing. A generous set of alternates and ligatures gives it typographic flexibility for headline and display contexts. Named one of Ilovetypography's best fonts of 2008.",
+    "foundry_blurb": "Smeltery describe Megalopolis Extra as a bold display face for big and happy words, situated between sans and glyphic serifs. An improved 'Extra' version of Megalopolis from 2004, it arrives with additional alternate glyphs and ligatures, released in 2008 by designer Jack Usine."
+  },
+  {
+    "name": "Stigmate",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/stigmate",
+    "designer": "Jack Usine",
+    "year": 2007,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Stigmate is classified as display due to its single expressive style drawn from tree graffiti letterforms; its geometric, monolinear construction distinguishes it from standard grotesques and places it firmly in display territory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Stigmate"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "monolinear",
+      "display",
+      "graffiti",
+      "expressive",
+      "engraved",
+      "single-weight"
+    ],
+    "summary": "A single-weight geometric display face drawn from the tradition of tree-engraved love graffiti, rendered in a monolinear style.",
+    "description": "Designed by Jack Usine in 2007, Stigmate takes its cue from carved letterforms found in tree bark, translating that impulsive, scratched quality into a clean geometric and monolinear form. Only one style exists, giving the family a focused, singular character suited to display and editorial contexts where a raw, personal tone is wanted. The foundry notes further weights may be added in future.",
+    "foundry_blurb": "Smeltery describe Stigmate as an impulsive typeface inspired by tree graffiti letterforms, a geometric and monolinear interpretation of the love engravings people carve into bark with a key. Designed by Jack Usine and released in 2007, it currently exists as a single style."
+  },
+  {
+    "name": "Trottoir",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/trottoir",
+    "designer": "Jack Usine",
+    "year": 2007,
+    "category": "display",
+    "subcategory": "industrial",
+    "classification_notes": "Adapted from lettering found on cast-iron manhole covers, Trottoir sits firmly in the display/industrial category, sharing the utilitarian, engraved character of vernacular signage lettering.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trottoir"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "industrial",
+      "vernacular",
+      "display",
+      "found-lettering",
+      "single-weight",
+      "french",
+      "utilitarian"
+    ],
+    "summary": "A free adaptation of the alphabet found on cast-iron manhole covers manufactured in Pont-à-Mousson, France, released as a single style in 2007.",
+    "description": "Drawn by Jack Usine from the lettering cast into manhole covers produced in Pont-à-Mousson, Lorraine, Trottoir preserves the engraved, utilitarian character of a typeface that spends its life underfoot. Available as a single style, it is a curio of vernacular type rescue rather than a workhorse family. Its charm is inseparable from its humble, industrial origins.",
+    "foundry_blurb": "Smeltery describe Trottoir as a free adaptation of the alphabet found on manhole covers made in Pont-à-Mousson, France, calling it a typeface too often trampled without scruples and praising its sense of typographic humility. Designed by Jack Usine and released in 2007 as a single style, it is offered as a small tribute to Lorraine."
+  },
+  {
+    "name": "Sans Merci",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/sans-merci",
+    "designer": "Jack Usine",
+    "year": 2006,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Described as pulpy and spicy with an incisive character, Sans Merci is positioned as a display-oriented sans with a strong personality rather than a neutral workhorse.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sans Merci"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sans-serif",
+      "expressive",
+      "editorial",
+      "latin",
+      "punchy"
+    ],
+    "summary": "A sharp-edged display sans by Jack Usine with a pulpy, high-contrast character suited to bold editorial work.",
+    "description": "Designed by Jack Usine and released in 2006, Sans Merci positions itself as a typeface with bite, described by the foundry as both pulpy and spicy. The family ships in four styles, giving enough range for varied typographic treatments. Its temperament makes it better suited to headlines and campaign work than extended text setting.",
+    "foundry_blurb": "Smeltery describe Sans Merci as a real latina, both pulpy and spicy, calling it generous but not easy and warning designers to handle it with care. Released in 2006 by Jack Usine, it comes in four styles."
+  },
+  {
+    "name": "Vernissage",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/vernissage",
+    "designer": "Jack Usine",
+    "year": 2006,
+    "category": "display",
+    "subcategory": "stencil",
+    "classification_notes": "Described as 'almost sans-serif' with triangular serifs, and offered in stencil and plain versions with oblique styles; its wayfinding and handpainted origins place it firmly in the display/stencil category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vernissage",
+      "Vernissage Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "wayfinding",
+      "handpainted",
+      "display",
+      "oblique",
+      "signage",
+      "french"
+    ],
+    "summary": "A wayfinding stencil typeface by Jack Usine, inspired by handpainted signs found in Bordeaux, offered in plain and stencil cuts with oblique styles.",
+    "description": "Drawn from two handpainted signs discovered in Bordeaux, this four-style family pairs plain and stencil versions, each with an oblique companion. The letterforms are nearly sans-serif, punctuated by small triangular serifs that give the design a distinctive vernacular character rooted in physical sign-making. Optimised for easy cutting, it works for both printed stencil projects and wayfinding applications where legibility under rough conditions matters.",
+    "foundry_blurb": "Smeltery describe Vernissage as a wayfinding typeface inspired by two handpainted signs found in Bordeaux, France. Designed by Jack Usine in 2006, it comes in stencil and plain versions with oblique styles, and is described as almost sans-serif due to its triangular serifs. They note it is easy to cut for handmade stencil work and resistant to outdoor conditions."
+  },
+  {
+    "name": "Soupirs",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/soupirs",
+    "designer": "Fanny Garcia & Jack Usine",
+    "year": 2006,
+    "category": "display",
+    "subcategory": "ornamental stencil",
+    "classification_notes": "Soupirs is an ornamental stencil family drawn from decorative architectural ventilation grilles found in Bordeaux, placing it firmly in the display category as a vernacular-derived, non-alphabetic or decorative typeface.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Soupirs"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "ornamental",
+      "stencil",
+      "vernacular",
+      "architectural",
+      "decorative",
+      "found-typography",
+      "french"
+    ],
+    "summary": "An ornamental stencil family drawn from 310 decorative ventilation grilles collected from the streets of Bordeaux, redesigned into a cohesive typographic system across 5 styles.",
+    "description": "Fanny Garcia and Jack Usine documented 1,489 decorative soupiraux from Bordeaux's building façades before selecting 310 to form this family. The result is an eclectic catalogue of vernacular ironwork forms, repurposed as a stencil font system rooted in a specific architectural and geographic tradition. Five styles carry the range of ornamental patterns found across the collection.",
+    "foundry_blurb": "Smeltery describe Soupirs as an ornamental stencil font family redesigned from decorative soupiraux found in the streets of Bordeaux. From 1,489 pieces originally collected, 310 were chosen to compose the family, forming an eclectic mix of vernacular forms. The term soupirail refers to the openings in the lower section of exterior ground-floor walls used to ventilate and light cellars and basement rooms."
+  },
+  {
+    "name": "In Progress",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/in-progress",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental",
+    "classification_notes": "The page offers only a teaser of unreleased work with no finished typeface to classify; display and experimental are the most reasonable placeholders given the speculative, sketch-stage framing.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "In Progress"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "preview",
+      "unreleased",
+      "experimental",
+      "wip"
+    ],
+    "summary": "A holding page at Smeltery showcasing early-stage typefaces not yet available for release.",
+    "description": "The page presents sketches and near-complete typefaces that are still in development at Smeltery. No weights, styles or pricing are confirmed, and the work is shown purely as a preview of upcoming releases. No finished product can be evaluated from the content available.",
+    "foundry_blurb": "Smeltery describe the page as a sneak preview of ongoing projects, ranging from early sketches to almost-finished typefaces, all waiting to be released and used."
+  },
+  {
+    "name": "Manifest Destiny",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/manifest-destiny",
+    "designer": "Jack Usine",
+    "year": 2004,
+    "category": "display",
+    "subcategory": "western",
+    "classification_notes": "A display typeface drawn in the style of American western comic lettering, inspired by 1950s Dell cowboy comics cover lettering. Its decorative, period-specific character places it firmly in the display category with a western subcategory.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Light",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Manifest Destiny"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "western",
+      "display",
+      "comic",
+      "vintage",
+      "americana",
+      "cowboy",
+      "retro"
+    ],
+    "summary": "A four-weight western display family drawn from 1950s Dell comic cover lettering, designed during the 2004 American presidential election as political commentary.",
+    "description": "Inspired by the hand lettering on covers of Jace Pearson of the Texas Rangers (Dell, 1952–56), this family captures the flavour of mid-century American cowboy typography. Jack Usine designed it in 2004 with the explicit intention of satirising George W. Bush's political vision. The four styles make it usable across a range of display applications where a period western aesthetic is wanted.",
+    "foundry_blurb": "Smeltery describe Manifest Destiny as a 4-weight font family inspired by the lettering of the Jace Pearson of the Texas Rangers comic covers published by Dell between 1952 and 1956. Designed by Jack Usine in 2004 during the American national elections, the typeface was conceived as a symbol of the backwards-thinking vision of George W. Bush, framed as an opportunity to draw a cowboy typeface."
+  },
+  {
+    "name": "Dead Fonts",
+    "foundry": "Smeltery",
+    "url": "https://www.smeltery.net/en/fonts/dead",
+    "designer": null,
+    "year": 2002,
+    "category": "display",
+    "subcategory": "miscellaneous",
+    "classification_notes": "The page lists a collection of discontinued display and novelty fonts spanning various styles; no single category applies, but display is the broadest fit for Smeltery's experimental output.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bankrutt",
+      "Audimat",
+      "Audimat Mono",
+      "Alusine",
+      "Justice Mono",
+      "Ohmygod",
+      "Heretica",
+      "Est-ce que",
+      "Consume",
+      "Patronne",
+      "Enfer",
+      "Redevance",
+      "Watch TV",
+      "Outil",
+      "Twenty One",
+      "Work",
+      "Kebab Bien Gras",
+      "Gazole",
+      "Icone",
+      "Ax&swar",
+      "PHylloxera",
+      "Jack Usine"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "notgood",
+    "type": "foundry",
+    "tags": [
+      "discontinued",
+      "defunct",
+      "experimental",
+      "novelty",
+      "eclectic",
+      "archive"
+    ],
+    "summary": "A graveyard listing of discontinued Smeltery fonts from 2002 to 2008, retired by the foundry on the grounds that they are no longer fit for use.",
+    "description": "Smeltery's dead fonts page collects roughly two dozen typefaces withdrawn from sale or distribution between 2002 and 2008, ranging from display and novelty cuts to at least two monospaced variants. The foundry is candid that these were retired because they fall short of current standards, though a handful including Geronto, Megalopolis and Audimat are noted as candidates for eventual redesign. Not a usable family in any conventional sense, this is an archive of early experimental work.",
+    "foundry_blurb": "Smeltery describes these fonts as extinct and no longer available, advising against their use on the basis that they are simply not good enough. A partial list runs from Jack Usine in 2002 through to Bankrutt in 2008, with a note that some, such as Geronto, Megalopolis and Audimat, may one day be redesigned."
+  }
+]

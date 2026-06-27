@@ -1,0 +1,372 @@
+[
+  {
+    "name": "Uborka Mono",
+    "foundry": "Hungarumlaut",
+    "url": "https://hungarumlaut.com/typefaces/uborka",
+    "designer": "Adam Katyi",
+    "year": 2020,
+    "category": "mono",
+    "subcategory": "monospace serif",
+    "classification_notes": "A monospaced typeface with high-contrast serifs derived from Amen Display Medium, with rounded stem terminals drawn from pointed-pen technique. Classified as mono due to its fixed 10-pitch spacing and explicit monospace design intent.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Uborka Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "West-European",
+      "Central-European",
+      "Baltic",
+      "Romanian",
+      "Turkish"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "serif",
+      "high-contrast",
+      "pointed-pen",
+      "fixed-pitch",
+      "10-pitch",
+      "coding"
+    ],
+    "summary": "A high-contrast monospace serif by Adam Katyi, derived from Amen Display Medium and built to a strict 10-pitch specification.",
+    "description": "Rounded stem beginnings and endings give this single-weight monospace serif a distinctly calligraphic texture, a direct result of translating the thick strokes of Amen Display Medium through a pointed-pen logic. Its fixed 10-pitch spacing means ten characters at 12pt measure exactly one inch wide, making it interchangeable with Hungarumlaut's other 10-pitch families, Menoe Grotesque and the forthcoming Ebuk Mono. Language coverage spans Basic Latin through to Turkish and several Central and Eastern European scripts.",
+    "foundry_blurb": "Hungarumlaut describe Uborka as a monospace serif with high contrast, derived from Amen Display Medium and shaped by the rounded forms that emerge when drawing thick stems with a pointed pen. Released on 15 October 2020 after a 2018–2019 design period, it adheres to a 10-pitch standard for easy pairing with their other monospace releases. The name means cucumber in Hungarian."
+  },
+  {
+    "name": "Ipar",
+    "foundry": "Hungarumlaut",
+    "url": "https://hungarumlaut.com/typefaces/ipar",
+    "designer": "Adam Katyi",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Ipar is constructed on strictly mathematical principles with uniform stem widths and no optical corrections, placing it firmly in the geometric sans tradition. Its references to Bauhaus and Constructivism, alongside Austrian signage, reinforce this classification.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Ipar",
+      "Ipar Extended"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "constructivist",
+      "bauhaus",
+      "signage",
+      "experimental",
+      "modular",
+      "extended"
+    ],
+    "summary": "A mathematically constructed geometric sans in two widths and seven weights, inspired by Austrian street signage and Bauhaus geometry.",
+    "description": "Designed by Adam Katyi between 2019 and 2021 and released in May 2023, Ipar takes uniform stem widths throughout with no optical corrections, producing a rigidly consistent, grid-like texture across the family. Austrian road and city signage, particularly the style encountered in Schladming, provided the starting point, while Bauhaus and Constructivist principles shaped the letterforms into clean geometric units. Alternate characters with rounded counter shapes are available via stylistic sets, offering some relief from the typeface's otherwise strict geometry.",
+    "foundry_blurb": "Hungarumlaut describe Ipar as an experimental, conceptual typeface featuring two widths and seven weights for versatile use across design applications. Its defining characteristic is that all stems share an identical size with no optical corrections, producing a clean and modern appearance. Letterforms are mathematically constructed using a common measurement tool, with inspiration drawn from Austrian street and city signage, Bauhaus and Constructivism, and supplemented by alternate rounded counter characters via stylistic sets."
+  },
+  {
+    "name": "Chia",
+    "foundry": "Hungarumlaut",
+    "url": "https://hungarumlaut.com/typefaces/chia",
+    "designer": "Adam Katyi",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "modular dot",
+    "classification_notes": "Chia is a display typeface constructed entirely from circles arranged on a dot grid, referencing pixel and traffic screen aesthetics. Its modular, grid-based construction and purely experimental character place it firmly in the display category with a dot/pixel subcategory.",
+    "weights": [
+      "20",
+      "40",
+      "60",
+      "100",
+      "150",
+      "200"
+    ],
+    "optical_sizes_or_widths": [
+      "Chia 5",
+      "Chia 7"
+    ],
+    "subfamilies": [
+      "Chia 5",
+      "Chia 7"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "dot-matrix",
+      "pixel",
+      "display",
+      "experimental",
+      "geometric",
+      "motion",
+      "typographic-play"
+    ],
+    "summary": "A modular dot typeface built entirely from circles, structured around two grid variants and six dot-size steps that range from airy to densely overlapping.",
+    "description": "Designed by Adam Katyi, Chia draws from the logic of old traffic and construction pixel screens, translating their grid constraints into a typographic system made wholly of circles. Two structural versions define the family: Chia 5, built on a five-dot grid for a raw, minimal quality, and Chia 7, offering a seven-dot height with greater legibility. Six visual steps per version, numbered 20 through 200, vary dot size rather than stroke weight, so at 200 the circles overlap into dense, sculptural masses.",
+    "foundry_blurb": "Hungarumlaut describe Chia as a modular dot typeface inspired by old construction and traffic pixel screens, those glowing grids that turned simple messages into living light. The family comes in two structural versions — Chia 5 on a five-dot grid and Chia 7 on a seven-dot grid — each with six visual weights defined by dot size rather than stroke. At the 100 step the dots gently touch; at 200 they overlap to create dense, almost sculptural surfaces. Alternate characters are available via stylistic sets in both versions."
+  },
+  {
+    "name": "Supergravity",
+    "foundry": "Hungarumlaut",
+    "url": "https://hungarumlaut.com/typefaces/supergravity",
+    "designer": "Adam Katyi",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "condensed display",
+    "classification_notes": "A heavily condensed display face with moderate stroke contrast and distinctive angled terminals, drawn from early 20th-century Hungarian poster lettering rather than any conventional text tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Supergravity Regular",
+      "Supergravity Slanted",
+      "Supergravity Backslanted"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "display",
+      "poster",
+      "hungarian",
+      "historical-revival",
+      "slanted",
+      "editorial",
+      "titling"
+    ],
+    "summary": "A tightly condensed display face drawn from early 20th-century Hungarian poster lettering, with three upright and slanted cuts designed for close-set titling.",
+    "description": "Originally commissioned for Adam Albert's 2018 exhibition and accompanying book, it takes letter shapes from old Hungarian posters and rebuilds them as a cohesive family. The letters are sharply condensed with moderate contrast; diagonal characters such as A and W carry angled rather than horizontal terminals. Descenders are kept extremely short for tight leading, and the 19-degree slant of the oblique cuts references the exhibition's May Day 1919 theme.",
+    "foundry_blurb": "Supergravity was designed by Adam Katyi and first used for Adam Albert's exhibition and book in 2018, with a public release in February 2020. Inspired by Hungarian posters from the early twentieth century, the typeface collects favourite letterforms from that tradition and rebuilds them from scratch: very condensed, lightly contrasted, with angled terminals on diagonal characters and minimal descenders suited to tight leading. The 19-degree slant refers to the exhibition's May Day 1919 subject matter."
+  },
+  {
+    "name": "Mohol",
+    "foundry": "Hungarumlaut",
+    "url": "https://hungarumlaut.com/typefaces/mohol",
+    "designer": "Adam Katyi",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "high-contrast sans",
+    "classification_notes": "Described explicitly as a high-contrast sans serif; the contrast derives from drawing strokes with a broad nib held strictly vertical or horizontal, producing an unusual pen-influenced stress in an otherwise sans letterform.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mohol",
+      "Mohol Slanted"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "West European",
+      "Central European",
+      "Baltic",
+      "Romanian",
+      "Turkish"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "bauhaus",
+      "constructivist",
+      "experimental",
+      "broad-nib",
+      "display",
+      "oblique",
+      "hungarian"
+    ],
+    "summary": "A pen-drawn high-contrast sans inspired by László Moholy-Nagy, built by holding a broad nib strictly horizontal and vertical to produce unusual stroke contrast across six weights.",
+    "description": "Adam Katyi developed Mohol for the László Moholy-Nagy Design Grant in 2016, completing it for release in late 2018. The concept stems from a single question: how to draw a mono-linear sans with a classical broad nib pen, answered by restricting all strokes to strictly vertical or horizontal pen angles. The result is a sans with an unexpected rhythm of contrast that nods to Bauhaus constructivism without directly imitating it, available in twelve styles across six weights with matching slanted cuts.",
+    "foundry_blurb": "Hungarumlaut describe Mohol as an experimental high-contrast sans serif initiated by Áron Jancsó's question about designing a mono-linear sans with a broad nib pen. Designed by Adam Katyi and created for the László Moholy-Nagy Design Grant, the typeface was drawn by holding brushes and Pilot Parallel Pens only vertically or horizontally, with different nib widths sketching out the weight range. The family honours Moholy-Nagy's Bauhaus legacy and his advocacy for integrating technology and industry into the arts."
+  },
+  {
+    "name": "Amen Display",
+    "foundry": "Hungarumlaut",
+    "url": "https://hungarumlaut.com/typefaces/amendisplay",
+    "designer": "Adam Katyi",
+    "year": 2018,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "A revival of a late nineteenth-century serif with geometric detailing introduced in the 2018 redraw; the horizontal strokes on numerals and distinctive tail forms place it firmly in the display serif tradition with humanist-italic construction in the cursive cuts.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Amen Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Central European Latin",
+      "Baltic Latin",
+      "Romanian",
+      "Turkish"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "revival",
+      "geometric-details",
+      "serif",
+      "prayer-book",
+      "oldstyle-figures",
+      "editorial",
+      "large-size"
+    ],
+    "summary": "A display serif by Adam Katyi, revived from a c.1906 Lettergieterij Amsterdam specimen and a 1904 prayer-book, with geometric details introduced in a thorough 2018 redraw.",
+    "description": "The Medium weight originates in Halfvette Aldine, discovered in a Butzon and Bercker prayer-book set at 24pt, and developed through several years of revision at Type and Media before Katyi settled on a final direction. The 2018 redesign brought in geometric character details — horizontal terminals on the 2 and 7, vertical tails on the a, t and R — while the true italic lowercase retains a hand-written construction with inbound curves on rounded letters. Serif heights remain consistent across all six weights, and the family is recommended at 24pt minimum, with a text optical size planned for a future expansion.",
+    "foundry_blurb": "Amen Display grew from a Type and Media revival project begun in 2013, working from Halfvette Aldine as seen in the Lettergieterij Amsterdam specimen of c.1906 and a 1904 prayer-book. After several redraws, Katyi redesigned the family in 2018 with geometric details and an entirely new italic, releasing it in October of that year across six weights in Roman and Italic styles with broad Latin language support."
+  },
+  {
+    "name": "Menoe Grotesque",
+    "foundry": "Hungarumlaut",
+    "url": "https://hungarumlaut.com/typefaces/menoe",
+    "designer": "Adam Katyi",
+    "year": 2015,
+    "category": "mono",
+    "subcategory": "monospaced grotesque",
+    "classification_notes": "A monospaced, sans-serif typeface derived from typewriter conventions, specifically a 10-pitch spacing model. The absence of serifs and even character width place it firmly in the monospaced grotesque category.",
+    "weights": [
+      "Regular",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Menoe Grotesque"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "typewriter",
+      "grotesque",
+      "coding",
+      "10-pitch",
+      "multilingual",
+      "programming"
+    ],
+    "summary": "A monospaced grotesque drawn from the proportions of a Continental typewriter, set at a strict 10-pitch spacing across Latin, Greek and Cyrillic scripts.",
+    "description": "Adam Katyi analysed the serif typeface of an old Continental typewriter and redrew it without serifs, preserving the 10-pitch spacing convention where ten characters at 12pt measure exactly one inch. All characters share an identical bounding box width, making it well suited to code, tabular data and columnar text. Script coverage spans 86 languages across Latin, Greek and Cyrillic, included at no extra cost.",
+    "foundry_blurb": "Hungarumlaut describe Menoe Grotesque as a monospaced typeface inspired by an old Continental typewriter, with the serif original redrawn as a sans. It adheres to 10-pitch spacing and supports Greek and Cyrillic alongside the full Latin range, covering 86 languages in total. OpenType features include stylistic alternates, small capitals, hybrid figures and default ligatures."
+  },
+  {
+    "name": "Laslo",
+    "foundry": "Hungarumlaut",
+    "url": "https://hungarumlaut.com/typefaces/laslo",
+    "designer": "Adam Katyi",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Laslo is a geometric sans with Bauhaus construction principles at its core, featuring grid-based proportions, constructed letterforms and alternate single-storey characters typical of the geometric sans tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Laslo",
+      "Laslo Wide"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "bauhaus",
+      "constructed",
+      "wide",
+      "functional",
+      "display",
+      "central-european"
+    ],
+    "summary": "A Bauhaus-inspired geometric sans by Adam Katyi, named after László Moholy-Nagy and built around a single archival letterform found in a 1930s wallpaper specimen.",
+    "description": "Designed by Adam Katyi and released on what would have been Moholy-Nagy's 123rd birthday, Laslo takes a single letter 'a' from a Tapetenmusterbuch at the Bauhaus Archive as its starting point, extrapolating a full alphabet with careful attention to proportion. Rounded letters carry a subtle vertical straight segment within their countershapes, visible at large sizes yet receding at text sizes to read as fully round. The family runs across five weights from Thin to Black in two widths, Normal and Wide, with OpenType alternates for a more strictly geometric style including a single-storey 'a' and optically equalised arms on E and F.",
+    "foundry_blurb": "Hungarumlaut describe Laslo as a clean, functional typeface rooted in Bauhaus heritage, with proportional stems carefully calibrated so that Thin strokes are exactly half the weight of Bold strokes. It includes alternate characters for a more geometric look, and the Wide subfamily is designed to combine easily with the standard width for typographic contrast or emphasis."
+  }
+]

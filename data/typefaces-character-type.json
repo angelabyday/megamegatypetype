@@ -1,0 +1,1044 @@
+[
+  {
+    "name": "Lapidar",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/lapidar/",
+    "designer": "Henning Skibbe",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A revival of a late 19th century German metal type grotesque, monolinear in character with inconsistent terminals preserved from the historic source; classified as grotesque sans-serif given its origins in the German metal type tradition of the 1870s.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black",
+      "FatFat"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lapidar"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "revival",
+      "19th-century",
+      "german",
+      "historical",
+      "metal-type",
+      "editorial"
+    ],
+    "summary": "A revival of a Genzsch & Heyse grotesque from 1874/75, extended by Henning Skibbe into a seven-weight family that preserves the original's idiosyncratic terminal angles.",
+    "description": "Based on an uppercase-only typeface issued by the Hamburg foundry Genzsch & Heyse in 1874/75, this revival deliberately retains the inconsistent terminal angles across letters such as a, c, e, s and r that characterise the source material, while correcting proportional oddities like the abnormally narrow A and M. The family spans Light through Black plus an additional monolinear FatFat weight, the heavier cuts designed without any historic model to guide them. Italics and a possible condensed subfamily are noted as forthcoming at version 0.3.",
+    "foundry_blurb": "Lapidar is a revival of a late 19th century German grotesque originally issued by Genzsch & Heyse in 1874/75 as an uppercase-only typeface, later extended with lowercase around 1895. Designer Henning Skibbe preserved the original's irregular terminal angles while correcting its most extreme proportional quirks, and expanded the single historic weight into seven styles from Light to a playful monolinear FatFat."
+  },
+  {
+    "name": "Early Sans™",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/earlysans/",
+    "designer": "Henning Skibbe, Oleksandr Parkhomovskyy",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Inspired by late 19th-century Breite Grotesk specimens, Early Sans is a modern grotesque sans-serif with soft curves and ink-trap-like instrokes characteristic of early German and British grotesque traditions.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Early Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "historical-reference",
+      "corporate",
+      "editorial",
+      "screen",
+      "branding",
+      "variable"
+    ],
+    "summary": "A modern grotesque drawn from an 1894 Breite Grotesk specimen, softened and updated for contemporary brand and screen use.",
+    "description": "Designed by Henning Skibbe and Oleksandr Parkhomovskyy, Early Sans takes its general softness from Wilhelm Woellmer's 1894 Berlin specimen but redraws proportions and letterforms for modern applications. Subtle 2-degree curved instrokes on letters such as n, m and r act as gentle ink traps, aiding readability at small sizes. The family spans five weights with matching italics and a variable font, sharing vertical metrics and glyph sets with its companion family, Late Serif.",
+    "foundry_blurb": "Character Type describe Early Sans as an original design informed by rather than reviving Breite Grotesk, a widely used style among late 19th-century grotesque typefaces. The specific inspiration is a 1894 specimen from Wilhelm Woellmer's Schriftgiesserei in Berlin. The family is intended as a companion to Late Serif, sharing the same vertical metrics, glyph set and corresponding styles, and is recommended for corporate and brand design, editorial work, posters, book design and screen interfaces."
+  },
+  {
+    "name": "Late Serif",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/lateserif/",
+    "designer": "Henning Skibbe, Oleksandr Parkhomovskyy",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Late Serif references Eric Gill's Perpetua, a typeface rooted in transitional and lapidary serif traditions. The shifting stroke contrast from diagonal to upright and the organically flowing terminals align it with transitional serif conventions, updated for contemporary screen and text use.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Late Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "text",
+      "contemporary",
+      "screen",
+      "editorial",
+      "perpetua-influenced",
+      "multilingual"
+    ],
+    "summary": "A contemporary text serif referencing Gill's Perpetua, with organically flowing strokes and a variable stroke contrast suited to both small text and display settings.",
+    "description": "Designed by Henning Skibbe and Oleksandr Parkhomovskyy, Late Serif takes Perpetua as a loose historical reference while softening the delicacy of its stroke contrast and introducing sickle-like expanding terminals that recur across the character set. Five styles cover Light through Black plus a single italic, with the italic construction most distinct in Q, g, k and y. Coverage extends to Latin Extended, Greek and Cyrillic, supporting over 210 languages.",
+    "foundry_blurb": "Character Type describe Late Serif as a silky, contemporary text typeface that references Eric Gill's Perpetua. It performs well at small text sizes and in headline settings, with shifting stroke contrast that is less delicate than its historic model and elegance through organically flowing and merging strokes. It is positioned as the companion to Early Sans, sharing vertical metrics, glyph set and corresponding styles."
+  },
+  {
+    "name": "NewsSerif",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/newsserif/",
+    "designer": "Henning Skibbe",
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "A serif with expressive wedge-shaped serifs and playful contrast, designed explicitly for editorial use across text and display sizes, with letter forms that grow increasingly expressive through its three optical subfamilies.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Large",
+      "Huge"
+    ],
+    "subfamilies": [
+      "NewsSerif Text",
+      "NewsSerif Large",
+      "NewsSerif Huge"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "editorial",
+      "news",
+      "wedge-serif",
+      "optical-sizes",
+      "variable",
+      "text",
+      "display",
+      "contrast"
+    ],
+    "summary": "A 20-style editorial serif by Henning Skibbe, built across three optical subfamilies that grow progressively more expressive from text to display sizes.",
+    "description": "Designed as the companion to NewsSans, the family covers Text, Large and Huge subfamilies, with letter shapes becoming increasingly excessive and expressive as size increases. Wedge-shaped serifs and playful stroke contrast define the overall character, and each style ships with over 700 glyphs including small caps, multiple figure sets and arrows. Text roman styles are paired with italics drawn from NewsSans, an unconventional but deliberate cross-family pairing that the foundry balances carefully across weights.",
+    "foundry_blurb": "Character Type describe NewsSerif as the sister typeface of NewsSans, together forming a complete toolbox for editorial and typographic challenges in analogue and digital contexts. The family's 20 styles span three subfamilies, with letter shapes evolving from functional to increasingly expressive and excessive toward the Huge end. Roman styles in the Text subfamily are bundled with italics from NewsSans, a pairing the foundry describe as a perfect match with carefully balanced weights."
+  },
+  {
+    "name": "NewsSans",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/newssans/",
+    "designer": "Henning Skibbe",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "NewsSans is a multi-width sans-serif system with a neutral, functional character suited to editorial and corporate work, consistent with a grotesque or news grotesque tradition given its name and application range.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Normal",
+      "Wide",
+      "Extended"
+    ],
+    "subfamilies": [
+      "NewsSansComp",
+      "NewsSansCond",
+      "NewsSans",
+      "NewsSans Wide",
+      "NewsSans Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "editorial",
+      "corporate",
+      "multi-width",
+      "news",
+      "screen-optimised",
+      "large-family",
+      "functional"
+    ],
+    "summary": "A 90-style sans-serif system by Henning Skibbe spanning five widths, built for editorial and corporate design at both display and text sizes.",
+    "description": "Designed by Henning Skibbe for Character Type, NewsSans runs from Hairline to Black across Compressed, Condensed, Normal, Wide and Extended widths, giving designers a wide tonal range from delicate hairlines to heavy display weights. The family is screen-hinted for reliable on-screen performance and ships with over 700 glyphs alongside an extensive OpenType feature set including small caps, oldstyle figures, tabular figures and arrows. Its breadth of styles makes it viable for newspaper and magazine systems where a single typeface must cover headlines, captions and body copy simultaneously.",
+    "foundry_blurb": "Character Type describe NewsSans as a multi-tool typeface system of 90 styles across five widths — Compressed, Condensed, Normal, Wide and Extended — designed for editorial and corporate use. They highlight its ability to range from loud and expressive to subtle and reserved, its suitability for tight and efficient layouts, and its screen optimisation through hinting. OpenType features include proportional, tabular, lining, oldstyle, superior, subscript, small cap and circled figures, small caps, arrows and alternative glyphs."
+  },
+  {
+    "name": "Tragic Grotesk",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/tragicgrotesk/",
+    "designer": "Henning Skibbe",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A contemporary grotesque drawing on pre-Helvetica late 19th-century grotesque references, with semi-open apertures, slightly slanted stroke endings and DIN-influenced straight elements blended into rounded forms.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Heavy",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tragic Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "warmth",
+      "technical",
+      "corporate",
+      "editorial",
+      "screen-optimised",
+      "calligraphic-touch",
+      "opentype"
+    ],
+    "summary": "A 16-style grotesque by Henning Skibbe that deliberately bridges warm, humanist qualities with DIN-style technical rigidity across eight weights from Thin to Ultra.",
+    "description": "Semi-open apertures on letters like a, c, e and s, slightly slanted stroke terminals and gently curved diagonals on A, K, V and similar characters give the family a calligraphic undertone without sentimentality. DIN-influenced straight segments are injected into otherwise round forms, creating a controlled tension that the designer describes as a mediating act between warmth and technical directness. Each of the 700-plus glyph styles includes small caps, tabular and circled figures, arrows and alternate forms for characters such as a, G and l, making it well-suited to corporate identity, editorial and screen applications.",
+    "foundry_blurb": "Character Type describe Tragic Grotesk as a typeface that refuses neutrality, instead brokering a balance between warmth and digital clarity. Designed by Henning Skibbe with 16 styles spanning Thin to Ultra, it mixes references to late 19th-century grotesques with DIN-related straight elements and subtly curved diagonals. The italic styles are technically obliques, though the foundry notes these are no less labour-intensive to draw well. Best used for corporate and brand design, editorial, poster or book design, and user interfaces optimised for screen."
+  },
+  {
+    "name": "HapticScript",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/hapticscript/",
+    "designer": "Henning Skibbe",
+    "year": null,
+    "category": "script",
+    "subcategory": "connected brush script",
+    "classification_notes": "A connected brush script with warm, flowing letterforms across five weights; designed explicitly as a companion to the Haptic sans-serif family.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "HapticScript"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "brush",
+      "connected",
+      "handlettered",
+      "warmth",
+      "personal",
+      "swash",
+      "ligatures"
+    ],
+    "summary": "A connected brush script in five weights with up to 14 glyph variants per character, designed by Henning Skibbe as a companion to the Haptic sans-serif family.",
+    "description": "Each font contains nearly 2,000 characters, including over 40 ligatures and multiple swash variants for initials and word endings, allowing designers to vary individual words and avoid mechanical repetition. The five weights from Light to Black give the family a broader range than most brush scripts, making it usable across both delicate and bold-weight applications. Designed as a companion to the Haptic sans-serif, it sits naturally alongside that family in mixed-setting work.",
+    "foundry_blurb": "Character Type describe HapticScript as a connected brush script with a warm, personal and soft character. With up to 14 glyph variations per character and nearly 2,000 glyphs per font, including 40+ ligatures and swash characters for initials and word endings, it is built to give each word an individual, hand-lettered appearance. The family spans five styles from Light to Black and was designed by Henning Skibbe as a companion and extension to the Haptic sans-serif family."
+  },
+  {
+    "name": "Haptic",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/haptic/",
+    "designer": "Henning Skibbe",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Rounded stems and swoosh terminals give Haptic a warm, organic quality typical of humanist sans-serifs, designed to balance expressive character at display sizes with legibility in small text.",
+    "weights": [
+      "Light",
+      "Semilight",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Haptic",
+      "Haptic Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "rounded",
+      "warm",
+      "branding",
+      "editorial",
+      "packaging",
+      "display",
+      "text"
+    ],
+    "summary": "A warm humanist sans by Henning Skibbe, built across 18 styles with rounded stems and swoosh terminals that hold character at display sizes while remaining readable in small text.",
+    "description": "Rounded stems and swoosh terminals give the family a distinctly tactile quality suited to branding, editorial and packaging work. The core family runs 14 styles across seven weights from Light to Black, each with a matching italic, with four Compressed styles added as an extension. Henning Skibbe was awarded a TDC2 award for the family through the Type Directors Club, New York.",
+    "foundry_blurb": "Character Type describe Haptic as a sans serif family ideal for branding, editorial and packaging, whose rounded stems and swoosh terminals make it strong in character. They note it performs well at large display sizes while having been thoroughly optimised for small text, and that the original 14-style family was later extended with four compressed styles."
+  },
+  {
+    "name": "FF Dingbats 2.0",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/ff-dingbats-2-0/",
+    "designer": "Johannes Erler, Henning Skibbe",
+    "year": 2009,
+    "category": "display",
+    "subcategory": "dingbats / symbol",
+    "classification_notes": "A pictorial symbol font composed entirely of non-alphabetic glyphs organised into thematic sets; best classified as display given its purely decorative and functional pictographic purpose rather than any text-setting role.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FF Dingbats 2.0 Human",
+      "FF Dingbats 2.0 Technics",
+      "FF Dingbats 2.0 Office",
+      "FF Dingbats 2.0 Arrows 1",
+      "FF Dingbats 2.0 Arrows 2",
+      "FF Dingbats 2.0 Arrows 3",
+      "FF Dingbats 2.0 Basic Forms",
+      "FF Dingbats 2.0 CircleCrosses",
+      "FF Dingbats 2.0 MixedForms",
+      "FF Dingbats 2.0 Numbers",
+      "FF Dingbats 2.0 StarsFlowers",
+      "FF Dingbats 2.0 StrongForms"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "dingbats",
+      "symbols",
+      "pictograms",
+      "arrows",
+      "icons",
+      "desktop-publishing",
+      "functional"
+    ],
+    "summary": "A comprehensive symbol font family of over 1,000 pictographic glyphs, revised and expanded in 2009 from Johannes Erler's original 1993 FF Dingbats release for FontFont.",
+    "description": "Originally conceived in 1993 as the first wide-ranging dingbats family since Zapf Dingbats, the 2009 revision by Erler and Henning Skibbe overhauled the set to reflect a changed technological landscape, dropping obsolete symbols and adding new ones. The result spans twelve thematic sub-families covering human figures, technics, office objects, arrows, geometric forms, stars, and more, totalling upwards of 1,000 glyphs. It remains a practical and historically grounded resource for designers needing a systematic pictographic system.",
+    "foundry_blurb": "Originally designed by Johannes Erler in 1993, the FF Dingbats were described as the first comprehensive dingbats font family since Zapf Dingbats in the 1970s, built for the desktop publishing generation. By 2009, the family required a conceptual and stylistic refresh to remove outdated symbols and introduce new ones, resulting in over 1,000 glyphs across twelve sub-families including laptops, helicopters, stars, arrows, tools and a Mac Lisa."
+  },
+  {
+    "name": "Jung von Matt",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/jungvonmatt/",
+    "designer": "Henning Skibbe",
+    "year": null,
+    "category": "display",
+    "subcategory": "compressed display",
+    "classification_notes": "A bespoke all-caps extra-compressed headline typeface with angular terminals and custom solutions for dense letter spacing, firmly in the display category with no running-text intent.",
+    "weights": [
+      "ExtraCompressed"
+    ],
+    "optical_sizes_or_widths": [
+      "ExtraCompressed"
+    ],
+    "subfamilies": [
+      "Jung von Matt"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "custom",
+      "compressed",
+      "display",
+      "allcaps",
+      "advertising",
+      "headline",
+      "bespoke",
+      "angular"
+    ],
+    "summary": "A bespoke extra-compressed headline typeface designed by Henning Skibbe for the Jung von Matt advertising agency's own brand identity.",
+    "description": "Developed by Character Type for Jung von Matt's in-house brand design, this single-style extra-compressed display face is built entirely in capitals, which sit above the baseline to allow very tight line spacing without collision. Angular terminals reference the agency's trojan horse brand symbol, and a thin line element addresses the readability challenges that arise in dense characters such as @ and € when set at extreme compression. The result is a loud, direct headline face with a strong visual identity tied to a single client.",
+    "foundry_blurb": "Character Type describe Jung von Matt as a custom headline typeface developed for the JvM brand identity, with type design and direction by Henning Skibbe and creative direction by Heike Wilhelm. They characterise it as compressed, direct, loud, unapologetic and bold, with angular terminals drawn from the agency's trojan horse symbol and a thin line element introduced to preserve readability in complex characters at extreme compression."
+  },
+  {
+    "name": "PALFINGER",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/palfinger/",
+    "designer": "Henning Skibbe, Oleksandr Parkhomovskyy",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The letterforms feature tight inner curves and wide outer curves with 90-degree angled terminals on letters such as f, j, r and t, pointing to a geometric sans construction with distinctive engineered character.",
+    "weights": [
+      "Regular",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Headline",
+      "Text"
+    ],
+    "subfamilies": [
+      "PALFINGER Headline",
+      "PALFINGER Text"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "custom",
+      "corporate",
+      "geometric",
+      "industrial",
+      "headline",
+      "multilingual",
+      "branding"
+    ],
+    "summary": "A bespoke corporate typeface family designed for the global crane manufacturer PALFINGER, with distinct headline and text cuts optimised across Latin, Cyrillic and Greek scripts.",
+    "description": "Created by Henning Skibbe and Oleksandr Parkhomovskyy at Character Type as part of a brand identity project led by Strichpunkt Design, the family splits into a Headline version that plays up the font's structural quirks and a Text version redrawn for legibility at smaller sizes. A defining detail is the tension between tight inner curves and wide outer curves on angled letters like f, j and r, giving the design a mechanical edge that suits PALFINGER's industrial positioning. Script coverage spans Latin Extended with Vietnamese, Cyrillic and Greek for global deployment.",
+    "foundry_blurb": "Character Type developed the PALFINGER typefaces as part of Strichpunkt Design's strategic rebrand for the global crane and lifting solutions manufacturer. The family includes headline styles that foreground the typeface's distinctive character, and a text cut engineered for legibility at smaller sizes, available in Regular, SemiBold and Bold. Coverage extends to Latin Extended including Vietnamese, Cyrillic and Greek."
+  },
+  {
+    "name": "Lamborghini",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/lamborghini/",
+    "designer": "Henning Skibbe, Oleksandr Parkhomovskyy, Philipp Neumeyer, Jakob Fangmeier",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Described explicitly as Neo-Grotesk, with geometric base shapes and distinctive angular terminals; sits within the broad grotesque/neo-grotesque tradition but with bespoke, brand-specific design gestures.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "Condensed",
+      "Ultracondensed"
+    ],
+    "subfamilies": [
+      "Lamborghini"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "bespoke",
+      "automotive",
+      "brand-identity",
+      "variable",
+      "multilingual",
+      "geometric",
+      "editorial"
+    ],
+    "summary": "A bespoke neo-grotesque family designed by Character Type for Lamborghini's brand redesign, spanning three widths and four weights across 205 languages as a single variable font.",
+    "description": "Developed as part of Lamborghini's brand overhaul led by Strichpunkt, Lambotype draws its visual character from the marque's design language: 12-degree angled terminals referencing aerodynamic body lines, geometric forms derived from hexagons and three-armed stars, and deep ink traps that introduce rhythm and warmth. Three widths from Normal to Ultracondensed and four weights from Light to Black yield 24 styles, all delivered within one variable font. Latin Extended, Cyrillic and Greek coverage across 205 languages gives the family the range a global automotive brand requires.",
+    "foundry_blurb": "Character Type describe Lambotype as a typeface family inspired by Lamborghini's heritage and the 'Direzione Cor Tauri' transformation programme, designed to embody the extraordinary and the unconventional. The Neo-Grotesk design blends Lamborghini's DNA with a human touch through geometric base shapes, angled terminals nodding to the cars' aerodynamic lines, and deep ink traps. Three widths, four weights and 24 styles are packaged in a single variable font supporting 205 languages across Latin, Cyrillic and Greek scripts."
+  },
+  {
+    "name": "Deutscher Apotheker Verlag",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/deutscherapothekerverlag/",
+    "designer": "Henning Skibbe, Oleksandr Parkhomovskyy, Anja Meiners",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The project comprises two families, a sans and a serif, both designed for pharmaceutical publishing. The sans is classified as humanist given its text-oriented purpose and editorial application across books, journals and digital platforms.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Schmiedel Sans",
+      "Schmiedel Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "IPA"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "custom",
+      "corporate",
+      "publishing",
+      "pharmaceutical",
+      "editorial",
+      "multilingual",
+      "extended-latin"
+    ],
+    "summary": "A bespoke two-family system designed by Character Type for Stuttgart-based pharmaceutical publisher Deutscher Apotheker Verlag, covering Latin, Cyrillic, Greek and the international phonetic alphabet across 830 glyphs.",
+    "description": "Named after DAV founder Schmiedel, the two families — Schmiedel Sans and Schmiedel Serif — were created for deployment across all corporate communication and a growing range of publishing products, from the weekly Deutsche Apothekerzeitung to encyclopedias and digital platforms. The character set of 830 glyphs supports 200+ languages including full IPA coverage, a requirement driven by DAV's pharmaceutical reference publishing. The project was developed in partnership with Stuttgart design studio Wessinger und Peng, who led the 2025 redesign of the DAZ journal.",
+    "foundry_blurb": "Character Type created two typeface families, Schmiedel Sans and Schmiedel Serif, for DAV — a family-owned pharmaceutical publishing house in Stuttgart. Both families feature an extensive glyph set covering Latin, Cyrillic, Greek and the international phonetic alphabet, supporting over 200 languages across 830 glyphs. The typefaces are used across DAV's full range of corporate communications, magazines, books and digital platforms."
+  },
+  {
+    "name": "Bauer Media Group",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/bauermediagroup/",
+    "designer": "Henning Skibbe, Oleksandr Parkhomovskyy",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The typeface is a custom humanist sans-serif with friendly, open letterforms designed for brand communication; rounded stroke terminals and distinctive play-button-derived details in the G and g place it firmly in the humanist sans tradition.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bauer Media Group"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "custom",
+      "corporate",
+      "variable",
+      "humanist",
+      "branding",
+      "media",
+      "playful"
+    ],
+    "summary": "A bespoke variable font family designed for Bauer Media Group's 2023 global rebrand, with letterforms that quietly embed the brand's triangular play-button motif.",
+    "description": "Designed by Henning Skibbe and Oleksandr Parkhomovskyy at Character Type in partnership with Mutabor, this six-style family runs from Regular to Bold with matching italics and ships as a variable font. The play-button triangle from the Bauer Media Group logo is worked into the G and g glyphs, becoming more pronounced as weight increases, while rounded stroke junctions throughout echo the logo's rounded button form. It is a measured piece of brand typography that ties identity detail to type without resorting to novelty.",
+    "foundry_blurb": "Character Type describe the typeface as an integral part of Bauer Media Group's brand design, developed alongside Mutabor's 2023 global rebrand. The old logo's triangle, originally an abstract paper page, was retained as a play button representing Bauer's shift from print to multimedia. This symbol was adapted into the custom typeface in what Character Type call a 'quiet not gimmicky way', with the play-button triangles in the G and g becoming more prominent in bolder weights, and rounded stroke meeting points referencing the logo's rounded button form."
+  },
+  {
+    "name": "HUK-COBURG",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/huk-coburg-custom-fonts/",
+    "designer": "Henning Skibbe, Oleksandr Parkhomovskyy",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The page describes a friendly, accessible custom font family with a companion slab serif logo typeface; the primary family is a humanist-leaning sans-serif designed to communicate warmth and accessibility in a corporate brand context.",
+    "weights": [
+      "16 styles across Normal and Condensed widths"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "HUK-COBURG",
+      "HUK-COBURG Condensed",
+      "HUK-COBURG Slab Serif"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "custom",
+      "corporate",
+      "brand",
+      "variable",
+      "slab-companion",
+      "accessible",
+      "din91379",
+      "insurance"
+    ],
+    "summary": "A custom variable font family designed for German insurer HUK-COBURG by Character Type, including a slab serif logo variant, as part of a 2024 brand overhaul by Strichpunkt.",
+    "description": "Comprising 16 styles across Normal and Condensed widths, the family was built to reflect HUK-COBURG's brand values of friendliness and accessibility, with a variable font included. A separate slab serif was drawn for the reworked logo, its serifs serving as a deliberate nod to the previous typeface. The character set was built to DIN 91379 standards, ensuring correct rendering of names from across the EU.",
+    "foundry_blurb": "Character Type designed the HUK-COBURG custom font family in partnership with branding agency Strichpunkt as part of a 2024 brand redesign. The family includes 16 styles in Normal and Condensed widths plus a variable font, and a slab serif logo typeface developed in collaboration with Strichpunkt's art direction. The character set conforms to DIN 91379 to meet EU accessibility standards and support the diverse names of HUK-COBURG's customer base."
+  },
+  {
+    "name": "Unimatic",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/unimatic/",
+    "designer": "Oleksandr Parkhomovskyy",
+    "year": null,
+    "category": "display",
+    "subcategory": "variable display numerals",
+    "classification_notes": "A bespoke numeral-only variable font designed for watch faces and bezels, spanning compressed to extended widths. Classified as display due to its highly specialised, decorative application in product design rather than continuous text setting.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Normal",
+      "Extended",
+      "Super-Extended"
+    ],
+    "subfamilies": [
+      "Unimatic"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "custom",
+      "variable",
+      "numerals",
+      "watch",
+      "display",
+      "width-axis",
+      "product-type",
+      "condensed"
+    ],
+    "summary": "A bespoke variable numeral set designed for UNIMATIC watches, spanning compressed to super-extended widths to suit both watch centres and bezels.",
+    "description": "Commissioned by Milan-based watchmaker UNIMATIC, this custom typeface exists solely as a set of numerals built into a variable font. The width axis runs from compressed through to super-extended, allowing the brand to dial in the right proportion for each watch edition, with tighter compressed styles used in watch centres and broader extended styles reserved for bezels. Its design lineage draws on the Dirty Dozen, a set of twelve Second World War British military field watches.",
+    "foundry_blurb": "Character Type created a custom set of numerals for UNIMATIC, the Milan-based minimalist sport watch brand known for its limited-run timepieces. Produced as a variable font, the numerals span compressed to extended widths, giving UNIMATIC the flexibility to design varied watch styles. The design was inspired by the Dirty Dozen, a set of twelve wartime Swiss field watches used by British servicemen."
+  },
+  {
+    "name": "ORA funky",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/ora/",
+    "designer": "Henning Skibbe",
+    "year": null,
+    "category": "display",
+    "subcategory": "multi-style display",
+    "classification_notes": "The family combines sans, serif and italic styles within a single headline font, driven by OpenType rules, making straightforward category assignment difficult; classified as display due to its primary function as a headline typeface with lifestyle branding intent.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Headline",
+      "Text"
+    ],
+    "subfamilies": [
+      "ORA funky"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "multi-style",
+      "opentype",
+      "automotive",
+      "branding",
+      "extended",
+      "custom",
+      "headline"
+    ],
+    "summary": "A bespoke headline and text family for the ORA electric car brand, blending sans, serif and italic styles within a single font via a smart OpenType algorithm.",
+    "description": "Designed by Henning Skibbe for the ORA electric car brand redesign led by Jung von Matt/Brand Identity, the family spans two optical sizes: a text cut in Regular and Bold, and a headline cut that houses three styles (Sans, Serif and Italic) inside one font file. An OpenType algorithm automatically varies styles during typesetting, removing manual style-switching from the designer's workflow. The uppercase sans draws loosely from the wide Antique Maigre 182 of Fonderie Haas (1864), while the serif style adopts evenly distributed widths in the tradition of Rosart and Baskerville.",
+    "foundry_blurb": "Character Type describe ORA funky as a versatile typeface family created for the ORA brand redesign, consisting of two optical sizes for text and headlines. The headline font uniquely contains three styles within a single file, with an OpenType algorithm mixing Sans, Serif and Italic automatically according to brand rules to simplify the design process."
+  },
+  {
+    "name": "Vorwerk",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/vorwerk/",
+    "designer": "Henning Skibbe, Anja Meiners",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The foundry explicitly describes it as a geometric typeface family, with quarter-circle forms drawn from the Vorwerk logo and space-saving proportions benchmarked against Roboto Sans.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vorwerk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "corporate",
+      "custom",
+      "brand",
+      "space-saving",
+      "multilingual",
+      "text"
+    ],
+    "summary": "A geometric corporate typeface designed for Vorwerk by Character Type, with pointed corners taken from the brand logo and coverage of 311 languages across Latin, Cyrillic and Greek scripts.",
+    "description": "Designed by Henning Skibbe and Anja Meiners in partnership with Jung von Matt Brand Identity, the family runs across eight styles: four weights from Light to Bold each with a matching italic. A key challenge was achieving text economy comparable to Roboto Sans despite the typically wider proportions of geometric designs, which the Vorwerk typefaces meet through careful spacing calibration. Brand-specific details such as pointed arch corners and quarter-circle forms, both taken directly from Vorwerk's existing visual identity, are integrated throughout the character set.",
+    "foundry_blurb": "Character Type describe Vorwerk as a geometric typeface family with an extensive glyph set of over 1,500 glyphs covering 311 languages across Latin, Cyrillic and Greek, designed to be nearly as space-saving as Roboto Sans. Key design elements were drawn from the Vorwerk logo, including pointed arch corners and quarter-circle forms, and the family was created in partnership with Jung von Matt Brand Identity."
+  },
+  {
+    "name": "OTTO Play",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/otto-play/",
+    "designer": "Henning Skibbe",
+    "year": null,
+    "category": "display",
+    "subcategory": "custom display",
+    "classification_notes": "A bespoke display typeface in which each letter of the alphabet carries a distinct stylistic treatment drawn from four design tonalities, making it a multi-style display system rather than a conventional type family.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "OTTO Play"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "custom",
+      "display",
+      "brand",
+      "expressive",
+      "multi-style",
+      "german",
+      "retail",
+      "identity"
+    ],
+    "summary": "A bespoke custom typeface for German retailer OTTO in which every letter of the alphabet carries its own distinct stylistic treatment, mixed automatically via OpenType rules based on German letter frequency.",
+    "description": "Designed by Henning Skibbe at Character Type in partnership with brand agency Mutabor, OTTO Play blends a stable base of OTTO Sans with a new expressive alphabet where each letter is assigned one of four design tonalities. An OpenType script automates the substitution of glyphs based on German letter and syllable frequency, ensuring a consistently varied but coherent typographic result without manual intervention. The project won multiple ADC awards, a Red Dot best-of-the-best, and a Corporate Design Award.",
+    "foundry_blurb": "Character Type describe OTTO Play as a multifarious typeface created for OTTO's brand redesign, where each letter has a different style but together they form a coherent typographic system as diverse as the brand itself. A custom OpenType script handles the mixing automatically, drawing on analysis of German letter and syllable frequency to ensure variety and balance across all typeset text."
+  },
+  {
+    "name": "Schwäbisch Hall",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/schwaebischhall-2/",
+    "designer": "Character Type",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Classified by the foundry as Neo-Grotesque; the design blends rounded calligraphic diagonals with DIN-inspired straight elements, placing it firmly in the neo-grotesque tradition with a humanist inflection.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Regular Oblique",
+      "Medium Oblique",
+      "Bold Oblique",
+      "Black Oblique"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Schwäbisch Hall"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "custom",
+      "corporate",
+      "humanist-touch",
+      "din-influenced",
+      "banking",
+      "german",
+      "oblique"
+    ],
+    "summary": "A custom neo-grotesque for Bausparkasse Schwäbisch Hall, blending slightly curved diagonals with DIN-inspired straight strokes to balance warmth and technical precision.",
+    "description": "Designed by Character Type in partnership with branding agency Strichpunkt for Germany's largest home loan and savings bank, the typeface family known internally as 'Fuchs' responds to a brand brief built around 'Heimat' and 'Digital'. Slightly curved diagonals introduce a calligraphic, human quality, while DIN-inspired straight elements lend technical rigour and stretch the rounder letters. Each of the eight styles carries around 700 glyphs including full European diacritics, small caps and arrows; oblique forms serve as the primary slanted variant, with true italics reserved as a backup reference to the wordmark.",
+    "foundry_blurb": "Character Type describe Fuchs as a custom typeface family for Bausparkasse Schwäbisch Hall, built around the brand pillars of 'Heimat' and 'Digital'. The slightly curved diagonals reference calligraphic, human warmth, while DIN-inspired straight strokes add technical character. The family uses oblique rather than italic forms as its primary slanted style, and a single unified set of table figures — tweaked for text setting — keeps number usage straightforward for all users."
+  },
+  {
+    "name": "Süddeutsche Zeitung",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/sueddeutsche-zeitung/",
+    "designer": "Henning Skibbe",
+    "year": 2012,
+    "category": "serif",
+    "subcategory": "newspaper serif",
+    "classification_notes": "A custom type system built around serif and sans-serif subfamilies for a major daily newspaper, with the serif at its core; designed for high-performance print and screen legibility across editorial contexts.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Condensed",
+      "Digital"
+    ],
+    "subfamilies": [
+      "SZ Serif",
+      "SZ Serif Condensed",
+      "SZ Sans",
+      "SZ Sans Condensed",
+      "SZ Sans Digital",
+      "SZ Text"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "newspaper",
+      "custom",
+      "editorial",
+      "print",
+      "screen",
+      "german",
+      "type-system",
+      "condensed"
+    ],
+    "summary": "A 57-style custom type system designed by Henning Skibbe for the Süddeutsche Zeitung's redesign, covering serif, sans-serif and condensed subfamilies for print and digital use.",
+    "description": "Developed between 2012 and 2022 as part of a full redesign of one of Germany's largest daily newspapers, the system spans four main subfamilies: SZ Serif, SZ Serif Condensed, SZ Sans, SZ Sans Condensed, SZ Sans Digital and SZ Text. Each of the 57 styles carries over 700 glyphs and supports an extensive set of OpenType features including small caps, old-style figures, tabular figures and arrows. The system is deployed across all of the SZ's brand channels, from broadsheet print to web and digital platforms.",
+    "foundry_blurb": "Character Type describe this as a custom SZ typeface system developed alongside the redesign of the Süddeutsche Zeitung, comprising 57 styles across Sans-Serif, Sans-Condensed, Serif and Serif-Condensed. Each style contains more than 700 glyphs, designed to cover any typographic challenge the SZ faces across print and web and all brand channels."
+  },
+  {
+    "name": "EatHappy",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/eathappy/",
+    "designer": "Alan von Lützau (creative direction), Character Type",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "An uppercase headline typeface built on geometric construction with round O forms and classic proportions, designed expressly for display use in a brand context with exaggerated smiling curves as a defining formal conceit.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "EatHappy Basic",
+      "EatHappy Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "brand",
+      "custom",
+      "headline",
+      "uppercase",
+      "friendly"
+    ],
+    "summary": "A brand-commissioned headline typeface built on geometric construction, where each letterform is drawn with upturned curves to express the smiling character of the EatHappy sushi chain.",
+    "description": "Designed in 2021 as part of a brand redesign by Korefe, it takes geometric round O forms and classic width proportions as its structural foundation, then inverts the horizontal stroke weight distribution — a nod to typefaces such as Neutraface — to reinforce a warm, upward-curved rhythm across the alphabet. The family comes in two versions: Basic, and Pro, which includes alternative, more eccentric glyph shapes accessed via the lowercase character slots. The glyph set is deliberately lean, covering uppercase headline use only.",
+    "foundry_blurb": "Character Type describe EatHappy as a happy headline typeface family created in partnership with Korefe for the 2021 EatHappy brand redesign. The smiling type concept originated with creative director Alan von Lützau; Character Type were brought in to translate early sketches into a working typeface, choosing a geometric construction model with classic proportions to give the friendly curves a grounded, human quality."
+  },
+  {
+    "name": "Medien Union",
+    "foundry": "Character Type",
+    "url": "https://charactertype.com/typefaces/medienunion/",
+    "designer": "Henning Skibbe, Tobias Herber",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The family is built on the superellipse as its core geometric principle, applied to counter forms within glyphs, while angled outer strokes allow for tighter setting — a geometric sans with functional newspaper and digital priorities.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Medien Union Serif",
+      "Medien Union Sans",
+      "Medien Union Sans Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Math"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "newspaper",
+      "publishing",
+      "editorial",
+      "superellipse",
+      "multi-platform",
+      "corporate"
+    ],
+    "summary": "A superellipse-based type system designed for Medien Union, one of Germany's largest publishing groups, covering newspapers, books and digital across serif, sans and condensed families.",
+    "description": "Commissioned for Medien Union, this system spans serif, sans and condensed families intended to work across the group's diverse media brands including newspapers, school book publishers and radio stations. The geometric construction derives from the superellipse in counter forms such as the o, b and p, offset by tilted outer strokes that aid legibility and allow tighter text setting. Designers Henning Skibbe and Tobias Herber have built coverage across Latin, Greek and mathematical scripts to serve demanding editorial and educational environments.",
+    "foundry_blurb": "Medien Union is described by Character Type as a geometric type system built for one of Germany's largest media publishing houses, serving newspapers, school books and radio brands. Its geometric logic is rooted in the superellipse, visible in inner counter forms, while tilted outer contours improve text density and legibility across print and digital reading environments."
+  }
+]

@@ -1,0 +1,365 @@
+[
+  {
+    "name": "JT Comet",
+    "foundry": "July Type",
+    "url": "https://www.julytype.com/typefaces/jt-comet",
+    "designer": "Edward Dżułaj, Nika Langosz, Lev Rastvortsev",
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "A chunky, warm display typeface with soft curves and lettering-inspired character, drawing from shop window and food packaging vernacular rather than fitting neatly into a geometric or grotesque tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JT Comet"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "lettering",
+      "chunky",
+      "warm",
+      "branding",
+      "playful",
+      "vernacular",
+      "food-packaging"
+    ],
+    "summary": "A warm, chunky display typeface collectively designed by three designers, drawing from the charm of shop window lettering and food packaging vernacular.",
+    "description": "Designed collaboratively by Edward Dżułaj, Nika Langosz and Lev Rastvortsev at July Type, JT Comet takes its spirit from Heinz Hoffmann's Herold Reclameschrift without functioning as a revival. Soft curves and playful proportions reference the hand-lettered signage of ice cream trucks and food packaging, giving it a friendly, approachable tone suited to branding work. Available in Regular and Italic, with Latin and Cyrillic script support.",
+    "foundry_blurb": "July Type describe JT Comet as a warm, chunky typeface suited to a wide range of branding applications, notable for its collaborative development by three designers. The project draws inspiration from the spirit of Heinz Hoffmann's Herold Reclameschrift for H. Berthold, but was conceived as a reinterpretation rather than a revival, capturing the charm of lettering found on shop windows, ice cream trucks and food packaging."
+  },
+  {
+    "name": "JT Javel",
+    "foundry": "July Type",
+    "url": "https://www.julytype.com/typefaces/jt-javel",
+    "designer": "Ferdinand Del Fabbro",
+    "year": null,
+    "category": "serif",
+    "subcategory": "Renaissance serif",
+    "classification_notes": "JT Javel draws directly from Renaissance type traditions, originating in a study of Robert Granjon's italics at the École Estienne in Paris, placing it firmly in the humanist/Renaissance serif subcategory.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JT Javel"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "renaissance",
+      "humanist",
+      "text-serif",
+      "book",
+      "variable",
+      "classical",
+      "swash",
+      "ligatures"
+    ],
+    "summary": "A Renaissance-influenced text serif by Ferdinand Del Fabbro, grown from a study of Robert Granjon's italics at the École Estienne in Paris.",
+    "description": "Originating as a loose interpretation of Granjon's italics, JT Javel expanded into a full text family that balances historical craft with the demands of contemporary print and screen typography. Five weights from Regular to ExtraBold each carry a matching italic, and the family is available as a variable font spanning both weight and optical sizing. OpenType features include swashes, small caps, ligatures and multiple numeral styles for careful typographic control.",
+    "foundry_blurb": "July Type describe JT Javel as carrying the refined qualities of a classic text typeface, blending Renaissance elegance with contemporary refinements for print and screen. The project began while Ferdinand Del Fabbro studied at the École Estienne in Paris, initially as a loose interpretation of Robert Granjon's italics, before broadening into a wider exploration of text serifs. The design respects historical craftsmanship while embracing variable font flexibility, and offers extensive Latin language support alongside a rich set of OpenType features."
+  },
+  {
+    "name": "JT Cyrax Sans",
+    "foundry": "July Type",
+    "url": "https://www.julytype.com/typefaces/jt-cyrax-sans",
+    "designer": "Rafał Buchner",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Squarish, boxy letterforms with geometric construction place this firmly in the geometric sans category, drawing explicit lineage from Eurostile and the square-gothic tradition rather than humanist or grotesque models.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Standard",
+      "Extended"
+    ],
+    "subfamilies": [
+      "JT Cyrax Sans Condensed",
+      "JT Cyrax Sans",
+      "JT Cyrax Sans Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "square",
+      "sci-fi",
+      "tech",
+      "superfamily",
+      "eurostile-lineage",
+      "variable",
+      "extended-language"
+    ],
+    "summary": "A squarish geometric sans by Rafał Buchner, drawing on the Eurostile tradition with a range of three widths, seven weights and matching italics.",
+    "description": "Built around boxy, squarish letterforms that reference the square-gothic idiom of Aldo Novarese's Eurostile, JT Cyrax Sans is the sans half of a larger superfamily that also includes a slab companion. Three widths — Condensed, standard and Extended — each run seven weights from Thin to Black with italics throughout, plus a variable font covering weights and optical sizing. Extended Latin language support is included, with Cyrillic planned for a future release.",
+    "foundry_blurb": "July Type describe JT Cyrax as a contemporary superfamily combining slab and sans styles, with squarish letterforms inspired by fonts from classic sci-fi films and tech logos. Designed by Rafał Buchner with jewellery-like precision, the family aims to balance character with clarity. They position it alongside Eurostile for its square forms, while citing the versatility of Univers as a model for its superfamily breadth across widths and weights."
+  },
+  {
+    "name": "JT Percy",
+    "foundry": "July Type",
+    "url": "https://www.julytype.com/typefaces/jt-percy",
+    "designer": "Maya Nakanishi",
+    "year": null,
+    "category": "serif",
+    "subcategory": "inscriptional serif",
+    "classification_notes": "Rooted in stone-carved and incised letterforms, with uppercase proportions drawn from second-century Roman inscriptions and lowercase from Renaissance humanist forms; the extensive swash and ligature system gives it a strongly inscriptional, calligraphic character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JT Percy"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "inscriptional",
+      "humanist",
+      "calligraphic",
+      "swashes",
+      "ligatures",
+      "classical",
+      "editorial",
+      "expressive"
+    ],
+    "summary": "A serif rooted in stone-carved letterforms and the inscriptional work of Percy John Delf Smith, with extensive swashes and ligatures across Latin and Cyrillic.",
+    "description": "Developed through archival research and cemetery visits, the typeface draws its uppercase proportions from second-century incised inscriptions and its lowercase from Renaissance humanist forms. An extensive range of swashes and ligatures opens up expressive typographic possibilities uncommon in a single-weight release. Cyrillic support was developed in collaboration with Bulgarian designer Pavel Pavlov, ensuring tonal consistency between the two scripts.",
+    "foundry_blurb": "July Type describe JT Percy as beginning with the study of stone-carved letterforms, with early inspiration from inscriptions at the Royal Institute of British Architects by Percy John Delf Smith, a student of Edward Johnston. The uppercase proportions reference second-century incised inscriptions, while the lowercase draws from Renaissance letterforms. Cyrillic support was developed with Bulgarian designer Pavel Pavlov and Ukrainian intern Lev Rastvorsev, with swash expansion and kerning by Nika Langosz and engineering by Rafał Buchner. July Type plan to release a serif version and additional weights in the future."
+  },
+  {
+    "name": "JT Cyrax Slab",
+    "foundry": "July Type",
+    "url": "https://www.julytype.com/typefaces/jt-cyrax-slab",
+    "designer": "Rafał Buchner",
+    "year": null,
+    "category": "slab",
+    "subcategory": "geometric slab",
+    "classification_notes": "Squarish, boxy letterforms with slab serifs draw directly from the squared grotesque tradition exemplified by Eurostile; the geometric, grid-like construction places it firmly in the geometric slab subcategory.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Standard",
+      "Extended"
+    ],
+    "subfamilies": [
+      "JT Cyrax Slab Condensed",
+      "JT Cyrax Slab",
+      "JT Cyrax Slab Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "geometric",
+      "sci-fi",
+      "squarish",
+      "superfamily",
+      "screen",
+      "tech",
+      "eurostile-influenced"
+    ],
+    "summary": "A squarish geometric slab with sci-fi leanings, drawn by Rafał Buchner across three widths and seven weights with matching italics.",
+    "description": "Taking its formal cues from the squared letterforms of Eurostile and classic sci-fi film titles, this slab serif trades in boxy, precise construction with consistent technical refinement for screen and print. Three width variants — Condensed, standard and Extended — give the family genuine range across editorial, branding and display contexts. A variable font is also available, covering both weight and optical sizing axes.",
+    "foundry_blurb": "July Type describe JT Cyrax Slab as part of a contemporary superfamily combining slab and sans styles, with squarish letterforms inspired by fonts from classic sci-fi films and tech logos. Designed by Rafał Buchner with jewelry-like precision, they cite Eurostile by Aldo Novarese as a reference point, while positioning Cyrax as a fresh voice within that tradition. Extended Latin language support is included, with Cyrillic planned for a future release."
+  },
+  {
+    "name": "JT Peleton",
+    "foundry": "July Type",
+    "url": "https://www.julytype.com/typefaces/jt-peleton",
+    "designer": "Edward Dżułaj",
+    "year": null,
+    "category": "serif",
+    "subcategory": "wedge serif",
+    "classification_notes": "JT Peleton is a wedge serif, a genre with roots in 19th-century incised and lapidary letterforms. Its triangular wedge serifs and high contrast distinguish it from both slab and traditional bracketed serifs.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Headline",
+      "Poster"
+    ],
+    "subfamilies": [
+      "Peleton Text",
+      "Peleton Headline",
+      "Peleton Poster"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "wedge-serif",
+      "optical-sizes",
+      "high-contrast",
+      "editorial",
+      "poster",
+      "variable",
+      "lapidary",
+      "multilingual"
+    ],
+    "summary": "A wedge serif with three optical sizes, drawing on the incised letterforms of 19th-century monument inscriptions for use across text, headline and poster settings.",
+    "description": "Three optical sizes, Text, Headline and Poster, each tuned to their respective scale: generous proportions and open spacing for running text, sharper contrast for display use, and tight letter-spacing for maximum impact at poster sizes. Cyrillic support extends the family's reach, and a variable font covers both weight and optical sizing axes in one file. Alternative glyphs for A, M, g, 5 and the Cyrillic б add typographic flexibility.",
+    "foundry_blurb": "July Type describe JT Peleton as a journey through time, echoing the elegance of 1800s wedge serif genres while incorporating contemporary adjustments. The distinctive wedge serifs pay homage to the historical elegance of ancient monument inscriptions, while a generous x-height and modern letter proportions keep the face current. The three optical sizes, Text, Headline and Poster, are each crafted for their intended scale, and Cyrillic support broadens the typeface's audience."
+  },
+  {
+    "name": "JT Multona",
+    "foundry": "July Type",
+    "url": "https://www.julytype.com/typefaces/jt-multona",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "square grotesque",
+    "classification_notes": "JT Multona belongs to the square grotesque tradition, characterised by squarish letter shapes and dual italic styles, rooted in early 20th-century display type genres such as Gigant by Genzsch & Heyse from the 1920s.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JT Multona"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "square-grotesque",
+      "display",
+      "vintage",
+      "cyrillic",
+      "variable",
+      "retro",
+      "editorial",
+      "signage"
+    ],
+    "summary": "A square grotesque display typeface tracing its lineage to early 20th-century types such as Gigant, offered in five weights with matching italics and variable font support.",
+    "description": "Rooted in the square grotesque genre that appeared on shop windows, bicycle frames and kitchen equipment throughout the 20th century, JT Multona draws direct inspiration from Gigant, a 1920s typeface by Genzsch & Heyse. Five weights run from Regular to Black, each with a companion italic, and the family ships as a variable font with optical sizing. Cyrillic support broadens its reach beyond Latin-script applications.",
+    "foundry_blurb": "July Type describe JT Multona as a timeless classic that has passed through multiple redesigns across the entirety of the 20th century. The squarish letter shapes and two sets of italic styles make it a versatile display tool, and its origins lie partly in Gigant, a 1920s typeface by Genzsch & Heyse. The family includes Cyrillic support, and the foundry note its historical use on shop windows, bicycle frames, kitchen equipment and boats."
+  },
+  {
+    "name": "JT Picolo",
+    "foundry": "July Type",
+    "url": "https://www.julytype.com/typefaces/jt-picolo",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Explicitly rooted in 19th-century high-contrast grotesque sources, specifically the Breede Grotesque and its Tetterode iteration, placing it firmly in the grotesque sans-serif tradition with historical display-weight references.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JT Picolo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "19th-century",
+      "historical-reference",
+      "variable",
+      "display",
+      "cyrillic",
+      "high-contrast",
+      "editorial"
+    ],
+    "summary": "A variable grotesque drawn from 19th-century high-contrast sources, particularly the 1875 Breede Grotesque, with Cyrillic support and OpenType alternates preserving historical double-storey letterforms.",
+    "description": "Rooted in research into 19th-century high-contrast grotesques, the design draws directly from the Breede Grotesque issued by Van der Wiel & Hooijer in 1875 and its later Tetterode iteration. Historical references such as double-storey /g and /r are retained as OpenType alternates rather than defaults, allowing users to shift between a cleaner contemporary register and a more characterful, period-inflected one. The variable axis spans Regular through Bold with matching italics, and Cyrillic support extends its usefulness across a broader range of markets.",
+    "foundry_blurb": "July Type describe JT Picolo as a variable typeface blending the elegance of 19th-century grotesque typefaces with a contemporary touch, citing the Breede Grotesque from Van der Wiel & Hooijer (1875) and its Tetterode iteration as key research sources. They focused on decisions around x-height, width and terminal endings to make it adaptable across applications, moving the most historically specific references into OpenType alternates. Cyrillic support is presented as central to its ambition as an inclusive, globally applicable tool."
+  }
+]

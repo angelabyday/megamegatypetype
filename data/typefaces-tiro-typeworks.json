@@ -1,0 +1,1155 @@
+[
+  {
+    "name": "Nyala",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/nyala",
+    "designer": "John Hudson, Geraldine Banes (Wade)",
+    "year": null,
+    "category": "serif",
+    "subcategory": "ethiopic script",
+    "classification_notes": "Nyala is a typeface designed for the Ethiopic script (Ge'ez/Fidel), used to write Amharic, Tigrinya and related languages. Its Latin companion follows conventional text serif conventions, but the primary design effort is in the extensive Ethiopic glyph set.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nyala"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Ethiopic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "ethiopic",
+      "amharic",
+      "tigrinya",
+      "geez",
+      "text",
+      "single-weight",
+      "multilingual",
+      "specialist"
+    ],
+    "summary": "A single-weight Ethiopic typeface by John Hudson and Geraldine Banes, covering over 1,090 glyphs for Amharic, Tigrinya and related languages written in the Ge'ez script.",
+    "description": "Designed at Tiro Typeworks by John Hudson and Geraldine Banes, Nyala provides thorough coverage of the Ethiopic script with a glyph set exceeding 1,090 characters. It is well known through its inclusion in Microsoft products, where it has served as a key bundled Ethiopic typeface. The design balances legibility at text sizes with the structural demands of the Fidel syllabary, making it a reliable choice for publishing in Ethiopian languages.",
+    "foundry_blurb": "Tiro Typeworks offer Nyala as a single Regular style, designed by John Hudson and Geraldine Banes (Wade), with credits noting an initial design study. The typeface has a documented relationship with Microsoft Typography and is available with a full Ethiopic glyph set specimen."
+  },
+  {
+    "name": "Constantia",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/constantia",
+    "designer": "John Hudson",
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Constantia is a humanist serif designed for on-screen legibility at small sizes, with relatively low contrast and open letterforms characteristic of the genre.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Constantia"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist-serif",
+      "screen",
+      "microsoft",
+      "text",
+      "multilingual",
+      "legibility"
+    ],
+    "summary": "A humanist serif designed by John Hudson for Microsoft, sold here as a standalone retail release with four styles covering Latin, Cyrillic and Greek.",
+    "description": "Originally commissioned by Microsoft as part of their ClearType font collection, Constantia was designed by John Hudson of Tiro Typeworks for optimised on-screen legibility at small sizes. The four-style family covers Regular, Italic, Bold and Bold Italic, with a glyph set of over 1,200 characters spanning Latin Extended, Cyrillic and Greek scripts. It sits comfortably in text-heavy editorial and document work where screen rendering quality matters.",
+    "foundry_blurb": "Tiro Typeworks offer the retail version of Constantia, designed by John Hudson. The typeface is noted as a Microsoft trademark and was originally developed as part of Microsoft's ClearType font initiative, with this release providing direct purchase access to all four styles."
+  },
+  {
+    "name": "Cambria",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/cambria",
+    "designer": "Jelle Bosma, Ross Mills, John Hudson, Steve Matteson, Robin Nicholas, Ruben Tarumian, David Březina",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Cambria is a text serif designed for on-screen legibility with features characteristic of transitional serifs: moderate contrast, sturdy strokes, and clear letterforms suited to continuous reading at small sizes.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cambria",
+      "Cambria Math"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Armenian"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "text",
+      "transitional",
+      "onscreen",
+      "microsoft",
+      "multilingual",
+      "math",
+      "readable"
+    ],
+    "summary": "A transitional text serif originally commissioned by Microsoft, covering Latin, Cyrillic, Greek and Armenian alongside a dedicated mathematical variant.",
+    "description": "Designed principally by Jelle Bosma with contributions from a broad team including John Hudson for language extensions, Steve Matteson and Robin Nicholas for Cyrillic and Greek, and Ruben Tarumian for Armenian script. The family comprises four RIBBI styles plus a separate Cambria Math font developed by Ross Mills, making it one of the few text serifs with dedicated mathematical typesetting support. Widely deployed through Microsoft products, it has become a reliable workhorse for documents requiring multilingual or scientific composition.",
+    "foundry_blurb": "Tiro Typeworks presents Cambria as a RIBBI text family available in four styles, with a separately licensed Cambria Math font for mathematical typesetting. The typeface was developed by a team of specialists covering core design, Cyrillic and Greek, Armenian script, language extensions and mathematical font engineering, and is associated with Microsoft, which holds the trademark."
+  },
+  {
+    "name": "Gabriola",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/gabriola",
+    "designer": "John Hudson, Marian Bantjes",
+    "year": null,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Gabriola is a display serif with extensive flourish variants, drawing on Renaissance calligraphic traditions; its elaborate stylistic alternates and swashes place it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gabriola"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "calligraphic",
+      "flourishes",
+      "renaissance",
+      "decorative",
+      "opentype",
+      "swash",
+      "editorial"
+    ],
+    "summary": "A single-style display serif by John Hudson with flourish design by Marian Bantjes, offering an exceptional range of OpenType stylistic alternates rooted in Renaissance calligraphic tradition.",
+    "description": "Designed by John Hudson with Marian Bantjes contributing the elaborate flourish variants, Gabriola draws on Renaissance pen lettering to produce a display serif of considerable ornamental depth. The font ships in one style but carries 4,517 glyphs, covering extended Latin, Cyrillic and Greek alongside numerous stylistic alternates and swash variants accessible via OpenType features. Originally developed in connection with Microsoft, it remains one of the more typographically ambitious display faces to emerge from that collaboration.",
+    "foundry_blurb": "Gabriola is a display serif designed by John Hudson with flourish assistance from Marian Bantjes. The single style contains 4,517 characters with broad Latin, Cyrillic and Greek coverage, and the typeface is associated with Microsoft Typography. Gabriola and Microsoft are trademarks of Microsoft Corporation."
+  },
+  {
+    "name": "Constantia Display",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/constantia-display",
+    "designer": "John Hudson",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Constantia Display is a display-oriented serif with classical proportions and refined stroke contrast, consistent with the transitional serif tradition established by the original Constantia commissioned by Microsoft.",
+    "weights": [
+      "Regular",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Constantia Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "display",
+      "classical",
+      "serif",
+      "microsoft-lineage",
+      "editorial",
+      "text"
+    ],
+    "summary": "A display-optical companion to the Constantia typeface, designed by John Hudson with assistant work from Paul Hanslow, covering Latin, Cyrillic and Greek.",
+    "description": "Offered in two styles, Regular and Italic, this display-weight serif builds on the classical proportions of the original Constantia commissioned by Microsoft. John Hudson's design refines stroke contrast and spacing for larger sizes, where optical corrections at text scale would otherwise feel heavy-handed. The broad character set of 1,376 glyphs supports extended Latin, Cyrillic and Greek scripts.",
+    "foundry_blurb": "Constantia Display is available in two styles from Tiro Typeworks, designed by John Hudson with Paul Hanslow as assistant designer. Microsoft and Constantia are trademarks of Microsoft Corporation."
+  },
+  {
+    "name": "Sitka",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/sitka",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Sitka is a text serif with six size-specific optical designs ranging from Small to Banner, reflecting a humanist approach to legibility across a wide range of point sizes and rendering environments.",
+    "weights": [
+      "Regular",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Small",
+      "Text",
+      "Subheading",
+      "Heading",
+      "Display",
+      "Banner"
+    ],
+    "subfamilies": [
+      "Sitka Small",
+      "Sitka Text",
+      "Sitka Subheading",
+      "Sitka Heading",
+      "Sitka Display",
+      "Sitka Banner"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "optical-sizes",
+      "text",
+      "humanist",
+      "legibility",
+      "multilingual",
+      "long-form",
+      "publishing"
+    ],
+    "summary": "A humanist serif in six size-specific optical cuts, spanning Small through Banner, with broad Latin and Cyrillic coverage across 36 static styles.",
+    "description": "Designed for precise optical performance at each point size, Sitka provides distinct drawings for Small, Text, Subheading, Heading, Display and Banner settings rather than scaling a single master. Each optical size is available in Regular, Semibold and Bold with matching italics, and the family also ships as two variable font files covering the full size and weight range. The Cyrillic and extended Latin character sets make it well suited to multilingual publishing and document work.",
+    "foundry_blurb": "Tiro Typeworks offer Sitka as 36 static styles in three weights and six size-specific designs, from an 8pt Small targeting sub-9.7pt use up to a Banner cut for 27.5pt and above, plus two variable font files for roman and italic. Individual styles are priced at US$55 each, with bundle savings available across the full family."
+  },
+  {
+    "name": "Skeena",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/skeena",
+    "designer": "John Hudson, Paul Hanslow",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Skeena exhibits the calligraphic warmth and open letterforms characteristic of humanist sans-serifs, designed for extended text use across a wide weight range with accompanying italics.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Skeena"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "text",
+      "variable",
+      "multilingual",
+      "extended-latin",
+      "editorial",
+      "versatile"
+    ],
+    "summary": "A humanist sans by John Hudson and Paul Hanslow, released through Tiro Typeworks with a broad six-weight range and variable font options.",
+    "description": "Designed by John Hudson and Paul Hanslow, Skeena spans six weights from Regular to Black, each with a matching italic, totalling 12 static styles. Variable font versions covering the full weight axis are also available in roman and italic cuts. The family carries Microsoft trademark associations and is built with broad Latin Extended character support across 471 glyphs.",
+    "foundry_blurb": "Skeena is a typeface designed by John Hudson and Paul Hanslow, available in 12 static styles plus two variable fonts covering the roman and italic weight axes. The full family includes Regular through Black weights with italics throughout, and Microsoft and Skeena are noted as trademarks of Microsoft Corporation."
+  },
+  {
+    "name": "Skeena Display",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/skeena-display",
+    "designer": "John Hudson",
+    "year": null,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Described specifically as a display variant, suggesting refined contrast and optical tuning for large-scale use; the serif construction and weight range align with a display serif classification.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Skeena Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "variable",
+      "editorial",
+      "print",
+      "multilingual"
+    ],
+    "summary": "A display serif by John Hudson in eight static styles and two variable font cuts, covering an extended Latin glyph set of 471 characters.",
+    "description": "Designed by John Hudson with assistance from Paul Hanslow, this display serif runs from Regular to Bold with matching italics across eight static styles. Two variable font versions, roman and italic, offer continuous weight interpolation on the same axis. The extended Latin character set and broad diacritic coverage suit multilingual editorial and high-profile print work.",
+    "foundry_blurb": "Skeena Display is available in eight styles from Regular to Bold Italic, as well as a four-style RIBBI package and two weight-axis variable fonts in roman and italic. Designed by John Hudson with Paul Hanslow as assistant designer. Microsoft and Skeena are trademarks of Microsoft Corporation."
+  },
+  {
+    "name": "Euphemia",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/euphemia",
+    "designer": "Ross Mills",
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Euphemia is a humanist serif designed to harmonise Latin and Canadian Syllabics scripts in a single typeface, with open, readable letterforms suited to multilingual text setting.",
+    "weights": [
+      "Regular",
+      "Book",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Euphemia",
+      "Euphemia Latin",
+      "Euphemia Syllabics"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Canadian Syllabics"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "multilingual",
+      "indigenous-languages",
+      "canadian-syllabics",
+      "humanist",
+      "text",
+      "latin",
+      "cree",
+      "inuktitut"
+    ],
+    "summary": "A humanist serif by Ross Mills supporting both pan-European Latin and Canadian Syllabics scripts for Cree, Inuktitut, Ojibwe and related languages.",
+    "description": "Designed by Ross Mills with remastering by John Hudson and Paul Hanslow, Euphemia runs across eight styles from Regular to Bold Italic, with variable font builds also available. It ships in three purchasable subsets: a full Latin plus Syllabics version, a Latin-only subset covering major European and certain Indigenous Latin orthographies, and a Syllabics-only subset offered on a pay-what-you-want basis. OpenType features include localised forms for Carrier, Nunavik and Beaver Syllabics dialects, small caps, old-style figures and arbitrary fractions.",
+    "foundry_blurb": "Tiro describe Euphemia as a complete font system covering both a pan-European Latin set and Canadian Syllabics, supporting Indigenous languages including Cree, Dakelh (Carrier), Inuktitut and Ojibwe. The Syllabics subset is offered on a pay-what-you-want basis. A variable font build with an interpolable weight axis is available for each subset."
+  },
+  {
+    "name": "Laconia",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/laconia",
+    "designer": "Ross Mills",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The broad Latin character set with wide language coverage and the balanced weight range suggest a humanist sans design, typical of Tiro Typeworks' approach to text-oriented typefaces with strong typographic craft.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Laconia"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "text",
+      "multilingual",
+      "latin-extended",
+      "professional",
+      "editorial"
+    ],
+    "summary": "A 14-style humanist sans from Tiro Typeworks, designed by Ross Mills with broad Latin extended character coverage across seven weights with matching italics.",
+    "description": "Designed by Ross Mills with assistance from Anna Štepanovská and Paul Hanslow, Laconia runs from Thin to Extra Bold with matching italics across 14 styles. The glyph set of 779 characters covers an extensive range of Latin extended scripts, reflecting Tiro Typeworks' characteristic attention to multilingual typesetting. It suits text and editorial work where wide language support is a requirement.",
+    "foundry_blurb": "Tiro Typeworks present Laconia as a 14-style family designed by Ross Mills, with assistant designers Anna Štepanovská and Paul Hanslow. The family is offered as individual styles or as a complete package, with a detailed specimen and full glyph set documentation available."
+  },
+  {
+    "name": "Brill",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/brill",
+    "designer": "John Hudson",
+    "year": 2014,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Brill uses a near-vertical contrast axis with expansion stroke modulation based on a flexible, pointed nib, placing it closer to a transitional or Enlightenment-era serif model rather than a broad-nib Renaissance style, designed to accommodate reversed, rotated and symmetrical letterforms across multiple scripts.",
+    "weights": [
+      "Regular",
+      "Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brill",
+      "Brill Cyrillic",
+      "Brill Greek",
+      "Brill Latin"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "IPA",
+      "Old Cyrillic",
+      "Fraktur"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "scholarly",
+      "multilingual",
+      "academic",
+      "polytonic",
+      "diacritics",
+      "historical",
+      "pointed-nib",
+      "custom"
+    ],
+    "summary": "A commission for Brill publishers by John Hudson, carrying approximately 7,000 glyphs per style to cover scholarly and multilingual texts across Latin, Cyrillic and Greek scripts.",
+    "description": "Originally developed from 2008 for the Dutch academic publisher Brill, the typeface supports more than 2,800 characters including IPA, Uralicist notation, Old Cyrillic, archaic Greek and a comprehensive system of combining diacritics for arbitrary character sequences. Its near-vertical contrast axis and pointed-nib modulation were chosen for their stability when applied to the reversed and rotated letterforms common in phonetic alphabets and certain Cyrillic letters. Recognised at the 2013 Type Directors Club competition, it is now licensed by Tiro Typeworks to publishers and designers beyond Brill's own use.",
+    "foundry_blurb": "Tiro Typeworks describe Brill as a custom typeface designed by John Hudson, with bold weights by Alice Savoie and a fraktur alphabet by Karsten Luecke, developed to harmonise Brill publishers' multilingual academic output across hundreds of books and journals. Each of the four styles contains around 7,000 glyphs covering Latin, Cyrillic and Greek with extensive diacritic support, phonetic alphabets, historical characters and multiple numeral and typographic variants, available as complete fonts or as script-specific subsets."
+  },
+  {
+    "name": "Athena Ruby",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/athena-ruby",
+    "designer": "John Hudson",
+    "year": null,
+    "category": "display",
+    "subcategory": "epigraphic capitals",
+    "classification_notes": "Athena Ruby is an all-capitals Greek typeface based on letterform variants catalogued from Byzantine seals and coins, making it a specialised epigraphic display face rather than a text or conventional serif.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Athena Ruby"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "greek",
+      "byzantine",
+      "epigraphic",
+      "capitals",
+      "scholarly",
+      "historical",
+      "numismatics",
+      "single-weight"
+    ],
+    "summary": "A single-style Greek capitals typeface by John Hudson, drawn from variant letterforms catalogued on Byzantine seals and coins, and distributed freely through Dumbarton Oaks Research Library.",
+    "description": "Designed by John Hudson for the Dumbarton Oaks Research Library, Athena Ruby encodes an extensive set of letterform variants derived from a systematic cataloguing of Byzantine seal and coin inscriptions led by scholar Joel Kalvesmaki. The result is a specialised all-capitals Greek face with 755 glyphs covering a wide range of historically attested letterform alternates. It is freely available to download and suited to academic, epigraphic and historical publication work.",
+    "foundry_blurb": "Athena Ruby is a free Greek capitals typeface designed by John Hudson with TrueType hinting by Ross Mills, developed in collaboration with Dumbarton Oaks Research Library. The project was led by Joel Kalvesmaki, whose extensive cataloguing of letterform variants on Byzantine seals and coins provided the scholarly foundation for the typeface's broad glyph repertoire."
+  },
+  {
+    "name": "Castoro Titling",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/castoro-titling",
+    "designer": "John Hudson",
+    "year": null,
+    "category": "serif",
+    "subcategory": "titling serif",
+    "classification_notes": "A dedicated titling cut designed for display-size use, with uppercase-only coverage and extensive Latin diacritics; the all-caps character set and name confirm a titling classification within the serif category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Castoro Titling"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "titling",
+      "display",
+      "uppercase",
+      "free",
+      "latin-extended",
+      "open-source",
+      "classical"
+    ],
+    "summary": "A free, single-style titling serif by John Hudson covering an extensive Latin Extended character set with a purely uppercase design.",
+    "description": "Designed by John Hudson of Tiro Typeworks, Castoro Titling is an uppercase-only serif intended for display and headline use. Its glyph set runs to over 400 characters, encompassing broad Latin Extended coverage including polytonic and diacritical forms suited to transliteration and scholarly work. Sources are publicly available on GitHub, and the font is offered free of charge.",
+    "foundry_blurb": "Tiro Typeworks offer Castoro Titling as a free, single-style font designed by John Hudson. The typeface ships with a full Latin Extended glyph set and its sources, build tools, and latest releases are maintained in a public GitHub repository."
+  },
+  {
+    "name": "Castoro",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/castoro",
+    "designer": "John Hudson",
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Castoro presents warm, pen-influenced letterforms typical of humanist serif design, suited to extended text setting across a range of weights from Regular to Bold.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Castoro",
+      "Castoro VF"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "humanist",
+      "serif",
+      "text",
+      "free",
+      "variable",
+      "open-source",
+      "book",
+      "latin-extended"
+    ],
+    "summary": "A free, open-source humanist text serif by John Hudson, available in four weights with italics and as variable fonts.",
+    "description": "Designed by John Hudson with assistant designers Paul Hanslow and Kaja Słojewska, Castoro offers eight static styles spanning Regular to Bold with matching italics, plus two variable font files covering the weight axis in roman and italic. The character set extends to 904 glyphs, providing broad Latin Extended coverage for multilingual text work. Sources are publicly available on GitHub under Tiro Typeworks.",
+    "foundry_blurb": "Castoro is a free typeface from Tiro Typeworks, designed by John Hudson with contributions from Paul Hanslow and Kaja Słojewska. It is released in eight static styles and two variable fonts, with sources hosted on GitHub. The family is offered at no cost and includes all styles in the download."
+  },
+  {
+    "name": "Laconia Cherokee",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/laconia-cherokee",
+    "designer": "Ross Mills",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The specimen shows a clean, modulated sans-serif adapted for the Cherokee syllabary, with proportions and weight distribution consistent with humanist sans conventions applied to a non-Latin script.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Laconia Cherokee"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Cherokee"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "cherokee",
+      "syllabary",
+      "indigenous",
+      "non-latin",
+      "multi-weight",
+      "script-specific",
+      "tiro"
+    ],
+    "summary": "A 14-style sans-serif family designed specifically for the Cherokee syllabary, covering the full script across seven weights with matching italics.",
+    "description": "Designed by Ross Mills with assistant designers Paul Hanslow and Anna Štepanovská, this family brings a complete weight range from Thin to Extra Bold to the Cherokee script. Each weight pairs with a matching italic, giving Cherokee-language typographers the same compositional flexibility available in mature Latin families. The pay-what-you-want pricing reflects Tiro Typeworks' longstanding commitment to supporting minority script communities.",
+    "foundry_blurb": "Laconia Cherokee is a 14-style type family for the Cherokee syllabary, designed by Ross Mills with Paul Hanslow and Anna Štepanovská as assistant designers. It is offered on a pay-what-you-want basis, with all 14 styles available individually or as a complete family."
+  },
+  {
+    "name": "Tiro Bangla",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/tiro-bangla",
+    "designer": "John Hudson, Fiona Ross, Neelakash Kshetrimayum",
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Tiro Bangla is a serif typeface designed for the Bengali script with accompanying Latin support; the design follows humanist serif conventions adapted for Indic script typography.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tiro Bangla"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Bengali"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "bengali",
+      "indic",
+      "multilingual",
+      "scholarly",
+      "text",
+      "free",
+      "open-source"
+    ],
+    "summary": "A free two-style Bengali text typeface by John Hudson and Fiona Ross, with italic adaptation by Neelakash Kshetrimayum, covering over 1,200 glyphs across Bengali and extended Latin.",
+    "description": "Designed by John Hudson and Fiona Ross, two of the foremost specialists in complex-script typography, Tiro Bangla offers a Regular and Italic for Bengali script alongside a broad extended Latin character set. The glyph set of over 1,200 characters reflects the thoroughness typical of Tiro Typeworks' scholarly approach to non-Latin type design. Fonts and sources are freely available via GitHub under the Tiro Typeworks public repository.",
+    "foundry_blurb": "Tiro Typeworks offer Tiro Bangla as a free, two-style typeface designed by John Hudson and Fiona Ross, with italic adaptation by Neelakash Kshetrimayum. Fonts, sources, and build tools are maintained in a public GitHub repository."
+  },
+  {
+    "name": "Skeena Indigenous",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/skeena-indigenous",
+    "designer": "John Hudson, Paul Hanslow",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Skeena Indigenous is a humanist sans-serif designed with extended Latin coverage for Indigenous languages of North America, including specialised diacritics and characters not found in standard Latin character sets.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Skeena Indigenous"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "humanist",
+      "indigenous-languages",
+      "extended-latin",
+      "multilingual",
+      "open-source",
+      "microsoft",
+      "north-america",
+      "accessibility"
+    ],
+    "summary": "A humanist sans-serif by John Hudson and Paul Hanslow, built specifically to support the orthographic needs of Indigenous languages across North America.",
+    "description": "Designed by John Hudson and Paul Hanslow at Tiro Typeworks with assistant designer Kaja Słojewska, Skeena Indigenous carries 736 glyphs to cover the specialised diacritics, modified letters and extensions required by Indigenous language communities. Twelve static styles run from Regular to Black with matching italics, accompanied by two variable font files. The family is distributed free, with full sources and build tools available via GitHub, and is included in the Microsoft font library.",
+    "foundry_blurb": "Skeena Indigenous is a free humanist sans-serif typeface developed by Tiro Typeworks for Microsoft, designed to support Indigenous languages of North America. The project includes detailed public documentation of design and technical decisions, full open-source font sources on GitHub, and integration into Microsoft products."
+  },
+  {
+    "name": "STIX Two",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/stix-two",
+    "designer": "Ross Mills",
+    "year": 2016,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "STIX Two is a transitional serif, redesigned from a Times New Roman clone to reference the original 10pt metal Times, with more rugged forms suited to scientific and technical text setting.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Math"
+    ],
+    "subfamilies": [
+      "STIX Two Text",
+      "STIX Two Math"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "IPA"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "scientific",
+      "technical",
+      "mathematics",
+      "opentype-math",
+      "times-influenced",
+      "unicode",
+      "variable-font",
+      "publishing"
+    ],
+    "summary": "A thoroughly redesigned scientific and mathematical typeface commissioned by a consortium of technical publishers, available under an open source licence.",
+    "description": "Designed by Ross Mills at Tiro Typeworks, STIX Two departs from its Times New Roman clone origins to reference the original 10pt metal Times, producing sturdier forms suited to both print and digital. The Text family offers four weights with italics as variable fonts, while the Math font implements the OpenType MATH table with a massively extended Unicode character set covering alphanumeric styles, operators, and technical symbols. Pan-European Latin, Cyrillic and Greek are covered alongside IPA phonetic characters, making it a thorough choice for scientific and academic publishing.",
+    "foundry_blurb": "STIX Two was commissioned by the STI Pub companies, a consortium including the AMS, AIP, APS, ACS, IEEE and Elsevier. Tiro Typeworks was brought in during 2014 to thoroughly revise and repackage the original STIX fonts, with Ross Mills replacing the Times New Roman clone with a fresh design referencing the original metal Times at 10pt. The family consists of the Text fonts, available as variable fonts with static instances, and the Math font, which implements the full OpenType MATH table and is compatible with Microsoft's math handler and TeX typesetting. A major updated version was released at the end of 2020, with extended character sets and revised math alphanumeric designs contributed by Paul Hanslow."
+  },
+  {
+    "name": "Tiro Devanagari Hindi",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/tiro-devanagari-hindi",
+    "designer": "John Hudson, Fiona Ross, Paul Hanslow",
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "A text typeface combining Latin and Devanagari scripts in a humanist serif style, designed to harmonise both writing systems for bilingual typesetting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tiro Devanagari Hindi"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "devanagari",
+      "hindi",
+      "multilingual",
+      "text",
+      "bilingual",
+      "humanist-serif",
+      "open-source"
+    ],
+    "summary": "A free two-style family designed by John Hudson and Fiona Ross for harmonious bilingual typesetting in Latin and Hindi Devanagari scripts.",
+    "description": "Designed by John Hudson and Fiona Ross with italic adaptation by Paul Hanslow, this family addresses the need for a well-matched Latin and Devanagari pairing at text sizes. The character set runs to over 1,400 glyphs, covering extended Latin diacritics alongside full Devanagari for Hindi. Both styles are freely available, with sources hosted on GitHub under Tiro Typeworks.",
+    "foundry_blurb": "Tiro Typeworks offers Tiro Devanagari Hindi as a free two-style family, with Regular and Italic, designed by John Hudson and Fiona Ross with italic adaptation by Paul Hanslow. The fonts are published openly on GitHub alongside sources and build tools, and a full glyphset specimen is available separately."
+  },
+  {
+    "name": "Tiro Devanagari Sanskrit",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/tiro-devanagari-sanskrit",
+    "designer": "John Hudson, Fiona Ross, Paul Hanslow",
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "A text serif designed for Devanagari script with Latin support, reflecting a humanist approach informed by traditional calligraphic principles and scholarly typographic practice.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tiro Devanagari Sanskrit"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Devanagari"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "devanagari",
+      "sanskrit",
+      "scholarly",
+      "multilingual",
+      "text",
+      "open-source",
+      "humanist",
+      "classical"
+    ],
+    "summary": "A free, two-style Devanagari typeface designed by John Hudson and Fiona Ross for Sanskrit and Latin text, distributed openly via GitHub.",
+    "description": "Designed by John Hudson and Fiona Ross with italic adaptation by Paul Hanslow, this family covers Devanagari script for Sanskrit alongside an extended Latin character set of over 1,800 glyphs. It reflects Tiro Typeworks' longstanding focus on scholarly multilingual typography, where script fidelity and reading comfort at text sizes are the primary considerations. Available freely in Regular and Italic, with sources hosted publicly on GitHub.",
+    "foundry_blurb": "Tiro Devanagari Sanskrit is a free two-style family available in Regular and Italic, designed by John Hudson and Fiona Ross with italic adaptation by Paul Hanslow. Sources and latest builds are maintained in a public GitHub repository."
+  },
+  {
+    "name": "Tiro Devanagari Marathi",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/tiro-devanagari-marathi",
+    "designer": "John Hudson, Fiona Ross, Paul Hanslow",
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "A text serif designed for Devanagari script in the Marathi language, with Latin companion glyphs; the humanist serif approach is consistent with Tiro's text-first design philosophy for complex scripts.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tiro Devanagari Marathi"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Devanagari",
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "devanagari",
+      "marathi",
+      "indic",
+      "text",
+      "scholarly",
+      "multilingual",
+      "open-source"
+    ],
+    "summary": "A free two-style text family designed by John Hudson and Fiona Ross for Marathi in the Devanagari script, with extended Latin support.",
+    "description": "Designed by John Hudson and Fiona Ross with italic adaptation by Paul Hanslow, this family addresses the Marathi-specific requirements of the Devanagari script alongside a broad Latin character set of over 1,395 glyphs. Released free and open-source via GitHub, it is the kind of careful, specialist work Tiro Typeworks are known for in complex-script typography. The two styles, Regular and Italic, are built for sustained reading at text sizes.",
+    "foundry_blurb": "Tiro Devanagari Marathi is a free two-style family credited to designers John Hudson and Fiona Ross, with italic adaptation by Paul Hanslow. The fonts are available via the official public repository on GitHub, which hosts the latest fonts, sources and build tools."
+  },
+  {
+    "name": "Tiro Gurmukhi",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/tiro-gurmukhi",
+    "designer": "John Hudson, Fiona Ross, Paul Hanslow",
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Tiro Gurmukhi is a text serif designed for the Gurmukhi script alongside a Latin companion; the structure reflects humanist proportions suited to continuous reading.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tiro Gurmukhi"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Gurmukhi",
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "gurmukhi",
+      "indic",
+      "text",
+      "scholarly",
+      "multilingual",
+      "free",
+      "open-source"
+    ],
+    "summary": "A free, two-style text family for the Gurmukhi script, designed by John Hudson and Fiona Ross with an italic adaptation by Paul Hanslow.",
+    "description": "Designed at Tiro Typeworks by John Hudson and Fiona Ross, this family pairs a Gurmukhi script with an extended Latin complement, serving readers of Punjabi text alongside transliteration needs. The italic was adapted by Paul Hanslow. Both styles are freely available, with sources hosted publicly on GitHub.",
+    "foundry_blurb": "Tiro Gurmukhi is a free two-style family comprising a Regular and Italic, designed by John Hudson and Fiona Ross with italic adaptation by Paul Hanslow. Source files and the latest fonts are maintained in a public GitHub repository by Tiro Typeworks."
+  },
+  {
+    "name": "Tiro Kannada",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/tiro-kannada",
+    "designer": "John Hudson, Fiona Ross, Kaja Słojewska",
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Designed primarily for the Kannada script with Latin support, following Tiro's established approach to scholarly, text-optimised multilingual typefaces with humanist proportions in the Latin component.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tiro Kannada"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Kannada",
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "kannada",
+      "indic",
+      "multilingual",
+      "scholarly",
+      "text",
+      "free",
+      "open-source"
+    ],
+    "summary": "A free, two-style typeface by John Hudson and Fiona Ross covering Kannada and extended Latin, designed for text use.",
+    "description": "Designed by John Hudson and Fiona Ross, with italic adaptation by Kaja Słojewska, Tiro Kannada covers Kannada script alongside a broad Latin character set running to over 1,240 glyphs. It is part of Tiro Typeworks' series of scholarly multilingual typefaces built for readability at text sizes. Both Regular and Italic styles are available free of charge, with sources hosted on GitHub.",
+    "foundry_blurb": "Tiro Kannada is a free, two-style typeface designed by John Hudson and Fiona Ross, with italic adaptation by Kaja Słojewska. It includes Regular and Italic styles and covers the Kannada script alongside an extensive Latin character set. Sources and the latest fonts are available via the official public repository on GitHub."
+  },
+  {
+    "name": "Tiro Malayalam",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/tiro-malayalam",
+    "designer": "John Hudson, Fiona Ross, Kaja Słojewska, Paul Hanslow",
+    "year": null,
+    "category": "serif",
+    "subcategory": "traditional script serif",
+    "classification_notes": "Tiro Malayalam is a script typeface designed for the Malayalam writing system, with both traditional and reformed orthography variants. The Latin companion follows a serif structure, making serif the closest applicable category.",
+    "weights": [
+      "Regular",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tiro Malayalam",
+      "Tiro Malayalam R"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Malayalam"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "malayalam",
+      "south-indian",
+      "script",
+      "traditional-orthography",
+      "reformed-orthography",
+      "scholarly",
+      "multilingual"
+    ],
+    "summary": "A Malayalam typeface by John Hudson and Fiona Ross, offered in both traditional and reformed orthography variants.",
+    "description": "Designed by John Hudson and Fiona Ross with italic adaptation by Kaja Słojewska and Paul Hanslow, Tiro Malayalam addresses the typographic needs of the Malayalam script with careful attention to orthographic convention. The family splits into two distinct subfamilies: Tiro Malayalam for traditional orthography and Tiro Malayalam R for reformed orthography, each available in regular and italic. The glyph set is extensive, covering over 1,300 characters including broad Latin Extended support alongside the Malayalam script.",
+    "foundry_blurb": "Tiro Typeworks describe Tiro Malayalam as a typeface offered in two orthographic traditions: a traditional orthography version and a reformed orthography version under the Tiro Malayalam R subfamily. Each subfamily is available in regular and italic styles."
+  },
+  {
+    "name": "Tiro Telugu",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/tiro-telugu",
+    "designer": "John Hudson, Fiona Ross, Kaja Słojewska",
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Tiro Telugu is a text typeface supporting the Telugu script alongside Latin, designed in the humanist serif tradition common to Tiro Typeworks' scholarly multilingual releases. The Latin companion follows a classical text serif approach suited to extended reading.",
+    "weights": [
+      "Regular",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tiro Telugu"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Telugu"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "telugu",
+      "indic",
+      "multilingual",
+      "scholarly",
+      "text",
+      "free",
+      "open-source"
+    ],
+    "summary": "A free, two-style Telugu text typeface from Tiro Typeworks, designed by John Hudson and Fiona Ross with italic adaptation by Kaja Słojewska.",
+    "description": "Tiro Telugu provides Regular and Italic styles covering the Telugu script alongside a broad Latin Extended character set of over 1,500 glyphs. The typeface comes from Tiro Typeworks, whose work in complex scripts and scholarly typography gives it strong credentials for academic and literary publishing. Sources and build tools are publicly available via GitHub.",
+    "foundry_blurb": "Tiro Telugu is a free, two-style typeface supporting the Telugu script, available via the official Tiro Typeworks GitHub repository along with full sources and build tools."
+  },
+  {
+    "name": "Tiro Sinhala",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/tiro-sinhala",
+    "designer": "John Hudson, Fiona Ross, Kaja Słojewska, Paul Hanslow",
+    "year": null,
+    "category": "serif",
+    "subcategory": "script serif",
+    "classification_notes": "Tiro Sinhala is a typeface designed for the Sinhala script, a South Asian abugida, alongside Latin support. It falls within the broader category of serif typefaces adapted for non-Latin script systems.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tiro Sinhala"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Sinhala"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sinhala",
+      "south-asian",
+      "multilingual",
+      "script",
+      "serif",
+      "text",
+      "specialist"
+    ],
+    "summary": "A two-style typeface for the Sinhala script, designed by John Hudson and Fiona Ross with italic adaptation by Kaja Słojewska and Paul Hanslow.",
+    "description": "Designed by John Hudson and Fiona Ross at Tiro Typeworks, this family provides Regular and Italic styles for the Sinhala script alongside extended Latin coverage. The italic was adapted by Kaja Słojewska and Paul Hanslow. With 1,539 glyphs in total, the character set reflects Tiro's long-standing specialism in complex script typography for South and Southeast Asian writing systems.",
+    "foundry_blurb": "Tiro Sinhala is offered in two styles, Regular and Italic, designed by John Hudson and Fiona Ross with italic adaptation by Kaja Słojewska and Paul Hanslow. The typeface covers the Sinhala script alongside an extended Latin character set, with a total glyph count of 1,539."
+  },
+  {
+    "name": "Tiro Tamil",
+    "foundry": "Tiro Typeworks",
+    "url": "https://www.tiro.com/fonts/tiro-tamil",
+    "designer": "Fernando Mello, Fiona Ross, Kaja Słojewska",
+    "year": null,
+    "category": "serif",
+    "subcategory": "text serif",
+    "classification_notes": "Tiro Tamil is a text typeface designed primarily for the Tamil script, with accompanying Latin support. Its serif structure is suited to extended reading at text sizes.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tiro Tamil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Tamil",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "tamil",
+      "multilingual",
+      "text",
+      "scholarly",
+      "open-source",
+      "south-asian"
+    ],
+    "summary": "A two-style Tamil text typeface by Fernando Mello and Fiona Ross, available free via Tiro Typeworks and GitHub.",
+    "description": "Designed by Fernando Mello and Fiona Ross, with italic adaptation by Kaja Słojewska, Tiro Tamil provides Regular and Italic styles covering the Tamil script alongside an extended Latin character set. The family is released free and is maintained as an open-source repository on GitHub, making it accessible for scholarly, publishing and digital use. Its extended Latin coverage includes a range of diacritics suited to transliteration and academic contexts.",
+    "foundry_blurb": "Tiro Tamil is a free two-style typeface covering Tamil and Latin Extended scripts, designed by Fernando Mello and Fiona Ross with italic adaptation by Kaja Słojewska. Fonts, sources and build tools are available via a public GitHub repository maintained by Tiro Typeworks."
+  }
+]

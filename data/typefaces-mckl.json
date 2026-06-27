@@ -1,0 +1,597 @@
+[
+  {
+    "name": "Fort",
+    "foundry": "MCKL",
+    "url": "https://www.mckltype.com/typefaces/fort",
+    "designer": "Jeremy Mickel",
+    "year": 2012,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Fort is a contemporary grotesque sans-serif with squared shoulders and carefully drawn italics, placing it squarely in the grotesk tradition rather than geometric or humanist sub-styles.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Book",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "XCond",
+      "Cond",
+      "Regular"
+    ],
+    "subfamilies": [
+      "Fort XCond",
+      "Fort Cond",
+      "Fort"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "condensed",
+      "branding",
+      "information-design",
+      "neutral",
+      "display",
+      "text"
+    ],
+    "summary": "A contemporary grotesque by Jeremy Mickel spanning 48 styles across three widths and eight weights, with squared shoulders and carefully redrawn slanted italics.",
+    "description": "Designed by Jeremy Mickel and published in 2012, Fort grew from graphic design practice and a need for a versatile, high-performance sans. Squared shoulders, distinctive counterforms in rounded characters and a uniform texture across the weight range give it enough character for display work while remaining legible and dependable at small sizes. The family covers Extra Condensed, Condensed and regular widths, each running from Thin to Black in roman and italic.",
+    "foundry_blurb": "MCKL describe Fort as a contemporary grotesk born from years of graphic design experience and demand for a versatile sans serif. They highlight its squared shoulders, distinctive counterforms in rounded characters, carefully redrawn slanted italics and uniform texture across the weight range, noting it works for information design, branding and small text as well as display settings."
+  },
+  {
+    "name": "Atlantic",
+    "foundry": "MCKL",
+    "url": "https://www.mckltype.com/typefaces/atlantic",
+    "designer": "Jeremy Mickel",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "scotch roman",
+    "classification_notes": "Atlantic is explicitly described as a display serif family inspired by American interpretations of Scotch Romans, placing it firmly in the display serif category with a Scotch Roman subcategory.",
+    "weights": [
+      "XLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "XBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "XNarrow",
+      "Narrow",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Atlantic XNarrow",
+      "Atlantic Narrow",
+      "Atlantic Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "scotch-roman",
+      "display",
+      "editorial",
+      "magazine",
+      "narrow",
+      "serif",
+      "american"
+    ],
+    "summary": "A 42-style display serif family rooted in American Scotch Roman traditions, originally commissioned for the 2019 redesign of The Atlantic magazine.",
+    "description": "Designed by Jeremy Mickel, Atlantic draws on 19th-century American interpretations of Scotch Romans, referencing specimens such as those from the Boston Type Foundry of 1860. The family spans three widths (XNarrow, Narrow, Condensed), seven weights from XLight to XBlack, and matching italics, totalling 42 styles with variable font counterparts. What began as a single headline commission for The Atlantic grew into a full typographic system through years of editorial deployment and ongoing development at MCKL.",
+    "foundry_blurb": "MCKL describe Atlantic as a new family of display serif typefaces inspired by American interpretations of Scotch Romans, offered in three widths, multiple weights, and matching italics. Originally commissioned for the 2019 redesign of The Atlantic magazine, it began as a single headline font and evolved into a broader typographic system through real-world use and continued development."
+  },
+  {
+    "name": "Gear",
+    "foundry": "MCKL",
+    "url": "https://www.mckltype.com/typefaces/gear",
+    "designer": "Jeremy Mickel",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Sharp octagonal letterforms with an extreme range of widths and weights, plus slanted and backslanted variants, place this firmly in the display category. Its origins as an Adidas commission and its aggressive, sport-inflected geometry align it with geometric display rather than any text-oriented classification.",
+    "weights": [
+      "XXLight",
+      "XLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "XBold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "XXNarrow",
+      "XNarrow",
+      "Narrow",
+      "Standard",
+      "Wide",
+      "XWide",
+      "XXWide",
+      "XXXWide"
+    ],
+    "subfamilies": [
+      "Gear XXNarrow",
+      "Gear XNarrow",
+      "Gear Narrow",
+      "Gear",
+      "Gear Wide",
+      "Gear XWide",
+      "Gear XXWide",
+      "Gear XXXWide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "octagonal",
+      "variable",
+      "sport",
+      "condensed",
+      "wide",
+      "expressive"
+    ],
+    "summary": "Originally commissioned by Adidas and one of the first variable fonts adopted at enterprise scale, this 216-style system spans eight widths and nine weights with upright, slanted and backslanted cuts built around sharp octagonal forms.",
+    "description": "Designed by Jeremy Mickel and published in 2025 after evolving from a 2018 Adidas commission, the family now runs from XXNarrow to XXXWide across nine weights from XXLight to Ultra, each available in roman, slant and backslant. The octagonal construction gives every width a consistent mechanical tension, while the variable font enables smooth interpolation across all axes for space-filling display work. A full lowercase was added during development alongside refined proportions and an extended glyph set with multiple stylistic alternates.",
+    "foundry_blurb": "MCKL describe Gear as a bold, high-performance typeface built to stretch, flex and power through any layout. Originally commissioned by Adidas as an all-caps display face, it became one of the first variable fonts adopted at enterprise level by a global brand in 2018. Since then it has grown into a complete system of 216 styles across 8 widths and 9 weights in backslant, upright and slant, with a full lowercase, refined drawing and variable font support across all axes."
+  },
+  {
+    "name": "Logic",
+    "foundry": "MCKL",
+    "url": "https://www.mckltype.com/typefaces/logic",
+    "designer": "Jeremy Mickel",
+    "year": 2019,
+    "category": "mono",
+    "subcategory": "typewriter-inspired monospace",
+    "classification_notes": "A fixed-width slab serif drawing from midcentury typewriter faces such as Courier and IBM Selectric's Advocate; the Monoscript subfamily adds a rare connecting script variant within the monospace constraint.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Logic Monospace",
+      "Logic Monoscript"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "typewriter",
+      "slab",
+      "script",
+      "coding",
+      "midcentury",
+      "fixed-width",
+      "connecting-script"
+    ],
+    "summary": "A five-weight monospace family by Jeremy Mickel drawing from midcentury typewriter faces, extended with a rare connecting script variant in matching fixed-width spacing.",
+    "description": "Inspired by IBM Selectric's Advocate, Courier and Stephenson Blake's Scarab, Logic Monospace carries the warmth of typewriter letterforms across Light to Black with roman and italic cuts. The accompanying Logic Monoscript is an unusual proposition: a true connecting script constrained to monospace metrics, a format with almost no precedent. Stylistic sets offer alternates including a schoolbook lowercase 'a', looped italic descenders and script capitals for selective variation.",
+    "foundry_blurb": "MCKL describe Logic as a warmly technical monospace in 5 weights of roman and italic, with an additional connecting script version. The design references midcentury typewriter fonts including IBM Selectric's Advocate and the ubiquitous Courier, with slab serif nods to Stephenson Blake's Scarab. Logic Monoscript is presented as a novel creation with few comparable examples of true connecting monospace scripts in existence."
+  },
+  {
+    "name": "Owners Text",
+    "foundry": "MCKL",
+    "url": "https://www.mckltype.com/typefaces/owners-text",
+    "designer": "Jeremy Mickel",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Draws from International Style signage vernacular as seen in Los Angeles, with warmth and quirk inherited from handmade letterforms — placing it closer to humanist sans than pure geometric or grotesque.",
+    "weights": [
+      "XLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text"
+    ],
+    "subfamilies": [
+      "Owners Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "signage",
+      "los-angeles",
+      "vernacular",
+      "editorial",
+      "text",
+      "expressive",
+      "international-style"
+    ],
+    "summary": "A text-optimised companion to the Owners display family, distilling the quirk and warmth of Los Angeles handmade signage into a workhorse six-weight sans.",
+    "description": "Owners Text is the small-size sibling of Jeremy Mickel's Owners superfamily, sharing its roots in the International Style vernacular signage of Los Angeles but tuned for comfortable reading at body sizes. Six weights from XLight to Black each carry matching italics, giving twelve styles in total. Stylistic alternates include a schoolbook 'a' and 'y', an alternate Q and dollar sign, and contextual arrows, adding flexibility for editorial and identity contexts.",
+    "foundry_blurb": "MCKL describe Owners as an expressive family inspired by the dynamic energy of handmade signage around Los Angeles — signs made in the International Style but warmed by the quirk and charm of vernacular letterform construction. Because signs are often stretched to fill space, the family spans a broad range of weights and widths, with Text versions specifically designed for small-size use."
+  },
+  {
+    "name": "Owners",
+    "foundry": "MCKL",
+    "url": "https://www.mckltype.com/typefaces/owners",
+    "designer": "Jeremy Mickel",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "vernacular grotesque",
+    "classification_notes": "Rooted in International Style sans-serif letterforms but filtered through Los Angeles vernacular hand-painted signage, giving it an expressive, warm quality distinct from neutral grotesque revivals.",
+    "weights": [
+      "XLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "XBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "XXNarrow",
+      "XNarrow",
+      "Narrow",
+      "Regular",
+      "Wide",
+      "XWide",
+      "XXWide"
+    ],
+    "subfamilies": [
+      "Owners XXNarrow",
+      "Owners XNarrow",
+      "Owners Narrow",
+      "Owners",
+      "Owners Wide",
+      "Owners XWide",
+      "Owners XXWide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "vernacular",
+      "display",
+      "grotesque",
+      "los-angeles",
+      "signage",
+      "expressive",
+      "headline",
+      "wide-range"
+    ],
+    "summary": "A 98-style display family by Jeremy Mickel rooted in Los Angeles hand-painted signage, spanning seven widths from XXNarrow to XXWide across seven weights with matching italics.",
+    "description": "Drawing from the International Style grotesque tradition as reinterpreted by vernacular LA signmakers, the family captures the quirk and warmth of letterforms stretched to fill irregular spaces. Seven widths run from XXNarrow to XXWide, each with seven weights from XLight to XBlack and matching italics, offering 98 styles in the core widths family. Tight default spacing gives it a logo-like density at display sizes, whilst a separate Text subfamily extends usability down to smaller settings.",
+    "foundry_blurb": "MCKL describe Owners as an expressive family inspired by the dynamic energy of handmade signage found around Los Angeles — signs made in the International Style but warmed by the quirk and charm of vernacular signmakers' individual approaches to letterform construction. Because signs are often stretched to fill available space, the family spans a wide range of weights and widths, and the fonts are set tightly for headline impact and logo-like presence, with Text versions included for smaller sizes."
+  },
+  {
+    "name": "Shift",
+    "foundry": "MCKL",
+    "url": "https://www.mckltype.com/typefaces/shift",
+    "designer": "Jeremy Mickel",
+    "year": 2012,
+    "category": "slab",
+    "subcategory": "egyptian slab",
+    "classification_notes": "Inspired by American slab-serifs of the late 19th century, particularly Franklin Circular; the heavier weights function as titling Egyptians while lighter weights take on a typewriter-like quality with flared terminals.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Book",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Shift"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "egyptian",
+      "typewriter",
+      "titling",
+      "editorial",
+      "19th-century",
+      "american"
+    ],
+    "summary": "A slab-serif by Jeremy Mickel drawing on late 19th-century American Egyptian types, shifting character from typewriter-like lightness to dense titling weight across six grades.",
+    "description": "Designed by Jeremy Mickel and published in 2012, Shift takes its cue from Franklin Circular by A.D. Farmer & Sons. In lighter weights the flared terminals and prominent serifs recall a typewriter face; in heavier settings the tight spacing and compressed counters push it firmly into titling Egyptian territory. The family runs to 12 styles across six weights with matching italics, and took a Certificate of Excellence in Typeface Design at TDC².",
+    "foundry_blurb": "MCKL describe Shift as inspired by American slab-serifs from the late 19th century, with particular reference to Franklin Circular from A.D. Farmer & Sons. They note that lighter weights adopt the character of a typewriter face with flared terminals and prominent serifs, while heavier weights function as a titling Egyptian with tight character spacing and small counters."
+  },
+  {
+    "name": "Router",
+    "foundry": "MCKL",
+    "url": "https://www.mckltype.com/typefaces/router",
+    "designer": "Jeremy Mickel",
+    "year": 2008,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Router is a sans-serif with a distinctive mechanical quality drawn from engraving tool movement, producing subtle stroke swells at terminals that give it a geometric yet tool-derived character.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Router"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "mechanical",
+      "engraving",
+      "display",
+      "signage",
+      "distinctive",
+      "editorial"
+    ],
+    "summary": "A sans-serif drawn from the motion of a rotating engraver, with deliberate stroke swells at start and stop points that give it a mechanical personality unlike any standard geometric.",
+    "description": "Jeremy Mickel designed Router in 2008, taking the characteristic swelling that a routing tool leaves when it enters and exits a cut and turning that artefact into the typeface's defining feature. The result sits somewhere between a geometric sans and an industrial signage letter, with a quiet but unmistakable quirk in each stroke terminal. Twelve styles across six weights with matching italics, small caps and case-sensitive punctuation round out a family that works from display sizes down to modest text. Selected for the Graphic Design: Now in Production exhibition at the Walker Art Center and Cooper-Hewitt National Design Museum.",
+    "foundry_blurb": "MCKL describe Router as inspired by the movement of a rotating engraver carving into plastic, noting that the slight swelling that occurs when the tool starts or stops became the central feature of the typeface. The original inspiration was a sign found in a New York City subway station at Park and 33rd Street."
+  },
+  {
+    "name": "Redaction",
+    "foundry": "MCKL",
+    "url": "https://www.mckltype.com/typefaces/redaction",
+    "designer": "Jeremy Mickel",
+    "year": 2019,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Redaction draws directly from US legal typography traditions, citing Times New Roman and Century Schoolbook as references, placing it firmly in the transitional serif category. The bitmap optical grades add a degraded quality distinct from either source, but the underlying structure remains transitional.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "10",
+      "20",
+      "35",
+      "50",
+      "70",
+      "100"
+    ],
+    "subfamilies": [
+      "Redaction",
+      "Redaction 10",
+      "Redaction 20",
+      "Redaction 35",
+      "Redaction 50",
+      "Redaction 70",
+      "Redaction 100"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "legal",
+      "bitmap",
+      "editorial",
+      "socially-engaged",
+      "commissioned",
+      "institutional",
+      "degraded"
+    ],
+    "summary": "A commissioned typeface for a MoMA PS1 art-legal collaboration, built on US courtroom typography and progressively degraded across seven bitmap optical grades.",
+    "description": "Designed by Jeremy Mickel for Titus Kaphar and Reginald Dwayne Betts' 'The Redaction' project at MoMA PS1, the family responds to the unconstitutional cash bail system by drawing on Times New Roman and Century Schoolbook. Seven optical grades from crisp text to heavily pixelated bitmap simulate the degradation of documents through the legal system, each available in Regular, Italic and Bold. The fonts are free for personal use, with the full 21-style family available for commercial licensing.",
+    "foundry_blurb": "Redaction was commissioned for Titus Kaphar and Reginald Dwayne Betts' collaboration at MoMA PS1, examining the unconstitutional cash bail system. Designed by Jeremy Mickel with creative direction by Forest Young, the typeface takes its cues from US legal typography including Times New Roman and Century Schoolbook, with special bitmap versions referencing how documents degrade within the legal system. Published in 2019 and updated in 2021, the fonts are free for personal use."
+  },
+  {
+    "name": "Superior Title",
+    "foundry": "MCKL",
+    "url": "https://www.mckltype.com/typefaces/superior-title",
+    "designer": "Jeremy Mickel",
+    "year": 2013,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Described by the foundry as a high-contrast transitional typeface sitting between Bodoni and Times, with roots in naive American titling faces and phototype fonts of the 1970s.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Superior Title"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "high-contrast",
+      "titling",
+      "american",
+      "editorial",
+      "vintage",
+      "display"
+    ],
+    "summary": "A high-contrast transitional serif by Jeremy Mickel, occupying the territory between Bodoni and Times through the lens of naive American titling types.",
+    "description": "Designed by Jeremy Mickel and published in 2013, the family draws on early 20th-century American titling faces including Modern Title from Barnhart Brothers & Spindler, as well as phototype fonts from the 1970s. Ten styles span five weights from Light to Black, each with a roman and italic. Features include small caps, swash italic capitals, alternate glyphs and a full suite of ligatures, making it well suited to editorial and display work that wants historical warmth with sharp vertical contrast.",
+    "foundry_blurb": "MCKL describe Superior Title as a high-contrast transitional typeface, a kind of missing link between Bodoni and Times, taking inspiration from naive American titling faces of the early 20th century, including Modern Title by Barnhart Brothers & Spindler, whose trademark was 'Superior Copper Mixed Type', as well as phototype fonts from the 1970s."
+  },
+  {
+    "name": "Specter",
+    "foundry": "MCKL",
+    "url": "https://www.mckltype.com/typefaces/specter",
+    "designer": "Jeremy Mickel",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Specter is a constructed geometric sans with 90-degree sheared terminals and true italics, drawing directly from early 20th-century geometrically-constructed sans serifs such as Granby, Metro, and Tempo.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Specter",
+      "Specter Inline"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "constructed",
+      "editorial",
+      "display",
+      "inline",
+      "sharp-terminals",
+      "vintage-inspired",
+      "elegant"
+    ],
+    "summary": "A constructed geometric sans by Jeremy Mickel with 90-degree sheared terminals and true italics, referencing Granby, Metro and Tempo.",
+    "description": "Drawing on early 20th-century geometric sans serifs, Specter eschews calligraphic influence in favour of shapes that resemble cut paper laid flat, with flat terminals enabling tight typesetting. Six weights with roman and italic styles cover text and display use, while Specter Inline Ultra adds a dramatic display option with a single stroked weight. A friendly lowercase and distinctive italic give the family a refined character that sits somewhere between historical revival and original construction.",
+    "foundry_blurb": "MCKL describe Specter as a constructed geometric sans with 90-degree sheared terminals and true italics, available in 7 weights with roman and italic styles including special inline display styles. It was inspired by early 20th-century geometrics including Granby, Metro and Tempo, and takes a novel approach by ignoring calligraphy, producing shapes akin to cut paper. Flat terminals allow tight typesetting, while a friendly lowercase and unique italic lend it a charming, refined personality."
+  },
+  {
+    "name": "Trust",
+    "foundry": "MCKL",
+    "url": "https://www.mckltype.com/typefaces/trust",
+    "designer": "Jeremy Mickel",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "flared sans to serif system",
+    "classification_notes": "Trust spans a continuum from sans to serif with variable contrast, drawing on phototype-era references including Optima, Friz Quadrata and Serif Gothic, making it a display system rather than a single category. Its flared strokes and sharp diagonal motifs place it firmly in the display classification.",
+    "weights": [
+      "XLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "XBold",
+      "Black",
+      "XBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trust 1A",
+      "Trust 1B",
+      "Trust 1C",
+      "Trust 2A",
+      "Trust 2B",
+      "Trust 2C",
+      "Trust 3A",
+      "Trust 3B",
+      "Trust 3C"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "phototype",
+      "american",
+      "editorial",
+      "branding",
+      "serif-to-sans",
+      "coin-lettering",
+      "historical"
+    ],
+    "summary": "A 144-style display collection by Jeremy Mickel spanning a continuum from sans to serif, rooted in US coin lettering and 1960s–70s phototype.",
+    "description": "Designed by Jeremy Mickel and published in 2023, Trust takes its initial spark from the lettering on the bicentennial dollar and the quarter, and draws further on a wide field of pre-digital typefaces including Optima, Friz Quadrata, Kabel and Serif Gothic. The collection is organised into nine subfamilies arranged along axes of contrast and serif presence, each available in eight weights from XLight to XBlack with matching italics, giving 144 styles in total. A unifying sharp diagonal in characters such as A, M, N, V and W runs through every subfamily, traceable directly to the coin source, and a suite of stylistic sets allows further control over voice.",
+    "foundry_blurb": "MCKL describe Trust as a collection of display typefaces comprising 144 styles across nine families, organised along a continuum of sans to serif, low to high contrast, and light to black weights in roman and italic. The original inspiration comes from US coin designs, and the family also references pre-digital typefaces such as Friz Quadrata, Albertus, Serif Gothic, Kabel, Tempo and Optima, with extreme styles evoking Broadway or ITC Americana. A sharp diagonal motif in characters like AMNVWvw, drawn from the coin lettering of 'UNITED STATES OF AMERICA', unifies the collection throughout."
+  }
+]

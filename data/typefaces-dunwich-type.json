@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Antarctican",
+    "foundry": "Dunwich Type",
+    "url": "https://dunwichtype.com/fonts/antarctican/",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced",
+    "classification_notes": "Antarctican is explicitly monospaced in its primary form, designed for screen and print text use, with a companion condensed headline family that is proportionally spaced.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Antarctican",
+      "Antarctican Headline"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "text",
+      "legibility",
+      "retina",
+      "workhorse",
+      "condensed-headline",
+      "display"
+    ],
+    "summary": "A monospaced text face built for Retina displays and print, pairing asymmetric contrast and deep notches with a large x-height to aid legibility at small sizes.",
+    "description": "Antarctican uses asymmetric contrast, deep notches and orthogonal stroke terminals to keep the eye moving across the line, departing from the usual conventions of even-rhythm monospacing. A large x-height makes the lowercase assertive at small sizes while remaining workable in display settings. Antarctican Headline is a proportionally spaced condensed companion family, allowing heavier weights than monospaced construction permits.",
+    "foundry_blurb": "Dunwich Type describe Antarctican Mono as designed for text on Retina displays and in print, an unembellished workhorse that both invokes and challenges convention. Asymmetric contrast is paired with deep notches to aid legibility, orthogonal stroke terminals lead the eye down and across, and a large x-height boosts the lowercase volume. Antarctican Headline is a matching condensed family, proportionally spaced to allow heavier weights than monospaced construction can accommodate."
+  },
+  {
+    "name": "The Becker Gothics",
+    "foundry": "Dunwich Type",
+    "url": "https://dunwichtype.com/fonts/the-becker-gothics/",
+    "designer": "James Puckett",
+    "year": null,
+    "category": "display",
+    "subcategory": "decorative gothic",
+    "classification_notes": "A quintet of decorative display faces reviving nineteenth-century American gothic lettering traditions; the ornamental, period-specific character places them firmly in the display category with a decorative gothic subcategory.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "The Becker Gothics"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "vintage",
+      "engraving",
+      "lettering",
+      "ornamental",
+      "wood-type",
+      "americana",
+      "historical-revival"
+    ],
+    "summary": "Five display faces reviving the ornamental gothic alphabets of George Becker's 1854 lettering manual, designed for vintage engraving, sign, and wood-type aesthetics.",
+    "description": "James Puckett drew this quintet from the gothic alphabets in George Becker's 1854 lettering manual Ornamental Penmanship, each voice evoking a different facet of nineteenth-century American print culture: engraving, lithography, signage and wood type. Each font ships with 23 PUA-encoded ornaments, making the set self-contained for period-accurate layouts. Available both through I Love Typography and on Adobe Fonts.",
+    "foundry_blurb": "Dunwich Type describe The Becker Gothics as a homage to nineteenth-century American lettering master George Becker, with designer James Puckett reviving the ingenious gothic alphabets from Becker's 1854 manual Ornamental Penmanship. The family comprises five typographic voices suited to vintage engraving, lithography, signs and wood type, with each font including 23 PUA-encoded ornaments."
+  },
+  {
+    "name": "Barteldes",
+    "foundry": "Dunwich Type",
+    "url": "https://dunwichtype.com/fonts/barteldes/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "americana display",
+    "classification_notes": "Rooted in early twentieth-century American architectural lettering and sign painting, Barteldes is a display family with strong vernacular credentials, making it firmly display rather than a conventional serif or sans classification.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "subfamilies": [
+      "Barteldes"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "americana",
+      "signpainting",
+      "architectural",
+      "editorial",
+      "advertising",
+      "swash",
+      "package-design"
+    ],
+    "summary": "A display family drawn from 1906 Denver architectural lettering and early twentieth-century sign painting manuals, offered in six weights with size-specific optical cuts and swash capitals.",
+    "description": "Six weights from Thin to Black are each supported by small, medium and large size-specific fonts that preserve hairlines at different scales, a practical consideration that reflects the family's origins in physical lettering traditions. Capital letters derive from architectural drawings by the Denver firm Gove & Walsh, built in 1906, while the lowercase follows exemplars from Frank Atkinson's 1909 manual 'Sign Painting Up to Now'. Swash capitals and coverage of over 200 languages extend its range well beyond its vernacular source material.",
+    "foundry_blurb": "Dunwich Type describe Barteldes as a striking display family that reimagines classic American letters for the twenty-first century, suited to editorial, advertising and package design. The capitals draw on architectural lettering by Denver firm Gove & Walsh from 1906, and the lowercase on Frank Atkinson's 1909 sign painting manual. Six weights, optical size-specific fonts, swash capitals and a character set covering over 200 languages make up the family."
+  },
+  {
+    "name": "Ironstrike",
+    "foundry": "Dunwich Type",
+    "url": "https://dunwichtype.com/fonts/ironstrike/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "industrial sans",
+    "classification_notes": "Ironstrike draws directly from industrial and Russian constructivist lettering traditions, with rigid modular forms, minimal curves, and tall lowercase letters that place it firmly in the display/industrial sans category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ironstrike",
+      "Ironstrike Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "industrial",
+      "constructivist",
+      "stencil",
+      "display",
+      "geometric",
+      "propaganda",
+      "bold",
+      "modular"
+    ],
+    "summary": "A constructivist-inspired industrial sans in seven weights with a steep 17.5° italic and a matching 14-font stencil family for display use.",
+    "description": "Ironstrike takes its cues from Russian constructivist propaganda lettering and industrial alphabets, using rigid shapes, modular forms and tall lowercase proportions to suggest strength and mechanical precision. Seven weights from light to ultra each carry a matching italic at an emphatic 17.5° slant, while a separate 14-font stencil family extends the range into full display territory. OpenType tabular figures and arbitrary fractions are included, and language support spans over 130 languages.",
+    "foundry_blurb": "Dunwich Type describe Ironstrike as a homage to industrial and constructivist lettering, citing Russian propaganda posters and early machine-age alphabets as its reference points. They highlight the seven weights with matching italics, the intense 17.5° italic slant, 14 stencil fonts and support for over 130 languages as the tools for commanding attention in tough design challenges."
+  },
+  {
+    "name": "Lorimer No. 2",
+    "foundry": "Dunwich Type",
+    "url": "https://dunwichtype.com/fonts/lorimer-no-2/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A mid-century-inflected grotesque sans with boxy curves and slanted terminals, placing it in the broader grotesque tradition with distinctive personality rather than neutrality.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Lorimer No. 2",
+      "Lorimer No. 2 Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "mid-century",
+      "1950s",
+      "display",
+      "editorial",
+      "stencil",
+      "headlines",
+      "packaging"
+    ],
+    "summary": "A 1950s-inflected grotesque with boxy curves, slanted terminals and a charming x-height that resists neutrality in favour of character.",
+    "description": "Built around narrow letters and tight spacing, it is well-suited to headlines, bottle labels and cover designs where large names must fit compressed formats. Five weights with italics span headline to long-copy use across two widths, regular and condensed, giving the family considerable range. A companion stencil cut extends it into display territory with a matching decorative option.",
+    "foundry_blurb": "Dunwich Type describe Lorimer No. 2 as a sans serif that refuses to leave personality to the copywriters, citing boxy curves, slanted terminals and a charming x-height as its defining traits. Narrow letters and tight spacing make it suited to fitting big names into tight spaces like bottles and covers, while two widths, five weights, italics and a companion stencil font give it range from headlines to long copy."
+  },
+  {
+    "name": "Gigalypse",
+    "foundry": "Dunwich Type",
+    "url": "https://dunwichtype.com/fonts/gigalypse/",
+    "designer": "James Puckett",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A single-weight square sans built from superellipse geometry; the squircle construction and heavy weight place it firmly in geometric display territory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gigalypse"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "square-sans",
+      "display",
+      "superellipse",
+      "squircle",
+      "heavy",
+      "single-weight"
+    ],
+    "summary": "A single-weight square sans drawn from superellipse geometry, balancing geometric rigidity with softened corners for heavy display use.",
+    "description": "Designed by James Puckett, Gigalypse is built on a squircle foundation, a square form with no straight lines, giving it an unusual tension between rigidity and warmth. The heavy weight and square proportions lend a futuristic, modernist quality, while the curved sides and rounded corners prevent it feeling cold or mechanical. Available through Adobe Fonts and I Love Typography, it is designed as a one-weight workhorse suited to any setting where bold display type is required.",
+    "foundry_blurb": "Dunwich Type describe Gigalypse as a one-weight workhorse conceived from a superellipse form known as a squircle, a square with no straight lines. Designer James Puckett wanted a typeface that feels simultaneously novel and classic, like modernist furniture, with round corners and curved sides adding warmth and humor to its sophisticated geometry, making it suitable wherever heavy display type is needed."
+  },
+  {
+    "name": "Recovery",
+    "foundry": "Dunwich Type",
+    "url": "https://dunwichtype.com/fonts/recovery/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "art deco display",
+    "classification_notes": "A revival of Eagle Bold, itself derived from Charles Coiner's heavy art deco letterforms for the National Recovery Administration; the extreme weight and decorative character place it firmly in the display category with an art deco subcategory.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Recovery"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "art-deco",
+      "revival",
+      "display",
+      "headline",
+      "heavy",
+      "propaganda",
+      "american",
+      "blackletter-adjacent"
+    ],
+    "summary": "A revival of Morris Fuller Benton's Eagle Bold, tracing back to Charles Coiner's heavy art deco lettering for the depression-era National Recovery Administration.",
+    "description": "Rooted in Charles Coiner's alphabet of heavy art deco forms created for the National Recovery Administration in the 1930s, this revival works back through Benton's Eagle Bold to deliver a denser, more even wall of black than foundry type allowed. Benton's original letterforms have been adjusted for greater typographic intensity, and small caps have been added to give titles additional weight. Best suited to headlines and display work where a blunt, authoritative presence is required.",
+    "foundry_blurb": "Dunwich Type describe Recovery as a revival of Eagle Bold, itself drawn from Charles Coiner's art deco identity for the depression-era National Recovery Administration, whose propaganda graphics covered America for the brief period the NRA survived. Benton's letters have been reworked for a more intense wall of black, and small caps added to lend titles potency."
+  },
+  {
+    "name": "Margherita",
+    "foundry": "Dunwich Type",
+    "url": "https://dunwichtype.com/fonts/margherita/",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "art deco slab",
+    "classification_notes": "Combines slab serif letterforms with art deco proportions and art nouveau alternates, rooted in Italian vernacular sign lettering traditions.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Margherita"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "slab",
+      "art-deco",
+      "art-nouveau",
+      "vernacular",
+      "italian",
+      "display",
+      "friendly",
+      "open-source"
+    ],
+    "summary": "A slab serif drawn from Italian street lettering, blending art deco warmth with art nouveau OpenType alternates across five weights.",
+    "description": "Rooted in the hand-lettered signs found on Italian streets, Margherita fuses slab serif construction with art deco character and optional art nouveau flourishes via OpenType alternates. Five weights from Light to Black give adequate typographic range, and the character set covers over 200 languages across Europe, the Americas, Africa and Vietnam. Released as an open source project, with fonts and source files freely available on GitHub.",
+    "foundry_blurb": "Dunwich Type describe Margherita as inspired by Italy's tradition of painted and hand-lettered business signage, combining slab serifs with art deco influences. They note its warm, friendly and quirky personality, OpenType alternates for art nouveau touches, five weights for typographic flexibility, and a broad character set supporting over 200 languages."
+  },
+  {
+    "name": "Sybarite",
+    "foundry": "Dunwich Type",
+    "url": "https://dunwichtype.com/fonts/sybarite/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "fat face",
+    "classification_notes": "Sybarite is a fat face display type with extreme stroke contrast, pointed serifs and optical size variants — a style rooted in early nineteenth-century British display typography.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "four optical weights"
+    ],
+    "subfamilies": [
+      "Sybarite"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "fat-face",
+      "display",
+      "high-contrast",
+      "optical-sizes",
+      "poster",
+      "editorial",
+      "swash",
+      "serif"
+    ],
+    "summary": "A fat face display type with four optical weights, swash italic capitals and alternate characters designed to resolve the white-space gaps common in the genre.",
+    "description": "Fat face types traditionally suffer at sizes they were not drawn for, with thin strokes either vanishing or thickening depending on scale. Sybarite addresses this with four optical weights that maintain dramatic stroke contrast across a range of sizes. The italic cuts add a steep slant, sweeping pothook serifs and seven swash capitals, while alternate versions of a, F, R and T are included to prevent the white-space gaps that often plague the genre at display sizes.",
+    "foundry_blurb": "Dunwich Type describe Sybarite as built around dramatic contrast between thick and thin strokes that turns letterforms into arresting silhouettes. They highlight its four optical weights as solving a longstanding problem in fat face design, and point to careful attention given to every curve, stroke and serif, as well as alternate characters and swash italic capitals for use in headlines, covers, posters and packaging."
+  }
+]

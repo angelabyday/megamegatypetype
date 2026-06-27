@@ -1,0 +1,544 @@
+[
+  {
+    "name": "Knapp",
+    "foundry": "Bloom Type",
+    "url": "https://bloomtype.com/fonts/knapp/",
+    "designer": "Baptiste Guesnon",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as a workhorse companion to Knopp with organic and lively character, suggesting a humanist approach to the sans-serif form rather than a strictly geometric or grotesque construction.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra-Bold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Knapp"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "variable",
+      "workhorse",
+      "text",
+      "headline",
+      "opentype",
+      "swedish",
+      "companion"
+    ],
+    "summary": "A workhorse sans in seven weights with matching italics and a variable font, designed by Baptiste Guesnon as the functional counterpart to Knopp.",
+    "description": "Started as a simplified branch of Knopp's design, Knapp has grown into its own family while retaining the organic spirit of its parent. Fourteen static styles span Light to Heavy with full italic coverage, alongside a variable font with weight and italic axes. The family includes a thorough set of OpenType features including fractions, tabular figures, standard and discretionary ligatures, and a stylistic alternate for the round 'a'.",
+    "foundry_blurb": "Bloom Type describe Knapp as the functional counterpart and workhorse companion of Knopp, with its name referencing the mechanical buttons of the modern world. Initially a simplified branch of Knopp's design, it evolved into its own independent family while preserving the organic and lively spirit of its origin, making it suitable for both headlines and longer text."
+  },
+  {
+    "name": "Tumla",
+    "foundry": "Bloom Type",
+    "url": "https://bloomtype.com/fonts/tumla/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as a geometric sans-serif, with circular and constructed letterforms consistent with that tradition. The slant styles and Wash mode are stylistic features rather than indicators of a different classification.",
+    "weights": [
+      "Hairline",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tumla"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "variable",
+      "display",
+      "headline",
+      "opentype",
+      "animated",
+      "contemporary"
+    ],
+    "summary": "A geometric sans-serif with 16 styles spanning Hairline to Black, including a distinctive Wash mode that mixes upright and slanted characters within a single style for dynamic headlines.",
+    "description": "Available as both variable and static fonts, the family runs eight weights from Hairline to Black with matching slant counterparts. The Wash OpenType feature (ss02) interleaves upright and slanted glyphs in a single style, an effect that can be driven by animation when using the variable font. A broad set of OpenType features covers oldstyle figures, tabular figures, fractions, stylistic alternates and wide capitals, and Latin extended and Greek script are supported.",
+    "foundry_blurb": "Bloom Type describe Tumla as a geometric sans-serif offered in 16 weights as both a variable and static font. A standout feature is the Wash mode, an OpenType stylistic set that mixes upright and slanted characters within the same style to produce tumbling, dynamic headlines — an effect that can be combined with animation in the variable font version."
+  },
+  {
+    "name": "Tumla Round",
+    "foundry": "Bloom Type",
+    "url": "https://bloomtype.com/fonts/tumla-round/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Rounded terminals on a geometric sans structure, positioned as a softer companion to the base Tumla family, with variable weight and slant axes suggesting clean, modern geometric construction.",
+    "weights": [
+      "Hairline",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tumla Round"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "geometric",
+      "variable",
+      "display",
+      "headline",
+      "animated",
+      "opentype"
+    ],
+    "summary": "A rounded geometric sans with 16 styles across eight weights, available as a variable font with weight and slant axes and an OpenType Wash mode that mixes upright and slanted characters in a single line.",
+    "description": "Tumla Round is the softened counterpart to the Tumla family, featuring fully rounded terminals across eight weights from Hairline to Black, each with an upright and slanted variant. The variable font exposes weight and slant axes, enabling smooth interpolation and, when combined with the Wash OpenType feature, allows upright and slanted characters to be interspersed within a single style for animated or dynamic headline use. The Wash mode is described by Bloom Type as a way to create tumbling animated text effects.",
+    "foundry_blurb": "Bloom Type describe Tumla Round as offering 16 weights in both variable and static formats, with a Wash mode OpenType feature that mixes upright and slanted characters within the same style for dynamic headlines. When using the variable font, Wash can be combined with animation for tumbling text effects, inspired by the concept of looking through a washing machine porthole."
+  },
+  {
+    "name": "Pack Hard",
+    "foundry": "Bloom Type",
+    "url": "https://bloomtype.com/fonts/pack-hard/",
+    "designer": "Baptiste Guesnon",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A boxy, condensed display typeface with geometric outer forms and subtly rounded inner shapes, designed explicitly for tight headline settings where maximum character fits a given space.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pack Hard"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "boxy",
+      "headline",
+      "condensed",
+      "edgy",
+      "tight-spacing"
+    ],
+    "summary": "A boxy display face by Baptiste Guesnon designed to pack letters as densely as possible into headline settings.",
+    "description": "Pack Hard pairs geometric, squared-off outer forms with subtly rounded interior shapes to create a dense, tightly fitted display typeface. Released in October 2022 as the harder-edged companion to Pack Soft, it ships in a single weight with case alternates and stylistic alternates for letters including A, B, G. Suited to punchy headlines where compact, assertive lettering is the priority.",
+    "foundry_blurb": "Bloom Type describe Pack Hard as the edgy partner to Pack Soft, boxy with subtle rounded inner shapes, designed to fit as much character as possible into the available space. They position it as ideal for intense letter-packing in tight, tidy headlines."
+  },
+  {
+    "name": "Knopp",
+    "foundry": "Bloom Type",
+    "url": "https://bloomtype.com/fonts/knopp/",
+    "designer": "Baptiste Guesnon",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "expressive sans",
+    "classification_notes": "Knopp is a curvy, expressive sans-serif designed explicitly for display and animated use, with letterforms that shift dramatically across a variable weight axis to suggest organic blooming. Its ornamental character places it firmly in the display category.",
+    "weights": [
+      "Regular",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Knopp"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "variable",
+      "expressive",
+      "organic",
+      "nature",
+      "animated",
+      "spring",
+      "decorative"
+    ],
+    "summary": "A curvy variable display sans by Baptiste Guesnon whose weight axis is designed to suggest stages of blooming, from tight bud to fully open flower.",
+    "description": "Released by Bloom Type in October 2022, Knopp spans five weights from Regular to Black with a variable font axis intended for animation and interactive motion work. The letterforms are deliberately curvy and expressive, drawing on the visual language of spring growth, with each heavier weight opening the forms further. It pairs with the companion typeface Knapp, a calmer sans suited to body text.",
+    "foundry_blurb": "Bloom Type describe Knopp as a typeface born from the joy of playing with pen strokes and the sight of blooming spring. Each weight represents a different stage of blooming, from a tight slim bud to a bold, fully open flower. Designed with motion in mind, the variable font version can be animated for dynamic and interactive experiences. The name Knopp means seeds in Swedish, while its companion Knapp means button."
+  },
+  {
+    "name": "Pack Soft",
+    "foundry": "Bloom Type",
+    "url": "https://bloomtype.com/fonts/pack-soft/",
+    "designer": "Baptiste Guesnon",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "rounded display",
+    "classification_notes": "A display typeface built around rounded, boxy letterforms with no sharp edges. Its bubbly, condensed character places it firmly in the display category, specifically as a rounded display face designed for dense headlines.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pack Soft"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "display",
+      "boxy",
+      "bubbly",
+      "headline",
+      "condensed",
+      "soft"
+    ],
+    "summary": "A single-weight rounded display face by Baptiste Guesnon, built around soft, boxy letterforms designed to pack as much character as possible into a tight footprint.",
+    "description": "Pack Soft is the companion to Pack Hard, sharing the same compressed spatial logic but replacing sharp edges with fully rounded forms for a calmer, more approachable feel. Designed for dense, snug headlines, it includes case alternates and stylistic alternates alongside standard Latin coverage. Released in October 2022, it suits packaging, editorial display and branding that needs warmth without sacrificing presence.",
+    "foundry_blurb": "Bloom Type describe Pack Soft as the round partner of Pack Hard, offering a calmer, rounder feel while fitting into the same tight space. Its bubbly, rounded design maintains the boxy character of the series, fitting as much personality as possible into the space available. They recommend it for dense, snug and comfy headlines."
+  },
+  {
+    "name": "Big Sauce",
+    "foundry": "Bloom Type",
+    "url": "https://bloomtype.com/fonts/big-sauce/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric sans",
+    "classification_notes": "Big Sauce is a display-oriented geometric sans with a distinctive three-axis variable font spanning upright, slanted and backslanted styles, clearly intended for expressive headline use rather than text setting.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Big Sauce"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "variable",
+      "expressive",
+      "headline",
+      "slanted",
+      "backslanted",
+      "poster"
+    ],
+    "summary": "A 27-style display sans from Bloom Type offering nine weights each in upright, slanted and backslanted cuts, with a variable font included.",
+    "description": "The family spans nine weights from Thin to Heavy, replicated across three slope variants: upright, slanted and backslanted. The backslanted cut is the distinguishing feature, giving the family a characterful reversibility suited to poster and branding work. A variable font covers all styles in a single file alongside the static instances.",
+    "foundry_blurb": "Bloom Type describe Big Sauce as typographic cookware for big sauces, a 27-weight family available as both a variable font and static styles, covering upright, slanted and backslanted cuts across nine weights."
+  },
+  {
+    "name": "Agate Recut",
+    "foundry": "Bloom Type",
+    "url": "https://bloomtype.com/fonts/agate-recut/",
+    "designer": "Baptiste Guesnon",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "The foundry describes a blend of incised and modern serif characteristics, with extra-wide serifs and alternating sharp angles and soft geometric curves, placing it firmly in display serif territory.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Agate Recut"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "incised",
+      "geometric",
+      "editorial",
+      "variable",
+      "magazine",
+      "experimental"
+    ],
+    "summary": "A redesigned display serif by Baptiste Guesnon, combining incised letter forms with wide serifs and alternating sharp and circular curves across six weights.",
+    "description": "Originally conceived in 2016 as an experimental proto-variable font for Strates, an architecture magazine, the design was reworked and re-released in spring 2025 as a fully fledged family with six weights and a variable font file. Its letterforms play between angular, stone-cut geometry and soft circular arcs, referencing both the agate gemstone and the historic 5.5-point typographic measure of the same name. OpenType features include oldstyle figures, tabular figures, discretionary ligatures, case alternates and several stylistic sets.",
+    "foundry_blurb": "Bloom Type describe Agate Recut as a serif family with extra-wide serifs and edgy details, and a direct redesign of the original Agate from 2016. The name references both the agate gemstone and the agate typographic measure, with the design playing on the idea of a polished, stone-cut gem whose curves alternate between sharp cutting angles and soft geometric circular shapes. Originally created for Strates, an architecture magazine, it was also one of the first demo fonts for SuperSizeMe.js before the official variable font format existed. The 2025 recut brings new weights and a full redesign, released as a completely new family."
+  },
+  {
+    "name": "Akke Poster",
+    "foundry": "Bloom Type",
+    "url": "https://bloomtype.com/fonts/akke-poster/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "The tagline 'Born the 2020s, designed in the 1940s' and the poster-specific naming point to a display-oriented sans with mid-century influences, organised across optical size variants (Small, standard, Big) rather than a conventional text family.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Small",
+      "Standard",
+      "Big"
+    ],
+    "subfamilies": [
+      "Akke Poster"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "poster",
+      "mid-century",
+      "optical-sizes",
+      "retro",
+      "sans-serif"
+    ],
+    "summary": "A display sans in 21 styles spread across three optical sizes, drawing on 1940s lettering conventions for poster and headline use.",
+    "description": "Organised into Small, standard and Big optical variants, each running through seven weights from Light to Black, the family is built around the demands of large-scale typesetting. The 1940s design sensibility gives it a period warmth that separates it from neutral contemporary grotesques. With no italic and no condensed cuts, it is a straightforward display tool rather than a system font.",
+    "foundry_blurb": "Bloom Type describe Akke Poster as 'Born the 2020s, designed in the 1940s', positioning it as a contemporary release with mid-century design roots, available in 21 weights across Small, standard and Big optical size variants."
+  },
+  {
+    "name": "Akke Display",
+    "foundry": "Bloom Type",
+    "url": "https://bloomtype.com/fonts/akke-display/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "The name and optical size structure — Small, standard, and Big — indicate a display-oriented serif family, with weights spanning Light to Black across three size-tuned subfamilies intended for headline and large-scale use.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Small",
+      "Standard",
+      "Big"
+    ],
+    "subfamilies": [
+      "Akke Display Small",
+      "Akke Display",
+      "Akke Display Big"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "optical-sizes",
+      "headline",
+      "editorial",
+      "multi-weight"
+    ],
+    "summary": "A display serif from Bloom Type spanning 21 styles across three optical size grades and seven weights from Light to Black.",
+    "description": "Structured around Small, standard and Big optical grades, each carrying seven weights from Light to Black, the family gives designers fine control over how the face behaves at different scales. The three-tier approach suits editorial and branding contexts where a single typeface must work across headings, subheadings and display copy without losing consistency. No italic or condensed cuts are offered, keeping the focus squarely on upright display use.",
+    "foundry_blurb": "Bloom Type offer Akke Display as a 21-weight family divided into three size-optimised groups — Small, standard and Big — each running from Light through to Black, available with a free trial download."
+  },
+  {
+    "name": "Akke Micro",
+    "foundry": "Bloom Type",
+    "url": "https://bloomtype.com/fonts/akke-micro/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The page presents Akke Micro as a text-oriented sans-serif with optical size variants (Small, standard, Big), suggesting a humanist sans designed for legibility across a range of sizes.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Small",
+      "Standard",
+      "Big"
+    ],
+    "subfamilies": [
+      "Akke Micro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "text",
+      "optical-sizes",
+      "multi-weight",
+      "legibility",
+      "editorial",
+      "body-text"
+    ],
+    "summary": "A 21-style text sans from Bloom Type, organised across three optical sizes — Small, standard and Big — each spanning seven weights from Light to Black.",
+    "description": "Akke Micro is structured around three optical size variants that tune spacing and contrast for different scale requirements, from tight small-print use to headline settings. Seven weights run consistently across each size, giving designers 21 styles in total to work with across a publication or interface. The foundry positions it as equally at home in running text and display settings.",
+    "foundry_blurb": "Bloom Type describe Akke Micro as a 21-weight family available in Small, standard and Big optical sizes, each with seven weights from Light to Black, noting that the typeface performs well across headlines as well as body text at varying scales."
+  },
+  {
+    "name": "Akke Text",
+    "foundry": "Bloom Type",
+    "url": "https://bloomtype.com/fonts/akke-text/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The page presents Akke Text as a text-optimised sans-serif with optical size variants (Small, standard, Big), suggesting a humanist sans designed for sustained reading across different size contexts.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Small",
+      "Standard",
+      "Big"
+    ],
+    "subfamilies": [
+      "Akke Text"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "text",
+      "optical-sizes",
+      "reading",
+      "publishing",
+      "multi-weight",
+      "sans-serif"
+    ],
+    "summary": "A text sans-serif from Bloom Type offering 21 styles across three optical size grades and seven weights, built for versatility across small and large settings.",
+    "description": "Akke Text is organised into Small, standard and Big optical grades, each available in seven weights from Light to Black. This structure gives designers precise control over weight and size relationships without relying on optical compensation tricks. The foundry notes it also performs in headline use, making it a workable choice for publications needing a single family across body and display.",
+    "foundry_blurb": "Bloom Type present Akke Text as a 21-weight sans-serif that performs across both text and headline settings, from big to small, with optical size variants covering Small, standard and Big grades alongside a full weight range from Light to Black."
+  }
+]

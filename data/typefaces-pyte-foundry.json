@@ -1,0 +1,325 @@
+[
+  {
+    "name": "Compagnie",
+    "foundry": "Pyte Foundry",
+    "url": "https://thepytefoundry.net/typefaces/compagnie",
+    "designer": "Ellmer Stefan",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "wood type grotesque",
+    "classification_notes": "Derived from 19th-century French and Swiss wood type Antiques (grotesques), with extreme contrasts, absent overshoots and deliberate optical naivety that push it firmly into display territory rather than conventional grotesque.",
+    "weights": [
+      "I",
+      "II",
+      "III"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Compagnie I",
+      "Compagnie II",
+      "Compagnie III"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "wood-type",
+      "grotesque",
+      "antique",
+      "display",
+      "19th-century",
+      "expressive",
+      "industrial",
+      "defamiliarization"
+    ],
+    "summary": "A trio of styles distilled from 19th-century French and Swiss wood type Antiques, deliberately preserving the optical naivety and structural oddities of the originals as an aesthetic in their own right.",
+    "description": "Drawn by Ellmer Stefan and mastered by Edgar Walthert, the three styles trace influences from E. Ploquin, Martin & Coderey, Bonnet & Cie. and Gaston Dubosc, channelled through research by Éric Nunes. Absent overshoots, no optical compensation and occasional collisions with the implied wood block edge are not corrected but amplified, producing what Stefan frames as a faux-naivety that questions the authority of more polished grotesques. Each style carries a generous set of OpenType alternates — ball terminals, shy terminals, touching terminals, single-storey variants and noseless numerals — allowing considered control over the level of strangeness.",
+    "foundry_blurb": "Pyte Foundry describe Compagnie as a digest of French and Swiss wood type Grotesques (natively called Antiques) from the second half of the 19th century. Rather than regularising its sources, the trio embraces exceptions and extreme contrasts, translating the raw crudity of industrial wood type production into a considered aesthetic. They invoke Viktor Shklovsky's concept of defamiliarization — ostranenie — to explain how the typeface neutralises typographic invisibility through its own unnatural naturalness, resulting in what they call a celebration of conflicting desires that performs confidently sharp in its awkwardness."
+  },
+  {
+    "name": "Acrylic",
+    "foundry": "Pyte Foundry",
+    "url": "https://thepytefoundry.net/typefaces/acrylic",
+    "designer": "Ellmer Stefan",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Acrylic derives from Brasilia, a Swiss neo-grotesque from the late 1950s, and deliberately interrogates the genre's conventions through stylistic alternates and multiplexed spacing variants. Its hyper-closed apertures and rational structure place it squarely within neo-grotesque tradition, even as it critiques it.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Acrylic Ortho",
+      "Acrylic Pseudo",
+      "Acrylic Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "conceptual",
+      "multiplexed",
+      "monospace",
+      "ui",
+      "logotype",
+      "swiss",
+      "critical"
+    ],
+    "summary": "A three-family neo-grotesque by Ellmer Stefan drawn from Albert Boton's Brasilia, moving from proportional to fixed-width spacing while deliberately unsettling the genre's air of rational certainty.",
+    "description": "Rooted in Brasilia, Boton's 1950s Swiss sans for Hollenstein Phototypo, Acrylic progresses across three multiplexed families: Ortho (proportional), Pseudo (intermediate) and Mono (fixed-width), each in eight weights from Thin to Black. Hyper-closed apertures give strong, self-contained word images suited to logotypes and headlines, while the monospaced end acquires a bureaucratic texture useful for UI. Named stylistic sets including Pervert Alternates, Skeptic Alternates and Nihilist Alternates introduce deliberate formal disruptions, exposing the constructed nature of neo-grotesque transparency as a design ideology.",
+    "foundry_blurb": "Pyte Foundry describe Acrylic as drawn from samples of Brasilia, which they call the Frenchiest of all Swiss sans-serifs, and as incrementally removed from that historical source in both aesthetics and ideology. Its three multiplexed sub-families are framed as a rational foundation in the post-war modernist tradition, while its OpenType Stylistic Sets — provocatively named Pervert, Skeptic and Nihilist Alternates — are positioned as a form of auto-iconoclastic critique, questioning the illusion of transparency that sits at the heart of neo-grotesque design doctrine."
+  },
+  {
+    "name": "Anamorphe",
+    "foundry": "Pyte Foundry",
+    "url": "https://thepytefoundry.net/typefaces/anamorphe",
+    "designer": "Anselm Felter",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "anamorphic display",
+    "classification_notes": "Anamorphe is a display typeface built around the historical practice of perspective anamorphosis, with extreme horizontal width variation that intentionally distorts letterforms for obfuscatory effect. Its hybrid character, shifting from sans in condensed widths to serif as width increases, places it firmly in the display category with no conventional subcategory applicable.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Ultra Condensed",
+      "Condensed",
+      "Normal",
+      "Wide",
+      "Extra Wide",
+      "Ultra Wide"
+    ],
+    "subfamilies": [
+      "Anamorphe"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "anamorphic",
+      "variable",
+      "display",
+      "experimental",
+      "distortion",
+      "historical-reference",
+      "optical-illusion",
+      "perspective"
+    ],
+    "summary": "A variable display typeface by Anselm Felter that revives the 19th-century practice of perspectively distorted letterforms, enabling messages to be hidden in plain sight and revealed only at extreme viewing angles.",
+    "description": "Drawing on historical examples of anamorphic writing collected by ephemera scholar Richard D. Sheaff, Anamorphe stretches horizontally from condensed sans to wide serif across a single variable axis, allowing overlapping words to be read from perpendicular directions. The design cites precedents spanning Erhard Schön's 16th-century woodcut riddles to Bavarian sign-painting manuals of 1903, blending angular and rounded details that reflect the inconsistencies of its source material. An optional ball terminals stylistic set adds a further layer of ornamental absurdity to an already wilfully difficult typeface.",
+    "foundry_blurb": "Pyte Foundry describe Anamorphe as an exploration of perspective anamorphosis alongside its sibling Manoeuvre, stretched between graphic encryption, mannerist gimmickry and utilitarian necessity. The typeface introduces historical anamorphic writing into digital typography via variable font technology, allowing fine-tuning of width and weight to suit the message being disguised. Ball terminals from historical specimens are included as a stylistic variant, adding an ornamental twist to the already cryptic mix."
+  },
+  {
+    "name": "Kinckq",
+    "foundry": "Pyte Foundry",
+    "url": "https://thepytefoundry.net/typefaces/kinckq",
+    "designer": "Ellmer Stefan",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "wood type revival",
+    "classification_notes": "A digital revival of 19th-century North American wood type, specifically the fractured fatface genre represented by Roman Grotesque; the zigzag mid-cap-height fracture and dimensional distortion place it firmly in the display category with no conventional subcategory equivalent.",
+    "weights": [
+      "Left",
+      "Middle",
+      "Right"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kinckq"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "wood-type",
+      "revival",
+      "variable",
+      "fatface",
+      "display",
+      "19th-century",
+      "distorted",
+      "experimental"
+    ],
+    "summary": "A digital revival of Roman Grotesque, an 1838 North American wood type whose letters fracture sharply at mid-cap-height, available in three static styles and a variable version.",
+    "description": "Based on Roman Grotesque, a peculiar fatface first shown by George Nesbitt of New York around 1838 and likely cut by Edwin Allen of Windham, Connecticut, Kinckq translates the design's angular mid-cap fracture into a variable font with a custom KNKQ axis running from -34 to 34. The three static styles, Left, Middle and Right, represent distinct positions along that axis, each producing a different direction of lean. Ellmer Stefan redrawn all glyphs from original sources, departing from an earlier 2016 attempt, Kink A, in favour of a more faithful and technically capable interpretation.",
+    "foundry_blurb": "Pyte Foundry describe Kinckq as a digital reanimation of a unique brainchild from the pantographically distorted minds of North American wood type manufacturers, dormant since the mid 1800s and now entering the digital age as three static styles and a variable version, enchanting once again with its charming obscenity."
+  },
+  {
+    "name": "Pyte Legacy",
+    "foundry": "Pyte Foundry",
+    "url": "https://thepytefoundry.net/typefaces/pyte-legacy",
+    "designer": "Ellmer Stefan",
+    "year": 2016,
+    "category": "display",
+    "subcategory": "19th-century revival",
+    "classification_notes": "Six distinctly eccentric display faces rooted in the stylistic diversity of 19th-century type, ranging from decorated to geometric to expressive forms; the foundry explicitly frames them as display weirdos drawing on Industrial Revolution-era typographic eccentricities.",
+    "weights": [
+      "Epitome",
+      "Gyrator",
+      "Houdini",
+      "Plinth",
+      "Polymer",
+      "Vulture"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pyte Legacy Epitome",
+      "Pyte Legacy Gyrator",
+      "Pyte Legacy Houdini",
+      "Pyte Legacy Plinth",
+      "Pyte Legacy Polymer",
+      "Pyte Legacy Vulture"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "19th-century",
+      "revival",
+      "decorative",
+      "eccentric",
+      "historical",
+      "vernacular",
+      "experimental"
+    ],
+    "summary": "Six overhauled display faces by Ellmer Stefan, each drawing on a different strand of 19th-century typographic eccentricity without tipping into straight revival.",
+    "description": "Originally released as a weekly free-font project throughout 2016, the six styles that make up the Pyte Legacy Library have since been completely overhauled and expanded into a more considered collection. Each style — Epitome, Gyrator, Houdini, Plinth, Polymer and Vulture — channels a different flavour of Industrial Revolution-era type, moving between tribute and parody rather than historical accuracy. The series won a Visuelt 2017 Gold and was selected for Typographica's Typefaces of 2016.",
+    "foundry_blurb": "Pyte Foundry describe the Pyte Legacy Library as a curated selection of Display weirdos drawn from a year-long weekly free-font project in 2016. Framed as a tribute to the stylistic diversity of the 19th century, the library digitally reintroduces typographic eccentricities from the post-Industrial Revolution era without unnecessary nostalgia, aiming to revive the spirit rather than the historical accuracy of the period. An iterative, modular production approach echoes the manufacturing mentality of the original foundries."
+  },
+  {
+    "name": "Manoeuvre",
+    "foundry": "Pyte Foundry",
+    "url": "https://thepytefoundry.net/typefaces/manoeuvre",
+    "designer": "Anselm Felter",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "reverse contrast display",
+    "classification_notes": "Manoeuvre employs deliberate horizontal weight distribution inspired by anamorphic asphalt road markings, producing a reverse contrast structure that distorts conventional letterform logic for expressive, display-oriented effect.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Manoeuvre"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "reverse-contrast",
+      "display",
+      "anamorphic",
+      "distorted",
+      "experimental",
+      "road-marking",
+      "expressive",
+      "conceptual"
+    ],
+    "summary": "A reverse-contrast display family by Anselm Felter derived from the anamorphic distortion of asphalt road-marking lettering, stretched across six weights to the point of near-abstraction.",
+    "description": "Manoeuvre takes the horizontal weight emphasis of traffic lettering, a distortion born of functional necessity to correct perspective at acute viewing angles, and translates it into a six-weight display family running from Thin to Heavy. The contrast between horizontals and verticals intensifies progressively across the range, culminating in a Heavy style where letterforms approach graphic abstraction. OpenType features include ball terminals, a seriffed I variant, slashed zero and arrow dashes, giving the family further expressive range beyond its structural conceit.",
+    "foundry_blurb": "Pyte Foundry describe Manoeuvre as an exploration of perspective anamorphosis alongside its sibling Anamorphe, each addressing a different mode of intentional letter distortion. Where Anamorphe pursues the extraordinary, Manoeuvre references the quotidian: the distorted letterforms of asphalt road markings, where horizontal weight exaggeration compensates for the perceptual foreshortening experienced at an acute angle. Designer Anselm Felter draws on both the freehand stroke-based tradition of road marking and the stencil-based digital distortion method, framing the resulting shapes within a broader cultural shift in which stretched type has moved from amateur taboo to recognised genre. The six static weights deliberately amplify the strangeness of this utilitarian source material."
+  },
+  {
+    "name": "Triptych",
+    "foundry": "Pyte Foundry",
+    "url": "https://thepytefoundry.net/typefaces/triptych",
+    "designer": "Ellmer Stefan",
+    "year": 2019,
+    "category": "serif",
+    "subcategory": "Victorian oldstyle",
+    "classification_notes": "Three-part family rooted in 19th-century Victorian text type, specifically Old Style Antique No. 7 by Alexander Phemister of Miller & Richard (1858), with an accompanying grotesque drawn from period sans-serif sources. The Roman and Italick sit firmly in the oldstyle serif tradition while the Grotesque extends the family into sans territory.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Triptych Roman",
+      "Triptych Italick",
+      "Triptych Grotesque"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "victorian",
+      "oldstyle",
+      "grotesque",
+      "editorial",
+      "historical",
+      "utilitarian",
+      "book",
+      "text"
+    ],
+    "summary": "A three-part family by Ellmer Stefan drawing on Victorian text typography, pairing a freely interpreted oldstyle Roman and Italick with a grotesque drawn from 19th-century sans-serif sources.",
+    "description": "The Roman and Italick are loose, low-fidelity interpretations of Alexander Phemister's Old Style Antique No. 7, first issued in 1858, deliberately avoiding high-resolution source imagery to invite abstraction rather than faithful revival. The accompanying Grotesque is an extrapolation across a broad range of 19th-century European grotesques and American gothics, particularly in its Bold weight. The three styles are designed as a hierarchical typographic system, described by Pyte Foundry as utilitarian and economical, stripped of ornament.",
+    "foundry_blurb": "Pyte Foundry describe Triptych as three distinct styles — Roman, Italick and Grotesque — evoking the sophisticated brutality of Victorian text typography. The seriffed styles are irreverent free renditions of Phemister's Old Style Antique No. 7, drawn from low-resolution specimens to emphasise abstraction over fidelity. The Grotesque is an extrapolation of unsorted 19th-century sans-serif influences. Secular and utilitarian in nature, the family is designed for defined hierarchical roles within a typographic system — unsentimental, hard-working and, in their words, not a workhorse but a mule."
+  }
+]

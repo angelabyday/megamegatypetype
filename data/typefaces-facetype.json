@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Unknown",
+    "foundry": "Facetype",
+    "url": "https://www.facetype.org/customer-login",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "No typeface information was available on the provided URL, which is a customer login page with no font data.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [],
+    "summary": "No typeface data could be retrieved from the provided URL, which is a customer login page rather than a font product page.",
+    "description": "The URL provided leads to a customer account login page for Facetype, not a typeface product page. No font name, designer, weights, or any other typeface-specific information was present in the page content. A correct product URL would be needed to generate a valid entry.",
+    "foundry_blurb": "No foundry copy about a specific typeface was available on this page."
+  },
+  {
+    "name": "Licensing Information",
+    "foundry": "Facetype",
+    "url": "https://www.facetype.org/licensing-information",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "No typeface was present on this page; this is a licensing information page. Category fields are placeholder values only.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "licensing",
+      "eula",
+      "foundry"
+    ],
+    "summary": "This page contains licensing information for Facetype's typefaces, not a specific typeface entry.",
+    "description": "The page describes Facetype's licensing philosophy, which prices font licences according to the size of the company obtaining the licence rather than the number of workstations. Facetype works with Font Radar to monitor legitimate usage of their typefaces. No specific typeface is featured on this page.",
+    "foundry_blurb": "Facetype explain that their licence fees are calculated based on the size of the client company rather than workstation count, reflecting the commercial value a company derives from using their typefaces. They collaborate with Font Radar to ensure legitimate usage and invite enquiries directly."
+  },
+  {
+    "name": "Facetype In Use",
+    "foundry": "Facetype",
+    "url": "https://www.facetype.org/in-use",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The page is a gallery of typeface usage examples and does not represent a single typeface; no classification is possible.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Facetype In Use"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "in-use",
+      "gallery",
+      "showcase",
+      "specimens"
+    ],
+    "summary": "A gallery page showing real-world usage of Facetype typefaces across print, digital and motion contexts.",
+    "description": "This page collects examples of Facetype typefaces deployed in published work, including editorial, branding and streaming projects. Featured typefaces include Strangelove Next, Publica Sans, Ivory, Plaquette, Doll and Slug. It serves as a specimen gallery rather than a page dedicated to any single typeface.",
+    "foundry_blurb": "The Facetype 'In Use' page gathers real-world examples of their typefaces appearing in commercial and creative projects, spanning clients such as Netflix, Disney Pixar and Adbusters."
+  },
+  {
+    "name": "Imprint",
+    "foundry": "Facetype",
+    "url": "https://www.facetype.org/imprint",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "No typeface information is available on this page; it is a legal imprint page for the Facetype foundry, not a typeface specimen or product page.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Imprint"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "unknown"
+    ],
+    "summary": "No typeface data could be extracted as this URL points to a legal imprint page rather than a typeface specimen.",
+    "description": "The provided URL leads to the legal imprint page for the Facetype foundry, listing contact details for Marcus Sterz in Vienna. No typeface specimen, weights, styles or descriptive copy are present on the page. No meaningful typeface entry can be produced from this content.",
+    "foundry_blurb": "The page lists Facetype Foundry as operated by Marcus Sterz, Otto Bauer Gasse 24/27, 1060 Vienna, Austria, with VAT ID ATU60383347. Website design is credited to Marcus Sterz, built on the Fontdue platform."
+  }
+]

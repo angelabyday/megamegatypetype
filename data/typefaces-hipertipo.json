@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Mechanica",
+    "foundry": "Hipertipo",
+    "url": "https://www.hipertipo.com/en/fonts/mechanica/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Mechanica is described as a modern sans serif with simplified connections and clear lettershapes, pointing to a geometric or rationalist approach; the variable axes for weight, width, contrast and slant, along with elliptical italic forms, reinforce a contemporary geometric classification.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mechanica",
+      "Mechanica Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "variable",
+      "sans-serif",
+      "monospaced",
+      "opentype",
+      "modern",
+      "versatile"
+    ],
+    "summary": "A variable sans serif from Hipertipo with axes for weight, width, contrast and slant, plus a monospaced variant for code.",
+    "description": "Built around simplified connections and clear lettershapes, Mechanica offers four standard variation axes while keeping advance widths consistent across weight changes, which aids layout stability. The italic cuts introduce elliptical shapes and optional cursive alternates for a, f and y via OpenType features, giving the roman a more playful companion. A dedicated monospaced version extends the family into code and technical contexts.",
+    "foundry_blurb": "Hipertipo describe Mechanica as a modern sans serif with simplified connections and flexible lettershapes, supporting variation axes for weight, width, contrast and slant. The italic styles explore elliptical forms and serve as a playful counterpart to the roman, with cursive alternates accessible through OpenType features. A monospaced version is also available for code use."
+  },
+  {
+    "name": "Quantica",
+    "foundry": "Hipertipo",
+    "url": "https://www.hipertipo.com/en/fonts/quantica/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Quantica is a contemporary sans serif with open forms, large x-height, low contrast and vertical stroke endings characteristic of screen-optimised humanist sans designs. The variable contrast axis adds stroke modulation at larger sizes, placing it closer to humanist than geometric conventions.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Quantica"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "screen",
+      "humanist",
+      "legible",
+      "open-forms",
+      "large-x-height",
+      "contemporary"
+    ],
+    "summary": "A variable sans serif by Hipertipo built for screen legibility, offering weight, width, contrast and slant axes alongside optional cursive alternates.",
+    "description": "Designed with open forms, a large x-height, low contrast and vertical stroke endings, Quantica prioritises readability at screen sizes. The family is driven by four variation axes: weight, width, a contrast axis that introduces stroke modulation as point size increases, and a slant axis that adds cursiveness to the italic. Optional cursive alternate glyphs for a, f, l and y can be activated via OpenType stylistic sets.",
+    "foundry_blurb": "Hipertipo describe Quantica as a contemporary sans serif with simple, legible and flexible lettershapes. Its design draws on conventions common to screen fonts, including open forms, large x-height, low contrast and vertical stroke endings. The family supports weight and width variation axes alongside an extra contrast axis for stroke modulation at larger sizes, with italics produced via a slant axis and optional cursive alternates available through OpenType features."
+  },
+  {
+    "name": "Jornalistica Roman",
+    "foundry": "Hipertipo",
+    "url": "https://www.hipertipo.com/en/fonts/jornalistica-roman/",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "A contemporary text serif with variable axes for weight, width and contrast, designed for long-form editorial use such as news and literary typography.",
+    "weights": [
+      "Variable (weight axis)"
+    ],
+    "optical_sizes_or_widths": [
+      "Variable (width axis)"
+    ],
+    "subfamilies": [
+      "Jornalistica Roman"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "variable",
+      "editorial",
+      "text",
+      "news",
+      "long-form",
+      "contemporary"
+    ],
+    "summary": "A variable serif designed for long-form editorial text, with axes covering weight, width, contrast, extenders and spacing.",
+    "description": "Built for news articles, literature and essays, this contemporary serif offers five variation axes: weight, width, contrast, extender depth and spacing. The range of axes means a single font file can serve both body copy and display headlines without switching families. A complementary italic with interrupted cursive construction and a separate sans-serif version are also available.",
+    "foundry_blurb": "Hipertipo describe Jornalistica Roman as a contemporary serif for setting long-form text including news articles, literature and essays. It includes variation axes for weight, width and contrast to cover headline and display needs, plus two micro-typographical axes to adjust ascender and descender depth and capital size. The italic is a separate font with an interrupted cursive construction, and a sans-serif version is available."
+  },
+  {
+    "name": "Synthetica",
+    "foundry": "Hipertipo",
+    "url": "https://www.hipertipo.com/en/fonts/synthetica/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as fusing geometry and calligraphy on a humanistic contrast model, placing it firmly in the humanist sans tradition despite its unconventional construction with straight lines and tense curves.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Synthetica"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "geometric",
+      "calligraphic",
+      "stencil",
+      "variable",
+      "unconventional",
+      "display",
+      "sans-serif"
+    ],
+    "summary": "A variable sans-serif that merges geometric construction with calligraphic contrast, producing stencil-like open strokes in lighter weights and dense rectangular counters in heavier ones.",
+    "description": "Built on a humanistic contrast model, Synthetica uses straight lines and tense curves to produce letterforms that shift dramatically across its weight range. At lighter settings, strokes separate into stencil-like gaps; at heavier settings, counters close into compact rectangular voids. Variable axes for weight, width and slant are supplemented by stylistic sets offering cursive alternates for a, g, f, l and y.",
+    "foundry_blurb": "Hipertipo describe Synthetica as an unconventional sans-serif that fuses geometry and calligraphy, with letterforms built from straight lines and tense curves over a humanistic contrast model. The weight range includes discontinuous, stencil-like strokes in lighter cuts and solid shapes with rectangular counters in the heaviest weights."
+  },
+  {
+    "name": "Jornalistica Sans",
+    "foundry": "Hipertipo",
+    "url": "https://www.hipertipo.com/en/fonts/jornalistica-sans/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The page explicitly describes it as a humanistic sans-serif, derived by removing serifs from Jornalistica Roman and Italic, retaining the humanist proportions and construction of the parent serif.",
+    "weights": [
+      "Variable weight"
+    ],
+    "optical_sizes_or_widths": [
+      "Variable width"
+    ],
+    "subfamilies": [
+      "Jornalistica Sans"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "variable",
+      "sans-serif",
+      "italic",
+      "cursive",
+      "editorial",
+      "newspaper",
+      "opentype"
+    ],
+    "summary": "A variable humanist sans derived from Jornalistica Roman, with a continuous axis that blends roman and italic construction simultaneously.",
+    "description": "Built by removing the serifs from Jornalistica Roman and Italic, this variable typeface exposes four axes: weight, width, slant and spacing. The slant axis is more than a simple angle shift — it transitions the construction model from roman to italic, with cursive alternate glyphs for a, e, f and g activating via OpenType features to complete the shift. The result is a typeface suited to editorial and news contexts where typographic flexibility across weights and styles is essential.",
+    "foundry_blurb": "Hipertipo describe Jornalistica Sans as a flexible humanistic sans-serif whose shapes were created by removing the serifs from Jornalistica Roman and Italic. The Sans introduces a continuous variation axis between roman and italic that modifies both the construction model and slant angle simultaneously, completed by cursive alternate glyphs accessible via OpenType features."
+  },
+  {
+    "name": "Publica",
+    "foundry": "Hipertipo",
+    "url": "https://www.hipertipo.com/en/fonts/publica/",
+    "designer": null,
+    "year": 2007,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Publica is a grotesque sans-serif with multiple variation axes including weight, width, contrast and slant, developed from a fork of Liberation Sans with its own distinct evolution over time.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Publica"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "variable",
+      "multi-axis",
+      "width",
+      "contrast",
+      "opentype",
+      "versatile"
+    ],
+    "summary": "A variable grotesque family originating as a 2007 fork of Liberation Sans, with axes for weight, width, contrast and slant giving extensive stylistic range.",
+    "description": "Publica grew from a 2007 fork of the open-source Liberation Sans into an independent grotesque family with five variation axes: weight, width, contrast, slant and spacing. The contrast axis allows modulation of stroke weight within a grotesque structure, while italic-style forms are produced via the slant axis combined with optional OpenType cursive features for alternates including a, g, l and y. The result is a single variable family capable of spanning neutral text settings through to more expressive display usage.",
+    "foundry_blurb": "Hipertipo describe Publica as a flexible grotesk type family with a wide range of weights and widths, plus a contrast axis to introduce stroke modulation. Originally forked from the open-source Liberation Sans in 2007, it developed independently over the years. Italic styles are generated via a slant axis with optional OpenType features to activate cursive forms."
+  },
+  {
+    "name": "Pneumatica",
+    "foundry": "Hipertipo",
+    "url": "https://www.hipertipo.com/en/fonts/pneumatica/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A narrow, dark grotesque with rounded stroke endings and rectangular countershapes, placing it firmly in the grotesque sans tradition with a contemporary variable-font approach.",
+    "weights": [
+      "Normal",
+      "Extra Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "wide"
+    ],
+    "subfamilies": [
+      "Pneumatica"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "narrow",
+      "dark",
+      "variable",
+      "rounded",
+      "condensed",
+      "opentype"
+    ],
+    "summary": "A narrow, dark grotesque with rounded stroke endings and variable axes for weight, width and slant, plus cursive OpenType alternates.",
+    "description": "Pneumatica pairs smooth external curves with rectangular countershapes that optically soften at text sizes, a formal tension shared with Hipertipo's Synthetica. The variable design runs a weight axis from normal to extra heavy, a width axis, and a slant axis up to 11 degrees. Cursive alternates for individual glyphs such as a, f, l, w and y can be switched on via OpenType stylistic sets.",
+    "foundry_blurb": "Hipertipo describe Pneumatica as a narrow, dark grotesk marked by simple shapes and rounded stroke endings, noting its formal resemblance to their earlier Synthetica in the interplay between smooth outer curves and rectangular countershapes. The variable font includes weight, width and slant axes, with cursive alternates accessible through OpenType features."
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Fugit",
+    "foundry": "Counter Forms",
+    "url": "https://counter-forms.com/typefaces/fugit",
+    "designer": "Dennis Grauel",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The specimen copy and weight range suggest a text-oriented humanist sans. The name and styling indicate a straightforward workhorse design without decorative or display pretensions.",
+    "weights": [
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fugit"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "text",
+      "editorial",
+      "workhorse",
+      "contemporary",
+      "legible"
+    ],
+    "summary": "A text-oriented humanist sans by Dennis Grauel, spanning four weights with matching italics for sustained reading environments.",
+    "description": "Designed by Dennis Grauel and released through Counter Forms, Fugit runs from Regular to ExtraBold across four weights, each paired with an italic. The specimen leans heavily on long-form text settings, suggesting a typeface built for editorial and extended reading rather than display use. Its construction sits within the humanist sans tradition without strong distinguishing quirks.",
+    "foundry_blurb": "Counter Forms present Fugit as a straightforward typeface by Dennis Grauel, offered in four weights from Regular to ExtraBold with accompanying italics."
+  },
+  {
+    "name": "Eyja",
+    "foundry": "Counter Forms",
+    "url": "https://counter-forms.com/typefaces/eyja",
+    "designer": "Thy Hà",
+    "year": null,
+    "category": "script",
+    "subcategory": "handwriting",
+    "classification_notes": "The page categorises Eyja explicitly under 'Handwriting', and the typeface is credited to Thy Hà as a script/handwriting design within Counter Forms' typeface catalogue.",
+    "weights": [
+      "Regular",
+      "Regular Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Eyja"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "handwriting",
+      "script",
+      "organic",
+      "editorial",
+      "two-weights",
+      "personal"
+    ],
+    "summary": "A handwriting typeface by Thy Hà offered in Regular and Regular Italic, part of Counter Forms' small but considered type catalogue.",
+    "description": "Designed by Thy Hà, Eyja sits within Counter Forms' handwriting category alongside a handful of other typefaces. The family is minimal in scope, comprising just two styles: Regular and Regular Italic. It appears suited to editorial and literary contexts given the foundry's wider focus on text-driven, culturally engaged publishing work.",
+    "foundry_blurb": "Counter Forms present Eyja as a handwriting typeface by Thy Hà, offered in Regular and Regular Italic styles, available alongside other typefaces in their catalogue including Fugit, Telas, Pantasia and Herbik."
+  },
+  {
+    "name": "Telas",
+    "foundry": "Counter Forms",
+    "url": "https://counter-forms.com/typefaces/telas",
+    "designer": "Seb McLauchlan",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The preview text and styling visible on the page suggest a refined serif with upright and italic cuts across two weights, consistent with a transitional or humanist serif genre. The restrained weight range and italic pairings support this classification.",
+    "weights": [
+      "Regular",
+      "Medium"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Telas"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "editorial",
+      "humanist",
+      "literary",
+      "two-weight"
+    ],
+    "summary": "A two-weight serif by Seb McLauchlan with regular and medium cuts, each accompanied by an italic.",
+    "description": "Telas is a text serif from Counter Forms designer Seb McLauchlan, offered in Regular and Medium weights with matching italics. The four-style family is compact in scope, suggesting a focus on refined text setting rather than broad display versatility. Its positioning within Counter Forms' catalogue, alongside other considered text and display faces, points to an editorial or literary use case.",
+    "foundry_blurb": "Telas is presented on the Counter Forms site as part of their typeface offering, designed by Seb McLauchlan and available in Regular, Regular Italic, Medium and Medium Italic styles."
+  },
+  {
+    "name": "Pantasia",
+    "foundry": "Counter Forms",
+    "url": "https://counter-forms.com/typefaces/pantasia",
+    "designer": "Wei Huang",
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced serif",
+    "classification_notes": "Pantasia is explicitly described as a monospaced counterpart to Times New Roman, a transitional serif, making it a monospaced serif. Its proportions and details are derived from the Wide 427 cut of Times New Roman.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pantasia"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "serif",
+      "times-new-roman",
+      "transitional",
+      "study",
+      "research",
+      "editorial",
+      "text"
+    ],
+    "summary": "A monospaced serif drawn as a study of Times New Roman's proportions and rhythms, based on the Wide 427 cut issued in 1938.",
+    "description": "Designer Wei Huang built Pantasia as a means to understand the underlying structure of Times New Roman, working from the Wide 427 cut originally intended for book printing. The exercise strips away Times' associations as a default typeface and isolates the proportional logic that gives it its character, transposed into a fixed-pitch form. Glyph coverage is broad, including extensive Latin Extended characters, Vietnamese, OpenType alternates and a full suite of mathematical and currency symbols.",
+    "foundry_blurb": "Counter Forms describe Pantasia as a monospaced counterpart to Times New Roman, itself conceived in 1931 by Stanley Morison with Victor Lardent and possibly William Starling Burgess for The Times. Pantasia draws on the Wide 427 cut, first issued in 1938 as an uncondensed version for book printing, and was made as a way to study Times' proportions, rhythms and the essence of its 'Timesness' beyond its status as a ubiquitous default. The name comes from a bakery in the anime Yakitate!! Japan."
+  },
+  {
+    "name": "Herbik",
+    "foundry": "Counter Forms",
+    "url": "https://counter-forms.com/typefaces/herbik",
+    "designer": "Daniel Veneklaas",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The page presents Herbik as a text-oriented sans with a range of weights and italics; the humanist sans classification fits the linguistic and editorial contexts in which it is demonstrated throughout the specimen.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Herbik"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "text",
+      "editorial",
+      "multilingual",
+      "australian",
+      "linguistic",
+      "warmth"
+    ],
+    "summary": "A humanist sans by Daniel Veneklaas offered in five weights with matching italics, demonstrated extensively in linguistic and editorial contexts.",
+    "description": "Designed by Daniel Veneklaas and published by Counter Forms, Herbik runs from Regular through to Black with a matching italic for each weight. The specimen leans heavily on editorial text drawn from discussions of Australian Indigenous language documentation and typography in Southeast Asia, suggesting the family is positioned for sustained reading at text sizes. The range of ten styles gives it enough scope for structured editorial hierarchies.",
+    "foundry_blurb": "Counter Forms presents Herbik as a typeface by Daniel Veneklaas, available in five weights from Regular to Black, each with a companion italic, demonstrated across a variety of long-form editorial and linguistic texts."
+  }
+]

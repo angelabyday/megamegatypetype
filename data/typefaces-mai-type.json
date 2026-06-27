@@ -1,0 +1,203 @@
+[
+  {
+    "name": "Khoa Serif",
+    "foundry": "Mai Type",
+    "url": "https://www.maitype.xyz/fonts/khoa-serif",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "venetian serif",
+    "classification_notes": "Khoa Serif is explicitly described as a Venetian-style serif revival, drawn from Veronese, placing it firmly within the humanist oldstyle/Venetian tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Khoa Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "venetian",
+      "revival",
+      "vietnamese",
+      "oldstyle",
+      "serif",
+      "historical",
+      "book"
+    ],
+    "summary": "A Venetian serif revival drawn from Veronese as it appeared in Vietnamese printed books between 1950 and 1975.",
+    "description": "Still a work in progress at version 0.100, this typeface takes its cues from Veronese, a Venetian-style serif found in printed books published in Vietnam during the mid-twentieth century. The single Regular style already supports Latin and Vietnamese scripts, rooting it firmly in a specific regional and historical typographic tradition. Its scope is narrow for now, but the premise of a Vietnamese-inflected Venetian revival is a distinctive one.",
+    "foundry_blurb": "Mai Type describe Khoa Serif as a revival serif typeface drawn from the study of Veronese, a Venetian-style serif, as found in printed books published in Vietnam between 1950 and 1975. It is currently a work in progress at version 0.100, available in a single Regular style with trials available on request."
+  },
+  {
+    "name": "Mai Display",
+    "foundry": "Mai Type",
+    "url": "https://www.maitype.xyz/fonts/mai-display",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "reverse-contrast display sans",
+    "classification_notes": "Explicitly described as a reverse-contrast display sans, drawing on the stroke contrast inversion typical of tuscan and sign-painting traditions, here rooted in Vietnamese hand-painted signage.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mai Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "reverse-contrast",
+      "signage",
+      "vietnamese",
+      "hand-painted",
+      "work-in-progress"
+    ],
+    "summary": "A reverse-contrast display sans drawn from the tradition of hand-painted shop signage in Vietnam, currently released as a single Regular weight.",
+    "description": "Still in active development at version 1.001, the typeface takes its visual logic from old Vietnamese hand-painted signage, inverting the expected stroke contrast to give letterforms an assertive, decorative character. Only a Regular style is available at present, with trial requests handled directly through the foundry. The Latin and Vietnamese character sets are both demonstrated in the specimen, reflecting the dual cultural reference of the source material.",
+    "foundry_blurb": "Mai Type describe Mai Display, previously called Untitled Display, as a reverse-contrast display sans inspired by old hand-painted signages in Vietnam, citing these as well-known typography visual materials in that context."
+  },
+  {
+    "name": "Eyja",
+    "foundry": "Mai Type",
+    "url": "https://www.maitype.xyz/fonts/eyja",
+    "designer": "Thy",
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "scotch roman",
+    "classification_notes": "Eyja is explicitly described as a Scotch Roman revival, sourced from an 1852 printed book, with characteristic spirited hooks and high contrast typical of the Scotch Roman tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Eyja"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "scotch-roman",
+      "revival",
+      "historical",
+      "printerly",
+      "text",
+      "book",
+      "editorial"
+    ],
+    "summary": "A Scotch Roman revival drawn from an 1852 edition of Ida Pfeiffer's travel writing, digitised by Thy during the Melbourne lockdown.",
+    "description": "Sourced from a copy of Ida Pfeiffer's 'Visit to Iceland and The Scandinavian North' acquired via Facebook Marketplace, Eyja translates the spirited hooks and high contrast of its nineteenth-century source into a two-style digital family. Named after the Icelandic word for 'island', the typeface carries a printerly quality that reflects both its origins and the close reading of Pfeiffer's text that shaped the drawing process. Released in partnership with Counter Forms, it suits book, editorial and literary work where warmth and historical reference matter.",
+    "foundry_blurb": "Mai Type describe Eyja as a Scotch Roman revival rooted in an 1852 travel book discovered by designer Thy through a Facebook Marketplace collector during Melbourne's lockdown period. Named after the Icelandic word for 'island', the typeface was shaped as much by Pfeiffer's vivid prose as by the letterforms themselves, and is released with Counter Forms in Regular and Italic."
+  },
+  {
+    "name": "Mighty Mono",
+    "foundry": "Mai Type",
+    "url": "https://www.maitype.xyz/fonts/mighty-mono",
+    "designer": "Thy",
+    "year": 2023,
+    "category": "mono",
+    "subcategory": "geometric monospaced",
+    "classification_notes": "Explicitly described as a low-contrast, geometric monospaced typeface, with single-storey 'a' and 'g' confirming geometric construction.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mighty Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "low-contrast",
+      "coding",
+      "vietnamese",
+      "single-storey"
+    ],
+    "summary": "A low-contrast geometric monospaced typeface drawing on the letterforms the designer encountered in Vietnamese primary school education.",
+    "description": "Designed by Thy and released in 2023, the typeface takes specific cues from Vietnamese handwriting conventions, including a tailed 'i', single-storey 'a' and single-storey 'g'. Five weights run from Light to Bold with no italics, making it a straightforward but culturally grounded mono for both Latin and Vietnamese text. Sold via Modern Type.",
+    "foundry_blurb": "Mai Type describe Mighty Mono as a low-contrast, geometric monospaced typeface that interprets the letterforms Thy grew up with in Vietnam, such as the 'i' with a small tail and the single-storey 'a' and 'g'. Released in 2023 with Modern Type."
+  },
+  {
+    "name": "Ngoẹo",
+    "foundry": "Mai Type",
+    "url": "https://www.maitype.xyz/fonts/ngoeo",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "backslant script",
+    "classification_notes": "Ngoẹo is explicitly described as a backslant script typeface with flowing connections, based on Lakeside Script by Barnhart Brothers & Spindler, placing it firmly in the connected script category with an unusual reverse slant.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ngoẹo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "backslant",
+      "connected",
+      "retro",
+      "display",
+      "vietnamese",
+      "work-in-progress"
+    ],
+    "summary": "A backslant connected script revival of Lakeside Script by Barnhart Brothers & Spindler, adapted with Vietnamese language support and named after a Vietnamese phrase meaning 'twisted neck'.",
+    "description": "Still in active development at version 0.400, Ngoẹo takes the reverse-slanted energy of the nineteenth-century Lakeside Script and reframes it through a contemporary lens, with the angled forms lending the letterforms a distinctive leaning quality. The name, pronounced [ŋwɛw], draws from the Vietnamese 'ngoẹo cổ', meaning twisted neck, which directly mirrors the typeface's unconventional backward tilt. Currently available as a single Regular style, it supports Latin and Vietnamese character sets.",
+    "foundry_blurb": "Mai Type describe Ngoẹo as a backslant script typeface based on Lakeside Script by Barnhart Brothers & Spindler. The name comes from the Vietnamese phrase 'ngoẹo cổ', meaning twisted neck, chosen for its reference to the typeface's angled form and flowing script connections."
+  }
+]

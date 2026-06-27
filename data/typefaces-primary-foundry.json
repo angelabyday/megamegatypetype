@@ -1,0 +1,744 @@
+[
+  {
+    "name": "Closed Caption",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/closed-caption/",
+    "designer": "Jonathan Maghen, Lorraine Li",
+    "year": null,
+    "category": "mono",
+    "subcategory": "fixed-width display",
+    "classification_notes": "Explicitly described as a fixed-width typeface, making mono the appropriate category. Its inspiration in closed captioning and television text display gives it a display-oriented character.",
+    "weights": [
+      "Big Dot"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Closed Caption"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "fixed-width",
+      "television",
+      "captioning",
+      "open-source",
+      "display",
+      "ofl"
+    ],
+    "summary": "A fixed-width, open-source typeface drawn from the visual language of closed captioning and broadcast subtitle systems.",
+    "description": "Designed by Jonathan Maghen and Lorraine Li using the Font-Remix tool, it is offered in a single style called Big Dot, which features oversized tittles and punctuation marks within a 126-glyph set. Available in OTF, WOFF and TTF formats for print, web, app and broadcast use, it is released under the Open Font Licence, permitting free use, modification and redistribution.",
+    "foundry_blurb": "Primary Foundry describe Closed Caption as an open-source fixed-width typeface inspired by the closed captioning and subtitling processes used to display text on televisions and other visual displays. The single Big Dot style features oversized tittles and punctuation, and the font is distributed via e-mail upon request under the Open Font Licence."
+  },
+  {
+    "name": "Captured",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/captured/",
+    "designer": "Jonathan Maghen",
+    "year": null,
+    "category": "mono",
+    "subcategory": "fixed-width display",
+    "classification_notes": "Captured is explicitly described as a fixed-width typeface, making it monospaced. Its design inspiration from IBM credit card capture technology and its extensive alternates give it a display character within that fixed-width framework.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Normal",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Captured"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "variable",
+      "fixed-width",
+      "retro-tech",
+      "ibm",
+      "display",
+      "alternates",
+      "geometric"
+    ],
+    "summary": "A variable-weight, fixed-width typeface by Jonathan Maghen drawing on IBM's 1960s credit card capture technology as its conceptual and formal starting point.",
+    "description": "Inspired by the imprint technology developed by IBM for credit card capture in the 1960s, the typeface carries a retro-digital rigidity softened by five weights running from Thin to Bold via a variable TTF. Its 234-glyph set covers basic Latin, lining and old style figures, ligatures and an extensive range of alternates. Available across desktop, web and variable formats, with free use available for self-initiated, non-profit and cultural projects.",
+    "foundry_blurb": "Primary Foundry describe Captured as a variable weight, fixed-width typeface inspired by credit card capture technology developed by IBM in 1960, framing that technology as a gateway to an interminable digital reality. The family ships with 234 glyphs including alternates, ligatures and both lining and old style figures, licensed for print, web, app and broadcast use."
+  },
+  {
+    "name": "Alvarado",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/alvarado/",
+    "designer": "Hector Torres",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "vernacular sans",
+    "classification_notes": "Derived from hand-painted and printed signage observed on a specific Los Angeles street, giving it a vernacular character distinct from conventional grotesque or humanist classifications.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Alvarado"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "vernacular",
+      "signage",
+      "open-source",
+      "variable",
+      "los-angeles",
+      "latin-extended",
+      "display",
+      "text"
+    ],
+    "summary": "An open-source variable typeface drawn from the hand-lettered and printed signage of Alvarado Street through the Westlake and Pico-Union neighbourhoods of Los Angeles.",
+    "description": "Designed by Hector Torres and released under the Open Font Licence, Alvarado takes its letterforms from vernacular signage found along one of the densest urban corridors in the United States. The family runs across four weights from Light to Bold, each with an italic, and is distributed as a variable TTF alongside desktop OTF and web WOFF formats. With 218 glyphs including extended Latin characters, lining figures and punctuation, it covers a broad range of everyday typographic tasks.",
+    "foundry_blurb": "Primary Foundry describe Alvarado as an open-source variable typeface rooted in the vernacular signage of its namesake street, specifically the Westlake and Pico-Union stretch of Los Angeles, one of the highest-density neighbourhoods in the USA. The licence allows for free use, modification and redistribution under the Open Font Licence."
+  },
+  {
+    "name": "General Idea",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/general-idea/",
+    "designer": "Jonathan Maghen",
+    "year": null,
+    "category": "display",
+    "subcategory": "technical lettering",
+    "classification_notes": "An all-caps, fixed-width display face derived from twentieth century technical lettering tools and the visual language of Lawrence Weiner's text-based art, placing it firmly in the display category with a monospaced, stencil-adjacent character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "General Idea"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "all-caps",
+      "fixed-width",
+      "technical-lettering",
+      "conceptual-art",
+      "display",
+      "monospaced",
+      "single-weight"
+    ],
+    "summary": "An all-caps, fixed-width display face by Jonathan Maghen drawn from twentieth century technical lettering and the text-based art of Lawrence Weiner.",
+    "description": "Rooted in the visual language of Lawrence Weiner and named partly in tribute to the Canadian conceptual art collective General Idea (1967–1994), the typeface carries a spare, institutional character suited to cultural and editorial contexts. The glyph set is limited to 96 characters covering basic Latin, lining figures, punctuation and symbols. The Desktop OTF is available free for self-initiated, non-profit and cultural projects, with paid licences for commercial use.",
+    "foundry_blurb": "Primary Foundry describe General Idea as an all-caps, fixed-width display typeface based on twentieth century technical lettering tools and the work of artist Lawrence Weiner. The name references both the Canadian conceptual art collective General Idea (1967–1994), whose practice intersected with typography and design, and the loose interpretive approach taken to Weiner's work. The family ships in a single Regular style with 96 glyphs across Desktop, Web and App formats."
+  },
+  {
+    "name": "Iota Display",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/iota-display/",
+    "designer": "Eun Jung Bahng",
+    "year": null,
+    "category": "display",
+    "subcategory": "modular display",
+    "classification_notes": "Constructed from plus and multiplication signs arranged into letterforms, making it a modular display typeface with a conceptual, geometric basis rather than a conventional typographic construction.",
+    "weights": [
+      "Light",
+      "Book",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Iota Display A",
+      "Iota Display B"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "geometric",
+      "display",
+      "conceptual",
+      "plus-sign",
+      "network",
+      "open-source",
+      "ofl"
+    ],
+    "summary": "A modular display typeface by Eun Jung Bahng, built from plus and multiplication signs to represent positive connections within groups and networks.",
+    "description": "Each letterform is constructed from a system of plus and multiplication signs, translating the idea of connective relationships into a formal typographic structure. The family spans two subfamilies: Iota Display A includes italics across six weights from Light to Black, while Iota Display B offers the same six weights in upright cuts only, giving a total of 18 styles and 1,566 glyphs. Released under the Open Font Licence, it is free to use, modify and redistribute.",
+    "foundry_blurb": "Primary Foundry describe Iota Display as a modular typeface constructed from plus and multiplication signs, designed to visually represent positive connections between people within a group or network. The typeface is intended to expand and rotate each element with viewer interaction, and ships in 18 styles across two families with basic Latin, lining figures, punctuation and symbols, available for desktop, web, app and broadcast use under the Open Font Licence."
+  },
+  {
+    "name": "Hidde Grotesk",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/hidde-grotesk/",
+    "designer": "Matteo Bettini",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Described explicitly as a neo-grotesk, with stencil-derived gaps at letter joints as its defining structural feature, placing it within the grotesque tradition but with a distinct sculptural intervention.",
+    "weights": [
+      "Book",
+      "Wax"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hidde Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "stencil",
+      "display",
+      "sculptural",
+      "gaps",
+      "experimental",
+      "single-weight"
+    ],
+    "summary": "A neo-grotesque by Matteo Bettini where stencil-derived gaps at letter joints are treated as a formal design feature rather than a printing constraint.",
+    "description": "Designed by Matteo Bettini, Hidde takes the structural logic of outdoor stencil printing and applies it permanently to the letterforms, leaving pronounced gaps at joints across both upper and lowercase characters. A companion Book style offers a more conventional roman for standard usage, while the Wax variant embraces the gaps as an expressive layer. The family covers extended Latin with 258 glyphs including lining figures, alternates and punctuation, and a limited 128-glyph desktop version is available free for non-profit and cultural projects.",
+    "foundry_blurb": "Primary Foundry describe Hidde as a neo-grotesk with visible, pronounced gaps at the joints of its letterforms, inspired by the stencil technique used to print large-scale letterforms on outdoor surfaces. They frame these gaps not as functional remnants but as sculptural features that add a new dimension of meaning beyond the linguistic, with Hidde described as a typeface that hides ink from letters to reveal another layer of interpretation."
+  },
+  {
+    "name": "MetaBuch",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/metabuch/",
+    "designer": "Jonathan Maghen",
+    "year": null,
+    "category": "mono",
+    "subcategory": "fixed-width sans",
+    "classification_notes": "MetaBuch is explicitly described as a fixed-width, sans-serif typeface, placing it squarely in the monospaced category despite its dual suitability for display and text use.",
+    "weights": [
+      "Light"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "MetaBuch"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "fixed-width",
+      "metafont",
+      "knuth",
+      "computer-history",
+      "display",
+      "text",
+      "experimental"
+    ],
+    "summary": "A fixed-width sans by Jonathan Maghen drawn from Donald Knuth's Metafont program and the Visible Language Workshop of Muriel Cooper, with a high x-height and overshoots added for legibility.",
+    "description": "Inspired by the parallel computing and design research of Knuth at Stanford and Cooper at MIT during the 1970s and 1980s, MetaBuch borrows the skeletal structure of Metafont's output while adding practical refinements. A high x-height and optical overshoots make it serviceable at text sizes as well as display, unusual for a fixed-width face of this lineage. The character set covers 120 glyphs including basic Latin, lining figures, ligatures and alternates, and is available in a single Light weight across desktop, web and app formats.",
+    "foundry_blurb": "Primary Foundry describe MetaBuch as a fixed-width sans inspired by the parallel work of Donald Knuth and Muriel Cooper in the 1970s and 1980s. It resembles Metafont's original output but adds a high x-height and overshoots to improve legibility for both display and text. The Desktop OTF format is available free of charge for self-initiated, non-profit and cultural projects."
+  },
+  {
+    "name": "Lawson Antique",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/lawson-antique/",
+    "designer": "Jonathan Maghen",
+    "year": null,
+    "category": "display",
+    "subcategory": "antique display",
+    "classification_notes": "An all-caps display typeface with a single weight, drawing on mid-twentieth-century American commercial lettering; the antique label and its vernacular source material place it firmly in display territory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lawson Antique"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "all-caps",
+      "vernacular",
+      "americana",
+      "postwar",
+      "commercial",
+      "single-weight"
+    ],
+    "summary": "An all-caps display face drawn from the mid-century lettering of the Lawson Milk Company, evoking postwar American commercial culture.",
+    "description": "Designed by Jonathan Maghen and inspired by the signage and branding of the Lawson Milk Company, founded in Ohio in 1939 and defunct by 1985. The typeface traces a particular strand of postwar American economic expansion and its effect on the visual environment, offering 96 glyphs covering basic Latin, lining figures, punctuation and symbols. Available in a single Regular weight, it suits display and editorial work where a restrained, historically grounded vernacular tone is wanted.",
+    "foundry_blurb": "Primary Foundry describe Lawson Antique as an all-caps display typeface inspired by the Lawson Milk Company, a US dairy business founded in 1939 and later acquired by Consolidated Foods, whose Japanese franchise arm became the still-operating Lawson convenience store chain. The design grew out of an interest in the Golden Age of Capitalism and its transformation of the built environment, and is available free for self-initiated, non-profit and cultural projects."
+  },
+  {
+    "name": "Reservoir Plaque",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/reservoir-plaque/",
+    "designer": "Ian Griffin, Jonathan Maghen",
+    "year": null,
+    "category": "display",
+    "subcategory": "glyphic display",
+    "classification_notes": "The family spans four stylistic axes including sans, glyphic, material and serif variants derived from inscribed memorial plaque lettering, placing it firmly in the display/glyphic category with strong lapidary and engraved influences.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Reservoir Plaque Sans",
+      "Reservoir Plaque Glyphic",
+      "Reservoir Plaque Material",
+      "Reservoir Plaque Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "glyphic",
+      "lapidary",
+      "variable",
+      "historical",
+      "inscriptional",
+      "memorial",
+      "los-angeles"
+    ],
+    "summary": "A variable typeface drawn from the bronze memorial plaques of the Hollywood Reservoir and Mulholland Dam, completed in 1924, offering four distinct lettering styles across two variable axes.",
+    "description": "Designed by Ian Griffin and Jonathan Maghen, the family captures the inscriptional lettering found on the memorial plaques of the Hollywood Reservoir in Los Angeles. Two variable axes control weight from Light to Bold and style from sans to serif, with four named interpolation zones: Sans, Glyphic, Material and Serif. The 515-glyph set includes lining and old-style figures, ligatures, swashes and stylistic alternates, and the desktop OTF format is available free for non-profit and cultural projects.",
+    "foundry_blurb": "Primary Foundry describe Reservoir Plaque as a variable typeface rooted in the memorial plaques at the Hollywood Reservoir and Mulholland Dam, completed December 1924. The family offers variability on two axes, Serif and Weight, yielding 12 individual styles, and ships in Desktop OTF, Web WOFF and Variable TTF formats for print, web, app and broadcast use. The desktop format is free to request for self-initiated, non-profit and cultural projects."
+  },
+  {
+    "name": "Temporary Display",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/temporary-display/",
+    "designer": "Sam Wagner, Jonathan Maghen",
+    "year": null,
+    "category": "display",
+    "subcategory": "monospaced display",
+    "classification_notes": "Described explicitly as a fixed-width display typeface inspired by electronic highway signage, placing it firmly in the display category with a monospaced construction as its defining structural feature.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Temporary Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "monospaced",
+      "signage",
+      "variable",
+      "fixed-width",
+      "art-inspired",
+      "highway"
+    ],
+    "summary": "A fixed-width, variable-weight display typeface drawn from electronic highway signage and the work of artist Shannon Ebner.",
+    "description": "Built on the visual language of electronic road signs and Shannon Ebner's text-based art practice, Temporary Display runs across seven weights from Thin to Black, all accessible through a single variable TTF. The fixed-width construction gives it a consistent mechanical rhythm across settings, and 274 glyphs cover lining, old style and contextual figures alongside extensive alternates. Desktop OTF files are available free for self-initiated, non-profit and cultural projects.",
+    "foundry_blurb": "Primary Foundry describe Temporary Display as a variable weight, fixed-width typeface rooted in electronic highway signage and the art of Shannon Ebner. Designed by Sam Wagner and Jonathan Maghen, it includes 274 glyphs with multiple figure styles and extensive alternates, and is licensed for print, web, app and broadcast use across OTF, WOFF and variable TTF formats."
+  },
+  {
+    "name": "Schriftsystem",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/schriftsystem/",
+    "designer": "Jonathan Maghen, Ian Griffin",
+    "year": null,
+    "category": "mono",
+    "subcategory": "stencil monospaced",
+    "classification_notes": "Described explicitly as a fixed-width typeface with stencil cuts; the monospaced structure and stencil aesthetic place it firmly in the mono category with a stencil subcategory.",
+    "weights": [
+      "Stencil",
+      "Stencil Round",
+      "Stencil Pill"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Schriftsystem"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "monospaced",
+      "variable",
+      "historical-reference",
+      "fixed-width",
+      "geometric",
+      "experimental"
+    ],
+    "summary": "A variable, fixed-width stencil typeface by Jonathan Maghen and Ian Griffin, drawing on Friedrich Soennecken's 1887 analogue writing system and Donald Knuth's Metafont program.",
+    "description": "Three stencil styles, Stencil, Stencil Round and Stencil Pill, share a fixed-width structure informed by two very different historical sources: Soennecken's nineteenth-century handwriting system and Knuth's parametric font-description language. The family ships in desktop OTF, web WOFF and variable TTF formats, with 184 glyphs covering lining and old-style figures, ligatures and extensive alternates. Desktop use is available free for self-initiated, non-profit and cultural projects.",
+    "foundry_blurb": "Primary Foundry describe Schriftsystem as a variable, fixed-width typeface rooted in Friedrich Soennecken's 1887 analogue writing system and Donald Knuth's 1979 Metafont program. The licence covers three styles, Stencil, Stencil Round and Stencil Pill, across desktop, web and variable formats for print, web, app and broadcast use, with the desktop OTF available free for non-commercial and cultural projects."
+  },
+  {
+    "name": "Robert Brownjohn",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/robert-brownjohn/",
+    "designer": "Lorraine Li, Jonathan Maghen",
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "Generated via boolean operations on vector paths of two existing fonts using the Font-Remix tool, producing a distinctive display face rooted in 1959 cover art; its experimental construction and singular weight place it firmly in display territory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Robert Brownjohn"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "experimental",
+      "open-source",
+      "generative",
+      "historical-reference",
+      "single-weight",
+      "cover-art"
+    ],
+    "summary": "An open-source display face generated from the 1959 Grishman-Ryce Duo cover art designed by Robert Brownjohn, produced via boolean operations on existing font paths.",
+    "description": "Lorraine Li used the Font-Remix tool to combine vector paths of two existing fonts through boolean operations in-browser, generating the letterforms at runtime rather than drawing them by hand. The result is a single-weight face of 112 glyphs released under the SIL Open Font License, Primary Foundry's second OFL release. Its source material, a piece of 1959 graphic design by Robert Brownjohn, gives the typeface a mid-century experimental quality.",
+    "foundry_blurb": "Primary Foundry describe Robert Brownjohn as an open-source typeface based on the 1959 Grishman-Ryce Duo cover art by Robert Brownjohn. It was created by Lorraine Li using the Font-Remix tool, which generates fonts at runtime through boolean operations on the vector paths of two existing fonts via opentype.js. The family contains 112 glyphs in a single Regular style, available as OTF, WOFF and TTF, and is distributed under the SIL Open Font License upon request by e-mail."
+  },
+  {
+    "name": "Happy Karrik",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/happy-karrik/",
+    "designer": "Ian Griffin",
+    "year": null,
+    "category": "serif",
+    "subcategory": "variable hybrid serif",
+    "classification_notes": "Happy Karrik spans serif, mid-serif and sans-serif axes within a single variable font, blending contrasting classifications from its two source typefaces into one continuous design space.",
+    "weights": [
+      "Regular",
+      "Slant",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Happy Karrik Serif",
+      "Happy Karrik MidSerif",
+      "Happy Karrik Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "open-source",
+      "hybrid",
+      "serif",
+      "sans-serif",
+      "ofl",
+      "experimental",
+      "latin"
+    ],
+    "summary": "An open-source variable typeface by Ian Griffin that merges Happy Times at the IKOB and Karrik into a single design spanning serif, mid-serif and sans-serif across nine instances.",
+    "description": "Created by combining two existing open-source typefaces, Happy Times at the IKOB by Lucas Le Bihan and Karrik by Jean-Baptiste Morizot and Lucas Le Bihan, the family moves across contrasting classifications within one variable font. Nine instances cover Serif, MidSerif and Sans each in Regular, Slant and Italic, with 220 glyphs including extended Latin, lining figures, alternates and ligatures. Released under the SIL Open Font License, it is free to use, modify and redistribute.",
+    "foundry_blurb": "Primary Foundry describe Happy Karrik as their third SIL Open Font License release, combining the contrasting themes and classifications of Happy Times at the IKOB and Karrik into a single open-source variable typeface designed by Ian Griffin, available for desktop, web, app and broadcast use."
+  },
+  {
+    "name": "UFO!",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/ufo/",
+    "designer": "Gunnar Harrison",
+    "year": null,
+    "category": "mono",
+    "subcategory": "unicase mono",
+    "classification_notes": "Explicitly described as a monospaced unicase typeface; the single style is labelled Mono and the design treats upper and lowercase as a unified set.",
+    "weights": [
+      "Mono"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "UFO! Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "monospaced",
+      "unicase",
+      "open-source",
+      "display",
+      "novelty",
+      "geometric",
+      "ofl"
+    ],
+    "summary": "An open-source unicase monospaced face by Gunnar Harrison, born from a happy accident and shaped by its designer's interest in extraterrestrial life.",
+    "description": "UFO! Mono is a single-style, unicase typeface released under the SIL Open Font Licence, making it free to use, modify and redistribute. The character set covers 96 glyphs including basic Latin, lining figures, alternates, punctuation and symbols. It is the fourth OFL release from Primary Foundry and is available in OTF, WOFF and TTF formats for print, web, app and broadcast use.",
+    "foundry_blurb": "Primary Foundry describe UFO! Mono as an open-source unicase typeface that originated from a happy accident, later shaped by designer Gunnar Harrison's affinity for extraterrestrial life. It is their fourth SIL Open Font Licence release, covering 96 glyphs with basic Latin characters, lining figures, alternates, punctuation and symbols, and is available across desktop, web and app formats."
+  },
+  {
+    "name": "Trope",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/trope/",
+    "designer": "Maarten van Maanen",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "condensed sans",
+    "classification_notes": "Described explicitly as a condensed sans serif with minimalist design and a loose reference to 70s punk aesthetics; its clean geometry and condensed proportions place it firmly in the sans-serif category with a condensed subcategory.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trope"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "sans-serif",
+      "minimalist",
+      "punk-influenced",
+      "legible",
+      "contemporary",
+      "quirky"
+    ],
+    "summary": "A condensed minimalist sans with a loose nod to 70s punk, designed by Maarten van Maanen with four styles including a monospaced variant.",
+    "description": "Designed by Maarten van Maanen, Trope is a condensed sans serif with clean, legible forms and occasional quirks in the letterforms that keep it from feeling generic. The family spans Regular, Italic, Bold and a Mono cut, covering 244 glyphs with extended Latin characters, ligatures and lining figures. The desktop OTF is available free for self-initiated, non-profit and cultural projects, with paid licences for commercial use.",
+    "foundry_blurb": "Primary Foundry describe Trope as a condensed sans serif with a minimalist design and a vague reference to 70s punk aesthetics given a contemporary feel. They note its unique and sometimes slightly quirky letterforms alongside a clean and legible appearance that together evoke a confident and friendly atmosphere."
+  },
+  {
+    "name": "Technodelic",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/technodelic/",
+    "designer": "Jonathan Maghen, Yukimasa Okumura",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "An all-caps geometric display typeface derived from a specific 1981 album logo, placing it firmly in the display category with no text-setting utility.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Technodelic"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "all-caps",
+      "geometric",
+      "music",
+      "retro",
+      "open-source",
+      "logo-derived",
+      "japanese"
+    ],
+    "summary": "An all-caps, open-source display typeface drawn from Yukimasa Okumura's 1981 logo design for Yellow Magic Orchestra's Technodelic album.",
+    "description": "Based directly on the lettering Yukimasa Okumura designed for YMO's 1981 album cover, this typeface reconstructs that geometric, all-caps aesthetic into a usable Latin character set. The single Regular weight covers A to Z only, with 52 glyphs and no lowercase, figures, punctuation or symbols, deliberately preserving the constraints of the original artwork. Released under the SIL Open Font Licence, it is Primary Foundry's first free offering and is distributed via e-mail on request.",
+    "foundry_blurb": "Primary Foundry describe Technodelic as an all-caps, open-source typeface based on the 1981 YMO album cover art and logo designed by Yukimasa Okumura. The limited A–Z character set is intended as a foundation for future iterations while maintaining reverence for the original, which did not include lowercase, figures, punctuation or symbols. It is Primary Foundry's first SIL Open Font Licence release, with 52 glyphs available in OTF, WOFF and TTF formats."
+  },
+  {
+    "name": "Siegelaub",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/siegelaub/",
+    "designer": "Jonathan Maghen",
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced grotesque",
+    "classification_notes": "A fixed-width typeface offered in two styles, Mono and Mono Grotesque, placing it squarely in the monospaced category with grotesque sans-serif characteristics.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Siegelaub Mono",
+      "Siegelaub Mono Grotesque"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "grotesque",
+      "institutional",
+      "caption",
+      "archival",
+      "fixed-width"
+    ],
+    "summary": "A fixed-width typeface by Jonathan Maghen, drawn from unidentified caption type spotted in a Hollywood YMCA vitrine and the curatorial legacy of Seth Siegelaub.",
+    "description": "Designed by Jonathan Maghen, the typeface takes its name from conceptual art curator Seth Siegelaub and draws direct visual reference from unidentified type used to caption amateur athletics photographs from the 1970s. The family comprises two styles, Mono and Mono Grotesque, each covering 128 glyphs including basic Latin, lining figures, alternates, ligatures and common punctuation. Desktop OTF files are available free for self-initiated, non-profit and cultural projects, with paid licences for broader use.",
+    "foundry_blurb": "Primary Foundry describe Siegelaub as a fixed-width typeface inspired by the work of curator Seth Siegelaub, author of The Artist's Reserved Rights Transfer and Sale Agreement (1971), and by unidentified type documented in a vitrine at the Hollywood YMCA, where it was used to caption images of amateur athletes from the 1970s. The licence covers Desktop, Web and App formats, and the Desktop OTF is available free on request for self-initiated, non-profit and cultural projects."
+  },
+  {
+    "name": "Municipal Grotesque",
+    "foundry": "Primary Foundry",
+    "url": "https://primary-foundry.com/typefaces/municipal-grotesque/",
+    "designer": "Jonathan Maghen",
+    "year": null,
+    "category": "mono",
+    "subcategory": "fixed-width grotesque",
+    "classification_notes": "Described explicitly as a fixed-width sans-serif, drawing from stamped metal utility dies and Müller-Brockmann's Candia; the monospaced construction and industrial sans character place it firmly in the fixed-width grotesque subcategory.",
+    "weights": [
+      "Light"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Municipal Grotesque"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "grotesque",
+      "industrial",
+      "utility",
+      "los-angeles",
+      "fixed-width",
+      "single-weight",
+      "municipal"
+    ],
+    "summary": "A fixed-width grotesque drawn from stamped metal utility dies and Los Angeles concrete covers, with a nod to Müller-Brockmann's 1973 Candia for Olivetti.",
+    "description": "Jonathan Maghen's Municipal Grotesque takes its proportions from the metal dies used by public and private utilities to stamp outdoor materials, filtering that source through the even spacing of Müller-Brockmann's Candia. The single Light cut references the lightweight letterforms found on utility covers across Los Angeles, giving it a specific civic and industrial register. With 122 glyphs covering basic Latin, lining figures, alternates and punctuation, it is a tightly scoped tool with a clear point of view.",
+    "foundry_blurb": "Primary Foundry describe Municipal Grotesque as a fixed-width, sans-serif typeface rooted in the metal dies used by utilities to stamp outdoor materials and in Josef Müller-Brockmann's 1973 Candia typeface for Olivetti. The Light cut also references the lightweight sans letterforms found on concrete utility covers across Los Angeles. The Desktop OTF is available free for self-initiated, non-profit and cultural projects."
+  }
+]

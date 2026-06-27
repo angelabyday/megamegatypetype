@@ -1,0 +1,985 @@
+[
+  {
+    "name": "Blow",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/blow/",
+    "designer": "Yanik Hauschild",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Blow features linear main strokes with soft curves alternating against strong straight lines, giving it a geometric character with expressive personality. Its structured construction and clean architecture place it firmly in the geometric sans tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blow"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "alternates",
+      "opentype",
+      "display",
+      "editorial",
+      "playful",
+      "contemporary"
+    ],
+    "summary": "A five-weight geometric sans by Yanik Hauschild that alternates soft curves with sharp straight lines and leans heavily on alternate glyphs for typographic variety.",
+    "description": "Designed by Yanik Hauschild and published by Nice To Type in 2019, Blow runs from Thin to Bold with linear main strokes that shift between rounded curves and straight edges, giving individual letters a tense, deliberate character. Three stylistic sets and a contextual alternates randomiser provide considerable variation within a single setting, covering uppercase and lowercase forms as well as alternate figures. Diacritics are deliberately thin and wide, contrasting with the more substantial letterforms to keep extended Latin text legible across a broad language range.",
+    "foundry_blurb": "Nice To Type describe Blow as a typeface that ranges from graphical strength to dynamic elegance, with its main stroke remaining linear while soft curves alternate with straight lines to form its unique character. A key feature is its variety of alternates, selectable via stylistic sets or activated randomly through the foundry's contextual alternates randomiser. The family also includes a full suite of OpenType features including tabular figures, superior lowercase, fractions and case-sensitive forms."
+  },
+  {
+    "name": "Balkenschrift",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/balkenschrift/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Balkenschrift ('beam script' in German) is built on a strict straight-line construction principle with uniform stroke widths, placing it firmly in the geometric sans category with a modular, constructed character.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Wide",
+      "Extra Wide",
+      "Ultra Wide"
+    ],
+    "subfamilies": [
+      "Balkenschrift",
+      "Balkenschrift Rounded"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modular",
+      "constructed",
+      "wide",
+      "variable",
+      "rounded",
+      "editorial",
+      "display"
+    ],
+    "summary": "A strictly constructed geometric sans built on a straight-line principle, offered in two subfamilies, four widths, five weights and full italic cuts, with variable font support across weight, width and slant axes.",
+    "description": "Each letterform adheres to a uniform stroke-width construction, with alternate characters — including a double-storey 'a', Y variants and oldstyle figures — available through ten stylistic sets. The family splits into a sharp-terminal version and Balkenschrift Rounded, with four width grades from Standard to Ultra Wide bundled at no extra cost per weight purchase. Two separate variable fonts cover the full weight, slant and width ranges for each subfamily.",
+    "foundry_blurb": "Nice To Type describe Balkenschrift as following a straight-line construction principle throughout, with exceptions made only for circled number alternates which use true circles. All wide styles include a complete character set that preserves the small belly of certain forms, and the variable fonts offer three axes — weight, slant angle and width — across both the standard and rounded families separately."
+  },
+  {
+    "name": "Alcea",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/alcea/",
+    "designer": "Gabriel Richter",
+    "year": 2026,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Alcea is a serif with strong calligraphic roots: its asymmetric serif treatment, looped k, and italic forms that draw from true italic logic place it firmly in the humanist serif tradition, where pen-drawn rhythms inform the upright as much as the italic.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Alcea"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "calligraphic",
+      "serif",
+      "variable",
+      "opentype-rich",
+      "editorial",
+      "text",
+      "small-caps"
+    ],
+    "summary": "A humanist serif by Gabriel Richter with a distinctly calligraphic logic, where asymmetric serifs, a looped lowercase k and an extensive stylistic set system allow the upright styles to move toward or away from a handwritten register.",
+    "description": "Designed by Gabriel Richter with spacing and kerning by Igino Marini, Alcea runs from Extra Light to Bold across six weights with matching italics, and is also issued as a variable font spanning weight (200–700) and italic (0°–12°) axes. Its defining characteristic is the treatment of serifs as structurally asymmetric: letters such as v, w, x and y carry a wedge on one side and a serif on the other, following the internal logic of a true italic rather than conventional Roman construction. Twenty stylistic sets allow granular control over how calligraphic or upright each style reads, with small caps, uniwidth punctuation and a thorough set of figure styles rounding out the OpenType palette.",
+    "foundry_blurb": "Nice To Type describe Alcea as a family whose asymmetry draws from the logic of a true italic, where serifs follow different rules depending on stroke direction. The italic can be adjusted toward a more oblique character, while the upright styles can be pushed further toward a handwritten feel via stylistic sets. A uniwidth punctuation feature (Stylistic Set 16) is included to allow consistent tabular spacing across weights without the looseness of full tabular figure spacing."
+  },
+  {
+    "name": "FF Infra",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/infra/",
+    "designer": "Gabriel Richter",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "FF Infra is explicitly described as a linear grotesque, with open counters, angled ending strokes and a generous x-height that align with the grotesque tradition.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FF Infra"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "linear",
+      "neutral",
+      "versatile",
+      "opentype-rich",
+      "text",
+      "functional",
+      "warm"
+    ],
+    "summary": "A linear grotesque with open counters and angled stroke endings, designed by Gabriel Richter during his bachelor studies in Düsseldorf and published by FontFont in 2019.",
+    "description": "Developed originally under the name Richter Grotesk, FF Infra balances a neutral grotesque structure with warmth introduced through open counters and consistently angled terminal strokes on letters such as 'f' and 't'. A generous x-height supports legibility across a wide range of sizes, while an extensive OpenType feature set includes true small caps, oldstyle figures, true capital figures, tabular arrows, alternate forms for 'G', 'a' and the German 'ß', and broad Latin Extended language coverage. Ten weights with matching italics give it considerable range for editorial, identity and screen work.",
+    "foundry_blurb": "FF Infra was designed by Gabriel Richter and published by FontFont (Monotype) in 2019. Originally called Richter Grotesk, it was begun during Richter's bachelor degree at the University of Applied Science Düsseldorf, supervised by Daniel Fels and Andreas Uebele, with feedback from the FontFont type design department. The goal was to create a linear grotesque in multiple styles with broad language support and functional symbols, while pushing beyond conventional grotesque conventions to include true small caps, oldstyle figures and extensive OpenType features suited to everyday graphic design tasks."
+  },
+  {
+    "name": "Gain",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/gain/",
+    "designer": "Gabriel Richter",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Gain is explicitly described as breathing the atmosphere of early Grotesk typefaces, with slightly bulky forms departing from cold geometry, placing it firmly in the grotesque sans-serif tradition.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black",
+      "Extra Black",
+      "Super"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gain"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "editorial",
+      "legibility",
+      "variable",
+      "magazine",
+      "text",
+      "german",
+      "opentype"
+    ],
+    "summary": "A grotesque sans with early Grotesk character, released by Gabriel Richter in 2018 with ten weights, matching italics and variable font support.",
+    "description": "Gain draws on the atmosphere of early Grotesk typefaces while softening their cold geometry through subtly bulky forms and a clean, precise stroke. Distinctive letterforms include a single-storey 'G' with a straight stem, a 'Q' with a bisecting tail and a 'K' with a steep leg; slanted spurs on 'a', 'b', 'g' and 'q' aid differentiation at smaller sizes. The family ships with extensive OpenType features including alternate letterforms, tabular figures, circled digits and ornamental punctuation, and is also available as a variable font across weight and italic axes.",
+    "foundry_blurb": "Nice To Type describe Gain as a grotesque that combines slightly bulky forms to escape cold geometry while retaining a clean, modern stroke. Designed by Gabriel Richter and published in 2018 with font production by Christoph Koeberlin, it features distinctive characters such as a 'G' with a simple straight stem, a 'Q' with a long bisecting tail, and spurred lowercase letters to improve legibility. It is the first nice to type typeface offered as a variable font, supporting weight and italic axes, and includes a comprehensive set of OpenType features and symbols."
+  },
+  {
+    "name": "Golzheim",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/golzheim/",
+    "designer": "Gabriel and Jonas",
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast serif",
+    "classification_notes": "Golzheim is a high-contrast serif with Bodoni-like origins, featuring expressive stroke variation from hairline to ultra-black and distinct spurs with a hand-drawn, comic-influenced character. A companion sans-serif subfamily (Golzheim Sans) is included but the primary family is the serif.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Golzheim",
+      "Golzheim Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "bodoni-lineage",
+      "expressive",
+      "hand-drawn",
+      "comic-inspired",
+      "variable",
+      "editorial",
+      "display"
+    ],
+    "summary": "A high-contrast serif and companion sans with hand-drawn origins, ranging from extreme hairlines to ultra-black weights across variable fonts with 300+ built-in emojis.",
+    "description": "Conceived at the Düsseldorf University of Applied Sciences and rooted in a comic-like reworking of Bodoni, Golzheim and Golzheim Sans run ten weights from Hairline to Black with matching italics and variable font support for both weight and italic axes. Distinct spurs, occasional unsteady strokes and a small x-height carry a sense of movement throughout, while multiple stylistic sets offer open counters and continuous stroke variants for additional expressive range. Over 385 symbols including more than 300 emojis are embedded across all styles, with scribbled strikethroughs and Private Use Area characters extending the palette further.",
+    "foundry_blurb": "Nice To Type describe Golzheim as moving between light-heartedness, expressive stroke weight and graphic clarity, balancing human craftsmanship with typographic precision across a range from fine hairline pencils to ultra-black markers. The family traces back to a student project at the former Golzheim campus of the Düsseldorf University of Applied Sciences, where the designers first imagined a hand-drawn, comic-like Bodoni for a personal comic project. Nearly a decade later they revisited the idea, refining and expanding it into two full families with variable fonts, extensive OpenType features and over 385 embedded symbols."
+  },
+  {
+    "name": "Krasz",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/krasz/",
+    "designer": "Gabriel Richter and Andreas Uebele",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The letterforms and specimen suggest a contemporary grotesque sans-serif with humanist influences, offering a range of weights with italic companions and variable font support.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Krasz"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "contemporary",
+      "variable",
+      "opentype-rich",
+      "text",
+      "editorial",
+      "multilingual"
+    ],
+    "summary": "A six-weight grotesque sans by Gabriel Richter and Andreas Uebele, released in 2020 with italics and variable font support throughout.",
+    "description": "Designed by Gabriel Richter and Andreas Uebele and font-produced by Christoph Koeberlin, Krasz spans Extra Light to Black with matching italics across all six weights. It ships as both static OpenType fonts and a variable font with a continuous weight axis, and carries an extensive glyph set covering oldstyle and tabular figures, stylistic sets, arrows and circled figures. Language support extends across a broad range of Latin-based writing systems, from European languages to Maori and Swahili.",
+    "foundry_blurb": "Nice To Type describe Krasz as offering a variety of OpenType features for professional typography, including superior lowercase and figures, tabular figures and punctuation, oldstyle figures, an alternate '@' and various arrows. The typeface is also available as a variable font supporting a weight axis, bundled with desktop and web family packages for maximum flexibility."
+  },
+  {
+    "name": "Neue Sammlung",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/neue-sammlung/",
+    "designer": "Yanik Hauschild and Gabriel Richter",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Built on circular geometric principles with Bauhaus-influenced construction, featuring uniwidth spacing and playful alternates that soften an otherwise strict geometric skeleton.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Default",
+      "Text"
+    ],
+    "subfamilies": [
+      "Neue Sammlung",
+      "Neue Sammlung Text",
+      "Neue Sammlung Stencil",
+      "Neue Sammlung Stencil Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "uniwidth",
+      "bauhaus",
+      "stencil",
+      "variable",
+      "stylistic-alternates",
+      "playful",
+      "editorial"
+    ],
+    "summary": "A uniwidth geometric sans with Bauhaus roots, 20 stylistic sets and a stencil cut, released by Nice To Type in 2025.",
+    "description": "Designed by Yanik Hauschild and Gabriel Richter, the family runs across six weights with matching italics in both default and Text optical variants, the latter correcting spacing and accent positioning in lighter cuts. A stencil subfamily adds a further dimension, and the variable font combines weight and italic axes in a single file with full interchange between default and Text styles. Twenty stylistic sets give designers granular control over the character of individual letters, from wavy forms to more conventional alternates.",
+    "foundry_blurb": "Nice To Type describe Neue Sammlung as built on geometric principles, with playful shapes such as a wavy N and S softening its strict circular construction. The uniwidth setting suits bold and conceptual applications, while the Text variant addresses spacing in lighter weights. Nineteen letter stylistic sets plus one for numerals allow designers to mix, match and personalise their own 'new collection', and the variable font makes switching between default and Text styles seamless within a single file."
+  },
+  {
+    "name": "Massimo Grafia",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/massimo-grafia/",
+    "designer": "Gabriel Richter and Andreas Uebele",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A grotesque sans with a hand-drawn origin, developed from handwritten correspondence by Andreas Uebele and expanded into a structured type family by Gabriel Richter. The calm base construction and alternate characters place it firmly in the grotesque tradition with expressive qualities.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Massimo Grafia",
+      "Massimo Grafia Semi Mono",
+      "Massimo Grafia Mono",
+      "Massimo Grafia Plain"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "hand-drawn",
+      "alternates",
+      "variable",
+      "editorial",
+      "expressive",
+      "multi-width"
+    ],
+    "summary": "A grotesque with hand-drawn origins, offering a calm base alongside an unusually rich set of alternates across proportional, semi-mono and mono variants.",
+    "description": "Drawn from handwritten correspondence by Andreas Uebele during his residency at Villa Massimo in Rome, Massimo Grafia pairs a restrained grotesque foundation with at least five alternates for every letter, numeral and both cases. The family spans three spacing models — proportional, semi-mono and mono — each available in four weights, with a variable font covering both weight and mono axes. A stripped Plain version ships alongside each weight for faster web loading when the alternates are not needed.",
+    "foundry_blurb": "Nice To Type describe Massimo Grafia as a well-constructed, calm but individual grotesque for everyday use, designed by Gabriel Richter and Andreas Uebele and published in 2018. The typeface grew from Uebele's handwritten correspondence during a scholarship at Villa Massimo in Rome; Richter took the expressive individual characters and expanded them into a full type system. Five or more alternates exist for every lowercase and uppercase letter and all standard numerals, with a variable font supporting weight and mono axes, and a Plain version included at no extra cost for leaner web use."
+  },
+  {
+    "name": "Neue Television",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/neue-television/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "raster display",
+    "classification_notes": "Neue Television is built on a horizontal grid of thin lines with variable strokes overlaid, making it a raster or pixel-logic display typeface rather than a conventional sans-serif or any traditional category. Its defining structure is decorative and screen-referencing.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Ultra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Neue Television",
+      "Neue Television S",
+      "Neue Television Retro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "variable",
+      "raster",
+      "grid",
+      "retro",
+      "experimental",
+      "kinetic",
+      "screen-inspired"
+    ],
+    "summary": "A variable display typeface built on a horizontal grid of thin lines, with six axes controlling stroke weight, width and position to produce an expansive range of raster-like visual effects.",
+    "description": "Characters sit on a visible grid of thin horizontal lines, with strokes that can shift position, change width, collapse to a circle or blend entirely with the grid. Six variable axes govern stem width, stroke weight, stroke width, stroke position, retro stroke and a terminal transition that recalls the original Television typeface. A stripped variant, Neue Television S, removes the grid lines entirely to allow deliberate layering of points and lines.",
+    "foundry_blurb": "Nice To Type describe Neue Television as a strictly speaking raster font with six variable axes offering endless possibilities of movement and colour overlays. Every purchase includes the variable font alongside a large set of static styles covering filled, line, centre-stroke and circle variants, aligned left, centred and right, in both standard and retro forms. A Retro Set of stylistic alternates brings selected glyphs closer to the original Television design."
+  },
+  {
+    "name": "Takeoff",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/takeoff/",
+    "designer": "Gabriel Richter",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Takeoff uses streamlined, precise geometric shapes with a distinctive 15-degree angled stroke ending derived from aircraft take-off angles, placing it firmly in the geometric sans tradition while its variable spike and reversed contrast styles add expressive range.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Takeoff A (Standard)",
+      "Takeoff A (Spike)",
+      "Takeoff B (Reversed Contrast)",
+      "Takeoff B (Reversed Contrast Spike)"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "variable",
+      "reversed-contrast",
+      "aviation",
+      "signage",
+      "editorial",
+      "technical",
+      "display"
+    ],
+    "summary": "A geometric sans by Gabriel Richter built around a 15-degree stroke angle drawn from the average take-off angle of an aircraft, with variable spike and reversed contrast styles included in the purchase.",
+    "description": "Each stroke ending in Takeoff blends into a 15-degree straight line, matching the average climb angle of an aircraft and giving the letterforms an open, graphic quality that holds across logos, headlines and signage. The family ships in four variable axes: weight, italic, spike and reversed contrast, where the spike axis shifts the feel from humanist warmth to something decisive and fast. Purchasing the static fonts automatically includes the variable font data, making the full expressive range available without additional cost.",
+    "foundry_blurb": "Nice To Type describe Takeoff as a typeface with precise, clear shapes and slightly extended letter width, designed around a 15-degree horizontal line ending that mirrors an aircraft's average take-off angle. The italic applies the same rule at a comparatively acute angle for greater dynamism, while the spike variant goes full throttle; in variable font mode, the spike axis can be dialled from aggressive to near-humanist. Purchasing the complete static family automatically includes the variable font. Designed by Gabriel Richter with spacing and kerning by Igino Marini, published in 2022."
+  },
+  {
+    "name": "Balkenschrift Standard",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/balkenschrift-standard/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Balkenschrift is built on a strict horizontal-bar principle with near-uniform stroke widths, placing it firmly in the geometric sans category. The squared, constructed letterforms and optional rounded variant reinforce a modernist, systematic design logic.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Wide",
+      "Extra Wide",
+      "Ultra Wide"
+    ],
+    "subfamilies": [
+      "Balkenschrift",
+      "Balkenschrift Rounded"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "systematic",
+      "wide",
+      "variable",
+      "modular",
+      "constructed",
+      "japanese-foundry",
+      "extended-family"
+    ],
+    "summary": "A systematically constructed geometric sans built on a straight-bar principle, spanning six weights, four widths and a rounded subfamily — available as variable fonts with weight, slant and width axes.",
+    "description": "Each letterform follows a strict horizontal-bar construction with near-uniform strokes, and the family extends across Standard, Wide, Extra Wide and Ultra Wide widths, all included at no extra cost with any weight purchase. A Rounded subfamily mirrors the full weight and width range, though the two families do not interpolate between each other in the variable font. Alternate characters via ten stylistic sets, oldstyle figures, circled numerals and case-sensitive forms give the family considerable typographic depth for such a rule-bound design.",
+    "foundry_blurb": "Nice To Type offer Balkenschrift as a family governed by a straight-line principle, with alternates including a double-story a, oldstyle figures and superscript punctuation, plus circled number alternates with true circles. Both the standard and Rounded families ship as variable fonts with weight, slant and width axes, and all additional width styles are included free with any normal style purchase."
+  },
+  {
+    "name": "Balkenschrift Rounded",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/balkenschrift-rounded/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Balkenschrift Rounded is a geometric sans built on a strict horizontal-bar construction principle, with the Rounded subfamily softening terminals; the overall architecture is systematically geometric rather than humanist or grotesque.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Wide",
+      "Extra Wide",
+      "Ultra Wide"
+    ],
+    "subfamilies": [
+      "Balkenschrift",
+      "Balkenschrift Rounded"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "variable",
+      "wide",
+      "modular",
+      "signage",
+      "display",
+      "systematic"
+    ],
+    "summary": "A modular geometric sans built on a horizontal-bar construction principle, offered in both sharp and rounded terminal variants across five weights, four widths and matching italics.",
+    "description": "The family takes its name from the German word for a bar or beam letterform, with every character built from strict horizontal strokes. Balkenschrift Rounded softens those terminals while retaining the underlying grid logic, and the full family spans four static widths from standard to Ultra Wide, each included at no extra cost with any weight purchase. Both Balkenschrift and Balkenschrift Rounded are also available as variable fonts with weight, slant and width axes, though the two subfamilies cannot interpolate between each other.",
+    "foundry_blurb": "Nice To Type describe Balkenschrift as adhering to a straight-line construction principle, with alternate characters including a double-storey a, oldstyle figures and superscript punctuation. Wide styles include a complete alternate set that retains the small belly of certain forms. The variable fonts expose three axes: weight, slant angle and width, delivered as two separate files since the standard and rounded versions do not interpolate."
+  },
+  {
+    "name": "Massimo Grafia",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/massimo-grafia-normal/",
+    "designer": "Gabriel Richter and Andreas Uebele",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A grotesque sans with a hand-drawn origin, sitting in the broader grotesque tradition but with distinctive alternates derived from handwritten letterforms. The calm base and expressive variants mark it as a humanistically inflected grotesque.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Massimo Grafia",
+      "Massimo Grafia Semi Mono",
+      "Massimo Grafia Mono",
+      "Massimo Grafia Plain"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "hand-drawn",
+      "alternates",
+      "variable",
+      "editorial",
+      "text",
+      "professional"
+    ],
+    "summary": "A grotesque with hand-drawn origins, built from letters Andreas Uebele wrote during a Rome residency and expanded into a full typeface by Gabriel Richter.",
+    "description": "The base family runs in four weights from Light to Bold, with a calm, constructed grotesque character suited to text and professional use. What distinguishes it is an extensive set of alternates, at least five per letter, drawn from Uebele's original handwritten correspondence, giving designers expressive range without leaving the grotesque idiom. The family spans proportional, semi-mono and mono subfamilies, and a variable font with weight and mono axes is included with purchase.",
+    "foundry_blurb": "Nice To Type describe Massimo Grafia as a well-constructed, calm but individual grotesque for everyday use, with superior and inferior figures, tabular and standard numerals, fractions and symbols for professional applications. It originates from 250 hand-written letters Andreas Uebele wrote during his scholarship at Villa Massimo in Rome; Gabriel Richter took the expressive individual characters and expanded them into a full typeface, adding a calm base as a backdrop for the numerous alternates."
+  },
+  {
+    "name": "Golzheim Sans",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/golzheim-sans/",
+    "designer": "Gabriel and Jonas",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Golzheim Sans is a grotesque/humanist sans with hand-drawn origins, featuring expressive stroke weight variation, distinct spurs in the lowercase, and an unsteady rhythm that gives it an organic, drawn quality rather than a purely geometric or neutral character.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Golzheim",
+      "Golzheim Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "hand-drawn",
+      "expressive",
+      "variable",
+      "comic-influenced",
+      "editorial",
+      "opentype-rich",
+      "emoji"
+    ],
+    "summary": "A hand-drawn grotesque with comic origins, spanning ten weights with italics, variable font support, and over 300 bundled emojis.",
+    "description": "Born from a student-era concept at the Düsseldorf University of Applied Sciences, Golzheim Sans pairs with its serif counterpart to form a family rooted in the tension between hairline pencil and ultra-black marker. Distinct spurs in the lowercase and intentionally unsteady strokes carry a sense of movement across the full weight range, while stylistic sets for open counters and continuous strokes extend the expressive palette. Both families ship as variable fonts with weight and italic axes, and every font includes over 385 emoji and custom symbols mapped to the Private Use Area.",
+    "foundry_blurb": "Nice To Type describe Golzheim Sans as moving between light-heartedness, expressive linear stroke weight, and graphic clarity, balancing human craftsmanship with typographic precision. The family traces back to a hand-drawn, comic-like Bodoni conceived by Gabriel and Jonas during their studies, originally inspired by a comic character's hesitant confidence. Nearly a decade later the concept was revived and refined into both a serif and sans-serif family, each offering default letterforms alongside alternate sets with open counters and continuous strokes, plus a wide array of OpenType features and over 300 bundled emojis."
+  },
+  {
+    "name": "Neue Sammlung",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/neue-sammlung-default/",
+    "designer": "Yanik Hauschild and Gabriel Richter",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Built explicitly on geometric principles with circular forms at its core, referencing Bauhaus construction while softening strict geometry with playful letterforms such as a wavy N and S.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Default",
+      "Text"
+    ],
+    "subfamilies": [
+      "Neue Sammlung",
+      "Neue Sammlung Text",
+      "Neue Sammlung Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "bauhaus",
+      "uniwidth",
+      "stencil",
+      "variable",
+      "stylistic-alternates",
+      "playful",
+      "contemporary"
+    ],
+    "summary": "A uniwidth geometric sans by Yanik Hauschild and Gabriel Richter, drawing on Bauhaus construction while allowing extensive character through 20 stylistic sets and a stencil variant.",
+    "description": "Built on circular, geometric principles, the family tempers its strict construction with deliberately playful letterforms, including a wavy N and S. Two optical subfamilies, Default and Text, address the spacing trade-offs inherent to uniwidth design, and a variable font combines weight and italic axes in a single file. Twenty stylistic sets plus a stencil cut give designers granular control over tone, from disciplined and systematic to loose and expressive.",
+    "foundry_blurb": "Nice To Type describe Neue Sammlung as built on geometric principles with playful shapes softening the strict circular construction. Twenty stylistic sets with multiple alternates let designers set their own tone, mixing and matching to personalise their 'new collection'. A Text subfamily corrects spacing in thinner cuts, and a variable font covers both weight and italic axes, with the stencil variant also available in italic and text options."
+  },
+  {
+    "name": "Massimo Grafia Mono",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/massimo-grafia-mono/",
+    "designer": "Gabriel Richter and Andreas Uebele",
+    "year": 2018,
+    "category": "mono",
+    "subcategory": "grotesque monospaced",
+    "classification_notes": "The family spans proportional grotesque, semi-mono and fully monospaced cuts, with the Mono subfamily representing a true fixed-width grotesque derived from handwritten letterforms.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Massimo Grafia",
+      "Massimo Grafia Semi Mono",
+      "Massimo Grafia Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "grotesque",
+      "variable",
+      "handwritten-origins",
+      "alternates",
+      "editorial",
+      "professional",
+      "extended-latin"
+    ],
+    "summary": "A monospaced grotesque with handwritten roots, offering four weights and an extensive set of character alternates drawn from Andreas Uebele's handwritten correspondence at Villa Massimo in Rome.",
+    "description": "Derived from handwritten letters by Andreas Uebele during a scholarship in Rome, Gabriel Richter expanded the idiosyncratic letterforms into a structured grotesque family with proportional, semi-mono and fully monospaced cuts. Each weight ships with at least five alternates per character for both upper and lowercase, alongside a full suite of figure styles, fractions and OpenType features. A variable font spanning weight and mono axes is included with purchase of the static family, alongside a leaner Plain version for faster web loading.",
+    "foundry_blurb": "Nice To Type describe Massimo Grafia as a well-constructed, calm but individual grotesque for everyday use, offering superior and inferior figures, tabular and standard numerals, fractions and symbols for professional applications, while also opening the door to vibrant and expressive design through five or more alternates per character. The design originated from 250 handwritten letters by Andreas Uebele during his scholarship at Villa Massimo in Rome, which Gabriel Richter then expanded into a full typeface family with a calmer base and extensive alternates for linguistic and typographic coverage."
+  },
+  {
+    "name": "Massimo Grafia Semi Mono",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/massimo-grafia-semi-mono/",
+    "designer": "Gabriel Richter and Andreas Uebele",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A grotesque with a distinctively hand-drawn origin, sitting between a proportional and monospaced grotesque. The Semi Mono subfamily occupies a middle ground between the standard Massimo Grafia and the fully monospaced Mono variant.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Massimo Grafia",
+      "Massimo Grafia Semi Mono",
+      "Massimo Grafia Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "hand-drawn",
+      "semi-mono",
+      "alternates",
+      "variable",
+      "latin-extended",
+      "expressive",
+      "everyday"
+    ],
+    "summary": "A grotesque with hand-drawn origins spanning proportional, semi-mono and mono subfamilies, with five alternates per character for expressive variation.",
+    "description": "Developed from letters hand-written by Andreas Uebele during a residency at Villa Massimo in Rome, the typeface was extended by Gabriel Richter into a full grotesque family with a calm, constructed base. Each subfamily steps incrementally towards monospacing, and extensive stylistic sets offer at least five alternates per character across both cases and numerals. A variable font supporting Weight and Mono axes is included with every static family purchase.",
+    "foundry_blurb": "Massimo Grafia is designed by Gabriel Richter and Andreas Uebele, published in 2018 with font production by Christoph Koeberlin. The family spans proportional, semi-mono and mono variants, with a variable font covering both Weight and Mono axes. Rich OpenType features include five or more alternates per character, superior and inferior figures, fractions, tabular figures and case-sensitive forms, alongside a stripped-down Plain version for faster web loading."
+  },
+  {
+    "name": "Neue Sammlung Stencil",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/neue-sammlung-stencil/",
+    "designer": "Yanik Hauschild and Gabriel Richter",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "geometric stencil",
+    "classification_notes": "Built on strict circular geometry in the Bauhaus tradition, the stencil variant adds cut apertures to the underlying geometric sans construction, placing it firmly in display territory.",
+    "weights": [
+      "Thin"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Text"
+    ],
+    "subfamilies": [
+      "Neue Sammlung",
+      "Neue Sammlung Text",
+      "Neue Sammlung Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "stencil",
+      "bauhaus",
+      "uniwidth",
+      "variable",
+      "opentype-rich",
+      "display",
+      "multilingual"
+    ],
+    "summary": "A stencil offshoot of the Neue Sammlung geometric sans, built on circular principles with a uniwidth construction and 20 stylistic sets for extensive personalisation.",
+    "description": "Neue Sammlung Stencil carries the circular, Bauhaus-inflected geometry of the wider Neue Sammlung family into stencil territory, retaining the uniwidth spacing system alongside italic and Text variants. A variable font file combines weight and italic axes, with a separate stencil variable file that includes the italic and text options. Twenty stylistic sets and a broad suite of OpenType features allow the designer to tune the voice from strict to playful across any weight.",
+    "foundry_blurb": "Neue Sammlung is built on geometric principles, with playful shapes such as a wavy N and S softening the strict circular construction. The stencil variant is part of a larger family that includes default and Text spacing options, a variable font with weight and italic axes, 20 stylistic sets with multiple letter alternatives, and an extensive OpenType feature set. Designed by Yanik Hauschild and Gabriel Richter, published in 2025, with QA by Christoph Koeberlin."
+  },
+  {
+    "name": "Takeoff B",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/takeoff-b/",
+    "designer": "Gabriel Richter",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Takeoff is a geometric sans with a distinctive structural concept: line endings are cut at 15 degrees to mirror an aircraft's average take-off angle, giving it a graphic, open character that sits within the geometric sans tradition with an engineered, systematic approach.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Takeoff A",
+      "Takeoff B"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "variable",
+      "reversed-contrast",
+      "graphic",
+      "signage",
+      "editorial",
+      "aviation",
+      "systematic"
+    ],
+    "summary": "A geometric sans by Gabriel Richter built around a 15-degree line-ending angle derived from an aircraft's take-off angle, available in standard and reversed-contrast variants with a variable font including independent spike and reversed-contrast axes.",
+    "description": "The B subfamily is the reversed-contrast branch of Takeoff, where the usual stress distribution is inverted to give greater airiness and a more leisurely visual rhythm. Line endings across both the static and variable versions are cut at 15 degrees, the average take-off angle of an aircraft, producing open, easily legible forms that work across logos, headlines, body copy and signage. A spike axis in the variable font allows stroke endings to shift from subtly angled to aggressively sharp, with the full variable font data included when purchasing the complete static family.",
+    "foundry_blurb": "Nice To Type describe Takeoff as having precise, clear shapes, graphic curves and a slightly extended letter width. The 15-degree line-ending rule governs both the upright and italic forms, with the italic's more acute application adding dynamism. The B subfamily's reversed-contrast letterforms provide greater airiness. Variable font axes for weight, italic, spike and reversed contrast can be combined freely, and the spike variant is included automatically with every purchase of the normal fonts at no extra cost."
+  },
+  {
+    "name": "Takeoff A",
+    "foundry": "Nice To Type",
+    "url": "https://nicetotype.jp/retailtypefaces/takeoff-a/",
+    "designer": "Gabriel Richter",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Streamlined, slightly extended letterforms with angled 15° stroke terminals and reversed contrast variants place this firmly in geometric sans territory, with distinctive graphic detailing that sets it apart from neutral grotesques.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Takeoff A",
+      "Takeoff B"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "variable",
+      "reversed-contrast",
+      "signage",
+      "editorial",
+      "aviation-theme",
+      "graphic"
+    ],
+    "summary": "A geometric sans by Gabriel Richter built around a consistent 15° angle drawn from aircraft take-off trajectories, available in standard and reversed contrast styles with a spike variant and full variable font support.",
+    "description": "Horizontal stroke terminals cut at 15° give the family its visual coherence across normal, reversed contrast and spike subfamilies, the last of which shifts from aggressive to near-humanist depending on the spike axis setting. The variable font covers four independent axes: weight, italic, spike and reversed contrast, and these can be combined freely. Spacing and kerning by Igino Marini, with a broad Latin Extended character set covering over 100 languages.",
+    "foundry_blurb": "Nice To Type describe Takeoff as a typeface with precise, clear shapes, graphic curves and a slightly extended letter width that suits logos, headlines, continuous copy and signage. The 15° terminal angle references the average take-off angle of an aircraft, and the same logic governs both the roman and italic. A spike style variant adds speed and decisiveness, and the spike degree can be adjusted independently via variable font. Purchasing the static family includes the variable font data at no extra cost."
+  }
+]

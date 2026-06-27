@@ -1,0 +1,337 @@
+[
+  {
+    "name": "Trebin",
+    "foundry": "EPI",
+    "url": "https://epitype.xyz/typefaces/trebin",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The glyph set and visual sample suggest a traditional serif construction; without further style variants or explicit classification from the foundry, transitional serif is the most plausible reading from the letter forms shown.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trebin"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "single-weight",
+      "minimal",
+      "traditional",
+      "latin"
+    ],
+    "summary": "A single-weight serif from EPI with a modest Latin character set covering basic Western European glyphs.",
+    "description": "Trebin is offered in a single Regular weight, covering the Latin alphabet with umlauts, basic punctuation, figures including fractions and superscripts, and a small set of symbols. The character set addresses German orthography through ß and the standard umlaut vowels. It is a spare, unadorned release with no italic or additional weights.",
+    "foundry_blurb": "EPI present Trebin as a single-style typeface available in Regular, with the option to request additional glyphs beyond the current character set."
+  },
+  {
+    "name": "Brie",
+    "foundry": "EPI",
+    "url": "https://epitype.xyz/typefaces/brie",
+    "designer": null,
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "old style serif",
+    "classification_notes": "Explicitly positioned within the Bookman / Old Style Antique genre, sharing the sturdy bracketed serifs and high-contrast rhythm of that tradition while being narrower than the classic model.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brie"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "oldstyle",
+      "bookman",
+      "antique",
+      "text",
+      "serif",
+      "contemporary"
+    ],
+    "summary": "A single-weight contemporary take on the Bookman / Old Style Antique genre, drawing in the style's sturdy character while running narrower than its historical models.",
+    "description": "Drawn as a contemporary interpretation of the Bookman and Old Style Antique tradition, Brie reins in the genre's characteristically wide proportions to improve readability and economy of space. It retains a sturdy, grounded presence while keeping historical mannerisms in check, aiming for something graphically distinctive without nostalgia. Available in a single Regular weight with Latin extended coverage.",
+    "foundry_blurb": "EPI describe Brie as a contemporary interpretation of the Bookman / Old Style Antique genre. They note it aspires to keep a sturdy spirit and improves readability by not running as wide as its famous ancestor, offering a graphical peculiarity without overly wallowing in historical characteristics."
+  },
+  {
+    "name": "Bach",
+    "foundry": "EPI",
+    "url": "https://epitype.xyz/typefaces/bach",
+    "designer": null,
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described explicitly as a reinterpretation of early 20th century grotesque typefaces, placing it firmly in the grotesque sans-serif tradition alongside historical references to Helvetica-era and pre-Helvetica designs.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bach"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "contemporary",
+      "early-twentieth-century",
+      "variable",
+      "slanted",
+      "elegant",
+      "formal"
+    ],
+    "summary": "A contemporary grotesque drawn from early 20th century sources, balancing formal elegance with approachability across four weights and a variable axis.",
+    "description": "Bach Grotesk revisits the pre-Helvetica grotesque tradition, aiming for a middle ground between rigidity and playfulness. The family runs from Thin to Bold, each with a slanted companion, and is also available as a variable font. Latin Extended character support covers a broad range of Western European languages, with small caps and case features included.",
+    "foundry_blurb": "EPI describe Bach Grotesk as a contemporary reinterpretation of early 20th century grotesque typefaces, framed as an exploration of vitality, elegance, formality, and relatability. They position it as neither too rigid nor too playful, striking a balance between distinction and discretion."
+  },
+  {
+    "name": "Rena Grotesk",
+    "foundry": "EPI",
+    "url": "https://epitype.xyz/typefaces/rena-grotesk",
+    "designer": "Silva Baum",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The name and specimen presentation place it firmly in the grotesque sans-serif tradition, with a range of weights from Regular to Black and no italic cuts visible on the page.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Extended"
+    ],
+    "subfamilies": [
+      "Rena Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "student",
+      "extended",
+      "multi-weight",
+      "latin"
+    ],
+    "summary": "A five-weight grotesque sans by Silva Baum with broad Latin Extended character support and an Extended width variant.",
+    "description": "Designed by Silva Baum, this grotesque sans runs from Regular to Black with a standalone Extended cut alongside. The character set covers accented Latin broadly, including Central and Eastern European languages, and the font ships with a solid array of OpenType features including small caps, old-style figures and stylistic sets. A printed specimen was produced through the HAW Hamburg design programme, pointing to its academic origins.",
+    "foundry_blurb": "Rena Grotesk is a typeface by Silva Baum, available from EPI in Regular, Medium, Extended, Bold and Black styles. A printed specimen is available through the HAW Hamburg showcase."
+  },
+  {
+    "name": "Motif",
+    "foundry": "EPI",
+    "url": "https://epitype.xyz/typefaces/motif",
+    "designer": null,
+    "year": 2023,
+    "category": "display",
+    "subcategory": "brutalist display",
+    "classification_notes": "Described explicitly as a brutalist interpretation of automotive typography from gas stations, car ads and racecar decoration, placing it firmly in display territory with an expressive, referential character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Regular",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Motif Condensed",
+      "Motif Regular",
+      "Motif Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "brutalist",
+      "display",
+      "automotive",
+      "variable",
+      "condensed",
+      "extended",
+      "retro",
+      "expressive"
+    ],
+    "summary": "A variable display typeface drawing on the graphic language of petrol stations, car advertisements and racecar livery.",
+    "description": "Motif takes its cues from mid-century automotive lettering, the kind found on gas station signage, racing numbers and period car ads, and renders it through a brutalist lens. The variable font spans a width axis from compressed to expanded, with named styles at Condensed, Regular and Extended, each with a slanted companion. Character support covers Latin Extended with a range of OpenType features including alternate figures, discretionary ligatures and stylistic sets.",
+    "foundry_blurb": "EPI describe Motif as a brutalist interpretation of typography found in the world of the automobile, specifically gas stations, car advertisements and racecar decoration."
+  },
+  {
+    "name": "Statik",
+    "foundry": "EPI",
+    "url": "https://epitype.xyz/typefaces/statik",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Statik is a width-variable grotesque sans-serif, spanning compressed to expanded cuts with a neutral, functional character typical of the grotesque genre.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Semi-Condensed",
+      "Regular",
+      "Semi-Extended",
+      "Extended",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Statik"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "variable",
+      "width-axis",
+      "neutral",
+      "functional",
+      "extended-latin",
+      "cyrillic"
+    ],
+    "summary": "A width-variable grotesque spanning nine cuts from Compressed to Expanded, with Cyrillic and Greek support alongside a broad Latin character set.",
+    "description": "Statik covers an unusually wide range of widths in a single variable font, moving from Compressed through to Expanded with semi-condensed, semi-extended and extended stops along the way. Italic variants appear at the Regular and Semi-Extended widths. The glyph set reaches into Cyrillic and a selection of Greek characters, plus a full set of diacritics across Latin Extended, making it a practical choice for multilingual publication work.",
+    "foundry_blurb": "EPI present Statik as a variable font with a width axis running across nine named stops from Compressed to Expanded, including italic styles and support for Latin Extended, Cyrillic and Greek scripts, with OpenType features including alternate sets, fractions, ordinals and superscripts."
+  },
+  {
+    "name": "Nodig",
+    "foundry": "EPI",
+    "url": "https://epitype.xyz/typefaces/nodig",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Nodig is a display typeface with four named styles including Reverse and Extended variants, suggesting a decorative or experimental character rather than a text-optimised design. Its OpenType feature set and style range point to a display-oriented sans.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nodig"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "extended",
+      "experimental",
+      "geometric",
+      "decorative",
+      "modular"
+    ],
+    "summary": "A four-style display typeface from EPI with Regular, Extended, Slanted and Reverse cuts and a broad Latin Extended character set.",
+    "description": "Nodig offers four stylistically distinct cuts — Regular, Extended, Slanted and Reverse — suggesting a design intended for expressive, display-scale use. The full OpenType feature set includes small caps, old-style figures, fractions, tabular numerals and multiple stylistic sets, giving it range beyond pure decorative work. Latin Extended coverage makes it usable across a wide range of European languages.",
+    "foundry_blurb": "EPI present Nodig as a typeface available in Regular, Extended, Slanted and Reverse styles, with a comprehensive glyph set covering Latin Extended and a full suite of OpenType features including small capitals, ligatures, fractions and multiple numeral styles."
+  },
+  {
+    "name": "Merkur",
+    "foundry": "EPI",
+    "url": "https://epitype.xyz/typefaces/merkur",
+    "designer": null,
+    "year": 2017,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Merkur is explicitly described as a Baroque Antiqua or Transitional Serif, positioned between Renaissance calligraphic styles and Neoclassical construction, with direct references to Baskerville, Janson, Caslon and other canonical transitional models.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black",
+      "Thin"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Headline",
+      "Display"
+    ],
+    "subfamilies": [
+      "Merkur Text",
+      "Merkur Headline",
+      "Merkur Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "baroque-antiqua",
+      "editorial",
+      "text",
+      "historical-references",
+      "expressive",
+      "contemporary"
+    ],
+    "summary": "A transitional serif begun in a type design seminar under Jovica Veljović, drawing on Baroque Antiqua specimens to push back against the formal austerity of Neoclassicism and Modernism.",
+    "description": "Originated in 2017 in a seminar led by Jovica Veljović, Merkur takes the transitional serif as an opportunity to celebrate formal variety rather than rationalist reduction. Its references span Romain du Roi, Baskerville, Caslon, Janson, Sabon and Galliard, alongside contemporary typefaces such as Ogg and Till, giving it a historically informed but present-minded character. Three optical registers, Text, Headline and Display, move the family from restrained body setting through to attention-seeking expressivity.",
+    "foundry_blurb": "EPI describe Merkur as a type family that examines the strengths of the transitional style, using a vivid variety of forms to question the design-historical paradigm of formal unification and rationalization associated with Neoclassicism and Modernism. Its range of styles allows a shift between serving moderate text use and attention-seeking expressivity, addressing the needs of contemporary merging media."
+  }
+]

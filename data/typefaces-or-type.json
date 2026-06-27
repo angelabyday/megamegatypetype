@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Poem",
+    "foundry": "Or Type",
+    "url": "https://ortype.is/poem",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "The page content is a live specimen editor showing the typeface 'Poem' used across a chaotic stream of user-generated text samples. Insufficient detail is available to determine a more precise subcategory beyond display.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Poem"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "specimen",
+      "experimental",
+      "editorial"
+    ],
+    "summary": "A typeface from Or Type shown through a live, chaotic specimen editor populated by user-generated text samples.",
+    "description": "The page presents Poem via a real-time specimen editor described as 'for your eyes only', filled with a rolling stream of user-submitted text — brand names, song lyrics, place names and nonsense strings. This approach to presentation is itself a design statement, foregrounding how the typeface performs in unpredictable, uncontrolled contexts. Beyond the specimen interface, structural details such as weights, italics and language support are not disclosed on this page.",
+    "foundry_blurb": "Or Type presents Poem through an interactive specimen editor marked 'Off Air', inviting visitors to see the typeface tested live against a constant stream of real user input."
+  },
+  {
+    "name": "Or Lemmen",
+    "foundry": "Or Type",
+    "url": "https://ortype.is/buy",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The family's range of upright and italic weights alongside condensed and mono subfamilies suggests a workhorse grotesque sans-serif designed for extended typographic systems.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Or Lemmen",
+      "Or Lemmen Condensed",
+      "Or Lemmen Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "workhorse",
+      "condensed",
+      "mono",
+      "system-font"
+    ],
+    "summary": "A versatile grotesque sans from Or Type offered in upright and italic cuts across five weights, with condensed and monospaced subfamilies.",
+    "description": "Or Lemmen covers five weights from Thin to Bold, each with a matching italic, and extends into Condensed and Mono subfamilies for a total of thirty styles. The condensed cuts mirror the weight range of the upright family, and the mono variant adds five weights with italics for code or tabular use. The breadth of the family makes it suited to editorial and interface work requiring a consistent typographic voice across varied contexts.",
+    "foundry_blurb": "Or Type offers Or Lemmen as a large family spanning regular, condensed and mono subfamilies, with individual styles priced at €80 each and the full family available for €500."
+  }
+]

@@ -1,0 +1,459 @@
+[
+  {
+    "name": "Expo Sans™ Pro",
+    "foundry": "Type Culture",
+    "url": "https://www.typeculture.com/foundry/font-collection/expo-sans-pro/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as a warm-hearted, characterful sans-serif with strong readability in extended text, placing it in the humanist sans tradition rather than a neutral grotesque or geometric style.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Expo Sans Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "workhorse",
+      "text",
+      "warm",
+      "readable",
+      "opentype"
+    ],
+    "summary": "A warm-hearted humanist sans in six weights with italics, built over eight years for sustained readability in extended text settings.",
+    "description": "Twelve fonts spanning Extra Light to Black with matching italics, offering a distinctive voice without resorting to quirk. The designer set out to create a sans-serif with forms they enjoyed using, and the result accumulated considerable character through its long development. A rich OpenType feature set covers small caps, oldstyle figures, fractions, ligatures and ordinals, making it well-suited to book and editorial work.",
+    "foundry_blurb": "Type Culture describe Expo Sans Pro as distinctive and extraordinarily readable, noting it was eight years in the making. They position it as a warm-hearted workhorse with its own personality and integrity, suitable wherever a fresh sans-serif is needed without the need for quirk or novelty. It is used alongside its companion Expo Serif Pro throughout the TypeCulture website itself."
+  },
+  {
+    "name": "Expo Serif Pro",
+    "foundry": "Type Culture",
+    "url": "https://www.typeculture.com/foundry/font-collection/expo-serif-pro/",
+    "designer": null,
+    "year": 2008,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Described as a traditional book face with warmth and expressiveness, designed for broad text use across print and screen; its pairing with a humanist sans and emphasis on readability place it in the transitional serif tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Expo Serif Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "book",
+      "text",
+      "traditional",
+      "opentype",
+      "versatile",
+      "editorial",
+      "readable"
+    ],
+    "summary": "A traditional book serif developed between 2005 and 2008 as a companion to Expo Sans, offering four weights with italics and an extensive OpenType feature set.",
+    "description": "Designed as the serif counterpart to the Expo Sans family, Expo Serif Pro was developed over three years and released in 2008, winning a Type Directors Club typeface design award in 2009. Four weights run from Light to Bold, each with a matching italic, and the family carries a thorough OpenType complement including swash caps, multiple figure styles, ligatures and fractions. Its large glyph set with broad language support makes it suited to complex editorial and book typography work.",
+    "foundry_blurb": "Type Culture describe Expo Serif Pro as spirited and versatile, a classic design built to handle almost any job. It grew from customer demand for a traditional book face in the TypeCulture collection and was conceived as a companion to Expo Sans, sharing the same expressive spirit without mimicking it directly. The family supports numerous languages and includes enough OpenType features to satisfy the most complex typographic specifications."
+  },
+  {
+    "name": "Expo Sans™ Pro Condensed",
+    "foundry": "Type Culture",
+    "url": "https://www.typeculture.com/foundry/font-collection/expo-sans-pro-condensed/",
+    "designer": null,
+    "year": 2010,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A condensed variant of Expo Sans Pro, a humanist sans serif noted for warmth and readability, with proportional adjustments made glyph-by-glyph rather than uniform narrowing.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Expo Sans Pro Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "humanist-sans",
+      "text",
+      "newspaper",
+      "editorial",
+      "narrow-measure",
+      "readable"
+    ],
+    "summary": "A carefully proportioned condensed cut of Expo Sans Pro, designed for text in tight columns with each glyph narrowed individually rather than mechanically scaled.",
+    "description": "Development began in 2009 and was completed the following year, with each glyph narrowed by a different percentage — some as much as 50%, others as little as 10% — to preserve optical balance across the family. Five weights from ExtraLight to Bold are available, each with a matching italic, making it a practical choice for newspapers, textbooks and listings where column width is restricted. It sits within the broader Expo Sans and Expo Serif superfamily, inheriting the warmth and readability of the original.",
+    "foundry_blurb": "Type Culture describe Expo Sans Pro Condensed as a natural extension of their popular Expo Sans Pro family, developed to expand its range of application. Rather than applying a uniform narrowing, an entire schedule of proportional adjustments was made glyph-by-glyph to arrive at letterforms that look and feel right. They position it as suited to everything from textbooks and newspapers to listings, offering flexibility and efficiency in narrow measures while retaining Expo Sans' characteristic warmth and readability."
+  },
+  {
+    "name": "Expo Sans™ Inline",
+    "foundry": "Type Culture",
+    "url": "https://www.typeculture.com/foundry/font-collection/expo-sans-inline/",
+    "designer": null,
+    "year": 1999,
+    "category": "display",
+    "subcategory": "inline display",
+    "classification_notes": "An inline variant of a sans-serif family, designed as display capitals and titling faces reminiscent of classic wood types. The inline treatment and wood-type heritage place it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Expo Sans Inline"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "inline",
+      "display",
+      "wood-type",
+      "titling",
+      "caps",
+      "packaging",
+      "signage"
+    ],
+    "summary": "A single-weight inline display font derived from the Expo Sans family, drawing on the tradition of classic wood-type lettering for headlines and titling work.",
+    "description": "Originally conceived around 1999 as a set of display initials and titling capitals to accompany Expo Sans, the design has since been expanded into a full OpenType font. It includes proportional oldstyle figures, tabular oldstyle figures and proportional lining figures, giving it more flexibility than a typical display face. Suited to book jackets, product packaging, magazine headlines and exterior signage where a decorative inline treatment is called for.",
+    "foundry_blurb": "Type Culture describe Expo Sans Inline as a complementary display companion to the Expo Sans family, begun around 1999 as a set of initials and titling caps. Now a complete OpenType font with oldstyle and lining figure variants, it is presented as suitable for a wide range of display applications from book jackets and packaging to magazine headlines and signage."
+  },
+  {
+    "name": "Phoreus™ Cherokee",
+    "foundry": "Type Culture",
+    "url": "https://www.typeculture.com/foundry/font-collection/phoreus-cherokee/",
+    "designer": null,
+    "year": 2011,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Phoreus Cherokee is a humanist serif designed to support the Cherokee syllabary alongside a Latin complement; its forms are described as distinct and uncomplicated, suited to young readers, with a genuine cursive italic drawn from Cherokee handwriting manuscripts.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Phoreus Cherokee"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cherokee"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "cherokee",
+      "syllabary",
+      "indigenous",
+      "language-preservation",
+      "humanist",
+      "cursive-italic",
+      "multilingual",
+      "text"
+    ],
+    "summary": "A multi-weight family designed for the Cherokee syllabary, including the first cursive italic and the first full family with Cherokee lowercase glyphs.",
+    "description": "Developed at the request of the Cherokee Nation's Language Technology Office, the family covers 86 Cherokee syllabary glyphs across Regular, Italic, Bold and Bold Italic, with the italic drawn from nearly 180 years of Cherokee manuscript sources rather than simply slanting the upright. Version 2, completed in 2015, added the newly specified Cherokee lowercase, making Phoreus the first full typeface family to include it. The uncomplicated forms are aimed primarily at young readers in language preservation contexts, though the Latin complement has found independent use.",
+    "foundry_blurb": "Type Culture describe Phoreus Cherokee as a response to a direct appeal from the Cherokee Nation's Language Technology Office for new digital typefaces to support language preservation. The designer researched historical manuscripts from the Cherokee Nation and the Smithsonian's James Mooney collection to create a genuine cursive italic – not merely an oblique – making it the first Cherokee cursive italic typeface. The 2015 update added the Cherokee Nation's newly specified lowercase, making Phoreus Cherokee v.2 the first complete Cherokee typeface family to include it. The name Phoreus comes from the ancient Greek word for bearer or carrier, a reference to type as a vehicle of language and culture."
+  },
+  {
+    "name": "Kinesis® Pro",
+    "foundry": "Type Culture",
+    "url": "https://www.typeculture.com/foundry/font-collection/kinesis-pro/",
+    "designer": "Mark Jamra",
+    "year": 1990,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Kinesis draws from the pen-written calligraphic tradition, referencing Jenson and Garamond romans, with expressive unconventional forms balanced against legible text characteristics — placing it firmly in the humanist serif category.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kinesis Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "calligraphic",
+      "expressive",
+      "book",
+      "editorial",
+      "adobe-originals",
+      "text",
+      "display"
+    ],
+    "summary": "A pen-written humanist serif by Mark Jamra, begun in 1990, that balances calligraphic expressiveness with the legibility demands of continuous text.",
+    "description": "Designed by Mark Jamra and originally released as an Adobe Original, Kinesis Pro draws on the romans of Jenson and Garamond as well as the work of Oldřich Menhart, channelling an intuitive, calligraphic energy into a typeface suited to both book text and display settings. Its unconventional, expressive letterforms are tempered by solid text legibility, making it usable across magazine copy, posters and packaging without sacrificing personality. The result is a family with a distinctly lively character that sets it apart from more neutral text faces.",
+    "foundry_blurb": "Adobe describes Kinesis as a unique and lively typeface family with a truly kinetic nature, suitable for display settings and longer blocks of energetic text. It balances unconventional forms and expressive calligraphic lettering with legible text typeface characteristics, offering a wide range of weights and vigorous personality for book text, magazine ad copy, bulletins, posters and packaging. Designer Mark Jamra traces the first sketches to January 1990, citing the romans of Jenson and Garamond and the types of Oldřich Menhart as foundational influences, alongside a creative process he describes as extra-rational — working beyond rational protocol through mastery and experience."
+  },
+  {
+    "name": "Expo Sans™ Dotscreen",
+    "foundry": "Type Culture",
+    "url": "https://www.typeculture.com/foundry/font-collection/expo-sans-dotscreen/",
+    "designer": null,
+    "year": 2004,
+    "category": "display",
+    "subcategory": "novelty display",
+    "classification_notes": "A dotscreen-patterned display typeface derived from Expo Sans Pro, rendered with halftone-style texture; firmly in the display category as its decorative treatment renders it unsuitable for text use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Expo Sans Dotscreen"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "dotscreen",
+      "halftone",
+      "textured",
+      "novelty",
+      "exhibition",
+      "signage",
+      "decorative"
+    ],
+    "summary": "A single-weight dotscreen display font derived from Expo Sans Pro, rendered in clean PostScript outlines so it scales without degradation to exhibition or signage sizes.",
+    "description": "Originally conceived in 1997 as an experimental alphabet for posters and an exhibition, Expo Sans Dotscreen was developed into a full OpenType font in 2004. Every glyph is hand-drawn in PostScript outlines rather than auto-traced, meaning the halftone dot pattern holds up under extreme enlargement — a deliberate advantage for exhibition designers and signmakers. The font includes four figure variants via OpenType features, and its clean construction allows users to add distortion effects from a reliable starting point rather than working with pre-degraded artwork.",
+    "foundry_blurb": "Type Culture describe Expo Sans Dotscreen as an attention-grabbing display type inspired by Expo Sans Pro. They note that each character has been painstakingly rendered in PostScript outlines so the font can withstand intense enlargement, something auto-traced fonts cannot do. They invite users to explore the typeface's range from nebulous and grainy at small sizes to hyperactive and explosive at large sizes."
+  },
+  {
+    "name": "Jamille™ Pro",
+    "foundry": "Type Culture",
+    "url": "https://www.typeculture.com/foundry/font-collection/jamille-pro/",
+    "designer": "Mark Jamra",
+    "year": 1988,
+    "category": "serif",
+    "subcategory": "Didone",
+    "classification_notes": "Described explicitly as a modern or Didone type with concave stems and contemporary modelling, placing it squarely in the high-contrast rational serif tradition associated with Bodoni and Didot.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Jamille Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "modern-serif",
+      "text",
+      "display",
+      "classic",
+      "workhorse",
+      "swash",
+      "opentype"
+    ],
+    "summary": "A Didone serif with concave stems and contemporary modelling, originally released as ITC Jamille in 1988 and now greatly expanded for TypeCulture with swash caps and extensive OpenType features.",
+    "description": "Designed by Mark Jamra from 1981 and first brought to market through ITC in 1988, this modern serif occupies the same territory as Bodoni and Didot but with a distinct approach to stem modelling that sets it apart. The TypeCulture release adds large character sets, lively swash caps exclusive to this edition and a full suite of OpenType features including multiple figure styles, fractions and historical forms. The family covers three weights with matching italics and functions across both text and display settings.",
+    "foundry_blurb": "Jamra describes Jamille as his first typeface, begun in 1981 at graduate school and refined over years working at URW's type studio and as an independent designer in Hamburg. The concept centres on a Didone structure with concave stems and contemporary modelling, positioning it as a workhorse alternative to Bodoni or Didot for those who want a classic look with a distinct character. The TypeCulture Pro release represents the most expanded and feature-rich version of the family available, including swash caps created exclusively for this edition."
+  },
+  {
+    "name": "Alphatier™ Pro",
+    "foundry": "Type Culture",
+    "url": "https://www.typeculture.com/foundry/font-collection/alphatier-pro/",
+    "designer": null,
+    "year": 2001,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "Explicitly designed for display and short text applications, Alphatier departs from conventional letterform conventions, drawing on runes, shorthands and obsolete writing systems to produce an experimental, hand-wrought display face.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Alphatier Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "historical",
+      "hand-wrought",
+      "runic",
+      "unconventional",
+      "expressive"
+    ],
+    "summary": "An experimental display typeface drawing on runes, shorthands and obsolete writing systems to push letterforms toward their historical and primordial roots.",
+    "description": "Available in three weights, Alphatier Pro grew out of sustained research into the history of alphabetic systems, with individual letterforms inspired by runes, obsolete scripts and pre-modern cursives rather than any conventional typographic tradition. The family holds together not through shared structural conventions but through an overlying hand-wrought character, making it suited to display and short text settings where distinctiveness takes priority over neutrality. It won an ATypI typeface design competition prize in 2001 and was recognised by the Type Directors Club of New York in 2002.",
+    "foundry_blurb": "Type Culture describe Alphatier Pro as an innovative and experimental design available in three weights, rooted in research into the historical evolution of letterforms. The designer's question was how far a designer can deviate from convention and still produce legible text; the answer draws on runes, shorthands and obsolete writing systems, with hundreds of sketches refined into a cohesive typographic system whose unity comes from overlying character rather than shared shapes."
+  },
+  {
+    "name": "Tacitus™ Pro",
+    "foundry": "Type Culture",
+    "url": "https://www.typeculture.com/foundry/font-collection/tacitus-pro/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "historical revival",
+    "classification_notes": "Based on Capitalis Rustica, a Roman inscriptional and brush-written script tradition from the 1st–5th centuries AD, with narrow proportions drawn from a documented Austrian inscription; classified as display due to its historical letterform origins and specialised decorative application.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tacitus Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "historical",
+      "roman",
+      "capitalis-rustica",
+      "inscriptional",
+      "display",
+      "narrow",
+      "revival"
+    ],
+    "summary": "A revival of the Capitalis Rustica, the narrow Roman brush-written inscriptional script, adapted for contemporary typographic use.",
+    "description": "Drawn from a Capitalis Rustica inscription documented in Austria in 1885, the design takes its distinctively narrow proportions directly from that source. Because the original script covered only around twenty letters, the majority of glyphs required invention to support modern orthography, and several originals were redrawn for legibility. The family carries a full suite of OpenType features including small caps, multiple figure styles and fractions.",
+    "foundry_blurb": "Type Culture describe Tacitus as a contemporary interpretation of the Capitalis Rustica, a Roman inscriptional and brush-written letterform tradition spanning the first to fifth centuries AD. The narrow proportions derive from a specific inscription found in Austria and documented by Emile Hübner in 1885, with most characters invented or redesigned to meet modern typographic needs. The name honours Tacitus, secretary to Emperor Trajan and a principal historian of imperial Rome."
+  },
+  {
+    "name": "Latienne™ Pro",
+    "foundry": "Type Culture",
+    "url": "https://www.typeculture.com/foundry/font-collection/latienne-pro/",
+    "designer": null,
+    "year": 1991,
+    "category": "display",
+    "subcategory": "latine",
+    "classification_notes": "Latienne Pro belongs to the Latines, a 19th-century typographic genre defined by distinctive triangular serifs. While the designer notes it exceeds typical display or poster use, its Latine heritage places it firmly in the display category with a decorative serif subcategory.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Latienne Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "latine",
+      "triangular-serifs",
+      "19th-century",
+      "display",
+      "book-jacket",
+      "packaging",
+      "opentype",
+      "brush-italic"
+    ],
+    "summary": "A typeface rooted in the 19th-century Latine genre, distinguished by triangular serifs and a brush-drawn italic, updated with an extensive OpenType feature set.",
+    "description": "Originally completed in 1991 and based on the Latine typographic tradition, the design uses triangular serifs as its defining feature while remaining legible enough for body copy as well as display settings. The italic was drawn from flat-headed brush forms, giving it a festive, lively quality distinct from the roman. The Pro release adds a broad range of OpenType features including small caps, multiple figure styles, swash caps and fractions, making it the most feature-complete version available.",
+    "foundry_blurb": "Type Culture describe Latienne Pro as an original design rooted in the Latines, a 19th-century typographic tradition characterised by triangular serifs. First released in 1991, the family has been popular with sign, book jacket and packaging designers. The Pro version is the only edition on the market with a full suite of advanced OpenType typographic features, making it the most versatile and sophisticated release of the design."
+  }
+]

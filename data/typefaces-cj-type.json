@@ -1,0 +1,200 @@
+[
+  {
+    "name": "CJ Type Gallery",
+    "foundry": "CJ Type",
+    "url": "https://cjtype.com/gallery/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "grotesque",
+    "classification_notes": "The page is a gallery listing multiple typefaces from CJ Type, not a single typeface page. No specific typeface details are extractable.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "gallery",
+      "foundry",
+      "multi-family",
+      "cjtype"
+    ],
+    "summary": "A gallery page listing multiple CJ Type releases including ʻŌpua, Velzyland, Dunbar, Pennypacker, Louvette and Counterpress, without detail on any individual typeface.",
+    "description": "This is a portfolio gallery page for CJ Type, displaying usage examples across several typeface families rather than presenting a single typeface. No individual typeface is the subject of this page, and no weights, year, designer or language coverage can be reliably attributed to a single family from this content. Specific typeface entries should be drawn from individual product pages within the CJ Type site.",
+    "foundry_blurb": "CJ Type's gallery page presents a scrolling collection of usage examples and specimen images drawn from across their type library, including Dunbar, Velzyland, ʻŌpua, Pennypacker, Louvette and Counterpress."
+  },
+  {
+    "name": "Louvette",
+    "foundry": "CJ Type",
+    "url": "https://cjtype.com/typefaces/",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "Louvette is a serif family organised across four optical size subfamilies — Banner, Display, Deck and Text — suggesting a traditional editorial hierarchy with contemporary proportions and a wide weight range from Regular to Ultra.",
+    "weights": [
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Banner",
+      "Display",
+      "Deck",
+      "Text"
+    ],
+    "subfamilies": [
+      "Louvette Banner",
+      "Louvette Display",
+      "Louvette Deck",
+      "Louvette Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "optical-sizes",
+      "variable",
+      "publishing",
+      "text",
+      "display",
+      "multi-weight"
+    ],
+    "summary": "A 40-style optical-size serif family from CJ Type, spanning Banner through to Text with five weights and matching italics at each size.",
+    "description": "Louvette is organised into four optical subfamilies — Banner, Display, Deck and Text — each running across five weights from Regular to Ultra with roman and italic pairs throughout. The complete series amounts to 40 styles, and variable fonts are included in each family package. The structure suits publication work where a single typeface must perform credibly from large headlines down to body copy.",
+    "foundry_blurb": "CJ Type offer Louvette as a complete series of 40 styles across four families — Banner, Display, Deck and Text — with each family available individually at 10 styles, or as a full set. All weights include roman and italic cuts, and variable fonts are bundled with each family."
+  },
+  {
+    "name": "Dunbar",
+    "foundry": "CJ Type",
+    "url": "https://cjtype.com/dunbar-design-repository/",
+    "designer": "CJ Dunn",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Dunbar is explicitly grounded in the geometric tradition of Erbar-Grotesk, with calligraphic moderation of strict mechanical construction, placing it firmly in the geometric sans category.",
+    "weights": [
+      "Hairline",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Regular",
+      "Text",
+      "Tall",
+      "Low"
+    ],
+    "subfamilies": [
+      "Dunbar Low",
+      "Dunbar Tall",
+      "Dunbar Text"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "variable",
+      "erbar-grotesk",
+      "x-height",
+      "editorial",
+      "expressive",
+      "optical-sizes",
+      "warm-geometry"
+    ],
+    "summary": "A geometric sans rooted in the Erbar-Grotesk tradition, built around a variable x-height axis that spans dramatically low to maximally tall proportions across three optical subfamilies.",
+    "description": "Dunbar extends the geometric logic of Erbar-Grotesk into a contemporary system of three subfamilies: Dunbar Low, with its extreme low x-height for editorial and signage work; Dunbar Tall, built for density and impact in tight settings; and Dunbar Text, calibrated for smaller sizes. A variable font axis allows typographers to move fluidly between x-height extremes, while stylistic alternates, optically adjusted capitals and freshly added Cyrillic support extend the family's range without breaking its underlying geometry.",
+    "foundry_blurb": "CJ Type describe Dunbar as building on the geometric foundation of Erbar-Grotesk, where simple forms are tempered by calligraphic knowledge and optical correction. Rather than strict mechanical construction, the geometry is moderated: curves open slightly, joins are adjusted, and proportions are refined for readability. The family uses variable font technology to allow adjustment of both weight and x-height axes, spanning compressed widths and a spectrum from the expressive low x-height of Dunbar Low to the dense, maximal presence of Dunbar Tall."
+  },
+  {
+    "name": "CJ Type Licensing",
+    "foundry": "CJ Type",
+    "url": "https://cjtype.com/licensing/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "This page contains no typeface-specific information; it is a licensing options page for CJ Type's general font catalogue.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "licensing"
+    ],
+    "summary": "This page describes CJ Type's standard licensing tiers for desktop, web, ebook and mobile app use.",
+    "description": "The page covers four licensing tiers: Mini, Small, Medium and Large, each capping desktop workstations, monthly unique web visitors, ebook titles and mobile apps. No specific typeface information is present on this page. For bespoke arrangements, CJ Type can be contacted directly.",
+    "foundry_blurb": "CJ Type offer four standard licensing tiers ranging from Mini to Large, covering desktop, web, ebook and mobile app usage. Additional licensing options are available on request."
+  },
+  {
+    "name": "CJ Type Feed",
+    "foundry": "CJ Type",
+    "url": "https://cjtype.com/feed.xml",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The URL provided is an RSS feed for CJ Type's website, not a specific typeface page. No single typeface can be accurately classified from this content.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "CJ Type Feed"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "foundry",
+      "feed",
+      "cjtype"
+    ],
+    "summary": "This URL points to CJ Type's RSS feed rather than any individual typeface page, so no specific typeface entry can be produced.",
+    "description": "The provided URL is an XML feed listing recent gallery posts and updates from CJ Type. It references multiple typefaces including Dunbar, Velzyland, Pennypacker and 'Ōpua Mauka, but contains no dedicated page for a single typeface. A valid entry cannot be constructed from feed-level content alone.",
+    "foundry_blurb": "CJ Type's feed aggregates infrequent updates from the foundry, covering in-use examples, new releases and gallery posts across their type library."
+  }
+]

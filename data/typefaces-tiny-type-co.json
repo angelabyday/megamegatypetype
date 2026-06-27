@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Dover Display",
+    "foundry": "Tiny Type Co.",
+    "url": "https://tinytype.co/type/dover-display",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "transitional serif / humanist sans",
+    "classification_notes": "Dover Display spans two subfamilies: a serif rooted in Caslon's baroque curves and a humanist sans informed by Gill Sans, both positioned as display cuts. The serif leans into historical British models while the sans offers a complementary humanist alternative, both optimised for large sizes.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Dover Serif Display",
+      "Dover Sans Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "caslon-inspired",
+      "gill-sans-inspired",
+      "british",
+      "humanist",
+      "baroque",
+      "historical-fiction",
+      "serif-and-sans"
+    ],
+    "summary": "A four-style display family pairing a Caslon-informed baroque serif with a humanist sans drawn from Gill Sans, both reimagined through the lens of a Dutch designer reworking British typographic classics.",
+    "description": "Dover Display consists of two serif and two sans styles, each designed for large-scale use. The serif cuts lean into Caslon's curly italics, crisp capitals and warm lowercase, aiming to restore the drama that the face's reputation as a default has obscured. The sans counterpart translates that energy through a Gill Sans lens, finding harmonic connections between the two historical sources and producing a family that holds together convincingly across display sizes.",
+    "foundry_blurb": "Tiny Type Co. describe Dover Display as an exercise in historical design fiction, asking what Caslon and Gill Sans might have looked like had they been drawn by the same hand. The family comprises four styles only, but each is designed to work hard: the Serif styles embrace baroque curves, and the Sans styles offer a humanist elegance suited to large use. Language support covers over 200 languages, with contextual alternates, alternate number styles and glyph variants included."
+  },
+  {
+    "name": "Dover Text",
+    "foundry": "Tiny Type Co.",
+    "url": "https://tinytype.co/type/dover-text",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Dover Serif Text is based on Haas Caslon, itself a German interpretation of Caslon's smaller types, placing it firmly in the transitional serif tradition. The paired Dover Sans Text is a geometric sans with humanist influences, but the family is catalogued here under the serif category as the serif is the primary typeface.",
+    "weights": [
+      "Regular",
+      "Italic",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text"
+    ],
+    "subfamilies": [
+      "Dover Serif Text",
+      "Dover Sans Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "caslon",
+      "transitional",
+      "text",
+      "superfamily",
+      "paired-serif-sans",
+      "bookish",
+      "small-sizes",
+      "geometric-sans"
+    ],
+    "summary": "A six-style superfamily pairing a Haas Caslon-derived serif with a geometric sans, designed specifically for text sizes down to eight points.",
+    "description": "Dover Text is the text companion to Dover Display, built around six styles split between a serif and a sans. The serif draws on Haas Caslon but strips away the stuffiness, retaining historical proportions while modernising the details across over a thousand glyphs per font. The sans counterpart uses matching skeletons and proportions, with nods to Johnston's Underground lettering and Gill's sketches rather than their finished fonts, resulting in a flowing italic and a low-contrast bold that sits consistently across book and screen settings.",
+    "foundry_blurb": "Tiny Type Co. describe Dover Text as the natural companion to Dover Display, optimised for sizes down to 8 points or 12 pixels. They position it as the smallest possible superfamily, with the serif and sans sharing identical functionality including small caps, tabular numbers and language support. Dover Serif Text is drawn from Haas Caslon but cleaned up for contemporary use, while Dover Sans Text applies the same skeletal principles with influences from Johnston and Gill's lettering work rather than their published typefaces."
+  },
+  {
+    "name": "Tiny Grotesk",
+    "foundry": "Tiny Type Co.",
+    "url": "https://tinytype.co/type/tiny-grotesk",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neogrotesk",
+    "classification_notes": "Explicitly described as a modern neogrotesk in the tradition of Helvetica, Univers and Folio, with horizontal and vertical terminals, monolinear strokes and even lowercase proportions typical of mid-20th century neogrotesks.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Regular",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Tiny Grotesk",
+      "Tiny Grotesk Narrow",
+      "Tiny Grotesk Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neogrotesk",
+      "superfamily",
+      "optical-sizes",
+      "proportional",
+      "typographic",
+      "print",
+      "interface",
+      "editorial"
+    ],
+    "summary": "A neogrotesk superfamily whose three widths double as optical sizes, with narrow proportions drawn from 15th-century Italian italic spacing and wide cuts tuned for display.",
+    "description": "Tiny Grotesk draws on the mid-20th century neogrotesk tradition whilst building in a structural conceit: the Narrow subfamily borrows its lowercase spacing rhythm from Aldus Manutius and Ludovico Arrighi's italics of around 1500, lending it legibility at small sizes, whilst the Wide subfamily uses tight spacing and exaggerated stroke contrast for large-scale use. Italics reinforce the distinction, sloping at a modest 10 degrees in Narrow and a severe 24 degrees in Wide. The result is a compact 27-style family that effectively functions as three optical sizes without requiring separate text and display variants.",
+    "foundry_blurb": "Tiny Type Co. describe Tiny Grotesk as a modern neogrotesk that bridges 500 years of type history. Its Narrow styles are modelled on the proportional rhythm of 15th-century Italian calligraphy and optimised with ink traps for small sizes, while the Wide styles feature tight spacing and high-contrast stroke detail for display use. The foundry frame the family as a deeply typographic do-it-all suited to print, interfaces, identities and complex documents, with a character set designed to treat text itself as interface."
+  },
+  {
+    "name": "Monumental Grotesk",
+    "foundry": "Tiny Type Co.",
+    "url": "https://tinytype.co/type/monumental-grotesk",
+    "designer": "Piet Zwart (original letters), Tiny Type Co. (revival)",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Though rooted in grotesque letterform conventions, the typeface's extreme weight, art deco geometry and deliberate graphic imbalance place it firmly in the display category rather than functional grotesque. Its origins in stone-carved architectural lettering reinforce this classification.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Monumental Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "art-deco",
+      "geometric",
+      "display",
+      "architectural",
+      "revival",
+      "vernacular",
+      "1930s",
+      "heavy"
+    ],
+    "summary": "A revival of stone-carved letters designed by Piet Zwart for Berlage buildings in The Hague, recast as a heavy, graphic display typeface with art deco geometry.",
+    "description": "The letterforms originate from inscriptions Piet Zwart produced for buildings and a monument in The Hague, designed by architect Hendrik Petrus Berlage. Where Zwart's poster work in a similar style feels severe, these Berlage letters have lower contrast and softer corners, lending the design a physical, almost tactile quality. Some glyphs sit deliberately out of proportion with their neighbours, which the foundry frames not as a flaw but as the source of the typeface's expressive energy. An OpenType stylistic set offers inset diacritics as an alternative to the default raised placement.",
+    "foundry_blurb": "Tiny Type Co. describe Monumental Grotesk as a loving revival and expansion of a classic Hague vernacular set of letters, citing Piet Zwart's stone-carved inscriptions for Berlage's buildings as the source material. They position its art deco forms and extreme weight as suited to high-density typographic design and architectural-scale use, and note that the deliberate graphic imbalance between certain letters is where the typeface's character lives."
+  }
+]

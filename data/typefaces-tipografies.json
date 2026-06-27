@@ -1,0 +1,607 @@
+[
+  {
+    "name": "Bulo",
+    "foundry": "Tipografies",
+    "url": "https://tipografies.com/fonts/bulo",
+    "designer": "Jordi Embodas, Noe Blanco",
+    "year": 2012,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Mechanically constructed sans-serif with humanistic inflections, particularly in the lowercase and italics, placing it at the intersection of geometric and humanist traditions.",
+    "weights": [
+      "Hair Blond",
+      "Hair Dark",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Extra Black",
+      "Ultra Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bulo",
+      "Bulo Rounded"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "editorial",
+      "newspaper",
+      "narrow",
+      "x-height",
+      "rounded",
+      "text",
+      "magazine",
+      "space-efficient"
+    ],
+    "summary": "A narrow sans-serif with a generous x-height and short ascenders and descenders, designed specifically for newspaper and magazine typography.",
+    "description": "Designed by Jordi Embodas and Noe Blanco, Bulo balances a mechanical construction with humanistic details in its lowercase and italics. Its narrow proportions and reduced uppercase height make it economical in use, well suited to tight column widths. Bulo Rounded extends the family with a fully rounded variant in which counters and stroke intersections are also rounded, not merely the terminals.",
+    "foundry_blurb": "Tipografies describe Bulo as a sanserif with clear and concise letterforms built on a mechanical construction but with a humanistic touch in the lowercase and italics. The family was made for newspaper and magazine use, with narrow proportions, short ascenders and descenders, a generous x-height and reduced uppercase. Bulo Rounded is described as a 'real rounded', meaning the rounding extends to counters and intersections as well as stroke endings, producing a warm and natural texture at text sizes."
+  },
+  {
+    "name": "Horizontype",
+    "foundry": "Tipografies",
+    "url": "https://tipografies.com/fonts/horizontype",
+    "designer": "Jordi Embodas, David Montserrat",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Horizontype is a geometric sans defined by strictly flat tops and bottoms on all glyphs, with no overshoots, giving it a distinctly rectilinear character. Its near-monospaced proportions and fixed-width variant place it firmly in the geometric sans tradition with a distinctive conceptual constraint.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Horizontype",
+      "Horizontype Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "horizontal",
+      "no-overshoot",
+      "near-monospaced",
+      "conceptual",
+      "editorial",
+      "variable"
+    ],
+    "summary": "A sans-serif built on a single constraint: no overshoot, so every glyph sits flat against the baseline, x-height and cap height without exception.",
+    "description": "Designed by Jordi Embodas and David Montserrat, Horizontype eliminates overshoots entirely, with straight-cut terminals on diagonals and a tightly drawn proportional system that sits close to monospaced widths. The tension between rigid exterior flatness and round inner counters pressing against those boundaries gives the family a distinctive optical energy that drives the eye horizontally along a line. A true fixed-width companion, Horizontype Mono, shares matching weights and identical tabular figures across six weights from Thin to Black, each with an italic, and the whole family is available as variable fonts.",
+    "foundry_blurb": "Tipografies describe Horizontype as honest type, a design with no overshoots in which characters sit strictly between horizontal lines. Round counters push against flat exterior boundaries, creating tension that reinforces the horizontal feel. The near-monospaced proportions of the standard family led directly to the creation of Horizontype Mono, a true fixed-width variant sharing matching weights and tabular figures with its sibling."
+  },
+  {
+    "name": "Nomada",
+    "foundry": "Tipografies",
+    "url": "https://tipografies.com/fonts/nomada",
+    "designer": "Jordi Embodas, María Ramos, Fer Rodríguex, Òscar Cobo",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "multi-family system",
+    "classification_notes": "Nomada is a five-family collection spanning Incise, Sans, Serif, Slab and Didone styles, making it a multi-style system rather than a single category. The page being scraped is for the Incise subfamily, which features chiselled letterforms with engraved stroke endings characteristic of incise type.",
+    "weights": [
+      "Hairline",
+      "Extrathin",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Extrablack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nomada Incise",
+      "Nomada Sans",
+      "Nomada Serif",
+      "Nomada Slab",
+      "Nomada Didone"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "incise",
+      "multi-family",
+      "type-system",
+      "editorial",
+      "packaging",
+      "book",
+      "contemporary",
+      "versatile"
+    ],
+    "summary": "A five-family type system by four Tipografies designers, spanning Incise, Sans, Serif, Slab and Didone styles with shared contemporary proportions and open counters.",
+    "description": "Released in 2019 by Jordi Embodas, María Ramos, Fer Rodríguex and Òscar Cobo, Nomada unites five formally distinct subfamilies under a single design attitude, allowing switches between incise, grotesque, serifed, slab and high-contrast Didone styles without losing visual coherence. Each subfamily runs across nine weights from Hairline to Extrablack with matching italics, giving 18 styles per family. Open counters and apertures are consistent across all five, making the system equally at home in print and on screen.",
+    "foundry_blurb": "Tipografies describe Nomada as a globetrotter of styles that takes the reader across five typographic continents, from Sans to Serif and on to Slab, with detours through Incise and Didone. They frame it as a typeface family in constant motion, suited to print and screen alike, with contemporary proportions and open counters providing clarity and consistency across all five families."
+  },
+  {
+    "name": "Foodie",
+    "foundry": "Tipografies",
+    "url": "https://tipografies.com/fonts/foodie",
+    "designer": "Jordi Embodas, Mucho",
+    "year": 2026,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "A display serif with contrasting sharp triangular terminals in uppercase and soft teardrop terminals in lowercase, giving it a distinctive dual character suited to editorial and branding contexts. The stencil variant reinforces its display orientation.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Foodie",
+      "Foodie Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "stencil",
+      "gastronomy",
+      "branding",
+      "editorial",
+      "elegant",
+      "dual-terminal"
+    ],
+    "summary": "A display serif evolved from a custom typeface for the José Andrés Group, defined by a deliberate contrast between sharp triangular uppercase terminals and soft teardrop lowercase terminals.",
+    "description": "Designed by Jordi Embodas and Mucho, Foodie began as a bespoke typeface for the José Andrés Group and has been reworked into a catalogue release. The uppercase carries hard, angular terminals while the lowercase uses rounded teardrop endings, and this duality extends to the figure system, where lining figures align with uppercase and old-style figures accompany lowercase. A coordinated Stencil subfamily strips the design back to its structural essentials, making it a practical companion for food, hospitality and editorial contexts.",
+    "foundry_blurb": "Tipografies describe Foodie as an evolution of a custom typeface created for José Andrés Group, developed into a catalogue font that retains elegance and a passion for gastronomy. The defining feature is the duality between hard triangular terminals in uppercase and soft teardrop terminals in lowercase, with figures following the same logic. The Stencil variant emphasises the simplicity of the stroke structure and has been coordinated with a full set of diacritics and signs."
+  },
+  {
+    "name": "Glucosa",
+    "foundry": "Tipografies",
+    "url": "https://tipografies.com/fonts/glucosa",
+    "designer": "Jordi Embodas, Gerard Sierra",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Glucosa sits within the humanist sans tradition but with organic detailing — slightly rounded corners, squared dots and honey-like terminal softness — that give it a distinctive hybrid character between geometric and humanist models.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Display"
+    ],
+    "subfamilies": [
+      "Glucosa",
+      "Glucosa Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "organic",
+      "rounded",
+      "display",
+      "text",
+      "variable",
+      "contemporary",
+      "hybrid"
+    ],
+    "summary": "A two-family sans with organic detailing by Jordi Embodas and Gerard Sierra, offered in standard and high-contrast Display variants across six weights with italics.",
+    "description": "Designed by Jordi Embodas and Gerard Sierra and released in 2024, Glucosa pairs firm, decisive stroke structure with subtle organic finishing — rounded corners, squared dots and softened terminals that give the text version a quietly distinctive warmth. Glucosa Display pushes the contrast considerably further, setting fully rounded forms against sharp-edged counterparts to produce a more vibrant, expressive appearance. The family ships in six weights from Thin to Black with matching italics across both subfamilies, covering an extensive range of European Latin languages and including variable font files.",
+    "foundry_blurb": "Tipografies describe Glucosa as a typographic fusion cuisine, combining ingredients from diverse origins to explore little-explored terrain. The underlying structure is firm and decisive, but the finish is sweet and soft — rounded corners, squared dots and glyphs that seem dipped in honey or smoothed by erosion. Glucosa Display takes the concept further, pairing fully rounded forms with razor-sharp edges to bring vibrancy and contrast to the design."
+  },
+  {
+    "name": "Folha",
+    "foundry": "Tipografies",
+    "url": "https://tipografies.com/fonts/folha",
+    "designer": "Jordi Embodas",
+    "year": 2017,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Folha Texto is a serif companion to the sans Folha Gráfico, with accentuated humanist traits and warm, friendly letterforms designed for editorial newspaper use. The serif-led family drives the classification, with the humanist quality explicitly foregrounded by the foundry.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Folha Texto",
+      "Folha Gráfico"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "editorial",
+      "newspaper",
+      "humanist",
+      "press",
+      "companion",
+      "warm",
+      "text",
+      "custom"
+    ],
+    "summary": "A coordinated serif and sans pair commissioned for Folha de São Paulo's editorial redesign, now available for licensing outside Brazil.",
+    "description": "Originally developed as a custom commission for the Brazilian press group Folha de São Paulo, the two families Folha Texto and Folha Gráfico replaced earlier Tipografies releases that the publisher had licensed but required exclusively. Designer Jordi Embodas accentuated humanist characteristics across both families to produce a warm, approachable quality suited to long newspaper reading across print, web and app contexts. Because exclusivity is limited to Brazil, both families are available for commercial licensing elsewhere in five weights with matching italics, small caps and comprehensive OpenType features.",
+    "foundry_blurb": "Tipografies describe Folha as two co-ordinated type families commissioned by Folha de São Paulo for the redesign of their newspapers, magazines and digital products. The press group originally licensed Bulo and Trola Text from Tipografies but required exclusivity, prompting the creation of these bespoke families. The primary aim was to make the designs inviting, achieved by accentuating humanist traits and giving the letterforms a friendly and warm character."
+  },
+  {
+    "name": "Scatch",
+    "foundry": "Tipografies",
+    "url": "https://tipografies.com/fonts/scatch",
+    "designer": "Jordi Embodas, David Montserrat",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "modulated grotesque",
+    "classification_notes": "Scatch is explicitly described as a modulated grotesque derived from Scotch Roman conventions stripped of serifs, retaining the high contrast and rhythm of that genre within a sans-serif structure.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Scatch"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "modulated",
+      "high-contrast",
+      "scotch-roman",
+      "text",
+      "editorial",
+      "variable"
+    ],
+    "summary": "A modulated grotesque by Jordi Embodas and David Montserrat that asks what a Scotch Roman would look like without its serifs.",
+    "description": "Scatch takes the high contrast, proportions and rhythm of the Scotch Roman tradition and removes the serifs, producing a sans with an unusual degree of modulation for the genre. The family runs across six weights from Thin to Black with matching italics, totalling twelve styles, and is available as a variable font. Oldstyle and lining figures, alternates, ligatures and extensive Latin language support make it well suited to editorial and text settings.",
+    "foundry_blurb": "Tipografies describe Scatch as a Scotch Sans, exploring what happens to a Scotch Roman when it loses its serifs. While some early sans serifs were created simply by cutting the serifs from existing types, the design process here was more considered, preserving many characteristics of the Scotch Roman genre while removing its long serifs."
+  },
+  {
+    "name": "Tinta",
+    "foundry": "Tipografies",
+    "url": "https://tipografies.com/fonts/tinta",
+    "designer": "Jordi Embodas, Fer Rodríguez",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as a serifless roman with classical Renaissance proportions, organic forms, curving contours and flared endings, placing it firmly in the humanist sans tradition despite its lack of serifs.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Coated",
+      "Uncoated",
+      "Broken Coated",
+      "Broken Uncoated"
+    ],
+    "subfamilies": [
+      "Tinta Coated",
+      "Tinta Uncoated",
+      "Tinta Broken Coated",
+      "Tinta Broken Uncoated"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "renaissance",
+      "variable",
+      "organic",
+      "flared",
+      "warmth",
+      "classical",
+      "letterpress"
+    ],
+    "summary": "A variable humanist sans by Jordi Embodas and Fer Rodríguez that evokes the tactile quality of 15th-century Renaissance printing through organic, flared letterforms across four subfamilies simulating different ink and paper conditions.",
+    "description": "Designed to recapture the warmth lost to cold, precise digital and offset printing, Tinta draws on the spirit of Renaissance printmaking without copying specific historical typefaces. Its four subfamilies, Coated, Uncoated, Broken Coated and Broken Uncoated, use variable font technology to mimic how ink behaves on different paper stocks, from crisp coated surfaces to the bleed of uncoated sheets. Six weights from Thin to Black, each with a matching italic, are complemented by a full suite of OpenType features including oldstyle figures, ligatures and proportional and tabular figure sets.",
+    "foundry_blurb": "Tipografies describe Tinta as a rebellion against sterility and cold perfection, born from a search for the lost warmth of Renaissance printmaking. Rather than copying types cut by Jenson or Griffo, the goal was to capture their spirit. Variable font technology drives the four subfamilies, allowing the organic, flared letterforms to shift between the crispness of coated paper and the vulnerability of ink on uncoated stock."
+  },
+  {
+    "name": "Trola",
+    "foundry": "Tipografies",
+    "url": "https://tipografies.com/fonts/trola",
+    "designer": "Jordi Embodas, Noe Blanco; Cyrillic by Letterjuice, Ilya Ruderman",
+    "year": 2013,
+    "category": "sans-serif",
+    "subcategory": "display sans",
+    "classification_notes": "Trola is a sans-serif with unusual proportions and moderate contrast, positioned explicitly as a headline or display face; its relationship to the text-optimised Trola Text confirms the primary family sits in display territory.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Text"
+    ],
+    "subfamilies": [
+      "Trola",
+      "Trola Text",
+      "Trola Cyrillic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "headline",
+      "sans-serif",
+      "contrast",
+      "latin-extended",
+      "cyrillic",
+      "editorial",
+      "screen"
+    ],
+    "summary": "A display sans with unusual proportions and moderate contrast, sharing a skeleton with Bulo but built for generous sizes and strong screen presence.",
+    "description": "Designed by Jordi Embodas and Noe Blanco and released in 2013, Trola is a sans-serif drawn from the same skeleton as Tipografies' Bulo but with distinct proportions and moderate stroke contrast that give it a more assertive character. Ten styles run from Light to Heavy with matching italics, covering Latin Super Extended with small caps. A companion subfamiliy, Trola Text, adapts the letterforms for continuous reading, and a Cyrillic extension was produced with Letterjuice and Ilya Ruderman.",
+    "foundry_blurb": "Tipografies describe Trola as a family related to their sans-serif Bulo, sharing its skeleton but with a completely different flavour. Its unusual proportions make it suited to generous sizes while still working in tight spaces, and its moderate contrast is intended to strengthen screen display. Trola Text preserves the original spirit whilst modifying letterforms for extended reading."
+  },
+  {
+    "name": "Sanscise",
+    "foundry": "Tipografies",
+    "url": "https://tipografies.com/fonts/sanscise",
+    "designer": "Jordi Embodas, Mucho",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Tipografies describe Sanscise as a humanist sans serif with classical roots; its narrow proportions and flared stroke endings inspired by stone-carved letters place it firmly in the humanist sans tradition.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sanscise"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "narrow",
+      "flared",
+      "legal",
+      "corporate",
+      "readable",
+      "compact"
+    ],
+    "summary": "A narrow humanist sans with stone-carved flared terminals, originally commissioned as a bespoke typeface for a European business law firm.",
+    "description": "Designed by Jordi Embodas in collaboration with creative agency Mucho, Sanscise balances contemporary proportions with classical detailing in the form of flared stroke endings drawn from letterforms carved in stone. The narrow set width lets more text sit on a line without sacrificing legibility, and open apertures keep it readable at small sizes. The family runs to four styles: Regular, Italic, Bold and Bold Italic, with full OpenType feature support including oldstyle figures, ligatures and alternates.",
+    "foundry_blurb": "Tipografies describe Sanscise as a compact humanist sans serif initially commissioned by agency Mucho as a bespoke typeface for a leading 100-year-old European business law firm. Its narrow proportions allow more words per line while open letterforms maintain readability at small sizes; flared stroke endings inspired by stone-carved letters give the characters a firm footing without functioning as true serifs, becoming particularly prominent when set large."
+  },
+  {
+    "name": "Pona",
+    "foundry": "Tipografies",
+    "url": "https://tipografies.com/fonts/pona",
+    "designer": "Jordi Embodas",
+    "year": 2010,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Pona draws on a lineage including Times, Baskerville, Garamond and Plantin, placing it firmly in the transitional serif tradition with moderate contrast and a generous x-height suited to text setting.",
+    "weights": [
+      "Light",
+      "Book",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Display"
+    ],
+    "subfamilies": [
+      "Pona",
+      "Pona Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "transitional",
+      "editorial",
+      "multilingual",
+      "small-caps",
+      "oldstyle-figures",
+      "warm"
+    ],
+    "summary": "A text serif by Jordi Embodas drawing on Times, Baskerville, Garamond and Plantin, with a generous x-height and even grey value suited to body copy at small sizes.",
+    "description": "Designed in 2010 by Jordi Embodas, Pona is a text family of ten styles spanning Light to Bold with matching italics, complemented by a Display sibling of twelve styles drawn with increased contrast for large-size use. The standard family covers Latin Super Extended with small caps, four figure sets, ligatures and a full suite of OpenType features, making it well provisioned for multilingual editorial work. Pona Display's heightened contrast and refined curves give it a more formal elegance suited to headlines and short title runs.",
+    "foundry_blurb": "Tipografies describe Pona as a free interpretation of some of the best-known serif fonts, including Times, Georgia, Plantin, Baskerville and Garamond. Its delicate letterforms carry a generous x-height and moderate contrast, performing well at small sizes or low resolution, with an even grey value and a warm, crunchy texture. Pona Display, its sister family, is drawn for large-size use, with increased contrast and sophisticated character shapes lending a delicate elegance to titles and short bursts of text."
+  },
+  {
+    "name": "Grollera",
+    "foundry": "Tipografies",
+    "url": "https://tipografies.com/fonts/grollera",
+    "designer": "Jordi Embodas",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Grollera draws explicitly on 19th-century grotesque outer forms while pairing them with modern, squarish inner counters, placing it firmly in the grotesque sans tradition with a contemporary structural twist.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Wide",
+      "Narrow",
+      "Condensed",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Grollera Wide",
+      "Grollera Narrow",
+      "Grollera Condensed",
+      "Grollera Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "19th-century",
+      "squarish",
+      "extended-family",
+      "editorial",
+      "identity",
+      "multilingual"
+    ],
+    "summary": "A 4-family grotesque by Jordi Embodas that pairs early 19th-century outer letterform character with squarish modern counters across Wide, Narrow, Condensed and Compressed cuts.",
+    "description": "Designed by Jordi Embodas and released in 2022, Grollera consciously revives the raw energy of pre-Helvetica grotesques, whose personality was progressively smoothed away by mid-century modernism. Each of the four width families spans five uprights and five obliques, from Thin to Black, giving a total of 40 styles across the full range. The combination of historically derived outer shapes with angular inner forms produces a tension that makes it well suited to editorial and branding contexts where legibility and character need to coexist.",
+    "foundry_blurb": "Tipografies describe Grollera as an expansive sans serif that embraces contradictions: modern squarish inner shapes set against outer forms rooted in early 19th-century grotesques. They argue that those first sans serifs had a raw power and vitality that was lost in later designs like Helvetica, and that Grollera works to restore that character in a wholly new typographic language."
+  },
+  {
+    "name": "Orenga",
+    "foundry": "Tipografies",
+    "url": "https://tipografies.com/fonts/orenga",
+    "designer": "Jordi Embodas",
+    "year": 2008,
+    "category": "sans-serif",
+    "subcategory": "calligraphic sans",
+    "classification_notes": "Described explicitly as a calligraphic sans, Orenga features flared stems and subtly bulging stroke endings derived from calligraphic tradition, placing it outside a pure grotesque or humanist category and into a more hand-influenced sans genre.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Orenga"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "calligraphic",
+      "narrow",
+      "display",
+      "branding",
+      "packaging",
+      "organic",
+      "hand-crafted",
+      "mediterranean"
+    ],
+    "summary": "A narrow calligraphic sans by Jordi Embodas that blends Mediterranean character with Dutch letterform influences, suited to both display and text use.",
+    "description": "Designed in 2008 by Jordi Embodas, Orenga pairs flared stems and subtly bulging stroke endings with a narrow footprint and large x-height, making it functional at small sizes while remaining characterful at display scales. Nine styles run from Light to Black with matching italics, and the character set includes small caps, oldstyle figures, alternates and a broad Latin extended script coverage. The organic quality of the letterforms lends itself to food, environmental and children's publishing, while the structure remains disciplined enough for packaging and branding.",
+    "foundry_blurb": "Tipografies describe Orenga as a calligraphic sans that combines Mediterranean flavour with Dutch influences. Its narrow letterforms make it a space-saving design, while flared stems and subtly bulging stroke endings give it a refined appearance at display sizes. Open shapes and a large x-height ensure legibility in small sizes, and an organic, hand-made quality makes it well suited to subjects such as environment, children and cooking, though it is considered serious enough for packaging or branding work."
+  }
+]

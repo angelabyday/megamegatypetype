@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Albula Pro",
+    "foundry": "Serpentype",
+    "url": "https://www.serpentype.com/fonts/albula-pro",
+    "designer": "Silvio Meier",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as a contemporary geometric sans, combining geometric clarity with humanist warmth and optically corrected letterforms.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Albula Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "humanist",
+      "swiss",
+      "editorial",
+      "corporate",
+      "oblique",
+      "legible",
+      "multi-weight"
+    ],
+    "summary": "A geometric sans by Silvio Meier spanning nine weights with obliques, designed for legibility across editorial, branding and interface work.",
+    "description": "Designed by Silvio Meier, Albula Pro draws on Swiss geometric traditions while incorporating optically corrected letterforms to maintain open counters and even spacing at small sizes. Nine weights run from Thin to Extra Bold, each paired with an oblique, giving eighteen styles in total. Stylistic sets offer alternate forms for letters including A, N, M, V, W and Z, a double-storey lowercase a, and a simplified lowercase l.",
+    "foundry_blurb": "Serpentype describe Albula Pro as a contemporary geometric sans inspired by geometry and refined with unique form details, optically corrected for a broad professional use. They highlight its legibility at any text length, making it suitable for editorial content, headlines and branding alike."
+  },
+  {
+    "name": "Albula Narrow Pro",
+    "foundry": "Serpentype",
+    "url": "https://www.serpentype.com/fonts/albula-narrow-pro",
+    "designer": "Silvio Meier",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as a contemporary geometric sans, derived from basic geometric forms with sharp terminals and a narrow proportion optimised for compact typesetting.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Albula Narrow Pro"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "narrow",
+      "compact",
+      "editorial",
+      "data",
+      "signage",
+      "packaging",
+      "oblique"
+    ],
+    "summary": "A narrow geometric sans by Silvio Meier designed for compact typesetting across tables, data layouts and tight editorial columns.",
+    "description": "The narrow companion to Albula Pro, this family preserves the parent's geometric construction and sharp terminals while reducing width for space-constrained applications. Nine weights from Thin to Extra Bold are paired with matching obliques, and four stylistic sets offer alternate forms for characters such as A, N and the lowercase a. Suited to branding, packaging, signage and spreadsheet contexts where compactness and legibility must coexist.",
+    "foundry_blurb": "Serpentype describe Albula Narrow Pro as completing the Albula typeface family, retaining the distinctive form details, sharp endings and geometric derivation of the original while offering the compactness needed for narrow text columns, spreadsheets, branding, packaging and signage, with legibility maintained for both digital and analogue use."
+  },
+  {
+    "name": "Albula Condensed Pro",
+    "foundry": "Serpentype",
+    "url": "https://www.serpentype.com/fonts/albula-condensed-pro",
+    "designer": "Silvio Meier",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as a condensed geometric sans, derived from basic geometric forms with sharp terminals and open forms, in the tradition of geometric sans-serif design.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Albula Condensed Pro"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "geometric",
+      "sans-serif",
+      "branding",
+      "packaging",
+      "signage",
+      "legible",
+      "narrow"
+    ],
+    "summary": "A condensed geometric sans by Silvio Meier, offering nine weights with obliques for branding, packaging and signage where space is tight.",
+    "description": "Part of the broader Albula family, this condensed variant retains the original's sharp terminals and geometric construction while narrowing proportions for compact applications. Nine weights from Thin to Extra Bold each come with a matching oblique, and four stylistic sets offer alternate forms for characters including A, N, M and a double-storey lowercase a. Suited to narrow text columns, spreadsheets and display settings alike, with legibility cited as a guiding concern throughout its development.",
+    "foundry_blurb": "Serpentype describe Albula Condensed Pro as the latest member of the growing Albula family, designed by Silvio Meier. They note that the distinctive stylistic expression and unique form-details of the original Albula remain clearly present, with geometric derivation and sharp terminals intact. The narrow proportions make it well suited to branding, packaging, signage and narrow text columns, in both digital and print contexts."
+  },
+  {
+    "name": "Minora",
+    "foundry": "Serpentype",
+    "url": "https://www.serpentype.com/fonts/minora",
+    "designer": "Alex Meier",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described as a contemporary sans serif with open, plain and reduced glyph forms, pointing to a geometric or neo-grotesque approach rather than a humanist one.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Minora"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "geometric",
+      "display",
+      "branding",
+      "editorial",
+      "reduced-forms",
+      "opentype"
+    ],
+    "summary": "A three-weight contemporary sans serif with open, reduced glyph forms, developed by Alex Meier during typeface studies at ZHdK Zurich.",
+    "description": "Minora began as a student project at the Zurich University of the Arts and was refined in a shared studio after graduation. The family covers Regular, Bold and Black weights, with open counters and plain, reduced forms that the designer cites as defining attributes. OpenType features include alternate figure sets and fractions, making it practical beyond headline use despite its display billing.",
+    "foundry_blurb": "Serpentype describe Minora as a contemporary sans serif type family of three weights, with glyphs characterised by open, plain and reduced forms. Designed by Alex Meier, it originated during his CAS Typedesign studies at ZHdK in Zurich, and was developed further in collaboration with former fellow student Dominique Kerber. The family includes several OpenType features covering figure sets, fractions and more."
+  },
+  {
+    "name": "Brezel Grotesk",
+    "foundry": "Serpentype",
+    "url": "https://www.serpentype.com/fonts/brezel-grotesk",
+    "designer": "Stefanie Preis",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Explicitly inspired by 19th-century Grotesques, with organic terminal details drawn from the curves of a Bavarian pretzel. The design sits firmly in the grotesque sans tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brezel Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "19th-century",
+      "organic",
+      "editorial",
+      "text",
+      "bavarian",
+      "legible"
+    ],
+    "summary": "A grotesque sans by Stefanie Preis drawn from 19th-century models and shaped by the organic curves of a Bavarian pretzel.",
+    "description": "Designed by Stefanie Preis, Brezel Grotesk takes the structural conventions of 19th-century grotesque sans-serifs and introduces terminal details derived from the looping form of a Bavarian pretzel. The family runs across four weights from Light to Bold, each with a matching oblique, and covers an extended Latin character set. It is pitched at text settings where calm rhythm and legibility at small sizes matter, whilst retaining enough character at display sizes to hold interest.",
+    "foundry_blurb": "Serpentype describe Brezel Grotesk as a sans-serif that embodies simplicity through the charm of classic 19th-century Grotesques, infused with the regular yet organic shapes reminiscent of a Bavarian pretzel. They note its ability to marry readability at small point sizes with distinctiveness at larger formats, and offer 8 styles across 4 weights with corresponding obliques, each covering an extended Latin character set."
+  },
+  {
+    "name": "Cast",
+    "foundry": "Serpentype",
+    "url": "https://www.serpentype.com/fonts/cast",
+    "designer": "Dominique Kerber",
+    "year": 2011,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Cast is a sans-serif with open apertures, balanced proportions and a slightly technical character, placing it in the humanist sans tradition with attention to legibility at small sizes and display use alike.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cast"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended-A"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "legibility",
+      "branding",
+      "wayfinding",
+      "ui",
+      "text",
+      "extended-latin"
+    ],
+    "summary": "A twelve-weight sans-serif by Dominique Kerber, developed from a 2007 typedesign study at ZHdK Zurich and extended with true italics in 2018.",
+    "description": "Originally begun as a student project at the Zurich University of the Arts in 2007, Cast was released as a full family in 2011 with six upright weights from Light to Black, each with matching italics added in 2018. Open apertures, manually kerned spacing and 481 glyphs per style covering Latin Extended-A make it a considered choice for text, branding and wayfinding. Its design concept directly addresses the tension between small-text legibility and display performance, offering considered answers through its curve work and proportions.",
+    "foundry_blurb": "Cast is described by Serpentype as a subtle sans-serif family of twelve weights with open forms, precise curves and a modern, slightly technical character. Dominique Kerber began the project during his typedesign studies at ZHdK Zurich in 2007, releasing the completed family in March 2011 and adding true italics in June 2018. The 481 glyphs per style cover Latin Extended-A, with manual kerning throughout and OpenType features including multiple figure sets and fractions."
+  },
+  {
+    "name": "Piz Grotesk",
+    "foundry": "Serpentype",
+    "url": "https://www.serpentype.com/fonts/piz-grotesk",
+    "designer": "Silvio Meier, Nando Schmidlin",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A static grotesk drawing directly from mid-century Swiss typography, with rectangular terminals and ink-traps that place it firmly in the grotesque tradition rather than geometric or humanist.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Piz Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "swiss",
+      "inktraps",
+      "technical",
+      "grotesk",
+      "neutral",
+      "legibility",
+      "oblique"
+    ],
+    "summary": "A Swiss-inspired static grotesque by Silvio Meier and Nando Schmidlin, featuring ink-trap detailing, rectangular terminals and an extended mathematical character set aimed at technical work.",
+    "description": "Nine weights from Thin to Black, each with a matching oblique, make up this mid-century Swiss-influenced grotesque. Ink-traps at stroke junctions evoke glacial crevasses and add character at small sizes, while a generous x-height and uni-width numerals make it serviceable for reports, diagrams and dense technical documents. Stylistic sets offer alternate letterforms including a single-storey 'a', school 'y' and circled figures.",
+    "foundry_blurb": "Serpentype describe Piz Grotesk as a modern reinterpretation of mid-century Swiss typography, inspired by glaciers. Rounded curves give it a human touch, rectangular terminals keep a neutral technical tone, and deep ink-traps improve legibility while adding character. An extended mathematical character set, uni-width numerals and optimised superscript and subscript characters make it suited to complex technical work."
+  }
+]

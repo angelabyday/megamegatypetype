@@ -1,0 +1,127 @@
+[
+  {
+    "name": "1403 Vintage Mono Limited",
+    "foundry": "Slanted Hall",
+    "url": "https://slantedhall.com/fonts/1403-limited",
+    "designer": "Jeff Kellem",
+    "year": 2013,
+    "category": "mono",
+    "subcategory": "typewriter/printer revival",
+    "classification_notes": "A monospaced typeface directly reviving the character forms of the IBM 1403 mainframe line printer, placing it firmly in the mono category with a typewriter/printer revival subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "1403 Vintage Mono Limited"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "typewriter",
+      "vintage",
+      "ibm",
+      "printer-revival",
+      "retro",
+      "computing"
+    ],
+    "summary": "A monospaced revival of the IBM 1403 mainframe line printer's character set, including the original 52 characters from the A and H chains.",
+    "description": "Designed by Jeff Kellem and released in November 2013, this font reconstructs the letterforms produced by the IBM 1403 chain printer, a machine used widely in mainframe computing from the early 1960s. The Limited edition covers the original 52 characters of the A and H chains plus a basic Latin complement, with small capitals standing in for lowercase. A Pro version extends coverage to most Latin languages including Vietnamese, Cyrillic, Greek and Hebrew.",
+    "foundry_blurb": "Slanted Hall describe 1403 Vintage Mono Limited as inspired by the IBM 1403 mainframe line printer, with the idea sparked by Mark VandeWettering wondering aloud whether such a font existed. The Limited edition includes the original 52 A and H chain characters and a basic Latin set, with small caps serving as lowercase forms. The typeface was presented at TypeCon 2013 and discussed at Hackers Conference 29, and is connected to the Computer History Museum's 1401 Demo Lab exhibit featuring restored IBM 1401 mainframes and 1403 printers."
+  },
+  {
+    "name": "1403 Vintage Mono Pro",
+    "foundry": "Slanted Hall",
+    "url": "https://slantedhall.com/fonts/1403",
+    "designer": "Jeff Kellem",
+    "year": 2013,
+    "category": "mono",
+    "subcategory": "monospace",
+    "classification_notes": "Directly modelled on the IBM 1403 mainframe line printer's print chains, making it an all-caps monospaced typeface with small capitals serving as lowercase equivalents.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "1403 Vintage Mono Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Vietnamese",
+      "Cyrillic",
+      "Greek",
+      "Hebrew"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "vintage",
+      "ibm",
+      "mainframe",
+      "typewriter",
+      "retro",
+      "technical",
+      "allcaps"
+    ],
+    "summary": "A monospaced revival of the IBM 1403 mainframe line printer's typeface, expanded from 52 original print-chain characters to over 2,300 glyphs supporting 160+ languages.",
+    "description": "Designed by Jeff Kellem and sparked by a passing remark from Mark VandeWettering, this typeface faithfully reconstructs the letterforms of the IBM 1403 line printer. Small capitals stand in for lowercase, preserving the all-uppercase character of the original hardware while extending coverage to Latin (including Vietnamese), Cyrillic, Greek and Hebrew. A revised release in early 2016 brought the glyph count to over 2,300 and drew admiration from Matthew Carter at TypeCon 2013.",
+    "foundry_blurb": "Slanted Hall describe 1403 Vintage Mono Pro as an all-uppercase monospace typeface inspired by the IBM 1403 mainframe line printer, expanded from the original 52-character A and H print chains to over 2,300 glyphs covering Latin (including Vietnamese), Cyrillic, Greek and Hebrew across 160+ languages. Designed by Jeff Kellem and first released in November 2013, with a major revision in February 2016."
+  },
+  {
+    "name": "Music Notation Fonts",
+    "foundry": "Slanted Hall",
+    "url": "https://slantedhall.com/fonts/music",
+    "designer": "Jeff Kellem",
+    "year": null,
+    "category": "display",
+    "subcategory": "music notation",
+    "classification_notes": "These are specialised music notation fonts, not conventional text typefaces. The display category is the closest applicable classification given the symbolic and non-alphabetic nature of the glyphs, designed for use in scoring software rather than body text.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Collins",
+      "Pori"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Music Notation",
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "music-notation",
+      "scorewriting",
+      "shape-note",
+      "smufl",
+      "bespoke",
+      "symbolic",
+      "specialised"
+    ],
+    "summary": "A collection of music notation typefaces by Jeff Kellem, including a bespoke shape-note design for The Sacred Harp: 2025 Edition and SMuFL-to-Sibelius font engineering work.",
+    "description": "Jeff Kellem of Slanted Hall has produced music notation fonts across several projects, most notably Collins, a bespoke shape-note typeface designed for the community songbook The Sacred Harp: 2025 Edition. Developed in collaboration with Sacred Harp singers versed in music typesetting, Collins balances historical tunebook aesthetics with the demands of contemporary digital printing. Kellem has also carried out substantial font engineering work converting SMuFL-standard notation fonts for use in Sibelius, as part of the Pori suite developed alongside Philip Rothman.",
+    "foundry_blurb": "Slanted Hall describes its music notation work as spanning bespoke typeface design and technical font engineering. Collins was created for The Sacred Harp: 2025 Edition with careful attention to historical precedent and legibility in dense musical settings, while the Pori project involved converting SMuFL fonts for Sibelius compatibility, with Kellem overseeing hundreds of revisions across the full font suite."
+  }
+]

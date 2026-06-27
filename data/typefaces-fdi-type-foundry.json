@@ -1,0 +1,1009 @@
+[
+  {
+    "name": "Elfen-Fraktur",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/elfen-fraktur/",
+    "designer": "M. Beck, Ralf Herrmann",
+    "year": 2015,
+    "category": "blackletter",
+    "subcategory": "fraktur",
+    "classification_notes": "A monolinear blackletter revival of an early twentieth-century fraktur design; the two variants preserve and modernise the traditional German fraktur skeleton respectively.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Elfen-Fraktur A",
+      "Elfen-Fraktur B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "fraktur",
+      "revival",
+      "display",
+      "monolinear",
+      "fairytale",
+      "german",
+      "historical"
+    ],
+    "summary": "A 2015 revival of M. Beck's 1919 monolinear fraktur, issued in two versions to accommodate both traditional German orthography and modern multilingual use.",
+    "description": "Originally designed by M. Beck and published in 1919, this fraktur revival was extended by Ralf Herrmann into two discrete variants: Elfen-Fraktur A retains the original blackletter skeletons for traditional German typesetting, while Elfen-Fraktur B offers modernised letterforms suited to a wider range of languages and contemporary legibility expectations. Both versions include a full Latin 1 character set, and the package includes 22 decorative border elements under the name Elfen-Schmuck. Intended primarily for display work such as logos and headlines, and requires an OpenType-savvy application to access all glyphs and features.",
+    "foundry_blurb": "FDI describe Elfen-Fraktur as a monolinear blackletter typeface originally designed by M. Beck in 1919. The revival offers two extended versions with a complete Latin 1 character set: variant A follows the original blackletter skeletons for traditional German typesetting, while variant B modernises the letterforms for broader, more legible use across various languages. A free set of 22 border elements called Elfen-Schmuck is included as a bonus."
+  },
+  {
+    "name": "FDI Altmeister",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/fdi-altmeister/",
+    "designer": "Ludwig Wagner type foundry, Ralf Herrmann",
+    "year": 2021,
+    "category": "blackletter",
+    "subcategory": "textura",
+    "classification_notes": "A blackletter revival originally released as Deutschmeister in 1927, revived by Ralf Herrmann; the letterforms follow the textura tradition of German blackletter typesetting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FDI Altmeister A (traditional glyphs)",
+      "FDI Altmeister A (modernized glyphs)"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "blackletter",
+      "revival",
+      "display",
+      "german",
+      "textura",
+      "historical",
+      "open-font-license"
+    ],
+    "summary": "A free revival of the 1927 Ludwig Wagner blackletter Deutschmeister, offering both traditional and modernised glyph variants across Western, Central and Eastern European Latin.",
+    "description": "Originally issued as Deutschmeister by the Ludwig Wagner type foundry in 1927, this revival was carefully redrawn by Ralf Herrmann and funded through Kickstarter before being released under the Open Font License. The family ships in two styles toggling between traditional German blackletter conventions and modernised alternates designed to improve legibility in international contexts. Around 400 glyphs cover Western, Central and Eastern European Latin, and many characters carry OpenType alternates accessible in fully OpenType-aware applications.",
+    "foundry_blurb": "FDI describe Altmeister as a carefully crafted revival of the 1927 Deutschmeister typeface from the Ludwig Wagner foundry, released free under the Open Font License thanks to Kickstarter backers from around the world. Its roughly 400 glyphs span Western, Eastern and Central European Latin, with alternative glyphs supporting both traditional German blackletter typesetting and international use with improved legibility."
+  },
+  {
+    "name": "Canapé",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/canape/",
+    "designer": "Sebastian Nagel",
+    "year": 2013,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "FDI classify it as serif; the subtly curved, slightly modulated stroke and warm proportions place it in the transitional serif tradition, though with a humanist warmth that suits both text and display use.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Canapé"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "transitional",
+      "editorial",
+      "corporate",
+      "display",
+      "opentype-rich",
+      "swash",
+      "text"
+    ],
+    "summary": "A subtly modulated serif by Sebastian Nagel, designed from 2006 and refined over seven years before its 2013 release, with a warm and tactile character suited to both text and display settings.",
+    "description": "The design is built around a gently curved, slightly modulated stroke that gives the typeface an almost haptic quality, making it feel approachable without losing typographic rigour. Four styles cover Regular, Italic, Bold and Bold Italic, with the italics carrying an additional set of swash alternates for display use. OpenType features are unusually thorough, including ten figure sets, small capitals, discretionary ligatures, historical forms, automated fractions and a small sofa-building pictogram kit.",
+    "foundry_blurb": "FDI describe Canapé as a serif typeface by Sebastian Nagel built around subtly curved, slightly modulated lines that give it a warm, friendly and almost haptic appearance. They note the design began in 2006 and was released in 2013 after extensive revision and practical testing, and highlight the family's suitability for copy text, corporate design and display use, supported by more than 4,200 characters and a comprehensive set of OpenType features."
+  },
+  {
+    "name": "FDI Kromograph",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/kromograph/",
+    "designer": "Walter Wege, Ralf Herrmann",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "chromatic / colour font",
+    "classification_notes": "A chromatic display typeface built as layered OpenType colour fonts (SVG and COLR/CPAL), designed specifically for headlines, logos and editorial use. Its 3D and colour-shift effects place it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FDI Kromograph A",
+      "FDI Kromograph B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "colorfont",
+      "chromatic",
+      "layered",
+      "display",
+      "headline",
+      "opentype-svg",
+      "colr",
+      "3d"
+    ],
+    "summary": "A pair of OpenType colour fonts designed to accompany FDI Lettograph, offering 3D layering and contextual colour-shift effects across ten predefined palettes.",
+    "description": "Built as a companion to FDI Lettograph, FDI Kromograph comes in two distinct subfamilies: Kromograph A uses five layers to create a 3D effect, while Kromograph B uses three layers with a colour-change effect triggered by the contextual alternates feature. Each subfamily ships with ten predefined colour palettes and is available as both OpenType SVG and COLR/CPAL fonts, allowing colour overrides via CSS. Coverage is Western Latin with contextual alternates for word-initial and word-final positions.",
+    "foundry_blurb": "FDI describe Kromograph as a set of colour fonts accompanying their FDI Lettograph digitisation of Berthold Signal fonts, available in two styles: Kromograph A with a five-layer 3D effect and Kromograph B with a three-layer colour-change effect activated via contextual alternates. Both include ten predefined palettes and ship as OpenType SVG and COLR/CPAL fonts."
+  },
+  {
+    "name": "FDI Lettograph",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/lettograph/",
+    "designer": "Walter Wege, Ralf Herrmann",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A revival of Berthold's Signal fonts from the 1930s, these letterpress-derived letterforms are best categorised as display given their recommended use for logos and headlines rather than continuous text.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FDI Lettograph"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "revival",
+      "mid-century",
+      "display",
+      "geometric",
+      "letterpress",
+      "logo",
+      "1930s",
+      "variable"
+    ],
+    "summary": "A faithful digitisation of Berthold's Signal fonts from the 1930s, offered in three weights as individual OpenType files or a single variable font.",
+    "description": "Reviving all three original styles of Berthold's Signal type family, this release was digitised directly from letterpress sources by Walter Wege and Ralf Herrmann. The three weights — Light, Regular and Black — suit display applications including logos and headlines where a mid-century geometric character is wanted. Available as a free download under the FDI FFL licence, with Kickstarter backers credited in the release.",
+    "foundry_blurb": "FDI Lettograph is described by FDI Type as a faithful revival of Berthold's Signal fonts, originally released in the 1930s. All three original styles are available as individual OpenType fonts or as a single variable font, and the fonts can be downloaded for free from the community websites Typography.guru and Typografie.info."
+  },
+  {
+    "name": "FDI Farbmeister",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/farbmeister/",
+    "designer": "Ralf Herrmann",
+    "year": 2022,
+    "category": "blackletter",
+    "subcategory": "bitmap blackletter",
+    "classification_notes": "A colour font set built on blackletter letterpress sources, specifically the Deutschmeister family from 1927; the bitmap rendering and SVG/SBIX colour font format reinforce its display-only blackletter classification.",
+    "weights": [
+      "Alte Farbmeister",
+      "Neue Farbmeister 1",
+      "Neue Farbmeister 2"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Alte Farbmeister",
+      "Neue Farbmeister"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "bitmap",
+      "colorfont",
+      "letterpress",
+      "display",
+      "woodtype",
+      "textura"
+    ],
+    "summary": "A trio of SVG bitmap colour fonts by Ralf Herrmann, recreating the ink-on-paper texture of blackletter letterpress printing using the Deutschmeister typeface family as source material.",
+    "description": "Built on the Deutschmeister family, first released in 1927, the set includes three styles: Alte Farbmeister drawn from the original design, and two versions of Neue Farbmeister derived from the woodtype bold condensed cut. The colour fonts render as genuine bitmap letterpress impressions, with blue or white ink variants that can be retinted in Photoshop or any app supporting SVG and SBIX colour font formats. A bonus set of 40 high-resolution letterpress workshop PNGs accompanies the complete purchase.",
+    "foundry_blurb": "FDI describe Farbmeister as a unique set of bitmap colour fonts that lets you type with the look of original blackletter letterpress fonts, with styles drawn from the Deutschmeister family and support for SVG and Apple SBIX colour font formats. The complete set includes 40 transparent PNGs of letterpress workshop tools and materials."
+  },
+  {
+    "name": "FDI Reklameschrift",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/fdi-reklameschrift/",
+    "designer": "Otto Ludwig Naegele, Ralf Herrmann",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "display lettering",
+    "classification_notes": "A digitisation of a 1908 letterpress advertising face with hybrid characteristics, combining display roman structures with blackletter-style letterforms in one variant; classified as display due to its historical advertising origins and limited use cases.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FDI Reklameschrift A",
+      "FDI Reklameschrift B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "advertising",
+      "letterpress",
+      "historical",
+      "digitisation",
+      "1908",
+      "editorial",
+      "headlines"
+    ],
+    "summary": "A digitisation of the 1908 Ludwig & Mayer advertising face Reklameschrift Bombe, offered in two variants balancing historical fidelity against modern legibility.",
+    "description": "Originally produced at the German type foundry Ludwig & Mayer in 1908, Reklameschrift Bombe was an advertising display face mixing roman and blackletter letterforms. FDI Type's digitisation preserves that hybrid character in Version A, while Version B substitutes the blackletter-style glyphs for more legible alternatives suited to contemporary use. Both versions cover Western, Eastern and Central European Latin through extended OpenType glyph sets.",
+    "foundry_blurb": "FDI Type describe FDI Reklameschrift as a carefully crafted digitisation and extension of Reklameschrift Bombe, originally released in 1908 at Ludwig & Mayer. Version A stays as close as possible to the original design, retaining blackletter-style letterforms, while Version B replaces those letterforms to improve legibility for modern applications."
+  },
+  {
+    "name": "Mainzer Initialen",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/mainzer-initialen/",
+    "designer": "Ralf Herrmann",
+    "year": 2023,
+    "category": "blackletter",
+    "subcategory": "blackletter initials",
+    "classification_notes": "A digitisation of historical blackletter capital initials originally published in the early 20th century; no lowercase exists, placing it squarely in decorative blackletter display use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mainzer Initialen"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "initials",
+      "color-font",
+      "display",
+      "historical",
+      "german",
+      "capitals-only",
+      "opentype-svg"
+    ],
+    "summary": "A digitisation of early 20th-century blackletter initials from Ferd. Theinhardt and H. Berthold, released as modern colour fonts in OpenType SVG and COLR/CPAL formats.",
+    "description": "Originally published by Berlin type foundries Ferd. Theinhardt and H. Berthold, these 26 German blackletter capitals have been carefully redrawn by Ralf Herrmann and extended into three-colour variants. The package ships as ten OpenType SVG fonts each with its own three-colour palette, plus a COLR/CPAL webfont whose colours can be overridden via CSS, and a standard single-colour OpenType file for broader compatibility. With no lowercase, figures or diacritics, it is a specialist tool for decorative initials in German editorial and logotype work.",
+    "foundry_blurb": "FDI describe Mainzer Initialen as a carefully digitized interpretation of the historic type originally published at the beginning of the 20th century by Ferd. Theinhardt and H. Berthold in Berlin. The revival extends the design to three colours and delivers it in modern colour font formats including OpenType SVG and COLR/CPAL, with desktop and web use covered across 11 styles."
+  },
+  {
+    "name": "FDI Neumeister",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/neumeister/",
+    "designer": "Ludwig Wagner type foundry, Ralf Herrmann",
+    "year": 2021,
+    "category": "blackletter",
+    "subcategory": "blackletter revival",
+    "classification_notes": "A revival of a 1930s blackletter from the Ludwig Wagner type foundry, offering both a traditional variant and a modernised variant for improved legibility in international contexts.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FDI Neumeister A",
+      "FDI Neumeister B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "blackletter",
+      "revival",
+      "german",
+      "display",
+      "editorial",
+      "open-font-license",
+      "1930s",
+      "kickstarter"
+    ],
+    "summary": "A free revival of a 1930s Ludwig Wagner blackletter, released in two variants covering traditional German typesetting and modernised international use.",
+    "description": "Revived by Ralf Herrmann and released under the Open Font License, FDI Neumeister draws on the Deutschmeister family originally cut at the Ludwig Wagner type foundry in the 1930s. The family splits into two styles: Neumeister A preserves the traditional blackletter character, while Neumeister B offers a modernised approach with improved legibility for non-German contexts. Around 400 glyphs cover Western, Eastern and Central European Latin, with alternative glyphs accessible via OpenType-savvy applications.",
+    "foundry_blurb": "FDI describe Neumeister as a carefully crafted revival of a 1930s blackletter from the Ludwig Wagner foundry, made possible through Kickstarter backing. Released for free under the Open Font License, it offers around 400 glyphs and alternative characters to support both traditional German blackletter conventions and international typesetting with improved legibility."
+  },
+  {
+    "name": "FDI Triumph",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/fdi-triumph/",
+    "designer": "Albert Auspurg, Ralf Herrmann",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "display revival",
+    "classification_notes": "Classified as display by the foundry; a digitisation of a 1929 wood type design with pronounced decorative character suited to headlines and logos rather than text setting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FDI Triumph"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "revival",
+      "wood-type",
+      "1929",
+      "headline",
+      "editorial",
+      "historical"
+    ],
+    "summary": "A careful digitisation of Albert Auspurg's 1929 Triumph wood type, revived from the original Ludwig Wagner foundry specimen and extended to cover Western codepages.",
+    "description": "Originally released in 1929 by the Leipzig foundry Ludwig Wagner, Triumph was a forgotten wood type design brought back by Ralf Herrmann working from the original source material. The single-style revival covers Win 1252 and Mac Roman codepages, making it broadly usable for Western language display work. Best suited to logos, headlines and editorial contexts where its historic character can carry weight.",
+    "foundry_blurb": "FDI Triumph revives Albert Auspurg's Triumph typeface, originally released in 1929 by Ludwig Wagner in Leipzig. The forgotten design was carefully digitised from the original wood type font and extended to cover the Western codepages Win 1252 and Mac Roman."
+  },
+  {
+    "name": "FDI Wiking",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/fdi-wiking/",
+    "designer": "Heinz König, Ralf Herrmann",
+    "year": 2020,
+    "category": "blackletter",
+    "subcategory": "textura",
+    "classification_notes": "A blackletter revival of a 1925 design from J. D. Trennert & Sohn; the original Wiking sits firmly in the German blackletter tradition with textura characteristics suited to display and headline use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FDI Wiking"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "blackletter",
+      "revival",
+      "display",
+      "editorial",
+      "german",
+      "historical",
+      "open-font-license",
+      "kickstarter"
+    ],
+    "summary": "A free revival of Heinz König's 1925 blackletter Wiking, carefully redigitised by Ralf Herrmann with around 400 glyphs covering Western, Eastern and Central European Latin.",
+    "description": "Originally issued by J. D. Trennert & Sohn in Hamburg in 1925, Wiking was digitised directly from an original letterpress print for this release. The single style carries around 400 glyphs and includes stylistic alternates that allow both traditional German blackletter conventions and more legible international typesetting. Funded through Kickstarter and distributed under the Open Font License.",
+    "foundry_blurb": "FDI describe FDI Wiking as a carefully crafted revival of Heinz König's 1925 blackletter, digitised from a print made specifically for this project using the original letterpress font. Released for free under the Open Font License, the project was made possible through Kickstarter support from backers around the world. The font covers Western, Eastern and Central European Latin with around 400 glyphs and stylistic alternates for both traditional German blackletter typesetting and international use."
+  },
+  {
+    "name": "FDI Wunder",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/wunder/",
+    "designer": "Heinrich Laudahn, Ralf Herrmann",
+    "year": 2023,
+    "category": "blackletter",
+    "subcategory": "Kanzlei",
+    "classification_notes": "A revival of Laudahn-Kanzlei, a 1913 chancery blackletter originally released by Bauer; the Kanzlei (chancery) style is a distinct blackletter subcategory characterised by flowing, calligraphic strokes.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FDI Wunder A",
+      "FDI Wunder B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "kanzlei",
+      "revival",
+      "display",
+      "letterpress",
+      "fairytale",
+      "historical",
+      "opentype"
+    ],
+    "summary": "A careful revival of Heinrich Laudahn's 1913 Laudahn-Kanzlei chancery blackletter, issued in two versions: one faithful to the original and one with romanised letterforms for broader legibility.",
+    "description": "Based on scans of original letterpress type from Bauer's 1913 release, FDI Wunder preserves the calligraphic character of the Kanzlei style while making it usable in modern OpenType environments. Version A keeps close to the historical source for traditional German blackletter setting; Version B substitutes romanised letterforms to ease reading for audiences unfamiliar with the script. Both versions include contextual swash characters that activate automatically at word boundaries and an experimental title-case feature that introduces a dancing baseline.",
+    "foundry_blurb": "FDI Wunder is a revival of Laudahn-Kanzlei, originally designed by Heinrich Laudahn and released by Bauer in 1913. Ralf Herrmann crafted the digital version from scans of the original letterpress fonts. Version A stays close to the historical design for traditional blackletter use, while Version B employs romanised letterforms for a wider audience. Both include a full Western Latin character set, OpenType ligatures, context-sensitive swash characters and an experimental dancing-baseline title case feature."
+  },
+  {
+    "name": "Hooptie Script",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/hooptie-script/",
+    "designer": "Ralf Herrmann",
+    "year": 2011,
+    "category": "script",
+    "subcategory": "casual script",
+    "classification_notes": "A display script drawn from American car lettering tradition, with OpenType contextual alternates ensuring smooth letter connections characteristic of casual script fonts.",
+    "weights": [
+      "Regular",
+      "Oblique",
+      "Swash",
+      "Rust",
+      "Starchief"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hooptie Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "display",
+      "automotive",
+      "detroit",
+      "lettering",
+      "opentype",
+      "contextual-alternates"
+    ],
+    "summary": "A display script based on American car lettering, using OpenType contextual alternates to ensure each letter pair connects cleanly.",
+    "description": "Drawn from the car lettering tradition of Detroit's Motor City, Hooptie Script comes in five styles including Regular, Oblique, Swash, Rust and Starchief. Contextual alternates handle automatic letter-to-letter connection, and underscores can be inserted to extend connector strokes between characters. The full package includes seven bonus vector illustrations of hooptie cars, making it suited to branding and headline work with an automotive flavour.",
+    "foundry_blurb": "FDI describe Hooptie Script as one of two typefaces inspired by Detroit car lettering. Unlike other car script fonts, it makes full use of modern OpenType technology: activating contextual alternates and ligatures ensures each letter pair always connects perfectly, and additional underscores can be placed between characters to extend the tracking while connections adjust automatically."
+  },
+  {
+    "name": "Graublau Slab Pro",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/graublau-slab-pro/",
+    "designer": "Georg Seifert",
+    "year": 2012,
+    "category": "slab",
+    "subcategory": "contemporary slab serif",
+    "classification_notes": "A slab serif companion to the Graublau Sans Pro family, with a contemporary and expressive character suited to display and editorial use rather than traditional slab classifications.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Graublau Slab Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Basic Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "display",
+      "editorial",
+      "corporate",
+      "companion",
+      "berlin",
+      "contemporary"
+    ],
+    "summary": "A seven-weight slab serif companion to Graublau Sans Pro, designed by Georg Seifert for editorial headlines and corporate use.",
+    "description": "Designed by Berlin-based Georg Seifert and released in 2012, this slab serif extends the Graublau type family that began with Graublau Sans Pro in 2008. The fourteen styles span seven weights with matching italics, and OpenType features include true small caps, old-style figures in both proportional and tabular cuts, standard and discretionary ligatures, and fraction figures. Because the weight range mirrors Graublau Sans Pro exactly, the two families pair directly for mixed-setting projects in editorial, web and corporate contexts.",
+    "foundry_blurb": "FDI Type describe Graublau Slab Pro as the latest addition to the popular Graublau type family, noting that its contemporary and expressive design makes it well-suited to editorial design, web headlines and any text use intended to draw the reader's attention. They highlight that its seven weights match those of Graublau Sans Pro exactly, making both typefaces ideal companions for one another."
+  },
+  {
+    "name": "Graublau Sans Pro",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/graublau-sans-pro/",
+    "designer": "Georg Seifert",
+    "year": 2008,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The upright styles are clean and neutral in character, while the italics draw on handwriting forms, a combination typical of humanist sans design. The extensive OpenType feature set and broad weight range place it firmly in the text and corporate humanist tradition.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Display"
+    ],
+    "subfamilies": [
+      "Graublau Sans Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Basic Cyrillic",
+      "Basic Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "corporate",
+      "editorial",
+      "multilingual",
+      "opentype",
+      "text",
+      "neutral",
+      "versatile"
+    ],
+    "summary": "A humanist sans with seven text weights and three display cuts, developed over five years by Georg Seifert with over 1,000 glyphs per style.",
+    "description": "Designed by Georg Seifert and released in 2008 after five years of development, Graublau Sans Pro offers seven text weights plus three additional display weights, each with italics that depart from the neutral upright forms and draw on handwriting. The family includes true small caps, old-style and lining figures in both proportional and tabular variants, swash and titling alternates, and discretionary ligatures. Script coverage spans Latin Extended, Basic Cyrillic and Basic Greek, making it a capable choice for corporate design, annual reports and multilingual editorial work.",
+    "foundry_blurb": "FDI describe Graublau Sans Pro as a type family that suits all typographic tasks, noting that Georg Seifert spent over five years on the design. The regular styles are characterised as clean and neutral, while the italics have a vivid quality based on handwriting. With seven text weights, three display weights and over 1,000 glyphs per style, the foundry positions it as a favourite for corporate design, annual reports, logos and books."
+  },
+  {
+    "name": "Logotypia Pro",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/logotypia-pro/",
+    "designer": "Ralf Herrmann",
+    "year": 2004,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Explicitly designed for logotypes and headlines rather than text setting, with alternate glyphs, ligatures and connector glyphs that make it unsuitable for running text and firmly in the display category.",
+    "weights": [
+      "Regular",
+      "Oblique"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Logotypia Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "logo",
+      "corporate",
+      "identity",
+      "cyrillic",
+      "headline",
+      "opentype"
+    ],
+    "summary": "A two-style display face by Ralf Herrmann built specifically for logotype and headline design, with alternate glyphs and connector ligatures to aid bespoke letterform combinations.",
+    "description": "Released in 2004, Logotypia Pro is designed around one task: the construction of logotypes and headlines. It includes alternate glyphs for selected characters and ligatures formed through kerning or dedicated connector glyphs, features accessible only in fully OpenType-aware applications. Coverage spans Western Latin and the Russian ISO 8859-5 codepage, making it usable across both Latin and Cyrillic branding projects.",
+    "foundry_blurb": "FDI Type describe Logotypia Pro as a font made for one purpose only: the design of logotypes and headlines. They note that most logotypes are based on existing typefaces, which are either trendy display fonts that date quickly or text faces that lack the distinctiveness a logotype requires. Logotypia Pro is positioned as the solution, covering Western Latin and Russian Cyrillic codepages and offering alternate glyphs and connector ligatures for refined letterform combinations."
+  },
+  {
+    "name": "Krimhilde",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/krimhilde/",
+    "designer": "Albert Auspurg, Ralf Herrmann",
+    "year": 2018,
+    "category": "blackletter",
+    "subcategory": "geometric blackletter",
+    "classification_notes": "Krimhilde fuses German blackletter letterforms with geometric sans-serif influences from the 1920s New Typography movement, placing it firmly in the blackletter category with an unusual geometric hybrid character.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Krimhilde Version A",
+      "Krimhilde Version B",
+      "Krimhilde Outline",
+      "Krimhilde Shadow",
+      "Krimhilde Fill"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "geometric",
+      "new-typography",
+      "display",
+      "chromatic",
+      "revival",
+      "1930s",
+      "editorial"
+    ],
+    "summary": "A 1933 geometric blackletter revival by Albert Auspurg, reissued by FDI Type with alternate legibility variants and chromatic display styles.",
+    "description": "Originally released by Ludwig & Mayer in 1933, Krimhilde sits at the intersection of German blackletter tradition and the geometric sans-serif sensibility of New Typography. FDI Type's 2018 revival offers two versions: Version A preserves the original letterforms with a full Latin 1 character set, while Version B substitutes alternative shapes to ease reading for those unfamiliar with blackletter conventions. Optional outline, shadow and fill styles allow chromatic layering for display and editorial work.",
+    "foundry_blurb": "FDI Type describe Krimhilde as a design that mixes elements of German blackletter typefaces with geometric sans-serif forms that became popular in the 1920s under New Typography. Their revival provides original styles as Version A and a more legible alternative as Version B, alongside optional display styles including outline, shadow and fill that can be combined to create chromatic layouts."
+  },
+  {
+    "name": "Iwan Reschniev",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/iwan-reschniev/",
+    "designer": "Jan Tschichold, Sebastian Nagel",
+    "year": 2008,
+    "category": "display",
+    "subcategory": "geometric sans",
+    "classification_notes": "Rooted in Jan Tschichold's 1930 grid-based sans serif design drawn from Bauhaus geometric principles; suited to display use with its simplified, constructed letterforms rather than text setting.",
+    "weights": [
+      "Light",
+      "Semi Light",
+      "Regular",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Iwan Reschniev"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "bauhaus",
+      "geometric",
+      "display",
+      "constructivist",
+      "historical-revival",
+      "sans-serif",
+      "headlines",
+      "logos"
+    ],
+    "summary": "A digital revival of Jan Tschichold's 1930 grid-based sans serif, extended by Sebastian Nagel from a single weight to seven, with small caps and contextual alternates.",
+    "description": "Tschichold conceived this design in 1930 as a letterform simple enough for anyone to draw without typographic training, rooted in the Bauhaus geometric principles he encountered at the 1923 Weimar exhibition. Sebastian Nagel's 2008 revival expands the original single black weight into a seven-weight family spanning Light to Black, adding a full Latin 1 character set, small caps and OpenType features including contextual alternates for shorter f and long-s forms. Intended for display use in logos and headlines rather than continuous text.",
+    "foundry_blurb": "FDI describe Iwan Reschniev as a digitisation of Tschichold's 1930 sans serif published in the Börsenblatt für den Deutschen Buchhandel, a design grounded in Bauhaus ideals of geometric simplicity. Sebastian Nagel extended the original drawing to seven weights with full Latin 1 coverage, small caps, and OpenType features including stylistic alternates closer to Tschichold's original drawings."
+  },
+  {
+    "name": "Überschrift",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/uberschrift/",
+    "designer": "Friedrich Althausen",
+    "year": 2014,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "A capitals-only display typeface with highly decorative discretionary ligatures, placing it firmly in the display category; the letterforms carry serif characteristics suited to headline and logotype work.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Überschrift"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "capitals",
+      "ligatures",
+      "logotype",
+      "editorial",
+      "headline",
+      "decorative"
+    ],
+    "summary": "A capitals-only display serif by Friedrich Althausen, built around roughly 200 discretionary ligatures for headline and logotype work.",
+    "description": "Released in 2014, this single-weight typeface offers only uppercase letters but compensates with around 200 discretionary ligatures and a selection of alternate characters, giving designers considerable room to craft expressive headlines and wordmarks. The ligature set requires an OpenType-savvy application to access fully. Best suited to short-form display contexts; not intended for running text.",
+    "foundry_blurb": "FDI describe Überschrift as an elegant display font for expressive headlines and logos. It contains only capital letters but ships with approximately 200 discretionary ligatures and several alternate characters, requiring a fully OpenType-capable application to access all features."
+  },
+  {
+    "name": "Pavillon Gotisch",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/pavillon-gotisch/",
+    "designer": "Julius Nitsche, Ralf Herrmann",
+    "year": 2019,
+    "category": "blackletter",
+    "subcategory": "blackletter",
+    "classification_notes": "A digitisation of a 1916 German letterpress blackletter, classified explicitly as blackletter by the foundry, with one traditional and one romanised variant.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pavillon Gotisch A",
+      "Pavillon Gotisch B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "historical",
+      "letterpress",
+      "display",
+      "german",
+      "digitisation",
+      "opentype"
+    ],
+    "summary": "A digitisation of an 1916 Julius Klinkhardt blackletter, released in two styles: one faithful to the original, one with romanised letterforms for wider legibility.",
+    "description": "Digitised from prints made at the Pavillon-Presse printing museum in Weimar, this typeface traces back to a letterpress font issued by the Leipzig foundry Julius Klinkhardt in 1916. The A variant extends the original design to a full Latin 1 character set and preserves the historic ligatures and swash letters via OpenType features. The B variant substitutes romanised glyph shapes to improve legibility for readers unfamiliar with traditional German blackletter conventions.",
+    "foundry_blurb": "FDI Type describe Pavillon Gotisch as a digitisation of a 1916 Julius Klinkhardt letterpress font, sourced directly from prints made at the Pavillon-Presse museum in Weimar. It comes in two styles: Pavillon Gotisch A, which extends the original to a full Latin 1 character set with OpenType ligatures and swash letters, and Pavillon Gotisch B, which offers romanised glyph designs for broader legibility. The font is not available for direct licence and is exclusively accessible to supporters of the Pavillon-Presse and the Schriftkontor community."
+  },
+  {
+    "name": "Tierra Nueva",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/tierra-nueva/",
+    "designer": "Sebastian Nagel",
+    "year": 2010,
+    "category": "display",
+    "subcategory": "historical revival",
+    "classification_notes": "Derived from the engraved lettering on a 1562 map of America, the family blends display serif and script styles rooted in Renaissance cartographic engraving, making it a historical revival display family.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tierra Nueva"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "historical-revival",
+      "cartographic",
+      "renaissance",
+      "engraving",
+      "display",
+      "editorial",
+      "script",
+      "map"
+    ],
+    "summary": "A four-style family revived from the engraved lettering of a 1562 Diego Gutiérrez map of America, redrawn over six years by Sebastian Nagel.",
+    "description": "Sebastian Nagel spent six years reworking the lettering found on a 1562 cartographic map by Diego Gutiérrez and Hieronymus Cock into a fully functional digital typeface. The result is a four-member family comprising regular, bold, italic and script styles, supported by nearly 3,700 characters covering Latin Extended ranges. An extensive OpenType feature set includes small caps, multiple figure sets, contextual alternates, localized forms, stylistic sets for arrows and historic variations, and embedded vector illustrations for full-family purchasers.",
+    "foundry_blurb": "FDI describe Tierra Nueva as four fonts found on a 1562 map of America created by Spanish cartographer Diego Gutiérrez and Dutch engraver Hieronymus Cock. The family consists of regular, bold, italic and script styles with close to 3,700 characters, and is recommended for display use including logos and headlines as well as editorial design."
+  },
+  {
+    "name": "Wimaria Gotisch",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/wimaria-gotisch/",
+    "designer": "Max Bittrof, Ralf Herrmann",
+    "year": 2025,
+    "category": "blackletter",
+    "subcategory": "blackletter",
+    "classification_notes": "A digitisation of a 1930s Bauer type foundry letterpress blackletter font, classified explicitly as blackletter by the foundry and suited to display use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Wimaria Gotisch"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "display",
+      "letterpress",
+      "digitisation",
+      "historical",
+      "swash",
+      "logos",
+      "headlines"
+    ],
+    "summary": "A digitisation of a 1930s Bauer type foundry blackletter, extended with a full Western and Central European character set and optional OpenType swash capitals.",
+    "description": "Originally published in the 1930s by the Bauer type foundry, the letterpress source material has been digitised by Max Bittrof and Ralf Herrmann with coverage expanded to include Win 1252/Mac Roman and Central European characters. The single style contains 462 glyphs in total, with decorative swash capitals accessible via the OpenType swash feature. Suited to logos and headlines where period blackletter texture is required.",
+    "foundry_blurb": "FDI describe Wimaria Gotisch as a digitisation of an original letterpress font called 'Element', first published in the 1930s by the Bauer type foundry. The revival extends the character set to cover Western and Central European scripts, and includes optional decorative caps as OpenType swash glyphs, bringing the total glyph count to 462."
+  },
+  {
+    "name": "Wayfinding Sans Symbols",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/wayfinding-sans-symbols/",
+    "designer": "Andreas Wohlleben",
+    "year": 2013,
+    "category": "display",
+    "subcategory": "symbol/pictogram",
+    "classification_notes": "A purely symbolic typeface consisting of over 400 pictograms for signage use, with no conventional letterforms; categorised as display given its specialised, non-text function.",
+    "weights": [
+      "Style 1",
+      "Style 2",
+      "Style 3",
+      "Style 4"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Wayfinding Sans Symbols"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "pictograms",
+      "symbols",
+      "signage",
+      "wayfinding",
+      "opentype",
+      "airports",
+      "public-transport",
+      "unicode"
+    ],
+    "summary": "A pictogram font of over 400 symbols for wayfinding and signage, using OpenType ligatures so designers type mnemonic codes rather than hunting through glyph palettes.",
+    "description": "Designed by Andreas Wohlleben, this symbol font replaces the slow process of placing individual vector images by encoding pictograms as typed mnemonics such as #wheelchair or #parking, activated via OpenType ligatures. The 400-plus glyphs cover transport, disability, directional arrows, enclosed letters and numbers, and span Unicode's Transport & Map Symbols range. Four style variants offer rectangular or round forms in positive or negative versions, and the #fill and #ban prefixes allow background colour and prohibition overlays without leaving the type environment.",
+    "foundry_blurb": "FDI Type describe Wayfinding Sans Symbols as a tool that makes placing pictograms as easy as typing words, using built-in OpenType intelligence to ensure all symbols align perfectly to one another and to surrounding text. With over 400 glyphs across four style variants, it is suited to signage in airports, hospitals, transport hubs, malls, parks and public buildings, as well as related print and digital materials."
+  },
+  {
+    "name": "Wayfinding Sans Pro",
+    "foundry": "FDI Type Foundry",
+    "url": "https://fdi-type.de/fonts/wayfinding-sans-pro/",
+    "designer": "Ralf Herrmann, Sebastian Nagel",
+    "year": 2012,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A clean, modern sans-serif optimised for signage legibility, drawing on humanist principles of letter differentiation and open apertures rather than the neutrality of a grotesque or geometry of a geometric sans.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Extended"
+    ],
+    "subfamilies": [
+      "Wayfinding Sans Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "signage",
+      "wayfinding",
+      "legibility",
+      "humanist",
+      "transport",
+      "functional",
+      "extended"
+    ],
+    "summary": "A signage-specific sans by Ralf Herrmann, developed through field studies across dozens of countries and empirically validated against Frutiger, DIN 1451 and Johnston Underground in independent legibility testing.",
+    "description": "Designed after Herrmann drove tens of thousands of miles studying road signage typefaces internationally, Wayfinding Sans Pro was built using custom real-time simulation software that modelled distance, fog, halation and contrast conditions during the actual drawing process. An independent study at the htw Berlin found the Bold Extended style significantly more legible than Frutiger, Futura, DIN 1451 and Johnston Underground in sign-reading conditions. Twenty styles with Latin Extended, Basic Cyrillic and Basic Greek support make it viable for international signage projects, and it is in active use at El Dorado International Airport, Metro Rio and the Indonesian Railway Company.",
+    "foundry_blurb": "FDI describe Wayfinding Sans Pro as a type family designed to set a new standard for legibility in signage and wayfinding contexts. They note that Herrmann conducted extensive field studies and reviewed scientific legibility research before developing the design using custom simulation software capable of modelling difficult reading conditions in real time. An independent empirical study at htw Berlin confirmed Wayfinding Sans Pro Bold Extended as the most legible typeface tested, outperforming established signage faces. The family covers broad language support across 20 styles and is suited to road, airport, transit, civic and commercial wayfinding applications worldwide."
+  }
+]

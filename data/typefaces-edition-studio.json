@@ -1,0 +1,213 @@
+[
+  {
+    "name": "Syndicat Grotesk",
+    "foundry": "Edition Studio",
+    "url": "https://edition.studio/type-foundry/syndicat-grotesk",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The name and visual presentation point to a grotesque sans-serif tradition, with a broad weight range and italic companions typical of contemporary grotesque families.",
+    "weights": [
+      "Ultra Light",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Syndicat Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "editorial",
+      "extended-weights",
+      "opentype-features",
+      "contemporary"
+    ],
+    "summary": "A sixteen-style grotesque sans from Edition Studio, spanning Ultra Light to Heavy with matching italics and an extensive OpenType feature set.",
+    "description": "Eight weights from Ultra Light to Heavy each come with a corresponding italic, giving the family solid coverage for text and display work. The OpenType feature set is thorough, including old style and tabular figures, fractions, scientific inferiors, ordinals, and multiple stylistic sets. The specimen leans on conceptual writing as demonstration text, suggesting an audience comfortable with art and culture contexts.",
+    "foundry_blurb": "Edition Studio present Syndicat Grotesk as a 16-style family available with trial fonts and a PDF specimen, featuring a wide range of OpenType features including alternate figures, ligatures, fractions, and multiple stylistic sets."
+  },
+  {
+    "name": "Phonk",
+    "foundry": "Edition Studio",
+    "url": "https://edition.studio/type-foundry/phonk",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Phonk presents as a grotesque sans-serif with a broad width range spanning condensed, standard and wide cuts, suggesting industrial grotesque influences common to editorial and display-focused type families.",
+    "weights": [
+      "ExtraThin",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "ExtraBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Standard",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Phonk",
+      "Phonk Condensed",
+      "Phonk Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "condensed",
+      "wide",
+      "editorial",
+      "display",
+      "extended-family"
+    ],
+    "summary": "A grotesque sans in 24 styles across three widths and eight weights, from ExtraThin to ExtraBlack, suited to editorial and display work.",
+    "description": "Spanning condensed, standard and wide cuts with eight weights in each, Phonk offers considerable range for typographic systems that need to work across varied column widths and hierarchies. The family includes OpenType features such as small capitals, old-style figures, tabular figures, case-sensitive forms and discretionary ligatures. No italic is included, keeping the family firmly in the upright grotesque tradition.",
+    "foundry_blurb": "Edition Studio offer Phonk as a 24-style grotesque family available in trial fonts, with a PDF specimen and direct purchase through their type foundry."
+  },
+  {
+    "name": "Klod",
+    "foundry": "Edition Studio",
+    "url": "https://edition.studio/type-foundry/klod",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Klod presents as a text-oriented grotesque sans-serif, with a structured weight range across regular, medium and bold with matching italics, and OpenType features typical of a workhorse text family.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Klod"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "text",
+      "editorial",
+      "workhorse",
+      "sans-serif",
+      "opentype"
+    ],
+    "summary": "A six-style grotesque text family from Edition Studio, offered in three weights with matching italics and a thorough set of OpenType features.",
+    "description": "Klod runs across Regular, Medium and Bold with corresponding italics, giving it a modest but practical range for editorial and body text work. The OpenType feature set is notably complete, covering small capitals, old-style figures, tabular figures, fractions, scientific inferiors, superscripts, subscripts, ordinals and a slashed zero. The specimen leans on extended prose passages, suggesting a typeface built primarily for sustained reading rather than display use.",
+    "foundry_blurb": "Edition Studio presents Klod as a six-style family available in Regular, Medium and Bold with italics throughout. The specimen is set with extended literary and essay texts, demonstrating the typeface's performance across long-form reading, and the family ships with a comprehensive suite of OpenType features including small caps, multiple figure styles and typographic alternates."
+  },
+  {
+    "name": "Syndicat",
+    "foundry": "Edition Studio",
+    "url": "https://edition.studio/type-foundry/syndicat",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The name and foundry context suggest a grotesque or geometric sans-serif; insufficient page data to determine subcategory with certainty.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Syndicat"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "editorial",
+      "contemporary"
+    ],
+    "summary": "A typeface from Edition Studio for which no detailed information could be retrieved due to a server error.",
+    "description": "The page returned a 500 Internal Server Error, meaning no design details, weights, or supporting copy could be extracted. The entry is based on the typeface name and foundry alone. Further details should be verified directly with Edition Studio.",
+    "foundry_blurb": "No foundry copy was available due to a server error at the time of retrieval."
+  },
+  {
+    "name": "Haarlem",
+    "foundry": "Edition Studio",
+    "url": "https://edition.studio/type-foundry/haarlem",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The specimen text and OpenType features suggest a text-oriented serif with classical proportions; the name references a Dutch city with a rich typographic heritage, consistent with a transitional or Dutch-style serif design.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Haarlem"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "dutch",
+      "classical",
+      "editorial",
+      "book"
+    ],
+    "summary": "A three-weight serif from Edition Studio with matching italics, named after the Dutch city of Haarlem and suited to long-form text setting.",
+    "description": "Available in Regular, Medium and Bold with accompanying italics, Haarlem offers six styles in total and includes a thorough set of OpenType features: old-style figures, tabular figures, discretionary ligatures, fractions, superscript, ordinals and a slashed zero. The specimen is set with extended passages of text about the city of Haarlem, placing the typeface firmly in the editorial and book-setting register. Its feature set suggests careful attention to typographic detail for continuous reading.",
+    "foundry_blurb": "Edition Studio present Haarlem as a six-style serif family available in Regular, Medium and Bold with matching italics, offered with trial fonts and a PDF specimen through their type foundry."
+  }
+]

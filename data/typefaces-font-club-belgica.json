@@ -1,0 +1,270 @@
+[
+  {
+    "name": "FC CRU",
+    "foundry": "Font Club Belgica",
+    "url": "https://fontclubbelgica.com/typefaces/cru/",
+    "designer": "Dries Wiewauters",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "condensed gothic",
+    "classification_notes": "A display typeface drawing directly from 19th-century American woodtype traditions, specifically condensed gothic forms, updated with geometric precision and smooth digital-ready curves.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "FC CRU"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "woodtype",
+      "condensed",
+      "geometric",
+      "gothic",
+      "branding",
+      "editorial",
+      "bold"
+    ],
+    "summary": "A condensed gothic display typeface by Dries Wiewauters that bridges 19th-century American woodtype with contemporary geometric refinement.",
+    "description": "Drawing lineage from William Leavenworth's early American woodtype and fonts such as Poplar, FC CRU replaces the rough energy of historical wood letterforms with smooth circular counters and flat terminals. The result sits between period authenticity and digital utility, making it workable across editorial and branding contexts without feeling purely historicist. Released in 2023 under Font Club Belgica, it supports Latin, Cyrillic and Greek scripts.",
+    "foundry_blurb": "Font Club Belgica describe FC CRU as a typeface that blends woodtype history with modern geometric design, rooted in the bold aesthetic of 19th-century American woodtype, particularly as interpreted through fonts like Poplar. Designer Dries Wiewauters has refined those qualities into smooth, controlled shapes with circular counters and flat terminals, creating a display face suited to both digital and print, editorial and branding use."
+  },
+  {
+    "name": "FC Filter",
+    "foundry": "Font Club Belgica",
+    "url": "https://fontclubbelgica.com/typefaces/filter/",
+    "designer": null,
+    "year": 2025,
+    "category": "display",
+    "subcategory": "variable display",
+    "classification_notes": "A skeleton-based variable display typeface with extreme axis ranges across weight, width, slant and stroke manipulation, placing it firmly in the experimental display category rather than any conventional text classification.",
+    "weights": [
+      "Thin",
+      "Regular",
+      "Black",
+      "Mega-Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Extremely Compressed",
+      "Compressed",
+      "Regular",
+      "Extended",
+      "Extremely Extended"
+    ],
+    "subfamilies": [
+      "FC Filter"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "display",
+      "experimental",
+      "geometric",
+      "compressed",
+      "extended",
+      "skeleton",
+      "graphical"
+    ],
+    "summary": "A variable display typeface built on a skeletal structure with extreme axes spanning weight, width, slant and stroke treatment.",
+    "description": "Built from a skeleton framework, this variable font pushes across five axes: weight from thin through to mega-black, width from extremely compressed to extremely extended, a slant axis running from back-slant to forward-slant, a stroke-shift axis for graphical displacement effects, and stroke endings moving from flat through square to rounded. The combination of these axes produces a wide range of expressive graphic outcomes from a single file. Aimed squarely at experimental typographic and motion design contexts.",
+    "foundry_blurb": "Font Club Belgica describe Filter as a skeleton-based font collection dropped into a magical melting pot of sliders, moving from fine to mega-black, back-slant to ultra-wide, with curves dancing while line thickness is maintained. The variable font covers five transformation axes: weight, width, slant, stroke shift and stroke endings."
+  },
+  {
+    "name": "FC Crimp",
+    "foundry": "Font Club Belgica",
+    "url": "https://fontclubbelgica.com/typefaces/crimp/",
+    "designer": null,
+    "year": 2025,
+    "category": "mono",
+    "subcategory": "monospaced grotesque",
+    "classification_notes": "Crimp is explicitly monospaced in concept, with all glyphs occupying a fixed width or proportional multiples thereof (50%, 150%); its angled stubbed terminals and technical origins place it firmly in the monospaced grotesque tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "121 X Condensed"
+    ],
+    "subfamilies": [
+      "FC Crimp"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "technical",
+      "mechanical",
+      "engineering",
+      "condensed",
+      "revival",
+      "typewriter",
+      "fixed-width"
+    ],
+    "summary": "A monospaced revival inspired by W.A. Dwiggins' variable-width typewriter concept, introducing half-width and one-and-a-half-width glyphs alongside angled stubbed terminals for a mechanical, technical character.",
+    "description": "Rather than applying uniform spacing to every glyph, FC Crimp revives a mid-century idea attributed to W.A. Dwiggins: assigning narrow glyphs like 'i' and 'l' a 50% width and wide ones like 'M' and 'w' a 150% width within an otherwise fixed-pitch system. Angled, stubbed terminals give the typeface a distinctly industrial quality that sits between a typewriter face and a technical drafting font. The family targets engineering, aerospace, gaming and outdoor branding applications, and includes Latin, Greek and Cyrillic script coverage.",
+    "foundry_blurb": "Font Club Belgica describe FC Crimp as a modern revival of an overlooked idea from type history, drawing on W.A. Dwiggins' concept of variable-width characters designed to improve fixed-width typewriters. They note that Crimp's half-width and one-and-a-half-width glyphs refine spacing beyond what Courier and OCR-A could offer, while its angled stubbed terminals add mechanical flair. The foundry position it for engineering, aerospace, gaming and outdoor branding."
+  },
+  {
+    "name": "FC Lead",
+    "foundry": "Font Club Belgica",
+    "url": "https://fontclubbelgica.com/typefaces/lead/",
+    "designer": "Frederik Berlaen",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "display geometric",
+    "classification_notes": "FC Lead is a display typeface built on an explicit conceptual constraint: every counter and whitespace is rendered as a convex, undivided shape, directly translating the structural logic of leaded stained glass into letterforms. The resulting unconventional glyphs resist standard serif or sans classification.",
+    "weights": [
+      "Color"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FC Lead Color",
+      "FC Lead Sans Color"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "conceptual",
+      "geometric",
+      "stained-glass",
+      "color-font",
+      "experimental",
+      "convex",
+      "gothic"
+    ],
+    "summary": "A display typeface by Frederik Berlaen that translates the structural logic of leaded stained glass directly into letterform construction, treating every counter as a convex, undivided shape.",
+    "description": "Each letterform in FC Lead is built around the physical constraints of merging glass pieces with lead came: counters and white spaces are rendered as whole, convex forms without unnecessary cuts, producing glyphs that feel architectural rather than calligraphic. The family ships as a colour font in two variants, FC Lead Color and FC Lead Sans Color, and covers a broad range of Latin-script languages. The result is a rigorously concept-driven display face with a clear material source and a genuinely uncommon visual logic.",
+    "foundry_blurb": "Font Club Belgica describe FC Lead as a typeface where light, glass and lead inform every decision. Letters are built from convex shapes and whole, undivided whitespaces, converting the limitations of cutting and joining glass into a unified drawing. Counterforms are created by light rather than by cuts, yielding what they call unconventional letters."
+  },
+  {
+    "name": "FC MAD Sans",
+    "foundry": "Font Club Belgica",
+    "url": "https://fontclubbelgica.com/typefaces/mad-sans/",
+    "designer": "Dries Wiewauters",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "technical sans",
+    "classification_notes": "Derived from AutoCAD plotter typefaces and constructed on a strict 45 UPM grid, MAD Sans occupies a niche between geometric sans and technical lettering, with its skeleton forms and grid-obedient construction setting it apart from conventional grotesques.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black",
+      "Light Fill",
+      "Regular Fill",
+      "Bold Fill",
+      "Black Fill"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "FC MAD Sans",
+      "FC MAD Sans Fill"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "technical",
+      "cad",
+      "grid-based",
+      "geometric",
+      "engineering",
+      "workhorse",
+      "plotter",
+      "fill"
+    ],
+    "summary": "A sans-serif family rooted in AutoCAD plotter typefaces, built on a strict 45 UPM grid by Dries Wiewauters.",
+    "description": "Designed by Dries Wiewauters after encountering CAD drawings at Werkplaats Typografie, MAD Sans takes its skeleton forms directly from found AutoCAD material and expands them through Light, Regular, Bold and Black weights with matching italics. A parallel Fill variant adds a second layer to the family, and both versions are available in Standard and Professional OpenType editions. The grid-constrained construction gives it a technical rigidity that reads equally well at small text sizes and large display settings.",
+    "foundry_blurb": "Font Club Belgica describe MAD Sans as the blue-collar workhorse of the MAD family, built from AutoCAD skeleton forms and expanded across four weights with italics and a filled variant. MAD stands for Machine Aided Design, a direct nod to CAD systems, and the typeface is framed as a tribute to the historical plotter typefaces whose final form was always determined by the resolution of the output device."
+  },
+  {
+    "name": "MAD Serif",
+    "foundry": "Font Club Belgica",
+    "url": "https://fontclubbelgica.com/typefaces/mad-serif/",
+    "designer": "Dries Wiewauters",
+    "year": 2017,
+    "category": "serif",
+    "subcategory": "geometric serif",
+    "classification_notes": "MAD Serif is constructed on a strict 45 UPM grid derived from CAD plotter typefaces, giving it a geometric rigidity unusual in serif type; its sharp, constricted connections and grid-based construction place it firmly in geometric serif territory.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black",
+      "Light Fill",
+      "Regular Fill",
+      "Bold Fill",
+      "Black Fill"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "MAD Serif",
+      "MAD Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grid-based",
+      "cad-inspired",
+      "technical",
+      "editorial",
+      "display",
+      "constructed",
+      "serif"
+    ],
+    "summary": "A serif typeface by Dries Wiewauters constructed on a 45 UPM grid, drawing its formal logic from the plotter typefaces used in early CAD systems.",
+    "description": "MAD is an acronym for Machine Aided Design, and the typeface's letterforms are built on the same grid-based constraints that governed plotter output in early computer-aided drafting. MAD Serif pairs the family's characteristic harshness with sharper, more delicate terminals, making it serviceable across headline and body copy sizes. Four weights from Light to Black are offered with italics, and a filled variant doubles the range; STD and PRO licensing tiers separate the core character set from OpenType features and stylistic alternates.",
+    "foundry_blurb": "Font Club Belgica describe MAD Serif as the more elegant counterpart to MAD Sans, sharing its grid-based rigour but refining the forms into something more graceful and sharp at the terminals. The family was born from Dries Wiewauters' interest in the typography produced by CAD plotters at Werkplaats Typografie, where every character was drawn as a series of lines rather than closed outlines, with final form dictated by the resolution of the output device. MAD is a tribute to those historical and largely forgotten letterforms, reinterpreted to make the most of their grid-based nature."
+  }
+]

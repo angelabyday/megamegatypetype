@@ -1,0 +1,627 @@
+[
+  {
+    "name": "commonSans",
+    "foundry": "Not Your Type",
+    "url": "https://www.notyourtype.nl/typefaces/commonsans/",
+    "designer": "Xiaoyuan Gao",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "experimental sans",
+    "classification_notes": "Although structurally a sans-serif, commonSans is categorised as display due to its deliberately unconventional construction — inspired by ink-spreading artefacts on mass-produced goods — and its inclusion of intentionally malformed variants like badKern and Stencil.",
+    "weights": [
+      "30",
+      "40",
+      "50",
+      "58",
+      "65"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "commonSans",
+      "commonSans Condensed",
+      "commonSans Condensed badKern"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "stencil",
+      "condensed",
+      "ink-spread",
+      "eccentric",
+      "quirky",
+      "graphic"
+    ],
+    "summary": "A 14-style family by Xiaoyuan Gao that mines the visual character of ink-spread printing found on eggs, bread clips and capacitors.",
+    "description": "Designed by Rotterdam-based Xiaoyuan Gao, commonSans draws its formal logic from the bleed and spread of ink on mass-produced everyday objects. The family spans three subfamilies — a single notRegular upright, six condensed weights, and seven condensed badKern variants including stencil cuts — each leaning further into deliberate imperfection. The badKern subfamily introduces intentionally poor spacing as an aesthetic position, making the family as useful for irreverent editorial work as it is for deadpan conceptual projects.",
+    "foundry_blurb": "Not Your Type describe commonSans as a nice, soft, warm, weird, fun, good and bad typeface, whose appearance is inspired by the ink-spreading phenomenon found on mass-produced products — expiration dates, prices, capacity markings — printed on eggs, bread clips, electric capacitors and the surfaces of most things around us."
+  },
+  {
+    "name": "kitchenSet",
+    "foundry": "Not Your Type",
+    "url": "https://www.notyourtype.nl/typefaces/kitchenset/",
+    "designer": "Hongshuang Fu",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "KitchenSet is constructed from the shapes of physical kitchen utensils — forks, knives and glass rims — making it an experimental, object-based display typeface with no conventional typographic classification.",
+    "weights": [
+      "notRegular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "kitchenSet"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "handmade",
+      "playful",
+      "object-based",
+      "single-weight",
+      "whimsical"
+    ],
+    "summary": "A single-style display typeface drawn from the outlines of kitchen utensils — forks, knives and glass rims — by Beijing-based designer Hongshuang Fu.",
+    "description": "Created on a kitchen table in winter 2022 and released through Not Your Type in 2025, KitchenSet takes physical cutlery and glassware as its formal source material rather than any typographic tradition. The result is a loose, irregular letterform system that reads as genuinely handmade rather than simply distressed. Coverage is limited to basic Latin, numerals and essential punctuation, positioning it firmly as an accent or headline face for playful, craft-led projects.",
+    "foundry_blurb": "Not Your Type describe KitchenSet as a playful utensil-based typeface made with disposable forks, knives and glass rims, born on a kitchen table in winter 2022. They note it follows no rules except those of kitchen tools and the creator's heart, and invite users to come play with KitchenSet alongside Hongshuang."
+  },
+  {
+    "name": "anotherSerif",
+    "foundry": "Not Your Type",
+    "url": "https://www.notyourtype.nl/typefaces/anotherserif/",
+    "designer": "Xiaoyuan Gao",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "experimental serif",
+    "classification_notes": "Described as mostly serif but deliberately irregular, with glyph sizes that break conventional rules and a dot matrix origin; it sits within display territory due to its intentional inconsistency and decorative ornament subfamily.",
+    "weights": [
+      "notLight",
+      "notRegular",
+      "notBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "anotherSerif",
+      "anotherSerif Ornament"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "dot-matrix",
+      "irregular",
+      "display",
+      "ornamental",
+      "bitmap-derived",
+      "expressive",
+      "quirky"
+    ],
+    "summary": "A dot matrix-derived serif by Xiaoyuan Gao that embraces deliberate inconsistency, letting glyph sizes break convention in ways that paradoxically aid small-size readability.",
+    "description": "Born from dot matrix constraints that no longer need to exist, the typeface treats irregularity as a design principle rather than an error: uppercase P sits smaller than lowercase p, and each glyph operates on its own sizing logic. Three text weights span notLight to notBold, while the Ornament subfamily offers three decorative styles — Arlequin, Box and CRT — extending the family into pattern and texture work. Latin Extended coverage includes Vietnamese, and the glyph set reaches into block elements, geometric shapes and emoji-adjacent symbols.",
+    "foundry_blurb": "Not Your Type describe anotherSerif as Xiaoyuan Gao's first serif typeface — one that is mostly serif but not entirely. The design explores irregularity and inconsistency, qualities they see as underappreciated, with each glyph taking its own size and sometimes breaking all conventions. Rooted in dot matrix aesthetics, the irregularity was found to aid readability at small sizes. The challenge, they note, was finding the right rhythm within the chaos."
+  },
+  {
+    "name": "Clock",
+    "foundry": "Not Your Type",
+    "url": "https://www.notyourtype.nl/typefaces/clock/",
+    "designer": "Xiaoyuan Gao",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "Clock defies conventional classification; its quirky, intuition-driven letterforms and origin in numerals and arrows before letters place it firmly in the experimental display category rather than any established text type tradition.",
+    "weights": [
+      "oldgranny",
+      "notRegular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Clock oldgranny",
+      "Clock notRegular"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "quirky",
+      "handmade",
+      "indie",
+      "idiosyncratic",
+      "graphic"
+    ],
+    "summary": "A two-style experimental display typeface by Xiaoyuan Gao, born from a ceramic wall clock and built on intuition rather than typographic convention.",
+    "description": "Originating from a ceramic wall clock by Margarete Heymann-Loebenstein, Clock began with numerals and arrows before its letterforms followed. The older 'oldgranny' cut preserves the raw, self-taught character of Gao's first typeface, while 'notRegular' is a later revision with a more considered edge. Both styles cover an extensive Latin Extended glyph set spanning over two dozen European languages.",
+    "foundry_blurb": "Not Your Type describes Clock as a typeface that began unusually, with numbers and arrows rather than letters, inspired by a Margarete Heymann-Loebenstein ceramic wall clock. The 'oldgranny' original was later revisioned as 'notRegular', and designer Xiaoyuan Gao notes that its quirkiness comes from an early, intuition-led approach to type design, made out of a desire to simply make something she could use for typing."
+  },
+  {
+    "name": "nono",
+    "foundry": "Not Your Type",
+    "url": "https://www.notyourtype.nl/typefaces/nono/",
+    "designer": "Xiaoyuan Gao",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "dot-matrix modular",
+    "classification_notes": "Built on a dot-matrix grid with a no-descender design and multiple stylistic subfamilies including particle, RGB colour and variable shaky cuts; firmly display/experimental rather than any conventional text category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "nono",
+      "nono Particle",
+      "nono RGB",
+      "nono Shaky"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "dot-matrix",
+      "modular",
+      "experimental",
+      "colour-font",
+      "variable",
+      "no-descender",
+      "display",
+      "playful"
+    ],
+    "summary": "A dot-matrix modular family by Xiaoyuan Gao built around a deliberate no-descender design rooted in her own childhood experience of learning Latin script in China without instruction on descenders.",
+    "description": "The family spans four subfamilies across ten styles: nono core (Dot, Round, Square, Tube), nono Particle (A, B, C), nono RGB, and nono Shaky, the last of which is a multiaxial variable font controlling width, movement and size. The RGB subfamily uses OpenType contextual alternates to randomly assign one of four colours to each character as you type. The absence of descenders is a conscious design choice drawn from Gao's primary-school habit, turning an uncorrected mistake into a consistent and distinctive formal principle.",
+    "foundry_blurb": "Not Your Type describe nono as a modular, dot-matrix-based font family that explores typing with colour and features a no-descender design, with the concept rooted in designer Xiaoyuan Gao's experience learning Latin letters in China where no one taught her about descenders, making an unintentional habit into a playful design decision."
+  },
+  {
+    "name": "momo",
+    "foundry": "Not Your Type",
+    "url": "https://www.notyourtype.nl/typefaces/momo/",
+    "designer": "Xiaoyuan Gao",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "modular display",
+    "classification_notes": "Momo is a chunky, modular typeface with near-monospaced construction inspired by ASCII art and pixel grid aesthetics, placing it firmly in the display category with a modular/bitmap subcategory.",
+    "weights": [
+      "damnhot",
+      "veryhot",
+      "hot",
+      "medium",
+      "mild",
+      "led",
+      "led variable"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "momo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "ascii-art",
+      "chunky",
+      "pixel",
+      "display",
+      "quirky",
+      "variable"
+    ],
+    "summary": "A chunky, near-monospaced modular typeface by Xiaoyuan Gao, drawn from ASCII art and pixel grid conventions across seven styles including a variable LED weight.",
+    "description": "Designed by Xiaoyuan Gao and released in 2023, momo builds its letterforms from a modular grid with aspirations towards monospacing that the designer cheerfully admits it fell short of. Seven styles run from damnhot down to a variable LED weight, with the heavier cuts carrying a blocky, playful density suited to display and screen use. The glyph set is broad for a display face, covering extended Latin across more than thirty languages alongside a generous spread of symbols and pictographs.",
+    "foundry_blurb": "Not Your Type describe momo as a cute, weird, chunky and modular typeface inspired by ASCII art that wanted to be monospaced but didn't quite make it. The designer, Xiaoyuan Gao, notes with some affection that it is her worst-selling typeface but remains a personal favourite."
+  },
+  {
+    "name": "ITYT",
+    "foundry": "Not Your Type",
+    "url": "https://www.notyourtype.nl/typefaces/ityt/",
+    "designer": "Multiple collaborative workshop participants",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "experimental modular",
+    "classification_notes": "Each style is produced through collaborative workshops using modular and unconventional methods, with each glyph drawn by a different participant; the results are experimental and display-oriented rather than fitting any conventional typographic category.",
+    "weights": [
+      "29012025",
+      "28012025",
+      "18022025",
+      "24012023",
+      "23012023",
+      "abC"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "ITYT"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "experimental",
+      "modular",
+      "collaborative",
+      "workshop",
+      "display",
+      "unconventional",
+      "educational"
+    ],
+    "summary": "A growing collection of six display typefaces produced through collaborative workshops exploring modular and unconventional type design processes.",
+    "description": "Each style in the family is the product of a distinct workshop session, with individual glyphs drawn by different participants ranging from design students to art fair visitors. The modular approach and shared authorship make each style a document of collective making rather than a singular design vision. Available free for personal, educational and small commercial use under the foundry's own 'Be Nice' licence.",
+    "foundry_blurb": "Not Your Type describe ITYT (Is This Your Type) as a workshop series exploring unconventional approaches to typeface-making, with a focus on modular and collaborative type design. The format and tools shift depending on participants' technical backgrounds, and the result is typically a font file where each glyph is drawn by a different person."
+  },
+  {
+    "name": "barbecue",
+    "foundry": "Not Your Type",
+    "url": "https://www.notyourtype.nl/typefaces/barbecue/",
+    "designer": "Xiaoyuan Gao",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "A single-style display typeface built around unconventional vertical alignment shifts triggered by toggling caps lock, placing it firmly in the experimental display category rather than any conventional serif or sans tradition.",
+    "weights": [
+      "notRegular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "barbecue"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "playful",
+      "unconventional",
+      "type-system",
+      "caps-lock",
+      "single-weight",
+      "quirky"
+    ],
+    "summary": "A single-style experimental display face by Xiaoyuan Gao that makes caps lock toggling part of the design, causing letters to jump between vertical positions as a typographic gesture.",
+    "description": "Designed around what Gao calls 'typing design', the typeface treats the font file as a typewriter and the act of typing as a design decision. Shifting between caps and lowercase causes letters to jump up and down, and an extended hyphen allows users to spell out ---b-a-r-b-e-c-u-e--- style sequences. The glyphset covers Latin Extended with language support across English, German, French, Spanish and a range of other Western European scripts.",
+    "foundry_blurb": "Not Your Type describe barbecue as a typeface that explores 'typing design', treating the font file like a typewriter where the act of pressing keys becomes part of the typographic performance. Toggling caps lock makes letters jump positions, and the deliberately long hyphen invites users to create dashed letter sequences. The designer frames type design as tool-making, where every keyboard interaction, from tab to shift, is a design choice."
+  },
+  {
+    "name": "BIANZHIDAI",
+    "foundry": "Not Your Type",
+    "url": "https://www.notyourtype.nl/typefaces/bianzhidai/",
+    "designer": "Xiaoyuan Gao",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "modular display",
+    "classification_notes": "A modular typeface built from ASCII art shading characters and woven bag textures, producing highly decorative, patterned letterforms that sit firmly in the display category with no conventional typographic classification applicable.",
+    "weights": [
+      "Base",
+      "Brush",
+      "Bubble",
+      "Cloud",
+      "Cube",
+      "Messier",
+      "Messy",
+      "Pearl",
+      "Ring",
+      "Stitches",
+      "COLR Gray",
+      "COLR Grid",
+      "COLR RGB",
+      "COLR Layer back",
+      "COLR Layer front",
+      "COLR Layer highlight",
+      "COLR Layer side",
+      "noBG Base",
+      "noBG Brush",
+      "noBG Bubble",
+      "noBG Cloud",
+      "noBG Cube",
+      "noBG Messier",
+      "noBG Messy",
+      "noBG Pearl",
+      "noBG Ring",
+      "noBG Stitches"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "BIANZHIDAI",
+      "BIANZHIDAI COLR",
+      "BIANZHIDAI noBG"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "ascii-art",
+      "display",
+      "patterned",
+      "experimental",
+      "colour-font",
+      "texture",
+      "graphic"
+    ],
+    "summary": "A modular display typeface by Xiaoyuan Gao drawing on ASCII art shading characters and the woven plastic bags known in Chinese as 编织袋, available in 27 styles across three subfamilies including COLR font variants.",
+    "description": "Originally constructed in GLYPHDRAWING.CLUB and refined into a modular system, the typeface translates the texture of woven polypropylene bags and ASCII shading into letterforms across ten named style variants per main subfamily. The COLR subfamily adds colour-layer configurations including RGB, Grid and multi-layer separations for layered colour output. Co-distributed with Velvetyne Type Foundry and available under a conditional free licence for personal, educational and small commercial use.",
+    "foundry_blurb": "Not Your Type describe BIANZHIDAI as a typeface inspired by ASCII art shading characters and 编织袋, the woven plastic bags common in China, originally built in GLYPHDRAWING.CLUB and reworked into a modular system during revision. It comprises 27 styles across three subfamilies and is co-distributed with Velvetyne Type Foundry."
+  },
+  {
+    "name": "fairEnough",
+    "foundry": "Not Your Type",
+    "url": "https://www.notyourtype.nl/typefaces/fairenough/",
+    "designer": "Graphic Design Fair 2024 Participants",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "A collectively drawn typeface with a single irregular weight, the product of a workshop rather than a systematic design process, placing it firmly in experimental or display territory rather than any conventional text category.",
+    "weights": [
+      "notRegular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "fairEnough"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "experimental",
+      "collaborative",
+      "workshop",
+      "display",
+      "irregular",
+      "hand-drawn",
+      "novelty"
+    ],
+    "summary": "A single-weight display typeface drawn collectively by workshop participants at Graphic Design Fair 2024, led by Xiaoyuan Gao.",
+    "description": "Each character was chosen and drawn by a different participant during the ITYT#2 workshop at Graphic Design Fair, hosted by Nieuwe Instituut and NAI Booksellers in 2024. The result is a deliberately inconsistent Latin alphabet with one style, named notRegular, reflecting its communal and unpolished origins. Released under Not Your Type's own free-to-use licence with attribution and use restrictions.",
+    "foundry_blurb": "Not Your Type describe fairEnough as a collectively made typeface in which all characters were chosen and drawn by participants during a workshop led by Xiaoyuan Gao, forming part of the programme at Graphic Design Fair, hosted by Nieuwe Instituut and NAI Booksellers."
+  },
+  {
+    "name": "testType",
+    "foundry": "Not Your Type",
+    "url": "https://www.notyourtype.nl/typefaces/testtype/",
+    "designer": "Xiaoyuan Gao",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "A collection of seven experimental styles each drawn with a different unconventional tool or method, placing it firmly in the display/experimental category with no consistent structural classification across styles.",
+    "weights": [
+      "01",
+      "02",
+      "03",
+      "sketch",
+      "trackpad",
+      "GDC",
+      "leftHand"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "testType 01",
+      "testType 02",
+      "testType 03",
+      "testType sketch",
+      "testType trackpad",
+      "testType GDC",
+      "testType leftHand"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "experimental",
+      "handmade",
+      "tool-based",
+      "playful",
+      "process-driven",
+      "lo-fi",
+      "display"
+    ],
+    "summary": "Seven display styles by Xiaoyuan Gao, each drawn using a different unconventional tool — from a trackpad to the left hand to Glyph Drawing Club.",
+    "description": "Each style in the family is named after the instrument used to draw it, making the production method the defining concept. The result is a deliberately rough, process-driven collection where no two styles share the same texture or rhythm. Coverage is English-only with a basic Latin glyphset, suited to expressive editorial or personal projects rather than extended text.",
+    "foundry_blurb": "testType is described as a group of typefaces made in a super short amount of time or with very inefficient tools, with every style named after the tool used to draw its glyphs. It is available under a Free To Use BUT Be Nice licence, which covers personal, educational and small commercial use for entities with annual gross revenue of €100,000 or less."
+  },
+  {
+    "name": "OpenBoek",
+    "foundry": "Not Your Type",
+    "url": "https://www.notyourtype.nl/typefaces/openboek/",
+    "designer": "Xiaoyuan Gao and workshop participants",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "experimental hand-drawn",
+    "classification_notes": "Derived from unguided collective letter-drawing, the forms are irregular and expressive with no consistent structural logic, placing it firmly in display and experimental territory.",
+    "weights": [
+      "notRegular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "OpenBoek",
+      "OpenBoek COLR"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "experimental",
+      "hand-drawn",
+      "collaborative",
+      "display",
+      "expressive",
+      "workshop",
+      "colr"
+    ],
+    "summary": "A collaborative experiment in which workshop participants drew letters freely, with the results vectorised into two font files including a colour COLR variant.",
+    "description": "Born from a workshop at ClubSolo where participants drew letters without technique instruction or rules, the typeface was vectorised by Xiaoyuan Gao into two styles: notRegular and a COLR colour version. The glyph set covers basic Latin uppercase, lowercase, numerals and punctuation only, with English as the sole supported language. Released under a restricted free licence, it suits personal, educational and small commercial work where raw, unpolished energy is the point.",
+    "foundry_blurb": "Not Your Type describe OpenBoek as originating from a no-rules letter-drawing workshop at ClubSolo, where participants drew however they liked. Xiaoyuan Gao hosted the session, provided technical support and vectorised the drawings into the font files. The typeface is available in two styles, notRegular and COLR, under the studio's Free To Use BUT Be Nice licence."
+  },
+  {
+    "name": "Kiddo",
+    "foundry": "Not Your Type",
+    "url": "https://www.notyourtype.nl/typefaces/kiddo/",
+    "designer": "Xiaoyuan Gao",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "hand-drawn",
+    "classification_notes": "A marker-drawn alphabet digitised from a found image, with wonky baselines and irregular letterforms that place it firmly in the hand-drawn display category rather than any conventional script or sans classification.",
+    "weights": [
+      "notRegular",
+      "pixel"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kiddo notRegular",
+      "Kiddo pixel"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "hand-drawn",
+      "marker",
+      "casual",
+      "irregular",
+      "display",
+      "expressive",
+      "lo-fi"
+    ],
+    "summary": "A two-style display typeface digitised from a hand-drawn marker alphabet, with loose baselines and open counters that retain a distinctly handmade character.",
+    "description": "Drawn from a found image of a marker alphabet and digitised by Xiaoyuan Gao, Kiddo comes in two styles: notRegular, which preserves the original's casual irregularity, and pixel, a rougher pixelated variant. The limited glyph set covers basic Latin, numerals and punctuation, keeping the typeface focused on short-form display use. Available free under a conditional licence requiring credit and restricting use by larger commercial entities.",
+    "foundry_blurb": "Kiddo is described by Not Your Type as a cheerful, hand-drawn marker typeface digitised from a found image of a drawn alphabet, with loose rhythm, open counters and wonky baselines that keep text lively and human."
+  },
+  {
+    "name": "Mathigon",
+    "foundry": "Not Your Type",
+    "url": "https://www.notyourtype.nl/typefaces/mathigon/",
+    "designer": "Xiaoyuan Gao",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "experimental",
+    "classification_notes": "Constructed entirely from geometric shapes via an online maths education tool, the letterforms are too idiosyncratic and tool-derived to sit in any conventional category; display best captures its experimental, single-use character.",
+    "weights": [
+      "notRegular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mathigon"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "experimental",
+      "geometric",
+      "constructed",
+      "display",
+      "single-weight",
+      "tool-based",
+      "novelty"
+    ],
+    "summary": "A single-weight display face built entirely from the geometric shape tools of an online maths education platform, Polypad.",
+    "description": "Designed by Xiaoyuan Gao as a deliberate experiment in using non-type-design software for type design, every glyph is assembled from the polygon and tile tools found in Mathigon's Polypad. Coverage is limited to basic Latin letters, numerals and minimal punctuation, which the designer attributes to the laborious nature of making the tool behave. The result is angular and geometric, with a coherent internal logic that comes directly from the constraints of the source tool.",
+    "foundry_blurb": "Not Your Type describe Mathigon as the product of a small experiment in using tools not built for type design to make type, with all characters drawn inside Mathigon's Polypad, an online maths education application. The designer notes the process was both fun and time-consuming, which is why only basic Latin glyphs are available."
+  }
+]

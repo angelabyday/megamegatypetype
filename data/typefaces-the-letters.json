@@ -1,0 +1,369 @@
+[
+  {
+    "name": "Boulder Mono",
+    "foundry": "The Letters",
+    "url": "https://theletters.co/fonts/boulder-mono",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "A monospaced typeface built on a geometric system of circles and squares, deliberately inverting conventional rounded and angular form expectations to produce a distinctive, playful result.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Boulder Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "playful",
+      "coding",
+      "display",
+      "clean",
+      "structured"
+    ],
+    "summary": "A monospaced typeface built on a geometric system where circles and squares swap their conventional roles to produce an energetic, unconventional rhythm.",
+    "description": "Boulder Mono operates on a deliberate inversion of traditional sans-serif conventions: letters typically drawn with rounded forms appear as squares, while those usually angled become circular. At large sizes this contrast reads as fluid and visually arresting; at text sizes the fixed-width rhythm settles into something more familiar. The family runs across five weights from Thin to Bold, each with a matching italic, and includes OpenType features such as a schoolbook alternate 'a', case-sensitive punctuation, and proper fractions.",
+    "foundry_blurb": "The Letters describe Boulder Mono as a monospaced typeface designed around a playful geometric system with circles and squares at its core. The design applies a systemised take on traditional sans-serif conventions to produce type made of pure form with a sometimes surprising structure, where letter and word combinations are defined by the contrasting anatomy of perfect circles and hard corners appearing in unconventional relationships."
+  },
+  {
+    "name": "Kapitol",
+    "foundry": "The Letters",
+    "url": "https://theletters.co/fonts/kapitol",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Kapitol presents clean, upright letterforms with geometric construction and a wide weight range from Thin to Black, consistent with contemporary geometric sans-serif design.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kapitol"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "variable",
+      "architectural",
+      "editorial",
+      "contemporary",
+      "wide-range"
+    ],
+    "summary": "A geometric sans-serif from The Letters, offered in seven weights with matching italics and variable font support across an extended Latin character set.",
+    "description": "Seven weights from Thin to Black, each with a matching italic, give Kapitol a broad range suited to editorial, branding and typographic systems. Variable font versions accompany the static styles. The specimen draws heavily on architectural references, from the Pantheon to the Sydney Opera House, positioning the typeface alongside modernist and brutalist building traditions.",
+    "foundry_blurb": "The Letters present Kapitol as a geometric sans available in seven weights from Thin to Black, with italic counterparts for each and variable font versions included. The specimen is structured around landmark buildings spanning ancient Rome to contemporary architecture, suggesting the typeface is designed to complement architectural and cultural contexts."
+  },
+  {
+    "name": "Graph",
+    "foundry": "The Letters",
+    "url": "https://theletters.co/fonts/graph",
+    "designer": "Mark Gowing",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Graph is built entirely from perpendicular and 45-degree angles on a metric grid, with no curves and stroke contrast derived solely from angled strokes — a rigidly geometric, angular sans-serif with display and text cuts.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Display"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Graph"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "angular",
+      "grid-based",
+      "constructivist",
+      "display",
+      "editorial",
+      "poster",
+      "modernist"
+    ],
+    "summary": "A strictly angular geometric sans built entirely on perpendicular and 45-degree angles, with no curves, designed by Mark Gowing for his own poster design monograph.",
+    "description": "Originally sketched on graph paper in 1991 and revised for publication in 2017, Graph is constructed from a metric grid using only perpendicular and 45-degree angles — every stroke is straight, every curve absent. Stroke contrast emerges not from calligraphic tradition but from the compression of angled strokes bisecting the grid. The eight-style family covers three weights with italics and a dedicated display cut, applying more classical sans-serif proportions than the original sketch to keep it legible at text sizes.",
+    "foundry_blurb": "The Letters describe Graph as an exercise in restraint and control, designed by Mark Gowing after first drafting a rudimentary angular typeface on A1 graph paper in 1991. Revised 25 years later for a publication on Gowing's poster work, the family employs only perpendicular and 45-degree angles on a metric grid with no curves, deriving its stroke contrast from the geometry alone. The eight-style family spans three weights with italics and display styles."
+  },
+  {
+    "name": "Fiction",
+    "foundry": "The Letters",
+    "url": "https://theletters.co/fonts/fiction",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Fiction appears to be a contemporary grotesque sans-serif, offering a wide weight range from Hairline to Extra Bold with oblique companions, consistent with a neutral grotesque structure suited to text and display use.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fiction"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "extended-weight-range",
+      "oblique",
+      "editorial",
+      "punk",
+      "text",
+      "display"
+    ],
+    "summary": "A grotesque sans-serif spanning eight weights from Hairline to Extra Bold, each with an oblique companion, presented through punk-music specimen copy.",
+    "description": "Fiction covers an unusually broad weight range from Hairline through to Extra Bold, with sixteen styles in total once obliques are counted. The specimen leans heavily on punk rock lyrics and subculture writing, suggesting an editorial positioning aimed at music, culture and independent publishing contexts. Each weight carries a matching oblique rather than a true italic, keeping the family consistent in structure across the range.",
+    "foundry_blurb": "The Letters present Fiction as a sixteen-style grotesque family running from Hairline to Extra Bold, demonstrated through punk rock lyrics and writing on punk ideology, positioning it for culturally engaged editorial and display work."
+  },
+  {
+    "name": "Serous",
+    "foundry": "The Letters",
+    "url": "https://theletters.co/fonts/serous",
+    "designer": "Mark Gowing",
+    "year": 2015,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A systemised geometric display typeface built on modular grid rules, with no right angles and consistent curve radii. Designed explicitly for display sizes where letters interlock and form graphic patterns.",
+    "weights": [
+      "Brook",
+      "Creek",
+      "Stream",
+      "River"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Serous Brook",
+      "Serous Creek",
+      "Serous Stream",
+      "Serous River"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "modular",
+      "interlocking",
+      "layered",
+      "liquid",
+      "grid",
+      "graphic"
+    ],
+    "summary": "A modular geometric display typeface by Mark Gowing, first conceived in 2008, built on a grid system where characters interlock and layer to create fluid, rhythmic patterns.",
+    "description": "Drawn on a geometric grid with no right angles and a consistent curve radius throughout, the four styles — Brook, Creek, Stream and River — differ in stroke weight in a way that allows them to be overlaid at the same size to create outline and inline effects. Characters interlock horizontally by default and can be stacked vertically with adjusted leading, making the family as much a graphic tool as a text one. Originally explored for a radio station identity, it found release in 2015 with Ben Kiel handling font mastering.",
+    "foundry_blurb": "The Letters describe Serous as a geometric display typeface designed using a systemised set of modular rules on a geometric grid, giving it a rhythmic, uniform quality. The name draws from the Latin serõsus, meaning resembling or producing serum, reflecting the design's aim to embody the feeling of liquid. The four styles can be combined to create inline and outline effects, and characters interlock to form gridded visual interplay."
+  },
+  {
+    "name": "One & Two",
+    "foundry": "The Letters",
+    "url": "https://theletters.co/fonts/one-two",
+    "designer": "Elle Williams, Mark Gowing",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "decorative layered",
+    "classification_notes": "A twin-line display typeface designed for layering, with a rounded mono-line construction and upper-case-only character set; its primary purpose is visual effect at large sizes rather than text setting, firmly placing it in the display category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "One & Two",
+      "One & Two One",
+      "One & Two Two"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "layered",
+      "decorative",
+      "rounded",
+      "branding",
+      "headlines",
+      "uppercase-only",
+      "twin-line"
+    ],
+    "summary": "A twin-line display typeface by Elle Williams and Mark Gowing that splits into two independent single-line subfamilies, designed for layering in print and branding applications.",
+    "description": "Released in 2018, One & Two pairs two discrete mono-line sets, One and Two, that intertwine when used together to form a double-line letterform. Each subfamily carries Light, Regular and Bold weights, giving up to 24 weight combinations when layered, and the fonts support colour separation across the two lines for further compositional control. The typeface is uppercase only, built for display sizes, and includes ligatures for double-letter pairings such as AA, OO, TT and VV.",
+    "foundry_blurb": "The Letters describe One & Two as a twin-line typeface available in nine styles, comprising two independently usable single-line sets that unite to form an elegant double-line style with letterforms that slightly intertwine. Designed to convey timeless, contemporary elegance, it is suited to branding and headlines requiring detail and a sense of quality. When the single-line styles are used alone, the type deconstructs into something abstract yet legible. A smooth rounded mono-line construction with rounded counters gives the family a friendly, accessible character with a creative core."
+  },
+  {
+    "name": "Black",
+    "foundry": "The Letters",
+    "url": "https://theletters.co/fonts/black",
+    "designer": "Mark Gowing, Alexander Tanazefti",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Designed on a strict square grid with severely limited proportions and no fixed x-height, Black is a geometric display typeface built from a pure modular proposition rather than any historical serif or sans-serif tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Black"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grid-based",
+      "modular",
+      "display",
+      "experimental",
+      "single-weight",
+      "systematic"
+    ],
+    "summary": "A single-style geometric display typeface built on a strict square grid, originally designed for the Formist identity by Mark Gowing and Alexander Tanazefti.",
+    "description": "Designed on a minimal square grid, each glyph uses the fewest possible units while preserving a degree of legibility and personality. The design eschews nostalgia for pixel typography entirely, instead embracing its self-imposed constraints to produce idiosyncratic letter forms with no fixed x-height and metrics that allow glyph corners to touch. Small caps, oldstyle figures and an alternate 'o' extend its typographic range despite the single-style limitation.",
+    "foundry_blurb": "The Letters describe Black as a rigid typeface originally developed for the Formist identity, subsequently expanded to cover an extended Latin character set. Designed on a limited grid of square units, it attempts to interpret each glyph using the fewest units possible while retaining personality and legibility. Though it may resemble a pixel typeface on the surface, The Letters emphasise it was not designed from nostalgia and retains none of the conventions of that genre."
+  },
+  {
+    "name": "NON",
+    "foundry": "The Letters",
+    "url": "https://theletters.co/fonts/non",
+    "designer": "Mark Gowing",
+    "year": 2005,
+    "category": "display",
+    "subcategory": "experimental modular",
+    "classification_notes": "NON is an ongoing series of purely experimental, modular type systems built from geometric primitives — dots, lines, ellipses, squares and triangles — that prioritise rhythm and abstraction over legibility. Display is the closest category, though the series actively resists conventional typographic classification.",
+    "weights": [
+      "varies by subfamily"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "NON Bisected Squares",
+      "NON Strokes",
+      "NON Sections",
+      "NON Iterations",
+      "NON Facets",
+      "NON Squares",
+      "NON Reiteration",
+      "NON Dit-Dah",
+      "NON Reflected Lines",
+      "NON Frequency",
+      "NON Shapes",
+      "NON Volumes",
+      "NON Leaning",
+      "NON Overlapping",
+      "NON Duplex",
+      "NON Components",
+      "NON 3:3 Dots",
+      "NON Elliptical",
+      "NON Offsets",
+      "NON Fractional"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "modular",
+      "geometric",
+      "abstract",
+      "pattern",
+      "rhythm",
+      "art-practice",
+      "display"
+    ],
+    "summary": "An ongoing series of experimental modular type systems by Mark Gowing, each built from strict geometric primitives to prioritise visual frequency and rhythm over conventional legibility.",
+    "description": "Spanning twenty subfamilies released between 2005 and 2024, NON replaces conventional letterform construction with rigid systems of dots, ellipses, diagonal strokes, triangular bisections and rectangular blocks. Words and sentences typeset in NON read less as language than as patterned fields — textural, rhythmic and visually insistent. The series is Gowing's personal artistic practice rather than a commercial venture, and collaborations are considered on a project-by-project basis.",
+    "foundry_blurb": "The Letters describe NON as an ongoing series of experimental type systems designed by director Mark Gowing as part of his personal artistic practice. Each system creates abstractions in frequency, rhythm and form to explore the breadth of typographic expression. Rather than conforming to traditional typographic rigours or seeking conventionally useful outcomes, NON fonts use regular alphabets to generate rhythmic fields that feel like text but produce altogether unique results."
+  }
+]

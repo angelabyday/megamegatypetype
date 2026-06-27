@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Bal Grotesk",
+    "foundry": "Bal Foundry",
+    "url": "https://www.bal-foundry.com/typefaces/bal-grotesk-collection",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Named and styled as a grotesk, the family follows the conventions of the grotesque sans-serif genre with a full weight range and a paired monospaced subfamily.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bal Grotesk",
+      "Bal Grotesk Italic",
+      "Bal Grotesk Mono",
+      "Bal Grotesk Mono Italic",
+      "Bal Grotesk Variable",
+      "Bal Grotesk Mono Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "monospaced",
+      "variable",
+      "editorial",
+      "neutral",
+      "french"
+    ],
+    "summary": "A grotesque sans with nine weights, full italic coverage, a matching monospaced subfamily and variable font versions for both proportional and mono cuts.",
+    "description": "The collection spans nine weights from Thin to Black across proportional and monospaced versions, each with a complete italic set. Variable fonts are available for both the standard and mono cuts, giving flexible control over weight along a continuous axis. The foundry's specimen leans into a nocturnal, Parisian atmosphere, positioning the typeface as understated but purposeful.",
+    "foundry_blurb": "Bal Foundry presents Bal Grotesk as a collection comprising a proportional grotesque, a monospaced variant, and variable versions of each, covering nine weights with matching italics throughout."
+  },
+  {
+    "name": "TwoTone Collection",
+    "foundry": "Bal Foundry",
+    "url": "https://www.bal-foundry.com/typefaces/twotone-collection",
+    "designer": "Guillaume Sbalchiero",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A modular display typeface built entirely on a checkerboard grid structure, placing it firmly in the display category with a geometric, pattern-driven construction rather than any conventional type classification.",
+    "weights": [
+      "Ghost",
+      "Selecter",
+      "Beat",
+      "Madness",
+      "Jam",
+      "Checker",
+      "Specials"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TwoTone",
+      "OneTone"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "modular",
+      "checkerboard",
+      "pattern",
+      "ska",
+      "2-tone",
+      "geometric",
+      "diptych"
+    ],
+    "summary": "A checkerboard-structured display family in fourteen styles named after bands and tracks from the 2-Tone ska scene, released as a typographic diptych with its filled counterpart OneTone.",
+    "description": "Designed by Guillaume Sbalchiero and released in 2026, the family takes its structural logic from the black-and-white checkerboard of the 2-Tone Records label, founded in Coventry by Jerry Dammers of The Specials. Seven styles run across each subfamily, their names drawn from the genre's lexicon: Ghost, Selecter, Beat, Madness, Jam, Checker and Specials. TwoTone makes the rhythmic grid explicit; OneTone fills the white squares, absorbing the pattern into solid form while the underlying pulse remains.",
+    "foundry_blurb": "Bal Foundry describe TwoTone as a typographic homage to the 2-Tone musical movement born in late-1970s England, a danceable fusion of Jamaican ska with punk and mod energy. The typeface is structured around the checkerboard motif that the 2-Tone Records label turned into a symbol of sharp elegance, offbeat rhythm and racial and cultural mixing. TwoTone and OneTone together form a diptych driven by the same pulse: one side explicit, the other lingering."
+  },
+  {
+    "name": "Crows",
+    "foundry": "Bal Foundry",
+    "url": "https://www.bal-foundry.com/typefaces/crows-collection",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "stencil display",
+    "classification_notes": "Crows is a display typeface built around stencil construction with three distinct stylistic variants — Regular, Twisted, and Rotated — each available in standard and stencil cuts, placing it firmly in expressive display territory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Crows Regular",
+      "Crows Twisted",
+      "Crows Rotated",
+      "Crows Regular Stencil",
+      "Crows Twisted Stencil",
+      "Crows Rotated Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "display",
+      "gothic",
+      "post-punk",
+      "experimental",
+      "expressive",
+      "underground",
+      "darkwave"
+    ],
+    "summary": "A six-style stencil display family from Bal Foundry, each variant distorting the base letterforms through rotation or twisting to conjure the visual language of post-punk and gothic subculture.",
+    "description": "Three structural variants — Regular, Twisted and Rotated — each offered in both standard and stencil cuts, giving six styles in total. The typeface draws its aesthetic from nocturnal, underground imagery: spray-stencilled slogans, gig posters and the visual noise of late-seventies New York. Extended Latin character support makes it usable across a broad range of European languages despite its distinctly niche expressive register.",
+    "foundry_blurb": "Bal Foundry present Crows as a stencil display collection with six styles spanning Regular, Twisted and Rotated variants in both solid and stencil cuts. The specimen copy conjures a fictional gothic-rock concert at Danceteria, invoking post-punk figures and a world of crimson spotlights and live crows circling overhead, framing the typeface as the typographic equivalent of a perfectly staged black-magic show."
+  },
+  {
+    "name": "Thunder Collection",
+    "foundry": "Bal Foundry",
+    "url": "https://www.bal-foundry.com/typefaces/thunder-collection",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The family's optical size structure across Caption, Text and Display cuts, combined with its range from Book to Bold with italics, suggests a serious text serif with transitional characteristics suited to editorial publishing at multiple scales.",
+    "weights": [
+      "Regular",
+      "Book",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Caption",
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Thunder Text",
+      "Thunder Text Italic",
+      "Thunder Display",
+      "Thunder Display Italic",
+      "Thunder Caption",
+      "Thunder Caption Italic",
+      "Thunder Text Variable",
+      "Thunder Display Variable",
+      "Thunder Caption Variable",
+      "Thunder Collection Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "editorial",
+      "optical-sizes",
+      "variable",
+      "text-serif",
+      "publishing",
+      "multi-scale",
+      "transitional"
+    ],
+    "summary": "A three-optical-size serif family from Bal Foundry, spanning Caption, Text and Display cuts across five weights with matching italics and variable font support.",
+    "description": "Structured across three discrete optical sizes, the family offers 30 static styles plus variable fonts for each size, as well as a single collection-wide variable font that spans the full range. The five weights from Regular to Bold are mirrored by a full set of italics, giving editors and designers consistent rhythm at caption, body and headline scales. The naming nods to Luigi Russolo's 1913 Futurist noise taxonomy, lending it a distinct conceptual framing.",
+    "foundry_blurb": "Bal Foundry presents the Thunder Collection as a comprehensive optical-size serif system, with dedicated Text, Display and Caption subfamilies each available in static and variable font formats, alongside a unified Collection Variable that covers all three sizes in a single file."
+  },
+  {
+    "name": "Bet",
+    "foundry": "Bal Foundry",
+    "url": "https://www.bal-foundry.com/typefaces/bet",
+    "designer": "Guillaume Sbalchiero",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "wood type revival",
+    "classification_notes": "Derived from 1920s wood-type poster specimens, Bet carries the monumental weight and eccentric contours of nineteenth-century display letterforms with Art Nouveau inflections, making it squarely a display typeface.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bet"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "wood-type",
+      "revival",
+      "display",
+      "titling",
+      "eccentric",
+      "poster",
+      "art-nouveau",
+      "identity"
+    ],
+    "summary": "A single-weight display typeface revived from an undated 1920s wood-type poster specimen held at the Museum of Printing in Lyon, drawn by Guillaume Sbalchiero.",
+    "description": "Derived from three surviving documents attributed to the Jacoby & Fils printing house in Grenoble, Bet blends nineteenth-century Italian poster letterforms with Art Nouveau tendencies into a single Bold weight built for display and identity work. Its organic, monumental proportions reward mixed-case setting, a quality notably exploited in the logotype and generic pages of Revue Diorama. With over 400 glyphs, extended Latin coverage and several stylistic alternates, the font carries enough variation to reward close attention at large sizes.",
+    "foundry_blurb": "Bal Foundry describe Bet as derived from three documents preserved at the Museum of Printing in Lyon, taken from a wood-type poster specimen by the Jacoby & Fils printing house in Grenoble, most likely dating from the 1920s. They note its eccentric baroque contours blending nineteenth-century Italian and Art Nouveau influences, and highlight its suitability for identity projects and titling, as well as its distinctive silhouette when uppercase and lowercase letters are alternated — an approach used for the logotype of the first issue of Revue Diorama."
+  },
+  {
+    "name": "Schmalfette Grotesk",
+    "foundry": "Bal Foundry",
+    "url": "https://www.bal-foundry.com/typefaces/schmalfette-grotesk",
+    "designer": "Walter F. Haettenschweiler, Guillaume Sbalchiero",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "condensed grotesque",
+    "classification_notes": "A bold condensed grotesque rooted in 19th-century American wood type traditions, designed for titling and display use only, with extreme condensation and tight spacing characteristic of phototypesetting-era type.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Schmalfette Grotesk"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "display",
+      "grotesque",
+      "wood-type",
+      "revival",
+      "titling",
+      "mid-century",
+      "phototypesetting"
+    ],
+    "summary": "A revival of Walter F. Haettenschweiler's 1954 phototypesetting icon, updated by Guillaume Sbalchiero with a new lowercase and reviewed by the Museum für Gestaltung Zürich.",
+    "description": "The original Schmalfette Grotesk was drawn by Haettenschweiler in 1954, inspired by 19th-century American wood types, and became a defining face of the phototypesetting era, most visibly through Willy Fleckhaus's editorial work for the West German magazine Twen. Sbalchiero's update retains the spirit of the all-caps original while adding a complete lowercase, three punctuation sets and titling and below-cap diacritic variants. The result is suited to contemporary titling and logotype work where tight spacing and mid-century authority are the point.",
+    "foundry_blurb": "Bal Foundry describe Schmalfette Grotesk as a revival of Walter F. Haettenschweiler's 1954 design, itself strongly inspired by late 19th-century American wood types. The update draws on Willy Fleckhaus's editorial use of the face in Twen magazine and adds a complete lowercase to the original uppercase-only drawing. It was reviewed and approved by the Museum für Gestaltung Zürich and the Haettenschweiler family, and is recommended for contemporary titling and logotypes where its tight spacing and mid-century character are an asset."
+  },
+  {
+    "name": "Abys Mono",
+    "foundry": "Bal Foundry",
+    "url": "https://www.bal-foundry.com/typefaces/abys-mono-collection",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced sans",
+    "classification_notes": "A monospaced typeface with a full weight range and matching italics, designed for fixed-width use with a mechanical and technical character evoked by its specimen copy.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Abys Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "technical",
+      "mechanical",
+      "variable",
+      "coding",
+      "fixedwidth",
+      "editorial"
+    ],
+    "summary": "A monospaced family from Bal Foundry spanning seven weights with matching italics and a variable font, pitched around mechanical and computational imagery.",
+    "description": "Running from Thin to Black with a full italic counterpart at each weight, the family covers a wide tonal range rarely seen in monospaced type. A variable font is included alongside the static styles, giving flexible control over weight. The specimen copy leans into typewriter and computing history, framing the face as belonging to a lineage of inscription machines.",
+    "foundry_blurb": "Bal Foundry present Abys Mono as a fixed-width collection spanning seven weights from Thin to Black, each with a matching italic, plus a variable font. The specimen evokes mechanical writing devices, transmission systems and the full stack of computing history, positioning the typeface within a broad cultural context of inscription and encoding."
+  },
+  {
+    "name": "Players",
+    "foundry": "Bal Foundry",
+    "url": "https://www.bal-foundry.com/typefaces/players",
+    "designer": "Guillaume Sbalchiero",
+    "year": 2026,
+    "category": "blackletter",
+    "subcategory": "display blackletter",
+    "classification_notes": "Originally designed as a magazine logotype, Players draws on mid-nineteenth-century American Tuscan wood type and Gothic architecture, rendering all-caps blackletter forms with pointed terminals and heavy black mass suited strictly to display use.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Players"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "display",
+      "all-caps",
+      "tuscan",
+      "woodtype",
+      "sports",
+      "fashion",
+      "editorial"
+    ],
+    "summary": "A single-weight all-caps blackletter designed for a sports and fashion magazine, tracing its forms back to American Tuscan wood type and the graphic language of team badges and stitched patches.",
+    "description": "Drawn by Guillaume Sbalchiero, Players was built first as a logotype for the magazine of the same name, with the letter P conceived as a team-style monogram before the design principle was carried through the full alphabet. Heavy strokes and tight rhythm dominate, while carefully sized counters hold legibility within the dense block forms. Its pointed terminals sit at the intersection of nineteenth-century Tuscan display type, Gothic architecture and punk graphics, giving it a range of cultural readings within a single, uncompromising style.",
+    "foundry_blurb": "Bal Foundry describe Players as a blackletter built entirely in capitals, with bold black mass, tight rhythm and pointed terminals. The letter P was drawn first as a team monogram, referencing caps, stitched patches and jerseys, before the structural logic was extended to the rest of the alphabet. Rooted in the legacy of mid-nineteenth-century American Tuscan wood type and with echoes of Gothic architecture and punk graphics, Players offers over 600 glyphs and broad Latin Extended language support across more than 200 languages."
+  },
+  {
+    "name": "Lezen Collection",
+    "foundry": "Bal Foundry",
+    "url": "https://www.bal-foundry.com/typefaces/lezen-collection",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The Lezen Collection presents a text-oriented serif family with optical size subfamilies and metric data consistent with a transitional serif design optimised for extended reading across print and screen contexts.",
+    "weights": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11"
+    ],
+    "optical_sizes_or_widths": [
+      "Floor",
+      "City",
+      "Glow",
+      "Optical"
+    ],
+    "subfamilies": [
+      "Lezen Floor",
+      "Lezen City",
+      "Lezen Glow",
+      "Lezen Optical"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "text",
+      "reading",
+      "optical-sizes",
+      "editorial",
+      "book",
+      "scholarly",
+      "extended-latin"
+    ],
+    "summary": "A text serif collection from Bal Foundry structured around four subfamilies, each tuned to distinct optical environments from floor-level body copy to display.",
+    "description": "Four subfamilies, Floor, City, Glow and Optical, each offer eleven weight steps, giving fine-grained control over typographic colour across different media and sizes. The glyph set covers Latin Extended with a broad range of diacritics, discretionary ligatures, fractions, superscripts and alternates accessed through OpenType features. The collection is framed around the demands of complex text hierarchies such as reference guides and encyclopaedias, where economy of space and clarity of organisation are primary concerns.",
+    "foundry_blurb": "Bal Foundry position the Lezen Collection as a tool for typographers working with demanding editorial structures, citing examples such as exam preparation guides and encyclopaedias where hierarchy, colour and indentation must serve practical navigation. The collection is built around the idea that typography serves not just literary readers but anyone engaging with structured information across varied media."
+  }
+]

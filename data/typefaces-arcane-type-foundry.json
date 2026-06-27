@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Tofino",
+    "foundry": "Arcane Type Foundry",
+    "url": "https://www.arcanetype.com/fonts/tofino",
+    "designer": "Alanna Munro",
+    "year": 2015,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Tofino is explicitly described as a neo-grotesque sans serif in the Swiss International Style tradition, with slightly squared, condensed letterforms and a warmth that distinguishes it from strict Helvetica-like neutrality.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Narrow",
+      "Standard",
+      "Wide",
+      "Text"
+    ],
+    "subfamilies": [
+      "Tofino Condensed",
+      "Tofino Narrow",
+      "Tofino",
+      "Tofino Wide",
+      "Tofino Text"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese",
+      "Indigenous North American languages"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "swiss",
+      "variable",
+      "multi-width",
+      "branding",
+      "editorial",
+      "screen",
+      "helvetica-alternative"
+    ],
+    "summary": "A neo-grotesque sans from Alanna Munro spanning four widths, nine weights and a dedicated text subfamily, with three-axis variable font support.",
+    "description": "Designed by Alanna Munro and first published in 2015, Tofino draws on Swiss neo-grotesque tradition while introducing slightly squared letterforms and a looser quality the foundry attributes to its West Coast British Columbia origins. The family runs across Condensed, Narrow, Standard and Wide widths with up to Ultra weight, plus a separate Text subfamily optimised for small sizes. Two variable font files cover the full range via weight, width and italic axes, with OpenType features including small caps, oldstyle figures and fractions.",
+    "foundry_blurb": "Arcane Type Foundry describe Tofino as a versatile neo-grotesque family offering Swiss-inspired clarity with more warmth and personality than a strict Helvetica alternative. The design draws on small descriptive labelling text in an old type specimen and is shaped by the wild rainforest energy of the West Coast of BC, where the font was made. It supports 327 Latin-based languages including Vietnamese and Indigenous North American languages, and is available as two variable fonts covering weight, width and italic axes."
+  },
+  {
+    "name": "Sahlia",
+    "foundry": "Arcane Type Foundry",
+    "url": "https://www.arcanetype.com/fonts/sahlia",
+    "designer": "Alanna Munro",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "high-contrast stencil serif",
+    "classification_notes": "Sahlia is categorised as display owing to its extreme stroke contrast and stencil construction, where thin strokes dissolve entirely rather than being cut away in the conventional stencil manner, producing sharp high-contrast serifs suited to headline and editorial use rather than text setting.",
+    "weights": [
+      "Light",
+      "Regular",
+      "SmBold",
+      "Bold",
+      "ExBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sahlia"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Vietnamese",
+      "IPA Extensions"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "high-contrast",
+      "serif",
+      "editorial",
+      "packaging",
+      "lifestyle",
+      "variable",
+      "luxury"
+    ],
+    "summary": "A high-contrast stencil serif where extreme stroke contrast causes thin strokes to dissolve entirely, giving the letters a worn, almost accidental elegance across five weights.",
+    "description": "Designed by Alanna Munro and published in 2023, Sahlia takes an unconventional approach to the stencil form: rather than slicing away portions of each letter, the extreme weight contrast erases the thin strokes altogether, producing shapes that read as structured yet organic. Lighter weights carry a graceful, airy quality; heavier settings grow dramatic whilst retaining what the foundry calls a luxurious tone. Stylistic sets offer teardrop terminals, an alternate crossbar and a lambda wavy bar, extending the expressive range without disturbing the typeface's core character.",
+    "foundry_blurb": "Arcane Type Foundry describe Sahlia as a stencil typeface that defies convention, dissolving thin strokes through extreme contrast rather than cutting them away, as though worn by time and touch. They position it for editorial layouts, luxury packaging and lifestyle content, noting it pairs naturally with the visual language of candles, self-care and slow living, with teardrop terminal alternates available for a softer, warmer character."
+  },
+  {
+    "name": "Stornoway",
+    "foundry": "Arcane Type Foundry",
+    "url": "https://www.arcanetype.com/fonts/stornoway",
+    "designer": "Alanna Munro",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "high-contrast sans",
+    "classification_notes": "Stornoway is a serifless sans with dramatically high stroke contrast and flared terminals, drawing formal inspiration from Scotch Roman and Dwiggins' Caledonia while remaining strictly a sans. Its structure sits closer to a display serif tradition rephrased without serifs than to a conventional grotesque or humanist sans.",
+    "weights": [
+      "ExLight",
+      "Light",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExBold",
+      "Chonky"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Low"
+    ],
+    "subfamilies": [
+      "Stornoway",
+      "Stornoway Low"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "scotch-roman-influenced",
+      "display",
+      "elegant",
+      "variable",
+      "art-deco",
+      "packaging",
+      "editorial"
+    ],
+    "summary": "A high-contrast sans by Alanna Munro that translates the sturdy elegance of Scotch Roman into a serifless form with flared terminals, true italics and a variable axis controlling both weight and contrast.",
+    "description": "Inspired by Scotch Roman faces and Dwiggins' Caledonia, Stornoway strips away the serifs while keeping the pronounced stroke contrast, flared terminals and raised x-height that define that tradition. The family divides into two subfamilies: the standard high-contrast cuts suited to display work and the Low variants with reduced contrast for body text and packaging. Seven weights from ExLight to Chonky run across both subfamilies with matching true italics, and a variable font exposes weight and contrast axes independently, with a reverse-contrast expansion planned.",
+    "foundry_blurb": "Arcane describe Stornoway as a high-contrast sans that reimagines the charm of Scotch Roman typefaces, citing Dwiggins' Caledonia as a direct influence. The standard high-contrast styles suit display, Art Deco references and signage; the Low contrast styles handle body text and heavier packaging weights. The name comes from a town in the Outer Hebrides ancestrally connected to the designer. Designed by Alanna Munro and published in 2024, with version 1.2 released in 2026."
+  },
+  {
+    "name": "Angus Hand",
+    "foundry": "Arcane Type Foundry",
+    "url": "https://www.arcanetype.com/fonts/angus-hand",
+    "designer": "Alanna Munro",
+    "year": 2025,
+    "category": "script",
+    "subcategory": "handwriting",
+    "classification_notes": "A digitised handwriting typeface based directly on traced samples of personal correspondence, offering both a casual and a more refined calligraphic style. Fits squarely within the script/handwriting subcategory rather than formal calligraphy or brush script.",
+    "weights": [
+      "Casual",
+      "Calligraphy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Angus Hand"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "handwriting",
+      "script",
+      "personal",
+      "variable",
+      "calligraphy",
+      "authentic",
+      "warmth"
+    ],
+    "summary": "A handwriting typeface traced from 1955 love letters written by the designer's grandfather, offered in casual and calligraphic styles with a variable axis between them.",
+    "description": "Based on traced samples of handwritten letters from Victoria, Canada in 1955, the family captures the natural irregularities and warmth of genuine personal correspondence. Two static styles are offered, Casual and Calligraphy, with a variable font allowing stepless adjustment between them. OpenType features including contextual alternates and ligatures help maintain the organic feel across longer stretches of text.",
+    "foundry_blurb": "Arcane Type Foundry describe Angus Hand as a set of authentic handwriting fonts based on love letters written in Victoria, Canada in 1955, specifically the handwriting of designer Alanna Munro's grandfather R.B. Angus. The casual style was traced directly from the originals to preserve their imperfections, while the calligraphy style offers a tidier, more formal interpretation of the same hand."
+  },
+  {
+    "name": "Amberwood",
+    "foundry": "Arcane Type Foundry",
+    "url": "https://www.arcanetype.com/fonts/amberwood",
+    "designer": "Alanna Munro",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "blackletter-hybrid",
+    "classification_notes": "Amberwood blends sans-serif construction with blackletter letterform references, producing a tall, slender display typeface. Its vertical stress, dramatic cap-height, and stylistic alternates place it firmly in the display category with a blackletter-influenced character.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Amberwood"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter-hybrid",
+      "display",
+      "fantasy",
+      "packaging",
+      "variable",
+      "whimsical",
+      "headlines",
+      "logo"
+    ],
+    "summary": "A tall, slender display typeface by Alanna Munro that merges sans-serif construction with blackletter references, suited to fantasy, packaging and editorial headlines.",
+    "description": "Released in 2023 and updated to version 1.2 in 2025, Amberwood combines the upright structure of a sans-serif with blackletter-derived curves, giving letterforms an elongated, tree-like vertical rhythm. Five static weights from Extra Light to Bold are available alongside a variable font with a continuous weight axis, and the family includes ligatures and access-all-alternates features. The character set covers Latin Extended, making it practical across a range of European languages despite its decorative intent.",
+    "foundry_blurb": "Arcane Type Foundry describe Amberwood as a merging of sans-serif and blackletter letterforms, with deliberate curves and a strong baseline stance that evokes tall trees in a dense wood. They position it for fairy tale book covers, fantasy logos and food or beer packaging, noting its slender proportions make it well suited to headlines, titles and logos."
+  },
+  {
+    "name": "Kyoshi",
+    "foundry": "Arcane Type Foundry",
+    "url": "https://www.arcanetype.com/fonts/kyoshi",
+    "designer": "Alanna Munro",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "pixel / bitmap",
+    "classification_notes": "A display typeface constructed entirely from pixel-art grid structures across eight stylistic variants; its form language derives from 8-bit arcade and video game lettering rather than any conventional typographic tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kyoshi Square",
+      "Kyoshi SmSquare",
+      "Kyoshi Dot",
+      "Kyoshi SmDot",
+      "Kyoshi TwoLine",
+      "Kyoshi ThreeLine",
+      "Kyoshi Heart",
+      "Kyoshi Knit",
+      "Kyoshi Color Square",
+      "Kyoshi Color SmSquare",
+      "Kyoshi Color Dot",
+      "Kyoshi Color SmDot",
+      "Kyoshi Color TwoLine",
+      "Kyoshi Color ThreeLine",
+      "Kyoshi Color Heart",
+      "Kyoshi Color Knit"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "pixel",
+      "bitmap",
+      "retro",
+      "gaming",
+      "8-bit",
+      "color-font",
+      "arcade",
+      "decorative"
+    ],
+    "summary": "A pixel typeface in eight structural variants, each available in black-and-white and full-colour gradient editions, drawing on 8-bit arcade lettering from the late 1980s and early 1990s.",
+    "description": "Designed by Alanna Munro and released in 2023, Kyoshi offers sixteen styles in total: eight built from pixel structures ranging from squares and dots to hearts and knits, each paired with a COLRv0 colour version featuring a customisable gradient palette. The character set goes beyond basic Latin to include fractions, math symbols, arrows, emoticons and video game icons, with a discretionary ligature for the Konami Code sequence. The typeface was inspired by lettering from the 1989 game Sky Robo and the 1993 game Fire Barrel.",
+    "foundry_blurb": "Arcane Type describe Kyoshi as a font for 8-bit nostalgia enthusiasts, offering eight pixel styles that span classics like squares and dots alongside unusual variants such as hearts and knits. All styles are available in both regular and full-colour gradient versions, with a customisable palette and compatibility notes for browsers, Affinity and Adobe products."
+  },
+  {
+    "name": "Formulate",
+    "foundry": "Arcane Type Foundry",
+    "url": "https://www.arcanetype.com/fonts/formulate",
+    "designer": "Alanna Munro",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Formulate is a geometric sans with rounded, even forms and a high x-height, constructed around simplified modern letterforms. Its origins in educational and handwriting reference materials place it firmly in a friendly, geometric sans tradition.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Formulate",
+      "Formulate Layer",
+      "Formulate Decor"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "educational",
+      "layered",
+      "friendly",
+      "display",
+      "modular",
+      "decorative"
+    ],
+    "summary": "A rounded geometric sans designed by Alanna Munro with educational worksheets in mind, built around simplified modern letterforms and a high x-height.",
+    "description": "Designed after researching how children are taught to write, Formulate draws on modern typographic conventions, including even proportions and a high x-height, that the designer found largely absent from existing teaching materials. The family spans five weights and extends into layerable styles (Arrows, Inline, Inline Dots, Outline Bold, Outline Light) and precomposed Decor variants, enabling teachers and designers to build custom worksheet layouts or decorative type treatments. OpenType alternates include double-storey a and g, serifless caps and a modified l, t and q.",
+    "foundry_blurb": "Arcane Type Foundry describes Formulate as aiming to provide shining examples of modern typographic shapes for young people learning to write and read. The design was an exploration in finding the basic shape of a letter as it exists today, informed by research into handwriting instruction and neat handwriting, which the designer found often followed modern typographic conventions not reflected in existing alphabet worksheets. The layered styles allow teachers and parents to build their own customised practice sheets, though the foundry notes the typeface works equally well for any design requiring friendly, rounded forms."
+  },
+  {
+    "name": "Avona Serif",
+    "foundry": "Arcane Type Foundry",
+    "url": "https://www.arcanetype.com/fonts/avona-serif",
+    "designer": "Alanna Munro",
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Described explicitly as humanist in influence, with round, wide forms drawn from Carolingian calligraphy. The calligraphic roots and warm, expressive details place it firmly in the humanist serif tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Avona Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "calligraphic",
+      "carolingian",
+      "expressive",
+      "variable",
+      "editorial",
+      "charming"
+    ],
+    "summary": "A calligraphy-influenced humanist serif by Alanna Munro, drawing on Carolingian round forms to produce a warm, characterful text face.",
+    "description": "Designed by Alanna Munro and published in 2021, this serif takes Carolingian calligraphy as its starting point, producing wide, round letterforms with expressive details that sit outside the usual neutral text-serif conventions. Six static weights run from Light to Black, complemented by a variable font with a continuous weight axis. OpenType features include oldstyle figures, tabular numbers, fractions, superscripts and subscripts, with Latin Extended coverage suitable for a broad range of Western European and Vietnamese languages.",
+    "foundry_blurb": "Arcane Type Foundry describe Avona Serif as a face for when a serif needs to enchant rather than disappear. Beginning from the question of what a font brought magically into existence might look like, the design draws on Carolingian calligraphy for its round, wide forms, balancing strong humanist influences with a consistent rational system of shapes. The foundry call the result a work of modern spell craft."
+  }
+]

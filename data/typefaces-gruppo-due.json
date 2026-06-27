@@ -1,0 +1,283 @@
+[
+  {
+    "name": "G2 Erika",
+    "foundry": "Gruppo Due",
+    "url": "https://gruppo-due.com/typefaces/erika",
+    "designer": "Moritz Appich",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A proportional sans derived from a typewriter monospace origin, sharing geometric and technical characteristics with grotesque sans-serifs while maintaining the neutral rhythm of a proportional design.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "G2 Erika",
+      "G2 Erika Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "typewriter",
+      "monospace",
+      "grotesque",
+      "technical",
+      "editorial",
+      "proportional",
+      "mathematical"
+    ],
+    "summary": "A paired proportional and monospace sans by Moritz Appich, rooted in typewriter lettering and developed through extended use as a system font.",
+    "description": "Originally conceived as a semi-condensed monospace referencing historic typewriter lettering, G2 Erika evolved into a dual-family system comprising a proportional sans and its monospace counterpart. The two styles were developed in tandem, allowing each to influence the other, producing a family that carries the technical logic of typewriter type alongside the detail and rhythm of a proportional grotesque. The glyph set extends into mathematical operators and astronomical symbols, added in response to early use in a publication on the logical language LINCOS.",
+    "foundry_blurb": "Gruppo Due describe G2 Erika as beginning from an early sketch for a semi-condensed monospace typeface that referenced historic typewriter lettering before evolving into something new. After extended use in personal projects including the gruppo-due.com system font, the design was expanded to include a proportional version developed alongside the monospace, with each influencing the other. A wider set of mathematical symbols and astronomical signs related to interstellar communication was later added, inspired by use in a publication on Hans Freudenthal's logical language LINCOS."
+  },
+  {
+    "name": "G2 Ciao",
+    "foundry": "Gruppo Due",
+    "url": "https://gruppo-due.com/typefaces/ciao",
+    "designer": "Massimiliano Audretsch",
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "The typeface defies conventional classification; its cuts are named after vocal intonation properties rather than weights, and its letterforms are derived from disconnected outlined elements joined by hairlines, placing it firmly in the experimental display category.",
+    "weights": [
+      "Silent Silent",
+      "Silent Silent Swift",
+      "Sharp Sharp",
+      "Sharp Sharp Swift",
+      "Strong Strong",
+      "Strong Strong Swift",
+      "Silent Sharp",
+      "Silent Sharp Swift",
+      "Sharp Strong",
+      "Sharp Strong Swift",
+      "Strong Silent",
+      "Strong Silent Swift",
+      "Silent Strong",
+      "Silent Strong Swift",
+      "Strong Sharp",
+      "Strong Sharp Swift",
+      "Sharp Silent",
+      "Sharp Silent Swift"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "G2 Ciao"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "conceptual",
+      "display",
+      "intonation",
+      "modular",
+      "dwiggins",
+      "editorial",
+      "expressive"
+    ],
+    "summary": "A conceptual display typeface by Massimiliano Audretsch in which cuts are named after vocal intonation properties rather than conventional weights, derived from a historical sketch by W. A. Dwiggins.",
+    "description": "G2 Ciao grew from research into the visual representation of spoken intonation, with its name an acronym for the Italian phrase meaning 'perceiving intonation with your eyes'. Its letterforms trace back to a Dwiggins sketch likely intended as a technical draft for a typewriter head, built from precisely drawn outlines connected only by hairlines, with no repeating pattern between letters. The eighteen variants carry names such as Silent, Sharp, Strong and Swift, mapping auditory qualities onto typographic form rather than traditional weight or style distinctions.",
+    "foundry_blurb": "Gruppo Due describe G2 Ciao as emerging from type research into visual correlations between the spoken and written word, its name an acronym for 'Comprendere Istruzioni di Accentuazione vocale a Occhio nudo'. The letterforms derive from a Dwiggins sketch labelled 'Modelled letter N°1, rendering drawing', which Bruce Kennett, administrator of the Dwiggins estate, believes was a technical draft for a typewriter head rather than a font. Cuts are named after intonation properties such as Silent, Sharp, Strong and Swift, with spacing and kerning by Igino Marini."
+  },
+  {
+    "name": "G2 Airdancer",
+    "foundry": "Gruppo Due",
+    "url": "https://gruppo-due.com/typefaces/airdancer",
+    "designer": "Massimiliano Audretsch",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "geometric sans",
+    "classification_notes": "A bold, compressed display sans-serif with formalist geometry, available in edgy, semi-round and round variants across multiple widths. The page explicitly frames it as a display sans with a technological rather than revivalist intent.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Normal",
+      "Extended",
+      "Expanded",
+      "Ultra-Expanded"
+    ],
+    "subfamilies": [
+      "G2 Airdancer",
+      "G2 Airdancer Semi-Round",
+      "G2 Airdancer Round"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "variable",
+      "condensed",
+      "bold",
+      "sans-serif",
+      "expressive",
+      "wide-family"
+    ],
+    "summary": "A two-axis variable display sans with eighteen width-and-style combinations, originally designed for a 7-metre Airdancer installation at Karlsruhe University of Arts and Design.",
+    "description": "Designed by Massimiliano Audretsch in 2024, this family spans three distinct sub-families — edgy, semi-round and round — each running across six widths from Compressed to Ultra-Expanded, all interchangeable by design. The two-axis variable font allows fluid transitions between width and corner treatment, making it well suited to large-format display and identity work where structural versatility matters. Its origins in a site-specific installation give it a spatial, performative character that sets it apart from off-the-shelf compressed grotesques.",
+    "foundry_blurb": "G2 Airdancer was originally conceived for a 7-metre-tall Airdancer installation in the Lichthof of Karlsruhe University of Arts and Design. Described as a formalist approach to bold, compressed display sans-serifs, it explores the technological properties of type design rather than a revivalist narrative. The family features three distinct variants — round, semi-round and edgy — designed to be interchangeable, and is available as a two-axis variable font."
+  },
+  {
+    "name": "G2 Hyper",
+    "foundry": "Gruppo Due",
+    "url": "https://gruppo-due.com/typefaces/hyper",
+    "designer": "Massimiliano Audretsch",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "G2 Hyper is a humanist sans designed around hyperlegibility principles, with open apertures and strongly differentiated letterforms that prioritise clarity and accessibility over geometric purity.",
+    "weights": [
+      "Visible",
+      "Visible Slanted"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "G2 Hyper"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "hyperlegible",
+      "accessibility",
+      "open-source",
+      "legibility",
+      "contemporary",
+      "humanist",
+      "exhibition"
+    ],
+    "summary": "A hyperlegible sans designed for the 2026 Circulating Copies exhibition, built around principles from the Braille Institute to reduce character confusion.",
+    "description": "Created by Massimiliano Audretsch with spacing and kerning by Igino Marini, G2 Hyper draws on Braille Institute legibility guidelines to distinguish commonly confused characters such as O, 0 and Q, or I, l and i. Open apertures and carefully controlled proportions support recognition across a wide range of reading environments. Offered in two styles, Visible and Visible Slanted, it is available free under the SIL Open Font Licence.",
+    "foundry_blurb": "Gruppo Due describe G2 Hyper as emerging from the curatorial intention behind the 2026 Circulating Copies exhibition for Stiftung IMAI, designed to prioritise clarity and accessibility in contemporary reading environments. The typeface translates Braille Institute principles into a typographic language with strongly differentiated letterforms, open apertures and subtle shifts in proportion to reduce ambiguity and improve recognition."
+  },
+  {
+    "name": "G2 Kosmos",
+    "foundry": "Gruppo Due",
+    "url": "https://gruppo-due.com/typefaces/kosmos",
+    "designer": "Moritz Appich, Bruno Jacoby",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A monoline geometric sans built on a strict grid system, with deliberately smooth letterforms that depart from the grid where needed for optical flow. Its construction logic is closely related to symbol-making rather than calligraphic tradition.",
+    "weights": [
+      "Regular",
+      "Extended"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Extended"
+    ],
+    "subfamilies": [
+      "G2 Kosmos"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "monoline",
+      "grid-based",
+      "modernist",
+      "display",
+      "editorial",
+      "symbol-derived"
+    ],
+    "summary": "A monoline geometric sans built on the same grid system artist Wolfgang Schmidt used for his Lebenszeichen symbols, first drawn as a 2019 diploma project and since redrawn for wider commercial release.",
+    "description": "The letterforms follow a strict geometric grid but bend away from it where optical smoothness demands, giving the face a more fluid quality than pure constructed sans designs. It comes in two cuts, Regular and Extended, with stylistic alternates that revert to the more rigid grid-faithful forms as a nod to the original diploma design. Coverage is broad across Latin Extended, with tabular figures, fractions, ordinals and a range of currency symbols included.",
+    "foundry_blurb": "Gruppo Due describe G2 Kosmos as a modernistic monoline typeface whose simple shapes follow a geometric grid while breaking free where needed for smoother letterforms. The grid originates from Wolfgang Schmidt's Lebenszeichen sign system, developed to measure the entire cosmos of his emotions and experiences. The typeface began as a 2019 diploma project by Maxim Weirich and has since been redrawn and expanded with an extended cut and alternative characters that more strictly adhere to the original grid."
+  },
+  {
+    "name": "G2 TGR",
+    "foundry": "Gruppo Due",
+    "url": "https://gruppo-due.com/typefaces/tgr",
+    "designer": "Massimiliano Audretsch",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Gruppo Due describe it explicitly as a humanist sans serif, with characteristic narrowing stroke widths at stems and junctions and snappy, sharp endings rather than neutral grotesque uniformity.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "G2 TGR",
+      "G2 TGR Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "sans-serif",
+      "legible",
+      "text",
+      "display",
+      "mono",
+      "sharp",
+      "contemporary"
+    ],
+    "summary": "A humanist sans designed in-house at Gruppo Due from 2016, characterised by narrowing strokes at junctions to aid legibility at small sizes and assertive sharpness at display scales.",
+    "description": "Developed initially for Gruppo Due's own project work, G2 TGR was refined over several years before being offered commercially. Four weights from Light to Bold come with matching italics, and a monospaced variant mirrors the same weight range. The narrowing line width at stems and junctions is a deliberate structural decision, giving the typeface both density at text sizes and a distinctive, slightly tense quality at larger settings.",
+    "foundry_blurb": "Gruppo Due describe G2 TGR as their take on a contemporary humanist sans, combining what they call 'fearful symmetry' with snappy strokes and sharp endings. The characteristic narrowing of stroke width towards stems and junctions was designed to support legibility at small running text sizes while retaining a distinctive display presence. The name and concept draw loosely on the William Blake poem 'The Tyger'."
+  }
+]

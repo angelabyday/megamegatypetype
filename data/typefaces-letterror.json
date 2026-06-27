@@ -1,0 +1,716 @@
+[
+  {
+    "name": "CT Action Grotesque",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/actiongrotesque",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described as a versatile sans with variable weight, the grotesque classification fits its broad weight range and general-purpose character; distributed via Commercial Type.",
+    "weights": [
+      "Thin",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "CT Action Grotesque",
+      "CT Action Condensed",
+      "CT Action Text"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "variable",
+      "sans-serif",
+      "versatile",
+      "commercial-type"
+    ],
+    "summary": "A variable grotesque sans spanning thin to extra bold, sold through Commercial Type as part of the broader Action family.",
+    "description": "CT Action Grotesque is a variable-weight grotesque sans available through Commercial Type, with companion cuts including a graded flat-sided condensed and a screen-optimised text variant. The 404 page at LettError notes the weight range runs from thin to extra bold, suggesting a versatile palette for both display and text applications. Its relationship with CT Action Condensed and CT Action Text positions it as part of a coherent multi-variant family.",
+    "foundry_blurb": "LettError describe CT Action Grotesque as a versatile sans with variable weight ranging from thin to extra bold, available from Commercial Type."
+  },
+  {
+    "name": "LTR Limited Grotesque",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/limited",
+    "designer": "Erik van Blokland, Just van Rossum",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described explicitly as a take on the British humanist sans tradition, placing it squarely in the humanist sans-serif subcategory.",
+    "weights": [
+      "Thin",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LTR Limited Grotesque"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "british",
+      "grotesque",
+      "editorial",
+      "variable"
+    ],
+    "summary": "A reworking of the British humanist sans tradition, aiming for more personality and fewer historical compromises.",
+    "description": "LTR Limited Grotesque positions itself as a corrective to the somewhat bland conventions of the British humanist sans genre, promising greater flavour in its forms. The page provides limited technical detail, but the typeface sits within LettError's broader collection of opinionated, often experimental releases. Suited to editorial and identity contexts where a humanist sans is called for but a more generic option would feel flat.",
+    "foundry_blurb": "LettError describe LTR Limited Grotesque as their take on the British humanist sans, noting that the genre needs more flavour and considerably less baggage."
+  },
+  {
+    "name": "LTR Very Bauble",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/verybauble",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "tuscan / ornamental",
+    "classification_notes": "A decorative display face built around a variable Serif axis that transitions between a clean sans and a fully tuscan form with bifurcating terminals, inlines, thorns and pips. The tuscan tradition and explicitly ornamental intent place it firmly in the display/ornamental subcategory.",
+    "weights": [
+      "Sans",
+      "Cut",
+      "Inline",
+      "Splits",
+      "Tuscan",
+      "Thorns",
+      "Pips",
+      "Foliate",
+      "Plump"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LTR Very Bauble Variable",
+      "LTR Very Bauble Singles"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "tuscan",
+      "ornamental",
+      "variable",
+      "display",
+      "decorative",
+      "headline",
+      "caps",
+      "experimental"
+    ],
+    "summary": "An all-caps display face from LettError built on a single variable Serif axis that slides through five distinct designs, from a clean sans to a fully tuscan form bristling with bifurcated terminals, thorns, inlines and pips.",
+    "description": "The Serif axis steps through five named states, each containing visual features that appear only at the designated point along the interpolation, making the variable font behave like a sequence of costume changes rather than a smooth blend. Three stylistic sets give additional control over ornamental details: the default runs pips and lines together, while Solid strips them away and Pipped or Lined isolate each element. The character set covers uppercase, extended Latin diacritics, numerals, currency symbols and punctuation, with a notable asterism and a new asterisk among the highlights.",
+    "foundry_blurb": "LettError describe Very Bauble as the wild and shiny object in the shop window, a tuscan that no one asked for but every foundry apparently needs. Controlled by five separate designs on a single interpolation axis, each visual feature, from bifurcating terminals to thorns and inlines, appears exactly when needed, like frames in a film. Three stylistic sets let designers toggle between the full ornamental treatment, solid forms, lines or pips alone."
+  },
+  {
+    "name": "CT Action Condensed",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/actioncondensed",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described as a graded, flat-sided condensed grotesque, closely related to Action Grotesque, indicating a sans-serif grotesque classification.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "CT Action Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "grotesque",
+      "graded",
+      "flat-sided",
+      "sans-serif"
+    ],
+    "summary": "A flat-sided, graded condensed grotesque distributed through Commercial Type, designed as a companion to Action Grotesque.",
+    "description": "CT Action Condensed is a condensed grotesque with flat sides and optical grading, positioned as a close relation to Action Grotesque. It is available through Commercial Type rather than directly from LettError. The page for this typeface returned a 404 error, so detailed specifications on weights, italics and language support are unavailable.",
+    "foundry_blurb": "LettError describe CT Action Condensed as a graded, flat-sided condensed grotesque that is good friends with Action Grotesque, available from Commercial Type."
+  },
+  {
+    "name": "CT Action Text",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/actiontext",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described as a crisp, economic typeface for screen, placing it in the grotesque sans-serif tradition optimised for text use at small sizes.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "CT Action Text"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "screen",
+      "text",
+      "economic",
+      "grotesque",
+      "legibility"
+    ],
+    "summary": "A screen-optimised text typeface distributed through Commercial Type, designed for crisp, economic setting.",
+    "description": "CT Action Text is positioned as the text-weight companion within the Action family, built for screen use where economy and legibility at smaller sizes matter. It sits alongside Action Grotesque and Action Condensed as part of a broader type system available through Commercial Type. The page offers little further detail beyond a brief descriptor, as the typeface is hosted and sold externally.",
+    "foundry_blurb": "LettError describe CT Action Text as a crisp, economic typeface for screen, available from Commercial Type."
+  },
+  {
+    "name": "LTR Principia",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/principia",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "high contrast display",
+    "classification_notes": "Described as a high contrast, variable width headliner, placing it firmly in the display category with characteristics of a high-contrast display typeface designed for large-scale use.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "Variable Width"
+    ],
+    "subfamilies": [
+      "LTR Principia"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "variable",
+      "headline",
+      "expressive",
+      "wide"
+    ],
+    "summary": "A high-contrast variable-width display typeface from LettError, built for headline use with an expansive range of expression.",
+    "description": "Described by LettError as a headliner that never runs out of things to say, LTR Principia combines high contrast with variable width to suit large-scale typographic work. The variable axis gives designers room to push the proportions across a broad range, making it well suited to editorial headlines and poster work. The page returned a 404 at the time of review, so detail beyond the foundry's brief listing is unavailable.",
+    "foundry_blurb": "LettError describe LTR Principia as a high contrast, variable width headliner that never runs out of things to say."
+  },
+  {
+    "name": "House Industries Eames",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/eames",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "modern serif",
+    "classification_notes": "Described as a refined modern, placing it in the high-contrast vertical-stress tradition of the modern/Didone classification, produced for House Industries and the Eames Office.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "House Industries Eames"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modern",
+      "didone",
+      "midcentury",
+      "refined",
+      "high-contrast",
+      "display"
+    ],
+    "summary": "A refined modern serif drawn for House Industries in collaboration with the Eames Office.",
+    "description": "Described simply as a refined modern, this typeface was produced by LettError for House Industries and the Eames Office. The page returned a 404 error, so detailed specification data is unavailable, but the family sits in the high-contrast vertical-stress tradition associated with Didone moderns. Its connection to the Eames Office suggests a midcentury design sensibility.",
+    "foundry_blurb": "LettError describe House Industries Eames as a refined modern, made for House Industries and the Eames Office."
+  },
+  {
+    "name": "LTR NCND® Classic",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/ncndclassic",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "typewriter",
+    "classification_notes": "Described by LettError as a classic typewriter font, placing it firmly in the typewriter subcategory of monospaced display type.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LTR NCND® Classic"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "typewriter",
+      "monospaced",
+      "retro",
+      "textured",
+      "classic"
+    ],
+    "summary": "A typewriter-styled monospaced font from LettError, presented as the original entry in their NCND® dirty typewriter series.",
+    "description": "The foundational release in LettError's NCND® line, which also includes variable and rough variants. It mimics the look of a classic typewriter with the characteristic irregularity and texture associated with that genre. The page 404'd, so detail beyond the brief collection description is unavailable.",
+    "foundry_blurb": "LettError describe LTR NCND® Classic as 'The Original', noting with a wink that they can neither confirm nor deny it is based on a specific classic typewriter."
+  },
+  {
+    "name": "LTR NCND®",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/ncnd",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "typewriter",
+    "classification_notes": "The NCND family is described as a dirty typewriter font, placing it squarely in the typewriter subcategory of monospaced type. Multiple editions (Classic, Variable, Rough) share this typewriter character.",
+    "weights": [
+      "Variable weight (thin to extra bold implied via variable axis)"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LTR NCND® Classic",
+      "LTR NCND® Variable",
+      "LTR NCND® Rough"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "typewriter",
+      "variable",
+      "textured",
+      "dirty",
+      "monospaced",
+      "display"
+    ],
+    "summary": "A family of dirty typewriter fonts from LettError, offered in Classic, Variable and Rough editions to suit different levels of fidelity and animation.",
+    "description": "NCND spans three distinct editions: Classic preserves the original typewriter character, Variable redraws it for the web with a variable weight axis, and Rough adds greater detail and texture for close-up use. The family trades on deliberate imperfection, with each edition offering a different balance between rawness and technical refinement. LettError's Dirty Typewriter Guide helps users choose between editions depending on their needs.",
+    "foundry_blurb": "LettError describe NCND Classic as the original, noting they can neither confirm nor deny it is based on a classic typewriter. The Variable edition is redrawn for the web with a variable weight axis, while the Rough edition offers more detail and texture for when the font is seen up close."
+  },
+  {
+    "name": "LTR Beowolf",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/beowolf",
+    "designer": "Erik van Blokland, Just van Rossum",
+    "year": 1990,
+    "category": "display",
+    "subcategory": "randomised display",
+    "classification_notes": "Beowolf is a display typeface defined by its randomised letterform outlines, making it uncategorisable by conventional style; its significance lies in its algorithmic unpredictability rather than any historical type classification.",
+    "weights": [
+      "Regular",
+      "Regular 21",
+      "Regular 22",
+      "Regular 23"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LTR Beowolf"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "randomised",
+      "experimental",
+      "display",
+      "generative",
+      "classic",
+      "algorithmic",
+      "variable",
+      "historic"
+    ],
+    "summary": "The original randomised typeface from LettError, in which no two characters are ever identical across three degrees of random variation.",
+    "description": "Released in 1990 and documented in the LettError manifesto in Emigré #18, Beowolf was one of the first typefaces to use PostScript programming to randomise its own outlines at print time, producing letterforms that shift with every instance. Three degrees of random control how wildly the forms deviate, from subtle to restless. It remains a landmark in the history of generative typography.",
+    "foundry_blurb": "LettError describe LTR Beowolf as the original random font that just cannot sit still, offering three degrees of random variation so that nothing is ever constant."
+  },
+  {
+    "name": "LTR NCND® Rough",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/ncndrough",
+    "designer": "LettError",
+    "year": null,
+    "category": "mono",
+    "subcategory": "typewriter",
+    "classification_notes": "Described as a dirty typewriter font with extra detail and texture, placing it firmly in the typewriter/monospaced category. The rough variant implies a distressed, textured quality built on a typewriter base.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LTR NCND® Classic",
+      "LTR NCND® Variable",
+      "LTR NCND® Rough"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "typewriter",
+      "distressed",
+      "textured",
+      "monospaced",
+      "rough",
+      "character"
+    ],
+    "summary": "A high-detail, textured take on the dirty typewriter aesthetic, designed to hold up at close range or large scale.",
+    "description": "Part of LettError's NCND family of typewriter-derived fonts, the Rough edition is redrawn with finer detail and surface texture compared to the Classic and Variable cuts. Where the Variable version was optimised for the web, Rough is suited to settings where the grit and grain of the letterforms can be seen clearly. It sits alongside the Classic original and the variable-weight version as the most detailed and textured entry in the series.",
+    "foundry_blurb": "LettError describe LTR NCND Rough as a dirty typewriter font ready for its closeup, offering more detail and texture than the other editions in the NCND family."
+  },
+  {
+    "name": "LTR BeoSans",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/beosans",
+    "designer": "Just van Rossum",
+    "year": 1990,
+    "category": "display",
+    "subcategory": "randomised sans",
+    "classification_notes": "A sans serif whose outlines are deliberately randomised via pre-computed variations, making it a conceptual display typeface rather than a conventional grotesque or geometric sans. Its primary identity is defined by controlled randomness and experimental form rather than any conventional sans-serif subcategory.",
+    "weights": [
+      "Plain",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LTR BeoSans Hard",
+      "LTR BeoSans Soft"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "randomised",
+      "experimental",
+      "postscript",
+      "display",
+      "conceptual",
+      "jagged",
+      "lettError",
+      "digital-vernacular"
+    ],
+    "summary": "A sans serif companion to LTR Beowolf in which each glyph cycles through six pre-computed randomised iterations, available in Hard (angular) and Soft (curvaceous) variants across three degrees of jaggedness.",
+    "description": "Drawn by Just van Rossum in 1990, LTR BeoSans applies the randomisation logic pioneered by Beowolf to a sans serif skeleton. Two structural variants define its character: BeoSans Hard uses straight lines and angles throughout, while BeoSans Soft eschews straight lines entirely. Each glyph has six distinct pre-computed outlines and three degrees of jaggedness per style, yielding twenty fonts in total across Plain and Bold weights. The family sits in the permanent MoMA design collection alongside Beowolf, and its cultural footprint spans Emigré, Frieze and the International Herald Tribune.",
+    "foundry_blurb": "LettError describe LTR BeoSans as the sans serif counterpart to LTR Beowolf, with each character cycling through six different iterations to create an appearance that is undeniably random yet processed in finite time. The Hard version features all straight lines and angles; the Soft has none. Each of the two styles comes in three degrees of pre-computed jaggedness, giving twelve distinct variations across two weights."
+  },
+  {
+    "name": "LTR Kosmik",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/kosmik",
+    "designer": "Erik van Blokland, Just van Rossum",
+    "year": null,
+    "category": "script",
+    "subcategory": "handlettered",
+    "classification_notes": "Described as handlettering with three variations per glyph, placing it firmly in the script/handlettered category. The multiple glyph variants suggest a system designed to mimic the natural irregularity of hand-drawn lettering.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LTR Kosmik"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "handlettered",
+      "casual",
+      "variable-glyphs",
+      "informal",
+      "lettering",
+      "textured"
+    ],
+    "summary": "A handlettered typeface with three glyph variations per character, designed to reproduce the natural inconsistency of hand-drawn text.",
+    "description": "LTR Kosmik uses a system of three alternating variants per glyph to avoid the mechanical repetition common in digital handlettering. This approach gives set text a more naturalistic, hand-drawn rhythm without requiring manual intervention. It sits within LettError's broader interest in randomness and variation, the same thinking that produced the Beowolf and BeoSans families.",
+    "foundry_blurb": "LettError describe LTR Kosmik as a clever piece of handlettering with three variations per glyph."
+  },
+  {
+    "name": "LTR Federal",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/federal",
+    "designer": "Erik van Blokland, Just van Rossum",
+    "year": null,
+    "category": "display",
+    "subcategory": "engraved",
+    "classification_notes": "Drawn in the style of the US Federal Bureau of Engraving and Printing, with high contrast and steel-engraved shading characteristics placing it firmly in the decorative engraved display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LTR Federal",
+      "LTR Federal Bureau",
+      "LTR Federal Reserve Note",
+      "LTR Federal Optical"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "engraved",
+      "display",
+      "currency",
+      "steel-engraving",
+      "decorative",
+      "high-contrast"
+    ],
+    "summary": "A display family drawn in the manner of US Federal Bureau of Engraving and Printing lettering, extended into several companion styles for shading and optical sizing.",
+    "description": "Styled after the steel-engraved lettering of American banknote printing, LTR Federal is not a literal revival but a family of related designs that share a high-contrast, engraved character. Companion faces include LTR Federal Bureau, which sits at the intersection of Federal and engraved styles for easier shading use, LTR Federal Reserve Note for a boxed variant, and LTR Federal Optical for optical-size cuts. Together they form a system suited to decorative titling, certificates and any work requiring a currency-adjacent formality.",
+    "foundry_blurb": "LettError describe LTR Federal as their 'Money Fonts', drawn in the style of the Federal Bureau of Engraving and Printing but not a literal revival. The family includes Federal Bureau, Federal Reserve Note and Federal Optical, the latter providing optical sizes with high contrast and serifs throughout for use alongside Federal Regular."
+  },
+  {
+    "name": "LTR Federal Bureau",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/federalbureau",
+    "designer": "LettError",
+    "year": null,
+    "category": "display",
+    "subcategory": "engraved display",
+    "classification_notes": "Described as sitting at the intersection of Federal and Engraved styles, drawn in the manner of Federal Bureau of Engraving and Printing work; the shaded, high-contrast engraved aesthetic places it firmly in display territory.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LTR Federal Bureau"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "engraved",
+      "display",
+      "shaded",
+      "currency-inspired",
+      "decorative",
+      "federal"
+    ],
+    "summary": "A display face drawn at the intersection of engraving and the Federal money-font style, offering easy-to-use shaded letterforms.",
+    "description": "Part of LettError's Federal family, this variant sits between the core Federal style and a traditional engraved aesthetic, with shading built in for straightforward use. It takes cues from the Federal Bureau of Engraving and Printing without being a literal revival of any specific source. Works alongside other members of the Federal range, including LTR Federal Regular and LTR Federal Optical.",
+    "foundry_blurb": "LettError describe LTR Federal Bureau as sitting on the intersection of Federal and Engraved, part of the broader LTR Federal money font range drawn in the style of the Federal Bureau of Engraving and Printing, but not a literal revival. They highlight it as easy to use with its built-in shades."
+  },
+  {
+    "name": "LTR Slab Extended",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/slabextended",
+    "designer": "Erik van Blokland",
+    "year": null,
+    "category": "slab",
+    "subcategory": "extended slab serif",
+    "classification_notes": "Described as wide, brash and bold with classical influences, placing it firmly in the slab serif category with an extended width emphasis suited to display use.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Extended"
+    ],
+    "subfamilies": [
+      "LTR Slab Extended"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "extended",
+      "display",
+      "bold",
+      "headline",
+      "classical"
+    ],
+    "summary": "A wide, bold slab serif drawing on classical influences, built for large-scale typesetting where brashness is an asset.",
+    "description": "LTR Slab Extended sits at the intersection of classical slab serif traditions and expressive display typography, designed for big words on big pages. Its extended proportions and bold stance make it suited to headlines, posters and editorial splash pages where a commanding presence is needed. The mix of classical references filtered through LettError's characterful approach gives it more personality than a straight revival would afford.",
+    "foundry_blurb": "LettError describe LTR Slab Extended as designed for big words on big pages, combining a mix of classical influences rendered wide, brash and bold."
+  },
+  {
+    "name": "LTR Federal Reserve Note",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/federalreserve",
+    "designer": "Erik van Blokland, Just van Rossum",
+    "year": null,
+    "category": "display",
+    "subcategory": "engraved display",
+    "classification_notes": "Described as 'Federal, but in a box', it sits within the Federal family of steel engraving-inspired display types, with high contrast and ornamental borders characteristic of banknote typography.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LTR Federal Reserve Note"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "engraved",
+      "banknote",
+      "display",
+      "ornamental",
+      "high-contrast",
+      "federal",
+      "historical"
+    ],
+    "summary": "A boxed variant of LettError's Federal family, drawn in the style of the Federal Bureau of Engraving and Printing's banknote lettering.",
+    "description": "Part of the LettError Federal series, this variant packages the engraved, high-contrast letterforms of the Federal style within a containing border, evoking the framed text blocks found on currency. The family draws on the visual language of steel engraving without being a literal revival of any specific banknote face. Best suited to display use where an official, archival or monetary aesthetic is required.",
+    "foundry_blurb": "LettError describe LTR Federal Reserve Note as 'Federal, but in a box', situating it within their broader Federal series of money fonts drawn in the style of the Federal Bureau of Engraving and Printing, but not a literal revival."
+  },
+  {
+    "name": "LTR Federal Optical",
+    "foundry": "LettError",
+    "url": "https://letterror.com/collection/federaloptical",
+    "designer": "Erik van Blokland, Just van Rossum",
+    "year": null,
+    "category": "serif",
+    "subcategory": "engraved display serif",
+    "classification_notes": "High-contrast, steel-engraved style with serifs from top to bottom, placing it firmly in the display serif category with an engraved or intaglio subcategory akin to traditional banknote lettering.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Optical sizes"
+    ],
+    "subfamilies": [
+      "LTR Federal",
+      "LTR Federal Bureau",
+      "LTR Federal Reserve Note",
+      "LTR Federal Optical"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "engraved",
+      "display",
+      "high-contrast",
+      "banknote",
+      "steel-engraving",
+      "optical-sizes",
+      "serif",
+      "decorative"
+    ],
+    "summary": "An optical-size companion to LTR Federal, drawn in the style of steel-engraved banknote lettering with high contrast and full-length serifs.",
+    "description": "Part of LettError's Federal family, this optical-size variant is designed to complement LTR Federal Regular with the shading and high contrast characteristic of Federal Bureau of Engraving and Printing lettering. The design is not a literal revival but an interpretation of that formal tradition of steel-engraved type. It sits within a broader Federal ecosystem that includes LTR Federal Bureau and LTR Federal Reserve Note.",
+    "foundry_blurb": "LettError describe LTR Federal Optical as providing optical sizes for steel-engraved shading, with high contrast and serifs from top to bottom, intended for use alongside LTR Federal Regular."
+  }
+]

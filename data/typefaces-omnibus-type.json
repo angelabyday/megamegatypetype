@@ -1,0 +1,1225 @@
+[
+  {
+    "name": "Archivo",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/archivo/",
+    "designer": "Héctor Gatti",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Archivo is a grotesque sans-serif in the tradition of late nineteenth century American typefaces, derived from Chivo and sharing its broad, sturdy proportions suited to display and text use.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Narrow"
+    ],
+    "subfamilies": [
+      "Archivo",
+      "Archivo Narrow"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "american-grotesque",
+      "display",
+      "headlines",
+      "print",
+      "digital",
+      "multilingual"
+    ],
+    "summary": "A grotesque sans-serif designed for simultaneous use in print and digital contexts, derived from Chivo and referencing late nineteenth century American typefaces.",
+    "description": "Designed by Héctor Gatti, Archivo draws on the tradition of late nineteenth century American grotesques and was originally conceived for headlines and highlights. The family includes a single Black weight alongside Narrow styles, and covers over 200 world languages. Its technical and aesthetic decisions are aimed at consistent performance across both print and screen.",
+    "foundry_blurb": "Omnibus-Type describe Archivo as a grotesque sans-serif family designed by Héctor Gatti for high performance typography across print and digital platforms. Originally intended for headlines and highlights, it is reminiscent of late nineteenth century American typefaces, includes Narrow styles and a Black weight, and supports over 200 world languages. It was derived from Chivo."
+  },
+  {
+    "name": "Archivo Black",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/archivo-black/",
+    "designer": "Héctor Gatti",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A grotesque sans serif explicitly positioned in the late nineteenth century American typeface tradition, designed for display and headline use at heavy weight.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Archivo Black"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "headline",
+      "display",
+      "american-grotesque",
+      "black-weight",
+      "print",
+      "digital"
+    ],
+    "summary": "A single-weight black grotesque by Héctor Gatti, drawn from the late nineteenth century American typeface tradition and optimised for headlines across print and digital.",
+    "description": "Derived from Chivo and related to the broader Archivo family including Archivo Narrow, this typeface focuses entirely on the Black weight for headline and highlight use. Its technical construction is tuned for performance across both print and screen environments. The aesthetic draws on late nineteenth century American grotesques, giving it a historical grounding without pastiche.",
+    "foundry_blurb": "Omnibus-Type describe Archivo Black as designed by Héctor Gatti for simultaneous use in print and digital platforms, with technical and aesthetic characteristics crafted for high performance typography. It is a grotesque sans serif originally intended for highlights and headlines, reminiscent of late nineteenth century American typefaces, and sits alongside Archivo and Archivo Narrow as part of a wider family derived from Chivo."
+  },
+  {
+    "name": "Archivo Narrow",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/archivo-narrow/",
+    "designer": "Héctor Gatti",
+    "year": 2012,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described explicitly as a grotesque sans serif, reminiscent of late nineteenth century American typefaces, and derived from Chivo. The narrow cut is optimised for print and digital performance.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow"
+    ],
+    "subfamilies": [
+      "Archivo Narrow"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "narrow",
+      "print",
+      "digital",
+      "headlines",
+      "american-grotesque",
+      "nineteenth-century"
+    ],
+    "summary": "A narrow grotesque by Héctor Gatti, designed for simultaneous use in print and digital contexts with a late nineteenth century American flavour.",
+    "description": "Archivo Narrow sits within the broader Archivo family from Omnibus-Type, itself derived from Chivo and rooted in the tradition of late nineteenth century American grotesque typefaces. The cut is tailored for headlines and highlights, with technical and aesthetic choices calibrated for high performance across both screen and print. It shares its design DNA with Archivo Black and the wider Archivo family.",
+    "foundry_blurb": "Omnibus-Type describe Archivo Narrow as designed by Héctor Gatti for simultaneous use in print and digital platforms, with technical and aesthetic characteristics crafted for high performance typography. It is part of the wider Archivo grotesque sans serif family, originally intended for highlights and headlines, and is reminiscent of late nineteenth century American typefaces. The family was derived from Chivo and updated in December 2012 to address encoding tables and index issues."
+  },
+  {
+    "name": "Asap Symbol",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/asap-symbol/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "icon font",
+    "classification_notes": "Asap Symbol is a pictographic icon font designed as a companion to the Asap text family, falling outside standard text categories and best classified as display due to its symbolic, non-alphabetic glyph set.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Asap Symbol"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "icon-font",
+      "pictographic",
+      "libre",
+      "education",
+      "wayfinding",
+      "companion-font"
+    ],
+    "summary": "A libre icon font of over 150 pictograms designed as a companion to the Asap typeface family, covering education, public spaces, health, tourism and transport.",
+    "description": "Produced by Omnibus-Type as a pictographic complement to their Asap text family, this icon font offers more than 150 symbols across practical, everyday contexts. Categories include education, public spaces, health, tourism and transport, making it suited to wayfinding, signage and informational design work. Available free of charge, with a character map provided for reference.",
+    "foundry_blurb": "Omnibus-Type describe Asap Symbol as a libre icon font produced as a pictographic complement to the Asap Family, featuring a comprehensive set of more than 150 icons covering education, public spaces, health, tourism and transport. A free character map is available for download, and the font is free to use with donations welcomed."
+  },
+  {
+    "name": "Asap Condensed",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/asap-condensed/",
+    "designer": "Pablo Cosgaya, Nicolás Silva",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A contemporary sans-serif with subtle rounded corners, designed for screen use; sits within the grotesque tradition with a condensed width variant distinguishing it from the standard family.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Asap Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "sans-serif",
+      "screen",
+      "rounded",
+      "grotesque",
+      "standardised-width"
+    ],
+    "summary": "A condensed screen-optimised sans-serif with subtle rounded corners and standardised character widths across all styles.",
+    "description": "Designed by Pablo Cosgaya and Nicolás Silva, this is the condensed cut of the Asap family, itself derived from Ancha. Its defining feature is standardised character widths across all eight styles, meaning lines of text hold their length when switching between weights or italics mid-flow. Four weights from Regular to Bold with matching italics make it a practical choice for interfaces and editorial work where reflowing text is a problem.",
+    "foundry_blurb": "Omnibus-Type describe Asap Condensed as a contemporary sans-serif with subtle rounded corners, specially developed for screen and desktop use. The family offers standardised character widths across all styles, allowing users to switch type styles without reflowing text. It is based on Ancha, designed by Pablo Cosgaya and Hector Gatti, and developed with the collaboration of Andrés Torresi."
+  },
+  {
+    "name": "Asap",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/asap/",
+    "designer": "Pablo Cosgaya",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A contemporary sans-serif with subtle rounded corners and humanist proportions, designed for screen legibility. Its standardised character widths across styles point to a practical, text-oriented humanist approach.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Asap"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "screen",
+      "rounded",
+      "text",
+      "digital",
+      "metrics-compatible"
+    ],
+    "summary": "A screen-oriented sans-serif with subtle rounded corners and standardised character widths that prevent text reflow when switching weights or styles.",
+    "description": "Designed by Pablo Cosgaya and based on his earlier Ancha typeface (co-designed with Héctor Gatti), Asap was built specifically for screen and desktop use across eight styles spanning four weights with matching italics. Its defining technical feature is a standardised character width shared across all styles, meaning text lines hold their length when the user switches between Regular, Medium, Semibold and Bold without triggering reflow. Developed with the collaboration of Andrés Torresi, it is a practical choice for interfaces and documents where weight flexibility is needed without layout disruption.",
+    "foundry_blurb": "Omnibus-Type describe Asap as a contemporary sans-serif family with subtle rounded corners, designed by Pablo Cosgaya for screen and desktop use. The family offers standardised character widths across all eight styles, allowing users to switch type styles on-the-go without reflowing body text. It is based on Ancha, designed by Pablo Cosgaya and Héctor Gatti, and was developed with the collaboration of Andrés Torresi."
+  },
+  {
+    "name": "Bahiana",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/bahiana/",
+    "designer": "Daniela Raskovsky, Pablo Cosgaya",
+    "year": null,
+    "category": "display",
+    "subcategory": "condensed display",
+    "classification_notes": "Bahiana is a display typeface with a condensed, rustic and casual character, suited to titles and short text rather than extended reading. Its organic texture and informal tone place it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bahiana"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "condensed",
+      "rustic",
+      "casual",
+      "latin",
+      "titling",
+      "organic",
+      "informal"
+    ],
+    "summary": "A rustic, condensed display typeface by Daniela Raskovsky and Pablo Cosgaya, built for titles and short texts with an organic, informal texture.",
+    "description": "Designed at Omnibus-Type by Daniela Raskovsky and Pablo Cosgaya, Bahiana offers a casual, hand-influenced quality suited to condensed headlines and short copy. OpenType alternates vary the texture across a composition, preventing mechanical repetition and lending a more handcrafted feel. The font covers over 103 Latin languages, including Guarani, across a glyph set of 490 characters.",
+    "foundry_blurb": "Omnibus-Type describe Bahiana as having a rustic, fresh and casual look, designed by Daniela Raskovsky and Pablo Cosgaya for condensed titles and short texts. The family includes OpenType alternates to create a more organic texture, with 490 glyphs and diacritics supporting over 103 Latin languages including Guarani."
+  },
+  {
+    "name": "Bahianita",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/bahianita/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "wood type display",
+    "classification_notes": "Condensed, informal letterforms with a hand-carved wood character place this firmly in the display category, specifically within the wood type tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bahianita"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "wood-type",
+      "condensed",
+      "rustic",
+      "informal",
+      "titling",
+      "latin"
+    ],
+    "summary": "A condensed display typeface derived from Bahiana, adding lowercase and OpenType alternates to its hand-carved wood aesthetic.",
+    "description": "An evolution of Omnibus-Type's Bahiana, Bahianita introduces lowercase letters to the family while retaining the rustic, wood-carved character of its predecessor. The condensed structure suits headlines and short display text, and OpenType programming prevents repeated identical letters or numerals from appearing consecutively. With 1,234 glyphs, the family covers over 30 Latin-script languages including Vietnamese, Polish and Icelandic.",
+    "foundry_blurb": "Omnibus-Type describe Bahianita as a new version of Bahiana with lowercase, presenting an informal and rustic look as if carved in wood. Its condensed structure is suited to titles and short texts, and it includes formal alternates alongside OpenType programming to avoid consecutive duplicate letters or numbers, with over 1,234 glyphs supporting more than 30 languages."
+  },
+  {
+    "name": "Barriecito",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/barriecito/",
+    "designer": "Sergio Jiménez, Pablo Cosgaya",
+    "year": null,
+    "category": "display",
+    "subcategory": "hand-lettered display",
+    "classification_notes": "Barriecito is a display typeface rooted in hand-lettering forms evoking small street-shop signage, with an intentionally amateur, rhythmic quality that places it firmly in the informal display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Barriecito"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "hand-lettered",
+      "display",
+      "signage",
+      "informal",
+      "playful",
+      "latin-extended",
+      "street"
+    ],
+    "summary": "A hand-lettering-inspired display typeface by Sergio Jiménez and Pablo Cosgaya, extending the earlier Barrio with a full lowercase and broad Latin language support.",
+    "description": "Built on the aesthetic of small street-shop signage, Barriecito carries an intentional amateur quality and rhythmic contrast that suits warm, lively and promotional contexts. It extends the earlier Barrio typeface by adding a lowercase, resulting in 1,234 glyphs with diacritics covering more than 30 languages. Intended for screens, billboards, magazines and promotional material where an informal, energetic tone is required.",
+    "foundry_blurb": "Omnibus-Type describe Barriecito as a new version of Barrio with lowercase, based on hand-lettering forms that recover the style of small street shops. Designed by Sergio Jiménez and Pablo Cosgaya for screens, billboards, magazines and promotional material, it is noted for its rhythmic contrast and amateur appearance, making it suitable for warm, lively and fun communication. The font offers 1,234 glyphs and diacritics with support for more than 30 languages."
+  },
+  {
+    "name": "Faustina",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/faustina/",
+    "designer": "Alfonso Garcia",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Designed for editorial typography in print and online contexts, Faustina exhibits the structured, legible characteristics of a transitional serif suited to long-form reading.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Faustina"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "editorial",
+      "serif",
+      "print",
+      "books",
+      "newspapers",
+      "magazines",
+      "text",
+      "reading"
+    ],
+    "summary": "A text serif by Alfonso Garcia built for editorial typography across print and digital media, offered in four weights with matching italics.",
+    "description": "Developed by the Omnibus-Type team, Faustina covers eight styles from Regular to Bold Italic, targeting books, newspapers and magazines. It is part of Omnibus-Type's Press Series, a collection oriented towards editorial and publishing contexts. The weight range is modest but practical for body text hierarchies in long-form reading environments.",
+    "foundry_blurb": "Faustina was designed by Alfonso Garcia for editorial typography in books, newspapers and magazines, for use in both print and online. Developed by the Omnibus-Type team, it comes in eight styles: Regular, Italic, Medium, Medium Italic, Semibold, Semibold Italic, Bold and Bold Italic, and forms part of the Press Series collection."
+  },
+  {
+    "name": "Barrio",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/barrio/",
+    "designer": "Sergio Jiménez, Pablo Cosgaya",
+    "year": null,
+    "category": "display",
+    "subcategory": "display script",
+    "classification_notes": "Barrio is classified as a display typeface with script-like qualities; its rhythmic contrast and deliberately amateur character place it firmly in expressive, decorative territory rather than any neutral or text category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Barrio"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "expressive",
+      "informal",
+      "latin",
+      "fun",
+      "warm",
+      "decorative",
+      "screen"
+    ],
+    "summary": "A display typeface by Sergio Jiménez and Pablo Cosgaya built around rhythmic contrast and a deliberate amateur quality for warm, lively communication.",
+    "description": "Designed by Sergio Jiménez and Pablo Cosgaya, Barrio uses rhythmic contrast and an intentionally rough, hand-made character to produce something lively and approachable. It suits billboards, promotional material and magazines where an informal, energetic tone is wanted. The family covers over 103 Latin languages including Guarani, with 490 glyphs and diacritics.",
+    "foundry_blurb": "Omnibus-Type describe Barrio as designed for screens, billboards, magazines and promotional material, created by Sergio Jiménez and Pablo Cosgaya. They highlight its rhythmic contrast and amateur appearance as features that make it ideal for warm, lively and fun communication, with support for over 103 Latin languages including Guarani across 490 glyphs."
+  },
+  {
+    "name": "Chivo",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/chivo/",
+    "designer": "Héctor Gatti",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Omnibus-Type describes Chivo as their first neo-grotesque typeface family, with balanced strokes and solid construction typical of the neo-grotesque genre.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Chivo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "versatile",
+      "text",
+      "editorial",
+      "headlines",
+      "balanced"
+    ],
+    "summary": "A neo-grotesque from Omnibus-Type with seven weights and matching italics, spanning body text through heavy display use.",
+    "description": "Designed by Héctor Gatti, Chivo is Omnibus-Type's first neo-grotesque, built around balanced strokes and a solid construction that keeps it legible at text sizes and punchy at display scale. The Regular weight is suited to long-form reading while the Black pushes towards headlines and banners. Seven weights with matching italics give it enough range for varied typographic hierarchies.",
+    "foundry_blurb": "Omnibus-Type describe Chivo, whose name means 'goat' in Spanish, as their first neo-grotesque typeface family. Its solidness and balanced strokes lend it both elegance and practicality, with the Regular suited to long-reading texts and the Black ideal for headlines, banners and highlights. Developed by Héctor Gatti, they position it as an indispensable tool for designers."
+  },
+  {
+    "name": "Grenze Gotisch",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/grenze-gotisch/",
+    "designer": "Renata Polastri and Omnibus-Type Team",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "blackletter display",
+    "classification_notes": "Described explicitly as a Blackletter variant of the Grenze family, featuring Blackletter uppercase letters with expressive lowercase details, placing it firmly in the blackletter category with a display orientation.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grenze Gotisch"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "expressive",
+      "display",
+      "dramatic",
+      "gothic",
+      "grenze"
+    ],
+    "summary": "A blackletter variant of Grenze by Renata Polastri and the Omnibus-Type Team, mixing Blackletter uppercase forms with selectively dramatic lowercase letters across nine weights.",
+    "description": "Grenze Gotisch extends the Grenze family into blackletter territory, introducing Blackletter uppercase letters and expressive details in certain lowercase characters that heighten its dramatic register. Nine weights provide a broad range from delicate thin cuts to heavy black, giving it flexibility across display and editorial contexts. The mixture of historical Blackletter convention with selective expressive detail makes it a characterful choice for headline and identity work.",
+    "foundry_blurb": "Omnibus-Type describe Grenze Gotisch as a peculiar version of Grenze, distinguished by its Blackletter uppercase letters and dramatic details in certain lowercase letters that intensify its expressive burden. It is available in nine weights and was designed by Renata Polastri and the Omnibus-Type Team."
+  },
+  {
+    "name": "Grenze",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/grenze/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "hybrid roman-blackletter",
+    "classification_notes": "Grenze explicitly blends Roman and Blackletter styles, making it a hybrid display typeface. Its magazine-focused application and textural richness place it closer to display than pure blackletter, though its blackletter heritage is central to its character.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grenze"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter-influenced",
+      "display",
+      "magazine",
+      "hybrid",
+      "editorial",
+      "textured",
+      "roman"
+    ],
+    "summary": "A nine-weight display family that merges Roman and Blackletter structures, designed primarily for magazine typography.",
+    "description": "Grenze bridges Roman readability and Blackletter texture across nine weights from Thin to Black, each with a matching italic. The family was designed with magazine applications in mind, where its rich tonal palette and expressive letterforms can be used across headlines, pull quotes and display settings. Its name, derived from the word for 'frontier', signals its position at the boundary between two typographic traditions.",
+    "foundry_blurb": "Omnibus-Type describe Grenze as a hybrid between Roman and Blackletter styles, seeking to combine the impact and visual texture of blackletter with the readability of classical forms. Built as a large system of nine weights with matching italics, it is intended primarily for magazine use and offers a rich palette suited to creative applications. The name derives from the word for 'frontier'."
+  },
+  {
+    "name": "Jaldi",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/jaldi/",
+    "designer": "Pablo Cosgaya, Nicolás Silva",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A contemporary sans-serif with subtle rounded corners designed for both Devanagari and Latin scripts, falling within the humanist sans tradition due to its screen-optimised, legible construction.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Jaldi"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "devanagari",
+      "hindi",
+      "screen",
+      "web",
+      "rounded",
+      "bilingual",
+      "standardised-width"
+    ],
+    "summary": "A contemporary Devanagari and Latin sans-serif with subtly rounded corners, designed to pair with Asap and built so that changing weight never causes text reflow.",
+    "description": "Designed by Pablo Cosgaya and Nicolás Silva, Jaldi pairs a contemporary Devanagari — its name meaning 'soon' in Hindi — with the Latin of Asap, itself based on the earlier Ancha typeface. The family is built for screen and web use, with a standardised character width across all styles so that lines of text hold their length regardless of weight changes. This fixed-width-per-style approach makes it practical for interfaces where switching type styles mid-flow cannot disturb layout.",
+    "foundry_blurb": "Omnibus-Type describe Jaldi as a contemporary sans-serif Devanagari with subtle rounded corners, designed to match the Latin of Asap. The name comes from the Hindi word for 'soon', echoing Asap's acronym of 'As Soon As Possible'. Like Asap, Jaldi uses standardised character widths across all styles so that text never reflows when switching between weights, making it well-suited to screen and web use."
+  },
+  {
+    "name": "Manuale",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/manuale/",
+    "designer": "Pablo Cosgaya, Eduardo Tunni",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Manuale is a text serif designed for editorial use in print and digital contexts, with the structured proportions and balanced contrast typical of transitional serifs suited to long-form reading.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Manuale"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "editorial",
+      "text",
+      "serif",
+      "books",
+      "newspapers",
+      "magazines",
+      "print",
+      "digital"
+    ],
+    "summary": "A text serif by Pablo Cosgaya and Eduardo Tunni, designed for editorial use across books, newspapers and magazines in both print and digital settings.",
+    "description": "Designed specifically for editorial typography, Manuale covers the practical demands of book, newspaper and magazine publishing in print and on screen. Eight styles span Regular through to Bold, each with a matching italic, giving a workable range for hierarchical text setting. Part of Omnibus-Type's Press Series, it sits alongside other faces oriented towards long-form and editorial work.",
+    "foundry_blurb": "Manuale was designed by Pablo Cosgaya and Eduardo Tunni for editorial typography covering books, newspapers and magazines in print and online. Developed by the Omnibus-Type team, it comprises eight styles and is part of the foundry's Press Series collection."
+  },
+  {
+    "name": "MuseoModerno",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/museomoderno/",
+    "designer": "Pablo Cosgaya, Héctor Gatti, Marcela Romero",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Described as geometric and inspired by early 20th century European avant-garde movements, it was designed as a bespoke identity typeface for a modern art museum, placing it firmly in the display category with a geometric construction.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "MuseoModerno"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "avant-garde",
+      "display",
+      "identity",
+      "museum",
+      "institutional",
+      "argentinian"
+    ],
+    "summary": "A geometric display typeface created as the bespoke identity face for the Buenos Aires Museum of Modern Art, drawn from early 20th century European avant-garde references.",
+    "description": "Designed by Pablo Cosgaya, Héctor Gatti and Marcela Romero for the Buenos Aires Museum of Modern Art, this typeface draws on the geometric formalism of early European avant-garde movements. The character set runs to 365 glyphs, covering lining and old-style figures, multiple ligatures and alternates across 25 languages. Its clarity and distinctive geometry make it well-suited to cultural and institutional identity work.",
+    "foundry_blurb": "Omnibus-Type describe MuseoModerno as a geometric typeface created specifically for the new identity of the Buenos Aires Museum of Modern Art. Inspired by early 20th century European avant-garde art movements, it contains 365 characters including lining and old-style figures, numerous ligatures and alternative signs, and supports 25 languages. Designed by Pablo Cosgaya, Héctor Gatti and Marcela Romero, the typeface was conceived to balance simplicity with charisma to meet the museum's identity requirements."
+  },
+  {
+    "name": "Leluja Original",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/leluja-original/",
+    "designer": "Andrea Kulpas",
+    "year": null,
+    "category": "serif",
+    "subcategory": "decorative serif",
+    "classification_notes": "The typeface draws formal inspiration from Polish Wycinanki paper-cut folk art, giving it an ornamental, decorative character that places it within a display or decorative serif subcategory despite being usable for text.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Leluja Original"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "folk",
+      "decorative",
+      "polish",
+      "wycinanki",
+      "text",
+      "display",
+      "cultural",
+      "heritage"
+    ],
+    "summary": "A four-weight serif family developed by Andrea Kulpas and Omnibus-Type, drawing its forms from Polish Wycinanki paper-cut folk art.",
+    "description": "Designed by Andrea Kulpas in partnership between Omnibus-Type's Brazil and Argentina teams, the family comes in Regular, Italic, Bold and Bold Italic. Its letterforms reference the decorative cut-paper tradition of Wycinanki, a Polish folk art once made from tree bark and leather and later applied to coloured paper for interior decoration and seasonal cards. Suitable for body text in print as well as titling work.",
+    "foundry_blurb": "Omnibus-Type describe Leluja Original as a four-weight family developed by Andrea Kulpas and Omnibus-Type through a Brazil/Argentina collaboration. The design is inspired by Wycinanki, the Polish art of cut paper, a tradition rooted in bark and leather that evolved into coloured paper decorations for furniture, roof beams, windows and holiday cards, with regional variations between the monochromatic Kurpie style and the multi-layered, colourful Lowicz tradition."
+  },
+  {
+    "name": "Saira",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/saira/",
+    "designer": "Héctor Gatti",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "contemporary sans",
+    "classification_notes": "A contemporary sans-serif with broad weight range and italic companions, positioned for editorial and text applications across print and digital media.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Saira"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "contemporary",
+      "sans-serif",
+      "editorial",
+      "press",
+      "text",
+      "versatile",
+      "newspaper"
+    ],
+    "summary": "A contemporary sans-serif family of 18 styles designed by Héctor Gatti, suited to editorial work across print and digital contexts.",
+    "description": "Part of Omnibus-Type's Press Series, Saira spans nine weights from Thin to Black with matching italics, giving it a broad range for both headline and body text use. The family was originally drawn by Héctor Gatti, with character sets later extended by the Omnibus-Type Team. Its adaptability across newspapers, magazines, books and websites makes it a practical workhorse for editorial settings.",
+    "foundry_blurb": "Omnibus-Type describe Saira as a contemporary sans-serif system comprising 18 styles — nine weights plus matching italics — and part of their Press Series. They note its high adaptability for use in headlines and long texts across newspapers, magazines, books and websites, with original masters by Héctor Gatti and character sets completed by the Omnibus-Type Team."
+  },
+  {
+    "name": "Rosario",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/rosario/",
+    "designer": "Héctor Gatti",
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Rosario features classic proportions and weak stroke endings that give it a subtly humanist quality, sitting comfortably in the serif category with characteristics suited to book and editorial publishing.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rosario"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "publishing",
+      "book",
+      "humanist",
+      "classic",
+      "magazine"
+    ],
+    "summary": "A serif with classic proportions and weak stroke endings, designed by Héctor Gatti and optimised by Adobe Fonts for editorial publishing.",
+    "description": "Designed initially by Héctor Gatti for private use and later developed by the Omnibus-Type team, Rosario offers four weights with matching italics. Its weak stroke endings give it a quiet dynamism that suits a range of publishing contexts from poetry collections to academic journals. Classic proportions keep it versatile across both popular and literary print formats.",
+    "foundry_blurb": "Omnibus-Type describe Rosario as a singular typeface with four weights and matching italics, noting that its grace comes from classic proportions and that its weak endings make it subtle yet dynamic. Named after a crowded city, they position it for diverse publishing contexts including popular magazines, poetry books, illustrated editions and academic journals."
+  },
+  {
+    "name": "Pragati Narrow",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/pragati-narrow/",
+    "designer": "Marcela Romero, Pablo Cosgaya, Nicolás Silva",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A sans-serif with vertical and horizontal cuts, described as reminiscent of late nineteenth-century American typefaces, designed to complement Archivo Narrow's proportions and rhythm.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pragati Narrow"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "narrow",
+      "devanagari",
+      "screen",
+      "webfont",
+      "libre",
+      "companion",
+      "american-gothic"
+    ],
+    "summary": "A libre narrow sans-serif designed to complement Archivo Narrow, with dedicated Devanagari support alongside a Latin that draws on late nineteenth-century American type.",
+    "description": "Designed by Marcela Romero, Pablo Cosgaya and Nicolás Silva, Pragati Narrow pairs with Archivo Narrow across both Latin and Devanagari scripts. The sans-serif construction uses vertical and horizontal cuts, and the two-weight family was built with screen use in mind, functioning as both webfont and desktop font. The Devanagari component makes it a practical choice for multilingual publishing that requires coverage of Hindi and related scripts.",
+    "foundry_blurb": "Omnibus-Type describe Pragati Narrow as a libre Devanagari typeface family designed as a complement to Archivo Narrow, available in Regular and Bold. It is a sans-serif with vertical and horizontal cuts, developed for screen use as both webfont and desktop font, with the Latin reminiscent of late nineteenth-century American typefaces."
+  },
+  {
+    "name": "Saira Extra Condensed",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/saira-extra-condensed/",
+    "designer": "Héctor Gatti",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "condensed grotesque",
+    "classification_notes": "A contemporary sans serif in extra condensed widths across nine weights with italics, suited to editorial and text applications typical of grotesque lineage typefaces.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Extra Condensed"
+    ],
+    "subfamilies": [
+      "Saira Extra Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "grotesque",
+      "editorial",
+      "press",
+      "newspaper",
+      "magazine",
+      "headline",
+      "text"
+    ],
+    "summary": "An extra condensed sans serif family of 18 styles designed for editorial use across headlines and continuous text.",
+    "description": "Originally drawn by Héctor Gatti and completed by the Omnibus-Type Team, it spans nine weights from Thin to Black, each with a matching italic. Part of Omnibus-Type's Press Series, it is built for space-efficient setting in newspapers, magazines and books while remaining legible at text sizes.",
+    "foundry_blurb": "Omnibus-Type describe Saira Extra Condensed as a contemporary sans serif system comprising 18 styles across nine weights with matching italics. It belongs to their Press Series, designed for use in newspapers, magazines, books and websites, with high adaptability for both headlines and long-form text. The original masters were drawn by Héctor Gatti, with character sets later completed by the Omnibus-Type Team."
+  },
+  {
+    "name": "Saira Semi Condensed",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/saira-semi-condensed/",
+    "designer": "Héctor Gatti",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A contemporary sans serif described as semi-condensed, fitting within the grotesque tradition and designed for versatile editorial use across headlines and body text.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Semi Condensed"
+    ],
+    "subfamilies": [
+      "Saira Semi Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "semi-condensed",
+      "editorial",
+      "press",
+      "newspaper",
+      "versatile",
+      "grotesque"
+    ],
+    "summary": "A semi-condensed sans serif family of 18 styles designed for editorial use across print and digital media.",
+    "description": "Part of Omnibus-Type's Press Series, this family spans nine weights from Thin to Black with matching italics, suited to both headline and long-text settings. Originally designed by Héctor Gatti, with the character sets later completed by the Omnibus-Type team. Its semi-condensed proportions make it well suited to newspaper columns and magazine layouts where horizontal economy is needed.",
+    "foundry_blurb": "Omnibus-Type describe Saira Semi Condensed as a contemporary sans serif system comprising 18 styles across nine weights with matching italics. It is part of their Press Series, intended for use in newspapers, magazines, books and websites, and is noted for high adaptability across both headlines and long texts. The original masters were designed by Héctor Gatti, with character sets later completed by the Omnibus-Type Team."
+  },
+  {
+    "name": "Saira Condensed",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/saira-condensed/",
+    "designer": "Héctor Gatti",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "condensed grotesque",
+    "classification_notes": "A contemporary sans serif in a condensed width, part of a larger system; classified as grotesque given its neutral, press-oriented character and lack of humanist or geometric tendencies.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Saira Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "grotesque",
+      "press",
+      "editorial",
+      "newspaper",
+      "versatile",
+      "text",
+      "headline"
+    ],
+    "summary": "A condensed cut of the Saira sans serif system, designed for press and editorial use across headlines and body text.",
+    "description": "Part of Omnibus-Type's Press Series, Saira Condensed offers nine weights with matching italics, giving editors and designers a compact yet readable option for tight columns and high-information layouts. The original masters were drawn by Héctor Gatti, with character sets later completed by the Omnibus-Type team. Its neutral, adaptable character makes it equally at home in newspaper headlines and long-form text.",
+    "foundry_blurb": "Omnibus-Type describe Saira as a contemporary sans serif system of 18 styles — nine weights plus matching italics — suited to newspapers, magazines, books and websites. Part of their Press Series, it is designed to work across both headlines and extended text, with original masters by Héctor Gatti and character sets completed by the Omnibus-Type team."
+  },
+  {
+    "name": "Saira Stencil One",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/saira-stencil-one/",
+    "designer": "Héctor Gatti",
+    "year": null,
+    "category": "display",
+    "subcategory": "stencil",
+    "classification_notes": "A stencil variant of the Saira typeface family, with precise slits cutting through letterforms for bold titling and branding use. The stencil treatment and its striking visual character place it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Saira Stencil One"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "display",
+      "titling",
+      "branding",
+      "bold",
+      "geometric"
+    ],
+    "summary": "A stencil cut of the Saira typeface, introducing precise slits that range from the logical to the unexpected, suited to titles and brand work.",
+    "description": "Derived from the Saira family, this stencil variant retains the underlying structure of the original while adding carefully placed cuts that break the letterforms. Some slits follow conventional stencil logic; others are deliberately off-kilter, giving the face a distinct sharpness. Designed by Héctor Gatti and developed by the Omnibus-Type Team, it works well at display sizes for headlines and identity applications.",
+    "foundry_blurb": "Omnibus-Type describe Saira Stencil One as a cut version of Saira that preserves the primary structure of the original while adding precise slits. Some cuts are described as logical, others as offbeat. The result is a sharp, striking typeface offering attractive options for titles and brand work, designed by Héctor Gatti and developed by the Omnibus-Type Team."
+  },
+  {
+    "name": "Sansita",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/sansita/",
+    "designer": "Pablo Cosgaya",
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "A calligraphic display sans with vigorous stroke contrast and expressive uppercase forms, bridging typography, calligraphy and lettering rather than sitting cleanly in any single classification.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sansita"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "calligraphic",
+      "lettering",
+      "branding",
+      "packaging",
+      "expressive",
+      "sans-serif"
+    ],
+    "summary": "A calligraphic display sans in six weights with matching italics, built around expressive uppercase letterforms suited to branding and editorial headlines.",
+    "description": "Designed by Pablo Cosgaya with assistance from Ana Sanfelippo and the Omnibus-Type team, Sansita draws on calligraphy and lettering traditions to produce a sans with visible stroke contrast and vigorous uppercase characters. Six weights run from Regular to Heavy, each with matching italics, giving the family enough range for varied headline and packaging applications. The expressive stroke rhythm makes it better suited to short, impactful copy than to extended text.",
+    "foundry_blurb": "Omnibus-Type describe Sansita as a tasty typeface family exploring the borders between typography, calligraphy and lettering, with six weight variants and matching italics. They note its vigorous uppercases make it an excellent choice for branding, packaging, slogans and book covers, and that it was designed by Pablo Cosgaya with assistance from Ana Sanfelippo and the Omnibus-Type team."
+  },
+  {
+    "name": "Sansita Swashed",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/sansita-swashed/",
+    "designer": "Pablo Cosgaya",
+    "year": null,
+    "category": "display",
+    "subcategory": "swash display",
+    "classification_notes": "A decorative variant of the Sansita typeface featuring swash capitals, alternative lowercase letters and ornate ligatures, placing it firmly in the display category as a swash type.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sansita Swashed"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "swash",
+      "display",
+      "ornate",
+      "decorative",
+      "curvy",
+      "ligatures",
+      "script-influenced"
+    ],
+    "summary": "An ornate swash variant of Sansita with curvy uppercase letters, alternative lowercase forms and expanded ligature possibilities across six weights.",
+    "description": "Built on the foundation of the Sansita typeface, this swashed variant introduces decorative curvilinear capitals, select alternative lowercase letters and new ligature options that give it a more expressive character than its parent. Six weight variants extend its range from light text use to bold display settings. Designed by Pablo Cosgaya and developed by Aldo De Losa alongside the Omnibus-Type team.",
+    "foundry_blurb": "Omnibus-Type describe Sansita Swashed as an ornate version of Sansita featuring six weight variants, curvy uppercase letters, certain alternative lowercase letters and new ligature possibilities. The typeface was designed by Pablo Cosgaya and developed by Aldo De Losa and the Omnibus-Type team."
+  },
+  {
+    "name": "Unna",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/unna/",
+    "designer": "Jorge de Buen",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Described explicitly as transitional with neoclassical vertical stress, delicate serifs and strong stems, placing it firmly in the transitional serif subcategory.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Unna"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "neoclassical",
+      "book",
+      "literary",
+      "serif",
+      "text"
+    ],
+    "summary": "A transitional serif with neoclassical vertical texture, delicate serifs and strong stems, designed by Jorge de Buen for literary body text.",
+    "description": "Designed by Jorge de Buen and developed by the Omnibus-Type team, Unna takes its name from the designer's mother's surname. Four weights with matching italics make it a practical choice for book typography, where its combination of fine serifs and sturdy stems gives running text a quiet elegance without rigidity.",
+    "foundry_blurb": "Omnibus-Type describe Unna as a transitional typeface with four weight variants and matching italics. Its visual character presents a neoclassical vertical texture alongside delicate serifs and strong stems, making it well suited to literature books. It was designed by Jorge de Buen, inspired by his mother's surname, and developed by the Omnibus-Type team."
+  },
+  {
+    "name": "Truculenta Original",
+    "foundry": "Omnibus-Type",
+    "url": "https://www.omnibus-type.com/fonts/truculenta-original/",
+    "designer": "Iván Castro",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described explicitly as a quirky grotesque rooted in mid-century lettering, with irregular rhythms that set it apart from cold neo-grotesque designs.",
+    "weights": [
+      "Thin",
+      "Regular",
+      "Bold",
+      "Dirty"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Truculenta Original"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "irregular",
+      "mid-century",
+      "packaging",
+      "branding",
+      "quirky",
+      "display",
+      "pictograms"
+    ],
+    "summary": "An irregular mid-century grotesque with a deliberately quirky character, extended with a ragged Dirty variant and 40 onomatopoeias.",
+    "description": "Designed by Iván Castro with the Omnibus-Type team, this grotesque draws on mid-century hand lettering to produce a warmth and irregularity absent from most neo-grotesque families. Three weights from Thin to Bold are joined by a Dirty variant that introduces a ragged, worn quality, and each weight includes two sets of tabular figures, 135 ligatures and 40 onomatopoeias. The Dirty variant adds 40 original pictograms drawn by Eva Sanz, making it well suited to packaging, book covers and film titles.",
+    "foundry_blurb": "Omnibus-Type describe Truculenta Original as an irregular sans serif rooted in mid-century lettering with a twist, offering three weight variants plus a Dirty version with a ragged character. Each variant ships with lining and old-style tabular figures, 135 ligatures and 40 onomatopoeias, with the Dirty version also including 40 pictograms by Eva Sanz. They position it for packaging, branding, book covers, illustrated editions and film titles, noting its personality is more vibrant than a typical cold neo-grotesque."
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Gloridot",
+    "foundry": "Bijou Type",
+    "url": "https://bijoutype.com/typefaces/gloridot",
+    "designer": null,
+    "year": 2023,
+    "category": "display",
+    "subcategory": "dot matrix display",
+    "classification_notes": "A headline display typeface constructed from a grid of dots, derived from lettering on an old adult magazine cover. The modular dot system and headline-only intent place it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gloridot"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Pan-Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "dot-matrix",
+      "headline",
+      "modular",
+      "decorative",
+      "grid",
+      "multilingual"
+    ],
+    "summary": "A dot-matrix display typeface built from a modular grid system, traced back to unidentified lettering on the cover of an old adult magazine.",
+    "description": "Constructed from a repeating grid of dots, the design originated from a small set of letters spotted on a vintage magazine cover, with the underlying system then expanded into a full typeface. Despite its seemingly simple modular logic, the dot grid grew complex enough to support around 505 languages, plus additional symbols for borders and patterns. Intended for large, solid headlines and titles, it suits display-only work where graphic weight and novelty are the priority.",
+    "foundry_blurb": "Bijou Type describe Gloridot as a typeface for big, solid headlines and titles, born from a handful of letters in an unidentified typeface on the cover of an old adult magazine. The dot grid that formed those letters appeared at first to be a straightforward construction system, but expanded into a puzzle capable of supporting approximately 505 languages alongside border and pattern symbols. Released in 2023."
+  },
+  {
+    "name": "Ringold",
+    "foundry": "Bijou Type",
+    "url": "https://bijoutype.com/typefaces/ringold",
+    "designer": null,
+    "year": 2023,
+    "category": "display",
+    "subcategory": "display serif family",
+    "classification_notes": "Ringold is a display type family spanning five distinct styles from slab and Clarendon-inspired serifs to a geometric gym-style slab and a sans variant, all sharing the same proportions and designed for tight headline setting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ringold Sans",
+      "Ringold Slab",
+      "Ringold Soft",
+      "Ringold Gym",
+      "Ringold Clarendon"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "headline",
+      "slab",
+      "clarendon",
+      "sans",
+      "modular",
+      "tight-spacing",
+      "multilingual"
+    ],
+    "summary": "A five-style display family designed for tight headline setting, where each style shares the same proportions but shifts in personality from nostalgic Clarendon to clean sans.",
+    "description": "Five stylistically distinct subfamilies share identical proportions and density, allowing designers to swap between them without disrupting layout rhythm. The range moves from the whimsically nostalgic Ringold Clarendon through a sharp slab, an architectural gym-style variant, a warm sans and a softer rounded cut. Each style supports approximately 505 languages, making the family unusually broad in its script coverage for a display release.",
+    "foundry_blurb": "Bijou Type describe Ringold as built for bold headlines where letters need to sit tight without quite touching. The five styles share proportions and density but each shifts in personality: Clarendon is nostalgic, Slab is sharper and more buttoned-down, Gym adds architectural weight to the Slab, Sans removes the serifs while keeping warmth, and Soft is a smoother, friendlier take on the Sans. Released in 2023 with support for around 505 languages per style."
+  },
+  {
+    "name": "Buckram",
+    "foundry": "Bijou Type",
+    "url": "https://bijoutype.com/typefaces/buckram",
+    "designer": null,
+    "year": 2024,
+    "category": "slab",
+    "subcategory": "slab serif",
+    "classification_notes": "Buckram is explicitly described as a slab serif, with sturdy rectangular serifs and functional letterforms balanced by editorial warmth, placing it squarely in the slab serif category.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Buckram"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "editorial",
+      "promotional",
+      "workhorse",
+      "variable",
+      "multilingual",
+      "sturdy",
+      "readable"
+    ],
+    "summary": "A sturdy, functional slab serif in eight weights with broad Latin coverage across approximately 390 languages, released in 2024.",
+    "description": "Buckram takes its name from the stiff, durable cloth used in bookbinding, and the analogy holds: the design prioritises clarity and legibility without sacrificing warmth. Eight weights from ExtraLight to Black are available individually or as a variable font, and the extensive Latin character set covers around 390 languages. Suited to editorial and promotional work where reliability matters as much as personality.",
+    "foundry_blurb": "Bijou Type describe Buckram as a readable, hard-working slab serif, as durable and functional as its namesake cloth. They note its shapes are sturdy and clear while retaining a touch of warmth and delicacy for editorial or promotional use, available in eight weights with an extensive Latin character set supporting approximately 390 languages."
+  }
+]

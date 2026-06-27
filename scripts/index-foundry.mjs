@@ -3239,6 +3239,572 @@ const FOUNDRIES = [
       } catch { return false; }
     },
   },
+  // Batch 23 — typefoundry.directory gap-fill
+  { name: "Abyme", slug: "abyme", homepage: "https://www.abyme.net", listingUrl: "https://www.abyme.net/catalogue/", tier: "okay" },
+  { name: "Apex Foundry", slug: "apex-foundry", homepage: "https://www.apextypefoundry.com/", listingUrl: "https://www.apextypefoundry.com/typefaces", tier: "okay" },
+  { name: "Arcane Type Foundry", slug: "arcane-type-foundry", homepage: "https://www.arcanetype.com", listingUrl: "https://www.arcanetype.com/fonts", tier: "okay" },
+  { name: "Atlas Fonts", slug: "atlas-fonts", homepage: "https://www.atlasfonts.com", listingUrl: "https://www.atlasfonts.com/typefaces", tier: "okay" },
+  { name: "Bijou Type", slug: "bijou-type", homepage: "https://bijoutype.com", listingUrl: "https://bijoutype.com/typefaces", tier: "okay" },
+  { name: "Bold Decisions", slug: "bold-decisions", homepage: "https://bold-decisions.biz", listingUrl: "https://bold-decisions.biz/Typefaces", tier: "okay" },
+  { name: "Briefcase Type Foundry", slug: "briefcase-type-foundry", homepage: "https://www.briefcasetype.com", listingUrl: "https://www.briefcasetype.com/fonts", tier: "okay" },
+  { name: "Brownfox", slug: "brownfox", homepage: "https://brownfox.org", listingUrl: "https://brownfox.org/fonts", tier: "okay" },
+  { name: "Cape Arcona", slug: "cape-arcona", homepage: "https://www.cape-arcona.com", listingUrl: "https://www.cape-arcona.com/typefaces/", tier: "okay" },
+  { name: "Character Type", slug: "character-type", homepage: "https://charactertype.com", listingUrl: "https://charactertype.com/typefaces/", tier: "okay" },
+  { name: "Counter Forms", slug: "counter-forms", homepage: "https://counter-forms.com/", listingUrl: "https://counter-forms.com/typefaces", tier: "okay" },
+  { name: "Delta Bravo Type", slug: "delta-bravo-type", homepage: "https://www.deltabravotype.com", listingUrl: "https://www.deltabravotype.com/fonts", tier: "okay" },
+  { name: "Domicile Foundry", slug: "domicile-foundry", homepage: "https://domicilefoundry.com", listingUrl: "https://domicilefoundry.com/typefaces", tier: "okay" },
+  { name: "Dunwich Type", slug: "dunwich-type", homepage: "https://dunwichtype.com", listingUrl: "https://dunwichtype.com/fonts/", tier: "okay" },
+  { name: "Edition Studio", slug: "edition-studio", homepage: "https://edition.studio", listingUrl: "https://edition.studio/type-foundry", tier: "okay" },
+  { name: "EK Type", slug: "ek-type", homepage: "https://ektype.in", listingUrl: "https://ektype.in/fonts", tier: "best" },
+  { name: "Emtype Foundry", slug: "emtype-foundry", homepage: "https://emtype.net", listingUrl: "https://emtype.net/fonts", tier: "best" },
+  {
+    name: "EPI",
+    slug: "epitype",
+    homepage: "https://epitype.xyz",
+    listingUrl: "https://epitype.xyz/shop",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("epitype.xyz")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  { name: "Extra Type", slug: "extra-type", homepage: "https://extratype.com", listingUrl: "https://extratype.com/fonts", tier: "okay" },
+  { name: "FDI Type Foundry", slug: "fdi-type-foundry", homepage: "https://fdi-type.de", listingUrl: "https://fdi-type.de/fonts/", tier: "okay" },
+  { name: "Font Club Belgica", slug: "font-club-belgica", homepage: "https://fontclubbelgica.com", listingUrl: "https://fontclubbelgica.com/typefaces", tier: "okay" },
+  { name: "Frere-Jones", slug: "frere-jones", homepage: "https://frerejones.com", listingUrl: "https://frerejones.com/typefaces", tier: "best" },
+  { name: "Fuerte Type", slug: "fuerte-type", homepage: "https://www.fuertetype.com/", listingUrl: "https://www.fuertetype.com/typefaces/", tier: "okay" },
+  { name: "Furniture", slug: "furniture", homepage: "https://www.furniture.xyz", listingUrl: "https://www.furniture.xyz/typefaces", tier: "okay" },
+  { name: "G-Type", slug: "g-type", homepage: "https://g-type.com", listingUrl: "https://g-type.com/fonts", tier: "best" },
+  { name: "Hungarumlaut", slug: "hungarumlaut", homepage: "https://hungarumlaut.com", listingUrl: "https://hungarumlaut.com/typefaces", tier: "okay" },
+  { name: "Ivy Foundry", slug: "ivy-foundry", homepage: "https://ivyfoundry.com", listingUrl: "https://ivyfoundry.com/families", tier: "okay" },
+  { name: "Jamie Clark Type", slug: "jamie-clark-type", homepage: "https://www.jamieclarketype.com", listingUrl: "https://www.jamieclarketype.com/fonts", tier: "okay" },
+  { name: "Jeremy Tankard Typography", slug: "jeremy-tankard", homepage: "https://typography.net", listingUrl: "https://typography.net", tier: "best" },
+  { name: "July Type", slug: "july-type", homepage: "https://www.julytype.com", listingUrl: "https://www.julytype.com/typefaces", tier: "okay" },
+  { name: "Kerns & Cairns", slug: "kerns-and-cairns", homepage: "https://www.kernsandcairns.com", listingUrl: "https://www.kernsandcairns.com/fonts", tier: "okay" },
+  { name: "Kostic Type", slug: "kostic-type", homepage: "https://kostictype.com", listingUrl: "https://kostictype.com/fonts", tier: "okay" },
+  { name: "LettError", slug: "letterror", homepage: "https://letterror.com/", listingUrl: "https://letterror.com/collection/", tier: "best" },
+  { name: "London Type Foundry", slug: "london-type-foundry", homepage: "https://londontype.co.uk", listingUrl: "https://londontype.co.uk/fonts", tier: "okay" },
+  { name: "Mai Type", slug: "mai-type", homepage: "https://www.maitype.xyz", listingUrl: "https://www.maitype.xyz/fonts", tier: "okay" },
+  { name: "Manic Type", slug: "manic-type", homepage: "https://www.manictype.com", listingUrl: "https://www.manictype.com/fonts", tier: "okay" },
+  { name: "MB Type", slug: "mb-type", homepage: "https://mbtype.com", listingUrl: "https://mbtype.com/fonts", tier: "best" },
+  { name: "MCKL", slug: "mckl", homepage: "https://mckltype.com", listingUrl: "https://www.mckltype.com/typefaces", tier: "best" },
+  { name: "Ndiscover", slug: "ndiscover", homepage: "https://ndiscover.com", listingUrl: "https://ndiscover.com/family", tier: "okay" },
+  {
+    name: "Newglyph",
+    slug: "newglyph",
+    homepage: "https://newglyph.com",
+    listingUrl: "https://newglyph.com/typefaces/",
+    tier: "okay",
+    // listing at /typefaces/ but individual pages live at /typeface/ (singular)
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("newglyph.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typeface" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  { name: "Not Your Type", slug: "not-your-type", homepage: "https://notyourtype.nl", listingUrl: "https://www.notyourtype.nl/typefaces/", tier: "okay" },
+  { name: "Nymark Type", slug: "nymark-type", homepage: "https://www.nymarktype.co", listingUrl: "https://www.nymarktype.co/fonts", tier: "okay" },
+  { name: "Occupant Fonts", slug: "occupant-fonts", homepage: "https://occupantfonts.com", listingUrl: "https://occupantfonts.com/fonts/", tier: "best" },
+  { name: "Omnibus-Type", slug: "omnibus-type", homepage: "https://www.omnibus-type.com", listingUrl: "https://www.omnibus-type.com/fonts/", tier: "okay" },
+  { name: "Or Type", slug: "or-type", homepage: "https://ortype.is", listingUrl: "https://ortype.is", tier: "best" },
+  { name: "Original Type", slug: "original-type", homepage: "https://originaltype.com", listingUrl: "https://originaltype.com/collection/", tier: "okay" },
+  { name: "Pampatype", slug: "pampatype", homepage: "https://pampatype.com", listingUrl: "https://pampatype.com/typefaces", tier: "best" },
+  { name: "Proof of Words", slug: "proof-of-words", homepage: "https://proof-of-words.com", listingUrl: "https://proof-of-words.com/typefaces", tier: "okay" },
+  { name: "Public Type", slug: "public-type", homepage: "https://www.publictype.us", listingUrl: "https://www.publictype.us/fonts", tier: "okay" },
+  { name: "Pyte Foundry", slug: "pyte-foundry", homepage: "https://thepytefoundry.net", listingUrl: "https://thepytefoundry.net/typefaces", tier: "okay" },
+  { name: "Razzia Type", slug: "razzia-type", homepage: "https://www.razziatype.com", listingUrl: "https://www.razziatype.com/fonts", tier: "okay" },
+  {
+    name: "Retype",
+    slug: "retype",
+    homepage: "https://www.re-type.com",
+    listingUrl: "https://www.re-type.com/fonts/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("re-type.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]) && parts[1] !== "my-cart";
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Revolver Type Foundry",
+    slug: "revolver-type-foundry",
+    homepage: "https://www.revolvertype.com/",
+    listingUrl: "https://www.revolvertype.com/typefaces/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("revolvertype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]) && parts[1] !== "home";
+      } catch { return false; }
+    },
+  },
+  { name: "Road to Venice Type", slug: "road-to-venice-type", homepage: "https://www.r-vtype.com", listingUrl: "https://www.r-vtype.com/typeface", tier: "okay" },
+  { name: "Serpentype", slug: "serpentype", homepage: "https://www.serpentype.com", listingUrl: "https://www.serpentype.com/fonts", tier: "okay" },
+  { name: "Setup Type", slug: "setup-type", homepage: "https://www.setuptype.com", listingUrl: "https://www.setuptype.com/fonts", tier: "okay" },
+  { name: "Slanted Hall", slug: "slanted-hall", homepage: "https://slantedhall.com", listingUrl: "https://slantedhall.com/fonts", tier: "okay" },
+  { name: "Softdrive Foundry", slug: "softdrive-foundry", homepage: "https://www.softdrivefoundry.com/", listingUrl: "https://www.softdrivefoundry.com/typefaces", tier: "okay" },
+  { name: "Teeline Fonts", slug: "teeline-fonts", homepage: "https://teelinefonts.com", listingUrl: "https://teelinefonts.com/typefaces", tier: "okay" },
+  { name: "The Letters", slug: "the-letters", homepage: "https://theletters.co/", listingUrl: "https://theletters.co/fonts", tier: "okay" },
+  { name: "Tipofili", slug: "tipofili", homepage: "https://tipofili.com", listingUrl: "https://tipofili.com/fonts", tier: "okay" },
+  { name: "Tiro Typeworks", slug: "tiro-typeworks", homepage: "https://www.tiro.com", listingUrl: "https://www.tiro.com/fonts", tier: "best" },
+  { name: "Tour de Force", slug: "tour-de-force", homepage: "https://tourdefonts.com", listingUrl: "https://tourdefonts.com/fonts", tier: "okay" },
+  { name: "Type Different", slug: "type-different", homepage: "https://www.typedifferent.com", listingUrl: "https://www.typedifferent.com/fonts", tier: "okay" },
+  {
+    name: "Typeheist",
+    slug: "typeheist",
+    homepage: "https://typeheist.co",
+    listingUrl: "https://typeheist.co/fonts/",
+    tier: "okay",
+    // listing at /fonts/ but individual pages live at /font/ (singular)
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("typeheist.co")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "font" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  { name: "Typejockeys", slug: "typejockeys", homepage: "https://www.typejockeys.com", listingUrl: "https://www.typejockeys.com/en/fonts", tier: "okay" },
+  { name: "Typeland", slug: "typeland", homepage: "https://type.land", listingUrl: "https://type.land/typefaces", tier: "okay" },
+  { name: "Typemanufactur", slug: "typemanufactur", homepage: "https://www.typemanufactur.com/en", listingUrl: "https://typemanufactur.com/en/fonts", tier: "okay" },
+  { name: "Typeóca", slug: "typeoca", homepage: "https://typeoca.com/", listingUrl: "https://typeoca.com/fontes", tier: "okay" },
+  { name: "Typerepublic", slug: "typerepublic", homepage: "https://typerepublic.com", listingUrl: "https://typerepublic.com/fonts/", tier: "okay" },
+  { name: "Underscore Type", slug: "underscore-type", homepage: "https://underscoretype.com/", listingUrl: "https://underscoretype.com/fonts", tier: "okay" },
+  {
+    name: "Underware",
+    slug: "underware",
+    homepage: "https://www.underware.nl",
+    listingUrl: "https://www.underware.nl/fonts",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("underware.nl")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  { name: "Very Cool Studio", slug: "very-cool-studio", homepage: "https://verycoolstudio.com/", listingUrl: "https://verycoolstudio.com/typefaces", tier: "okay" },
+  { name: "W Type Foundry", slug: "w-type-foundry", homepage: "https://wtypefoundry.com", listingUrl: "https://wtypefoundry.com/typefaces", tier: "okay" },
+  { name: "XO Type Co", slug: "xo-type-co", homepage: "https://xotype.co", listingUrl: "https://xotype.co/family", tier: "okay" },
+  { name: "Yep! Type Foundry", slug: "yep-type-foundry", homepage: "https://yeptype.com", listingUrl: "https://yeptype.com/fonts", tier: "okay" },
+  // Batch 24 — remaining typefoundry.directory accessible foundries
+  { name: "ABC Etc Inc", slug: "abc-etc", homepage: "http://www.abc-etc.com/", listingUrl: "https://abc-etc.com/typefaces/", tier: "okay" },
+  { name: "Aesthetic Type", slug: "aesthetic-type", homepage: "https://aesthetictype.com", listingUrl: "https://aesthetictype.com/typefaces", tier: "okay" },
+  { name: "Avondale Type Co.", slug: "avondale-type", homepage: "https://avondaletypeco.com", listingUrl: "https://www.avondaletypeco.com/typefaces", tier: "okay" },
+  { name: "Badson Type", slug: "badson-type", homepage: "https://badsontype.com", listingUrl: "https://badsontype.com/fonts", tier: "okay" },
+  { name: "Bal Foundry", slug: "bal-foundry", homepage: "https://www.bal-foundry.com", listingUrl: "https://www.bal-foundry.com/typefaces", tier: "okay" },
+  {
+    name: "Barnbrook",
+    slug: "barnbrook",
+    homepage: "https://fonts.barnbrook.net",
+    listingUrl: "https://barnbrook.net/fonts/",
+    tier: "okay",
+    // listing at /fonts/ but individual typefaces at /typefaces/{slug}
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("barnbrook.net")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Beasts of England",
+    slug: "beasts-of-england",
+    homepage: "https://beastsofengland.co",
+    listingUrl: "https://beastsofengland.co",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("beastsofengland.co")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  { name: "Blackletra", slug: "blackletra", homepage: "http://www.blackletra.com", listingUrl: "http://www.blackletra.com", tier: "okay" },
+  { name: "Bloom Type", slug: "bloom-type", homepage: "https://bloomtype.com", listingUrl: "https://bloomtype.com/fonts/", tier: "okay" },
+  { name: "Bold Studio", slug: "bold-studio", homepage: "http://bold.studio", listingUrl: "https://bold.studio/typefaces", tier: "okay" },
+  { name: "Bolid System", slug: "bolid-system", homepage: "https://bolidsystem.ch", listingUrl: "https://bolidsystem.ch/typefaces", tier: "okay" },
+  { name: "Branding with Type", slug: "branding-with-type", homepage: "https://brandingwithtype.com", listingUrl: "https://brandingwithtype.com/fonts", tier: "okay" },
+  { name: "Bretagne", slug: "bretagne", homepage: "http://www.bretagnebretagne.fr", listingUrl: "http://www.bretagnebretagne.fr", tier: "okay" },
+  { name: "Brutal Types", slug: "brutal-types", homepage: "https://www.brutaltypes.com", listingUrl: "https://www.brutaltypes.com/typefaces", tier: "okay" },
+  { name: "Bureau Blamage", slug: "bureau-blamage", homepage: "http://www.bblamage-fonts.net", listingUrl: "http://www.bblamage-fonts.net", tier: "okay" },
+  { name: "Cake Type", slug: "cake-type", homepage: "https://www.caketype.com", listingUrl: "https://www.caketype.com/typefaces", tier: "okay" },
+  {
+    name: "Cantrell Type",
+    slug: "cantrell-type",
+    homepage: "https://cantrelltype.com",
+    listingUrl: "https://cantrelltype.com",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("cantrelltype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "pages" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Carmel Type Co.",
+    slug: "carmel-type",
+    homepage: "https://carmeltype.co",
+    listingUrl: "https://carmeltype.co",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("carmeltype.co")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  { name: "Charlotte Rohde", slug: "charlotte-rohde", homepage: "https://www.charlotterohde.de/typefaces", listingUrl: "https://www.charlotterohde.de/typefaces", tier: "okay" },
+  { name: "CJ Type", slug: "cj-type", homepage: "http://www.cjtype.com", listingUrl: "https://cjtype.com/", tier: "okay" },
+  { name: "Comma Type", slug: "comma-type", homepage: "https://www.commatype.com", listingUrl: "https://www.commatype.com/typefaces", tier: "okay" },
+  { name: "Contrast Foundry", slug: "contrast-foundry", homepage: "http://www.contrastfoundry.com", listingUrl: "http://www.contrastfoundry.com", tier: "okay" },
+  { name: "Corentin Noyer", slug: "corentin-noyer", homepage: "https://www.corentinoyer.fr/fr", listingUrl: "https://www.corentinoyer.fr/fr", tier: "okay" },
+  { name: "Crown Type", slug: "crown-type", homepage: "https://crowntype.com", listingUrl: "https://crowntype.com/fonts", tier: "okay" },
+  {
+    name: "David Einwaller",
+    slug: "david-einwaller",
+    homepage: "https://shop.deinwaller.com",
+    listingUrl: "https://shop.deinwaller.com",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("deinwaller.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  { name: "Dennis Grauel", slug: "dennis-grauel", homepage: "https://dennisgrauel.com", listingUrl: "https://dennisgrauel.com/typefaces", tier: "okay" },
+  { name: "Department of Letters", slug: "department-of-letters", homepage: "https://www.deptofletters.ca", listingUrl: "https://www.deptofletters.ca/fonts", tier: "okay" },
+  { name: "Diorama Type Partners", slug: "diorama-type-partners", homepage: "https://www.dioramatypepartners.com", listingUrl: "https://www.dioramatypepartners.com/typefaces", tier: "okay" },
+  { name: "Dreamtype", slug: "dreamtype", homepage: "https://dreamtype.xyz", listingUrl: "https://dreamtype.xyz/typefaces", tier: "okay" },
+  { name: "E162", slug: "e162", homepage: "http://e162.eu/fonderie", listingUrl: "http://e162.eu/fonderie", tier: "okay" },
+  { name: "ETC Typefaces", slug: "etc-typefaces", homepage: "https://etc.supply", listingUrl: "https://etceteratype.co/", tier: "okay" },
+  { name: "Facetype", slug: "facetype", homepage: "http://www.facetype.org", listingUrl: "http://www.facetype.org", tier: "okay" },
+  { name: "Familiar Faces", slug: "familiar-faces", homepage: "https://familiarfaces.xyz", listingUrl: "https://familiarfaces.xyz/typefaces", tier: "okay" },
+  { name: "Fantasia Type", slug: "fantasia-type", homepage: "https://www.fantasia-type.com", listingUrl: "https://www.fantasia-type.com/typefaces", tier: "okay" },
+  { name: "Feedtype", slug: "feedtype", homepage: "https://feedtype.ca/en/", listingUrl: "https://feedtype.ca/en/typefaces/", tier: "okay" },
+  { name: "Finaltype", slug: "finaltype", homepage: "https://finaltype.de/en", listingUrl: "https://finaltype.de/en/typefaces", tier: "okay" },
+  { name: "Forgery Type", slug: "forgery-type", homepage: "https://forgery.ventures", listingUrl: "https://forgery.ventures/typefaces", tier: "okay" },
+  { name: "Formula Type", slug: "formula-type", homepage: "https://www.formulatype.com", listingUrl: "https://formulatype.com/typefaces", tier: "okay" },
+  { name: "Fort Foundry", slug: "fort-foundry", homepage: "https://fortfoundry.com", listingUrl: "https://fortfoundry.com/fonts", tier: "okay" },
+  { name: "Foster Type", slug: "foster-type", homepage: "https://www.fostertype.com", listingUrl: "https://www.fostertype.com/fonts", tier: "okay" },
+  {
+    name: "Foundry Five",
+    slug: "foundry-five",
+    homepage: "https://foundryfivetype.com",
+    listingUrl: "https://foundryfivetype.com/type",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("foundryfivetype.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "type" && !NON_TYPEFACE_SLUGS.has(parts[1]) && parts[1] !== "trial-fonts";
+      } catch { return false; }
+    },
+  },
+  { name: "Gruppo Due", slug: "gruppo-due", homepage: "https://gruppo-due.com", listingUrl: "https://gruppo-due.com/typefaces", tier: "okay" },
+  { name: "Hard Type", slug: "hard-type", homepage: "https://hardtype.xyz", listingUrl: "https://hardtype.xyz/fonts", tier: "okay" },
+  { name: "Herzberg Design", slug: "herzberg-design", homepage: "https://www.herzbergdesign.com", listingUrl: "https://www.herzbergdesign.com/typefaces", tier: "okay" },
+  { name: "HEX", slug: "hex", homepage: "https://hex.xyz/", listingUrl: "https://hex.xyz/typefaces", tier: "okay" },
+  { name: "Hipertipo", slug: "hipertipo", homepage: "https://www.hipertipo.com/fontes/", listingUrl: "https://www.hipertipo.com/en/fonts/", tier: "okay" },
+  {
+    name: "Hurme Design",
+    slug: "hurme-design",
+    homepage: "https://hurmedesign.com/",
+    listingUrl: "https://hurmedesign.com/homepage/catalog",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("hurmedesign.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 3 && parts[0] === "homepage" && parts[1] === "catalog" && !NON_TYPEFACE_SLUGS.has(parts[2]);
+      } catch { return false; }
+    },
+  },
+  { name: "Hypertype", slug: "hypertype", homepage: "http://hypertype.xyz", listingUrl: "http://hypertype.xyz/fonts", tier: "okay" },
+  {
+    name: "Identity Letters",
+    slug: "identity-letters",
+    homepage: "https://www.identity-letters.com",
+    listingUrl: "https://www.identity-letters.com/font-catalog/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("identity-letters.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "font-catalog" && !NON_TYPEFACE_SLUGS.has(parts[1]) && parts[1] !== "tag";
+      } catch { return false; }
+    },
+  },
+  {
+    name: "In-House Intl",
+    slug: "in-house-intl",
+    homepage: "https://weareinhouse.com/types/",
+    listingUrl: "https://weareinhouse.com/types/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("weareinhouse.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "types" && !NON_TYPEFACE_SLUGS.has(parts[1]) && parts[1] !== "feed";
+      } catch { return false; }
+    },
+  },
+  { name: "Inari Type", slug: "inari-type", homepage: "https://inaritype.com", listingUrl: "https://inaritype.com/typefaces", tier: "okay" },
+  { name: "Itemzero", slug: "itemzero", homepage: "https://shop.itemzero.com", listingUrl: "https://shop.itemzero.com/typefaces", tier: "okay" },
+  { name: "J Foundry", slug: "j-foundry", homepage: "https://jfoundry.com", listingUrl: "https://jfoundry.com/typefaces", tier: "okay" },
+  { name: "Jonas Pelzer", slug: "jonas-pelzer", homepage: "http://typefaces.jonaspelzer.com", listingUrl: "http://typefaces.jonaspelzer.com", tier: "okay" },
+  { name: "JTD Type", slug: "jtd-type", homepage: "https://jtdtype.com", listingUrl: "https://jtdtype.com/typeface", tier: "okay" },
+  { name: "Jung-Lee Type Foundry", slug: "jung-lee-type", homepage: "https://j-ltf.com", listingUrl: "https://j-ltf.com/typefaces", tier: "okay" },
+  { name: "Kanon Foundry", slug: "kanon-foundry", homepage: "https://kanonfoundry.com", listingUrl: "https://www.kanonfoundry.com/typefaces", tier: "okay" },
+  { name: "Kimera", slug: "kimera", homepage: "https://kimeracorp.eu", listingUrl: "https://kimeracorp.eu/typefaces", tier: "okay" },
+  { name: "Kiosk Fonts", slug: "kiosk-fonts", homepage: "https://kiosk-fonts.de", listingUrl: "https://kiosk-fonts.de/fonts", tier: "okay" },
+  { name: "Kirjatehnika", slug: "kirjatehnika", homepage: "https://www.kirjatehnika.ee/en", listingUrl: "https://www.kirjatehnika.ee/en/fonts", tier: "okay" },
+  { name: "Kyiv Type Foundry", slug: "kyiv-type-foundry", homepage: "https://kyivtypefoundry.com", listingUrl: "https://kyivtypefoundry.com/typefaces", tier: "okay" },
+  { name: "La Bolde Vita", slug: "la-bolde-vita", homepage: "https://laboldevita.com", listingUrl: "https://laboldevita.com/typefaces", tier: "okay" },
+  { name: "La Police", slug: "la-police", homepage: "https://lapolice.ch", listingUrl: "https://lapolice.ch/typefaces", tier: "okay" },
+  { name: "Laïc", slug: "laic", homepage: "https://laic.pl", listingUrl: "https://laic.pl/typefaces", tier: "okay" },
+  { name: "Laura Worthington Design", slug: "laura-worthington", homepage: "https://lauraworthingtondesign.com/fonts/", listingUrl: "https://lauraworthingtondesign.com/fonts/", tier: "okay" },
+  { name: "Lettersoup", slug: "lettersoup", homepage: "https://www.lettersoup.de", listingUrl: "https://www.lettersoup.de/fonts", tier: "okay" },
+  {
+    name: "Ludwig",
+    slug: "ludwig",
+    homepage: "https://www.ludwigtype.de",
+    listingUrl: "https://ludwigtype.de/fonts",
+    tier: "okay",
+    // individual typeface at /fonts/{slug} (depth 2); /fonts/{slug}/overview is depth 3 subpage
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("ludwigtype.de")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "fonts" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  { name: "Marmite de Fontes", slug: "marmite-defontes", homepage: "https://marmitedefontes.com/", listingUrl: "https://marmitedefontes.com/typefaces", tier: "okay" },
+  { name: "Metis Foundry", slug: "metis-foundry", homepage: "http://metis-foundry.com", listingUrl: "http://metis-foundry.com", tier: "okay" },
+  { name: "Milk Type Foundry", slug: "milk-type-foundry", homepage: "http://www.milktypefoundry.co.nz", listingUrl: "http://www.milktypefoundry.co.nz/typefaces", tier: "okay" },
+  { name: "Mint Type", slug: "mint-type", homepage: "https://minttype.com", listingUrl: "https://minttype.com/fonts", tier: "okay" },
+  { name: "Modern Type", slug: "modern-type", homepage: "https://www.modern-type.com", listingUrl: "https://www.modern-type.com/typefaces", tier: "okay" },
+  { name: "Morning Type", slug: "morning-type", homepage: "https://morningtype.com", listingUrl: "https://morningtype.com/typefaces", tier: "okay" },
+  {
+    name: "Mota Italic",
+    slug: "mota-italic",
+    homepage: "https://www.motaitalic.com",
+    listingUrl: "https://www.motaitalic.com/product/collection/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("motaitalic.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "product" && !NON_TYPEFACE_SLUGS.has(parts[1]) && parts[1] !== "collection";
+      } catch { return false; }
+    },
+  },
+  { name: "Muccatypo", slug: "muccatypo", homepage: "https://muccatypo.com", listingUrl: "https://muccatypo.com/typefaces", tier: "okay" },
+  { name: "Muirmcneil", slug: "muirmcneil", homepage: "http://www.muirmcneil.com", listingUrl: "http://www.muirmcneil.com/fonts", tier: "okay" },
+  { name: "Multiocular Type", slug: "multiocular-type", homepage: "https://www.multioculartype.co", listingUrl: "https://www.multioculartype.co/typefaces", tier: "okay" },
+  {
+    name: "Naipe Foundry",
+    slug: "naipe-foundry",
+    homepage: "https://store.naipefoundry.com",
+    listingUrl: "https://store.naipefoundry.com",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("naipefoundry.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Nice To Type",
+    slug: "nice-to-type",
+    homepage: "https://nicetotype.de/",
+    listingUrl: "https://nicetotype.jp/retailtypefaces/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("nicetotype.jp")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "retailtypefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  { name: "NM Type", slug: "nm-type", homepage: "http://nmtype.com", listingUrl: "http://nmtype.com/typefaces", tier: "okay" },
+  { name: "Nova Type Foundry", slug: "nova-type-foundry", homepage: "https://novatypefoundry.com", listingUrl: "https://novatypefoundry.com/fonts", tier: "okay" },
+  { name: "Okay Type", slug: "okay-type", homepage: "http://okaytype.com", listingUrl: "https://okaytype.com/typefaces", tier: "okay" },
+  { name: "Otherwhere Collective", slug: "otherwhere-collective", homepage: "https://otherwherecollective.com", listingUrl: "https://otherwherecollective.com/typefaces", tier: "okay" },
+  { name: "Paavola Type", slug: "paavola-type", homepage: "https://www.paavolatype.com", listingUrl: "https://www.paavolatype.com/typefaces", tier: "okay" },
+  { name: "Peggo Fonts", slug: "peggo-fonts", homepage: "https://peggofonts.com", listingUrl: "https://peggofonts.com/fonts", tier: "okay" },
+  { name: "PFA Typefaces", slug: "pfa-typefaces", homepage: "https://pfa-typefaces.com", listingUrl: "https://pfa-typefaces.com/typefaces", tier: "okay" },
+  { name: "Phantom Foundry", slug: "phantom-foundry", homepage: "http://phantom-foundry.com", listingUrl: "http://phantom-foundry.com/typefaces", tier: "okay" },
+  { name: "Plau", slug: "plau", homepage: "https://plau.co/en/", listingUrl: "https://plau.design/typefaces", tier: "okay" },
+  { name: "Poem", slug: "poem", homepage: "https://www.poem-editions.com", listingUrl: "https://www.poem-editions.com/typefaces", tier: "okay" },
+  { name: "Positype", slug: "positype", homepage: "https://positype.com", listingUrl: "https://positype.com/fonts", tier: "okay" },
+  { name: "Pretend Foundry", slug: "pretend-foundry", homepage: "https://pretendfoundry.com", listingUrl: "https://pretendfoundry.com/typefaces", tier: "okay" },
+  { name: "Primary Foundry", slug: "primary-foundry", homepage: "http://primary-foundry.com", listingUrl: "http://primary-foundry.com/typefaces", tier: "okay" },
+  { name: "Prologue Type", slug: "prologue-type", homepage: "https://www.prologuetype.co", listingUrl: "https://www.prologuetype.co/typefaces", tier: "okay" },
+  { name: "PS Type Lab", slug: "ps-type-lab", homepage: "https://pstypelab.com", listingUrl: "https://pstypelab.com/typefaces", tier: "okay" },
+  { name: "Radluka", slug: "radluka", homepage: "https://www.radluka.com", listingUrl: "https://www.radluka.com/typefaces", tier: "okay" },
+  { name: "Rellence", slug: "rellence", homepage: "https://rellence.com/", listingUrl: "https://rellence.com/typefaces", tier: "okay" },
+  { name: "Reset Type Studio", slug: "reset-type-studio", homepage: "https://reset-type.com/", listingUrl: "https://reset-type.com/typefaces", tier: "okay" },
+  {
+    name: "Riptype",
+    slug: "riptype",
+    homepage: "https://www.riptype.xyz",
+    listingUrl: "https://www.riptype.xyz",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("riptype.xyz")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "product" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  { name: "Schriftlabor", slug: "schriftlabor", homepage: "https://schriftlabor.at", listingUrl: "https://schriftlabor.at/typefaces", tier: "okay" },
+  { name: "Scifipoetry", slug: "scifipoetry", homepage: "https://scifipoetry.de", listingUrl: "https://scifipoetry.de/typefaces", tier: "okay" },
+  { name: "Simple Bits", slug: "simple-bits", homepage: "https://simplebits.shop", listingUrl: "https://simplebits.shop/typefaces", tier: "okay" },
+  { name: "Smeltery", slug: "smeltery", homepage: "https://www.smeltery.net/en/", listingUrl: "https://www.smeltery.net/en/fonts", tier: "okay" },
+  { name: "Space Type", slug: "space-type", homepage: "https://spacetypeco.com", listingUrl: "https://spacetypeco.com/fonts", tier: "okay" },
+  { name: "Spaghetype", slug: "spaghetype", homepage: "https://www.spaghetype.com", listingUrl: "https://www.spaghetype.com/typefaces", tier: "okay" },
+  { name: "Standard Type Foundry", slug: "standard-type-foundry", homepage: "https://www.standardtypefoundry.com", listingUrl: "https://www.standardtypefoundry.com/typefaces", tier: "okay" },
+  { name: "Tandem Type", slug: "tandem-type", homepage: "https://www.tandemtype.co", listingUrl: "https://www.tandemtype.co/typefaces", tier: "okay" },
+  { name: "Tegamitype", slug: "tegamitype", homepage: "https://tegamitype.com", listingUrl: "https://tegamitype.com/typefaces", tier: "okay" },
+  {
+    name: "Tiny Type Co.",
+    slug: "tiny-type-co",
+    homepage: "https://tinytype.co",
+    listingUrl: "https://tinytype.co/type/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("tinytype.co")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "type" && !NON_TYPEFACE_SLUGS.has(parts[1]) && parts[1] !== "feed.xml";
+      } catch { return false; }
+    },
+  },
+  { name: "Tipografies", slug: "tipografies", homepage: "https://tipografies.com", listingUrl: "https://tipografies.com/fonts", tier: "okay" },
+  { name: "Tipotype", slug: "tipotype", homepage: "http://tipotype.com", listingUrl: "https://tipotype.com/catalogue/", tier: "okay" },
+  { name: "Troisième Type", slug: "troisieme-type", homepage: "https://troisieme-type.com/", listingUrl: "https://troisieme-type.com/typefaces", tier: "okay" },
+  { name: "Trulytype", slug: "trulytype", homepage: "https://trulytype.com", listingUrl: "https://trulytype.com/typefaces", tier: "okay" },
+  { name: "Type Culture", slug: "type-culture", homepage: "https://typeculture.com", listingUrl: "https://www.typeculture.com/foundry/font-collection/", tier: "okay" },
+  { name: "Type-ø-tones", slug: "type-o-tones", homepage: "http://type-o-tones.com", listingUrl: "https://type-o-tones.com/catalogues", tier: "okay" },
+  {
+    name: "Type Salon",
+    slug: "type-salon",
+    homepage: "https://type-salon.com",
+    listingUrl: "https://type-salon.com/portfolio/",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("type-salon.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "portfolio" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  {
+    name: "Typearture",
+    slug: "typearture",
+    homepage: "https://www.typearture.com",
+    listingUrl: "https://www.typearture.com",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("typearture.com")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "product" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  { name: "Typocalypse", slug: "typocalypse", homepage: "http://www.typocalypse.com", listingUrl: "http://www.typocalypse.com/fonts", tier: "okay" },
+  { name: "Typographies.fr", slug: "typographies-fr", homepage: "http://typographies.fr/", listingUrl: "http://typographies.fr/", tier: "okay" },
+  { name: "Ursa Minor", slug: "ursa-minor", homepage: "https://ursaminor.xyz", listingUrl: "https://ursaminor.xyz/typefaces", tier: "okay" },
+  { name: "Vibrant Types", slug: "vibrant-types", homepage: "https://www.vibrant-types.com/", listingUrl: "https://www.vibrant-types.com/typefaces", tier: "okay" },
+  { name: "Victoria Rushton", slug: "victoria-rushton", homepage: "https://victoriarushton.com", listingUrl: "https://victoriarushton.com/typefaces", tier: "okay" },
+  { name: "Walden Font Co.", slug: "walden-font-co", homepage: "https://www.waldenfont.com", listingUrl: "https://www.waldenfont.com/fonts", tier: "okay" },
+  {
+    name: "Workhorse Type Foundry",
+    slug: "workhorse-type-foundry",
+    homepage: "https://workhorsetypefoundry.com",
+    listingUrl: "https://workhorse.studio/pages/fonts",
+    tier: "okay",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        if (!u.hostname.includes("workhorse.studio")) return false;
+        if (u.search || u.hash) return false;
+        const parts = u.pathname.replace(/\/$/, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "products" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
+  { name: "Writtenshape", slug: "writtenshape", homepage: "https://www.writtenshape.com", listingUrl: "https://www.writtenshape.com/typefaces", tier: "okay" },
 ];
 
 // ---- URL filter ----

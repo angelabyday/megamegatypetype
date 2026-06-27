@@ -1,0 +1,953 @@
+[
+  {
+    "name": "Kaana",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/kaana/",
+    "designer": "Kimya Gandhi",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Built entirely from straight lines, sharp corners and triangular cuts, Kaana is an ornamental display typeface with a distinctive geometric and angular visual logic applied across both Devanagari and Latin scripts.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kaana"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Devanagari",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "devanagari",
+      "geometric",
+      "angular",
+      "ornamental",
+      "multilingual",
+      "beta",
+      "playful"
+    ],
+    "summary": "A bold display typeface designed by Kimya Gandhi, built from straight lines, sharp corners and triangular cuts across Devanagari and Latin scripts.",
+    "description": "Kaana began with Devanagari, with the geometric logic of straight lines, sharp angles and triangular forms later extended into a Latin companion in collaboration with Pranavi Chopra and Rob Keller. Currently at v0.1 with a single Bold weight and 401 characters, the family is planned to grow to six weights with italics. Alongside the letterforms, it includes alternate zigzag aa-matras via OpenType stylistic sets and a growing collection of icons and ornaments.",
+    "foundry_blurb": "Mota Italic describe Kaana as a display typeface for Devanagari and Latin built from straight lines, sharp curves and triangular cuts, with repeating shapes creating a bold and playful visual language. The design began with Devanagari before the same logic was extended into Latin, and includes alternate aa-matra forms, ornaments and a growing icon collection, with additional weights and language support planned for future updates."
+  },
+  {
+    "name": "A Hand-Drawn Font",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/a-hand-drawn-font/",
+    "designer": "Rob Keller",
+    "year": null,
+    "category": "display",
+    "subcategory": "handwritten display",
+    "classification_notes": "A heavily expressive, multi-weight handwritten family with monospaced underpinnings and wild italics; best classed as display due to its theatrical character and explicit rejection of neutrality.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy",
+      "Black",
+      "ExtraBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "A Hand-Drawn Font"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "handwritten",
+      "expressive",
+      "display",
+      "quirky",
+      "zine",
+      "alternates",
+      "monospaced-skeleton",
+      "multi-weight"
+    ],
+    "summary": "An 11-weight handwritten display family grown from personal sketchbook markings, with artist-inspired alternates and built-in decorative features for expressive typography.",
+    "description": "Originating from the everyday handwriting of an unnamed artist marking tools and sketchbooks, the family was developed over two years into 11 weights with matching italics and 1,788 glyphs per font. Alongside the core alphabet, it includes alternate letterforms referencing the handwriting of artists such as Calder, Kahlo and Basquiat, plus arrows, symbols and decorative underlines. A mostly monospaced skeleton provides structural consistency while deliberate spacing irregularities and hand-drawn quirks keep the texture lively and unpredictable.",
+    "foundry_blurb": "Mota Italic describe A Hand-Drawn Font as a wild typographic experiment designed for designers ready to get weird, offering eleven weights from wispy hairline to extra bold, wild rotating italics, built-in wavy and zigzag underlines, and hundreds of arrows and symbols. The family includes special alternates inspired by iconic artists including Calder, Kahlo, Basquiat and Grandma Moses, and the Regular weight is available to download for free."
+  },
+  {
+    "name": "Show Me the Mono",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/show-me-the-mono/",
+    "designer": "Rob Keller",
+    "year": 2021,
+    "category": "mono",
+    "subcategory": "monospaced sans",
+    "classification_notes": "A monospaced typeface with a strict fixed-width grid across all glyphs, designed with simple open letterforms and quirky oversized dots. No kerning by design, consistent with monospaced convention.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Show Me the Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "quirky",
+      "fixed-width",
+      "dingbats",
+      "emojis",
+      "variable",
+      "coding",
+      "display"
+    ],
+    "summary": "A six-weight monospaced family with oversized punctuation dots, dual-style punctuation weights and an unusually large set of extras including arrows, enclosed letters and emojis.",
+    "description": "Designed by Rob Keller and published in 2021, it leans into monospacing as an aesthetic choice rather than a technical constraint, using oversized dots on i, j and punctuation to create a speckled texture across text. Punctuation and symbols come in two forms: a thin version that stays constant across all weights for a distinctive look, and a weight-matched version for a more conventional feel. The family ships with over 300 extras per weight, including 76 arrows with extendable tails, enclosed letters for 400-plus languages, and emoji-style dingbats.",
+    "foundry_blurb": "Mota Italic position Show Me the Mono as a monospaced typeface built for use beyond programming, arguing that the fixed-width grid creates a funky rhythm and surprising texture. Rob Keller designed it with simple, open letterforms and giant dots to add quirk and legibility, alongside dual punctuation styles, enclosed letter sets covering 400-plus languages, and a substantial library of arrows and emoji extras."
+  },
+  {
+    "name": "Lini",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/lini/",
+    "designer": "Kimya Gandhi",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "super condensed display",
+    "classification_notes": "Lini is explicitly designed for headlines and large typesetting rather than body text, with extreme compression and large x-height making it unsuitable for small sizes. Its primary purpose is eye-catching display use across Latin and Devanagari scripts.",
+    "weights": [
+      "Thin",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lini"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "devanagari",
+      "display",
+      "headlines",
+      "multi-script",
+      "contemporary",
+      "editorial"
+    ],
+    "summary": "A super condensed Devanagari and Latin display typeface designed by Kimya Gandhi, pushed to the limits of compression while remaining legible at headline sizes.",
+    "description": "Designed by Kimya Gandhi and released in beta from 2020, Lini pairs an extreme condensed form with a large x-height and shortened ascenders and descenders, optimised for stacked headlines and poster work. Its Devanagari conjuncts draw on old manuscript traditions, particularly Jain manuscripts, fitting vertically stacked forms within the kana height rather than descending below the baseline. The family earned a Certificate of Typographic Excellence from the Type Directors Club 65 and currently spans five weights, with a sixth Ultra Black planned.",
+    "foundry_blurb": "Mota Italic describe Lini as a balancing act between style and legibility, positioning it as the narrowest Devanagari typeface available for medium to large typesetting. They highlight its super condensed proportions, large x-height, and low-waisted Latin characters as tools for bold headlines, film poster credits and graphic design work, noting that its diverse weight range enables easy hierarchical differentiation."
+  },
+  {
+    "name": "Sans Precise",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/sans-precise/",
+    "designer": "Rob Keller",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A squarish, pixel-influenced geometric sans with deliberately irregular, humanised details; sits within the geometric sans tradition but departs sharply from clean modernist conventions through randomised alternates and distorted outlines.",
+    "weights": [
+      "Extra Thin",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sans Precise"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "irregular",
+      "pixel",
+      "display",
+      "experimental",
+      "randomised",
+      "digital",
+      "wonky"
+    ],
+    "summary": "A deliberately irregular geometric sans by Rob Keller, built on squarish pixel-derived forms and animated by randomised character alternates that prevent any two lines of text looking alike.",
+    "description": "Originally drawn as a custom typeface for digital displays in the automotive sector, Sans Precise has been entirely redrawn without those technical constraints, trading precision for controlled disorder. Four variants of every character are selected automatically at random, producing text that reads as genuinely irregular rather than artificially distressed. Ten upright weights are currently available, with twenty italic styles planned alongside a variable font that will span from chaotic to clean in tandem with its companion typeface, Precise Sans.",
+    "foundry_blurb": "Mota Italic describe Sans Precise as a sleek, rough digital font built from squarish forms that deliberately avoid screen-rendering optimisation. Originating from a bespoke commission for a major European car manufacturer, it has been redrawn free of proprietary constraints with randomised alternates, kinky outlines, and numerous custom details to give it warmth and personality. The family is still in beta and will eventually grow to thirty styles plus a variable font spanning the spectrum between messy and clean."
+  },
+  {
+    "name": "Chikki",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/chikki/",
+    "designer": "Kimya Gandhi",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Chikki replaces conventional curves with straight lines and clipped corners across Devanagari, Gurmukhi and Latin scripts, giving it a distinctive geometric, angular character suited primarily to display use.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Chikki",
+      "Chikki Gurmukhi"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari",
+      "Gurmukhi"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "angular",
+      "display",
+      "multilingual",
+      "devanagari",
+      "gurmukhi",
+      "variable",
+      "indian-type"
+    ],
+    "summary": "A multi-script display family covering Devanagari, Gurmukhi and Latin, built around angular forms that replace curves with straight lines and clipped corners.",
+    "description": "Designed by Kimya Gandhi and first released in 2019, Chikki began as hand-sketched Devanagari drawings that were later digitised and extended to include a matching Latin and, subsequently, Gurmukhi. The defining characteristic is its rejection of conventional curves: rounded shapes are rendered with straight-line approximations and corners are subtly chamfered, producing a crunchy, geometric texture that reads distinctively across all three scripts. Six weights run from Light to Black, with a variable font included in complete packages, making it workable at both display scale and longer text settings.",
+    "foundry_blurb": "Mota Italic describe Chikki as sweet and savory, a crunchy type family spanning Devanagari, Gurmukhi and extended Latin in six weights plus a variable font. The design originated from early Devanagari sketches by Kimya Gandhi that were rediscovered and digitised, with the Latin drawn afterwards to match. Key features include straight-line substitutions for curves and nibbled-off corners, with the Gurmukhi addition incorporating Phulkari pattern details. The variable font is included free with complete packages and supports any weight between the Thin and Black extremes."
+  },
+  {
+    "name": "Maku",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/maku/",
+    "designer": "Kimya Gandhi",
+    "year": 2017,
+    "category": "script",
+    "subcategory": "handwritten",
+    "classification_notes": "Maku is a handmade-style script typeface primarily designed for Devanagari, with supporting Latin, Cyrillic and Greek scripts. Its hand-drawn character and use of randomised alternates place it firmly in the handwritten script category.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Maku"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "devanagari",
+      "handwritten",
+      "script",
+      "multilingual",
+      "alternates",
+      "swash",
+      "display",
+      "playful"
+    ],
+    "summary": "A hand-drawn Devanagari typeface by Kimya Gandhi with randomised letter alternates, swashes and initial and final forms across four weights and a variable font.",
+    "description": "Designed by Kimya Gandhi and first released in 2017, Maku mimics the irregularity of real handwriting by assigning multiple drawn versions to every glyph, which cycle to avoid repeated letter shapes appearing side by side. The Devanagari script is the centrepiece, supported by swash variants, initial and final word forms, and a set of dingbats for supplementary graphic use. Latin, Cyrillic and Greek are also included, and the family spans four weights plus a variable font totalling 3,347 glyphs.",
+    "foundry_blurb": "Mota Italic describe Maku as a fun and friendly Devanagari typeface with a handmade style that convincingly mimics real writing through the use of multiple drawn versions of every letter, decoration and flourish. The family includes Devanagari swashes, initial and final forms, a dingbat collection, and supports Latin, Cyrillic and Greek scripts across four weights and a variable font."
+  },
+  {
+    "name": "Fip",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/fip/",
+    "designer": "Rob Keller",
+    "year": 2015,
+    "category": "mono",
+    "subcategory": "slab mono",
+    "classification_notes": "Fip is a monospaced superfamily with serif, sans-serif and rounded subfamilies; the base design features decorative cuts, notches and serifs on a fixed-width grid, placing it firmly in the slab mono category.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fip",
+      "Fip Rounded",
+      "Fip Sans",
+      "Fip Rough"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "slab",
+      "typewriter",
+      "rough",
+      "decorative",
+      "superfamily",
+      "geometric",
+      "display"
+    ],
+    "summary": "A 64-style monospaced superfamily designed live in a Berlin gallery, spanning serif, rounded, sans and roughened variants across Latin and Cyrillic.",
+    "description": "Originally conceived as a live design experiment for a Berlin gallery exhibition, Fip expanded considerably before its 2015 release into a superfamily of 64 fonts. The base design carries decorative cuts and notches on its serifs and terminals, while Fip Rounded simplifies and softens those forms, Fip Sans strips the serifs entirely, and Fip Rough introduces a typewriter-like organic texture across all styles. Latin and Cyrillic scripts are supported throughout, with 717 glyphs per font.",
+    "foundry_blurb": "Mota Italic describe Fip as a superfamily born in the Berlin art and design scene, designed live during a month-long gallery exhibition before being expanded well beyond its original scope. The result is 64 monospaced fonts spanning several distinct styles including the notched original, a simplified Rounded variant, a clean Sans, and organic Rough versions reminiscent of splotchy typewriters and cheap printing. Rough fonts are included free with every purchase."
+  },
+  {
+    "name": "Precise Sans",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/precise-sans/",
+    "designer": "Rob Keller",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Squarish, screen-optimised letterforms with a techie, clean aesthetic place this firmly in the geometric sans tradition, though deliberately softened with humanist details to avoid pure mechanical coldness.",
+    "weights": [
+      "Extra Thin",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Precise Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "screen",
+      "technical",
+      "digital",
+      "futuristic",
+      "squarish",
+      "beta"
+    ],
+    "summary": "A screen-optimised geometric sans by Rob Keller, originating from a custom commission for a major European automaker and redrawn into a broader ten-weight retail family.",
+    "description": "Designed initially for the digital displays of a European car manufacturer, Precise Sans has been fully redrawn without the constraints of proprietary automotive software. The result retains the clean, technical character of its origins while adding warmth through refined details that resist the coldness of purely geometric designs. Currently in beta with ten upright weights and two italics, the planned release will extend to thirty styles including back-slanted italics, plus a variable version, with Greek, Cyrillic and Hebrew scripts to follow.",
+    "foundry_blurb": "Mota Italic describe Precise Sans as a sleek digital font for modern life, originally created as a pixel-perfect custom typeface for a major European automaker and since redrawn with greater refinement, detail and freedom. The squarish letterforms are optimised for screen but humanised details add warmth, making it suitable for apps, websites and print alike. The family is still in beta and growing, with a planned 30-style release and expanded script support on the way."
+  },
+  {
+    "name": "Pufff",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/pufff/",
+    "designer": "Rob Keller",
+    "year": 2013,
+    "category": "display",
+    "subcategory": "ultra-heavy display",
+    "classification_notes": "A single-weight, maximally heavy display typeface with no italic or condensed variants, designed for maximum visual impact at large sizes. Its extreme weight and rounded, bloated forms place it firmly in the display category.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pufff"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "ultra-heavy",
+      "blackletter-adjacent",
+      "poster",
+      "editorial",
+      "expressive",
+      "custom-origin",
+      "opentype-rich"
+    ],
+    "summary": "A single-weight ultra-heavy display typeface by Rob Keller, originating as a custom commission for Mota Italic Gallery's first exhibition.",
+    "description": "Originally designed for the Mota Italic Gallery exhibition 'Capital: Berliner Buchstaben', this one-weight typeface pushes maximum weight to an extreme, described by its designer as going beyond bold, heavy or extra black. Despite its singular style, it packs a substantial OpenType feature set including small caps, fractions, ligatures, case-sensitive forms and stylistic sets, plus 1,073 glyphs covering Latin, Cyrillic and Greek with small caps across all scripts. Typographica named it among the best fonts of 2014.",
+    "foundry_blurb": "Mota Italic describe Pufff as a 'fffat' typeface with a bloated character set and wide language support, containing OpenType features normally associated with more refined typography. They liken it to an elephant doing ballet, and position it as suitable for book covers, posters, handbills and food and lifestyle magazines."
+  },
+  {
+    "name": "Brashy",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/brashy/",
+    "designer": "Rob Keller",
+    "year": 2014,
+    "category": "script",
+    "subcategory": "brush script",
+    "classification_notes": "Brashy is a brush script simulating spontaneous, unskilled hand-lettering with a loaded brush, characterised by sloppy, variable letterforms rather than calligraphic refinement.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brashy"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "brush",
+      "handmade",
+      "script",
+      "display",
+      "expressive",
+      "alternates",
+      "dingbats",
+      "textured"
+    ],
+    "summary": "A single-weight brush script by Rob Keller built around automatic glyph cycling to produce genuinely unpredictable, handmade-looking typesetting.",
+    "description": "Each letter ships with at least two alternate forms and the main alphabet offers up to six, all managed by contextual alternates code Mota Italic call 'Flippy Letter™'. As you type, previously set characters shift forms unpredictably, avoiding the repetition that exposes most digital handwriting fonts. The 1,573-glyph set extends well beyond the core alphabet to include swash letters, connecting flourishes, 128 dingbats and practical symbols, covering most European Latin-based languages.",
+    "foundry_blurb": "Mota Italic describe Brashy as the result of a bucket of house paint meeting paper via a hand completely devoid of calligraphic skill. The sloppy-yet-legible style gives typesetting a spontaneous, handmade quality, backed by extensive typographic controls and their patent-pending Flippy Letter™ code, which causes letters to change versions automatically and unpredictably as you type."
+  },
+  {
+    "name": "Gemma",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/gemma/",
+    "designer": "Rob Keller",
+    "year": 2012,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Gemma is a geometric-leaning sans-serif with playful proportions and multiple widths, positioned as a versatile display and text family rather than a strict neutral grotesque.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Regular",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Gemma"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "playful",
+      "multilingual",
+      "display",
+      "text",
+      "opentype-rich",
+      "dingbats",
+      "multiscript"
+    ],
+    "summary": "A five-weight, three-width geometric sans by Rob Keller with unusually broad language support, 'rotalic' alternatives to italic, and an extensive OpenType feature set including weight-responsive dingbats.",
+    "description": "Released in 2012, the family spans 45 fonts across five weights and three widths, with the x-height shifting vertically as the width changes horizontally. Instead of conventional cursive italics, Gemma offers two sets of 'rotalic' styles for emphasis, and every font includes the Futurama Alienese script alongside Latin, Greek and Cyrillic. The OpenType implementation is notably deep, covering small caps, 16 figure styles, contextual alternates, German-aware ligature handling and 18 stylistic sets.",
+    "foundry_blurb": "Mota Italic describe Gemma as a lighthearted yet serious type family designed to handle complex typographic hierarchies and playful layouts alike. With five weights, three widths and 1,578 glyphs per font, she includes Latin, Greek, Cyrillic and Futurama Alienese scripts, weight-responsive 'MM Dingbats', and unconventional 'rotalic' fonts in place of standard italics, all backed by a rich OpenType feature set."
+  },
+  {
+    "name": "Mota Pixel",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/mota-pixel/",
+    "designer": "Rob Keller",
+    "year": 2008,
+    "category": "display",
+    "subcategory": "pixel / bitmap",
+    "classification_notes": "A pixel font family built on a grid-based bitmap aesthetic, designed explicitly for pixel-perfect rendering; its layering system and decorative extensions place it firmly in the display category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mota Pixel"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "pixel",
+      "bitmap",
+      "layered",
+      "display",
+      "retro",
+      "dingbats",
+      "free",
+      "opentype"
+    ],
+    "summary": "A free, three-weight pixel font family with 37 layer styles per weight and 3,708 glyphs per font, covering Latin, Greek and Cyrillic.",
+    "description": "Designed by Rob Keller and first released in 2008, Mota Pixel has grown across three versions into a 114-font family built on a grid-based bitmap aesthetic. Each of the three weights — Light, Regular and Bold — carries a distinct visual character, from the monolinear upright-italic feel of the Light to the high-contrast 2:1 pixel ratio of the Regular and the chunky heaviness of the Bold. The 37 layer styles per weight, extensive OpenType feature set and generous script coverage make this unusually thorough for a free release.",
+    "foundry_blurb": "Mota Italic describe Mota Pixel as starting life as a small, simple pixel font before growing into a monster family. Now spanning three weights across 37 layer styles each — 114 fonts in total — it includes 3,708 glyphs per font, Latin, Greek and Cyrillic script support, 15 numeral sets, dingbats, and a full suite of OpenType features, all available free of charge."
+  },
+  {
+    "name": "Vesper Hebrew",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/vesper-hebrew/",
+    "designer": "Oded Ezer, Rob Keller",
+    "year": 2010,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The typeface features sculpted thick-to-thin stroke contrast with soft angles and slightly rounded corners, placing it within a transitional serif tradition adapted for both Hebrew and Latin scripts.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vesper Hebrew"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Hebrew",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "hebrew",
+      "bilingual",
+      "serif",
+      "multi-script",
+      "editorial",
+      "typographic-versatility",
+      "opentype"
+    ],
+    "summary": "A five-weight Hebrew and Latin type family designed in collaboration between Rob Keller and Oded Ezer, with sculpted stroke contrast and subtly rounded corners across both scripts.",
+    "description": "Designed in 2010, the family pairs Rob Keller's Latin originals with Oded Ezer's Hebrew companion, which rebalances the script's typically dominant horizontals in favour of stronger verticals. Slightly rounded corners give the text a softer, more supple texture than sharp-cornered counterparts, an effect that grows more pronounced at larger sizes. Five weights from Light to Heavy allow for nuanced typesetting rarely available in Hebrew type families, and OpenType features cover nikud positioning, wide alternates for justification, and dual punctuation sets that switch automatically to match the active script.",
+    "foundry_blurb": "Mota Italic describe Vesper Hebrew as the result of a collaboration between Rob Keller and Israeli type designer and artist Oded Ezer. Inspired by the Latin original, Oded's contribution is described as a beautifully sculptural modern classic. The Hebrew shifts conventional stroke balance towards stronger verticals, features soft rounded corners and transitions from thick to thin that mirror the Latin, and five weights enable complex typesetting beyond the standard Regular and Bold pairing common in Hebrew type families."
+  },
+  {
+    "name": "Vesper",
+    "foundry": "Mota Italic",
+    "url": "https://motaitalic.com/product/vesper/",
+    "designer": "Rob Keller",
+    "year": 2008,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Vesper features pronounced thick-thin stroke contrast, angled serifs with calligraphic origins, and ball terminals, placing it firmly in the transitional serif tradition with a contemporary refinement.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vesper"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Hebrew"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "transitional",
+      "calligraphic",
+      "multilingual",
+      "book",
+      "magazine",
+      "scholarly"
+    ],
+    "summary": "A text serif by Rob Keller with calligraphic roots in Devanagari, built for sustained reading across five weights with extensive OpenType feature support.",
+    "description": "Designed in 2008 and substantially revised in 2016, Vesper draws its angled serifs and ball terminal treatments directly from Devanagari calligraphic strokes, giving the Latin characters an unusually organic quality. The family runs from Light to Heavy, each with italics, and includes contextual alternates that subtly adjust serifs and spacing to produce an even typographic grey on the page. Small caps, petite caps, nine numeral sets, case-aware punctuation and contextual quote handling make it well suited to complex book or magazine typesetting.",
+    "foundry_blurb": "Mota Italic describe Vesper as a family designed to set large amounts of text comfortably, with a relatively large x-height, open forms and compact descenders to accommodate diacritics without extra line spacing. The Latin design was directly inspired by Devanagari, with angled serifs and ball terminals drawn from calligraphic stroke endings in that script. Rounded corners throughout lend the text a supple, satiny quality that becomes more apparent at display sizes."
+  },
+  {
+    "name": "Lini",
+    "foundry": "Mota Italic",
+    "url": "http://motaitalic.com/product/lini/",
+    "designer": "Kimya Gandhi",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "super condensed display",
+    "classification_notes": "Lini is a super condensed typeface with extreme weight contrast across its family, designed explicitly for headlines and titles rather than text setting, placing it firmly in the display category. Its contemporary Devanagari and Latin dual-script design with compressed proportions and large x-height further distinguish it as a specialised display face.",
+    "weights": [
+      "Thin",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lini"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "super-condensed",
+      "devanagari",
+      "dual-script",
+      "display",
+      "headline",
+      "contemporary",
+      "award-winning"
+    ],
+    "summary": "A super condensed dual-script display typeface covering Latin and Devanagari, designed by Kimya Gandhi and awarded a Certificate of Typographic Excellence by the Type Directors Club.",
+    "description": "Lini pushes compression to an extreme while maintaining legibility at medium to large sizes, making it suited to film poster credits, editorial headlines and graphic applications. Its Devanagari conjuncts draw on old manuscript traditions, particularly Jain manuscripts, reviving stacked forms that sit within the kana height rather than descending below the baseline. Five weights from Thin to Extra Bold are available, with a sixth Ultra Black planned, giving the family a wide tonal range for hierarchical display work.",
+    "foundry_blurb": "Mota Italic describe Lini as a balancing act between style and legibility, and claim it is the narrowest Devanagari typeface available. Designed by Kimya Gandhi, it features a large x-height with short ascenders and descenders for close stacking, low-waisted Latin characters, and Devanagari conjuncts inspired by Jain manuscripts. The family is still in active development, with a sixth weight and further refinements planned."
+  },
+  {
+    "name": "Chikki",
+    "foundry": "Mota Italic",
+    "url": "http://motaitalic.com/product/chikki/",
+    "designer": "Kimya Gandhi",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Chikki is a display typeface characterised by the deliberate absence of curves, with straight lines substituting rounded forms and clipped corners throughout, placing it firmly in geometric display territory across Devanagari, Gurmukhi and Latin scripts.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Chikki",
+      "Chikki Gurmukhi"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari",
+      "Gurmukhi"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "devanagari",
+      "gurmukhi",
+      "multilingual",
+      "variable",
+      "angular",
+      "indian-type"
+    ],
+    "summary": "A multi-script display family spanning Devanagari, Gurmukhi and Latin, unified by angular letterforms that replace curves with straight lines and clipped corners.",
+    "description": "Designed by Kimya Gandhi and originating from early Devanagari sketches, Chikki builds its visual character around the deliberate removal of curves across all three scripts. Six weights run from Light, which is near-monolinear, through to Black, where modest stroke contrast appears, and a variable font ships free with complete packages for web and desktop use. Though conceived as a display design, the spacing and letterform refinement allow for use at smaller sizes and in short text settings. The Gurmukhi addition includes decorative Phulkari pattern elements that extend the family's playful personality.",
+    "foundry_blurb": "Mota Italic describe Chikki as a crunchy Devanagari, Gurmukhi and extended Latin type family named after a crispy Indian sweet made with peanuts and jaggery. The design began with hand-drawn Devanagari sketches that were later digitised, with the Latin drawn afterwards to match the near-finished Devanagari. The family offers six weights plus a variable font, covering 1,744 glyphs per font, and is suited to both display and text use."
+  },
+  {
+    "name": "Maku",
+    "foundry": "Mota Italic",
+    "url": "http://motaitalic.com/product/maku/",
+    "designer": "Kimya Gandhi",
+    "year": 2017,
+    "category": "script",
+    "subcategory": "handwritten",
+    "classification_notes": "Maku is a handwritten script family primarily designed for Devanagari, with its hand-drawn letterforms mimicking real handwriting. The Latin, Cyrillic, and Greek scripts follow the same informal, handmade aesthetic.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Maku"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "handwritten",
+      "devanagari",
+      "script",
+      "multilingual",
+      "display",
+      "casual",
+      "variable",
+      "dingbats"
+    ],
+    "summary": "A handwritten Devanagari family by Kimya Gandhi with letter alternates, swashes, initial and final forms, and a full set of dingbats across four weights.",
+    "description": "Designed by Kimya Gandhi and first published in 2017 with a revised version in 2021, Maku draws every glyph multiple times to simulate the natural variation of real handwriting, with OpenType features cycling through alternates so no two identical letters appear consecutively. The Devanagari coverage is particularly thorough, offering swash variants and initial and final word forms that can be applied automatically or manually. Script coverage extends to Latin, Cyrillic and Greek, and the family includes an extensive dingbats collection for inline illustration.",
+    "foundry_blurb": "Mota Italic describe Maku as a fun and friendly Devanagari font with extra masala, whose handmade style convincingly mimics real writing using the latest software features. Every letter, decoration and flourish was drawn multiple times by hand, giving designs an effortlessly unique appearance. The font ships with letter alternates, Devanagari swashes, initial and final forms, and a dingbat collection of symbols and icons."
+  },
+  {
+    "name": "Precise Sans",
+    "foundry": "Mota Italic",
+    "url": "http://motaitalic.com/product/precise-sans/",
+    "designer": "Rob Keller",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Squarish, screen-optimised letterforms with geometric structure and technical character, though humanist details temper the purely mechanical quality.",
+    "weights": [
+      "Extra Thin",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Precise Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "screen",
+      "technical",
+      "digital",
+      "futuristic",
+      "clean",
+      "ui"
+    ],
+    "summary": "A screen-optimised geometric sans with squarish forms, designed originally as a custom typeface for a European automaker's digital displays.",
+    "description": "Drawn pixel-perfectly for a major European automaker's in-car display system, Precise Sans has since been redrawn without those proprietary constraints. The current beta release offers ten weights from Extra Thin to Extra Bold, with italic and backslanted italic styles planned to bring the family to thirty styles plus a variable version. Greek, Cyrillic and Hebrew scripts are also in the pipeline, making this an ongoing work with a clear technical and editorial ambition.",
+    "foundry_blurb": "Mota Italic describe Precise Sans as a sleek digital font optimised for screen rendering, with squarish shapes designed for legibility in apps, websites and print. Originally conceived as a custom typeface for a major European automaker, the publicly released version has been completely redrawn to allow for more refinements and features, and will eventually span 30 styles across upright, italic and backslanted italic cuts."
+  },
+  {
+    "name": "Sans Precise",
+    "foundry": "Mota Italic",
+    "url": "http://motaitalic.com/product/sans-precise/",
+    "designer": "Rob Keller",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Squarish, pixel-influenced forms with geometric construction, deliberately distorted with randomised alternates and irregular outlines rather than clean mechanical precision.",
+    "weights": [
+      "Extra Thin",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sans Precise"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "distorted",
+      "randomised",
+      "digital",
+      "experimental",
+      "irregular",
+      "squarish"
+    ],
+    "summary": "A deliberately wonky geometric sans by Rob Keller, built on pixel-perfect origins but redrawn with randomised alternates and irregular outlines to introduce controlled chaos.",
+    "description": "Originally drawn as a custom typeface for digital displays at a major European car manufacturer, Sans Precise was subsequently redrawn without proprietary constraints and intentionally roughened. Four character variants per glyph are automatically cycled to produce irregular, unpredictable text texture whilst retaining underlying legibility. Currently in beta with ten weights from Extra Thin to Extra Bold, the family is planned to expand to thirty styles including italics and back-slanted variants, plus a variable font version.",
+    "foundry_blurb": "Mota Italic describe Sans Precise as a sleek rough digital font offering ten fine-tuned irregular weights with two italics, drawn from a bespoke automotive display commission and redesigned with randomised alternates, kinky outlines and extra character to move away from heartless geometric or mechanical type."
+  },
+  {
+    "name": "Show Me the Mono",
+    "foundry": "Mota Italic",
+    "url": "http://motaitalic.com/product/show-me-the-mono/",
+    "designer": "Rob Keller",
+    "year": 2021,
+    "category": "mono",
+    "subcategory": "monospaced sans",
+    "classification_notes": "A monospaced typeface with a strict equal-width grid for all glyphs, designed explicitly for monospaced use across contexts beyond programming, with simple open letterforms and quirky oversized tittle details.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Show Me the Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "quirky",
+      "variable",
+      "dingbats",
+      "display",
+      "playful",
+      "programming",
+      "emojis"
+    ],
+    "summary": "A six-weight monospaced family by Rob Keller with oversized tittles, dual-style punctuation and an unusually large set of extras including arrows, enclosed letters and over 300 emoji-style dingbats.",
+    "description": "Designed by Rob Keller and released in 2021, this family treats the monospaced grid as a creative constraint rather than a limitation, using simple open letter skeletons punctuated by deliberately oversized dots on i, j and punctuation glyphs to give text an energetic, speckled rhythm. Alternate stylistic sets allow the tittles and punctuation to be toned down, and weight-responsive versus fixed-thin variants of symbols give designers control over texture across the six weights and their italics. A broad extras palette covers 76 arrows with extendable tails, enclosed letters in circles and squares supporting 400-plus languages, and over 300 emoji-style dingbats per weight.",
+    "foundry_blurb": "Mota Italic describe Show Me the Mono as a funky, grid-driven monospaced family that works well beyond programming contexts, with giant dots adding speckle and quirk, dual punctuation styles, enclosed letters for broad language support, and a large set of arrows and emoji extras. It is available from free upwards depending on licence type."
+  }
+]
