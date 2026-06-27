@@ -2650,5 +2650,55 @@
     "summary": "A neo-grotesque with a slanted script character built into the lowercase, creating a dual all-caps/mixed-case personality across eight weights.",
     "description": "Designed by Ani Dimitrova and released in 2016, Mixa uses a neo-grotesque skeleton as its base while infusing the lowercase with a subtle slanted script quality, so all-caps settings read clean and clinical while mixed-case reveals a handwritten warmth. The eight weights from Thin to Black give it range across branding, packaging and editorial contexts. OpenType features include ligatures, stylistic alternates and discretionary ligatures, with coverage across Extended Latin and Cyrillic.",
     "foundry_blurb": "Fontfabric describe Mixa as a sans-serif with a dual personality: a crisp all-caps structure that transforms into a smooth handwritten script in the lowercase. Designed by Ani Dimitrova, it is positioned for branding, headlines, packaging, editorial and web UI, with eight styles and support for Extended Latin and Cyrillic scripts."
+  },
+  {
+    "name": "Rizo",
+    "foundry": "Fontfabric",
+    "url": "https://www.fontfabric.com/fonts/rizo/",
+    "designer": "Vika Usmanova, Ivelina Martinova",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "reverse contrast sans-serif",
+    "classification_notes": "Rizo is a display typeface built on a neo-grotesque foundation with deliberate reverse contrast, where horizontal strokes outweigh vertical ones. This expressive structural inversion and compressed proportions place it firmly in the display category rather than functional sans-serif.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Extra Condensed",
+      "Condensed",
+      "Narrow",
+      "Regular"
+    ],
+    "subfamilies": [
+      "Rizo",
+      "Rizo Narrow",
+      "Rizo Condensed",
+      "Rizo Extra Condensed",
+      "Rizo Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "reverse-contrast",
+      "display",
+      "neo-grotesque",
+      "compressed",
+      "variable",
+      "branding",
+      "editorial",
+      "contemporary"
+    ],
+    "summary": "A reverse-contrast display sans built on a neo-grotesque skeleton, offered across five widths from Regular to Compressed with a variable font covering weight and width axes.",
+    "description": "Rizo takes its cue from the accidental reverse contrast that occurs when designers manually compress type by hand, and formalises that effect into a disciplined family of ten styles. Horizontal strokes read heavier than verticals throughout, giving the typeface a distinctive visual tension that suits headlines, packaging and branding. Extended Latin and Cyrillic coverage, plus OpenType features including discretionary ligatures for capitals and Bulgarian localisation, broaden its practical reach.",
+    "foundry_blurb": "Fontfabric describe Rizo as a contemporary display typeface inspired by the graphic design practice of manually compressing type to generate stronger visual impact, a process that often produces reverse contrast as a byproduct. Built on a neo-grotesque foundation and refined through that structural inversion, the family is designed for headlines, branding, packaging and editorial use, and is available in ten styles plus a variable font with weight and width axes."
   }
 ]
