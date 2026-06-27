@@ -3225,6 +3225,20 @@ const FOUNDRIES = [
       "https://formerly-known.com/buy/sinvoll",
     ],
   },
+  {
+    name: "Archive Foundry",
+    slug: "archive-foundry",
+    homepage: "https://www.archivefoundry.co/",
+    listingUrl: "https://www.archivefoundry.co/typefaces",
+    tier: "best",
+    filterFn: (href) => {
+      try {
+        const u = new URL(href);
+        const parts = u.pathname.replace(/^\//, "").split("/").filter(Boolean);
+        return parts.length === 2 && parts[0] === "typefaces" && !NON_TYPEFACE_SLUGS.has(parts[1]);
+      } catch { return false; }
+    },
+  },
 ];
 
 // ---- URL filter ----

@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Atelier Sans",
+    "foundry": "Archive Foundry",
+    "url": "https://www.archivefoundry.co/typefaces/atelier-sans",
+    "designer": "Sam Powell",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "The foundry classifies it as geo-grotesque, combining geometric construction with the informal irregularities of a grotesque, giving it a playful character distinct from pure geometric sans families.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semi-Bold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Atelier Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geo-grotesque",
+      "friendly",
+      "quirky",
+      "playful",
+      "versatile",
+      "latin-extended"
+    ],
+    "summary": "A geo-grotesque from Archive Foundry's Sam Powell that leans into playful glyph forms while retaining enough restraint for broad typographic use.",
+    "description": "Released in October 2024, Atelier Sans runs across six weights from Light to Bold, balancing expressive details with the structural clarity expected of a grotesque. The foundry describes it as sitting between expressive and simpler forms, making it suited to a wide range of applications. Italic and monospaced variants are noted as in development, suggesting the family is still maturing.",
+    "foundry_blurb": "Archive Foundry describe Atelier Sans as a quirky yet approachable geo-grotesque with a playful interpretation of typical grotesque glyphs. They position it as striking a steady balance between expressive and simpler forms to suit a wide range of typographic applications, with monospaced and italic variants currently in development."
+  },
+  {
+    "name": "New Grotesk Mono",
+    "foundry": "Archive Foundry",
+    "url": "https://www.archivefoundry.co/typefaces/new-grotesk-mono",
+    "designer": "Sam Powell",
+    "year": 2021,
+    "category": "mono",
+    "subcategory": "monospaced grotesque",
+    "classification_notes": "Explicitly classified as monospaced by the foundry; designed as a companion to the New Grotesk grotesque family, carrying industrial and early 20th century grotesque influences into a fixed-width format.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "New Grotesk Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "grotesque",
+      "industrial",
+      "functional",
+      "technical",
+      "companion"
+    ],
+    "summary": "A four-weight monospaced companion to the New Grotesk family, drawing on early 20th century industrial design for a functional fixed-width form.",
+    "description": "Designed by Sam Powell and published in March 2021, New Grotesk Mono extends the New Grotesk family into monospaced territory. The four weights — Light, Regular, Medium and Bold — share the industrial character of the parent family and cover a broad range of Latin languages. It suits technical documentation, UI work and any setting where the grotesque warmth of New Grotesk is wanted at a fixed pitch.",
+    "foundry_blurb": "Archive Foundry describe New Grotesk Mono as an industrially influenced monospaced typeface designed to accompany and extend the existing New Grotesk Family. They cite inspiration from early 20th century design and position its timeless, functional form as suitable for a wide variety of typographic applications."
+  },
+  {
+    "name": "New Grotesk",
+    "foundry": "Archive Foundry",
+    "url": "https://www.archivefoundry.co/typefaces/new-grotesk",
+    "designer": "Sam Powell",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "The foundry classifies it as neo-grotesque, with proportional balance and a classic European grotesk aesthetic drawing on early modernist forms.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi-Bold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "New Grotesk",
+      "New Grotesk Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "neo-grotesque",
+      "neutral",
+      "european",
+      "modernist",
+      "functional",
+      "corporate"
+    ],
+    "summary": "A proportionally balanced neo-grotesque by Sam Powell with a restrained European character, released in five weights with italics and an extended mono variant.",
+    "description": "Designed by Sam Powell and published in October 2019, this neo-grotesque draws on early modernist European grotesques to produce a neutral, functional typeface suited to a wide range of applications. Five weights run from Light to Bold, each with a matching italic, and an extended family includes New Grotesk Mono. The glyph set covers extensive Latin script support across dozens of languages, with stylistic alternates offering additional flexibility.",
+    "foundry_blurb": "Archive Foundry describe New Grotesk as a neutral, proportionally balanced sans serif with a classic European grotesk aesthetic. Its functional form is reminiscent of the early modernist period, producing a timeless design suited to a variety of typographic applications."
+  }
+]

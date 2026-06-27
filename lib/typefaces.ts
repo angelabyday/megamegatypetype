@@ -201,6 +201,7 @@ import studioTriple from "@/data/typefaces-studio-triple.json";
 import typeBy from "@/data/typefaces-type-by.json";
 import typeForward from "@/data/typefaces-type-forward.json";
 import zetafonts from "@/data/typefaces-zetafonts.json";
+import archiveFoundry from "@/data/typefaces-archive-foundry.json";
 
 import { FOUNDRIES, getFoundryByName, type FoundryInfo } from "./foundry-map";
 import foundryResellers from "@/data/foundry-resellers.json";
@@ -478,6 +479,7 @@ export function getAllTypefaces(): Typeface[] {
         typeBy,
         typeForward,
         zetafonts,
+        archiveFoundry,
         // Batch 19
         ...googleFonts,
         // Batch 18

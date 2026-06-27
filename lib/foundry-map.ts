@@ -225,6 +225,7 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Capitalics", slug: "capitalics", homepage: "https://capitalics.wtf/", tier: "best" },
   { name: "McLetters", slug: "mcletters", homepage: "https://mcletters.co/", tier: "best" },
   { name: "Family Type", slug: "family-type", homepage: "https://familytype.co/", tier: "best" },
+  { name: "Archive Foundry", slug: "archive-foundry", homepage: "https://www.archivefoundry.co/", tier: "best" },
 ];
 
 // Foundries confirmed unscrapable — JS-rendered, bot-blocked, or no listing page.
