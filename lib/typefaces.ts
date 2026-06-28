@@ -202,6 +202,139 @@ import typeBy from "@/data/typefaces-type-by.json";
 import typeForward from "@/data/typefaces-type-forward.json";
 import zetafonts from "@/data/typefaces-zetafonts.json";
 import archiveFoundry from "@/data/typefaces-archive-foundry.json";
+// Gap-fill batch
+import abyme from "@/data/typefaces-abyme.json";
+import apexFoundry from "@/data/typefaces-apex-foundry.json";
+import arcaneTypeFoundry from "@/data/typefaces-arcane-type-foundry.json";
+import atlasFonts from "@/data/typefaces-atlas-fonts.json";
+import badsonType from "@/data/typefaces-badson-type.json";
+import balFoundry from "@/data/typefaces-bal-foundry.json";
+import barnbrook from "@/data/typefaces-barnbrook.json";
+import beastsOfEngland from "@/data/typefaces-beasts-of-england.json";
+import bijouType from "@/data/typefaces-bijou-type.json";
+import blackletra from "@/data/typefaces-blackletra.json";
+import bloomType from "@/data/typefaces-bloom-type.json";
+import boldDecisions from "@/data/typefaces-bold-decisions.json";
+import bolidSystem from "@/data/typefaces-bolid-system.json";
+import briefcaseTypeFoundry from "@/data/typefaces-briefcase-type-foundry.json";
+import brownfox from "@/data/typefaces-brownfox.json";
+import bureauBlamage from "@/data/typefaces-bureau-blamage.json";
+import cantrellType from "@/data/typefaces-cantrell-type.json";
+import capeArcona from "@/data/typefaces-cape-arcona.json";
+import carmelType from "@/data/typefaces-carmel-type.json";
+import characterType from "@/data/typefaces-character-type.json";
+import charlotteRohde from "@/data/typefaces-charlotte-rohde.json";
+import cjType from "@/data/typefaces-cj-type.json";
+import commaType from "@/data/typefaces-comma-type.json";
+import contrastFoundry from "@/data/typefaces-contrast-foundry.json";
+import corentinNoyer from "@/data/typefaces-corentin-noyer.json";
+import counterForms from "@/data/typefaces-counter-forms.json";
+import departmentOfLetters from "@/data/typefaces-department-of-letters.json";
+import dioramaTypePartners from "@/data/typefaces-diorama-type-partners.json";
+import dunwichType from "@/data/typefaces-dunwich-type.json";
+import e162 from "@/data/typefaces-e162.json";
+import editionStudio from "@/data/typefaces-edition-studio.json";
+import ekType from "@/data/typefaces-ek-type.json";
+import emtypeFoundry from "@/data/typefaces-emtype-foundry.json";
+import epitype from "@/data/typefaces-epitype.json";
+import etcTypefaces from "@/data/typefaces-etc-typefaces.json";
+import extraType from "@/data/typefaces-extra-type.json";
+import facetype from "@/data/typefaces-facetype.json";
+import fdiTypeFoundry from "@/data/typefaces-fdi-type-foundry.json";
+import feedtype from "@/data/typefaces-feedtype.json";
+import fontClubBelgica from "@/data/typefaces-font-club-belgica.json";
+import fortFoundry from "@/data/typefaces-fort-foundry.json";
+import foundryFive from "@/data/typefaces-foundry-five.json";
+import frereJones from "@/data/typefaces-frere-jones.json";
+import fuerteType from "@/data/typefaces-fuerte-type.json";
+import gType from "@/data/typefaces-g-type.json";
+import gruppoDue from "@/data/typefaces-gruppo-due.json";
+import herzbergDesign from "@/data/typefaces-herzberg-design.json";
+import hipertipo from "@/data/typefaces-hipertipo.json";
+import hungarumlaut from "@/data/typefaces-hungarumlaut.json";
+import hurmeDesign from "@/data/typefaces-hurme-design.json";
+import identityLetters from "@/data/typefaces-identity-letters.json";
+import inHouseIntl from "@/data/typefaces-in-house-intl.json";
+import ivyFoundry from "@/data/typefaces-ivy-foundry.json";
+import jeremyTankard from "@/data/typefaces-jeremy-tankard.json";
+import jtdType from "@/data/typefaces-jtd-type.json";
+import julyType from "@/data/typefaces-july-type.json";
+import jungLeeType from "@/data/typefaces-jung-lee-type.json";
+import kernsAndCairns from "@/data/typefaces-kerns-and-cairns.json";
+import laBoldeVita from "@/data/typefaces-la-bolde-vita.json";
+import laic from "@/data/typefaces-laic.json";
+import lauraWorthington from "@/data/typefaces-laura-worthington.json";
+import letterror from "@/data/typefaces-letterror.json";
+import ludwig from "@/data/typefaces-ludwig.json";
+import maiType from "@/data/typefaces-mai-type.json";
+import manicType from "@/data/typefaces-manic-type.json";
+import mbType from "@/data/typefaces-mb-type.json";
+import mckl from "@/data/typefaces-mckl.json";
+import metisFoundry from "@/data/typefaces-metis-foundry.json";
+import modernType from "@/data/typefaces-modern-type.json";
+import motaItalic from "@/data/typefaces-mota-italic.json";
+import muccatypo from "@/data/typefaces-muccatypo.json";
+import muirmcneil from "@/data/typefaces-muirmcneil.json";
+import naipeFoundry from "@/data/typefaces-naipe-foundry.json";
+import newglyph from "@/data/typefaces-newglyph.json";
+import niceToType from "@/data/typefaces-nice-to-type.json";
+import nmType from "@/data/typefaces-nm-type.json";
+import notYourType from "@/data/typefaces-not-your-type.json";
+import novaTypeFoundry from "@/data/typefaces-nova-type-foundry.json";
+import occupantFonts from "@/data/typefaces-occupant-fonts.json";
+import okayType from "@/data/typefaces-okay-type.json";
+import omnibusType from "@/data/typefaces-omnibus-type.json";
+import orType from "@/data/typefaces-or-type.json";
+import originalType from "@/data/typefaces-original-type.json";
+import paavolaType from "@/data/typefaces-paavola-type.json";
+import pampatype from "@/data/typefaces-pampatype.json";
+import peggoFonts from "@/data/typefaces-peggo-fonts.json";
+import phantomFoundry from "@/data/typefaces-phantom-foundry.json";
+import plau from "@/data/typefaces-plau.json";
+import positype from "@/data/typefaces-positype.json";
+import primaryFoundry from "@/data/typefaces-primary-foundry.json";
+import proofOfWords from "@/data/typefaces-proof-of-words.json";
+import psTypeLab from "@/data/typefaces-ps-type-lab.json";
+import pyteFoundry from "@/data/typefaces-pyte-foundry.json";
+import resetTypeStudio from "@/data/typefaces-reset-type-studio.json";
+import retype from "@/data/typefaces-retype.json";
+import revolverTypeFoundry from "@/data/typefaces-revolver-type-foundry.json";
+import riptype from "@/data/typefaces-riptype.json";
+import roadToVeniceType from "@/data/typefaces-road-to-venice-type.json";
+import scifipoetry from "@/data/typefaces-scifipoetry.json";
+import serpentype from "@/data/typefaces-serpentype.json";
+import setupType from "@/data/typefaces-setup-type.json";
+import simpleBits from "@/data/typefaces-simple-bits.json";
+import slantedHall from "@/data/typefaces-slanted-hall.json";
+import smeltery from "@/data/typefaces-smeltery.json";
+import tegamitype from "@/data/typefaces-tegamitype.json";
+import theLetters from "@/data/typefaces-the-letters.json";
+import tinyTypeCo from "@/data/typefaces-tiny-type-co.json";
+import tipofili from "@/data/typefaces-tipofili.json";
+import tipografies from "@/data/typefaces-tipografies.json";
+import tipotype from "@/data/typefaces-tipotype.json";
+import tiroTypeworks from "@/data/typefaces-tiro-typeworks.json";
+import tourDeForce from "@/data/typefaces-tour-de-force.json";
+import troisiemeType from "@/data/typefaces-troisieme-type.json";
+import trulytype from "@/data/typefaces-trulytype.json";
+import typeCulture from "@/data/typefaces-type-culture.json";
+import typeDifferent from "@/data/typefaces-type-different.json";
+import typeOTones from "@/data/typefaces-type-o-tones.json";
+import typeSalon from "@/data/typefaces-type-salon.json";
+import typearture from "@/data/typefaces-typearture.json";
+import typeheist from "@/data/typefaces-typeheist.json";
+import typejockeys from "@/data/typefaces-typejockeys.json";
+import typeland from "@/data/typefaces-typeland.json";
+import typemanufactur from "@/data/typefaces-typemanufactur.json";
+import typerepublic from "@/data/typefaces-typerepublic.json";
+import typocalypse from "@/data/typefaces-typocalypse.json";
+import underscoreType from "@/data/typefaces-underscore-type.json";
+import underware from "@/data/typefaces-underware.json";
+import veryCoolStudio from "@/data/typefaces-very-cool-studio.json";
+import wTypeFoundry from "@/data/typefaces-w-type-foundry.json";
+import workhorseTypeFoundry from "@/data/typefaces-workhorse-type-foundry.json";
+import writtenshape from "@/data/typefaces-writtenshape.json";
+import xoTypeCo from "@/data/typefaces-xo-type-co.json";
 
 import { FOUNDRIES, getFoundryByName, type FoundryInfo } from "./foundry-map";
 import foundryResellers from "@/data/foundry-resellers.json";
@@ -501,6 +634,139 @@ export function getAllTypefaces(): Typeface[] {
         tropicalType,
         fontshare,
         uncut,
+        // Gap-fill batch
+        abyme,
+        apexFoundry,
+        arcaneTypeFoundry,
+        atlasFonts,
+        badsonType,
+        balFoundry,
+        barnbrook,
+        beastsOfEngland,
+        bijouType,
+        blackletra,
+        bloomType,
+        boldDecisions,
+        bolidSystem,
+        briefcaseTypeFoundry,
+        brownfox,
+        bureauBlamage,
+        cantrellType,
+        capeArcona,
+        carmelType,
+        characterType,
+        charlotteRohde,
+        cjType,
+        commaType,
+        contrastFoundry,
+        corentinNoyer,
+        counterForms,
+        departmentOfLetters,
+        dioramaTypePartners,
+        dunwichType,
+        e162,
+        editionStudio,
+        ekType,
+        emtypeFoundry,
+        epitype,
+        etcTypefaces,
+        extraType,
+        facetype,
+        fdiTypeFoundry,
+        feedtype,
+        fontClubBelgica,
+        fortFoundry,
+        foundryFive,
+        frereJones,
+        fuerteType,
+        gType,
+        gruppoDue,
+        herzbergDesign,
+        hipertipo,
+        hungarumlaut,
+        hurmeDesign,
+        identityLetters,
+        inHouseIntl,
+        ivyFoundry,
+        jeremyTankard,
+        jtdType,
+        julyType,
+        jungLeeType,
+        kernsAndCairns,
+        laBoldeVita,
+        laic,
+        lauraWorthington,
+        letterror,
+        ludwig,
+        maiType,
+        manicType,
+        mbType,
+        mckl,
+        metisFoundry,
+        modernType,
+        motaItalic,
+        muccatypo,
+        muirmcneil,
+        naipeFoundry,
+        newglyph,
+        niceToType,
+        nmType,
+        notYourType,
+        novaTypeFoundry,
+        occupantFonts,
+        okayType,
+        omnibusType,
+        orType,
+        originalType,
+        paavolaType,
+        pampatype,
+        peggoFonts,
+        phantomFoundry,
+        plau,
+        positype,
+        primaryFoundry,
+        proofOfWords,
+        psTypeLab,
+        pyteFoundry,
+        resetTypeStudio,
+        retype,
+        revolverTypeFoundry,
+        riptype,
+        roadToVeniceType,
+        scifipoetry,
+        serpentype,
+        setupType,
+        simpleBits,
+        slantedHall,
+        smeltery,
+        tegamitype,
+        theLetters,
+        tinyTypeCo,
+        tipofili,
+        tipografies,
+        tipotype,
+        tiroTypeworks,
+        tourDeForce,
+        troisiemeType,
+        trulytype,
+        typeCulture,
+        typeDifferent,
+        typeOTones,
+        typeSalon,
+        typearture,
+        typeheist,
+        typejockeys,
+        typeland,
+        typemanufactur,
+        typerepublic,
+        typocalypse,
+        underscoreType,
+        underware,
+        veryCoolStudio,
+        wTypeFoundry,
+        workhorseTypeFoundry,
+        writtenshape,
+        xoTypeCo,
       ] as RawTypeface[][]
     )
       .flat()
