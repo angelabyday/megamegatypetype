@@ -1,0 +1,676 @@
+[
+  {
+    "name": "Iskry",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/iskry/",
+    "designer": "Maciej Połczyński",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "high-contrast serif",
+    "classification_notes": "Iskry is classified as a serif with large and uneven contrast, featuring sharp pointed terminals that give it an expressive, display-oriented character distinct from conventional text serifs.",
+    "weights": [
+      "Regular",
+      "Italic",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Iskry"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "high-contrast",
+      "display",
+      "expressive",
+      "polish",
+      "pointed-terminals",
+      "editorial"
+    ],
+    "summary": "A high-contrast serif with sharp, pointed terminals designed by Maciej Połczyński, its name taken from the Polish word for sparks.",
+    "description": "Designed by Maciej Połczyński and released in late 2024, Iskry draws attention through its pronounced and uneven stroke contrast and aggressively pointed terminals that give the letterforms a biting, energetic quality. The proportions between uppercase and lowercase are deliberately distinct, adding to the typeface's idiosyncratic personality. With 300 glyphs and full Polish Latin coverage, including oldstyle figures and a stylistic set, it is suited to expressive editorial and display work.",
+    "foundry_blurb": "Laïc describe Iskry as a serif with large and uneven contrast, noting that its most distinctive feature is the sharp, pointy terminals that appear ready to bite. The name comes from the Polish word for sparks, evoking something small that ignites with sudden warmth or brightness."
+  },
+  {
+    "name": "Figiel",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/figiel/",
+    "designer": "Maciej Połczyński",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Described by the foundry as a headline typeface with aerodynamic proportions and a funky character, placing it firmly in the display category despite its sans-serif construction.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Figiel"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "headline",
+      "funky",
+      "polish",
+      "sans-serif",
+      "aerodynamic",
+      "expressive"
+    ],
+    "summary": "A playful Polish display sans with eight styles and aerodynamic proportions, designed by Maciej Połczyński for headline use.",
+    "description": "Designed by Maciej Połczyński and released in 2021, Figiel is a display sans built for headline work with what the foundry describes as aerodynamic proportions and a funky character. Its name derives from the Polish word for a trick, and that irreverence carries into the design. With 400 glyphs covering extended Latin and full Polish character support, it includes a ligature set and a stylistic set for alternate letterforms.",
+    "foundry_blurb": "Laïc describe Figiel as a sans serif headline typeface with aerodynamic proportions and a somewhat funky sensibility. The name references the Polish word for a trick. The family ships in eight styles with OpenType features including contextual alternates and a stylistic set, covering the full Polish Latin script."
+  },
+  {
+    "name": "Eklektyk",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/eklektyk/",
+    "designer": "Maciej Połczyński",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "high-contrast display",
+    "classification_notes": "A single-style headline typeface with strong stroke contrast and an eclectic retro character; designed explicitly for display use rather than continuous text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Eklektyk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "retro",
+      "headline",
+      "polish",
+      "eclectic",
+      "decorative"
+    ],
+    "summary": "A single-style high-contrast headline face by Maciej Połczyński, drawing on eclectic retro influences for Polish and Latin display work.",
+    "description": "Designed by Maciej Połczyński and released in 2021, Eklektyk is a headline typeface built around strong stroke contrast and a deliberately retro, eclectic character. Its name is borrowed from the Polish word for eclectic, reflecting the mix of diverse stylistic sources behind the design. The character set covers full Polish Latin with oldstyle figures and two OpenType features, keeping the offering lean and focused on headline use.",
+    "foundry_blurb": "Laïc describe Eklektyk as a headline typeface with high contrast and a funky, retro look. The name comes from the Polish word for eclectic, meaning something created from diverse ideas and styles. Designed by Maciej Połczyński and released in 2021, it supports Latin script including full Polish characters, with oldstyle figures and OpenType contextual alternates."
+  },
+  {
+    "name": "NieukMono",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/nieukmono/",
+    "designer": "Maciej Połczyński",
+    "year": 2023,
+    "category": "mono",
+    "subcategory": "experimental monospaced",
+    "classification_notes": "A monospaced typeface built on a modular system with contextual alternates that cycle through three character sets, placing it firmly in the experimental mono category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "NieukMono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "mono",
+      "modular",
+      "experimental",
+      "contextual-alternates",
+      "polish",
+      "playful",
+      "single-weight"
+    ],
+    "summary": "A single-weight modular monospaced typeface that rotates through three alternate character sets via contextual alternates, creating visual variation as you type.",
+    "description": "Designed by Maciej Połczyński and released in 2023, NieukMono is built on a modular construction with three sets of characters that mix dynamically during composition using the Contextual Alternates OpenType feature. The result is a typeface that resists uniformity without sacrificing the fixed-width structure. Its name is drawn from the Polish word for someone who plays around rather than studies properly, a spirit that shapes its loose, exploratory character.",
+    "foundry_blurb": "Laïc describe NieukMono as an experimental, modular typeface featuring three character sets that mix while writing via the Contextual Alternates feature. The name references the Polish word \"nieuk\", meaning someone who doesn't really learn but just plays around."
+  },
+  {
+    "name": "Harmider",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/harmider/",
+    "designer": "Maciej Połczyński",
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Described explicitly as a headline, blocky typeface with shy serifs, placing it firmly in the display category with a quirky slab-adjacent character rather than a text serif.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Harmider"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Polish"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "blocky",
+      "headline",
+      "serif",
+      "polish",
+      "editorial",
+      "chunky"
+    ],
+    "summary": "A blocky headline typeface with restrained serifs, designed by Maciej Połczyński with full Polish character support.",
+    "description": "Built for headline use, Harmider pairs a heavy, blocky structure with what the designer calls 'shy serifs', giving it an idiosyncratic character that sits between a slab and a display serif. The character set covers the full Polish alphabet including diacritics such as ą, ć, ę, ł, ń, ó, ś, ź and ż, alongside oldstyle figures. The name is taken from a Polish word meaning a kind of cacophonous noise, suggesting the type is designed to command attention rather than recede.",
+    "foundry_blurb": "Laïc describe Harmider as a headline, blocky typeface with shy serifs, taking its name from the Polish word for a type of noise, the kind that arises when many things happen at once."
+  },
+  {
+    "name": "Pion",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/pion/",
+    "designer": "Maciej Połczyński",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Pion is described as a narrow sans serif, placing it within the grotesque tradition. Its headline-focused, condensed proportions and upright geometry suggest a display grotesque.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pion"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "narrow",
+      "headline",
+      "grotesque",
+      "display",
+      "condensed",
+      "polish",
+      "uppercase"
+    ],
+    "summary": "A narrow, upright display sans by Maciej Połczyński, built for headline use with strong Polish character support.",
+    "description": "Designed by Maciej Połczyński and released in 2021, Pion takes its name from the Polish word for 'upright' or vertical, a reference to its narrow, tall proportions. The family ships in eight styles and covers the Latin script with full Polish diacritic support. Its condensed geometry makes it well suited to editorial headlines and display settings where vertical rhythm is a priority.",
+    "foundry_blurb": "Laïc describe Pion as a narrow sans serif typeface designed for headlines. The name derives from the Polish word for 'upright' or vertical, reflecting its tall, condensed character. Designed by Maciej Połczyński and released in 2021, it covers the Latin script including Polish characters across eight styles."
+  },
+  {
+    "name": "Fason",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/fason/",
+    "designer": "Maciej Połczyński",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as a sans serif headline typeface with a technological vibe, suggesting geometric or constructed letterforms typical of display-oriented geometric sans designs.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Thin",
+      "Light",
+      "ExtraLight"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fason"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "headline",
+      "display",
+      "technological",
+      "polish",
+      "uppercase",
+      "fashion",
+      "editorial"
+    ],
+    "summary": "A geometric sans designed for headlines, built around a technological aesthetic and named after a Polish word for an indefinable personal style.",
+    "description": "Designed by Maciej Połczyński, Fason is a sans serif cut for headline use, its name drawn from the Polish term for a certain intangible quality of fashion or manner. The family runs to eight styles with full Polish diacritic support, covering the extended Latin characters required for Central European languages. Its technological character makes it suited to branding, editorial titles and digital contexts where a cold, constructed feel is needed.",
+    "foundry_blurb": "Laïc describe Fason as a sans serif headline typeface searching for a technological vibe, with its name taken from the Polish word meaning a certain, not really defined style of fashion or a way of being."
+  },
+  {
+    "name": "Awaria",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/awaria/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "The name 'Awaria' (Polish for 'breakdown' or 'failure') and the uppercase-only nature suggest an expressive display typeface, likely with a distinctive or distressed character suited to headline use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Awaria"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Polish"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "uppercase",
+      "polish",
+      "expressive",
+      "headline"
+    ],
+    "summary": "An uppercase-only display typeface from Polish foundry Laïc, with pangram support indicating full Polish Latin character coverage.",
+    "description": "An uppercase-only display face from Warsaw-based foundry Laïc, whose name references the Polish word for a breakdown or failure. The typeface supports full Polish Latin characters, as demonstrated by the Polish pangram 'Zażółć gęślą jaźń'. Limited detail is available from the page, but the uppercase-only constraint points to a purpose-built headline or identity face.",
+    "foundry_blurb": "Laïc present Awaria as an uppercase display typeface, shown through Polish and English pangrams demonstrating its character coverage."
+  },
+  {
+    "name": "Ozzy",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/ozzy/",
+    "designer": "Brody Neuenschwander & Maciej Połczyński",
+    "year": null,
+    "category": "display",
+    "subcategory": "decorative display",
+    "classification_notes": "Ozzy is a display typeface drawing on Arabic Kufic script, Chinese seal script and 1960s decorative lettering traditions, producing idiosyncratic headline forms with no conventional text usage.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ozzy"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "headline",
+      "decorative",
+      "kufic",
+      "multicultural",
+      "expressive",
+      "graphic",
+      "sixties"
+    ],
+    "summary": "A headline typeface drawing on Arabic Kufic, Chinese seal script and 1960s album-cover lettering for an unpredictably idiosyncratic Latin alphabet.",
+    "description": "Named after Shelley's poem Ozymandias, the typeface reconstructs its letters from the ruins of ancient scripts, blending Arabic Kufic geometry and Chinese seal script with the swollen curves of Sixties record sleeves and American brand logotypes. The result is sharp and graphic yet with an organic sway to its forms, making it suited to editorial headlines or brand identity work where legibility can afford to bend. Eight styles are available, covering the Latin script with Polish diacritic support.",
+    "foundry_blurb": "Laïc describe Ozzy as a strange and wonderful headline typeface that travels the Silk Road from West to East. They cite Shelley's Ozymandias as the naming inspiration, with the letters reconstructed from ruins using elements of ancient Arabic Kufic and Chinese seal script, combined with the swollen shapes of Sixties album covers and the swashes of American brand logos. They describe it as sharp, graphic and strong, yet with a gentle sway, aiming to surprise with unpredictable and idiosyncratic forms."
+  },
+  {
+    "name": "Nielot",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/nielot/",
+    "designer": "Maciej Połczyński",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A geometric typeface with an oblique slant drawn from Constructivist poster lettering; its simplified, non-decorative letterforms and angular character place it firmly in the display/geometric display category rather than a neutral geometric sans.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nielot"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "constructivism",
+      "oblique",
+      "polish",
+      "display",
+      "poster",
+      "slanted"
+    ],
+    "summary": "A Constructivism-inspired geometric display typeface by Maciej Połczyński, built from simplified letterforms with an oblique slant.",
+    "description": "Drawn from the poster lettering of the Constructivist movement, it favours clean, undecorated geometry over expressive flourish. The defining characteristic is a consistent slant applied across all letterforms, recalling the dynamic angles of avant-garde print. Coverage extends to Latin with full Polish diacritics and Cyrillic, and both lining and oldstyle figures are included.",
+    "foundry_blurb": "Laïc describe Nielot as a geometric typeface inspired by Constructivist posters and letterforms, aiming for geometric simplicity without heavy decoration. The slanted design takes its name from the Polish word for 'flightless', designed by Maciej Połczyński."
+  },
+  {
+    "name": "Nieuk",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/nieuk/",
+    "designer": "Maciej Połczyński",
+    "year": null,
+    "category": "display",
+    "subcategory": "modular experimental",
+    "classification_notes": "Nieuk is built from a modular system of three alternating character sets activated via Contextual Alternates, placing it firmly in the experimental display category rather than any conventional text classification.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nieuk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Polish"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "experimental",
+      "contextual-alternates",
+      "display",
+      "polish",
+      "playful",
+      "geometric"
+    ],
+    "summary": "A modular display typeface by Maciej Połczyński that cycles through three alternating character sets as you type, producing a varied, self-interrupting rhythm.",
+    "description": "Built from three distinct sets of uppercase characters that interchange automatically via the Contextual Alternates OpenType feature, Nieuk produces a restless, pattern-like texture across any string of text. The name is a Polish word for someone who plays rather than studies, which reflects the typeface's improvisational logic. Full Polish diacritic support is included, covering characters such as ą, ć, ę, ł, ń, ó, ś, ż and ź.",
+    "foundry_blurb": "Laïc describe Nieuk as an experimental, modular typeface designed by Maciej Połczyński, constructed from three sets of characters that mix together during writing through the Contextual Alternates feature. The name is taken from the Polish word for someone who doesn't really learn but just plays around."
+  },
+  {
+    "name": "Maruder",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/maruder/",
+    "designer": "Maciej Połczyński",
+    "year": null,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Described explicitly as a sharp serif for headline purposes, with angular forms suited to display use rather than body text.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Maruder"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "headline",
+      "sharp",
+      "polish",
+      "editorial",
+      "angular"
+    ],
+    "summary": "A sharp display serif by Maciej Połczyński, built for headline use with full Polish diacritics and both lining and oldstyle figures.",
+    "description": "Named after the Polish word for vagabond, Maruder is a serif typeface with angular, pointed letterforms aimed at headline and display settings. The character set covers the full Polish alphabet including diacritics such as ą, ć, ę and ź, making it a natural fit for Polish-language editorial work. Both lining and oldstyle figure sets are included, adding flexibility for typographic hierarchy.",
+    "foundry_blurb": "Maruder is a sharp serif typeface designed by Maciej Połczyński for headline use. The name derives from the Polish word for vagabond. It supports Latin script with complete Polish diacritics and includes both standard and oldstyle figure sets."
+  },
+  {
+    "name": "Blef",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/blef/",
+    "designer": "Maciej Połczyński",
+    "year": null,
+    "category": "display",
+    "subcategory": "decorative display",
+    "classification_notes": "Blef is a headline-only typeface combining folk paper cut-out motifs with sci-fi geometry, making it firmly display and decorative in character rather than fitting any conventional text category.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blef"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "headline",
+      "folk",
+      "geometric",
+      "decorative",
+      "polish",
+      "sci-fi",
+      "uppercase"
+    ],
+    "summary": "A headline display typeface by Maciej Połczyński that fuses Polish folk paper cut-out patterns with futuristic, sci-fi letterforms.",
+    "description": "Designed by Maciej Połczyński at Laïc, Blef draws on the tradition of Polish wycinanki folk cut-outs and reframes them through angular, science-fiction-inflected geometry. The family covers uppercase Latin with Polish diacritic support and a full set of figures, with a single OpenType stylistic set. Its name references the Polish word for bluff, hinting at the typeface's playful tension between tradition and futurism.",
+    "foundry_blurb": "Laïc describe Blef as a headline typeface that connects folk cut-out patterns with futuristic sci-fi shapes, named after the Polish word for bluff."
+  },
+  {
+    "name": "Krayewski",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/krayewski/",
+    "designer": "Maciej Połczyński",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Described explicitly as a geometric headline typeface with a single style, based on lettering sketches with strong geometric construction suited only to display use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Krayewski"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "headline",
+      "lettering",
+      "tribute",
+      "polish",
+      "single-weight",
+      "uppercase"
+    ],
+    "summary": "A single-style geometric headline face drawn from a lettering sketch by Polish designer Andre de Krayewski, released by Maciej Połczyński in 2024.",
+    "description": "Based on a lettering sketch printed on the cover of 'Moje Okładki', a 2014 book collecting Andre de Krayewski's designs, the typeface carries a specific historical reference point rather than being a purely abstract exercise in geometry. It covers Latin and Cyrillic scripts across 300 glyphs, with OpenType features for contextual alternates and a stylistic set. The uppercase-led design sits well in editorial headlines and cultural branding with Central and Eastern European scope.",
+    "foundry_blurb": "Krayewski is a geometric headline typeface designed by Maciej Połczyński as a tribute to Polish designer Andre de Krayewski. It draws directly from a lettering sketch by Krayewski that appeared on the cover of 'Moje Okładki', a book of his designs published by Tytus Klepacz in 2014. First conceived in 2018, it was updated and released in version 2.0 in December 2024, with design update support from Pola Małaczewska."
+  },
+  {
+    "name": "Hybryda",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/hybryda/",
+    "designer": "Maciej Połczyński",
+    "year": null,
+    "category": "display",
+    "subcategory": "high-contrast display",
+    "classification_notes": "A high-contrast headline typeface that blends sans-serif and slab serif letterforms into a single hybrid design, placing it firmly in the display category with no clear single-genre classification.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hybryda"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "headline",
+      "retro",
+      "hybrid",
+      "slab",
+      "sans-serif",
+      "polish"
+    ],
+    "summary": "A single-weight high-contrast headline face that merges sans-serif and slab serif structures into one hybrid form, with strong Polish language support.",
+    "description": "Designed by Maciej Połczyński, Hybryda takes its name from the Polish word for hybrid, reflecting its core concept of blending sans and slab serif letterforms under one high-contrast design. The family ships as a single style with a full Polish character set, a set of f-ligatures and tt ligature, and five stylistic sets offering alternate forms for key uppercase and lowercase characters. Best suited to editorial headlines, poster work or branding where a retro tension between structure and stroke contrast is wanted.",
+    "foundry_blurb": "Laïc describe Hybryda as a high-contrast headline typeface that combines a retro vibe with sans serif and slab serif letter shapes, with the name derived from the Polish word for hybrid, meaning something composed of two kinds of components."
+  },
+  {
+    "name": "Solenizant",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/solenizant/",
+    "designer": "Maciej Połczyński",
+    "year": null,
+    "category": "display",
+    "subcategory": "decorative display",
+    "classification_notes": "An uppercase-only headline typeface described as funky with a strong attitude, placing it firmly in the display decorative category rather than any conventional text face classification.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Solenizant"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "headline",
+      "uppercase",
+      "decorative",
+      "funky",
+      "polish",
+      "expressive"
+    ],
+    "summary": "An uppercase-only display typeface in 10 styles with a bold, expressive character, designed by Maciej Połczyński at Laïc.",
+    "description": "Available in 10 styles with uppercase letters only, it covers the full Polish Latin character set including diacritics such as Ą, Ć, Ę, Ł, Ń, Ó, Ś, Ż and Ź. Its name derives from the Polish word for a person celebrating a birthday or name day, which gives some indication of its festive, attention-grabbing tone. Best suited to headlines, posters and short display copy where personality takes precedence over extended reading.",
+    "foundry_blurb": "Laïc describe Solenizant as a funky headline typeface with a strong attitude, available in 10 styles with uppercase letters only. The name comes from the Polish word for a person celebrating a birthday or name day."
+  },
+  {
+    "name": "Monter",
+    "foundry": "Laïc",
+    "url": "https://laic.pl/product/typefaces/monter/",
+    "designer": "Maciej Połczyński",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "A headline typeface with geometric construction inspired by metal bolt shapes, giving it a distinctive industrial character suited to display use only.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Monter"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "headline",
+      "industrial",
+      "geometric",
+      "polish",
+      "workers",
+      "tribute",
+      "bold"
+    ],
+    "summary": "A three-style headline typeface by Maciej Połczyński, drawn in tribute to construction workers and shaped by the geometry of a metal bolt.",
+    "description": "Designed by Maciej Połczyński and released in 2020, Monter takes its formal cues from the silhouette of a metal bolt, giving it a distinctly industrial edge suited to headline and display contexts. The name references the Polish word for assembler or construction worker, framing the typeface as an explicit tribute to manual labour. Three styles are available, with full Polish diacritic support and a pair of stylistic alternates for M and W via ss01.",
+    "foundry_blurb": "Laïc describe Monter as a headline typeface inspired by the shape of a metal bolt, designed as a tribute to workers who often go unmentioned. The name derives from the Polish word meaning assembler or construction worker."
+  }
+]

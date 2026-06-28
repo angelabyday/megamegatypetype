@@ -1,0 +1,231 @@
+[
+  {
+    "name": "Harriet",
+    "foundry": "Okay Type",
+    "url": "https://okaytype.com/harriet",
+    "designer": "Jackson Showalter-Cavanaugh",
+    "year": 2012,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Harriet is described as a contemporary reimagining of Baskerville filtered through subsequent Transitional and proto-Modern faces, particularly Scotch Roman typefaces such as Century, placing it squarely in the transitional serif tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "Harriet Display",
+      "Harriet Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "baskerville",
+      "scotch-roman",
+      "editorial",
+      "optical-sizes",
+      "small-caps",
+      "text",
+      "display"
+    ],
+    "summary": "A two-optical-size transitional serif by Jackson Showalter-Cavanaugh, reworking Baskerville through the lens of Scotch Roman faces like Century, released in 2012 and recognised with a TDC Medal and Communication Arts trophy.",
+    "description": "Harriet comes in Display and Text optical variants, the former offering exuberant contrast and sparkle at large sizes, the latter a more restrained elegance suited to body copy. Six weights from Thin to Black run across both sizes, each with a true italic, giving a total of 22 styles. OpenType features include small caps, discretionary ct and st ligatures, alternate figure styles and Vietnamese support added in version 2.0.",
+    "foundry_blurb": "Okay Type describe Harriet as a versatile serif family with two optical sizes and a wide range of weights, representing a contemporary reimagining of Baskerville viewed through Transitional and proto-Modern faces, particularly Scotch Roman typefaces like Century. The Display styles sparkle at large sizes while the Text styles offer sturdy elegance for everyday setting."
+  },
+  {
+    "name": "Okay",
+    "foundry": "Okay Type",
+    "url": "https://okaytype.com/okay",
+    "designer": "Jackson Showalter-Cavanaugh",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "humanist display sans",
+    "classification_notes": "Described by the foundry as an extra-bold, kinda-humanist display sans, it draws from Gill Kayo's ultra-bold tradition while moderating its exaggerated forms into something drier and more controlled across multiple widths.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Black",
+      "Narrow",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Okay"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "ultra-bold",
+      "humanist",
+      "condensed",
+      "headlines",
+      "variable",
+      "width-axis",
+      "award-winning"
+    ],
+    "summary": "A single ultra-bold display sans by Jackson Showalter-Cavanaugh that reinterprets Gill Kayo with dry wit rather than slapstick excess, available across three widths with a variable font offering fine-grained control over width and extender length.",
+    "description": "Born from a failed attempt to tame Gill Kayo's goofiness, Okay settles into its own register: punchy, warm and faintly sardonic rather than cartoonishly heavy. The family spans Black, Narrow and Condensed widths, each with a true italic, and a variable font exposes a Width axis from 60 to 100 alongside a custom XTND axis for controlling ascender and descender length. It received awards from Communication Arts and the Society of Typographic Arts, and was selected for Typographica's Fontiest Fonts of 2019.",
+    "foundry_blurb": "Okay Type describe Okay as an extra-bold, kinda-humanist display sans that started as an attempt to reconsider Gill Kayo's goofy design before concluding that the goofiness was the point. The result has a dry, sarcastic wit in place of slapstick, comes in multiple widths with alternate shorter extenders for tighter headline setting, and is available as a variable font with Width and Extender axes."
+  },
+  {
+    "name": "Euchre",
+    "foundry": "Okay Type",
+    "url": "https://okaytype.com/euchre",
+    "designer": "Jackson Showalter-Cavanaugh",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A text-optimised sans with calibrated contrast and open apertures, characteristics consistent with humanist sans design; the angled stress and organic rhythm distinguish it from geometric or grotesque models.",
+    "weights": [
+      "ExThin",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Euchre",
+      "Euchre Condensed",
+      "Euchre Variable"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "text",
+      "humanist",
+      "contrast",
+      "variable",
+      "condensed",
+      "editorial",
+      "branding",
+      "opentype"
+    ],
+    "summary": "A text sans by Jackson Showalter-Cavanaugh with measured contrast and open structure, awarded TDC71 Judge's Choice and a Communication Arts trophy.",
+    "description": "Designed primarily for running text, Euchre uses comfortable proportions and a carefully calibrated level of contrast that keeps copy readable without drawing attention to itself. Seven weights from ExThin to Black are available in both standard and condensed widths, each with matching italics, and a variable font adds a Grade axis for fine-tuning text density on press or screen without triggering reflow. OpenType features include small caps, ligatures and stylistic sets, and the variable format reduces webfont payload to roughly a quarter of the static family's footprint.",
+    "foundry_blurb": "Okay Type describe Euchre as a sans built with text in mind, praising its comfortable proportions and open structure. They highlight its seven-weight range, a condensed version at approximately 85% of the normal width, and italics they call sleek rather than mechanical. The variable font adds a Grade axis for adjusting text colour without affecting set width, and the webfont format delivers significant file-size savings over the static fonts. Euchre received a Judge's Choice at TDC71, a Communication Arts typographic award and an STA 100 award."
+  },
+  {
+    "name": "Alright Sans",
+    "foundry": "Okay Type",
+    "url": "https://okaytype.com/alright-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Named as a sans-serif and positioned as a predecessor to Alright; the name and foundry context suggest a humanist sans-serif lineage typical of Okay Type's output.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Alright Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "sans-serif",
+      "legacy",
+      "text"
+    ],
+    "summary": "An older sans-serif from Okay Type, now superseded by Alright but still available for existing customers.",
+    "description": "Alright Sans is the original release that preceded the updated Alright family from Okay Type. The foundry keeps it available for customers already using it in existing projects. Little detail is provided on the page, as it is effectively a legacy offering rather than an active product.",
+    "foundry_blurb": "Okay Type describe Alright Sans as the old version of Alright, noting that some customers continue to use it."
+  },
+  {
+    "name": "Alright",
+    "foundry": "Okay Type",
+    "url": "https://okaytype.com/alright",
+    "designer": null,
+    "year": 2009,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described by the foundry as a blend of humanist sans warmth and neo-grotesque clarity, placing it squarely in the humanist sans subcategory with grotesk discipline underlying the forms.",
+    "weights": [
+      "ExThin",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "Narrow",
+      "Condensed",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Alright Normal",
+      "Alright Narrow",
+      "Alright Condensed",
+      "Alright Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "grotesque",
+      "workhorse",
+      "versatile",
+      "multi-width",
+      "editorial",
+      "warm",
+      "approachable"
+    ],
+    "summary": "A revised and expanded version of Alright Sans spanning four widths and nine weights, balancing humanist warmth against neo-grotesque restraint.",
+    "description": "Originally released in 2009 and winning a Communication Arts type award, Alright has been revised and expanded into a large family covering Normal, Narrow, Condensed and Compressed widths, each running from ExThin to Ultra with matching italics. The design sits between the open, readable qualities of a humanist sans and the clean economy of a neo-grotesque, producing a tone that reads as professional without being cold. Extensive language support and OpenType features make it practical across editorial, branding and UI work.",
+    "foundry_blurb": "Okay Type describe Alright as a revised and expanded take on the classic Alright Sans, striking a balance between humanist charm and neo-grotesque straightforwardness. They position it as a versatile workhorse with broad weight and width coverage, extensive language support and OpenType features suited to any typographic project."
+  }
+]

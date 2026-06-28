@@ -1,0 +1,749 @@
+[
+  {
+    "name": "PTS HC-A",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/pts-hc-a",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "gothic sans",
+    "classification_notes": "A display sans with heavy, blocky letterforms drawn from hardcore punk and sports jersey typography traditions, placing it firmly in the display gothic sans category.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Regular",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "PTS HC-A Condensed",
+      "PTS HC-A",
+      "PTS HC-A Expanded"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "gothic",
+      "punk",
+      "sports",
+      "condensed",
+      "expanded",
+      "blocky",
+      "variable-width"
+    ],
+    "summary": "A display family spanning three widths and seven weights, drawn from the visual language of hardcore punk and sports jersey lettering.",
+    "description": "Twenty-four styles cover condensed, regular and expanded widths across seven weights from ExtraLight to Black, giving the family a wide range of typographic intensity. The punk and sports jersey references show in the tight, muscular letterforms that hold their presence at large sizes. Latin Extended coverage with discretionary ligatures and alternates rounds out the character set.",
+    "foundry_blurb": "Paavola Type describe PTS HC-A as a display typeface family with seven weights and three widths, inspired by hardcore punk and sports jersey aesthetics."
+  },
+  {
+    "name": "PTS Pharma",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/pts-pharma",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "reverse-contrast display",
+    "classification_notes": "Angular reverse-contrast letterforms with thick horizontals and thin verticals place this firmly in the display category; the unconventional stress inversion makes it unsuitable for text use and signals a purely expressive, display-oriented purpose.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "SemiExpanded",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "PTS Pharma",
+      "PTS Pharma SemiExpanded",
+      "PTS Pharma Expanded"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "reverse-contrast",
+      "angular",
+      "display",
+      "futuristic",
+      "retro",
+      "headlines",
+      "branding",
+      "wide"
+    ],
+    "summary": "An angular reverse-contrast display family across seven weights and three widths, with thick horizontals giving the letterforms a striking, unconventional rhythm.",
+    "description": "Reverse-contrast construction inverts the usual stress axis, placing weight on the horizontals rather than the verticals, which produces an immediately distinctive texture at headline sizes. The family runs from Light to Black across standard, SemiExpanded and Expanded widths, giving 21 styles in total. An extensive set of discretionary ligatures, covering uppercase, mixed-case and lowercase pairs, adds further personality suited to logotype and identity work.",
+    "foundry_blurb": "Paavola Type describe PTS Pharma as an innovative and original angular reverse-contrast display typeface family offering seven weights and three widths. They note its unique reverse-stress letterforms with thick horizontal lines create a striking visual impact, and that the family blends futuristic and retro aesthetics to suit graphic identities, headlines and broader visual communication applications."
+  },
+  {
+    "name": "PTS Registro",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/pts-registro",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described explicitly as a graphic grotesk, with a wide weight range and alternate characters typical of contemporary grotesque sans-serif design.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "PTS Registro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "graphic",
+      "contemporary",
+      "latin-extended",
+      "multi-weight",
+      "alternate-characters"
+    ],
+    "summary": "A contemporary graphic grotesque in seven weights with broad Latin language support and eight stylistic sets offering alternate letterforms for key characters.",
+    "description": "Seven weights from ExtraLight to Black, with italics listed as forthcoming. The family covers more than 200 Latin-based languages and includes eight stylistic sets, offering alternates for characters such as the single-storey 'a', double-storey 'g', 't', 'K', 'Q' and 'Z', along with alternate numerals and fractions. Discretionary ligatures and a full suite of OpenType features round out a well-specified package.",
+    "foundry_blurb": "Paavola Type describe PTS Registro as a contemporary graphic grotesk typeface family, offering seven weights with italics coming soon, and language support for more than 200 Latin-based languages spoken across more than 200 countries."
+  },
+  {
+    "name": "PTS Fridag Mono",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/pts-fridag-mono",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "humanist mono",
+    "classification_notes": "Explicitly described as a monospaced font with a human feel; stylistic alternates including single-storey a and g suggest humanist influences within a fixed-pitch structure.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "PTS Fridag Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "humanist",
+      "technical",
+      "coding",
+      "fixed-width",
+      "latin-extended"
+    ],
+    "summary": "A fixed-pitch family in eight weights with humanist details, covering over 200 Latin-based languages and offering stylistic alternates for a and g.",
+    "description": "Built on a monospaced grid, PTS Fridag Mono softens the mechanical quality typical of technical mono typefaces through humanist character variants and alternate letter forms. Eight weights from ExtraLight to Black provide range, and four stylistic sets allow switching between square features, single-storey a, single-storey g and spurless u. Language support spans more than 200 Latin-based languages, with a glyph set that includes arrows, currency symbols, fractions and encircled numerals.",
+    "foundry_blurb": "Paavola Type describe PTS Fridag Mono as a tech mono font family with a human feel, noting support for more than 200 Latin-based languages spoken across more than 200 countries, with stylistic sets offering square features, single-storey a, single-storey g and spurless u."
+  },
+  {
+    "name": "PTS Fridag Sans",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/pts-fridag-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as a 'tech sans with a human feel', the typeface blends geometric precision with humanist warmth, featuring alternate single-storey a and g, spurless u and other humanist details alongside a clean technical structure.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "PTS Fridag Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "technical",
+      "sans-serif",
+      "functional",
+      "neutral",
+      "multilingual"
+    ],
+    "summary": "A technically minded sans with humanist detailing, offering eight weights with italics and extensive Latin coverage across more than 200 languages.",
+    "description": "Positioned as a tech sans with a human feel, this family runs from ExtraLight to Black with matching italics across all eight weights. Stylistic sets allow switching between double and single-storey forms for 'a' and 'g', a spurless 'u' and square punctuation features, giving designers control over the typeface's character. Glyph coverage is broad, extending to Latin Extended-A and -B with superscripts, fractions, ordinals and a full suite of currency symbols.",
+    "foundry_blurb": "Paavola Type describe PTS Fridag Sans v2.0 as a tech sans with a human feel. The family supports more than 200 Latin-based languages spoken across more than 200 countries, and includes stylistic sets for square features, single-storey 'a', single-storey 'g' and a spurless 'u'."
+  },
+  {
+    "name": "PTS Mattby Sans",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/pts-mattby-sans",
+    "designer": null,
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The foundry describes clean geometry as a defining characteristic, and the letterforms include optional single-storey a and g, typical of geometric sans-serif traditions.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "PTS Mattby Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "clean",
+      "versatile",
+      "latin-extended",
+      "opentype",
+      "ligatures",
+      "multi-weight",
+      "contemporary"
+    ],
+    "summary": "A geometric sans-serif spanning eight weights with broad Latin language support, developed from the earlier Mattby Display family.",
+    "description": "Derived from Mattby Display, which launched in 2022 as a two-cut family, PTS Mattby Sans extends the concept into a full eight-weight range from ExtraLight to Black. The family covers over 200 Latin-based languages and includes a thoughtful set of OpenType features: two stylistic sets offering single-storey a and g variants and an alternate S, extensive discretionary ligatures, glyph substitutions for arrows and symbols, and titling forms. The overall character is clean and unadorned, suited to branding, editorial and UI contexts where a neutral geometric voice is needed.",
+    "foundry_blurb": "Paavola Type describe PTS Mattby Sans as a family built on clean geometry, versatile functionality and a timeless aesthetic, making it suitable for a wide range of design applications. It supports more than 200 Latin-based languages spoken across more than 200 countries, and includes stylistic sets for single-storey a and g, an alternate S, discretionary ligatures and glyph substitutions for common symbols."
+  },
+  {
+    "name": "PT Schimetrik",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/pts-schimetrik",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "The foundry describes it as a modern grotesque with clean geometry, and the stylistic sets reveal dual-storey defaults alongside geometric alternates, placing it squarely in the geometric grotesque tradition.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "PT Schimetrik"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "print",
+      "digital",
+      "opentype",
+      "multilingual",
+      "versatile"
+    ],
+    "summary": "A geometric grotesque with seven weights and ten stylistic sets, covering over 200 Latin-based languages for both print and digital use.",
+    "description": "Seven weights from ExtraLight to Black, each with a matching italic, give this grotesque a practical range for text and display work. Ten OpenType stylistic sets offer meaningful flexibility, including single-storey alternates for both a and g, a spurless u, and alternate forms for Q, R, l and t. Discretionary ligature shortcuts for arrows and symbols add a layer of considered utility seldom seen at this price point.",
+    "foundry_blurb": "Paavola Type describe PT Schimetrik as a modern grotesque that adapts to both print and digital mediums, combining clean geometry with versatile functionality. The family supports more than 200 Latin-based languages and includes ten stylistic sets for character-level customisation, alongside glyph substitution shortcuts for common symbols and arrows."
+  },
+  {
+    "name": "Millesimo",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/millesimo",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The proportions, cap height and x-height metrics, along with the range of weights and italic cuts, point to a humanist sans design. The presence of discretionary ligatures, oldstyle figures and stylistic alternates further suggests a text-oriented humanist approach rather than a geometric or grotesque model.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Millesimo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "text",
+      "editorial",
+      "extended-latin",
+      "opentype",
+      "oldstyle-figures",
+      "ligatures",
+      "contemporary"
+    ],
+    "summary": "A text-oriented humanist sans from Paavola Type, offered in eight weights with matching italics and a thorough set of OpenType features.",
+    "description": "Eight weights from ExtraLight to Black, each with an italic, give the family a wide tonal range suitable for extended text and editorial use. OpenType features include oldstyle figures, discretionary ligatures, fractions, stylistic alternates and case-sensitive forms, suggesting care for typographic detail. Latin Extended coverage accommodates a broad range of European languages.",
+    "foundry_blurb": "Millesimo is presented by Paavola Type as a multi-weight family with sixteen styles, ranging from ExtraLight to Black with corresponding italics, and supported by a comprehensive set of OpenType features including oldstyle figures, discretionary ligatures, fractions and stylistic alternates."
+  },
+  {
+    "name": "PTS Intelligo",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/pts-intelligo",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "Described as a modern grotesque with clean geometry, placing it within the geometric grotesque tradition. The presence of alternate single-storey 'a' and 'g' and alternate 'R' forms suggests a humanist influence within an otherwise geometric framework.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "PTS Intelligo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "print",
+      "digital",
+      "versatile",
+      "opentype",
+      "multilingual"
+    ],
+    "summary": "A modern grotesque with clean geometry and an extensive set of OpenType alternates, covering over 200 Latin-based languages across eight weights.",
+    "description": "Eight weights from ExtraLight to Black, each with a matching italic, give the family enough range for both text and display use across print and screen. Thirteen stylistic sets allow per-character switching between double-storey and single-storey forms for 'a' and 'g', alternate cuts of 'R', 'l', 't' and individual numeral variants, giving designers fine control over the typeface's personality. Discretionary ligature shortcuts for arrows, copyright and registered symbols, and the numero sign add practical utility for interface and editorial work.",
+    "foundry_blurb": "Paavola Type describe PTS Intelligo as a modern grotesque built for both print and digital use, citing clean geometry, versatile functionality and a timeless aesthetic suited to a wide range of design applications. The typeface supports more than 200 Latin-based languages and includes multiple stylistic sets for alternating key characters, as well as glyph substitution shortcuts for common symbols."
+  },
+  {
+    "name": "Varial Two Super Rounded",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/varial-two-super-rounded",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "An extra-condensed sans-serif with heavily rounded terminals throughout, placing it firmly in the geometric sans category with a distinctive super-rounded stylistic treatment.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Varial Two Super Rounded"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "extra-condensed",
+      "rounded",
+      "geometric",
+      "display",
+      "small-caps",
+      "multilingual",
+      "sans-serif"
+    ],
+    "summary": "An extra-condensed geometric sans with heavily rounded terminals, offered in eight weights with matching italics, small caps and an extended Latin character set.",
+    "description": "An updated iteration of the original Varial from 2014, this super-rounded variant pushes the terminal rounding to its limit across eight weights from ExtraLight to Ultra, each with an italic companion. The family includes small caps, discretionary ligatures, fractions and multiple stylistic sets, with broad Latin language coverage extending into Latin Extended-A and Extended-B ranges. It sits alongside the forthcoming Varial Two and Varial Two Rounded families as part of a wider refresh of the original design.",
+    "foundry_blurb": "Varial Two Super Rounded is described as an updated and super-rounded version of Varial, originally published in 2014. It offers seven weights of extra-condensed sans-serif with small caps, extended Latin language support, and extra OpenType features including fractions, ligatures and alternates. The foundry notes it will be released alongside Varial Two and Varial Two Rounded families."
+  },
+  {
+    "name": "Varial Two Rounded",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/varial-two-rounded",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "extra-condensed grotesque",
+    "classification_notes": "An extra-condensed sans-serif with rounded terminals, updating the original Varial (2014); the narrow proportions and geometric softness place it firmly in the condensed grotesque tradition.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Varial Two Rounded"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "extra-condensed",
+      "grotesque",
+      "rounded",
+      "small-caps",
+      "display",
+      "latin-extended",
+      "tight"
+    ],
+    "summary": "An extra-condensed grotesque with rounded terminals, offered in eight weights with italics, small caps and broad Latin language support.",
+    "description": "Updated from the original Varial of 2014, this family applies rounded terminals to a narrow sans structure across eight weights from ExtraLight to Ultra, each with a matching italic. Small caps, discretionary ligatures, stylistic alternates and fractions are included as OpenType features, and the character set covers a wide range of Latin languages. Part of a planned trio alongside Varial Two and Varial Two Super Rounded.",
+    "foundry_blurb": "Paavola Type describe Varial Two Rounded as an updated and rounded version of Varial, originally published in 2014. It offers seven weights of extra-condensed sans-serif with small caps, extended Latin character set and extra OpenType features including fractions, ligatures and alternates. The family is to be released alongside Varial Two and Varial Two Super Rounded."
+  },
+  {
+    "name": "Varial Two",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/varial-two",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "condensed grotesque",
+    "classification_notes": "An extra-condensed sans-serif with grotesque characteristics, updated from the 2014 original Varial. The extreme width compression and neutral structure place it firmly in the condensed grotesque category.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Varial Two",
+      "Varial Two Rounded",
+      "Varial Two Super Rounded"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "grotesque",
+      "extra-condensed",
+      "small-caps",
+      "latin-extended",
+      "display",
+      "editorial"
+    ],
+    "summary": "An updated, eight-weight extra-condensed sans-serif with small caps, broad Latin language support and a full set of OpenType features including fractions, ligatures and stylistic alternates.",
+    "description": "A revision of the 2014 Varial, this family spans eight weights from ExtraLight to Ultra, each with a matching italic, in a pronounced extra-condensed cut suited to headlines and tight settings. Small capitals, discretionary ligatures, fractions and multiple stylistic sets are included, alongside an extended Latin character set covering a wide range of European languages. The family is planned to expand with Rounded and Super Rounded variants.",
+    "foundry_blurb": "Varial Two is described as an updated version of the original Varial from 2014, offering seven weights of extra-condensed sans-serif with small caps, extended Latin language support, and additional OpenType features including fractions, ligatures and alternates. Companion families Varial Two Rounded and Varial Two Super Rounded are planned for release alongside it."
+  },
+  {
+    "name": "Fridag Sans",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/fridag-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The glyph set, OpenType features and overall construction suggest a humanist sans-serif sensibility, with a double-storey g alternate via Stylistic Set 1 and extensive Latin Extended coverage pointing to text-oriented humanist conventions.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fridag Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "sans-serif",
+      "text",
+      "small-caps",
+      "opentype",
+      "extended-latin",
+      "ligatures"
+    ],
+    "summary": "A six-weight humanist sans from Paavola Type Studio with small caps, discretionary ligatures and broad Latin Extended coverage.",
+    "description": "Twelve styles across six weights from ExtraLight to Bold, each with a matching italic, make up a workmanlike text family. OpenType features include small capitals, standard and discretionary ligatures, tabular figures, stylistic alternates for the double-storey g, and case-sensitive forms. The glyph set reaches into Latin Extended-A and -B, covering a wide range of European languages.",
+    "foundry_blurb": "Paavola Type Studio describe Fridag Sans as their latest release: a six-weight OpenType font family that includes small caps, ligatures and additional OpenType features."
+  },
+  {
+    "name": "Mattby Display",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/mattby-display",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "A heavily weighted, chunky display typeface with pronounced serifs and a deliberately stocky character, designed explicitly for large-scale display use with extensive OpenType feature support.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mattby Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "heavy",
+      "chunky",
+      "ligatures",
+      "titling",
+      "expressive",
+      "latin-extended",
+      "opentype"
+    ],
+    "summary": "A thick-set display typeface with an extensive ligature system and titling alternates built for headline work at large sizes.",
+    "description": "Built around a deliberately heavy, squat structure, Mattby Display leans into its bulk with wide proportions and strong serifs. The OpenType feature set is unusually generous for a single-weight display face, including discretionary ligatures covering dozens of L, T, R and F combinations, a full titling set with paired capital combinations, and stylistic alternates. Coverage extends across Latin Extended-A and B, making it usable across a broad range of European languages.",
+    "foundry_blurb": "Paavola Type describe Mattby Display as stocky, beefy, dumpy, heavyset, husky, rotund, stubby, thick and fun, with lots of ligatures, stylistic alternates and other OpenType features."
+  },
+  {
+    "name": "Winkell Pro",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/winkell-pro",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The page shows no explicit classification, but the letterforms and style listing with italics, multiple widths and weights point to a contemporary grotesque sans-serif with extended width variation.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "SemiExpanded",
+      "Expanded",
+      "ExtraExpanded",
+      "UltraExpanded"
+    ],
+    "subfamilies": [
+      "Winkell Pro",
+      "Winkell Pro SemiExpanded",
+      "Winkell Pro Expanded",
+      "Winkell Pro ExtraExpanded",
+      "Winkell Pro UltraExpanded"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "expanded",
+      "multi-width",
+      "editorial",
+      "display",
+      "extended-latin"
+    ],
+    "summary": "A grotesque sans-serif spanning five widths from standard to ultra-expanded, each available in five weights with matching italics.",
+    "description": "Fifty styles cover five weights from Light to Black across standard, semi-expanded, expanded, extra-expanded and ultra-expanded widths, all with accompanying italics. The glyph set reaches across Latin Extended-A and -B with broad diacritic coverage, and OpenType features include discretionary ligatures, stylistic alternates and standard ligature sets. The width range makes it a practical choice for layouts demanding significant typographic flexibility across both tight and wide measures.",
+    "foundry_blurb": "Winkell Pro is a large grotesque sans-serif family from Paavola Type offering five widths and five weights with italics throughout, totalling fifty styles. The family includes a comprehensive Latin character set with extended language support and OpenType features including ligatures and stylistic alternates."
+  },
+  {
+    "name": "Winkell",
+    "foundry": "Paavola Type",
+    "url": "https://www.paavolatype.com/winkell",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "An all-caps display family built on straight strokes connected by 45-degree rounded angles, designed explicitly for futuristic and sci-fi aesthetic contexts rather than text use.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Wide",
+      "Extra Wide",
+      "Super Wide"
+    ],
+    "subfamilies": [
+      "Winkell",
+      "Winkell Wide",
+      "Winkell Extra Wide",
+      "Winkell Super Wide"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "all-caps",
+      "futuristic",
+      "cyberpunk",
+      "geometric",
+      "science-fiction",
+      "wide"
+    ],
+    "summary": "An all-caps geometric display family in four widths, built around straight forms joined by 45-degree rounded angles and inspired by cyberpunk and dystopian science fiction aesthetics.",
+    "description": "Winkell is a futuristic all-caps display family spanning four widths from Regular to Super Wide, each available in Regular and Bold with matching italics, giving sixteen styles in total. Its letterforms are constructed from straight strokes meeting at 45-degree rounded angles, producing a clean, angular rhythm suited to titles, logotypes and speculative-fiction art direction. Extended Latin character support broadens its usability across multiple European languages.",
+    "foundry_blurb": "Paavola Type describe Winkell as a futuristic all-caps four-width OpenType family with italic styles and multilanguage support, heavily inspired by dystopian science fiction settings, particularly cyberpunk and related futuristic visual subgenres, built from simple forms based on straight lines connected by 45-degree rounded angles."
+  }
+]

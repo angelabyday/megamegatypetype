@@ -1,0 +1,673 @@
+[
+  {
+    "name": "Mancine",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/mancine",
+    "designer": null,
+    "year": 2024,
+    "category": "display",
+    "subcategory": "art nouveau display",
+    "classification_notes": "Described explicitly as a display typeface with an Art Nouveau aesthetic; its unusual reverse-contrast structure derived from left-handed calligraphy at 150 degrees places it firmly outside conventional serif or sans-serif categories.",
+    "weights": [
+      "7 Styles"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mancine"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "art-nouveau",
+      "reverse-contrast",
+      "calligraphic",
+      "swash",
+      "variable",
+      "expressive",
+      "ornate"
+    ],
+    "summary": "A display typeface built on a 150-degree pen angle, the natural grip of a left-handed calligrapher, filtered through Art Nouveau letterforms.",
+    "description": "Where most Latin typefaces trace their contrast to a broad-nib pen held at 30 degrees, Mancine inverts that logic entirely, using a 150-degree angle that produces a wholly different stress pattern. The result is swashy, bohemian uppercase forms paired with an OpenType 'trailing caps' feature that automatically replaces subsequent capitals with simplified versions, preventing visual overload in running text. Seven styles are available with variable font support, and the character set extends to ligatures, oldstyle figures, localised forms and a full suite of alternates.",
+    "foundry_blurb": "Herzberg Design describe Mancine as a display typeface inspired by left-handed calligraphy, with a broad nib held at around 150 degrees — the opposite of conventional practice. This unusual contrast structure, combined with Art Nouveau sensibilities, produces letterforms the foundry call graceful, bohemian and wholly unique while remaining strangely familiar. The name itself comes from the Italian word for left-handed."
+  },
+  {
+    "name": "Thanatos",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/thanatos",
+    "designer": "Herzberg Design",
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "A sharp-cornered serif with calligraphic and woodcut origins, knife-like serifs and broken counterforms place it firmly in the display serif tradition, though its three optical sizes extend usability down to text settings.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Deck",
+      "Display"
+    ],
+    "subfamilies": [
+      "Thanatos"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "calligraphic",
+      "woodcut",
+      "optical-sizes",
+      "editorial",
+      "expressive",
+      "crafted"
+    ],
+    "summary": "A sharp-cornered serif in eight weights and three optical sizes, drawing on calligraphy and woodcut craft for a typeface that balances character with genuine usability.",
+    "description": "Two years in the making, Thanatos runs across 48 styles combining eight weights with Text, Deck and Display optical sizes, each in Roman and Italic. Its knife-like serifs, broken counterforms and subtly concave stems trace a lineage to Berthold Wolpe's Albertus, though the result reads as craftsmanship and solidity rather than ornament or horror. The Text cut widens forms and reinforces stroke connections for smaller settings, while the Display cut preserves the family's delicate, incisive character at larger sizes.",
+    "foundry_blurb": "Herzberg Design describe Thanatos as their most ambitious project to date, a typeface two years in the making with roots in calligraphy and wood carving, evidenced by ragged cuts on circular strokes and subtly concave stems. Originally conceived as a custom typeface for a short horror film, its sharp features and knife-like serifs were strongly influenced by Berthold Wolpe's 1930s Albertus. Three optical sizes address the full range from display to text, and the family is available as a variable font as of 2024."
+  },
+  {
+    "name": "Fang",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/fang",
+    "designer": "Herzberg Design",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "high-contrast serif",
+    "classification_notes": "Classified as display serif with a distinctive three-way contrast structure: thick strokes, thinner strokes, and hairline endings. Informed by Roman inscriptions, Renaissance printing and calligraphic lettering, placing it firmly in the high-contrast display serif tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fang"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "calligraphic",
+      "serif",
+      "historical",
+      "editorial",
+      "elegant",
+      "handcrafted"
+    ],
+    "summary": "A two-style display serif drawing on Roman inscriptions, Renaissance printing and the lettering of Helmut Salden, built around a distinctive three-way contrast structure.",
+    "description": "The design pairs exceptionally wide Roman lowercase letterforms with a heavily condensed italic, creating a sharp typographic contrast between the two styles. Its three-way contrast structure of thick strokes, thinner strokes and hairline endings is offset by subtly concave stems and curved serif feet, introducing a calligraphic warmth that softens the inherent rigidity of high-contrast display type. The family ships with small capitals, oldstyle and lining figures, standard and discretionary ligatures, and broad Latin language support.",
+    "foundry_blurb": "Herzberg Design describes Fang as an honest attempt to create a Roman and Italic display face of the highest elegance possible, with letterforms that flow like water but stand like stone. The design draws on two-millennia-old Roman engravings, Renaissance printing and the lettering work of Dutch-German artist Helmut Salden, reconsidered anew into a coherent gestalt. A deliberate three-way contrast structure, subtly concave stems and curved serif feet lend the type a breath of humanity distinct from mathematical digital perfection."
+  },
+  {
+    "name": "Bonkus",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/bonkus",
+    "designer": null,
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Explicitly described as a geometric sans-serif, with '70s 'bent-tube' inspirations from ITC Bauhaus, Blippo and Ronda placing it firmly in the geometric tradition with a display-leaning personality.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bonkus",
+      "Bonkus Italic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "1970s",
+      "display",
+      "funky",
+      "retro",
+      "variable",
+      "opentype-rich"
+    ],
+    "summary": "A geometric sans-serif with 1970s 'bent-tube' DNA, drawing on ITC Bauhaus, Blippo and Ronda, offered in six weights with italics and a variable font file.",
+    "description": "Inspired by the rounded, bent-tube lettering of 1970s typefaces such as ITC Bauhaus and Blippo, this geometric sans aims for a more balanced and versatile take on that era's personality. Six weights from Thin to Black each have optically adjusted italic counterparts, and the family ships with a variable font file. Four stylistic sets and 54 uppercase discretionary ligatures allow the aesthetic to shift considerably, from restrained sub-headers to high-energy display settings, with Latin Plus and Basic Cyrillic covering over 200 languages.",
+    "foundry_blurb": "Herzberg Design describe Bonkus as a geometric sans-serif with a funky touch, citing ITC Bauhaus, Blippo and Ronda as inspirations, while noting it retains their pleasant personality with improved balance and versatility. The family offers six weights with optically adjusted italics, four stylistic sets, 54 uppercase discretionary ligatures, and a variable font file, covering over 200 languages across Latin and Cyrillic scripts. A revised version 3 with a fully redrawn character set is in development, and existing buyers will receive it at no extra cost."
+  },
+  {
+    "name": "Libido",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/libido",
+    "designer": null,
+    "year": 2021,
+    "category": "display",
+    "subcategory": "psychedelic unicase",
+    "classification_notes": "A display typeface in the tradition of 1960s psychedelic poster lettering, with rectangular letterforms, variable width and optical sizing axes, and a distinct unicase construction that places it firmly in the display genre.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Wide",
+      "Extrawide",
+      "Ultra",
+      "Standard",
+      "Optical Size 1",
+      "Optical Size 2",
+      "Optical Size 3",
+      "Optical Size 4"
+    ],
+    "subfamilies": [
+      "Libido Smooth",
+      "Libido Ragged"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "psychedelic",
+      "unicase",
+      "display",
+      "variable",
+      "poster",
+      "1960s",
+      "rectangular",
+      "ornamental"
+    ],
+    "summary": "A variable unicase display typeface drawing from 1960s psychedelic poster lettering, offering 56 static styles across smooth and ragged cuts with width and optical size axes.",
+    "description": "Inspired by the rectangular letterforms of Wes Wilson's 1960s psychedelic concert posters, each glyph is built on a rectangular grid with minimal cutouts defining the letter shapes. A variable width axis and optical sizing axis allow lines to be set at equal widths with consistent internal spacing, solving the central practical challenge of the genre. The ragged cut strips all curves for a distinct angular variant that loses the psychedelic associations of the smooth style and opens the family to different applications.",
+    "foundry_blurb": "Herzberg Design describe Libido as the most versatile take on the psychedelic unicase genre ever made, tracing its lineage from Alfred Roller through Wes Wilson. The variable font combines a width axis and optical sizing axis to achieve even contrast and uniform spacing across sizes, while 56 static styles span four optical sizes, seven widths, and two style cuts — smooth and ragged. The unicase design eliminates ascenders and descenders entirely, including diacritics, enabling extremely tight leading and a striking visual consistency."
+  },
+  {
+    "name": "Schmaltzy",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/schmaltzy",
+    "designer": null,
+    "year": 2022,
+    "category": "blackletter",
+    "subcategory": "fraktur",
+    "classification_notes": "Schmaltzy is explicitly a blackletter, modernised from calligraphic fraktur hands with optional ornamental fraktur swash capitals and smooth, rounded strokes replacing the genre's characteristic sharp angles.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black",
+      "ExtraBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Schmaltzy"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "fraktur",
+      "rounded",
+      "friendly",
+      "variable",
+      "calligraphic",
+      "display",
+      "versatile"
+    ],
+    "summary": "A rounded, approachable blackletter released in 2022, drawing comparisons to Cooper Black in its rejection of sharp edges in favour of smooth, flowing curves.",
+    "description": "Where most blackletters carry heavy historical or subcultural baggage, Schmaltzy softens the genre through a fully rounded stroke treatment with no sharp edges anywhere in the design. The nib-size variable axis merges weight and width together, so heavier cuts expand laterally and create dramatic contrast across a composition. Standard capitals read as near-Roman forms for accessibility in all-caps settings, while optional fraktur swash capitals can be switched on for a more ornate or period feel, alongside a broad set of OpenType alternates, ligatures and localised forms covering over 200 languages.",
+    "foundry_blurb": "Herzberg Design describe Schmaltzy as a relaxed, modern take on blackletter with not a single sharp edge, only smooth curves. They liken its relationship to classical blackletter to what Cooper Oldstyle is to Roman type, calling it a kind of Cooper Blackletter. The family merges weight and width into a single nib-size axis, ships with eight weights plus a variable font, and offers switchable fraktur swash capitals alongside extensive OpenType features for controlling the level of ornamental detail."
+  },
+  {
+    "name": "Hitching Post",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/hitching-post",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "brush script",
+    "classification_notes": "Described explicitly as a classic signpainter-style brush script, expressive and period appropriate to a 1950s cowboy aesthetic, placing it firmly in the script category with a brush signpainting subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hitching Post"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "brush-script",
+      "signpainter",
+      "western",
+      "retro",
+      "1950s",
+      "display",
+      "lettering"
+    ],
+    "summary": "A signpainter-style brush script created for a 1950s cowboy-themed bar in Kansas, prioritising legibility and period character.",
+    "description": "Developed as part of a full brand identity for The Hitching Post bar in Humboldt, Kansas, the script draws on classic American signpainting traditions with an expressive, hand-lettered quality suited to mid-century cowboy nostalgia. The wordmark is paired with a monogram featuring a rope wrapped around a hitching post. Whether available as a retail typeface or solely a commissioned logotype is not clear from the page.",
+    "foundry_blurb": "Herzberg Design describe the lettering as a classic signpainter-style brush script that is expressive, legible, and period appropriate, designed to anchor a broader brand identity including a custom neon sign, tiled doorway lettering, menus, coasters and 1950s cowboy illustrations."
+  },
+  {
+    "name": "Wanchy",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/wanchy",
+    "designer": null,
+    "year": 2019,
+    "category": "display",
+    "subcategory": "psychedelic display",
+    "classification_notes": "A display typeface with heavy horizontal (reverse) contrast and Art Nouveau influence, producing a psychedelic character without directly imitating 1960s–70s typefaces. Its unconventional letterforms and thick horizontal strokes place it firmly in the display category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Variable optical sizing axis"
+    ],
+    "subfamilies": [
+      "Wanchy"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "psychedelic",
+      "art-nouveau",
+      "variable",
+      "reverse-contrast",
+      "decorative",
+      "dingbats",
+      "horizontal-contrast"
+    ],
+    "summary": "A reverse-contrast display typeface with heavy horizontal strokes and an Art Nouveau-inflected psychedelic character, available as a variable font with an optical sizing axis.",
+    "description": "Wanchy uses a pronounced reverse (horizontal) contrast, with thick tops and bottoms and thin vertical stems, producing a psychedelic effect that draws on Art Nouveau without directly imitating period revivals. It ships as a variable font with an optical sizing axis, alongside five fixed presets, allowing use across a range of display sizes whilst keeping thin stroke widths consistent. The glyph set includes Latin Plus language support, discretionary ligatures, contextual alternates and 52 code-activated dingbats including arrows, flowers and emojis.",
+    "foundry_blurb": "Herzberg Design describe Wanchy as a funky display face with strong Art Nouveau influence, featuring heavy horizontal contrast with thick tops and bottoms and thin stems that lend it a psychedelic quality without imitating 1960s or 70s fonts. It is available as a variable font with an optical sizing axis and five presets, and includes a broad glyph set with Latin Plus support, OpenType features and 52 dingbats activatable via typed codes."
+  },
+  {
+    "name": "Cloisterfuch",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/cloisterfuch",
+    "designer": null,
+    "year": 2019,
+    "category": "blackletter",
+    "subcategory": "textura",
+    "classification_notes": "Cloisterfuch is rooted in Textura Quadrata with Fraktur influence in the majuscules, placing it firmly in the blackletter category with a textura subcategory. The exaggerated wedge serifs, waisted strokes and blocky letterforms are characteristic of the textura tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cloisterfuch"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "textura",
+      "display",
+      "historical",
+      "expressive",
+      "chunky",
+      "calligraphic"
+    ],
+    "summary": "A single-style blackletter display face grounded in Textura Quadrata, with exaggerated flaring, waisted strokes and Fraktur-influenced majuscules that give it a blocky, characterful presence.",
+    "description": "Drawing primarily on Textura Quadrata with Fraktur influence in the uppercase, Cloisterfuch pushes the varying pen angles and waisted strokes of calligraphic scripts to an expressive extreme. The result is a chunky, striking display face with pendulous Schnorkels on the majuscules, wedge-shaped ink traps on the r, c and t, and a letter spacing that maintains a dark but balanced page colour. Named one of Typographica's Favourite Typefaces of 2019, it comes with Latin Plus language support, OpenType features including historical forms, oldstyle figures, swash caps and standard and discretionary ligatures.",
+    "foundry_blurb": "Herzberg Design describe Cloisterfuch as a chunky, striking blackletter that takes the varying pen angles and waisted strokes of calligraphic scripts and pushes them to an extreme, producing an exaggerated, blocky display face best viewed large. Its letterforms draw mostly on Textura Quadrata with Fraktur influence in the majuscules, and the face includes Latin Plus language support alongside a range of OpenType features including swash caps, historical alternates, oldstyle figures and ligatures."
+  },
+  {
+    "name": "Thanatos",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/wms",
+    "designer": "Herzberg Design",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Thanatos features extreme sharp serifs with an unusual contrast structure inspired by the woodcut forms of Albertus, placing it firmly in display serif territory with strong expressive character.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "Thanatos"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "horror",
+      "sharp",
+      "high-contrast",
+      "woodcut",
+      "editorial",
+      "film"
+    ],
+    "summary": "A custom display serif designed for horror short film While Mortals Sleep, drawing on the woodcut forms of Albertus with extreme sharp serifs and a variable weight axis.",
+    "description": "Designed originally in 2021 as a custom typeface for the Sundance 2022 horror short While Mortals Sleep, Thanatos takes its structural cues from Albertus, the typeface associated with John Carpenter's credit sequences. Its defining characteristic is an aggressive sharpness in serifs and corners, offset by an unusual contrast structure that keeps letterforms readable at weight. A variable weight axis runs from Thin to Black, and an optical sizing axis was added to resolve the sharpest details muddying at small sizes.",
+    "foundry_blurb": "Thanatos was designed as a custom typeface for Alex Fofonoff's horror short While Mortals Sleep, which premiered at Sundance 2022. Named after the Jungian death drive, the face features extremely sharp serifs and corners alongside an unusual contrast structure inspired by the woodcut forms of Albertus, John Carpenter's signature credit typeface. It includes a weight axis from thin to black and an optical sizing axis for small-size legibility. Originally completed in 2021, it was subsequently developed into a retail release in May 2023."
+  },
+  {
+    "name": "Idle Hour Books",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/idle-hour",
+    "designer": "Herzberg Design",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "blackletter lettering",
+    "classification_notes": "The logo uses custom blackletter lettering based on an unpublished piece by Dutch designer Helmut Salden, placing it firmly in the blackletter tradition with a historical bookish character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Idle Hour Books"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "lettering",
+      "identity",
+      "bookshop",
+      "historical",
+      "ornamental",
+      "custom"
+    ],
+    "summary": "A custom blackletter logo and identity for a Kansas bookshop, drawn from an unpublished piece of lettering by Dutch designer Helmut Salden.",
+    "description": "Created for Idle Hour Books, a bookshop in Humboldt, Kansas, this identity centres on a blackletter logotype derived from an unpublished lettering work by the late Dutch designer Helmut Salden, known primarily for his book cover designs. Ornamental elements are drawn from stained glass windows in the building that will house the shop, while the colour palette comes from a 1933 Japanese publication, 'A Dictionary of Color Combinations'. A woodcut-style 'reading skeleton' illustration rounds out the identity, referencing the tradition of turn-of-the-century Ex-Libris bookplates.",
+    "foundry_blurb": "Herzberg Design describes Idle Hour Books as a bookshop identity meant to convey calm and the tactile pleasure of a well-made book. Though William Morris was initially requested as a primary influence, the final blackletter logotype is instead based on an unpublished work by Helmut Salden, with ornament sourced from the building's stained glass and colour drawn from a 1933 Japanese colour reference publication."
+  },
+  {
+    "name": "Concierge Script",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/conciergescript",
+    "designer": "Herzberg Design",
+    "year": null,
+    "category": "script",
+    "subcategory": "casual script",
+    "classification_notes": "A semi-cursive handwriting script imitating the gestural strokes of an oblique-nibbed fountain pen, designed for professional branding use with OpenType alternates for naturalness.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Concierge Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "handwriting",
+      "cursive",
+      "custom",
+      "finance",
+      "branding",
+      "opentype",
+      "fountain-pen"
+    ],
+    "summary": "A custom semi-cursive handwriting typeface commissioned via Frog Design for a finance industry client, built around the gestural confidence of fountain pen script.",
+    "description": "Created as a custom branding typeface for a finance sector client, the design imitates the semi-cursive handwriting of a professional signing documents with an oblique-nibbed fountain pen. Hundreds of handwritten samples were produced before a final reference was settled upon, with the full alphabet extrapolated from that single chosen example. Naturalness is achieved through an extensive OpenType system of positional and randomised alternates, including 8 variants of the lowercase 'a' and 135 glyphs covering just 26 lowercase letters, ensuring no two consecutive letters appear identical.",
+    "foundry_blurb": "Herzberg Design describes Concierge Script as a custom handwriting typeface created for frog design's finance industry branding project. The brief called for confident, gestural semi-cursive letterforms reminiscent of a businessperson writing with an oblique-nibbed fountain pen, with accessibility requiring forms that were neither overly stylised nor excessively uniform. Extensive OpenType alternates, including positional and randomised variants, were developed to produce a convincing handwritten rhythm throughout."
+  },
+  {
+    "name": "The Shady Street Show Band",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/shadystreetshowband",
+    "designer": "Herzberg Design",
+    "year": null,
+    "category": "display",
+    "subcategory": "victorian display",
+    "classification_notes": "The letterforms are described as vaudeville Victorian in style, drawing on late 19th and early 20th century historical references with warm, decorative qualities typical of Victorian display typography.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "The Shady Street Show Band"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "victorian",
+      "vaudeville",
+      "display",
+      "ornamental",
+      "retro",
+      "logo",
+      "branding"
+    ],
+    "summary": "A vaudeville Victorian logotype designed for a New Jersey rhythm and roots band, built around warm, funky letterforms and a dark red, creme and charcoal palette.",
+    "description": "Created as part of a broader rebranding project for The Shady Street Show Band of Asbury Park, NJ, the logotype draws on late 19th and early 20th century historical styles to produce a decorative Victorian lockup. The family includes a compact monogram variant for contexts where the full wordmark is too large, alongside an ornamental business card and electronic press kit. The warm palette and period-influenced forms are aimed squarely at the band's roots and rhythm identity.",
+    "foundry_blurb": "Herzberg Design describe the project as a rebranding for an original rhythm and roots band, arrived at after exploring several historical styles from the late 19th and early 20th centuries. The chosen direction is a vaudeville Victorian lockup with warm and funky letterforms in a dark red, creme and charcoal palette, applied across a wordmark, compact monogram, ornamental business card and electronic press kit."
+  },
+  {
+    "name": "Bonkus",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/big-fun",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described as a counterless geometric, used as a display supporting typeface in a brand identity context, suggesting a bold, open geometric sans character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bonkus"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "counterless",
+      "bold",
+      "branding",
+      "retro"
+    ],
+    "summary": "A counterless geometric sans designed by Herzberg Design, used as a supporting typeface in a New Orleans-themed brand identity with a 1990s aesthetic.",
+    "description": "Bonkus is a geometric sans characterised by its counterless letterforms, giving it a bold, open quality suited to display use. It appears here as the supporting typeface in the Big Fun brand identity, paired with a hand-lettered brush script to achieve a 1990s-inflected aesthetic. Little further detail about weights or language coverage is available from this page.",
+    "foundry_blurb": "Herzberg Design describe Bonkus as their own typeface, used here as a supporting font in the Big Fun entertainment brand identity alongside a handwritten, scanned and vectored brush script logotype."
+  },
+  {
+    "name": "Felices Para Siempre",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/felices-para-siempre",
+    "designer": "Herzberg Design",
+    "year": null,
+    "category": "display",
+    "subcategory": "custom lettering",
+    "classification_notes": "Hand-drawn custom lettering with swashes and bespoke capitals, built on the Fang Italic skeleton; categorised as display due to its bespoke, one-off illustrative nature for a film title.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Felices Para Siempre"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "custom-lettering",
+      "film-title",
+      "swash",
+      "handdrawn",
+      "romantic",
+      "script-influenced",
+      "editorial"
+    ],
+    "summary": "Custom title lettering and credit typography designed for a low-budget short film, built on Fang Italic with bespoke capitals and swashes.",
+    "description": "Drawn for director Jonathan Herzberg's short film, the title lettering takes Fang Italic as a structural base before introducing custom capitals and decorative swashes suited to the film's tone of distorted romance. Credit slides pair the lettering with hand-scanned flowers collected around New Orleans, the analogue texture keeping the floral motif from reading as sentimental. The project marks the first official use of Fang Roman and Italic in a public context.",
+    "foundry_blurb": "Herzberg Design describes this as a personal project: custom lettering and graphic design for his brother Jonathan's short film about a man who proposes necrophilia to an ex-lover on her deathbed. The title lettering adapts Fang Italic with custom capitals and swashes, while Katie Mancine contributed to the credit slides by scanning over a hundred flowers from around New Orleans. The analogue quality of the scans was chosen deliberately to avoid a saccharine look, and to echo the film's opening shot of a flower shop."
+  },
+  {
+    "name": "Lucky Bastard",
+    "foundry": "Herzberg Design",
+    "url": "https://www.herzbergdesign.com/lucky-bastard",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "brush script",
+    "classification_notes": "Described explicitly as a brush script logotype with angular, crisp strokes; fits the script category and brush script subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lucky Bastard"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "brush-script",
+      "logotype",
+      "angular",
+      "streetwear",
+      "display",
+      "branding"
+    ],
+    "summary": "A custom angular brush script logotype created for an Amsterdam streetwear brand, paired with a monogram and dice icon.",
+    "description": "Designed as a bespoke brand identity commission rather than a retail typeface, the logotype features crisp, angular brushwork suited to a streetwear aesthetic. It is accompanied by a matching monogram and a dice icon evoking the lucky number seven, all rendered in a black, yellow and white palette. No retail font appears to be available; this entry represents a custom lettering project only.",
+    "foundry_blurb": "Herzberg Design was brought in to create the brand identity for Lucky Bastard, an Amsterdam-based streetwear label. After exploring multiple logotype concepts, the chosen direction resulted in a crisp, angular brush script alongside a monogram and a dice icon representing the lucky number seven, brought together through a black, yellow and white colour scheme and vintage Amsterdam imagery."
+  }
+]

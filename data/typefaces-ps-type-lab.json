@@ -1,0 +1,2217 @@
+[
+  {
+    "name": "Please",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/please",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Please is a humanist sans-serif with expressive glyph alternates and optical-size subfamilies; its open counters, oldstyle figures and poster-specific letterforms place it firmly in the humanist tradition while pushing toward display territory at heavier weights.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Heavy",
+      "Jumbo",
+      "Ultra",
+      "Super"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display",
+      "Poster"
+    ],
+    "subfamilies": [
+      "Please",
+      "Please Display",
+      "Please Poster"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "display",
+      "poster",
+      "expressive",
+      "variable",
+      "optical-sizes",
+      "editorial",
+      "alternate-glyphs"
+    ],
+    "summary": "A three-subfamily type system from PS Type Lab, tuned across text, display and poster scales with distinct glyph sets at each level.",
+    "description": "Split into Please, Please Display and Please Poster, the family is designed so each optical register carries its own default character set rather than hiding variants in buried stylistic sets. Please Poster introduces unconventional forms at larger sizes: a single-counter 'a', a single-shoulder 'm' and round counters in uppercase letters that conventionally carry none. Available in both static and variable font formats, the system supports a wide Latin character set including oldstyle figures, open-counter alternates and discretionary ligatures.",
+    "foundry_blurb": "PS Type Lab describe Please as a polite and respectful type family that knows how to demand attention. Designed with three tones in mind — copy, headlines and posters — the system splits into three subfamilies, each with its own default glyph set so the voices are easy to find and easy to use. Please Poster takes things furthest, with unexpected forms including round counters in letters that traditionally have none."
+  },
+  {
+    "name": "Tightle",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/tightle",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "All-caps display typeface with extreme tight spacing achieved through OpenType automation; classified as display due to its headline-only orientation and unconventional approach to letter fitting.",
+    "weights": [
+      "Bold",
+      "Medium"
+    ],
+    "optical_sizes_or_widths": [
+      "Headline",
+      "Subhead"
+    ],
+    "subfamilies": [
+      "Tightle",
+      "Tightle Subhead"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "all-caps",
+      "headline",
+      "tight-spacing",
+      "opentype",
+      "ligatures",
+      "bold",
+      "lettering"
+    ],
+    "summary": "An all-caps display face that uses ligatures, contextual alternates and positional substitutions to pack letters together without them touching.",
+    "description": "Tightle is built around an OpenType system that automates tight headline setting: each letter has multiple positional forms depending on whether it opens, closes or sits within a word, and discretionary ligatures manage the gaps so forms nestle close without overlapping. A companion subfamily, Tightle Subhead, relaxes the spacing and adds lowercase characters across four weights for supporting text. The result is a family designed specifically for headline hierarchies where extreme compression is the point.",
+    "foundry_blurb": "PS Type Lab describe Tightle as a bold display face that blurs the line between lettering and type design through an unapologetically tight approach to spacing. OpenType features including ligatures, contextual alternates and automatic substitutions work in real time to make letters tuck behind, slide up close and nestle into one another. Tightle Subhead accompanies the headline fonts with traditional spacing, matching lowercase and four weights."
+  },
+  {
+    "name": "Hoss Round Slab",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/hoss-rnd-slab",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "rounded slab serif",
+    "classification_notes": "A slab serif family with rounded terminals, positioned as the third sibling in the Hoss Family alongside a sans counterpart, with uniform slab serifs and geometric construction.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Heavy",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hoss Round Slab"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "rounded",
+      "variable",
+      "geometric",
+      "display",
+      "workhorse",
+      "family"
+    ],
+    "summary": "A rounded slab serif with seven weights and matching italics, forming the third member of PS Type Lab's Hoss type family.",
+    "description": "Seven weights from Light to Ultra, each with a matching italic, give the family considerable range across display and text settings. Rounded terminals soften the slab construction and align it visually with its sans companion in the Hoss family. A variable font is available alongside discrete static styles, and OpenType features include schoolbook alternates, oldstyle figures, fractions and discretionary ligatures.",
+    "foundry_blurb": "PS Type Lab describe Hoss Round Slab as the third sibling in the Hoss Family, mirroring the seven weights of the sans with matching italics. It is available through Adobe Fonts and as a variable font."
+  },
+  {
+    "name": "Skew",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/skew",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "brush display",
+    "classification_notes": "A brush-inspired display face with visible stroke construction, offered in a standard and a textured 'Rough' variant across six weights, placing it firmly in the display category with an expressive, hand-made character.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Super"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Skew",
+      "Skew Rough"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "brush",
+      "display",
+      "textured",
+      "rough",
+      "handcrafted",
+      "expressive",
+      "variable"
+    ],
+    "summary": "A brush-inspired display family in six weights, with a 'Rough' variant adding visible texture across matching weights.",
+    "description": "Built around the visible individual strokes of brush construction, Skew makes no attempt to smooth away its hand-made character. The family spans six weights from Light to Super, offered in both a clean version and a Rough variant with added texture. OpenType features include discretionary ligatures, uppercase alternates and swash capitals, and the family is available as a variable font.",
+    "foundry_blurb": "PS Type Lab describe Skew as a brush-inspired display face that doesn't shy away from the individual strokes that construct its forms. The family runs six weights from Light to Super, with an optional Rough version in matching weights for added texture. A suite of Extras vector graphics bundles is also available alongside the typeface."
+  },
+  {
+    "name": "Hegante Display",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/hegante-display",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "brush-influenced display",
+    "classification_notes": "Described by the foundry as influenced by the brush, with lively letterforms and a range of weights from Regular to Black; the display orientation and expressive construction place it firmly in the display category.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hegante Display",
+      "Hegante Display VF"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "brush",
+      "expressive",
+      "bold",
+      "variable",
+      "editorial",
+      "lively"
+    ],
+    "summary": "A brush-influenced display family available in six weights and as a variable font, with OpenType alternates for single-storey a and g.",
+    "description": "Built on the foundations of the original Hegante, this Display cut arrives with six weights from Regular to Black and a variable font spanning the full weight axis. Brush influences lend the letterforms energy and personality across the range, while OpenType features including flip-top alternatives and single-storey a and g offer typographic flexibility. Available through Adobe Fonts as well as direct purchase.",
+    "foundry_blurb": "Hegante is described as all grown up, with six new weights, revisited letterforms and an expanded character set. PS Type Lab present it as a big, bold and lively design influenced by the brush, now available as a variable font for control over the weight axis."
+  },
+  {
+    "name": "Panel",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/panel",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "The family includes a serif subfamily (Panel), a sans (Panel Sans) and a mono (Panel Mono), making serif the primary category. The structured naming and range suggest a contemporary workhorse family.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Panel",
+      "Panel Sans",
+      "Panel Mono",
+      "Panel Sans Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "superfamily",
+      "serif",
+      "sans-serif",
+      "monospaced",
+      "workhorse",
+      "contemporary",
+      "text",
+      "multipurpose"
+    ],
+    "summary": "A four-subfamily superfamily spanning serif, sans, sans mono and mono cuts, each offered in five weights with italics across 40 fonts total.",
+    "description": "Panel is a superfamily from PS Type Lab that pairs a serif and a sans with two monospaced variants, Panel Mono and Panel Sans Mono. All four subfamilies share the same weight range from Light to Black with matching italics, giving 40 fonts in total. The consistent structure makes it well suited to editorial systems and interfaces where multiple voices need to coexist.",
+    "foundry_blurb": "PS Type Lab present Panel as a 40-font superfamily available on Adobe Fonts, comprising Panel, Panel Sans, Panel Mono and Panel Sans Mono, each running from Light to Black with italic counterparts."
+  },
+  {
+    "name": "Scale",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/scale",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A contemporary grotesque sans with alternating character forms available via OpenType features, spanning an unusually wide range of widths from Extra Condensed to Super Extended.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "ExtraCondensed",
+      "Condensed",
+      "Regular",
+      "Extended",
+      "ExtraExtended",
+      "SuperExtended"
+    ],
+    "subfamilies": [
+      "Scale"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "variable",
+      "wide",
+      "condensed",
+      "display",
+      "multi-width",
+      "extended",
+      "contemporary"
+    ],
+    "summary": "A 72-style grotesque family spanning six widths from Extra Condensed to Super Extended, with matching italics and a double-axis variable font.",
+    "description": "Covering six weights and six widths, Scale offers an unusually broad range for a single grotesque family, from tight Extra Condensed settings to an extreme Super Extended suited to large-scale display use. OpenType alternates include spurless G, double-storey g, diagonal K and k, schoolbook a and crossbar I, giving designers meaningful control over the character of the letterforms. Available as a double-axis variable font interpolating across both weight and width axes simultaneously.",
+    "foundry_blurb": "PS Type Lab describe Scale as a large type family in both size and scope, created for the contemporary designer, ranging from a useful Extra Condensed to an absurd Super Extended. They position it as a family meant to be used large and scaled up, available as a double-axis variable font."
+  },
+  {
+    "name": "Panel Sans",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/panel-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Marketed as a sans with accompanying mono and serif variants; the primary family is a grotesque sans with regular through black weights and italic cuts.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Panel Sans",
+      "Panel Sans Mono",
+      "Panel Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "mono",
+      "system",
+      "versatile",
+      "editorial"
+    ],
+    "summary": "A grotesque sans family from PS Type Lab spanning 40 fonts across sans, mono and italic variants, with a matching monospaced sub-family.",
+    "description": "Panel Sans is a grotesque sans offered in a broad 40-font family that covers regular and display weights from Light to Black, with italic cuts throughout. A dedicated monospaced variant, Panel Sans Mono, extends the family for code and tabular contexts. The family is available via Adobe Fonts as well as direct purchase, and includes at least one stylistic set for alternate letterforms.",
+    "foundry_blurb": "PS Type Lab describe Panel Sans as a 40-font family encompassing serif, sans, mono and italic styles, with Panel Sans Mono offered as a companion for technical and monospaced use cases. The family is activatable on Adobe Fonts."
+  },
+  {
+    "name": "Panel Mono",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/panel-mono",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced sans",
+    "classification_notes": "Panel Mono is a monospaced subfamily within the Panel type system, which spans serif, sans-serif and mono variants; the Mono cut retains the same proportions and structure as Panel Sans but in fixed-width spacing.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Panel",
+      "Panel Sans",
+      "Panel Mono",
+      "Panel Sans Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "coding",
+      "technical",
+      "contemporary",
+      "type-system",
+      "fixed-width"
+    ],
+    "summary": "A monospaced subfamiy of the Panel type system, spanning five weights with matching italics for use in technical and editorial contexts.",
+    "description": "Panel Mono is the fixed-width arm of the broader Panel family, which also includes a proportional serif and sans-serif. Five weights from Light to Black each carry a companion italic, giving the Mono cut the same range as its sibling subfamilies. The parent Panel family received a TDC 70 Certificate of Excellence for Type Design and is available via Adobe Fonts.",
+    "foundry_blurb": "Panel Mono is part of the wider Panel family from PS Type Lab, a 40-font system covering serif, sans-serif and mono styles with italic companions throughout. The Panel family was recognised with a TDC 70 Certificate of Excellence for Type Design and can be activated through Adobe Fonts."
+  },
+  {
+    "name": "Panel Sans Mono",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/panel-sans-mono",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced sans",
+    "classification_notes": "Panel Sans Mono is the monospaced variant within the Panel superfamily, sharing proportions and weight range with its proportional siblings but spaced on a fixed grid, classifying it firmly as a monospaced sans-serif.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Panel",
+      "Panel Mono",
+      "Panel Sans",
+      "Panel Sans Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "sans-serif",
+      "superfamily",
+      "technical",
+      "coding",
+      "editorial",
+      "proportional-companion"
+    ],
+    "summary": "A monospaced sans that sits within a superfamily spanning proportional and serif subfamilies across five weights with matching italics.",
+    "description": "Panel Sans Mono is the fixed-width arm of the Panel superfamily, which encompasses Panel, Panel Mono, Panel Sans and Panel Sans Mono across a shared weight range from Light to Black. Each subfamily carries a full italic set, giving the family 40 fonts in total. The pairing of proportional and monospaced cuts within the same system makes it well suited to interfaces or editorial work where text and code must coexist.",
+    "foundry_blurb": "PS Type Lab present Panel Sans Mono as part of the broader Panel family, a 40-font superfamily covering serif, sans, mono and italic styles, available to activate via Adobe Fonts or purchase directly."
+  },
+  {
+    "name": "Sway",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/sway",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast serif",
+    "classification_notes": "Sway is a high-contrast serif with a double axis variable font spanning horizontal to vertical stress, giving it a distinctly expressive and rhythmic character that shifts between conventional and inverted contrast extremes.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sway",
+      "Sway Mid",
+      "Sway Inverse"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "high-contrast",
+      "serif",
+      "expressive",
+      "editorial",
+      "rhythmic",
+      "double-axis"
+    ],
+    "summary": "A double-axis variable serif that shifts between horizontal and vertical stress to produce three distinct sub-families ranging from conventional contrast to fully inverted.",
+    "description": "A variable serif built on two axes, contrast and weight, that lets users move between horizontal and vertical stress to produce markedly different typographic characters. The three static sub-families, Sway, Sway Mid and Sway Inverse, each span six weights from Light to Black with matching italics, offering a spectrum from conventional high-contrast to fully reversed stress. Oldstyle figures and stylistic alternates are available across the family, and the variable version accommodates granular tuning between those predefined extremes.",
+    "foundry_blurb": "PS Type Lab describe Sway as a rhythmic typeface exploring a family with extremely contrasting opinions, using a double-axis variable font structure to let users dial between horizontal and vertical stress for their desired level of funk, or choose from three predefined sub-families each with six weights and matching italics."
+  },
+  {
+    "name": "Neighbor Stencil",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/neighbor-stencil",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "stencil sans",
+    "classification_notes": "A stencil variant of a sans-serif family, with interrupted strokes at joints characteristic of the stencil genre. The upright and italic cuts across nine weights place it firmly in display usage.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Neighbor Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "display",
+      "sans-serif",
+      "editorial",
+      "poster",
+      "wide-weight-range",
+      "opentype"
+    ],
+    "summary": "A stencil sans in nine weights with matching italics, offering extensive OpenType alternates including geometric, cursive and schoolbook lowercase variants.",
+    "description": "Eighteen styles span Thin through Black with upright and italic cuts across every weight, giving designers a wide tonal range within a single stencil family. OpenType features include multiple lowercase sets, narrow and wide uppercase alternates, oldstyle figures, and discretionary ligatures, adding typographic flexibility beyond what stencil typefaces typically offer. Latin Extended coverage supports a broad range of European languages.",
+    "foundry_blurb": "Neighbor Stencil is an 18-font family from PS Type Lab, available in nine weights from Thin to Black, each with a matching italic. It can be activated via Adobe Fonts and is sold directly through the foundry."
+  },
+  {
+    "name": "Neighbor",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/neighbor",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The presence of cursive-inflected italics, schoolbook and geometric lowercase alternates, and swash characters indicates a humanist sans with expressive personality rather than a neutral grotesque or strict geometric.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Neighbor"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "sans-serif",
+      "editorial",
+      "alternates",
+      "opentype",
+      "multi-weight",
+      "cursive-italic",
+      "versatile"
+    ],
+    "summary": "A 18-style humanist sans with genuinely drawn cursive italics and an extensive set of OpenType alternates including wide, narrow and schoolbook lowercase variants.",
+    "description": "Spanning nine weights from Thin to Black with matching italics, Neighbor offers more stylistic range than its clean exterior suggests. The italics are designed as active cursive companions rather than sloped romans, with hints of calligraphic letterforms in f, g, k, s and z. OpenType features include wide and narrow uppercase, diamond-cut E and F alternates, geometric and schoolbook lowercase sets, and a full suite of figure styles from oldstyle to scientific inferiors.",
+    "foundry_blurb": "PS Type Lab note that rather than using optically corrected obliques for the italics, the designer saw the opportunity to create an energetic companion with hints of cursive, allowing the italics to speak with a fresh tone and add another layer to the family."
+  },
+  {
+    "name": "Campaign Serif",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/campaign-serif",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "editorial serif",
+    "classification_notes": "A multi-weight serif with swashy alternates and oldstyle figures, positioned for editorial and expressive typesetting. The combination of optical metrics and alternate characters suggests a humanist serif with display tendencies.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Campaign Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "expressive",
+      "swash",
+      "alternates",
+      "magazine",
+      "display",
+      "text"
+    ],
+    "summary": "A six-weight serif family with italic companions and swashy lowercase alternates, suited to editorial and display work.",
+    "description": "Twelve styles span six weights from Thin to Black, each with a matching italic, giving the family a broad range for both text and headline settings. OpenType features include discretionary ligatures, oldstyle figures, stylistic alternates for v and w, and an alternative single-loop g, adding character at larger sizes. Swashy lowercase alternates introduce an expressive quality that positions the face towards magazine and campaign contexts.",
+    "foundry_blurb": "Campaign Serif is available through PS Type Lab and can be activated via Adobe Fonts. The family includes 12 fonts with OpenType features including discretionary ligatures, alternative swashy lowercase, oldstyle figures and stylistic alternates."
+  },
+  {
+    "name": "Snug Sharp",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/snug-sharp",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A crisp geometric sans with variable axes for weight, width and x-height, with stylistic alternates suggesting a clean, constructed letterform structure typical of geometric sans design.",
+    "weights": [
+      "Thin",
+      "XLight",
+      "Light",
+      "Normal",
+      "Regular",
+      "Medium",
+      "SBold",
+      "Bold",
+      "XBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Compact",
+      "Regular",
+      "Low X-Height Compressed",
+      "Low X-Height Compact",
+      "Low X-Height Regular"
+    ],
+    "subfamilies": [
+      "Snug Sharp"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "variable",
+      "multi-axis",
+      "condensed",
+      "wide-range",
+      "contemporary"
+    ],
+    "summary": "A triple-axis variable sans spanning weight, width and x-height across 60 static styles and a single variable font file.",
+    "description": "Snug Sharp is the sharper companion to PS Type Lab's Snug, built as a triple-axis variable font covering weight, width and x-height. Each of three widths — Compressed, Compact and Regular — runs across ten weights from Thin to Black, with a standard and low x-height variant for each, totalling 60 static fonts. Optional round and geometric alternates give designers additional control over its character.",
+    "foundry_blurb": "PS Type Lab describe Snug Sharp as the crisp sibling of Snug, a triple-axis variable font covering weight, width and x-height. It includes 60 static fonts across three widths and ten weights, each available in a standard or low x-height, with the variable font included on purchase of the full family."
+  },
+  {
+    "name": "Snug",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/snug",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Snug is a sans-serif with a grotesque character, offered across compressed, compact and standard widths with variable weight and x-height axes, placing it firmly in the grotesque tradition with display-oriented flexibility.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Normal",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Compact",
+      "Standard"
+    ],
+    "subfamilies": [
+      "Snug",
+      "Snug Compact",
+      "Snug Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "grotesque",
+      "compressed",
+      "display",
+      "width-axis",
+      "x-height",
+      "multi-axis"
+    ],
+    "summary": "A triple-axis variable font spanning weight, width and x-height across 60 static styles and three width subfamilies.",
+    "description": "Snug operates across three widths — Compressed, Compact and standard — each carrying ten weights from Thin to Black, plus a low x-height variant of every style, totalling 60 static fonts. The variable font adds continuous control over all three axes simultaneously, making it well suited to display and headline work where spatial economy matters. Available through Adobe Fonts or as a direct purchase including the full variable file.",
+    "foundry_blurb": "PS Type Lab describe Snug as renamed and redrawn, with a triple-axis variable font covering weight, width and x-height. Each of the three widths carries ten weights in standard and low x-height variants, giving 60 static fonts in total, with the variable font included in the full family purchase."
+  },
+  {
+    "name": "Dilemma",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/dilemma-vf",
+    "designer": null,
+    "year": 2023,
+    "category": "display",
+    "subcategory": "variable display",
+    "classification_notes": "A double-axis variable font with weight and italic axes, designed for conference branding; its expressive, high-contrast forms and variable nature place it firmly in the display category.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dilemma Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "display",
+      "branding",
+      "conference",
+      "double-axis",
+      "expressive",
+      "identity"
+    ],
+    "summary": "A double-axis variable font originally commissioned for the Creative Works 2023 design conference in Memphis, TN, with weight and italic axes spanning Regular to Black.",
+    "description": "Created for the visual identity of Creative Works 2023, a Memphis-based design conference, the font operates across two variable axes controlling weight and italic. The family runs from Regular through Medium, Bold and Black, each with a corresponding italic, all accessible as a single variable font file. Its conference origins give it a focused, display-oriented character suited to identities and editorial headings.",
+    "foundry_blurb": "PS Type Lab describe Dilemma as a custom double-axis variable font originally created for the visual identity and branding of Creative Works 2023, the Memphis, TN based design conference, now available to license and activate on Adobe Fonts."
+  },
+  {
+    "name": "Decoy",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/decoy",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "Described as a soft, inky serif with pronounced curves and expressive weight contrast, placing it in the contemporary or editorial serif category rather than any strictly historical classification.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Ultra Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Decoy"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "expressive",
+      "inky",
+      "contemporary",
+      "high-contrast",
+      "soft"
+    ],
+    "summary": "A soft, high-contrast serif in six weights with matching italics, built around generous curves and a large glyph set covering over 200 Latin languages.",
+    "description": "Decoy leans into rounded, inky forms with a confident weight range running from Light to Ultra Black, each with a matching italic. The family ships with over 500 glyphs, a suite of OpenType features including stylistic alternates, ligatures and fractions, and coverage for more than 200 Latin-based languages. Its character sits between editorial warmth and display excess, making it suited to magazine headlines, branding and book jackets alike.",
+    "foundry_blurb": "PS Type Lab describe Decoy as 'unlike the others' — a soft, inky serif that does not shy away from excess, confidently celebrating its curves across a character set of over 500 glyphs and support for more than 200 Latin languages."
+  },
+  {
+    "name": "Practical Serif",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/practical-serif",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "The name and broad weight range from Hairline to Black, paired with italic companions throughout, suggest a workhorse contemporary serif designed for general-purpose text and display use rather than a specific historical revival.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Practical Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "workhorse",
+      "text",
+      "contemporary",
+      "wide-range",
+      "opentype"
+    ],
+    "summary": "A workhorse serif spanning ten weights from Hairline to Black, each with a matching italic, covering extended Latin for broad typographic use.",
+    "description": "Ten weights running from Hairline through to Black give this family considerable range for both text and display settings. Each weight carries a matching italic, and the glyph set covers Latin Extended-A and -B along with a suite of OpenType features including oldstyle figures, stylistic alternates and standard ligatures. The alternates panel includes options for single-storey a and g, an alternate ampersand and case-sensitive forms, suggesting attention to typographic detail.",
+    "foundry_blurb": "PS Type Lab offer Practical Serif as a 20-style family with weights from Hairline to Black and matching italics throughout. A specimen sheet is available to download for testing, and custom licensing is available on request."
+  },
+  {
+    "name": "Hoss Round",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/hoss-grotesk",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A grotesque sans-serif with rounded terminals and horizontal stroke contrast, placing it firmly in the grotesque genre with a softer, more playful character than standard grotesques.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Heavy",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hoss Round"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "rounded",
+      "horizontal-contrast",
+      "branding",
+      "packaging",
+      "playful",
+      "display"
+    ],
+    "summary": "A grotesque with rounded terminals and horizontal stroke contrast, giving it a friendly warmth that sits between workhorse and characterful.",
+    "description": "Hoss Round is built around a deliberate horizontal contrast — the opposite of the classical vertical emphasis found in most grotesques — combined with rounded terminals and stroke endings. This combination produces a typeface that feels approachable without sacrificing utility across seven weights from Light to Ultra, each with matching italics. Suited to brand identity and packaging where legibility and a degree of personality are both required.",
+    "foundry_blurb": "PS Type Lab describe Hoss as a grotesk with horizontal tendencies and a useful charm built into the essence of its forms, born from the designer's continued exploration of reverse or horizontal contrast type styles. The addition of rounded terminals and stroke endings produced what they call a playful yet seriously capable typeface, with full weight range and broad language support for projects from brand identity to packaging design."
+  },
+  {
+    "name": "Hoss Round XNarrow",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/hoss-round-xnarrow",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described explicitly as a grotesk, with horizontal stroke contrast (reverse contrast) and rounded terminals — a variant treatment within the grotesque genre rather than a departure from it.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Heavy",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "XNarrow"
+    ],
+    "subfamilies": [
+      "Hoss Round XNarrow"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "rounded",
+      "horizontal-contrast",
+      "extra-narrow",
+      "branding",
+      "packaging",
+      "playful",
+      "reverse-contrast"
+    ],
+    "summary": "An extra-narrow grotesque with subtle horizontal stroke contrast and rounded terminals, available in seven weights with matching italics.",
+    "description": "Hoss Round XNarrow sits in an underexplored corner of the grotesque genre, combining a gentle reverse or horizontal contrast with softened terminals and stroke endings. The result reads as playful without losing the structural rigour needed for identity and packaging work. Fourteen styles span Light to Ultra across the XNarrow width, all with italic companions, and the family is part of a broader Hoss range covering additional weights and widths with wide language support.",
+    "foundry_blurb": "PS Type Lab describe Hoss Round XNarrow as a new grotesk with horizontal tendencies and useful charm built into the forms. The designer's ongoing exploration of reverse contrast led to a more subtle approach than previously tried, combined with rounded terminals and stroke endings to produce a typeface they characterise as playful yet seriously capable. The full Hoss family covers a range of weights and widths with language support suited to brand identity and packaging design."
+  },
+  {
+    "name": "Hoss Round Narrow",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/hoss-round-narrow",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "rounded sans",
+    "classification_notes": "A rounded grotesque with terminal rounding applied throughout; the narrow width positions it as a condensed variant of the Hoss Round family.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Heavy",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow"
+    ],
+    "subfamilies": [
+      "Hoss Round Narrow"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "narrow",
+      "grotesque",
+      "condensed",
+      "workhorse",
+      "display",
+      "multweight"
+    ],
+    "summary": "A narrow, rounded grotesque available in seven weights with matching italics and a handful of OpenType alternates.",
+    "description": "The narrow cut of the Hoss Round family, offering fourteen styles across seven weights from Light to Ultra, each paired with an italic. OpenType features include alternate single-storey and schoolbook forms for the 'a', alternate 'g' and 'y', and an alternate 'l', giving some flexibility in texture and tone. The condensed proportions suit space-constrained settings whilst the rounded terminals keep things approachable.",
+    "foundry_blurb": "PS Type Lab present Hoss Round Narrow as a seven-weight narrow rounded sans, with 14 styles in total including italics across all weights, and OpenType alternates for several key characters."
+  },
+  {
+    "name": "Hoss Sharp",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/hoss-sharp",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described as a modern grotesk with subtle horizontal contrast and a crisp, sharp character, distinguishing it from its rounder sibling styles within the Hoss family.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Heavy",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hoss Sharp"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "modern",
+      "horizontal-contrast",
+      "editorial",
+      "sharp",
+      "versatile"
+    ],
+    "summary": "A crisp, sharp-edged grotesque with subtle horizontal contrast, offered as the angular companion to PS Type Lab's rounder Hoss styles.",
+    "description": "Hoss Sharp sits within the broader Hoss family as its harder-edged counterpart, defined by a subtle horizontal stroke contrast that separates it from the round cuts. Seven weights run from Light to Ultra, each with a matching italic, giving the family a wide range for both text and display use. Alternate glyphs for characters such as 'a', 'g', 'k', 'l' and 'y' add flexibility for editorial and branding contexts.",
+    "foundry_blurb": "PS Type Lab describe Hoss Sharp as a modern grotesk with subtle horizontal contrast, positioning it as the crisp companion to the round styles within the Hoss family, with matching italics adding versatility across the range."
+  },
+  {
+    "name": "Hegante",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/hegante",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "A bold, expressive sans-serif designed explicitly for display use, with lively letterforms, extensive stylistic alternates and a variable font version branded as Hegante Display. Its character and optical intent place it firmly in the display category.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hegante",
+      "Hegante Display",
+      "Hegante Display VF"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "bold",
+      "expressive",
+      "variable",
+      "alternates",
+      "lively",
+      "sans-serif",
+      "editorial"
+    ],
+    "summary": "A bold, lively display sans from PS Type Lab, grown from a single Black weight into a six-weight variable family with swash and stylistic alternates.",
+    "description": "Originally released as a single Black weight, Hegante has expanded into Hegante Display, a six-weight family spanning Regular to Black with a variable font version covering the full range. Stylistic sets offer alternate letterforms including single-storey a and g, flip-top variants and swash capitals, giving designers considerable expressive flexibility. Latin Extended coverage supports a broad range of European languages, and the family is available via Adobe Fonts.",
+    "foundry_blurb": "PS Type Lab describe Hegante as a big, bold and lively design that has grown into a family of six weights, now released as Hegante Display with a variable font and a range of OpenType alternates including flip-top alternatives and single-storey letterforms."
+  },
+  {
+    "name": "Hoss Round Wide",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/hoss-round-wide",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A grotesque sans with horizontal (reverse) contrast and rounded terminals, placing it firmly in the grotesque sans category with a distinctive structural approach to stroke modulation.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Heavy",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Wide"
+    ],
+    "subfamilies": [
+      "Hoss Round Wide"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "rounded",
+      "wide",
+      "horizontal-contrast",
+      "reverse-contrast",
+      "brand",
+      "packaging",
+      "playful"
+    ],
+    "summary": "A wide-cut grotesque with rounded terminals and subtle horizontal contrast, spanning seven weights with matching italics.",
+    "description": "Hoss Round Wide applies a gentle horizontal stroke contrast to a wide grotesque structure, combined with rounded terminals that give the letterforms a friendly but purposeful quality. Seven weights from Light to Ultra each include an italic, making for 14 styles in total. The family is suited to brand identity and packaging work where character is needed without sacrificing legibility.",
+    "foundry_blurb": "PS Type Lab describe Hoss Round Wide as a grotesk with horizontal tendencies and built-in charm, born from an exploration of reverse or horizontal contrast type styles. Taking a more subtle approach to that contrast and pairing it with rounded terminals and stroke endings, the result is a typeface they characterise as playful yet seriously capable, offered across the full range of weights and widths with language support for projects from brand identity to packaging."
+  },
+  {
+    "name": "Hatch",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/hatchfont",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "reverse-stress slab",
+    "classification_notes": "Hatch is explicitly described as a horizontally inclined slab serif with reverse stress, placing it in the reverse-contrast or 'reverse stress' slab genre, a distinctive subgroup of slab serifs.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hatch"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "reverse-stress",
+      "coastal",
+      "casual",
+      "branding",
+      "editorial",
+      "identity",
+      "rounded"
+    ],
+    "summary": "A reverse-stress slab serif with rounded contours and a casual West Coast character, available in four weights with matching italics.",
+    "description": "Hatch sits in the reverse-contrast slab tradition, where horizontal strokes carry more weight than vertical ones, giving it an unconventional rhythm that stands apart from conventional slab serifs. Rounded contours and a subtle contrast keep the tone casual rather than stern, making it a practical choice for branding, identity and editorial work. Eight styles span Light to Bold with italics throughout.",
+    "foundry_blurb": "PS Type Lab describe Hatch as a horizontally inclined slab serif built out west, framing it as a contemporary take on the reverse-stress genre with subtle contrast and a casual vibe. They highlight its unique letterforms and rounded contours as making it well suited to identity, branding and editorial design, and note it is available to activate on Adobe Fonts."
+  },
+  {
+    "name": "Quatro Sans",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/quatro-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Quatro Sans balances geometric construction with humanist warmth, described by the foundry as sitting between machine and hand — placing it firmly in the geometric sans tradition with softened, contemporary detailing.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "UltraBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Quatro Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modern",
+      "contemporary",
+      "versatile",
+      "extended-weights",
+      "editorial",
+      "slab-companion"
+    ],
+    "summary": "A geometric sans spanning nine weights from ExtraLight to UltraBlack, originally conceived as a single ultra-heavy style before expanding into a full family.",
+    "description": "Built on construction principles that balance mechanical precision with a hand-drawn quality, Quatro Sans offers 18 styles across nine weights with matching italics. The family began life as a single UltraBlack cut and has since grown to cover the full weight range, making it useful across contexts from text to display. A companion slab, Quatro, shares the same underlying principles and is designed to work alongside the sans.",
+    "foundry_blurb": "PS Type Lab describe Quatro Sans as an undeniably modern typeface that seeks balance between machine and hand construction. Originally a single Ultra Black style, it has expanded across the full weight spectrum to Extra Light, and pairs with a companion slab serif, Quatro, built on the same principles."
+  },
+  {
+    "name": "Hatch Sans",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/hatch-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Hatch Sans presents single and double-storey alternates alongside looped letterforms, suggesting a humanist sans-serif with warmth and flexibility rather than a strict geometric or grotesque construction.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "DemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hatch Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "companion",
+      "variable",
+      "opentype-alternates",
+      "versatile",
+      "text",
+      "contemporary"
+    ],
+    "summary": "A six-weight humanist sans companion to the Hatch family, offered with matching italics, a variable font axis and several OpenType alternates for letterform flexibility.",
+    "description": "Hatch Sans offers six weights from Thin to Bold, each with a matching italic, and ships as a variable font covering the full weight range. OpenType features include alternate single and double-storey forms for 'a' and 'g', looped variants for 'k' and 't', and a schoolbook 'y', giving designers fine control over voice and legibility. It is positioned as a companion to the existing Hatch serif family, extending its range into sans-serif territory.",
+    "foundry_blurb": "PS Type Lab describe Hatch Sans as the companion to their popular Hatch family, available in six weights with matching italics and as a variable font, and activatable via Adobe Fonts."
+  },
+  {
+    "name": "Quatro Slab",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/quatro-slab",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "slab serif",
+    "classification_notes": "Quatro Slab is a slab serif companion to a sans-serif family, sharing geometric construction principles while adding slab serifs for a distinct typographic character.",
+    "weights": [
+      "UltraBlack",
+      "Regular",
+      "SemiBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Quatro Slab"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "companion",
+      "editorial",
+      "book",
+      "geometric",
+      "display"
+    ],
+    "summary": "A slab serif companion to Quatro Sans, designed for Elliot Jay Stocks' book Insites and released as a standalone family of ten fonts.",
+    "description": "Sharing the same design principles as Quatro Sans, Quatro Slab stands as a fully independent typeface rather than a simple variation. The family spans ten fonts including styles from Regular to UltraBlack, with at least one italic cut. Its origin as a commission for a design book gives it a clear editorial grounding.",
+    "foundry_blurb": "Quatro Slab is the companion design to Quatro Sans, created with the same principles and resulting in a fully unique and standalone typeface. It was originally completed for Elliot Jay Stocks to use in his book Insites, and is available as a family of ten fonts."
+  },
+  {
+    "name": "Campaign Slab",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/campaign-slab",
+    "designer": null,
+    "year": 2019,
+    "category": "slab",
+    "subcategory": "grotesque slab",
+    "classification_notes": "A slab serif family related to the Campaign grotesque, with structure drawn from grotesk conventions but given freedom to deviate; fits the grotesque slab subcategory given its close kinship with a sans-serif companion.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Campaign Slab"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "grotesque-slab",
+      "brand",
+      "identity",
+      "editorial",
+      "conference",
+      "companion"
+    ],
+    "summary": "A four-weight grotesque slab developed for the 2019 TypeCon brand identity, offered as a companion to PS Type Lab's Campaign grotesk.",
+    "description": "Originally commissioned for the SoTA TypeCon 2019 conference identity, Campaign Slab draws its structural cues from the Campaign grotesque while allowing itself room to diverge into its own voice. The family runs four weights from Regular to Black, supplemented by alternate numeral sets and variants on the more decorative uppercase characters. Further development is planned as part of the broader Campaign family project.",
+    "foundry_blurb": "PS Type Lab describe Campaign Slab as initially developed for the 2019 TypeCon brand identity and a stylistic variant of Campaign, though it was decided early on that the slab would take cues from the grotesk while being free to deviate. The family was paired down to four weights with additional numeral sets and alternates to the more decorative uppercase, and is treated as an ongoing endeavour with continued development planned."
+  },
+  {
+    "name": "Campaign",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/campaign",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The foundry explicitly describes Campaign as operating within the grotesque genre, distinguished by stout proportions and a chunky body structure rather than geometric or humanist tendencies.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Campaign"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "chunky",
+      "editorial",
+      "stout",
+      "workhorse",
+      "oblique"
+    ],
+    "summary": "A six-weight grotesque from PS Type Lab that finds its voice through deliberate weight and stout proportions rather than refinement.",
+    "description": "Campaign is PS Type Lab's sixth family release, entering the crowded grotesque territory with a deliberate emphasis on chunky proportions and solid body structure. Six weights run from Thin to Black, each paired with a matching oblique, giving the family a full range for editorial and display use. Condensed and compressed widths, along with a stencil variant, are planned as future additions.",
+    "foundry_blurb": "PS Type Lab describe Campaign as their sixth family, venturing into the densely populated grotesque space in search of a distinct voice. They say it achieves that through owning its quirks and embracing its chunk, using stout proportions and ample body structure to create something hard-working and thoughtfully composed. The family is described as an ongoing endeavour, with a stencil version and condensed and compressed widths in development."
+  },
+  {
+    "name": "Pika Ultra Script",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/pika",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "connected script",
+    "classification_notes": "A connected, flowing script with extreme weight and distinctive notch connections at letterform joints, placing it firmly in the connected script category with display-weight characteristics.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pika Ultra Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "connected",
+      "display",
+      "heavy",
+      "lettering",
+      "expressive",
+      "alternates"
+    ],
+    "summary": "A heavy connected script built around notch connections discovered during an extreme-weight lettering exercise, refined with alternates and OpenType features.",
+    "description": "Born from a lettering exercise in extreme weight, the distinctive notch connections between letterforms define Pika Ultra Script's character. A single Regular weight carries the family, its unbroken flow suited to display settings where energy and rhythm matter. Alternates, ligatures and OpenType features extend its flexibility beyond the novelty of its origins.",
+    "foundry_blurb": "PS Type Lab describe Pika Ultra Script as an exuberant connected script with an unrelenting flow, originally conceived during a lettering exercise exploring extreme weight. The notch connections that emerged became the defining structural feature, and the typeface has been crafted with alternates, ligatures and OpenType features to move it beyond novelty."
+  },
+  {
+    "name": "Ditch",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/ditch",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "inline display",
+    "classification_notes": "Ditch is a bold inline display typeface designed for large-scale headline and decorative use, with a layered structure (Inline, Core, Base) intended for chromatic and three-dimensional effects.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ditch Inline",
+      "Ditch Base",
+      "Ditch Core"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "inline",
+      "layered",
+      "chromatic",
+      "headline",
+      "embroidery",
+      "bold",
+      "decorative"
+    ],
+    "summary": "A bold inline display face built from a headwear embroidery project, expanded into three layered styles for chromatic type and headline work.",
+    "description": "Originally drawn for a limited edition embroidered cap, Ditch was designed with letterforms that accommodate dimensional decoration and 3D lettering. The family ships in three styles, Inline, Core and Base, each corresponding to a different layer of the letterform so designers can build colour variations and depth without manual construction. Best suited to poster headlines, branding and editorial display where heavy weight and graphic punch are needed.",
+    "foundry_blurb": "PS Type Lab describe Ditch as a bold inline display font originally made for a limited edition embroidered cap called Drop Cap. The letterforms were customised for dimensional decoration and 3D lettered embroidery, then developed into a full working font for striking headlines. Two additional styles, Core and Base, were added to enable quick colour variations and design exploration."
+  },
+  {
+    "name": "Runda",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/runda",
+    "designer": null,
+    "year": 2010,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Runda's open forms and simple, refined shapes place it firmly in the humanist sans tradition, prioritising legibility and warmth across a broad range of sizes and weights.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Normal",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Runda"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "geometric",
+      "variable",
+      "legible",
+      "versatile",
+      "clean",
+      "text",
+      "display"
+    ],
+    "summary": "A clean humanist sans originally released in 2010 and substantially revised in 2024, now spanning eight weights with matching italics and variable font support.",
+    "description": "Originally published in 2010, Runda was overhauled in 2024 with refined spacing, improved letterforms, an extended character set and three additional weights. The family now runs from Hairline to Black with matching italics across all eight weights, and is available as a variable font alongside static cuts. Open forms and simple construction make it serviceable across both text and display settings.",
+    "foundry_blurb": "PS Type Lab describe Runda as a typeface with simple shapes, open forms and elegant execution that communicates any message with clarity and confidence. They note it is efficiently crafted to perform well at all type sizes and across a wide variety of applications, with the 2024 update adding refined spacing, refined forms, an expanded character set, three new weights and variable font support."
+  },
+  {
+    "name": "Ratio",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/ratio",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as a balance of written and constructed forms, suggesting humanist origins with geometric influences typical of contemporary humanist sans-serifs.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ratio"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "versatile",
+      "editorial",
+      "screen",
+      "print",
+      "contemporary"
+    ],
+    "summary": "A six-weight humanist sans with matching italics, balancing calligraphic warmth with geometric construction for print and screen use.",
+    "description": "Twelve styles across six weights from Thin to Heavy, each with a matching italic. The design draws on both written and constructed letterform traditions, giving it a degree of warmth without sacrificing clarity. Available through Adobe Fonts as well as direct purchase, it is positioned as an all-purpose workhorse for editorial and UI applications.",
+    "foundry_blurb": "PS Type Lab describe Ratio as a balance of written and constructed forms, designed to add sophistication and versatility to any design whether in print or on screen."
+  },
+  {
+    "name": "Neplus Ultra",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/neplus-ultra-1",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "display slab",
+    "classification_notes": "A slab serif pushed to extreme weight for display use; the foundry explicitly describes it as a slab serif display typeface built around maximum boldness.",
+    "weights": [
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Neplus Ultra"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "display",
+      "ultra-heavy",
+      "bold",
+      "expressive",
+      "headline"
+    ],
+    "summary": "A single-weight ultra-heavy display slab designed for maximum visual impact at large sizes.",
+    "description": "Built around excess, this display slab commits entirely to extreme weight as its defining characteristic. The single Ultra style suits headlines, posters and any context where sheer typographic mass is the point. The family offers no lighter grades or italics, making it a dedicated tool rather than a general workhorse.",
+    "foundry_blurb": "PS Type Lab describe Neplus Ultra as a slab serif display typeface that pushes the limits of weight, embracing excess in its letterforms to suit any project that requires bold thinking."
+  },
+  {
+    "name": "Ratio Display",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/ratio-display-1",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "The typeface balances constructed and calligraphic influences, suggesting a contemporary serif with both geometric and humanist qualities suited to display use.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Ratio Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "contemporary",
+      "editorial",
+      "sophisticated",
+      "versatile"
+    ],
+    "summary": "A display serif family of six weights designed to balance constructed geometry with calligraphic warmth for both print and screen use.",
+    "description": "Ratio Display offers six weights from Thin to Heavy, each positioned for headline and display settings. The design sits between geometric construction and written forms, giving it more personality than a purely rational serif without sacrificing clarity. Available through Adobe Fonts, it is pitched at designers who want a versatile, polished serif for editorial or branding work.",
+    "foundry_blurb": "PS Type Lab describe Ratio as a balance of both the written and the constructed, suited to print and screen alike, and position it as a typeface that adds sophistication and versatility to bring out the best in any design."
+  },
+  {
+    "name": "Campaign Serif Condensed",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/campaign-serif-condensed",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "A condensed display serif with strong vertical compression and multiple weights, suited to editorial headlines and campaign use; the presence of swash alternates and stylistic sets places it firmly in the display category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Campaign Serif Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "display",
+      "serif",
+      "editorial",
+      "headline",
+      "campaign",
+      "alternates"
+    ],
+    "summary": "A narrow condensed variant of the Campaign Serif family, currently in beta, spanning six weights from Thin to Black with swash and single-loop g alternates.",
+    "description": "Still in active development, Campaign Serif Condensed brings a tight vertical compression to the Campaign Serif family across six weights. Stylistic alternates include a single-loop g and swashy lowercase characters, adding expressive range for headline and campaign use. The beta status suggests further refinement is ongoing, though the weight range is already fully represented.",
+    "foundry_blurb": "PS Type Lab describe Campaign Serif Condensed as a work in progress, presenting it as a narrow version of the Campaign Serif family. The beta release currently offers six weights from Thin to Black, with OpenType features including stylistic alternates, an alternative single-loop g, and an alternative swashy lowercase."
+  },
+  {
+    "name": "Close",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/close",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described as the 'loudmouth cousin' of Scale, Close is a display-leaning grotesque sans with a variable weight axis and slant axis, suggesting a genre-aware grotesque with expressive range.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Close"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "variable",
+      "display",
+      "slanted",
+      "expressive",
+      "sans-serif"
+    ],
+    "summary": "A variable grotesque sans from PS Type Lab positioned as the expressive sibling of their Scale typeface, with axes for weight and slant.",
+    "description": "Close runs a variable weight axis from ExtraLight to Black and a slant axis for oblique variants, giving it considerable range across six named weights and their slanted counterparts. Alternate OpenType features include a spurless G, double-storey g, spur a, schoolbook a, crossbar I and diagonal forms for K, k, t and y, allowing some control over character personality. Its self-described 'loudmouth' character positions it toward display and headline use rather than text setting.",
+    "foundry_blurb": "PS Type Lab describe Close as the loudmouth cousin of Scale, offering a variable font with axes for weight and slant, along with OpenType alternates for several characters including G, g, a, I, K, k, t and y."
+  },
+  {
+    "name": "Campaign Serif Condensed",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/overview",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "condensed serif",
+    "classification_notes": "Described as a serif in condensed form, positioned as a display-oriented typeface given its use in campaign-style specimen setting. The condensed cut and serif classification place it firmly in the condensed display serif subcategory.",
+    "weights": [
+      "Thin"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Campaign Serif Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "serif",
+      "display",
+      "campaign",
+      "backburner",
+      "work-in-progress"
+    ],
+    "summary": "A condensed serif currently in development at PS Type Lab, available for commercial use as part of the foundry's BackBurner pre-release programme.",
+    "description": "Campaign Serif Condensed sits in PS Type Lab's BackBurner collection, a holding space for typefaces that are functional but not yet fully finished. At present a single Thin weight is available, with OpenType alternates including a single-loop g and a full alternates set. Licensed for commercial use in its current state, it is pitched for projects that can work with what exists while the family continues to develop.",
+    "foundry_blurb": "PS Type Lab lists Campaign Serif Condensed as a BackBurner font, meaning it is in a state of ongoing development but licensed for commercial use as is. BackBurner fonts range from near-complete to needing further work, and are made available so they can find a home in projects while other priorities take precedence."
+  },
+  {
+    "name": "Kye",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/kye",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "connected script",
+    "classification_notes": "Kye is explicitly described as a script typeface, with a soft and luscious character suggesting a flowing, connected style typical of calligraphic scripts.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kye Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "connected",
+      "calligraphic",
+      "soft",
+      "flowing",
+      "display"
+    ],
+    "summary": "A soft, flowing connected script from PS Type Lab, currently in development, with OpenType swash and stylistic alternates.",
+    "description": "A work-in-progress script described as soft and luscious, featuring a single Regular weight with OpenType features including swash alternates, a stylistic set and discretionary ligatures. The combination of these features suggests a design aimed at expressive display use, with the alternates providing flexibility in texture and rhythm. Its current state indicates an active development phase rather than a finished release.",
+    "foundry_blurb": "PS Type Lab describe Kye as a work in progress of a soft and luscious script, with OpenType features including swash, Stylistic Set 1 and Discretionary Ligatures available to try."
+  },
+  {
+    "name": "Hoss Extra",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/hoss-extra-prerelease",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "layered display",
+    "classification_notes": "A layered display type with shadow variants, designed for high-impact decorative use; its exaggerated, excess-driven character places it firmly in the display category.",
+    "weights": [
+      "Extra",
+      "Extra Italic",
+      "Extra Shadow",
+      "Extra Italic Shadow"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hoss Extra"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "layered",
+      "shadow",
+      "decorative",
+      "expressive",
+      "retro",
+      "headline"
+    ],
+    "summary": "A four-font layered display family from PS Type Lab, pairing upright and italic cuts with matching shadow versions for stacked or dimensional typesetting.",
+    "description": "Built around two core styles, Extra and Extra Italic, each accompanied by a Shadow variant, the family is designed for deliberate excess and decorative effect. The layering system allows the solid and shadow fonts to be combined for depth in headlines or poster work. Released as a pre-release, it signals an in-progress offering with a clear directional character already established.",
+    "foundry_blurb": "PS Type Lab describe Hoss Extra as dripping in excess, a layered font family comprising four fonts: Extra, Extra Italic, and shadow versions of each."
+  },
+  {
+    "name": "Station",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/station-prerelease",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "stencil",
+    "classification_notes": "Station is a stencil typeface with a variable axis controlling the stencil cut, spanning solid and stencil variants across multiple weights; the stencil mechanism and display-scale character set firmly place it in the display/stencil category.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Station"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "variable",
+      "display",
+      "geometric",
+      "weight-axis",
+      "prerelease",
+      "uppercase"
+    ],
+    "summary": "A variable stencil typeface from PS Type Lab with a continuous axis between solid and stencil cuts across seven weights.",
+    "description": "Still in pre-release, Station operates as a variable font with two axes: Weight, spanning Thin to Extrabold, and a Stencil axis that moves between fully solid and fully stencilled letterforms. The current character set covers upper and lowercase Latin, numerals and minimal punctuation. The combination of continuous stencil control and broad weight range gives it range from delicate thin cuts to heavy display use.",
+    "foundry_blurb": "PS Type Lab describe Station as a work-in-progress variable font featuring a Stencil axis alongside a Weight axis, with the current release covering A–Z in upper and lowercase, numerals and minimal punctuation."
+  },
+  {
+    "name": "Custom + Commissioned Lettering",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/lettering",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "custom lettering",
+    "classification_notes": "This is a bespoke lettering service rather than a retail typeface; categorised as display given its use in logotypes, headlines and editorial contexts.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Custom + Commissioned Lettering"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "custom",
+      "lettering",
+      "logotype",
+      "headline",
+      "bespoke",
+      "editorial",
+      "mural",
+      "commissioned"
+    ],
+    "summary": "A bespoke lettering service from PS Type Lab covering logotypes, headlines, murals and magazine covers across a range of styles.",
+    "description": "Rather than a retail typeface, this is a commissioned lettering offering from PS Type Lab, with work also shown at pprwrkstudio.com. The service covers a broad stylistic range, from logotypes and editorial headlines to large-format murals, adapting to whatever approach best suits a given brief. Intended for projects where an off-the-shelf font cannot provide the specificity or character required.",
+    "foundry_blurb": "PS Type Lab offers custom and commissioned lettering for logotypes, headlines, murals and magazine covers, noting that sometimes a font simply doesn't have the right feel. They describe an openness to all lettering styles, with the aim of crafting whatever design best tells the client's story."
+  },
+  {
+    "name": "Campaign Sans",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/campaign-sans-prerelease",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described as a sibling to the Campaign slab family, sharing its proportions and structure but with sans-serif detailing; the family relationship and naming convention point to a grotesque or humanist sans approach.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Campaign Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "family",
+      "campaign",
+      "prerelease",
+      "editorial"
+    ],
+    "summary": "A sans-serif companion to the Campaign slab family, sharing its proportions across six weights from Thin to Black.",
+    "description": "Campaign Sans extends the Campaign type family with a sans-serif variant that retains the core proportions and structure of its slab sibling while introducing its own set of details. Six weights run from Thin to Black, making it a flexible option for display and text use within the Campaign ecosystem. At pre-release stage, the full character of the family is still emerging.",
+    "foundry_blurb": "PS Type Lab describe Campaign Sans as another sibling in the Campaign family, noting that it maintains the basic proportions and structure of the Campaign family whilst introducing a variety of details and nuances that give the typeface a new voice. It is available in six fonts ranging from Thin to Black."
+  },
+  {
+    "name": "TypeSpotting",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/typespotting",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "This page is not a typeface product page but a community sightings gallery for PS Type Lab fonts in the wild. No specific typeface classification can be determined.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TypeSpotting"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "gallery",
+      "sightings",
+      "community",
+      "branding",
+      "packaging",
+      "editorial"
+    ],
+    "summary": "A community gallery page on the PS Type Lab website collecting real-world sightings of their typefaces in use across packaging, branding and editorial contexts.",
+    "description": "The TypeSpotting page on PS Type Lab's site documents appearances of their fonts in commercial and cultural contexts, from Pixar title cards to Hulu packaging and Austin Magazine covers. Visitors can submit their own sightings via a form or tag @markcaneso on Instagram with the hashtag #typespotting. It functions as a use-case showcase rather than a typeface product page.",
+    "foundry_blurb": "PS Type Lab invites users to spot their fonts in the wild and share sightings via a submission form or Instagram using the hashtag #typespotting, tagging @markcaneso. Featured sightings include fonts used by Pixar, Hulu, Target and Kraft, among others."
+  },
+  {
+    "name": "PS Type Lab Goods",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/goods",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "The page is a merchandise and goods shop listing, not a typeface product page. No typeface-specific information is available to classify.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "PS Type Lab Goods"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "merchandise",
+      "goods",
+      "shop",
+      "lettering"
+    ],
+    "summary": "This page lists PS Type Lab's merchandise shop, not a specific typeface release.",
+    "description": "The URL provided leads to PS Type Lab's general goods shop, which contains pins, prints, hats, tees, pencils and other merchandise rather than a specific typeface product. No typeface name, weights, designer or release year can be determined from this content. A specific typeface page URL is needed to produce a meaningful entry.",
+    "foundry_blurb": "PS Type Lab's goods page lists a wide range of merchandise including pins, patches, prints, headwear, apparel, pencils and sticker packs, alongside some font-related products and publications."
+  },
+  {
+    "name": "Spent",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/new-fonts",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Drawn from memory rather than direct reference to classic American Gothics, Spent is a gothic sans in the American grotesque tradition, spanning compressed to conventional widths with utilitarian intent.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Compact",
+      "Regular"
+    ],
+    "subfamilies": [
+      "Spent Compressed",
+      "Spent Condensed",
+      "Spent Compact",
+      "Spent"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "american-gothic",
+      "utilitarian",
+      "multi-width",
+      "variable",
+      "workhorse",
+      "editorial",
+      "condensed"
+    ],
+    "summary": "A wide-ranging American gothic sans spanning four widths and seven weights, drawn from memory rather than direct revival of any single source.",
+    "description": "56 static styles and two variable fonts cover Compressed, Condensed, Compact and conventional widths, each running from ExtraLight to Black with matching italics. The design steps back from direct reference to classic American gothics, retaining the genre's hard-working texture and rhythm while leaving room for its own character to emerge. Opentype features include oldstyle figures, tabular figures, fractions, a spurred G and schoolbook alternates for a and g.",
+    "foundry_blurb": "PS Type Lab describe Spent as a new American sans serif built for the long haul, formed to perform in demanding settings at any size, across every weight, over time. Inspired by the remembered rhythm of classic American Gothics, it began as an experiment to draw from memory rather than reference, producing not a revival but a reinterpretation with a familiar spirit free to develop its own voice."
+  },
+  {
+    "name": "Neighbor",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/retail-fonts",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Neighbor is a sans-serif with humanist characteristics, offering cursive-influenced italics, multiple alternate letterform sets including schoolbook and geometric variants, and a warm personality across its weight range.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Neighbor"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "sans-serif",
+      "multi-weight",
+      "alternates",
+      "editorial",
+      "text",
+      "versatile"
+    ],
+    "summary": "A nine-weight sans-serif with true cursive italics and an unusually rich set of OpenType alternate letterforms, including schoolbook, geometric and wide or narrow uppercase variants.",
+    "description": "Spanning Thin to Black with matching italics across all nine weights, Neighbor takes the unusual step of drawing genuinely cursive italics rather than slanted romans, with the designer noting hints of cursive bringing a fresh energy to the companion styles. The OpenType feature set is particularly thorough, offering schoolbook lowercase, geometric lowercase, wide and narrow uppercase, diamond-cut E and F variants, swash characters and multiple alternate forms for letters like a, g and s. This breadth of alternates makes it adaptable across branding, editorial and display contexts without changing the underlying typeface.",
+    "foundry_blurb": "PS Type Lab describe Neighbor as a sans-serif available through Adobe Fonts, spanning 18 styles from Thin to Black Italic. Rather than using optically corrected obliques for the italics, the designer chose to create an energetic companion with hints of cursive, giving the italic styles a distinct tone. The family includes extensive OpenType features such as wide and narrow uppercase, swash characters, schoolbook lowercase and diamond-cut E and F variants."
+  },
+  {
+    "name": "Campaign Serif Condensed",
+    "foundry": "PS Type Lab",
+    "url": "https://pstypelab.com/prerelease-fonts",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "condensed serif",
+    "classification_notes": "The name and specimen suggest a condensed serif design, likely intended for editorial or campaign-style settings; the condensed cut and serif classification are supported by the family name and the page context.",
+    "weights": [
+      "Thin"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Campaign Serif Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "serif",
+      "editorial",
+      "campaign",
+      "backburner",
+      "work-in-progress"
+    ],
+    "summary": "A condensed serif in early development, available as a commercial backburner release from PS Type Lab.",
+    "description": "Currently offered in a single Thin weight, Campaign Serif Condensed is part of PS Type Lab's BackBurner range of typefaces in various stages of completion. The family is available for commercial use in its current state, with the foundry acknowledging it has not yet reached its full potential. It sits alongside other in-progress releases on the site, waiting for further development when time allows.",
+    "foundry_blurb": "PS Type Lab's BackBurner fonts are typefaces at various levels of completion, added to the site to give them a place to develop while other projects take priority. Campaign Serif Condensed is one of these offerings, licensed for commercial use as-is, with the foundry inviting users to try it and get in touch with questions."
+  }
+]

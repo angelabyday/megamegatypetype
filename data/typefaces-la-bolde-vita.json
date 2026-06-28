@@ -1,0 +1,660 @@
+[
+  {
+    "name": "BHV",
+    "foundry": "La Bolde Vita",
+    "url": "https://www.laboldevita.com/fonts/bhv",
+    "designer": null,
+    "year": 2020,
+    "category": "display",
+    "subcategory": "modular grotesque",
+    "classification_notes": "BHV's grid-based skeleton with an unfixed x-height and pattern-like stroke rhythm places it firmly in the display category. The grotesque subfamily is monolinear and explicitly unconventional, while the serif subfamily spans text and display optical sizes.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "BHV Grotesque",
+      "BHV Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "grotesque",
+      "display",
+      "decorative",
+      "grid-based",
+      "experimental",
+      "identity",
+      "pattern"
+    ],
+    "summary": "A grid-based modular grotesque and matching serif that deliberately exploit oddity, with an unfixed x-height that creates dramatically different texture in upper and lowercase settings.",
+    "description": "Built on a shared geometric skeleton, BHV pairs a monolinear grotesque in five weights with a serif in text and display cuts, both covering Latin Extended-A across 215 languages. The unfixed x-height is the family's defining quirk: lowercase and uppercase settings produce markedly different typographic textures, making the typeface behave almost like a pattern element at larger sizes. Decorative ligatures, stylistic alternates and oldstyle figures across both subfamilies give designers further control over how much of that strangeness to let through.",
+    "foundry_blurb": "La Bolde Vita describe BHV as an unconventional coalition of a monolinear grotesque and a corresponding serif sharing a common grid-based skeleton, resulting in odd letter shapes with emphasised links. They note that the unfixed x-height causes lowercase and uppercase texts to differ drastically in texture, and recommend using it large in focused spots, combining it with neutral typefaces, or exploiting its ligatures and alternates for maximum stylistic effect."
+  },
+  {
+    "name": "Grotunda",
+    "foundry": "La Bolde Vita",
+    "url": "https://www.laboldevita.com/fonts/grotunda",
+    "designer": null,
+    "year": 2022,
+    "category": "display",
+    "subcategory": "blackletter revival",
+    "classification_notes": "Grotunda reinterprets the medieval Rotunda blackletter style in a reduced, contemporary idiom, retaining calligraphic character in its letterforms while adapting the genre for display use; its decorated capitals and genre heritage place it firmly in the display category with blackletter roots.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grotunda Regular",
+      "Grotunda Inktrap",
+      "Grotunda Rounded",
+      "Grotunda Squared"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "rotunda",
+      "display",
+      "poster",
+      "experimental",
+      "calligraphic",
+      "single-weight"
+    ],
+    "summary": "A contemporary reinterpretation of the Rotunda blackletter style in four stylistic variants, designed for display and poster use.",
+    "description": "Grotunda takes the Gothic Rotunda as its starting point, retaining characteristic letterforms such as the lowercase d and decorated capitals while stripping the design back to a single weight with four distinct styles: Regular, Inktrap, Rounded and Squared. The calligraphic texture of the capitals contrasts sharply with body copy and pushes towards deliberate illegibility at smaller sizes, making it best suited to short headlines, keywords and wordmarks. Its 604-glyph set covers Latin Extended-A across 215 languages, with a full suite of OpenType features including stylistic alternates, ligatures and circled numerals.",
+    "foundry_blurb": "La Bolde Vita describe Grotunda as an experimental Rotunda reinterpretation released in 2022, taking characteristic Rotunda shapes and rendering them in a contemporary, reduced design language. The family comes in four styles with varying flair and is intended for classic display use: poster titles, eye-catching keywords, short quotes and experimental wordmarks. All styles include a broad range of OpenType features and cover 215 languages via the Latin Extended-A Unicode range."
+  },
+  {
+    "name": "Airo",
+    "foundry": "La Bolde Vita",
+    "url": "https://www.laboldevita.com/fonts/airo",
+    "designer": null,
+    "year": 2019,
+    "category": "display",
+    "subcategory": "geometric sans",
+    "classification_notes": "Airo is a display-oriented sans with monolinear strokes, high-contrast links and generously proportioned letterforms originating from expressive single-letter sketches; it sits clearly in the display/geometric sans space with a technoid-organic character.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Mono",
+      "Text"
+    ],
+    "subfamilies": [
+      "Airo",
+      "Airo Mono",
+      "Airo Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended-A"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "monolinear",
+      "technoid",
+      "editorial",
+      "branding",
+      "expressive",
+      "alternate-styles"
+    ],
+    "summary": "A generously proportioned display sans with monolinear strokes and high-contrast links, spanning expressive display, monospaced and text subfamilies across five weights.",
+    "description": "Conceived from sketches of the upper- and lowercase 'g', Airo balances a sturdy constructed quality with lively, organic warmth in its standard fluid style, switchable to a harder angular look via stylistic sets. The family divides into three subfamilies: the expressive display cuts, Airo Mono which explores width and technoid-organic contrast, and Airo Text which adds italics, ink traps and narrower proportions for sustained reading. All three share identical weights and vertical metrics for straightforward pairing.",
+    "foundry_blurb": "La Bolde Vita describe Airo as emerging from sketches of the 'g' that combined generous width, monolinear strokes and high-contrast links into a mixture of sturdy and lively. The display styles lean into expressive proportions and striking shapes, the mono styles explore width and technoid-organic interplay, and the later-added Text subfamily retains the spirit of the display in its round forms while using simplified, more organic shapes, reduced contrast and ink traps for improved legibility. Released in 2019 and extended in 2021."
+  },
+  {
+    "name": "Kanton Gothic",
+    "foundry": "La Bolde Vita",
+    "url": "https://www.laboldevita.com/fonts/kanton-gothic",
+    "designer": null,
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Described as a contemporary grotesque heavily inspired by Morris Fuller Benton's work, placing it firmly in the American grotesque tradition with modernised proportions and pointed terminals.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Poster"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kanton Gothic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "benton-inspired",
+      "editorial",
+      "branding",
+      "variable",
+      "contemporary",
+      "workhorse"
+    ],
+    "summary": "A contemporary grotesque drawing on Morris Fuller Benton's American grotesque tradition, offered across six text weights plus a dedicated heavy Poster cut.",
+    "description": "Designed with higher contrast, friendlier proportions and pointed terminals compared to its historical references, Kanton Gothic sits comfortably across headline and body copy work. The family spans Thin through Bold with matching italics, adds a Poster weight for large-scale display use, and includes a two-axis variable font in the family pack. Extensive OpenType features including stylistic sets, single-storey alternates for both 'a' and 'g', circled numbers and case-sensitive forms make it well equipped for editorial and branding applications.",
+    "foundry_blurb": "La Bolde Vita describe Kanton Gothic as a workhorse grotesque family released in 2020, heavily inspired by the work of Morris Fuller Benton. They note it has an overall friendlier appearance than its references, with higher contrast, more balanced proportions and eye-catching pointed endings. The family includes Thin to Bold weights with italics, a special Poster style, 605 glyphs covering Latin Extended-A and a variable font with two axes, making it suited to editorial and branding projects."
+  },
+  {
+    "name": "Residenz Grotesk",
+    "foundry": "La Bolde Vita",
+    "url": "https://www.laboldevita.com/fonts/residenz-grotesk",
+    "designer": null,
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A constructed grotesque sans with neutral proportions, spanning extreme widths from condensed to extra-wide. The foundry positions it within the Swiss grotesque tradition while extending it with experimental alternate letterforms.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Wide",
+      "ExtraWide",
+      "Extended",
+      "Expanded",
+      "Text"
+    ],
+    "subfamilies": [
+      "Residenz Grotesk",
+      "Residenz Grotesk Wide",
+      "Residenz Grotesk ExtraWide",
+      "Residenz Grotesk Extended",
+      "Residenz Grotesk Expanded",
+      "Residenz Grotesk Mono",
+      "Residenz Grotesk Text"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended-A"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "swiss",
+      "neutral",
+      "experimental",
+      "variable",
+      "alternate-forms",
+      "editorial",
+      "poster"
+    ],
+    "summary": "A neutral grotesque family spanning seven subfamilies and extreme width variants, with a complete alternate alphabet drawn from handwriting and graffiti.",
+    "description": "Released in 2020 and extended in 2023, it covers Display, Text and Mono subfamilies alongside width variants ranging from standard to Extra Wide and Expanded, all in six weights from Thin to Bold. A full set of alternate letterforms inspired by handwritten and graffiti shapes can be mixed in at configurable frequencies via 19 stylistic sets, allowing subtle or pronounced departures from the default constructed forms. The family is also available as a variable font and includes 1,341 glyphs with broad OpenType feature support.",
+    "foundry_blurb": "La Bolde Vita describe Residenz Grotesk as a neutral and versatile workhorse with a friendly touch, designed to function equally as an experimental playground for contrasts and extrema. They highlight its three subfamilies, complete alternate alphabet inspired by handwriting and graffiti, extreme width range, variable font availability and 1,341-glyph character set as the key features of the release."
+  },
+  {
+    "name": "Neptun",
+    "foundry": "La Bolde Vita",
+    "url": "https://www.laboldevita.com/fonts/neptun",
+    "designer": null,
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Rooted in early German grotesque tradition with a direct nod to Venus Grotesk; the family splits into two stylistic directions — a narrow, pointed-terminal Nord and a wider, more contemporary Süd — both firmly within the grotesque sans genre.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "SemiCondensed",
+      "Condensed",
+      "Wide",
+      "ExtraWide",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Neptun Nord Standard",
+      "Neptun Nord SemiCondensed",
+      "Neptun Nord Condensed",
+      "Neptun Süd",
+      "Neptun Süd Wide",
+      "Neptun Süd ExtraWide",
+      "Neptun Süd Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "german",
+      "retro",
+      "venus-grotesk",
+      "superfamily",
+      "variable",
+      "editorial",
+      "branding"
+    ],
+    "summary": "A grotesque superfamily in two stylistic directions — the narrow, retro-inflected Nord and the wider, contemporary Süd — drawing on early German sans serifs and Venus Grotesk in particular.",
+    "description": "Neptun Nord leans into extreme proportions and pointed terminals referencing Venus Grotesk, while Neptun Süd reinterprets those qualities with wider, more familiar forms and occasional quirks. Seven weights and seven widths across both branches are supported by variable font technology, allowing continuous adjustment between cuts. OpenType features include swash capitals, round punctuation and multiple figure styles, making the family serviceable for both editorial text and display work.",
+    "foundry_blurb": "La Bolde Vita describe Neptun as an exploration of early German sans serif typefaces, released in 2021, built as a functional superfamily across 2 stylistic directions, 7 weights and 7 widths. Neptun Nord references Venus Grotesk with narrow widths and pointed terminals, while Neptun Süd takes a more modern approach with wider proportions and punctual breakouts. Variable font technology ties the whole system together, allowing designers to find their own balance between the historical and the contemporary."
+  },
+  {
+    "name": "Reversa",
+    "foundry": "La Bolde Vita",
+    "url": "https://www.laboldevita.com/fonts/reversa",
+    "designer": null,
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "experimental sans",
+    "classification_notes": "A monolinear sans serif with a technical influence, distinguished by reversed angular and rounded construction in uppercase letters and inverted contrast in display styles, placing it firmly in the experimental sans-serif category.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Headline",
+      "Display"
+    ],
+    "subfamilies": [
+      "Reversa Text",
+      "Reversa Headline",
+      "Reversa Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "monolinear",
+      "technical",
+      "inverted-contrast",
+      "headline",
+      "display",
+      "multi-optical"
+    ],
+    "summary": "A monolinear sans with reversed construction logic across uppercase letters and three optical families spanning text to display use.",
+    "description": "Built on a technical monolinear base, Reversa applies a specific set of structural inversions: uppercase letters swap angular and rounded forms, while the display optical size introduces reversed stroke contrast. The family runs across 18 styles in six weights, split between Text, Headline and Display optical families, each tuned for its intended size range. An \"easy readability\" stylistic set substitutes unconventional letterforms with conventional ones where legibility is a priority.",
+    "foundry_blurb": "La Bolde Vita describe Reversa as a test of how many conceptual decisions can be folded into a typeface without breaking its visual coherence. Starting from a monolinear sans with a technical influence, the design applies reversed angular and rounded construction to uppercase letters, tends toward classical proportions in lowercase, and introduces inverted contrast in display styles. The result, they say, is a wild typographic mixture suited to everything from eye-catching headlines to punchy body copy, backed by broad Latin language support and a full set of OpenType features."
+  },
+  {
+    "name": "Samzara",
+    "foundry": "La Bolde Vita",
+    "url": "https://www.laboldevita.com/fonts/samzara",
+    "designer": null,
+    "year": 2019,
+    "category": "display",
+    "subcategory": "display slab serif",
+    "classification_notes": "Rooted in classic slab serif construction with thick bracketed serifs, but the unconventional equal-thickness stroke endings and extreme 21° italic angle push it firmly into display territory rather than functional text use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Samzara"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "display",
+      "editorial",
+      "headline",
+      "poster",
+      "antiqua",
+      "expressive"
+    ],
+    "summary": "A display slab serif with deliberately unconventional stroke endings and a stubborn 21° italic, designed for use at large sizes in headlines and editorial work.",
+    "description": "Built on classic slab serif proportions with thick bracketed serifs, Samzara departs from convention by matching the thickness of its endings to the thin strokes of the letters, producing letter shapes that are occasionally awkward but distinctly its own. The italic leans at an unusually steep 21° angle while the vertical serifs remain upright, reinforcing the design's resistance to orthodoxy. With 644 glyphs per style, five stylistic sets, discretionary ligatures and alternate forms, the family offers room to customise its character in poster, identity and editorial contexts.",
+    "foundry_blurb": "La Bolde Vita describe Samzara as a classic display typeface best used large, for headlines and quotes in editorials, huge posters and identities. Initial sketches date from 2018, experimenting with mixed type classifications; the finished design translates slab serif shapes and thick bracketed serifs into a digital Antiqua language. The italic is described as stubborn, slanted at a strong 21° angle with vertical serifs that refuse to tilt. Released in 2019 with two styles, Latin Extended-A coverage and 644 glyphs each."
+  },
+  {
+    "name": "Residenz Serif",
+    "foundry": "La Bolde Vita",
+    "url": "https://www.laboldevita.com/fonts/residenz-serif",
+    "designer": null,
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "Described by the foundry as a contemporary serif, the design sits in a neutral but friendly register with modulated contrast across three optical sizes, placing it in the tradition of text serifs rather than display or transitional categories.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Small",
+      "Standard",
+      "Large"
+    ],
+    "subfamilies": [
+      "Residenz Serif Small",
+      "Residenz Serif Standard",
+      "Residenz Serif Large"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "contemporary",
+      "serif",
+      "optical-sizes",
+      "alternates",
+      "graffiti-influenced",
+      "editorial",
+      "versatile",
+      "opentype"
+    ],
+    "summary": "A neutral contemporary serif in six weights and three optical sizes, with a full set of alternate letterforms drawn from handwriting and graffiti that shift its tone from refined to experimental.",
+    "description": "Released in 2021 as a companion to Residenz Grotesk, this family spans 18 styles across Small, Standard and Large optical sizes, each tuned in contrast, shape and spacing for use at different scales. A complete alternate character set, inspired by handwritten and graffiti forms, can be mixed in at variable frequencies via predefined stylistic sets, allowing the same typeface to read as elegant or brutalist depending on the setting. With 980 glyphs and extensive OpenType feature support including oldstyle figures, circled numbers and slashed zero, it covers a wide range of typographic needs across Latin languages.",
+    "foundry_blurb": "La Bolde Vita describe Residenz Serif as the older sibling of Residenz Grotesk, sharing the same principle of a neutral but friendly family adaptable to a wide range of uses. The defining feature is a complete alternative set of letterforms inspired by handwriting and graffiti, which can be activated manually or blended in at set frequencies using stylistic sets, shifting the typeface from elegant to experimental. Three optical sizes — Small, Standard and Large — differ in shape, contrast and spacing to suit everything from large posters to small text, and the family supports almost all Latin languages with an extensive 980-glyph character set."
+  },
+  {
+    "name": "Swono",
+    "foundry": "La Bolde Vita",
+    "url": "https://www.laboldevita.com/fonts/swono",
+    "designer": null,
+    "year": 2023,
+    "category": "display",
+    "subcategory": "monospaced grotesque",
+    "classification_notes": "Explicitly described as a display typeface and a monospaced grotesque, derived from handwriting found in completed crossword puzzles. Its uppercase-only nature and five stylistic flavours place it firmly in the display category.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Swono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "display",
+      "grotesque",
+      "uppercase",
+      "crossword",
+      "expressive",
+      "poster",
+      "branding"
+    ],
+    "summary": "An uppercase-only monospaced display grotesque in nine weights, drawn from letterforms observed in handwritten crossword puzzles and offered in five stylistic flavours via OpenType stylesets.",
+    "description": "The letterforms originate from an analysis of completed crossword puzzles, with peculiarities of handwriting collected, categorised and unified into a single family. Five stylistic flavours range from soft and cheerful to sharp and aggressive, each accessible via stylistic sets, and a tight punctuation feature allows extremely compact setting even with accented characters. With 2,125 glyphs covering Latin Extended-A and nine weights from Thin to Black, it is aimed at posters, branding and expressive display work.",
+    "foundry_blurb": "La Bolde Vita describe Swono as evolving from the richness of handwritings found in crossword puzzles. By collecting and evaluating completed puzzles, they identified interesting letterforms and peculiarities, then categorised and unified these into a family whose five flavours can shift the cheerful base character toward softer, more angular, more aggressive or more complex aesthetics via stylistic sets."
+  },
+  {
+    "name": "Timez",
+    "foundry": "La Bolde Vita",
+    "url": "https://www.laboldevita.com/fonts/timez",
+    "designer": null,
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "text and display serif",
+    "classification_notes": "Described explicitly as a serif family spanning text to display purposes, with three sub-families (Readable, Casual, Strange) built on a shared skeleton but with varying contrast, spacing and curve tension to serve different registers.",
+    "weights": [
+      "Regular",
+      "Book",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Readable Timez",
+      "Casual Timez",
+      "Strange Timez"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "display",
+      "system",
+      "variable",
+      "opentype",
+      "multi-subfamily",
+      "latin"
+    ],
+    "summary": "A 30-style serif family divided into Readable, Casual and Strange sub-families, each sharing the same skeleton but diverging in spacing, contrast, proportions and curve tension to cover text and display applications.",
+    "description": "Released in 2022, the family spans three named sub-families built on identical underlying structure, allowing a designer to shift register from workhorse text setting to expressive display work without changing typeface. Each sub-family runs five weights from Regular to Bold with matching italics, and the italics include swash alternates. OpenType features are extensive: oldstyle figures, fractions, ligatures both functional and decorative, case-sensitive forms, circled numbers and variable font support.",
+    "foundry_blurb": "La Bolde Vita describe Timez as a system designed to answer what makes a typeface readable and what tips it into display territory. Three sub-families — Readable, Casual and Strange — share the same skeleton and technical parameters but differ across spacing, contrast, proportions, curve tension and italic angles. The family ships with 30 styles, variable fonts, italic swashes, tight capital spacing options, multiple figure styles and broad Latin language support."
+  },
+  {
+    "name": "Unzyale",
+    "foundry": "La Bolde Vita",
+    "url": "https://www.laboldevita.com/fonts/unzyale",
+    "designer": null,
+    "year": 2019,
+    "category": "display",
+    "subcategory": "uncial display",
+    "classification_notes": "Rooted in calligraphic experiments with a broad nib pen and loosely derived from Unzialschrift, Unzyale is an all-caps high-contrast display typeface that blends historical uncial letterforms with free, expressive shapes — firmly placing it in the display category rather than any text-focused historical script.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "subfamilies": [
+      "Unzyale"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "uncial",
+      "calligraphic",
+      "all-caps",
+      "high-contrast",
+      "display",
+      "historical",
+      "variable",
+      "swash"
+    ],
+    "summary": "An all-caps display typeface derived from broad-nib calligraphy and Unzialschrift, offered in three optical sizes with high stroke contrast and an optional monolinear stylistic set.",
+    "description": "Born from extended calligraphic experiments with a broad nib pen, Unzyale takes the Unzialschrift as a starting point before diverging into a hybrid of traditional handwriting and free letterforms unified by a consistent angle and high contrast. Three optical sizes — Small, Medium and Large — differ in contrast, form and spacing, making the family workable across headline, large-format and graphic pattern applications. A monolinear stylistic set swaps the calligraphic diacritics and punctuation for a cleaner, contemporary register, and fancy ligatures alongside swash alternates add further compositional range.",
+    "foundry_blurb": "La Bolde Vita describe Unzyale as the result of long-term calligraphic experiments with a broad nib pen, beginning as a modern interpretation of the Unzialschrift before evolving into a hybrid of traditional handwriting and free forms. Released in 2019 as a variable font with 749 glyphs covering Latin Extended-A, it comes in three optical sizes and includes stylistic sets that shift the supporting characters between a strictly calligraphic style and a modern monolinear one."
+  },
+  {
+    "name": "Zukunft",
+    "foundry": "La Bolde Vita",
+    "url": "https://www.laboldevita.com/fonts/zukunft",
+    "designer": null,
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "didone",
+    "classification_notes": "The foundry explicitly describes Zukunft as an homage to classic didone typefaces, featuring high contrast between thick and thin strokes, triangular serifs and strict horizontal lines that give it a geometric, digitally inflected character.",
+    "weights": [
+      "Regular",
+      "Display"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Display"
+    ],
+    "subfamilies": [
+      "Zukunft"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "high-contrast",
+      "geometric",
+      "editorial",
+      "display",
+      "futuristic",
+      "branding",
+      "serif"
+    ],
+    "summary": "A didone serif with a cold, geometric edge, swapping the classical warmth of the style for triangular serifs and right-angle construction.",
+    "description": "Released in 2020, Zukunft comes in three styles: a Regular for body copy, an Italic with capital swashes to restore some warmth, and a Display cut with heightened contrast for headlines and posters. The design retains traditional didone proportions whilst pushing the letterforms toward something more mechanically precise, with strict horizontal lines and sharp triangular serifs throughout. Extensive OpenType support includes stylistic alternates, contextual swashes, oldstyle figures and seven stylistic sets, with coverage across Latin Extended-A and Cyrillic for up to 250 languages.",
+    "foundry_blurb": "La Bolde Vita describe Zukunft as an homage to classic didone typefaces that takes a more futuristic direction, using triangular serifs, right angles and strict horizontal lines to give the letters a digitally constructed feel. They position it as a versatile family suited to short paragraphs, big titles and branding work, and encourage use of its numerous alternates, capital swashes and special symbols to unlock the full range of the design."
+  },
+  {
+    "name": "Zimula",
+    "foundry": "La Bolde Vita",
+    "url": "https://www.laboldevita.com/fonts/zimula",
+    "designer": null,
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The foundry explicitly classifies Zimula as a Geometric Sans. Its construction is rooted in geometric principles with a warm character, and the three style variants (Standard, InkTrap, InkSpot) all share the same geometric skeleton.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Zimula Standard",
+      "Zimula InkTrap",
+      "Zimula InkSpot"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "inktrap",
+      "variable",
+      "editorial",
+      "branding",
+      "workhorse",
+      "contemporary"
+    ],
+    "summary": "A geometric sans in three structural variants — Standard, InkTrap and InkSpot — each expressing the same nine-weight range with distinct joint treatments.",
+    "description": "Released in 2021 and extended in 2023, Zimula spans 27 static styles across Standard, InkTrap and InkSpot subfamilies, all sharing nine weights from Thin to Black. The InkTrap cut uses angular notches that aid clarity at small sizes and read as a decorative detail at display weights, while InkSpot fills those joints for a softer, more irregular texture. A variable font bridges all three styles and a glyph set of 1,011 characters covers ligatures, case-sensitive forms, fractions and five stylistic sets.",
+    "foundry_blurb": "La Bolde Vita describe Zimula as a classic contemporary geometric typeface with a friendly, warm character. The Standard styles are positioned as an everyday workhorse, while the InkTrap variant brings generous angular inktraps suited to titles and posters, and the InkSpot variant fills the joints for an irregular texture at light weights and a soft appearance at heavy ones. The available variable font lets users dial between InkTrap and InkSpot to optimise body copy or large-format work."
+  }
+]

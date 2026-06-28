@@ -44,5 +44,1079 @@
     "summary": "A four-style display family by Alejandro Lo Celso ranging from an elegant openface with Tuscan serif echoes to an ultra-black cursive, awarded at TDC 2006 and ATypI 2001.",
     "description": "Rayuela Display is the companion series to Rayuela Text, designed for expressive, relaxed typographic uses. Rayuela Luz is an openface with open stroke endings that give it a half-Tuscan character; Rayuela Miscelánea is a puzzle-inspired font with jumping figures evoking hopscotch and contemporary fleurons in the caps; and Rayuela Chocolate is an ultra-black cut offered in roman and cursive. The family covers Basic Latin with OpenType features including oldstyle figures, standard ligatures, hopscotch figures and fleurons.",
     "foundry_blurb": "Pampatype describe Rayuela Display as the companion series for more relaxed uses, comprising three distinct moods: the elegant openface Luz with its half-Tuscan serif quality, the scrabble-inspired Miscelánea with jumping figures and decorative fleurons, and the ultra-black Chocolate in roman and cursive. Rayuela Chocolate received a Certificate of Excellence from the TDC in 2006, and the broader Rayuela project was prized at the ATypI Bukva:Raz contest in Moscow in 2001."
+  },
+  {
+    "name": "Amster Versal Iluminada",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/amster-versal-iluminada",
+    "designer": "Francisco Gálvez Pizarro",
+    "year": 2014,
+    "category": "display",
+    "subcategory": "illuminated initials",
+    "classification_notes": "A set of decorative, multi-layered capital letters designed as illuminated initials, placing it firmly in the display category with no running text function. The ornamental, illustrative character of each glyph puts it closer to decorative display than any standard serif or script classification.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Amster Versal Iluminada"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "illuminated",
+      "initials",
+      "ornamental",
+      "multi-layered",
+      "decorative",
+      "historical",
+      "chilean",
+      "vernacular"
+    ],
+    "summary": "A single-font set of elaborately illuminated capital letters drawn from Chilean vernacular printed news sheets of the late 19th century.",
+    "description": "Each capital letter contains a miniature scene populated by animals, farmers, priests, devils and drunkards, drawn from the tradition of Chilean vernacular broadsheets. The family is a companion to Amster, Pampatype's transitional serif, and was programmed by Guido Ferreyra to function as layered fonts. Recognised at the Tipos Latinos Biennale in both 2008 and 2014, it suits poetic and editorial contexts where an illustrative, historically grounded initial is called for.",
+    "foundry_blurb": "Pampatype describe Amster Versal Iluminada as a collection of carefully illuminated, multi-layered capitals inspired by vernacular printed news sheets that circulated in Chile at the end of the 19th century. The glyphs bring together characters from natural and supernatural stories, including animals, farmers, priests, devils, citizens and criminals, forming what they call a wondrous bestiary of letters ideal for poetic atmospheres and stimulating readers' imagination."
+  },
+  {
+    "name": "Amster",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/amster",
+    "designer": "Francisco Gálvez",
+    "year": 2014,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Pampatype explicitly tags Amster as transitional and neoclassical, with glyphic and expressive qualities. The characteristics listed — swashes, long s, small caps, ornaments — confirm a classical serif tradition with display ambitions.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Amster",
+      "Amster Versal Iluminada"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "neoclassical",
+      "swashes",
+      "ornamental",
+      "text",
+      "editorial",
+      "smallcaps",
+      "expressive"
+    ],
+    "summary": "A Chilean-designed transitional serif by Francisco Gálvez, notable for its rich OpenType feature set including long and short swashes, programmed ornaments and multiple figure styles across five weights.",
+    "description": "Designed in Chile by Francisco Gálvez and released in 2014, Amster brings together the clarity of transitional serif construction with expressive calligraphic energy. Ten styles span Thin to Black with matching italics, and the italic cuts carry long and short swashes alongside contextual alternates that give text a distinct personality at any size. Recognised as a Typographica Favourite and twice acknowledged at Tipos Latinos, it suits book work, magazines and editorial contexts where a serif needs both rigour and warmth.",
+    "foundry_blurb": "Pampatype describe Amster as an energetic and refined type family designed with the idea that refinement and austerity can meet harmoniously. They position it as one of the most complete type families in the contemporary industry, citing its five roman and italic weights, extensive figure systems, swashes, smart ornaments, ligatures and contextual features, and highlight its suitability for applications ranging from screen to print and small text to display sizes."
+  },
+  {
+    "name": "Arlt",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/arlt",
+    "designer": "Alejandro Lo Celso",
+    "year": 2008,
+    "category": "serif",
+    "subcategory": "old-style serif",
+    "classification_notes": "Pampatype classifies Arlt as a serif with old-style character; its vigorous counterforms and whimsical details explicitly link to Baroque and Mannerist typography of the 17th and 18th centuries, placing it firmly in the old-style tradition.",
+    "weights": [
+      "Blanca",
+      "Gris",
+      "Negra",
+      "SúperNegra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Arlt",
+      "Arlt 7 Locos",
+      "Arlt Deco",
+      "Arlt Lanzallamas",
+      "Arlt Título"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "old-style",
+      "mannerist",
+      "baroque",
+      "literary",
+      "expressive",
+      "text",
+      "argentinian",
+      "serif"
+    ],
+    "summary": "A text serif by Alejandro Lo Celso named after the Argentinian writer Roberto Arlt, drawing on Baroque and Mannerist models to produce capricious, rhythmically compelling roman and italic styles suited to literary typesetting.",
+    "description": "Designed in four weights with matching italics, Arlt builds its character through whimsical details and vigorous counterforms that trace a lineage back to 17th and 18th century Baroque and Mannerist typography. Both roman and italic cuts carry an impulsive energy that settles into a harmonious, comfortable reading texture across long literary texts. The family was a Typographica Favourite of 2008 and received an honourable mention at the Creative Review awards in London in 2005.",
+    "foundry_blurb": "Pampatype describe Arlt as a refined system of 26 fonts named after the noted Argentinian writer Roberto Godofredo Arlt (1900–1942). They say the typeface aims to capture his lyric enthusiasm through an expressive yet firm gesture, with capricious and impulsive forms in both roman and italic that build a singular, harmonious rhythm. The family is positioned as ideal for literary texts, particularly those related to the underground world, and includes smallcaps, ligatures, contextual sorts and a full range of figure styles."
+  },
+  {
+    "name": "Arlt Lanzallamas",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/arlt-lanzallamas",
+    "designer": "Alejandro Lo Celso",
+    "year": 2014,
+    "category": "display",
+    "subcategory": "experimental serif",
+    "classification_notes": "Tagged as serif and display by the foundry, with expressionist and experimental characteristics; the font cycles through permutations of the Arlt 7 Locos cuts, making it a dynamic multi-style display face.",
+    "weights": [
+      "Irregular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Arlt Lanzallamas"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "experimental",
+      "dynamic",
+      "expressionist",
+      "serif",
+      "multi-style",
+      "titling",
+      "opentype"
+    ],
+    "summary": "A programmatic display font by Alejandro Lo Celso that cycles through the Arlt 7 Locos cuts as you type, producing shifting permutations with each keystroke.",
+    "description": "Part of the Arlt family, Lanzallamas uses OpenType programming to rotate through the seven stylistic variants of Arlt 7 Locos in a sequence determined by the length of the text line. The result is a living, unpredictable display face where no two settings look identical. Recognised as a Typographica Favourite of 2008 and an honourable mention at Creative Review London 2005, it sits firmly at the experimental end of Latin display typography.",
+    "foundry_blurb": "Pampatype describe Arlt Lanzallamas as the ultimate addition to the Arlt family and a living font. It is built on a programmed cycle that permutes through all Arlt 7 Locos fonts as the user types, with the cycle length controlled by the text line. It works in any OpenType-sensitive desktop application and was designed by Alejandro Lo Celso and programmed by Iván Moreno."
+  },
+  {
+    "name": "Arlt Deco",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/arlt-deco",
+    "designer": "Alejandro Lo Celso",
+    "year": 2008,
+    "category": "display",
+    "subcategory": "ornamental caps",
+    "classification_notes": "A set of two decorative all-caps titling fonts loosely inspired by 19th century decorative types, with neoclassical, transitional and openface characteristics that place it firmly in the ornamental display category.",
+    "weights": [
+      "Arlt Deco 1",
+      "Arlt Deco 2"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Arlt Deco"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "ornamental",
+      "titling",
+      "display",
+      "decorative",
+      "caps",
+      "19th-century",
+      "openface",
+      "elegant"
+    ],
+    "summary": "A pair of ornamental all-caps titling fonts by Alejandro Lo Celso, each loosely drawn from 19th century decorative letterforms and best deployed at large sizes for headings, logos and short inscriptions.",
+    "description": "Two elegant caps-only display fonts designed for initials, headings, logotypes and inscriptions. Arlt Deco 1 and Arlt Deco 2 draw loosely on 19th century decorative types, with Arlt Deco 2 particularly suited to very large settings where its ornamental detail can breathe. The punning name alludes to the resemblance in pronunciation between 'Arlt Deco' and 'Art Deco', though the design sits closer to neoclassical and transitional ornamental traditions than to the geometric rigour of that movement.",
+    "foundry_blurb": "Pampatype describe Arlt Deco as an ornamental titling set of two elegant decorative caps fonts, loosely inspired by 19th century decorative types and ideal for initials, headings, lettering, logos, inscriptions and short texts. Arlt Deco 2 is noted as being particularly effective at very large sizes. The name plays on the difficulty of pronouncing 'Arlt' and its phonetic similarity to 'Art Deco'. The set received a Typographica Favourite of 2008 and an Honorable Mention at the Creative Review awards in London in 2005."
+  },
+  {
+    "name": "Arlt 7 Locos",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/arlt-7-locos",
+    "designer": "Alejandro Lo Celso",
+    "year": 2008,
+    "category": "display",
+    "subcategory": "expressive serif",
+    "classification_notes": "Seven individually deconstructed serif display fonts derived from the Arlt family, each progressively distorted to expressive and experimental effect; the foundry tags them as serif, decorative, expressionist and display.",
+    "weights": [
+      "1 Jorobadito",
+      "2 Juguete Rabioso",
+      "3 Amor Brujo",
+      "4 Buscador de Oro",
+      "5 Astrólogo",
+      "6 Erdosain",
+      "7 Rufián Melancólico"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Arlt 7 Locos"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "expressive",
+      "deconstructed",
+      "experimental",
+      "display",
+      "serif",
+      "literary",
+      "rough",
+      "argentinian"
+    ],
+    "summary": "Seven progressively deconstructed variants of the Arlt serif, each named after a character from Roberto Arlt's Buenos Aires novel and designed to work at small sizes on rough paper.",
+    "description": "Designed by Alejandro Lo Celso and released in 2008, the series takes the letterforms of the parent Arlt typeface and systematically destroys them across seven distinct styles. Each font is named after a character from Roberto Arlt's Seven Madmen and draws on Lunfardo, the argot of Buenos Aires, for its cultural grounding. At small sizes on coarse stock the distortions read as atmospheric rather than chaotic, making the set well suited to literary, poetic and editorial contexts.",
+    "foundry_blurb": "Pampatype describe Arlt 7 Locos as the product of a deliberate experiment: take the carefully designed letterforms of Arlt and thoroughly destroy them. Inspired by Lunfardo and the characters of Roberto Arlt's main novel, the seven fonts can be mysteriously attractive when printed small on rough-quality paper. The family received a Typographica Favourite nod in 2008 and an honourable mention at the Creative Review awards in London in 2005."
+  },
+  {
+    "name": "Arlt Título",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/arlt-titulo",
+    "designer": "Alejandro Lo Celso",
+    "year": 2008,
+    "category": "display",
+    "subcategory": "transitional serif",
+    "classification_notes": "Described by the foundry as neoclassical and transitional in character, with display proportions designed for headings above 24pt and an openface variant for special occasions, placing it firmly in the display serif category.",
+    "weights": [
+      "Blanca",
+      "Negra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Arlt Título"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "titling",
+      "transitional",
+      "neoclassical",
+      "openface",
+      "literary",
+      "elegant",
+      "serif"
+    ],
+    "summary": "A titling companion to the Arlt text family, designed by Alejandro Lo Celso with five styles including an openface variant for display settings above 24pt.",
+    "description": "Designed by Alejandro Lo Celso and post-produced by José Luis Acosta, Arlt Título shares the proportions of the Arlt text type but is tuned specifically for headings and large-scale settings. Its five fonts span two weights — Blanca and Negra — each with a cursive, plus an openface Hueca for more ceremonial use. The family was a Typographica Favourite of 2008 and received an honourable mention at the Creative Review awards in London in 2005.",
+    "foundry_blurb": "Pampatype describe Arlt Título as the titling companion set to Arlt, with proportions carefully calibrated for headings and display settings. It comprises five fonts — a roman and cursive in two weights, plus an openface version for special occasions — and is best appreciated at sizes above 24pt."
+  },
+  {
+    "name": "Atahualpa",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/atahualpa",
+    "designer": "Alejandro Lo Celso",
+    "year": 2017,
+    "category": "slab",
+    "subcategory": "reverse contrast slab serif",
+    "classification_notes": "Pampatype classify it as a slab serif with reverse contrast, combining sturdy structure with delicate drawing qualities; the hybrid character places it firmly in the slab category with an expressive, display-capable personality.",
+    "weights": [
+      "Blanca",
+      "Fina",
+      "Gris",
+      "Morena",
+      "Negra",
+      "SúperNegra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Atahualpa",
+      "Atahualpa Itálica"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "reverse-contrast",
+      "folk",
+      "display",
+      "text",
+      "argentinian",
+      "editorial",
+      "expressive"
+    ],
+    "summary": "A reverse contrast slab serif by Alejandro Lo Celso, drawn in the spirit of Argentinian folk musician Atahualpa Yupanqui, balancing sturdy structure with delicate, warmly drawn letterforms.",
+    "description": "Designed by Alejandro Lo Celso and released in 2017, the family spans six weights from Blanca to SúperNegra, each with an italic, across 12 styles in total. The reverse contrast treatment is handled with restraint, giving the typeface an informal, handcrafted quality that works in long reading as readily as in poster and logo settings. It was named a Typographica Favourite of 2017 and received a Certificate of Excellence at the Tipos Latinos 8th Biennale in 2018.",
+    "foundry_blurb": "Pampatype describe Atahualpa as a typeface full of character and gentle manners, inspired by the work of Atahualpa Yupanqui, a central figure in Argentinian folk music. They position it as an original design that goes beyond reverse contrast, interpreting the qualities of a sturdy slab serif style with a delicate sense of drawing, giving it a unique spirit of power and warmth suited to gentle reading atmospheres as well as persuasive headings, logos and display use."
+  },
+  {
+    "name": "Borges",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/borges",
+    "designer": "Alejandro Lo Celso",
+    "year": 2004,
+    "category": "serif",
+    "subcategory": "garalde",
+    "classification_notes": "Combines French Renaissance garalde proportions with Dutch 20th-century influence: tall, slightly condensed lowercase with stroke contrast slightly above a classic garalde. Pampatype themselves tag it as garalde, old-style and transitional.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Borges",
+      "Borges Open",
+      "Borges Poema",
+      "Borges Titling"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "garalde",
+      "text",
+      "editorial",
+      "books",
+      "literary",
+      "smallcaps",
+      "oldstyle",
+      "readable"
+    ],
+    "summary": "A text serif by Alejandro Lo Celso drawing on French Renaissance garalde tradition inflected with Dutch 20th-century proportions, designed for long-form reading in books and magazines.",
+    "description": "Designed as a tribute to Jorge Luis Borges, the family takes its cue from his exacting prose style: clean, economical letterforms with round, open counters that build rhythm across a page of text. Six weights run from ExtraLight to Black, each with a matching italic and small caps; the italic is notably fluid. Display companions — Borges Open, Borges Poema and Borges Titling — extend the family for titling and chancery uses. Borges Título Hueca was awarded a prize by Matthew Carter at the Morisawa Awards in Tokyo, 2002.",
+    "foundry_blurb": "Pampatype describe Borges as a classic text face combining the dignity and grace of the French Renaissance with a contemporary Dutch flavour, featuring tall, slightly condensed lowercases and stroke contrast just above a garalde. Conceived primarily for editorial use in books, it includes extended Latin coverage, ligatures, full numeral series, extended currency signs and small caps across all twelve text styles."
+  },
+  {
+    "name": "Borges Titling",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/borges-titling",
+    "designer": "Alejandro Lo Celso",
+    "year": 2004,
+    "category": "serif",
+    "subcategory": "garalde",
+    "classification_notes": "Pampatype explicitly tags it as Garalde and Old-Style; the typeface exhibits classic old-style serif traits with moderate stroke contrast, bracketed serifs, and calligraphic stress, conceived for bookish titling use.",
+    "weights": [
+      "Light"
+    ],
+    "optical_sizes_or_widths": [
+      "Titling"
+    ],
+    "subfamilies": [
+      "Borges Titling"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "garalde",
+      "old-style",
+      "titling",
+      "literary",
+      "bookish",
+      "classical",
+      "serif",
+      "elegant"
+    ],
+    "summary": "A delicate titling roman by Alejandro Lo Celso, drawn with refined proportions and accentuated contrast to complement the Borges text family.",
+    "description": "Conceived as the titling counterpart to Borges, this garalde roman features slightly more elongated serifs, heightened stroke contrast and more economical vertical proportions than the text versions. The family takes its name from the Argentine writer Jorge Luis Borges, whose exacting prose suggested clean, elegant letterforms. Borges Open Light was recognised by Matthew Carter at the Morisawa Awards in Tokyo in 2002, and the family sits well in literary, editorial and magazine contexts.",
+    "foundry_blurb": "Pampatype describe Borges Titling as specially conceived for a bookish atmosphere, a delicately spirited roman designed to pair with the Borges text versions. They note its more economical vertical proportions, slightly more accentuated stroke contrast and more elongated serifs compared to the text cut. The family pays homage to writer Jorge Luis Borges, whose meticulous pursuit of the perfect word suggested a clean, economical but elegant letterform."
+  },
+  {
+    "name": "Borges Open",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/borges-open",
+    "designer": "Alejandro Lo Celso",
+    "year": 2004,
+    "category": "display",
+    "subcategory": "inline serif",
+    "classification_notes": "An engraved, openface display serif with garalde proportions and inline strokes. The Pampatype characteristics list it as garalde, inline and openface, placing it firmly in the display category rather than text serif.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Borges Open"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "inline",
+      "engraved",
+      "serif",
+      "titling",
+      "garalde",
+      "literary",
+      "openface"
+    ],
+    "summary": "An engraved display serif by Alejandro Lo Celso, comprising four weights from Light to Black, each calibrated to deliver a distinct degree of epigraphic weight and refinement in titling settings.",
+    "description": "Designed by Alejandro Lo Celso and part of the wider Borges family, Borges Open uses inline strokes to produce an engraved, openface effect suited to headings, logos and display settings. The Light style, the original and the one recognised by Matthew Carter at the Morisawa Awards in Tokyo 2002, carries a classical serenity; each subsequent weight increases shade and presence without sacrificing the family's epigraphic character. The typeface takes its name from Jorge Luis Borges, and Lo Celso's stated model was Borges's writing practice: precise, economical and always in pursuit of the exact word.",
+    "foundry_blurb": "Pampatype describe Borges Open as the engraved, extra elegant and impactful display branch of the Borges family. The four styles were designed to provide specific impressions across titling, headings and logos: Light is classy and serene; Regular carries an epigraphic, stone-carved quality; Bold adds greater shade and power; and Black combines maximum impact with refinement. The family takes its name from writer Jorge Luis Borges, whose pursuit of the perfect word suggested a clean, economical yet elegant letterform."
+  },
+  {
+    "name": "Borges Poema",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/borges-poema",
+    "designer": "Alejandro Lo Celso",
+    "year": 2004,
+    "category": "serif",
+    "subcategory": "chancery italic",
+    "classification_notes": "Classified by the foundry as Garalde and chancery, Borges Poema is a contemporary chancery cursive in the old-style tradition, designed for delicate titling and short texts requiring elegance.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Borges Poema"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "chancery",
+      "oldstyle",
+      "garalde",
+      "literary",
+      "elegant",
+      "titling",
+      "poetry",
+      "cursive"
+    ],
+    "summary": "A contemporary chancery cursive by Alejandro Lo Celso, designed for dignified titling, invitations and short poetic texts requiring a delicate, classical atmosphere.",
+    "description": "Part of the broader Borges type family from Pampatype, this single-style chancery draws on old-style Garalde tradition with features including standard ligatures, oldstyle figures and standard editorial glyphs. It is best suited to headings, titling and short literary or poetic settings where elegance takes precedence over extended text use. Coverage is Basic Latin only, making it a specialist display addition rather than a workhorse text face.",
+    "foundry_blurb": "Pampatype describe Borges Poema as a contemporary chancery that creates a delicate atmosphere, suited to dignified text with generous leading but at its most charming in short texts, headings, titling and invitation cards where elegance is the priority. It is the final addition to the Borges type family, designed by Alejandro Lo Celso and released in 2004."
+  },
+  {
+    "name": "Gorgias",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/gorgias",
+    "designer": "José Manuel López Rocha",
+    "year": 2014,
+    "category": "blackletter",
+    "subcategory": "Schulfraktur",
+    "classification_notes": "Gorgias is explicitly a Schulfraktur revival, a specific blackletter style used in 19th-century German school books, with all four variants maintaining fraktur construction and ornamental tradition.",
+    "weights": [
+      "Regular",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gorgias Regular",
+      "Gorgias Black",
+      "Gorgias Deco Regular",
+      "Gorgias Deco Black"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "schulfraktur",
+      "revival",
+      "ornamental",
+      "display",
+      "german",
+      "fraktur",
+      "poster"
+    ],
+    "summary": "A Schulfraktur revival by José Manuel López Rocha, drawn from a 19th-century German school book source and expanded with ornaments, initials and open-face variants.",
+    "description": "Named after the book in which López Rocha first encountered the original Schulfraktur, Gorgias comes in four styles: Regular and Black in both solid and open (Deco) forms. Each font includes 1,444 characters, covering old and new fraktur style sets, historical and old German ligatures, smart framed drop caps, ornate borders and book ornaments. An early version was awarded at the Tipos Latinos 8th Biennale in 2014.",
+    "foundry_blurb": "Pampatype describe Gorgias as a refined blackletter rooted in a Schulfraktur that Mexican type designer José Manuel López Rocha discovered in old books. Faithful to the original style yet executed with precise drawing, the family adds new glyphs, ornaments and period initials, and is intended for designers who want to combine classic and contemporary elements in a distinctly bookish German type style."
+  },
+  {
+    "name": "Chercán",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/chercan",
+    "designer": "Francisco Gálvez Pizarro",
+    "year": 2016,
+    "category": "serif",
+    "subcategory": "flare serif",
+    "classification_notes": "The page lists it as a flare serif with hybrid characteristics, featuring reverse contrast and a singular informal personality that sits between text and display use — distinct from classical transitional or old-style serifs.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Chercán"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Greek polytonic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "flare-serif",
+      "informal",
+      "text",
+      "display",
+      "legible",
+      "greek",
+      "reverse-contrast",
+      "editorial"
+    ],
+    "summary": "A flare serif by Francisco Gálvez Pizarro, named after a Chilean wren, that balances informal warmth with typographic authority across text and display sizes.",
+    "description": "Six weights from ExtraLight to ExtraBold, each with a matching italic, give Chercán a broad range for both long-form reading and headline work. Its personality is relaxed without sacrificing legibility, making it suited to books, magazines and posters where a human voice is wanted. Latin Extended and Greek polytonic coverage, alongside a rich set of OpenType features including small caps, oldstyle figures, bird dingbats and polytonic alternates, make it a well-equipped choice for multilingual publishing.",
+    "foundry_blurb": "Pampatype describe Chercán as a finely informal type named after the Chilean name for the melodious Troglodytes aedon bird found across the Americas. They note it is comfortably legible in text sizes while its singular personality excels at large sizes where elegance is a priority, ideal for creating an informal atmosphere that retains authority. Designed and programmed by Francisco Gálvez Pizarro, it was released in 2016 and was a Typographica Favourite of 2016."
+  },
+  {
+    "name": "Carolinéale",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/carolineale",
+    "designer": "Francis Ramel",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Rooted in a research project on Carolingian minuscule script, Carolinéale is a contemporary sanserif with calligraphic warmth and historical inflection, placing it firmly in the humanist sans tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Carolinéale"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "carolingian",
+      "calligraphic",
+      "historical",
+      "text",
+      "display",
+      "smallcaps",
+      "elegant"
+    ],
+    "summary": "A humanist sanserif by Francis Ramel, seven years in development, drawing on Carolingian minuscule and medieval musical notation for its quiet historical character.",
+    "description": "Originating as a research project into the Carolingian minuscule script of 8th and 9th-century Frankish monasteries, the typeface evolved over seven years into a fully fledged sanserif suitable for both long-form reading and display use. Twelve styles run from Thin to Black with matching italics, and the character set is richly equipped with small caps, old-style figures, historical forms, ligatures and pinyin Latin support. Its calligraphic origins give the letterforms a relaxed rhythm that distinguishes it from more neutral grotesques.",
+    "foundry_blurb": "Pampatype describe Carolinéale as a contemporary sanserif with a hint of history, born from research into Carolingian minuscule and the musical notation systems of the 8th and 9th centuries. After a seven-year development process, it emerged as a versatile family equally comfortable as a text face and a display type, equipped with the full range of OpenType features a discerning typographer might need."
+  },
+  {
+    "name": "Octothorpe",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/octothorpe",
+    "designer": "Jorge Iván Moreno Majul",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "multiline display",
+    "classification_notes": "A high-contrast, eight-line stroke display face derived from Letraset's Stripes (1972), explicitly ornamental and titling in function, with no body-text application intended.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Octothorpe",
+      "Octothorpe PanEuro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "multiline",
+      "revival",
+      "letraset",
+      "seventies",
+      "ornamental",
+      "poster",
+      "geometric"
+    ],
+    "summary": "A multiline display revival of Tony Wenman's Letraset Stripes (1972), redrawn with eight parallel strokes and extensive OpenType features for Latin, Greek and Cyrillic.",
+    "description": "Based on Tony Wenman's Stripes, released by Letraset in 1972, this face replaces solid strokes with eight concentric lines, producing a hypnotic, variegated texture suited to posters, record covers and magazine headings. The family spans two styles: the core Latin-extended version and a PanEuro edition adding Greek monotonic and basic Cyrillic. An unusually deep feature set includes contextual alternates for connected upper and lowercase, swashes, extensions, isolated forms and a full range of figure styles. Awarded at the Tipos Latinos 8th Biennale in 2018.",
+    "foundry_blurb": "Pampatype describe Octothorpe as an intricate, dazzling, high-powered display font designed and programmed by Jorge Iván Moreno Majul, based on Tony Wenman's Stripes from 1972. They position it as a smart typographic tool for impactful and provocative digital lettering, whose eight-line stroke draws the reader into a hypnotic and variegated path of infinite possibilities."
+  },
+  {
+    "name": "Margarita",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/margarita",
+    "designer": "Alejandro Lo Celso",
+    "year": 2010,
+    "category": "display",
+    "subcategory": "fat face",
+    "classification_notes": "A Didone-derived fat face intended exclusively for large display sizes, with extreme stroke contrast in the tradition of Bodoni and Didot, and an engraved (open face) variant alongside the solid roman and italic.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Margarita",
+      "Margarita Luce"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "fat-face",
+      "didone",
+      "display",
+      "ornaments",
+      "engraved",
+      "openface",
+      "poster",
+      "fashion"
+    ],
+    "summary": "A humorous, high-contrast fat face by Alejandro Lo Celso, designed in the tradition of Bodoni and Didot and named after Bodoni's widow, available in solid and engraved cuts.",
+    "description": "Released in 2010 and extended in version 2.0, Margarita takes the extreme stroke contrast of the Didone tradition and pushes it into fat face territory for titling and poster use only. The family runs to four fonts: roman and italic in both a solid and an open-face (Luce) form, each carrying an extensive set of OpenType alternates and a full suite of ornaments for building frames and decorative backgrounds. Awards from Tipos Latinos 2010 and the Hii Type contest attest to its standing within the Latin American and international type community.",
+    "foundry_blurb": "PampaType describe Margarita as their interpretation of the modern style in the sense of Didot and Bodoni, rendered as a humorous and sensual fat face for display use. The name honours Margherita Dall'Aglio, Bodoni's widow, who published the famous Manuale Tipografico four years after her husband's death. The family comprises four fonts in solid and engraved forms, and includes a set of ornaments designed for elegant frames and backgrounds, with the instruction to use Margarita only at huge sizes."
+  },
+  {
+    "name": "Otta",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/otta",
+    "designer": "Francisco Gálvez Pizarro",
+    "year": 2015,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Otta synthesises calligraphic and typographic forms with an organic, hand-drawn quality and humanist construction. Its horizontal contrast draws on Arabic and Greek scribal traditions, placing it firmly in the humanist serif category.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Bold",
+      "Black",
+      "Display Bold",
+      "Display Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Otta",
+      "Otta PE"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Coptic",
+      "IPA",
+      "PanAfrican",
+      "Pinyin",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "multi-script",
+      "calligraphic",
+      "handcrafted",
+      "long-reading",
+      "cyrillic",
+      "greek",
+      "organic"
+    ],
+    "summary": "A large, hand-drawn humanist serif by Francisco Gálvez Pizarro, designed for multi-script book work across Latin, Cyrillic and Greek.",
+    "description": "Drawn with a calligraphic rhythm and an organic horizontal contrast informed by Arabic and Greek scribal traditions, Otta was created specifically to set Gálvez Pizarro's own typography book 'Hacer y Componer', requiring harmonious composition across multiple scripts on a single page. The family spans 28 styles across text and display optical sizes, with a PanEuro edition extending coverage to complete Cyrillic, polytonic and archaic Greek, and Coptic. It won at the Modern Cyrillic contest in 2019, and its character sets run to nearly 5,000 glyphs per font in the PE upright cuts.",
+    "foundry_blurb": "Pampatype describe Otta as a sensitive counter-response to the advance of AI, designed to vibrate on a profoundly human frequency. Drawn under a criterion of rhythm that synthesises calligraphic and typographic forms for continuous reading, it explores horizontal contrast following the example of Arabic and Greek scripts. Originally produced to set Francisco Gálvez Pizarro's own book on typography, it is described by the PampaType team as his greatest type design achievement to date."
+  },
+  {
+    "name": "Perec Ludique",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/perec-ludique",
+    "designer": "Alejandro Lo Celso",
+    "year": 2010,
+    "category": "display",
+    "subcategory": "decorative multi-style",
+    "classification_notes": "A decorative display family comprising three highly distinct styles: a tridimensional chrome layering font, a stencil font, and a crossword-cube font. The playful, experimental nature places it firmly in the display/decorative category.",
+    "weights": [
+      "Oncle Jacques Ombre",
+      "Oncle Jacques Lumière",
+      "Pochoir",
+      "Cubes"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Perec Ludique Oncle Jacques",
+      "Perec Ludique Pochoir",
+      "Perec Ludique Cubes"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "decorative",
+      "stencil",
+      "color-layering",
+      "experimental",
+      "multi-style",
+      "tridimensional",
+      "oulipo"
+    ],
+    "summary": "A playful three-part display family by Alejandro Lo Celso, drawing on jewellers' shop signage, stencil lettering and crossword typography within the broader Perec super family.",
+    "description": "Part of Pampatype's Perec super family, Perec Ludique comprises three distinct styles for expressive typesetting. Oncle Jacques is a tridimensional chrome-effect font split into Ombre and Lumière layers for colour editing, inspired by traditional jewellers' signage; Pochoir is a stencil font rich in alternates and ligatures; and Cubes follows the logic of crossword grids, programmed for intelligent character juxtaposition. Each style carries substantial OpenType features including oldstyle figures, extended diacritics and linguistic ligatures, giving the family practical depth beneath its decorative surface.",
+    "foundry_blurb": "Pampatype describe Perec Ludique as a relaxed and playful set within the Perec super family, designed by Alejandro Lo Celso and extended with Francis Ramel, and programmed by Jorge Iván Moreno Majul. The three styles — Oncle Jacques (a layered tridimensional chrome font inspired by jewellers' signs), Pochoir (a stencil font with extensive alternates and ligatures) and Cubes (a crossword-inspired font with smart character juxtaposition) — are presented as ideal for creative text settings. The family was recognised at the Tipos Latinos 2010 International Biennale."
+  },
+  {
+    "name": "Otta Arabic",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/otta-arabic",
+    "designer": "Francisco Gálvez Pizarro",
+    "year": 2015,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Otta Arabic is a humanist multi-script family with calligraphic roots, designed around horizontal contrast — a tradition shared by Arabic and Greek scripts. The hand-drawn quality and organic rhythm place it firmly in the humanist category.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Bold",
+      "Black",
+      "Display Bold",
+      "Display Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Otta Arabic+Latin"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Persian",
+      "Urdu",
+      "Latin",
+      "IPA",
+      "Pan-African Latin",
+      "Vietnamese",
+      "Pinyin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "multi-script",
+      "arabic",
+      "calligraphic",
+      "book",
+      "text",
+      "hand-drawn",
+      "multi-language"
+    ],
+    "summary": "A hand-drawn, humanist multi-script family by Francisco Gálvez Pizarro, designed to harmonise Arabic and Latin on the same page through shared horizontal contrast.",
+    "description": "Originally designed to typeset Gálvez Pizarro's own book on typography, Otta Arabic draws on calligraphic tradition to create an organic rhythm suited to continuous reading. The family spans seven styles from Light to Display Black, covering Arabic (with Persian, Urdu and ligatures) alongside an unusually complete Latin that extends to IPA, Pan-African scripts, Pinyin and Vietnamese. Horizontal contrast, a feature native to both Arabic and Greek writing traditions, ties the scripts together into a coherent visual system.",
+    "foundry_blurb": "Pampatype describe Otta as a response to the advance of AI, aiming to vibrate on a profoundly human frequency with a gentle, organic tone that returns to the handmade and artisanal. Designed by Francisco Gálvez Pizarro to compose his own typography book 'Hacer y Componer', it was built to harmoniously combine multiple scripts on a single page, and is described by the team as Gálvez Pizarro's greatest type design achievement to date."
+  },
+  {
+    "name": "Perec",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/perec",
+    "designer": "Alejandro Lo Celso",
+    "year": 2010,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Pampatype describes Perec as a sanserif grotesque with romans and italics; its delicate spirit and open counters place it firmly in the humanist-inflected grotesque tradition rather than a strict geometric or neo-grotesque model.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Perec",
+      "Perec PE"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "PanAfrican Latin",
+      "Pinyin Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "literary",
+      "smallcaps",
+      "superfamily",
+      "multilingual",
+      "text",
+      "modernist",
+      "elegant"
+    ],
+    "summary": "A six-weight grotesque by Alejandro Lo Celso honouring French writer Georges Perec, with extensive script coverage and full small caps across all styles.",
+    "description": "Designed by Alejandro Lo Celso and first released in 2010, Perec carries a lighter, more refined character than a conventional grotesque, making it well suited to large-scale editorial work where elegance matters whilst retaining legibility at small sizes through open counters. The family runs to twelve styles across six weights with matching italics and small caps, and the PE edition extends coverage to full Cyrillic including Bulgarian, Macedonian, Serbian and Ukrainian, plus polytonic Greek. Cyrillics were drawn by Onur Yazıcıgil and Lo Celso, and the family sits within a broader superfamily alongside the playful Perec Ludique and the script-based Perec Scripte.",
+    "foundry_blurb": "Pampatype describe Perec as a sensitive sanserif grotesque that pays tribute to French writer and OuLiPo member Georges Perec (1936–1982). They note its more delicate spirit relative to a typical grotesque, its smooth colour texture, and its suitability for both large sizes where elegance is a priority and smaller text settings where the openness of its counters aids legibility. The family is positioned as part of an ongoing superfamily project that includes Perec Ludique, Perec Scripte and the forthcoming Perec Lunatique."
+  },
+  {
+    "name": "Quimera",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/quimera",
+    "designer": "Alejandro Lo Celso",
+    "year": 2002,
+    "category": "display",
+    "subcategory": "reverse contrast serif",
+    "classification_notes": "Quimera carries thin, horizontal serifs on a sans-serif modulation, producing a reverse contrast structure. The foundry describes it as a hybrid display type, inspired by Excoffon's Antique Olive, making display the most accurate primary category.",
+    "weights": [
+      "Blanca",
+      "Gris",
+      "Negra",
+      "SúperNegra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Quimera",
+      "Quimera Compacta"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "reverse-contrast",
+      "serif",
+      "hybrid",
+      "informal",
+      "poster",
+      "excoffon-inspired",
+      "latin"
+    ],
+    "summary": "A reverse-contrast display serif by Alejandro Lo Celso that grafts thin, capricious serifs onto a sans-serif modulation, drawing loose inspiration from Roger Excoffon's Antique Olive.",
+    "description": "Designed in 2002, Quimera pairs open counterforms with a characteristic horizontal-contrast structure that the foundry describes as a 'sanserif avec' — a sans with serifs. The family runs across four weights from Blanca to SúperNegra, plus a Compacta cut for tighter settings, all in Basic Latin coverage. Its informal warmth and screen-friendly apertures make it suited to posters, cards and display text where a quirky typographic personality is wanted.",
+    "foundry_blurb": "Pampatype describe Quimera as a natural consequence of their admiration for Roger Excoffon's Antique Olive and its cultural moment, though they note the typeface has its own soul. Delicate curves, an open counterform structure and a thin, capricious serif layered onto a sans modulation give rise to the name Quimera — a chimera of contradictory genetic material."
+  },
+  {
+    "name": "Rayuela",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/rayuela",
+    "designer": "Alejandro Lo Celso",
+    "year": 2001,
+    "category": "serif",
+    "subcategory": "informal serif",
+    "classification_notes": "Rayuela is a serif typeface with an informal, handcrafted spirit designed for long-text readability, placing it in an informal or lyrical serif subcategory rather than a conventional transitional or humanist classification.",
+    "weights": [
+      "Blanca",
+      "Gris",
+      "Negra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rayuela",
+      "Rayuela Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "informal",
+      "literary",
+      "text",
+      "multi-style",
+      "legible",
+      "handcrafted",
+      "long-reading"
+    ],
+    "summary": "An informal multi-style serif by Alejandro Lo Celso, developed through postgraduate study at Reading and the ANRT, designed to bring warmth and character to long-form reading.",
+    "description": "Developed during Alejandro Lo Celso's MA at the University of Reading and his studies at the ANRT in Nancy, Rayuela was the first typeface published by Pampatype and remains one of its most recognised releases. The text family runs across three weights — Blanca, Gris and Negra — each with an italic, all carrying an informal, handcrafted quality that is uncommon in types intended for extended reading. OpenType features include small caps, old-style figures, contextual alternates and discretionary ligatures, making it well suited to literary and editorial work where typographic personality is valued.",
+    "foundry_blurb": "Pampatype describe Rayuela as an informal, multi-style family and PampaType's first published typeface. They note its popularity stems from the rarity of informal-spirited types that also perform well in long texts, and cite its origins in Lo Celso's postgraduate study in the UK and France. The Rayuela Chocolate variant received a Certificate of Excellence from the TDC in 2006, and the family was also prized at the Bukva:Raz contest held by the Association Typographique Internationale in 2001."
+  },
+  {
+    "name": "Perec Scripte",
+    "foundry": "Pampatype",
+    "url": "https://pampatype.com/typefaces/perec-scripte",
+    "designer": "Alejandro Lo Celso",
+    "year": 2023,
+    "category": "script",
+    "subcategory": "upright cursive",
+    "classification_notes": "A vertical script typeface with no slant, placing it firmly in the upright cursive tradition. The family splits into unlinked and linked styles alongside a decorative variant, all sharing script letterform characteristics.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Perec Scripte 1",
+      "Perec Scripte 2",
+      "Perec Scripte Deco"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "upright-cursive",
+      "display",
+      "editorial",
+      "modernist",
+      "multi-style",
+      "superfamily",
+      "literary"
+    ],
+    "summary": "A vertical script typeface by Alejandro Lo Celso offered in unlinked, linked and decorative variants across six weights, designed as part of a tribute superfamily to writer Georges Perec.",
+    "description": "The family splits into three distinct styles: Perec Scripte 1 (unlinked) for greater legibility at smaller sizes, Perec Scripte 2 (linked) for a more flowing connected hand, and Perec Scripte Deco, which adds three hand-drawn stripes throughout the alphabet for titles, signs and logos. Each style carries an extensive OpenType feature set including contextual alternates, swashes, ligatures, multiple numeral sets and Pinyin Latin support, with glyph counts reaching over 2,000 per font in the linked variant. The family sits within the broader Perec superfamily alongside Perec and Perec Ludique, all intended for combined use in expression-rich editorial layouts.",
+    "foundry_blurb": "Pampatype describe Perec Scripte as a captivating, alluring vertical script with a serene air and hint of nostalgia. Conceived primarily as a display font, they note the Light, Regular and Medium weights can also serve shorter text settings. Perec Scripte Deco is singled out for its hand-drawn striped detailing, suited to special titles, signs and logos. The series forms part of the wider Perec superfamily, designed as a tribute to the singular 20th-century writer Georges Perec, and was recognised at the Tipos Latinos 2010 International Biennale."
   }
 ]

@@ -1,0 +1,673 @@
+[
+  {
+    "name": "Human Sans",
+    "foundry": "Positype",
+    "url": "https://positype.com/human",
+    "designer": "Neil Summerour",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The foundry explicitly describes it as a humanist sans serif, and the letterforms shown across weights reflect the open, calligraphic warmth characteristic of that subcategory.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Human Sans",
+      "Human Narrow",
+      "Human Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Japanese",
+      "Khmer",
+      "Lao",
+      "Thai"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "workhorse",
+      "multilingual",
+      "extended-latin",
+      "editorial",
+      "text",
+      "versatile",
+      "wide-language-support"
+    ],
+    "summary": "A humanist sans serif by Neil Summerour built across 80 styles and seven writing systems, spanning Thin to Ultra with narrow and condensed subfamilies.",
+    "description": "Designed by Neil Summerour with collaborator Potch Auacherdkul, Human Sans is described by Positype as a typographic workhorse drawn and redrawn over several years from the roots of an earlier Positype design. Eighty styles span eight weights from Thin to Ultra, each with matching italics, and the family extends into Narrow and Condensed subfamilies for tighter measures. Script coverage is unusually broad, reaching Latin, Cyrillic, Greek, Japanese, Khmer, Lao and Thai.",
+    "foundry_blurb": "Positype describe Human Sans as a humanist sans serif years in the making, built from the ground up to serve as a true typographic workhorse. It began as an evolution of an earlier Positype design but was drawn and redrawn before arriving at its final form."
+  },
+  {
+    "name": "Aaux Pro",
+    "foundry": "Positype",
+    "url": "https://positype.com/aaux-pro",
+    "designer": "Neil Summerour",
+    "year": 2002,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A contemporary grotesque sans-serif with warmth and precision, balancing assertiveness with friendliness across a large family spanning multiple widths and scripts.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Normal",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Compressed",
+      "Condensed",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Aaux Pro",
+      "Aaux Pro Compressed",
+      "Aaux Pro Condensed",
+      "Aaux Pro Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Arabic",
+      "Cyrillic",
+      "Greek",
+      "Korean",
+      "Thai"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "multilingual",
+      "superfamily",
+      "global",
+      "editorial",
+      "branding",
+      "wide-language-support",
+      "humanist"
+    ],
+    "summary": "A comprehensively redrawn grotesque superfamily spanning 378 fonts, six scripts and 349 languages, originally released in 2002 and rebuilt from scratch for the Pro edition.",
+    "description": "Originally launched in 2002, Aaux Pro was redesigned with every glyph redrawn from scratch across four width variants — Compressed, Condensed, standard and Wide — each with ten weights and matching italics. Script support extends to Arabic, Cyrillic, Greek, Korean and Thai, making it one of the more genuinely multilingual grotesque families available. OpenType features include small caps, old style figures, tabular figures, expanded f-ligatures and case-sensitive forms.",
+    "foundry_blurb": "Positype describe Aaux Pro as a super family of 378 fonts built from a complete redesign of the original Aaux, with every glyph redrawn from scratch across Compressed, Condensed, standard and Wide subsets. The family combines precision with warmth, balancing assertiveness and friendliness, and has been expanded to support Arabic, Cyrillic, Greek, Korean and Thai for use in global brands and multilingual projects."
+  },
+  {
+    "name": "Cipher",
+    "foundry": "Positype",
+    "url": "https://positype.com/cipher",
+    "designer": "Neil Summerour",
+    "year": 2026,
+    "category": "mono",
+    "subcategory": "pseudo-monospaced",
+    "classification_notes": "Cipher is built on a monospaced foundation but selectively widens certain characters such as m, w and wide Cyrillic glyphs where strict fixed-width would distort the letterform, placing it in a pseudo-monospace category distinct from both true monospace and proportional designs.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cipher"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "pseudo-monospace",
+      "coding",
+      "technical",
+      "terminal",
+      "multilingual",
+      "documentation",
+      "tui"
+    ],
+    "summary": "A pseudo-monospaced typeface by Neil Summerour that widens only the characters harmed by a fixed grid, preserving columnar rhythm while improving readability across eight weights.",
+    "description": "Rather than forcing every glyph into a uniform width, Cipher selectively releases characters like lowercase m and w to the space their forms actually need, while keeping numerals strictly monospaced for clean tabular alignment. The family runs across eight weights from ExtraLight to Black, each with a matching italic, and carries extensive Latin Extended, Greek and Cyrillic coverage suited to multilingual code editors and technical documentation. Box drawing and block element sets are included and calibrated to align precisely at the monospace grid, making the typeface directly useful for terminal user interfaces.",
+    "foundry_blurb": "Positype describe Cipher as a typeface built for environments where precision and clarity are not optional, drawing its conceptual framing from the history of cryptography and the evolution of the monospace tradition. They emphasise its pseudo-monospaced architecture, which departs from fixed width only where fixed width demonstrably harms the letterform, and its broad script support covering Polish, Czech, Vietnamese, Greek, Russian, Ukrainian and several Central Asian languages alongside fourteen currency symbols."
+  },
+  {
+    "name": "Grava",
+    "foundry": "Positype",
+    "url": "https://positype.com/grava",
+    "designer": "Neil Summerour",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Grava is explicitly positioned within the geometric sans category, built on triangle, circle and square foundations but tempered with humanist warmth to offset the coldness typical of strict geometric designs.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Normal",
+      "Roman",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Display"
+    ],
+    "subfamilies": [
+      "Grava",
+      "Grava Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "warmth",
+      "multilingual",
+      "display",
+      "ligatures",
+      "midcentury",
+      "editorial",
+      "multilingual"
+    ],
+    "summary": "A geometric sans by Neil Summerour that softens the category's characteristic austerity with humanist warmth, available in 60 styles across Latin, Cyrillic and Greek.",
+    "description": "Spanning ten weights from Thin to Ultra with matching obliques, Grava addresses the structural inconsistencies inherent in strict geometric sans design by introducing warmth without abandoning geometric rigour. A Display subfamily adds sharp points and conspicuous angles suited to poster sizes, book covers and expressive branding, while optional ligatures invoke a midcentury modernist sensibility. All three scripts — Latin, Cyrillic and Greek — are bundled together and spaced comprehensively across 330 supported languages.",
+    "foundry_blurb": "Positype describe Grava as Neil Summerour's injection of warmth into the geometric sans category, designed to hold a T-square and triangle in one hand while offering a welcoming handshake with the other. The family comes in a normal and a Display style, each with 20 weights and paired obliques, with Latin, Cyrillic and Greek all packaged together and spaced character-by-character for a finely matched fit across multilingual publications."
+  },
+  {
+    "name": "Clear Pro",
+    "foundry": "Positype",
+    "url": "https://positype.com/clear-pro",
+    "designer": "Neil Summerour",
+    "year": 2013,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described as a rational geometric sans serif inspired by early 20th-century signage lettering, combining precision with warmth; rooted in geometric construction with humanist influence.",
+    "weights": [
+      "XThin",
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Clear Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Arabic",
+      "Cyrillic",
+      "Greek",
+      "Japanese",
+      "Khmer",
+      "Korean",
+      "Lao",
+      "Thai"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rational",
+      "signage",
+      "multilingual",
+      "global",
+      "versatile",
+      "editorial",
+      "corporate"
+    ],
+    "summary": "A geometric sans with origins in hand-painted lettering from 2008, expanded into 127 styles covering nine writing systems and 330 languages.",
+    "description": "Originally hand-painted for a friend's identity project, Clear Pro has been developed over more than a decade into a large-scale geometric sans family spanning eleven weights with matching italics. Its reference point is the bold, direct lettering of early 20th-century signage, producing a voice that sits between assertive and approachable. Script support extends well beyond Latin to include Arabic, Cyrillic, Greek, Japanese, Khmer, Korean, Lao and Thai, making it a practical choice for genuinely multilingual work.",
+    "foundry_blurb": "Positype describe Clear Sans Pro as a rational geometric sans serif originally hand-painted in 2008 and completed for a friend's identity project before being expanded. Inspired by bold, straightforward early 20th-century signage lettering, it combines precision with warmth across a comprehensive range of weights and italics. The family has since been extended to support Arabic, Cyrillic, Greek, Japanese, Khmer, Korean, Lao and Thai, giving it coverage across 330 languages and making it suitable for global brands and multilingual projects. It was awarded the 2024 Communication Arts Award of Excellence."
+  },
+  {
+    "name": "Foundation",
+    "foundry": "Positype",
+    "url": "https://positype.com/foundation",
+    "designer": "Neil Summerour",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Foundation is explicitly designed within the geometric sans serif tradition, applying optical corrections to idealized geometric construction. The foundry's own description places it squarely in this genre while addressing practical limitations of historic geometric sans designs.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Condensed",
+      "standard"
+    ],
+    "subfamilies": [
+      "Foundation",
+      "Foundation Narrow",
+      "Foundation Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Khmer",
+      "Lao",
+      "Thai"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "multilingual",
+      "condensed",
+      "contemporary",
+      "editorial",
+      "branding",
+      "wide-range"
+    ],
+    "summary": "A geometric sans serif by Neil Summerour spanning eight weights across three widths, with genuine compression in the Condensed cut and support for Latin, Cyrillic, Greek, Khmer, Lao and Thai.",
+    "description": "Designed by Neil Summerour with collaborator Potch Auacherdkul, Foundation addresses practical shortfalls identified in existing geometric sans serifs: insufficient condensed compression, excessive girth in normal widths, and weight ranges that fall short of contemporary demands. The family runs from Light to Ultra across standard, Narrow and Condensed widths, with obliques throughout, totalling 72 styles. Optical corrections and contemporary spacing logic govern the drawing, keeping the geometric clarity legible across brand, packaging, editorial and interface applications.",
+    "foundry_blurb": "Positype describe Foundation as a geometric sans built to resolve limitations rooted in century-old technology. The design emerged from an audit of real-world executions across brand, packaging, editorial and digital applications, identifying gaps in condensed depth, normal-width weight, and overall weight range. The result spans Light to Ultra, with a Narrow width calibrated for headlines and interface text that needs to be compact without feeling squeezed, and a Condensed offering genuine compression rather than modest narrowing."
+  },
+  {
+    "name": "Halogen Pro",
+    "foundry": "Positype",
+    "url": "https://positype.com/halogen-pro",
+    "designer": "Neil Summerour",
+    "year": 2011,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Halogen Pro is a geometric extended sans-serif with a generous x-height and strong stylistic character, sitting firmly in the geometric sans category with display tendencies across its weight range.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Halogen Pro",
+      "Halogen Flare",
+      "Halogen Slab",
+      "Halogen Soft"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "extended",
+      "display",
+      "multilingual",
+      "stylish",
+      "high-xheight",
+      "opentype-rich",
+      "sans-serif"
+    ],
+    "summary": "A remastered 2024 edition of Neil Summerour's 2011 geometric extended sans, now covering Latin, Cyrillic and Greek across 42 styles.",
+    "description": "Originally released in 2011, Halogen gained a following for its confident geometry and generous x-height, departing from purely utilitarian extended sans conventions. The 2024 Pro edition adds Cyrillic and Greek script support, expands the character set substantially and introduces the Halogen Soft variant alongside the existing Flare and Slab branches. Forty-two styles span seven weights from Hairline to Black with matching obliques, and OpenType features include small caps, oldstyle figures, fractions, swash alternates and case-sensitive forms.",
+    "foundry_blurb": "Positype describe Halogen Pro as a remastering of the 2011 original, which they say eschewed utilitarianism for style and swagger while offering a comprehensive character set with a generous x-height and small caps. The 2024 update adds Cyrillic and Greek support, expands the glyph set, and introduces Halogen Soft, a softer and more refined variant joining the existing Flare and Slab members of the family."
+  },
+  {
+    "name": "Grava Display",
+    "foundry": "Positype",
+    "url": "https://positype.com/grava-display",
+    "designer": "Neil Summerour",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Grava Display is a geometric sans built on geometric principles but with deliberately sharp, pointed terminals and expressive detailing that push it toward display use. The foundry positions it within the geometric sans tradition while consciously departing from its typical coldness.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Normal",
+      "Roman",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Grava Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "expressive",
+      "vintage",
+      "multilingual",
+      "poster",
+      "midcentury",
+      "sharp"
+    ],
+    "summary": "A display-weight geometric sans by Neil Summerour that replaces the category's typical coldness with sharp terminals and conspicuous angles suited to posters and covers.",
+    "description": "Where most geometric sans families adhere strictly to circle, square and triangle and suffer for it, Grava Display deliberately introduces sharp points and flat-edge departures to give the geometry character. Ten weights from Thin to Ultra each come with obliques, and optional ligatures invoking midcentury modernism add further personality at large sizes. Latin, Cyrillic and Greek are included together as a single purchase, with every character individually spaced across all three scripts.",
+    "foundry_blurb": "Positype describe Grava Display as purposefully quirky and sharp, designed for poster sizes, book and album covers, and websites with a well-defined character. They position it somewhere between playfully self-aware and overtly vintage, noting that flat edges give way to sharp points and geometrical attitude. Optional ligatures in both the normal and Display styles invoke a midcentury modernist and high art feel, and the three scripts — Latin, Cyrillic and Greek — are all packaged together as a single purchase."
+  },
+  {
+    "name": "Halogen Flare Pro",
+    "foundry": "Positype",
+    "url": "https://positype.com/halogen-flare-pro",
+    "designer": "Neil Summerour",
+    "year": 2011,
+    "category": "sans-serif",
+    "subcategory": "extended sans",
+    "classification_notes": "A wide, extended sans-serif with an upright design and oblique rather than true italic, featuring a generous x-height and stylistic flare details that distinguish it from a neutral grotesque or geometric.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Halogen Flare Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "extended",
+      "sans-serif",
+      "oblique",
+      "stylistic",
+      "multilingual",
+      "display",
+      "text"
+    ],
+    "summary": "An extended sans-serif originally released in 2011 and remastered in 2024, adding Cyrillic and Greek support across seven weights with obliques.",
+    "description": "Halogen Flare Pro is the 2024 remaster of Neil Summerour's extended sans-serif from 2011, which set out to combine a generous x-height and broad character set with visual character rather than plain utility. The Pro edition expands script coverage to include Cyrillic and Greek across 42 styles, and adds OpenType features including small caps, oldstyle numerals, fractions and stylistic alternates. With 343 supported languages and over 700 glyphs per style, it suits both display and extended text settings.",
+    "foundry_blurb": "Positype describe Halogen Flare Pro as a remastered evolution of the original Halogen, which debuted in 2011 as a departure from conventional extended sans-serifs, prioritising style alongside a comprehensive character set. The Pro update expands the family with Cyrillic and Greek script support, a new Halogen Soft variant, extended language coverage across 343 languages, and a full suite of OpenType features including small caps, alternate sets and multiple numeral styles."
+  },
+  {
+    "name": "Halogen Soft Pro",
+    "foundry": "Positype",
+    "url": "https://positype.com/halogen-soft-pro",
+    "designer": "Neil Summerour",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "An extended geometric sans with a generous x-height, offered in oblique rather than true italic cuts, with a softened variant aesthetic that distinguishes it from harder-edged geometric predecessors in the Halogen family.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Halogen Soft Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "extended",
+      "oblique",
+      "multilingual",
+      "opentype",
+      "versatile",
+      "soft",
+      "sans-serif"
+    ],
+    "summary": "A softened, remastered edition of Neil Summerour's 2011 Halogen, expanded in 2023 with Cyrillic and Greek support across 42 styles.",
+    "description": "Originating from Summerour's 2011 Halogen release, this Pro variant introduces a softer aesthetic while retaining the generous x-height and extended character set of the original family. Seven weights from Hairline to Black each carry an oblique companion, and OpenType features include small caps, oldstyle and tabular numerals, swash alternates and fractions. Script coverage spans Latin, Cyrillic and Greek, with language support claimed across 343 languages.",
+    "foundry_blurb": "Positype describe Halogen Soft Pro as a remastered 2024 update to the original Halogen, which debuted in 2011 as a departure from conventional extended sans-serifs in favour of style and swagger. The Pro release expands script support to include Cyrillic and Greek, adds the new Soft variant with a refined aesthetic, and delivers an extensive OpenType feature set including multiple alternate sets, small caps and a wide range of numeral styles."
+  },
+  {
+    "name": "Halogen Slab Pro",
+    "foundry": "Positype",
+    "url": "https://positype.com/halogen-slab-pro",
+    "designer": "Neil Summerour",
+    "year": 2011,
+    "category": "slab",
+    "subcategory": "geometric slab serif",
+    "classification_notes": "A slab serif with oblique rather than italic companions and a generous x-height, sitting within the geometric slab tradition. The squared serifs and extended weight range place it firmly in this subcategory.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Halogen Slab Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "geometric",
+      "oblique",
+      "extended-weights",
+      "multilingual",
+      "display",
+      "text",
+      "remastered"
+    ],
+    "summary": "A slab serif originally released in 2011 and remastered in 2024, offering seven weights with obliques and expanded Cyrillic and Greek script support.",
+    "description": "First released by Neil Summerour in 2011, Halogen Slab Pro is the remastered edition of the slab variant from the Halogen family, updated with Cyrillic and Greek coverage alongside an extended character set. Forty-two styles span seven weights from Hairline to Black, each paired with an oblique, and the family includes OpenType features such as small caps, oldstyle numerals, fractions and case-sensitive forms. The generous x-height and broad language support across 343 languages make it suitable for both display and extended text settings.",
+    "foundry_blurb": "Positype describe Halogen Slab Pro as a 2024 remaster of the original 2011 typeface, expanding on its character set and adding Cyrillic and Greek script support. The original Halogen was designed to move beyond mere utilitarianism, combining style with a comprehensive character set and generous x-height. The Pro edition includes lowercase and small caps, multiple alternate sets and an extensive numeral selection across all 42 styles."
+  },
+  {
+    "name": "Huai",
+    "foundry": "Positype",
+    "url": "https://positype.com/huai",
+    "designer": "Potch Auacherdkul",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Huai's Latin letterforms are derived from vernacular Thai handwritten strokes, producing a warm, humanist sans with organic, fluid proportions rather than the neutral geometry of a grotesque or geometric sans.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Huai",
+      "Huai Thai"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Thai"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "thai",
+      "bilingual",
+      "vernacular",
+      "warm",
+      "expressive",
+      "cultural"
+    ],
+    "summary": "A bilingual Latin and Thai sans whose Latin forms are derived from vernacular Thai handwriting, reversing the usual direction of cross-script influence.",
+    "description": "Designed by Potch Auacherdkul and released in 2020, Huai inverts the common pattern of Thai typefaces borrowing from Latin sans serifs by instead letting Thai vernacular letterforms, specifically the fluid strokes of Bangkok street signage, shape its Latin companion. The family spans six weights from ExtraLight to Black, each with a matching italic, across 24 styles total. Named after the Thai lottery ritual, the typeface carries that cultural specificity into its letter architecture without reducing it to surface ornament.",
+    "foundry_blurb": "Positype describe Huai as the first professional typeface release by Potch Auacherdkul, born from research into the duality of influence between handwritten vernacular Thai lettering and Latin typefaces. Where most Thai Loopless typefaces have become increasingly Latin in character, Huai turns the question around, asking what the Latin script would look like if Thai vernacular writing had influenced it instead. The result is a warm, expressive typeface that retains the human hand and the cultural logic that produced it."
+  },
+  {
+    "name": "Kagawa",
+    "foundry": "Positype",
+    "url": "https://positype.com/kagawa",
+    "designer": "Neil Summerour",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The specimen text describes soft stroke terminations and gentle letterforms, suggesting a humanist rather than geometric or grotesque approach. The family covers both Latin and Japanese writing systems with variable weight support.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kagawa"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Japanese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "japanese",
+      "variable",
+      "multilingual",
+      "text",
+      "soft",
+      "warmth",
+      "latin-japanese"
+    ],
+    "summary": "A nine-weight Latin and Japanese typeface by Neil Summerour, shaped by the landscape and culture of Kagawa Prefecture, with full JIS X 0208 kanji coverage and a variable font axis.",
+    "description": "Drawn in tribute to Kagawa Prefecture in Japan, the design carries soft stroke terminations and gentle letterforms that reflect the region's character. The Japanese offering covers all 6,707 kanji at JIS X 0208 Level 1 and Level 2, with vertical typesetting features, halt and palt punctuation spacing, and proportional kana widths, meeting the standard expected by Japanese typographers. Nine static weights and a variable font spanning the full weight axis make it workable across editorial, body and display settings in both scripts.",
+    "foundry_blurb": "Positype describe Kagawa as a love letter to Kagawa Prefecture, with soft stroke terminations reflecting the warmth of its people, a texture that remains inviting at every weight, and letterforms that echo the quiet beauty of the Seto Inland Sea, the granite quarries of Murecho, and the forested hillsides above Takamatsu. The Japanese offering is built to domestic foundry standards, with full JIS X 0208 Level 1 and 2 coverage, vertical typesetting features, and contextual spacing features."
+  }
+]

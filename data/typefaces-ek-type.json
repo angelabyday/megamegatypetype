@@ -1,36 +1,585 @@
 [
   {
-    "name": "Ek Kannada",
+    "name": "Gotu",
     "foundry": "EK Type",
-    "url": "https://ektype.in/fonts/EULA.txt",
+    "url": "https://ektype.in/gotu-family.html",
     "designer": null,
     "year": null,
     "category": "serif",
-    "subcategory": "Kannada script",
-    "classification_notes": "The page is an EULA document for Ek Kannada, a font for the Kannada script published by EK Type; no stylistic detail is available to determine a more specific subcategory beyond its script system.",
-    "weights": [],
+    "subcategory": "high-contrast calligraphic",
+    "classification_notes": "Gotu is a high-contrast, calligraphically-driven design with a modulated stress and sans serifs on the Latin side, paired with an expressive Devanagari drawn with a canted nib. The calligraphic origins and stroke contrast place it closest to a display serif category, though the Latin omits serifs entirely.",
+    "weights": [
+      "Regular"
+    ],
     "optical_sizes_or_widths": [
       "standard"
     ],
     "subfamilies": [
-      "Ek Kannada"
+      "Gotu"
     ],
     "has_condensed": false,
     "has_italic": false,
     "has_mono": false,
     "languages": [
-      "Kannada"
+      "Latin",
+      "Devanagari"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "calligraphic",
+      "devanagari",
+      "high-contrast",
+      "display",
+      "open-source",
+      "bilingual",
+      "expressive",
+      "libre"
+    ],
+    "summary": "A calligraphically expressive typeface pairing a canted-nib Devanagari with a modulated, serifless Latin that retains strong stroke contrast and typographic idiosyncrasy.",
+    "description": "Gotu draws from traditional Devanagari calligraphy while breaking from its structural conventions, producing swooping forms that feel lyrical without tipping into excess. The companion Latin is a modulated sans with a clear calligraphic stress and deliberate quirks that give it personality beyond mere neutrality. Available as a single weight under the SIL Open Font Licence, it suits display settings from editorial headlines and invitations to brand identities that need a distinctive bilingual voice.",
+    "foundry_blurb": "EK Type describe Gotu as reimagining Devanagari calligraphy while reinterpreting what high-contrast Latin typefaces can be. The Devanagari is drawn with a traditional canted nib but improvised with expressive whim that challenges structural conventions, while the Latin is a modulated, serifless design that retains calligraphic stress alongside delicate typographic quirks. They suggest it suits monographs, headlines, invitations and brand work."
+  },
+  {
+    "name": "Baloo 2 Family",
+    "foundry": "EK Type",
+    "url": "https://ektype.in/baloo-family.html",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Baloo 2 is a spurless, heavy-leaning display design with a playful, rounded character; while it spans multiple weights including lighter text sizes, its defining personality is expressive and decorative rather than neutral, placing it firmly in the display category.",
+    "weights": [
+      "Book",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Baloo 2",
+      "Baloo Bhai 2",
+      "Baloo Chettan 2",
+      "Baloo Thambi 2",
+      "Baloo Tamma 2",
+      "Baloo Bhaina 2",
+      "Baloo Paaji 2",
+      "Baloo Tammudu 2",
+      "Baloo Da 2"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari",
+      "Gujarati",
+      "Malayalam",
+      "Tamil",
+      "Telugu",
+      "Kannada",
+      "Gurmukhi",
+      "Odia",
+      "Bangla"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "display",
+      "multiscript",
+      "playful",
+      "rounded",
+      "spurless",
+      "indic",
+      "open-source",
+      "friendly"
+    ],
+    "summary": "A spurless, rounded display family covering Latin and ten Indic scripts across five weights, designed to carry warmth from headline to body copy.",
+    "description": "Baloo 2 extends the original Baloo into a five-weight family running from Book to Heavy, allowing the design's characteristic bounce to operate at smaller sizes without losing its personality. Each weight is drawn across eleven scripts including Devanagari, Gurmukhi, Bangla, Odia, Gujarati, Kannada, Telugu, Malayalam, Tamil and Latin, making it one of the more expansive libre multiscript families available. The lighter weights pull the design into running text territory while the heavier cuts remain suited to headlines and packaging.",
+    "foundry_blurb": "EK Type describe Baloo as a blend of pointy paws and subtle playfulness with all the bare necessities of type, noting its earlier praise for its jovial nature and multiscript scope. The updated family introduces five weights from Book to Heavy, enabling the design to work across short headlines and longer bodies of text, with all weights covering eleven scripts. Most fonts in the Baloo family are libre licensed, with source files available on GitHub."
+  },
+  {
+    "name": "Anek Family",
+    "foundry": "EK Type",
+    "url": "https://ektype.in/anek-family.html",
+    "designer": "Maithili Shingre, Yesha Goshar, Kailash Malviya, Aadarsh Rajan, Sulekha Rajkumar, Vaishnavi Murthy, Omkar Bhoir, Mrunmayee Ghaisas, Mahesh Sahu, Sarang Kulkarni",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Anek is a contemporary sans-serif with geometric tendencies, sharp terminals, and tapered joineries, designed across ten Indian and Latin scripts with a broad variable font axis spanning weight and width.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "SemiCondensed",
+      "Regular",
+      "SemiExpanded",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Anek Latin",
+      "Anek Devanagari",
+      "Anek Gujarati",
+      "Anek Malayalam",
+      "Anek Tamil",
+      "Anek Telugu",
+      "Anek Kannada",
+      "Anek Gurmukhi",
+      "Anek Odia",
+      "Anek Bangla"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari",
+      "Gujarati",
+      "Malayalam",
+      "Tamil",
+      "Telugu",
+      "Kannada",
+      "Gurmukhi",
+      "Odia",
+      "Bangla"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "multiscript",
+      "variable",
+      "indian-scripts",
+      "geometric",
+      "display",
+      "headline",
+      "open-source",
+      "contemporary"
+    ],
+    "summary": "A collaborative variable font family spanning ten Indian scripts and Latin, designed by a collective of type designers at EK Type in Mumbai.",
+    "description": "Each of the ten sub-families covers a distinct script — from Bangla and Devanagari to Gurmukhi and Odia — while sharing a visual grammar of sharp terminals and tapered joineries that holds across scripts. Two variable axes covering weight and width yield 40 interpolatable styles per script, stretching from compact capsular forms at the condensed extreme to broad, open letterforms at the wide end. The bold, condensed end of the design space is particularly suited to headlines and wordmarks, while the middle range functions quietly as text.",
+    "foundry_blurb": "EK Type describe Anek as an exercise in multiplicity — multiple scripts, weights, and widths by multiple designers, built with variable font technology to meet the demands of the modern multiscript age. Each script draws from its own typographic culture and the perspective of its individual designer, yet the ten scripts cohabit the page in visual harmony. The project was collaboratively designed, engineered, and maintained by EK Type, a collective of type designers based in Mumbai focused on contemporary Indian typefaces."
+  },
+  {
+    "name": "Kodai",
+    "foundry": "EK Type",
+    "url": "https://ektype.in/kodai-family.html",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Kodai is explicitly described as a display typeface with a narrow, bottom-heavy construction and bold personality suited to titles and posters, placing it firmly in the display category with a sans-serif structure.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kodai Tamil",
+      "Kodai Latin"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Tamil",
+      "Latin"
     ],
     "tier": "okay",
     "type": "foundry",
     "tags": [
-      "kannada",
-      "indic",
-      "regional",
-      "south-indian"
+      "display",
+      "narrow",
+      "tamil",
+      "latin",
+      "playful",
+      "packaging",
+      "poster",
+      "variable"
     ],
-    "summary": "A Kannada script typeface published by EK Type, available under a single-user commercial licence.",
-    "description": "Ek Kannada is released by Mumbai-based EK Type, a foundry with a strong focus on Indic scripts. The licence permits installation on a single device, with separate licences required for web, app, broadcast and multi-user use. No stylistic or weight information is presented on this page, which contains only the end-user licence agreement.",
-    "foundry_blurb": "EK Type's EULA for Ek Kannada grants a non-exclusive, single-user licence to install and use the font on one device, with provisions covering intellectual property ownership, embedding restrictions, third-party use, and termination, all governed by the laws of India with jurisdiction in Mumbai."
+    "summary": "A narrow, bottom-heavy display typeface covering Tamil and Latin scripts, with a variable weight axis running from a crisp Black to a leaner Regular.",
+    "description": "Designed for titles, posters and brand identities, Kodai carries a jolly, summery character across five weights with a single upright style. The family comes in two subfamilies, one for Tamil and one for Latin, sharing the same narrow proportions and pronounced bottom weight. Its variable axis allows smooth transitions between weights, making it suited to packaging, entertainment branding, food and games where a bold, playful voice is needed.",
+    "foundry_blurb": "EK Type describe Kodai as a summery, beachy display typeface for Tamil and Latin, narrow and bottom-heavy like a tall cool drink with a sharp bite. They note its variable weight axis runs from a crisp, juicy Black to a Regular that squeezes out the weight but keeps the spirit, and suggest it for titles, posters, publications, brand identities and packaging across entertainment, food, music and games."
+  },
+  {
+    "name": "Honk",
+    "foundry": "EK Type",
+    "url": "https://ektype.in/honk-family.html",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "variable colour font",
+    "classification_notes": "Honk is a display typeface built on COLRv1 colour font technology with variable axes, drawing from the exuberant hand-lettering tradition of Indian truck art. Its modular system of ten styles, shadows and palettes places it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Honk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "display",
+      "colour-font",
+      "variable",
+      "indian-truck-art",
+      "decorative",
+      "modular",
+      "ornate",
+      "expressive"
+    ],
+    "summary": "A variable COLRv1 colour font drawn from the bold hand-lettering of Indian trucks, offered in a modular system of ten styles with multiple shadow and colour palette options.",
+    "description": "Inspired by the riotous lettering seen on Indian trucks, Honk uses COLRv1 colour font technology and a variable axis to shift dynamically between restrained and heavily ornamented forms. Its ten distinct styles, shadow variants and colour palettes are built on a modular system, allowing anything from a relatively simple treatment to something brazenly decorative. Released as a free and open-source font, with source files available on GitHub.",
+    "foundry_blurb": "EK Type describe Honk as loud, bright and exuberantly fun — a digital interpretation of the bold and boisterous lettering found on Indian trucks. They frame it as a modular system with ten styles, shadows and colour palettes, calling it an embodiment of India's colourful complexity that oscillates between simple and subtle to over-the-top and ornate, using COLRv1 technology."
+  },
+  {
+    "name": "Jaini Family",
+    "foundry": "EK Type",
+    "url": "https://ektype.in/jaini-family.html",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "calligraphic display",
+    "classification_notes": "Rooted in the calligraphic hand of 15th-century Jain Kalpasūtra manuscripts, Jaini is a display script revival with strong historical reference rather than a neutral text face; classified as display due to its manuscript-derived decorative forms and single weight offering.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Jaini",
+      "Jaini Purva"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "devanagari",
+      "manuscript",
+      "calligraphic",
+      "jain",
+      "historical-revival",
+      "libre",
+      "open-source",
+      "display"
+    ],
+    "summary": "A Devanagari display typeface drawn from the calligraphic hand of a 1503 Jain Kalpasūtra manuscript, available in two conjunct styles.",
+    "description": "Jainī draws its forms from a 1503 Kalpasūtra manuscript, preserving distinctive features such as disconnected śirōrēkhā with triangular wedges, squarish letterforms with large kānā-height, heavy knots and integrated lower mātrās. Two separate fonts split the family: Jaini uses horizontal conjuncts and Jaini Purva uses vertical conjuncts, allowing typographers to choose the appropriate joining style for their context. Both cover Latin and Devanagari and are freely available under the SIL Open Font Licence 1.1.",
+    "foundry_blurb": "EK Type describe Jainī as a Devanāgarī typeface based on the calligraphic style of Jain Kalpasūtra manuscripts, specifically the 1503 Kalpasūtra. They note several features not found in standard Bāḻabodha script, including disconnected śirōrēkhā, short upper mātrās and lower mātrās integrated within the kānā height. Because the original letter-shapes are unfamiliar to contemporary readers, they have been redesigned alongside Latin numbers and punctuation. The family is libre and licensed under SIL OFL 1.1, with source files available on GitHub."
+  },
+  {
+    "name": "Mangosteen",
+    "foundry": "EK Type",
+    "url": "https://ektype.in/mangosteen-family.html",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "high-contrast display",
+    "classification_notes": "A high-contrast display typeface with intersecting lines, motifs and borders, designed explicitly for decorative and expressive use rather than extended text setting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mangosteen",
+      "Mangosteen Devanagari"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari",
+      "Malayalam"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "decorative",
+      "indian",
+      "kolam",
+      "motifs",
+      "editorial",
+      "poster"
+    ],
+    "summary": "A high-contrast display typeface drawing on intersecting lines, Kolam patterns and the forms of twisted mango leaves for decorative and editorial use.",
+    "description": "Rounded curves give the design warmth and approachability, while the twist in its contours introduces an unconventional contrast that keeps it lively. Added motifs and borders extend its range to magazine pages, romantic film posters, brand identities and printed invitations. Available in Latin, Devanagari and Malayalam, it reflects EK Type's focus on multilingual South Asian type design.",
+    "foundry_blurb": "EK Type describe Mangosteen as a lyrical display typeface built from intersecting lines that evoke ripples in water, twisted mango leaves and the patterns of Kolam. They say its rounded curves bring comfort and cosiness, while the twist in its contours adds a lively bounce and unconventional contrast, making it suited to local brands, magazine pages, romantic movie posters and cards."
+  },
+  {
+    "name": "Modak",
+    "foundry": "EK Type",
+    "url": "https://ektype.in/modak-family.html",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "Modak is explicitly described as a display typeface, designed around very heavy, portly letterforms with thin counters and merging curves, making it unsuitable for text use and firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Modak Latin",
+      "Modak Devanagari"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "display",
+      "devanagari",
+      "heavy",
+      "libre",
+      "multiscript",
+      "fat-face",
+      "open-source"
+    ],
+    "summary": "A single-weight Devanagari and Latin display typeface built around extremely heavy, plump letterforms with thin counters and deliberately merging curves.",
+    "description": "Originally conceived as a hand-sketched lettering experiment exploring legibility at extreme weights in Devanagari, Modak evolved into a full typeface where curves merge into one another to create distinctive counter shapes. Overlapping vowel signs are treated as single drawn entities rather than composites, and every conjunct was individually resolved to maintain consistency across a structurally complex script. EK Type describe it as likely the chubbiest Devanagari typeface designed to date, and it is available as a libre-licensed font with source files on GitHub.",
+    "foundry_blurb": "EK Type describe Modak as a Devanagari and Latin display typeface characterised by portly curves and thin counters, born from a hand-sketched experiment testing the limits of very heavy yet legible Devanagari letterforms. Plump characters whose curves merge into each other form distinct counter shapes, and the overlapping vowel signs are unique to Modak, with each conjunct drawn as a single entity rather than a composite. The font is freely licensed and source files are available on GitHub."
+  },
+  {
+    "name": "Mukta Family",
+    "foundry": "EK Type",
+    "url": "https://ektype.in/font-mukta-family.html",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Mukta is a multi-script sans-serif designed around a shared visual grammar across Indic and Latin scripts, with humanist proportions suited to text use across diverse writing systems.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mukta",
+      "Mukta Vaani",
+      "Mukta Malar",
+      "Mukta Mahee",
+      "Ek Kannada",
+      "Ek Odia"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari",
+      "Gujarati",
+      "Tamil",
+      "Gurmukhi",
+      "Kannada",
+      "Odia"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "multi-script",
+      "indic",
+      "devanagari",
+      "gujarati",
+      "tamil",
+      "gurmukhi",
+      "open-source",
+      "text"
+    ],
+    "summary": "A free, multi-script type family spanning Devanagari, Gujarati, Tamil, Gurmukhi, Kannada, Odia and Latin, built on a shared visual grammar that keeps each script distinct.",
+    "description": "Part of EK Type's ongoing Ek Multi Script project, Mukta establishes a common visual language across seven Indic scripts and Latin without allowing any one script's conventions to dominate. Each subfamily — Mukta, Mukta Vaani, Mukta Malar and Mukta Mahee — pairs a specific Indic script with Latin and runs across seven weights. The libre-licensed fonts have seen real-world use in environments demanding legibility at scale, including Mumbai Airport signage and Facebook India.",
+    "foundry_blurb": "EK Type describe Mukta as part of their Ek Multi Script project, an ongoing effort to build a unified type family across all Indic scripts in which different scripts share a common visual grammar while retaining their own distinct identities. The fonts are designed to work both individually and in multilingual combinations, and the libre-licensed versions of Ek Devanagari, Ek Gujarati, Ek Tamil, Ek Gurmukhi and Ek Latin are available as open source via GitHub."
+  },
+  {
+    "name": "Vilom",
+    "foundry": "EK Type",
+    "url": "https://ektype.in/vilom-family.html",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental display",
+    "classification_notes": "Vilom is a display typeface that uses geometric abstraction — solid rectangles, circles and thin lines — to render Devanagari script, departing from traditional letterform conventions in favour of a modernist visual language.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vilom"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Devanagari"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "devanagari",
+      "experimental",
+      "geometric",
+      "modernist",
+      "display",
+      "abstract",
+      "single-weight"
+    ],
+    "summary": "A single-weight experimental Devanagari display typeface that balances geometric abstraction with legibility, rooted in a commission for an Indian modern art publication.",
+    "description": "Developed from lettering created for Drukchintan, a book of essays on modern Indian and international artists, Vilom pushes Devanagari script into modernist territory. Solid rectangles and circles dominate the dandas and bindus whilst thin strokes define the remaining character shapes, creating a deliberate tension between abstraction and readability. Available in one weight and one style, it is built for display contexts where formal experimentation is the point.",
+    "foundry_blurb": "EK Type describe Vilom as an extension of lettering originally designed for Drukchintan, a compilation of essays on modern artists from India and the world. In the spirit of modern art, the typeface breaks from tradition and experiments with the visual form of Devanagari, with solid rectangles and circles dominating the dandas and bindus while thin lines define character shapes, striking a balance between abstraction and legibility."
+  },
+  {
+    "name": "Nithya Ranjana",
+    "foundry": "EK Type",
+    "url": "https://ektype.in/nithya-ranjana-family.html",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "calligraphic script revival",
+    "classification_notes": "Nithya Ranjana is based on the historical Ranjana calligraphic script, a complex South Asian writing system used for Sanskrit and Nepal Bhasa. Its origins in manuscript calligraphy and stone inscription place it firmly in display and calligraphic script territory rather than a standard text category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nithya Ranjana DU",
+      "Nithya Ranjana NU"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Devanagari",
+      "Newa"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "calligraphic",
+      "ranjana",
+      "devanagari",
+      "newa",
+      "sanskrit",
+      "historic",
+      "buddhist",
+      "open-source"
+    ],
+    "summary": "A digital revival of the Ranjana script, one of South Asia's most complex calligraphic writing systems, offered in both Devanagari and Newa Unicode versions.",
+    "description": "Ranjana originated between the 8th and 11th centuries and has been used to write Sanskrit and Nepal Bhasa, particularly in Buddhist and Hindu contexts and among the Newar people of the Kathmandu valley. Despite a rich legacy in manuscript calligraphy, stone inscriptions, wood engravings and paintings, the script had minimal digital representation owing to its structural complexity and limited Unicode support. Nithya Ranjana addresses this gap through two versions: one mapped to Devanagari Unicode (DU) and one to Newa Unicode (NU), making the script accessible for contemporary digital use.",
+    "foundry_blurb": "EK Type describe Nithya Ranjana as a typeface based on the calligraphic Ranjana script, which originated between the 8th and 11th centuries in South Asia and is used to write Sanskrit and Nepal Bhasa. They note its use in Buddhist and Hindu texts and its cultural significance to the Newar people of Nepal, and highlight that limited digital representation due to complexity and lack of Unicode support motivated the project. The typeface is free and open source, available in two versions: Nithya Ranjana DU (Devanagari Unicode) and Nithya Ranjana NU (Newa Unicode)."
+  },
+  {
+    "name": "Sama Family",
+    "foundry": "EK Type",
+    "url": "https://ektype.in/sama-family.html",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Sama is described as a mono-linear typeface with rounded terminals, placing it firmly in the geometric sans-serif tradition; its even stroke weight and circular forms define the subcategory.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sama Latin",
+      "Sama Devanagari",
+      "Sama Gujarati",
+      "Sama Malayalam",
+      "Sama Kannada",
+      "Sama Gurmukhi",
+      "Sama Tamil",
+      "Sama Telugu",
+      "Sama Odia"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Devanagari",
+      "Gujarati",
+      "Malayalam",
+      "Kannada",
+      "Gurmukhi",
+      "Tamil",
+      "Telugu",
+      "Odia"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "mono-linear",
+      "rounded",
+      "multilingual",
+      "indic",
+      "pan-indian",
+      "editorial",
+      "friendly"
+    ],
+    "summary": "A mono-linear sans with rounded terminals spanning nine Indic scripts alongside Latin, built with genial curves that give lighter weights an airy quality and heavier ones a lively bounce.",
+    "description": "Sama covers Latin, Devanagari, Gujarati, Malayalam, Kannada, Gurmukhi, Tamil, Telugu and Odia, each sub-family running across six weights with a consistent mono-linear structure and rounded terminals. Closed counters are offset by subtly billowing curves that prevent the design from feeling rigid, lending lighter settings a sense of weightlessness and heavier weights a youthful energy. The name means natural ambience in Hindi, and the typeface is positioned as an approachable, versatile choice wherever consistent cross-script typography is required.",
+    "foundry_blurb": "EK Type describe Sama as an unassuming mono-linear typeface with rounded terminals, distinguished from a saturated genre by genial curves that gently billow its forms. In lighter weights these gestures give each page a certain weightlessness; as the weight increases, the features bounce with a youthful verve. The name Sama means natural ambience in Hindi, and the family is intended as an amiable space for messaging across any of its nine supported scripts."
   }
 ]

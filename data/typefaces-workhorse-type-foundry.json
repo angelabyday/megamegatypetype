@@ -1,0 +1,1273 @@
+[
+  {
+    "name": "Resources",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/resources",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "grotesque",
+    "classification_notes": "The page does not describe a typeface; it is a resources/articles index page with no typeface product information present.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Resources"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "resources",
+      "articles",
+      "typography",
+      "design"
+    ],
+    "summary": "This page is a resources index listing articles on type and design, not a typeface product page.",
+    "description": "The URL provided points to a resources section of the Workhorse Type Foundry website, containing editorial articles on topics such as drawing curves, optical weighting, type hierarchy and kerning. No specific typeface is presented or described on this page. No font metadata can be extracted.",
+    "foundry_blurb": "Workhorse Type Foundry's resources page collects short articles on type and design craft, covering subjects including drawing good curves, optical weighting for visual consistency, generating typographic systems and the rationale behind kerning."
+  },
+  {
+    "name": "Test Fonts",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/test-fonts",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The page does not describe a specific typeface; it is a trial font download page for the entire Workhorse Type Foundry retail catalogue. No category can be reliably assigned.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Test Fonts"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "trial",
+      "specimen",
+      "download",
+      "workhorse"
+    ],
+    "summary": "A bundled trial font package offering limited-character versions of all Workhorse Type Foundry retail fonts for design mockups.",
+    "description": "The package provides OTF and WOFF2 trial files covering the full Workhorse retail catalogue in a single 7.6MB download. Character sets are restricted, making the fonts suitable for print, web and app mockups rather than production use. Access requires agreeing to the Test Font Licence Agreement and providing an email address.",
+    "foundry_blurb": "Workhorse offer a single download containing trial versions of all their retail fonts, intended for mocking up print, web and app designs. Files are provided in OTF and WOFF2 formats with a limited character set, and the package weighs in at 7.6MB."
+  },
+  {
+    "name": "Custom Type",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/custom-type",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "custom lettering",
+    "classification_notes": "This page covers custom typeface and logotype commissions rather than a retail typeface; categorised as display given the bespoke, brand-driven nature of the work shown.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Custom Type"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "custom",
+      "bespoke",
+      "logotype",
+      "brand",
+      "commissioned",
+      "lettering"
+    ],
+    "summary": "A custom type and logotype service from Workhorse Type Foundry, offering original typeface design, logo refinement and modifications to existing Workhorse typefaces for studios and brands.",
+    "description": "Rather than a retail release, this is a commission service covering everything from logotype concept development to fully original typeface design. Work is shown in collaboration with studios including Cantrell Studio, Modern Haven and Satellite Office, across projects such as Freedom Reads, Bookshelf Display and Forma. Pricing is tiered from small modifications starting at $2,000 through to fully custom typeface commissions quoted on request.",
+    "foundry_blurb": "Workhorse Type Foundry offers custom typeface and logotype work for brands and studios, spanning logo refinement, small-size optimisation, modifications to existing Workhorse typefaces, and fully original typeface design. Some custom fonts may be available for licensing on request."
+  },
+  {
+    "name": "Workhorse Saboneta",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-saboneta",
+    "designer": "Kevin Cantrell & Adrian Kimball",
+    "year": 2024,
+    "category": "blackletter",
+    "subcategory": "calligraphic blackletter",
+    "classification_notes": "Saboneta is explicitly described as a blackletter typeface drawing on calligraphic manuscript traditions, with a contemporary variable font approach spanning eight weights.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Workhorse Saboneta"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "calligraphic",
+      "variable",
+      "historical",
+      "manuscript",
+      "display",
+      "opentype-rich"
+    ],
+    "summary": "A variable blackletter spanning eight weights from Thin to Black, with swash capitals, small caps and three stylistic sets rooted in calligraphic manuscript tradition.",
+    "description": "Designed by Kevin Cantrell and Adrian Kimball in 2024, Saboneta extends the blackletter genre across an unusually broad weight range, giving designers access to both delicate and heavy cuts within a single variable font file. Alternate capital styles, swash figures and small caps draw on the illuminated letters of historical manuscripts while keeping the forms digitally precise. With 481 glyphs and support for over 220 languages, it covers a wider typographic scope than most blackletter releases.",
+    "foundry_blurb": "Workhorse describe Saboneta as a new renaissance of blacklettering that combines classicism with technology, inspired by the calligraphic work of devout masters from the age of mystical folklore. The full weight range brings out a spectrum of character and utility rarely found in blackletter typefaces, and the elaborate illuminated capitals of historical manuscripts are re-envisioned through three capital styles and small caps."
+  },
+  {
+    "name": "Workhorse Gothic No.1",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-gothic-1",
+    "designer": "Adrian Kimball",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "gothic",
+    "classification_notes": "A sans-serif in the American gothic wood type tradition, drawing on the irregular proportions and idiosyncratic contrast of 19th-century wood type foundries rather than any modernist or humanist lineage.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Semibold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Workhorse Gothic No.1"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "gothic",
+      "wood-type",
+      "variable",
+      "american",
+      "display",
+      "oblique",
+      "condensed",
+      "vernacular"
+    ],
+    "summary": "A variable sans-serif in 54 styles that draws on the quirky proportions and irregular contrast of 19th-century American wood type.",
+    "description": "Designed by Adrian Kimball in 2024, the family spans nine weights from Hairline to Ultra across two widths, with regular, oblique and reverse oblique cuts in each. Three stylistic sets offer alternate characters including a horizontal-emphasis R, T and Y, a modernist ampersand and a classic G. The foundry cites the idiosyncratic weight placement and strange proportions that distinguished individual wood type foundries as the design's primary reference point.",
+    "foundry_blurb": "Workhorse describe the typeface as a celebration of the \"adorable wonky weirdness\" of wood type, noting that wood type drawers were often a mix of several similar faces from different foundries, each with their own odd take on proportions, contrast and tapering. The family covers 220 or more languages across 544 glyphs and is available as a variable font with weight, italic and width axes."
+  },
+  {
+    "name": "Workhorse Gothic No.2",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-gothic-2",
+    "designer": "Adrian Kimball",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A wood-type-inspired grotesque sans with deliberately quirky proportions, contrast and weight placement drawn from the idiosyncrasies of nineteenth-century wood type foundries.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Semibold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Workhorse Gothic No.2"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "wood-type",
+      "variable",
+      "condensed",
+      "oblique",
+      "display",
+      "expressive",
+      "historical"
+    ],
+    "summary": "A variable grotesque in 54 styles drawn from the wonky proportions and oddities of nineteenth-century wood type.",
+    "description": "Inspired by the idiosyncratic weight placement, contrast and strange proportions that characterised competing wood type foundries, this family stretches across nine weights from Hairline to Ultra in both regular and condensed widths. Each weight comes in upright, oblique and reverse-oblique cuts, and the whole family ships as a variable font with weight, width and italic axes. Three stylistic sets offer alternate characters including a modernist ampersand, a classic G and horizontally emphasised R, T and Y.",
+    "foundry_blurb": "Workhorse describe the typeface as a celebration of the adorable wonky weirdness of wood type, citing the odd proportions, strange contrast and tapering, and the mixed-foundry chaos of a wood type drawer as the spirit behind the design. Designed by Adrian Kimball in 2024, it covers 220-plus languages across 544 glyphs and 54 styles."
+  },
+  {
+    "name": "Workhorse Empire Fold",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-empire-fold",
+    "designer": "Adrian Kimball",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A geometric all-caps display face derived from the mid-20th century Empire typeface, expanded with a distinctive variable slant axis that creates a folded or bent letterform effect, placing it firmly in the display category.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "condensed",
+      "wide"
+    ],
+    "subfamilies": [
+      "Workhorse Empire Fold"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "variable",
+      "oblique",
+      "folded",
+      "all-caps",
+      "retro-modernist",
+      "kinetic"
+    ],
+    "summary": "A variable-font expansion of the 1940s Empire typeface, adding eight weights, three widths and a distinctive fold-axis that bends letterforms in and out of plane.",
+    "description": "Built on the bones of the original Empire typeface from over 80 years ago, this revival corrects its single-weight limitation and ageing characters while retaining the sleek geometric spirit. The variable slant axis is the headline feature: it controls how much the letterforms appear to bend, which combined with animation yields kinetic typographic effects suited to motion and screen work. Forty styles in total span Hairline through Black across folded, reverse-folded, oblique and upright variants, with 220-plus language support and two stylistic sets for alternate A and K forms.",
+    "foundry_blurb": "Workhorse describe the original Empire typeface as sleek but limited to a single weight and width, with no lowercase or extended character set, and note that while the core concept remains relevant some characters have not aged well. Workhorse Empire embraces the original concept while adding a modern range of weights, widths, obliques and a folded rendition, designed by Adrian Kimball in 2022."
+  },
+  {
+    "name": "Workhorse Empire",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-empire",
+    "designer": "Adrian Kimball",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A geometric display sans with strong vertical stroke uniformity and condensed proportions rooted in the original Empire typeface, placing it firmly in the geometric sans tradition with a display-weight character.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "Regular"
+    ],
+    "subfamilies": [
+      "Workhorse Empire",
+      "Workhorse Empire Condensed",
+      "Workhorse Empire Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "variable",
+      "condensed",
+      "oblique",
+      "vintage-revival",
+      "wide-family",
+      "editorial"
+    ],
+    "summary": "A 72-style revival of the 1940s Empire typeface by Adrian Kimball, extended with weights, widths, obliques and a reverse-oblique cut across a full variable font.",
+    "description": "The original Empire typeface offered only a single weight and width with no lowercase, so Adrian Kimball's 2022 revival rebuilds it from the ground up with eight weights, three widths and three slant variants including a reverse oblique. The family ships as a variable font with weight, italic and width axes, plus three stylistic sets covering an alternate a, uniform k, and simplified g. With 481 glyphs and support for 220 languages, it stretches well beyond the narrow scope of its source material.",
+    "foundry_blurb": "Workhorse describe Empire as originally designed over 80 years ago in a single weight and width with no lowercase or extended character set. Their revival keeps the sleek core concept while adding modern weights, widths, obliques and a folded rendition, resulting in 72 styles across compressed, condensed and regular widths with oblique and reverse oblique slants."
+  },
+  {
+    "name": "Workhorse Thyrus",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-thyrus",
+    "designer": "Kevin Cantrell & Adrian Kimball",
+    "year": 2024,
+    "category": "blackletter",
+    "subcategory": "calligraphic blackletter",
+    "classification_notes": "The page explicitly describes the typeface as a calligraphic blackletter drawing on historical manuscript traditions, with a full weight range and decorative capital styles consistent with the blackletter category.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Workhorse Thyrus"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "calligraphic",
+      "variable",
+      "historical",
+      "display",
+      "decorative",
+      "swash"
+    ],
+    "summary": "A calligraphic blackletter with eight weights and variable font support, designed to bridge historical manuscript traditions with contemporary typographic utility.",
+    "description": "Designed by Kevin Cantrell and Adrian Kimball in 2024, this blackletter draws on the devout calligraphic traditions of illuminated manuscripts and reframes them for modern use. Eight weights from Thin to Black are available as a variable font, giving the family a range of utility unusual for the genre. Three capital styles, small caps, oldstyle and lining figures, swash alternates and stylistic sets including a single-storey 'a', descending 'f' and double-stroke 'zz' add considerable typographic depth.",
+    "foundry_blurb": "Workhorse describe the typeface as a new renaissance of blacklettering, inspired by the calligraphic work of historical manuscript masters and aimed at combining classicism with technology. A full weight range is offered alongside three capital styles and small caps, re-envisioning the elaborate illuminated letters of historical manuscripts. Variable font files are included with each purchase, and the family supports over 220 languages across 481 glyphs."
+  },
+  {
+    "name": "Workhorse Script",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-script",
+    "designer": "Adrian Kimball",
+    "year": 2021,
+    "category": "script",
+    "subcategory": "English Roundhand",
+    "classification_notes": "A formal connected script based on English Roundhand calligraphy as documented in George Bickham's Universal Penman; the cursive letterforms with connection alternates and flourishes firmly place it in the script category.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "Extra Fine",
+      "Fine",
+      "Display",
+      "Text",
+      "Caption",
+      "Micro"
+    ],
+    "subfamilies": [
+      "Workhorse Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "roundhand",
+      "calligraphic",
+      "variable",
+      "optical-sizes",
+      "formal",
+      "cursive",
+      "historical"
+    ],
+    "summary": "A variable script typeface built on English Roundhand calligraphy, with six optical sizes and extensive connection alternates to preserve the fluency of hand-lettered originals.",
+    "description": "Rooted in George Bickham's Universal Penman and the English Roundhand tradition it documented, the design addresses one of the persistent failures of digital script type: the loss of finesse at letter joins. Nearly every lowercase letter carries duplicate variants to handle connections correctly, with four different forms of the lowercase n alone. Six optical sizes run from Extra Fine at 110pt down to Micro at 10pt, where letterforms shed flourishes and gain weight to maintain legibility, all navigable through a single variable font file.",
+    "foundry_blurb": "Workhorse Script draws on the English Roundhand calligraphy showcased in George Bickham's Universal Penman, aiming to be a comprehensive reproduction of the core components of that script tradition. The foundry notes that most script typefaces lose the finesse of hand-lettered originals at connecting letters, so almost every lowercase letter was given duplicate variants to handle joins properly. Six optical sizes from Extra Fine to Micro are included, with the Micro size featuring a higher x-height, heavier weight and simplified flourishes for small-size clarity. The family ships as a variable font with 478 glyphs and support for 220+ languages, designed by Adrian Kimball in 2021."
+  },
+  {
+    "name": "Workhorse Nouveau Stencil",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-nouveau-stencil",
+    "designer": "Adrian Kimball",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "art nouveau stencil",
+    "classification_notes": "A stencil display typeface drawing on Art Nouveau letterform characteristics, with optical sizes and stylistic alternates that allow the decorative influence to be modulated across applications.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Min",
+      "Med",
+      "Max"
+    ],
+    "subfamilies": [
+      "Workhorse Nouveau Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "art-nouveau",
+      "display",
+      "variable",
+      "historical",
+      "decorative",
+      "optical-sizes",
+      "alternates"
+    ],
+    "summary": "A variable stencil typeface by Adrian Kimball that distils Art Nouveau letterform charm into a family with genuine practical range across three optical sizes and eight stylistic sets.",
+    "description": "Designed in 2022, the family spans eight weights across three optical sizes (Min, Med, Max), yielding 19 static styles alongside a variable font covering both weight and optical size axes. Eight stylistic sets allow the amount of Art Nouveau character to be tuned per application, from subtle references in the G and ampersand to more pronounced angled stroke treatments. With 512 glyphs and coverage of 220-plus languages, it covers far more ground than most decorative releases of its kind.",
+    "foundry_blurb": "Workhorse describe Art Nouveau typefaces as typically heavy-handed and dated, but note the era's letterforms possess an undeniable charm and unique flow. Workhorse Nouveau Stencil is their attempt to channel that grace into something more broadly useful, with a stylistic alternate palette that lets designers dial the Art Nouveau influence up or down depending on the application."
+  },
+  {
+    "name": "Workhorse Nouveau",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-nouveau",
+    "designer": "Adrian Kimball",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "art nouveau",
+    "classification_notes": "Designed explicitly as a contemporary take on Art Nouveau letterforms, with decorative alternate characters that dial up or down period-specific traits; its ornamental character and stylistic sets place it firmly in the display category.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Workhorse Nouveau"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "art-nouveau",
+      "display",
+      "variable",
+      "oblique",
+      "decorative",
+      "stylistic-sets",
+      "historic-revival"
+    ],
+    "summary": "A contemporary sans with Art Nouveau characteristics, offering eight weights with obliques and eight stylistic sets to control the degree of period ornamentation.",
+    "description": "Designed by Adrian Kimball in 2022, it draws selectively from Art Nouveau letterform conventions without the full period excess, giving designers a workable balance between decorative character and broader utility. Eight stylistic sets swap in alternate glyphs such as a minimal G, angled B/P/R, crossed W and a classic ampersand, allowing the Art Nouveau flavour to be increased or reduced per application. Supplied as a variable font with weight and italic axes, plus OpenType support for superscript, subscript and case-sensitive forms across more than 220 languages.",
+    "foundry_blurb": "Workhorse describe Workhorse Nouveau as an attempt to take the charm and flow of Art Nouveau typography and pull it into something with genuine practical utility, noting that most historical Art Nouveau typefaces feel dated or even alien. The alternate character palette is central to the design, letting users dial the amount of Art Nouveau influence up or down to suit each context."
+  },
+  {
+    "name": "Workhorse Script Dot",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-script-dot",
+    "designer": "Adrian Kimball",
+    "year": 2022,
+    "category": "script",
+    "subcategory": "display script",
+    "classification_notes": "A decorative script typeface with a single weight, designed for expressive display use rather than functional text setting, placing it firmly in the display script subcategory.",
+    "weights": [
+      "Fine"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Workhorse Script Dot"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "display",
+      "decorative",
+      "extravagant",
+      "variable",
+      "connected-script",
+      "expressive"
+    ],
+    "summary": "A single-weight display script by Adrian Kimball that leans into extravagance over legibility, offered as a variable font with over 220 languages supported.",
+    "description": "Designed in 2022 by Adrian Kimball, this decorative script deliberately distances itself from the functional roots of the script genre in favour of outright showmanship. The family consists of one style, Fine, reflecting the exceptional drawing complexity required per character. With 478 glyphs, discretionary ligatures and language support across 220-plus languages, it is built for attention-grabbing display work rather than running text.",
+    "foundry_blurb": "Workhorse describe Script Dot as an attempt to draw out the extravagant side of script type, leaving its functional origins behind. Designed by Adrian Kimball in 2022, the foundry note that no one strictly needs the typeface but, like Katy Perry, it is fun and impossible to ignore. One weight exists because each character demanded an exceptional amount of drawing work."
+  },
+  {
+    "name": "Workhorse Script Stencil",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-script-stencil",
+    "designer": "Adrian Kimball",
+    "year": 2021,
+    "category": "script",
+    "subcategory": "stencil script",
+    "classification_notes": "Based on English Roundhand, a formal cursive tradition, but rendered as a stencil form. The stencil interruptions give it an industrial character that sits at the intersection of script and display.",
+    "weights": [
+      "Extra Fine",
+      "Fine",
+      "Display",
+      "Text",
+      "Caption",
+      "Micro"
+    ],
+    "optical_sizes_or_widths": [
+      "Extra Fine",
+      "Fine",
+      "Display",
+      "Text",
+      "Caption",
+      "Micro"
+    ],
+    "subfamilies": [
+      "Workhorse Script Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "stencil",
+      "roundhand",
+      "industrial",
+      "variable",
+      "optical-sizes",
+      "display",
+      "formal"
+    ],
+    "summary": "An English Roundhand script rendered as a stencil, drawing on industrial American stencil culture to produce six optical sizes across a variable font.",
+    "description": "Designed by Adrian Kimball in 2021, this typeface takes the flowing forms of English Roundhand and reproduces them through a stencil negative, drawing a parallel to metal engraving, where the letterform is defined by what is cut away. Six optical sizes run from Micro to Extra Fine, with the smallest size featuring a higher x-height, heavier weight and simplified letterforms to maintain legibility. A variable font file ships with each purchase, covering the optical size axis.",
+    "foundry_blurb": "Workhorse describe Workhorse Script Stencil as a modern take on English Roundhand influenced by industrial American stencils. The stencil construction allows flowing script forms to interact in an unusual combination of sophistication and grit, with the foundry drawing a historical parallel to metal engraving, where the letterform emerges through a mostly-intact negative. Six optical sizes and a variable font file are included with purchase."
+  },
+  {
+    "name": "Workhorse Didot",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-didot",
+    "designer": "Adrian Kimball",
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "didone",
+    "classification_notes": "A high-contrast serif in the Didot tradition, with extreme stroke contrast and hairline serifs characteristic of didone classification. The foundry describes it as brutalist in approach, inspired by American high-contrast stencils.",
+    "weights": [
+      "Book",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "16pt",
+      "26pt",
+      "42pt",
+      "68pt",
+      "110pt",
+      "178pt",
+      "288pt"
+    ],
+    "subfamilies": [
+      "Workhorse Didot"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "high-contrast",
+      "variable",
+      "optical-sizes",
+      "brutalist",
+      "editorial",
+      "display",
+      "stencil-inspired"
+    ],
+    "summary": "A brutalist Didot revival by Adrian Kimball with seven optical sizes and a variable font axis, drawing on American high-contrast stencil letterforms.",
+    "description": "Released in 2021, this 42-style family reinterprets Firmin Didot's 1784 design through a brutalist lens informed by American high-contrast stencils. Seven optical sizes run from 16pt through 288pt, with letterforms adjusted at smaller settings for legibility: heavier strokes, blunted terminals on characters like E, F and G. Three weights from Book to Bold each carry matching italics, with lining and oldstyle figures, stylistic sets and full variable font files included.",
+    "foundry_blurb": "Workhorse Type Foundry describe Workhorse Didot as a brutalist take on what defines a Didot typeface, inspired by American high-contrast stencils. Unlike most modern Didot revivals which offer one or two optical sizes, Workhorse Didot ships with seven, allowing precise stroke thickness control at any size. Designed by Adrian Kimball in 2021, the family comprises 42 styles across three weights and their italics, available as variable fonts."
+  },
+  {
+    "name": "Workhorse Geometric",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-geometric",
+    "designer": "Adrian Kimball",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A classic geometric sans-serif drawing on Futura and early 20th-century geometric precedents such as Kabel and Erbar-Grotesk. The design is built around optically corrected geometry across three optical sizes, placing it firmly in the geometric sans tradition.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Text",
+      "Micro"
+    ],
+    "subfamilies": [
+      "Workhorse Geometric"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "futura-influenced",
+      "superfamily",
+      "variable",
+      "optical-sizes",
+      "oblique",
+      "versatile",
+      "contemporary"
+    ],
+    "summary": "A geometric sans-serif spanning eight weights and three optical sizes, drawing on Futura and early geometric precedents such as Kabel and Erbar-Grotesk.",
+    "description": "Built across 48 styles with a variable font file included, the family covers Hairline through Black with matching obliques at Regular, Text and Micro optical sizes. Eleven stylistic sets offer alternate characters including flat-sided and minimal G variants, a two-storey lowercase a, and a modernist ampersand. The foundry designed matching Inline, Stencil and Dot display companions to allow consistent transitions across type treatments.",
+    "foundry_blurb": "Workhorse Geometric is described by the foundry as a classic geometric sans-serif designed for maximum consistency and versatility, combining the ubiquity and idealism of Futura with unique details from early geometric sans typefaces including Kabel, Erbar-Grotesk and Poster Gothic, a modern understanding of optical perfection, and the range of a contemporary superfamily. It is accompanied by matching display families in Inline, Stencil, Dot and Regular styles. Designed by Adrian Kimball between 2021 and 2024."
+  },
+  {
+    "name": "Workhorse Geo Stencil",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-geo-stencil",
+    "designer": "Adrian Kimball",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "geometric stencil",
+    "classification_notes": "A geometric sans with stencil cuts across three optical sizes and eight weights; the stencil treatment and display orientation place it firmly in the display category, with geometric construction as its defining subcategory.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Min",
+      "Med",
+      "Max"
+    ],
+    "subfamilies": [
+      "Workhorse Geo Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "stencil",
+      "display",
+      "variable",
+      "optical-sizes",
+      "modular",
+      "poster",
+      "signage"
+    ],
+    "summary": "A geometric stencil family designed across three optical sizes and eight weights, built to work alongside Workhorse Geometric for mixed display and text use.",
+    "description": "Designed by Adrian Kimball in 2021, it addresses a common limitation of stencil typefaces by providing optical sizing across Min, Med and Max grades, making it usable at sizes from small text to large display. The family ships as a variable font with Weight and Optical Size axes, covering 19 static styles and 220-plus languages. A suite of stylistic sets offers alternate characters including flat-sided G, angle-sided M, sheared numerals and a side stencil option.",
+    "foundry_blurb": "Workhorse Type Foundry note that geometric stencil typefaces are typically standalone releases with few weights and no optical sizing, making them difficult to deploy across varied contexts. Workhorse Geo Stencil was built to address that, offering a wide range of weights and three optical sizes while retaining a classic stencil aesthetic. It was designed in conjunction with Workhorse Geometric so the two families can be combined across text and display applications."
+  },
+  {
+    "name": "Workhorse Geo Mono",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-geo-mono",
+    "designer": "Adrian Kimball",
+    "year": 2024,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "A monospaced typeface built on geometric sans-serif principles, conceived explicitly as a typewriter-style companion to Workhorse Geometric. The fixed-width construction and geometric skeleton place it firmly in the mono category.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Workhorse Geo Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "typewriter",
+      "variable-font",
+      "oblique",
+      "system-family",
+      "coding",
+      "design-system"
+    ],
+    "summary": "A geometric sans reimagined as a fixed-width typewriter face, designed to slot into the broader Workhorse Geometric family system.",
+    "description": "Built as a companion to Workhorse Geometric, this monospaced face carries the same geometric DNA across 16 styles spanning eight weights from Hairline to Black, each with a matching oblique. A variable font file covers the full weight and italic axes, and nine stylistic sets offer alternate forms for characters including the G, M, Q, lowercase a and the ampersand. It supports over 220 languages with 231 glyphs, and sits alongside Inline, Stencil, Dot and Regular subfamilies in the wider Workhorse system.",
+    "foundry_blurb": "Workhorse describe Geo Mono as a classic geometric sans serif re-envisioned as a monospaced typewriter typeface, designed to pair with Workhorse Geometric and an extended set of matching display families including Inline, Stencil, Dot, Mono and Regular. Designed by Adrian Kimball in 2024, it ships as a variable font with 48 styles across 8 weights and obliques."
+  },
+  {
+    "name": "Workhorse Geo Dot",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-geo-dot",
+    "designer": "Adrian Kimball",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A geometric sans constructed entirely from dots, drawing on showbiz signage and typewriter aesthetics. Its dot-matrix construction and optical-size axis place it firmly in display territory despite lighter weights being legible at smaller sizes.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Semibold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Workhorse Geo Dot"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "dot-matrix",
+      "display",
+      "signage",
+      "variable",
+      "opentype",
+      "workhorse-geometric-family"
+    ],
+    "summary": "A dot-constructed geometric display face by Adrian Kimball, spanning five weights from wispy Thin to dense Semibold, with an optical size axis and multiple stylistic alternates.",
+    "description": "Built entirely from a single tool — a set of dots — the family moves from open, airy strokes in the lighter weights to tightly packed, interpretation-dependent forms at Semibold. Its inspiration splits between large-scale showbiz signage and the rhythm of typewriters, yet it sits comfortably alongside the rest of the Workhorse Geometric collection. Stylistic sets offer alternates for G, J, M, Q, the ampersand and arrows, giving designers control over the face's personality.",
+    "foundry_blurb": "Workhorse describe Geo Dot as inspired by two polar opposites — large-scale showbiz signage and typewriters — yet transcending both. The range of weights demonstrates what is achievable using the simplest of tools: a set of dots. Lighter weights are highly legible and open, while the Semibold demands some contextual interpretation for certain characters. It is the most divergent member of the Workhorse Geometric family but follows the same general rules, making it compatible with the wider collection."
+  },
+  {
+    "name": "Workhorse Geo Inline",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-geo-inline",
+    "designer": "Adrian Kimball",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "geometric inline",
+    "classification_notes": "A geometric display typeface with inline detailing across multiple weights, designed as a companion to Workhorse Geometric. The inline treatment and optical character place it firmly in display rather than text use.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Workhorse Geo Inline"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "inline",
+      "display",
+      "variable",
+      "companion",
+      "decorative",
+      "multi-weight"
+    ],
+    "summary": "A geometric inline display typeface by Adrian Kimball, unusual in offering seven weights rather than the single weight typical of inline designs.",
+    "description": "Designed in 2021 as a companion to Workhorse Geometric, this inline face spans seven weights from Thin to Black, giving designers flexibility that most inline typefaces deny. Lighter weights carry a refined elegance while heavier cuts have more presence and character. Eight stylistic sets cover alternate forms for G, J, M, Q, numerals, the ampersand and arrows, with a variable font axis making fine-tuned weight adjustments straightforward.",
+    "foundry_blurb": "Workhorse note that most inline typefaces exist in a single weight, and describe Workhorse Geo Inline as a deliberate correction to that limitation. Designed in 2021 by Adrian Kimball alongside Workhorse Geometric, the two families are intended to work together, allowing an effortless shift between text and display. The lighter weights are described as intensely elegant, the heavier ones as having panache."
+  },
+  {
+    "name": "Workhorse Gothic Collection",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-gothic-collection",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "gothic grotesque",
+    "classification_notes": "Rooted in condensed wood type traditions, the collection presents two gothic display families with narrow proportions, oblique variants and a squarish sibling, placing it firmly in the American gothic display lineage.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Semibold",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Workhorse Gothic No.1",
+      "Workhorse Gothic No.2"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "gothic",
+      "wood-type",
+      "condensed",
+      "display",
+      "oblique",
+      "american",
+      "variable",
+      "poster"
+    ],
+    "summary": "A two-family gothic display collection drawing on condensed wood type, each offered across nine weights, obliques and a reverse variant in both standard and condensed widths.",
+    "description": "The collection pairs Workhorse Gothic No.1, a contemporary take on traditional condensed wood type, with No.2, a squarish companion suited to more compact lockups. Both families run nine weights from Hairline to Ultra, each with oblique and reverse styles, across standard and condensed widths, totalling 54 styles apiece and 108 across the collection. Variable font support spans the full range, making it practical for display, poster and identity work requiring tight typographic control.",
+    "foundry_blurb": "Workhorse describe the Gothic Collection as two families totalling 108 styles across nine weights, three obliques and two widths, available as variable fonts. No.1 is positioned as a contemporary take on traditional condensed wood type, while No.2 is described as its squarish sibling designed for more compact lockups."
+  },
+  {
+    "name": "Workhorse Saboneta",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-saboneta-collection",
+    "designer": null,
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "blackletter",
+    "classification_notes": "The foundry describes it explicitly as a blackletter with excessive swashes and decorative numerals, placing it firmly in the blackletter category with an expressive, display-oriented character.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Workhorse Saboneta",
+      "Workhorse Thyrus"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "swash",
+      "display",
+      "decorative",
+      "variable",
+      "expressive",
+      "historical"
+    ],
+    "summary": "A decorative blackletter with an extensive swash character set and elaborate numerals, offered alongside a more restrained companion family called Workhorse Thyrus.",
+    "description": "Workhorse Saboneta is a feature-rich blackletter running across eight weights from Thin to Black, notable for its abundance of swash alternates and decorative numeral designs. It is part of a collection that also includes Workhorse Thyrus, a more utility-focused interpretation of the same blackletter idiom. Both families are offered as variable fonts and span the same eight-weight range, with six optical sizes available across the three-family collection.",
+    "foundry_blurb": "Workhorse describe Saboneta as a legendary beast of a blackletter, distinguished by excessive swashes and numerals for days. The collection spans three families and six optical sizes, with Workhorse Thyrus positioned as a more traditional, utility-driven take on the Saboneta concept."
+  },
+  {
+    "name": "Workhorse Empire",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-empire-collection",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A contemporary grotesque sans-serif with no visible calligraphic influence, offered across three widths and eight weights with oblique and reverse oblique variants suggesting a neutral, utilitarian classification.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Condensed",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Workhorse Empire",
+      "Workhorse Empire Fold"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "variable",
+      "condensed",
+      "compressed",
+      "oblique",
+      "versatile",
+      "display",
+      "workhorse"
+    ],
+    "summary": "A wide-ranging grotesque family spanning three widths and eight weights, offered as a variable font with oblique and reverse oblique variants across 200 styles.",
+    "description": "Workhorse Empire is a grotesque sans-serif built for flexibility, running from Thin to Black across standard, condensed and compressed widths, each with upright, oblique and reverse oblique cuts. The companion subfamily, Workhorse Empire Fold, adds animated and slanted variants with a more expressive character. At 200 styles combined across both families, the collection is oriented towards branding and editorial work that demands range without switching typefaces.",
+    "foundry_blurb": "Workhorse describe the Empire collection as maximum class built to fit a wide variety of situations, comprising two families totalling 200 styles. Empire Fold is pitched as the more expressive sibling, leading with animations and what they call trippy vibes alongside its own weight and slant range."
+  },
+  {
+    "name": "Workhorse Geometric",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-geometric-collection",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A geometric sans in the Futura tradition, explicitly positioned as a Futura alternative with extended optical sizing and text-optimised cuts. The oblique rather than italic confirms the geometric classification.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Text",
+      "Micro"
+    ],
+    "subfamilies": [
+      "Workhorse Geometric"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "futura-inspired",
+      "optical-sizes",
+      "variable",
+      "text",
+      "display",
+      "sans-serif",
+      "multiscale"
+    ],
+    "summary": "A geometric sans with three optical sizes designed to address the shortcomings of Futura at text and micro scales.",
+    "description": "Workhorse Geometric positions itself as a practical alternative to Futura, extending the geometric tradition with Display, Text and Micro optical sizes so the family works across body copy and small UI settings as well as headlines. Eight weights from Hairline to Black run across all three sizes, each with matching obliques, giving 48 styles in total. Available as a variable font spanning all 95 styles across the broader Workhorse Geo collection.",
+    "foundry_blurb": "Workhorse describe Workhorse Geometric as being for those who love Futura but wish it could do more and not fall apart at text sizes. The family offers 8 weights, obliques and 3 optical sizes across 48 styles, and is available as a variable font."
+  },
+  {
+    "name": "Workhorse Script Collection",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-script-collection",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "classical script",
+    "classification_notes": "Described explicitly as a classical script, with stencil and dot-matrix decorative variants; the base family is a traditional connected script designed across multiple optical sizes.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Extra Fine",
+      "Fine",
+      "Display",
+      "Text",
+      "Caption",
+      "Micro"
+    ],
+    "subfamilies": [
+      "Workhorse Script",
+      "Workhorse Script Stencil",
+      "Workhorse Script Dot"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "classical",
+      "stencil",
+      "decorative",
+      "variable",
+      "optical-sizes",
+      "display",
+      "multi-size"
+    ],
+    "summary": "A classical script collection released as a variable font across three families and six optical sizes, with stencil and dot-matrix decorative variants.",
+    "description": "The collection spans a classical connected script, a stencilled variant combining elegance with roughness, and a dot-matrix showhorse variant. Both the base Workhorse Script and the Stencil cut offer six optical sizes from Extra Fine to Micro, making them unusually versatile for scripts. The Dot variant ships as a single style intended purely for display use.",
+    "foundry_blurb": "Workhorse describe Workhorse Script as a classical script that performs beautifully across a surprising range of situations and sizes, with the Stencil variant offering an unusual combination of sophistication and grit, and the Dot variant as a mesmerizing showhorse that can't be ignored."
+  },
+  {
+    "name": "Workhorse Didot",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-didot-collection",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "didone",
+    "classification_notes": "A Didot-lineage typeface with high contrast between thick and thin strokes, characteristic of the neoclassical/didone tradition. The foundry's own framing as 'brutalist' suggests an exaggerated or stripped-back interpretation of the classical French model.",
+    "weights": [
+      "Book",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "16pt",
+      "26pt",
+      "42pt",
+      "68pt",
+      "110pt",
+      "178pt",
+      "288pt"
+    ],
+    "subfamilies": [
+      "Workhorse Didot"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "high-contrast",
+      "display",
+      "optical-sizes",
+      "variable",
+      "brutalist",
+      "french-classical",
+      "editorial"
+    ],
+    "summary": "A three-weight didone with seven optical sizes and variable font support, pitched as a brutalist reinterpretation of the French Didot tradition.",
+    "description": "Built on the high-contrast skeleton of the classical French Didot, this family spans Book, Medium and Bold each with matching italics across seven optical sizes from 16pt to 288pt. The variable font format allows fine-grained control across the weight and optical size axes. The foundry describes the approach as brutalist, implying a deliberate hardening or exaggeration of the genre's already severe contrast.",
+    "foundry_blurb": "Workhorse describe the Workhorse Didot Collection as a brutalist take on a classic French display family, available as a variable font with three weights and seven optical sizes."
+  },
+  {
+    "name": "Workhorse Nouveau",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/workhorse-nouveau-collection",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "art nouveau display",
+    "classification_notes": "The typeface draws directly from Art Nouveau letterform traditions with flowing, organic details, placed in the display category due to its decorative character and stencil variant.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Workhorse Nouveau",
+      "Workhorse Nouveau Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "art-nouveau",
+      "display",
+      "stencil",
+      "oblique",
+      "variable",
+      "decorative",
+      "organic"
+    ],
+    "summary": "A two-family collection pairing an Art Nouveau-influenced display typeface with a companion stencil variant featuring adjustable gap sizes across three optical sizes.",
+    "description": "Workhorse Nouveau runs across eight weights from Hairline to Black with matching obliques, totalling 16 styles, and draws its character from the flowing curves and ornamentation of the Art Nouveau movement. The companion Workhorse Nouveau Stencil extends the collection to 19 styles across three optical sizes labelled Min, Med and Max, with variable gap control built in. Both families are offered as variable fonts, covering 35 styles in total across the collection.",
+    "foundry_blurb": "Workhorse describe Workhorse Nouveau as bringing the charm and flow of Art Nouveau together with contemporary features and details, while the Stencil companion is pitched as a friendly stencil typeface with adjustable gaps. Together the two families span 35 styles across 8 weights, obliques and three optical sizes."
+  },
+  {
+    "name": "Licenses",
+    "foundry": "Workhorse Type Foundry",
+    "url": "https://workhorse.studio/pages/licenses",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "This page does not describe a specific typeface; it is a licensing information page for Workhorse Type Foundry. No typeface details are present to classify.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "licensing",
+      "foundry",
+      "workhorse"
+    ],
+    "summary": "This page outlines the licensing terms and options available for fonts sold by Workhorse Type Foundry, not a specific typeface.",
+    "description": "The page covers the full range of licence types offered by Workhorse Type Foundry, including desktop, web, app, advertising, broadcasting and all-purpose licences. It explains permitted uses, pricing structures and the scope of each agreement. No individual typeface is presented or described on this page.",
+    "foundry_blurb": "Workhorse Type Foundry offer one-time, never-expiring licence fees across a range of licence types including desktop, web, app, advertising, broadcasting and an all-purpose licence covering all standard usages. Pricing varies by number of computers, page views, monthly active users or company size depending on the licence type."
+  }
+]

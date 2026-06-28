@@ -1,0 +1,2269 @@
+[
+  {
+    "name": "Cut",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/cut/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "stencil",
+    "classification_notes": "Cut is a stencil display family that splices neoclassical high-contrast proportions with early twentieth-century geometric construction methods, dissolving hairline cross-strokes into open gaps to produce segmented letterforms.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cut",
+      "Cut Square"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "geometric",
+      "neoclassical",
+      "high-contrast",
+      "modular",
+      "display",
+      "reductive",
+      "historical"
+    ],
+    "summary": "A stencil family that fuses neoclassical high-contrast proportions with early twentieth-century geometric construction, dissolving hairline strokes into open segments.",
+    "description": "Cut and Cut Square each come in Light, Regular and Bold weights, available in OpenType and web font formats. The design draws on two historically distant sources: the extreme vertical stroke contrast of late eighteenth and early nineteenth-century neoclassical types, and the modular geometric construction methods of early twentieth-century experimental alphabets. By dissolving hairline cross-strokes into open spaces, the letterforms are broken into discrete segments that retain legibility whilst exposing their rational, reductive structure.",
+    "foundry_blurb": "MuirMcNeil describe Cut as a stencil type family reconciling two distinct historical periods: the neoclassical typefaces of the late eighteenth and early nineteenth centuries, whose sharp vertical stroke contrast is taken to an extreme by dissolving hairlines into open breaks; and the systematic geometric construction methods of early twentieth-century type, where letters were reduced to simple units assembled through scaling, reflection and repetition. Cut and Cut Square are available in Light, Regular and Bold in OpenType and web font formats."
+  },
+  {
+    "name": "Ubu",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/ubu/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Ubu is a collection of geometric display typefaces built entirely from solid geometric forms, with each variant exploring structural permutations of those forms through counters, segmentation and curved junctions.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ubu Bloc",
+      "Ubu Trou",
+      "Ubu Coup",
+      "Ubu Doux"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "modular",
+      "experimental",
+      "constructivist",
+      "systematic",
+      "avant-garde"
+    ],
+    "summary": "A four-variant geometric type collection from MuirMcNeil, named after Alfred Jarry's anarchic 1896 play, each variant exploring a different structural treatment of the same underlying geometric forms.",
+    "description": "Each of the four variants takes a distinct approach to the same geometric skeleton: Ubu Bloc presents solid forms, Ubu Trou inserts rudimentary counter shapes into the contours, Ubu Coup splits characters into their geometric sub-components, and Ubu Doux softens all inner junctions with gentle curves. The three compatible styles within each variant allow for layering and systematic composition. The collection sits firmly in the experimental, constructivist tradition of geometric lettering.",
+    "foundry_blurb": "MuirMcNeil describe Ubu as a geometric type collection named after Ubu Roi, Alfred Jarry's anarchic satire of 1896. It exists in four versions — Bloc, Trou, Coup and Doux — each available in three compatible styles, with glyphs ranging from solid geometric forms through inserted counter shapes, segmented sub-components and softened curved junctions."
+  },
+  {
+    "name": "MMcN Evaluation Pack",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/mmcn-evaluation-pack-10/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "multi-family evaluation set",
+    "classification_notes": "This is not a single typeface but a curated trial collection spanning 48 collections from the MuirMcNeil library; no single category can be assigned, so display is used as a placeholder reflecting MuirMcNeil's predominantly experimental and display-oriented output.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "MMcN Evaluation Pack"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "trial",
+      "evaluation",
+      "multi-family",
+      "experimental",
+      "display",
+      "type-library"
+    ],
+    "summary": "A curated selection of weights and styles drawn from across MuirMcNeil's 48-collection type library, intended for testing and presentation use only.",
+    "description": "The pack provides trial fonts from the full MuirMcNeil library, each with a limited character set covering uppercase and lowercase letters, numerals and basic punctuation. It is not licensed for published or commercial use; designers needing additional styles or weights for project evaluation are directed to contact MuirMcNeil directly. Functions as a low-friction entry point into a library known for systematic and experimental type design.",
+    "foundry_blurb": "MuirMcNeil describe the Evaluation Pack as a curated selection of weights and styles from their full type library, spanning 48 collections. The trial fonts are intended for testing and presentation purposes only and are not licensed for published or commercial use. Each font includes a limited character set with uppercase and lowercase letters, numerals and basic punctuation."
+  },
+  {
+    "name": "Cut Square",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/cut-square-typefaces/",
+    "designer": "MuirMcNeil",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric stencil",
+    "classification_notes": "Cut Square is a straight-edged stencil variant of Cut, built from geometric units with extreme vertical stroke contrast derived from neoclassical forms; its reductive, segmented letterforms place it firmly in the display category with a geometric stencil subcategory.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cut Square"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "geometric",
+      "neoclassical",
+      "modular",
+      "display",
+      "reductive",
+      "editorial"
+    ],
+    "summary": "A straight-edged stencil typeface that splices neoclassical stroke contrast with early twentieth-century modular construction, dissolving hairline crossstrokes into open segments.",
+    "description": "Cut Square is the rectilinear companion to MuirMcNeil Cut, sharing the same extreme vertical stroke contrast drawn from late eighteenth and early nineteenth-century neoclassical types. Where conventional stencil cuts retain their crossstrokes, here they are dissolved entirely into open spaces, breaking letterforms into discrete geometric segments assembled through scaling, reflection and repetition. Available in Light, Regular and Bold in both OpenType and web font formats, the family works wherever a rational, reductive structure is needed.",
+    "foundry_blurb": "MuirMcNeil describe Cut Square as a straight-edged variant of their Cut stencil family, inspired by two historical periods: the neoclassical types of the late eighteenth and early nineteenth centuries, whose sharp vertical stroke contrast is pushed to an extreme, and early twentieth-century typefaces built from simple geometric units assembled through systematic construction. The family is available in Light, Regular and Bold weights in OpenType and web font formats."
+  },
+  {
+    "name": "Five Typefaces",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/five-typefaces/",
+    "designer": null,
+    "year": 2017,
+    "category": "display",
+    "subcategory": "geometric stencil",
+    "classification_notes": "A stencil type system built from basic geometric segments with internal void spaces reduced to thin white lines; references compressed rectilinear sans serifs and constructed alphabets, placing it firmly in the display/geometric stencil category.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Five 20",
+      "Five 21"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "geometric",
+      "constructed",
+      "display",
+      "figure-ground",
+      "modernist",
+      "compressed",
+      "negative-space"
+    ],
+    "summary": "A stencil type system built from geometric segments and internal void spaces, referencing Josef Albers, Compacta and Walter Haettenschweiler's compressed grotesques.",
+    "description": "First published in 2017 and extensively revised in 2021, Five comes in three contours, two widths, two optical weights and positive and negative versions. Rather than assembling glyphs from minimal strokes, the system inverts convention by constructing alphabets around a grid of internal white-line spaces, producing dense, imposing letterforms. The lower case division into two or three horizontal sections follows principles similar to Walter Ballmer's 1971 Olivetti lettering, allowing stroke proportions to modulate more naturally than most constructed types permit.",
+    "foundry_blurb": "MuirMcNeil describe Five as one of a series of stencil type families, first released in 2017 and substantially revised in 2021 across three contours, two widths, two optical weights and positive and negative versions. Built from basic geometric segments, the system explores figure-and-ground relationships by constructing glyphs around internal spaces reduced to thin white lines, referencing Josef Albers' Kombinations-Schrift of 1921, Letraset's Compacta and Haettenschweiler's Schmalfette Grotesk, as well as Walter Ballmer's Olivetti lettering from 1971."
+  },
+  {
+    "name": "Farset + Feirste",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/farset-feirste/",
+    "designer": "John McMillan, MuirMcNeil",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "vernacular display",
+    "classification_notes": "Based on Belfast's historic hand-made tiled street signage, this is a display typeface derived from vernacular letterforms with both latin and gaelic versions, plus cameo variants replicating the original tile appearance.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Farset",
+      "Feirste",
+      "Farset Cameo",
+      "Feirste Cameo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Irish"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "vernacular",
+      "display",
+      "bilingual",
+      "historical",
+      "tile",
+      "belfast",
+      "gaelic",
+      "signage"
+    ],
+    "summary": "A bilingual type system drawn from Belfast's distinctive hand-made ceramic street signs, developed into both latin and Irish gaelic forms with matching cameo variants.",
+    "description": "Originally prototyped by John McMillan of Ulster University in 2015 from Belfast Corporation's late 19th-century tiled street signage, the system was developed into a full working typeface by MuirMcNeil from 2018. Two primary families cover the latin and Irish gaelic scripts, named Farset and Feirste after the river and the city's Irish name respectively, each accompanied by cameo versions that replicate the inlaid tile aesthetic. The project involved redefining contours, softening terminals and completing both character sets in upper and lower case.",
+    "foundry_blurb": "MuirMcNeil describe Farset + Feirste as a type system rooted in Belfast's iconic hand-made tiled street signage, first commissioned by the Belfast Corporation in the late 19th century. Working from prototypes by Emeritus Professor John McMillan, they refined the letterforms and built out matching gaelic equivalents to support bilingual use, naming the two families after the river Farset and Belfast's Irish name, Béal Feirste."
+  },
+  {
+    "name": "Flip",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/flip/",
+    "designer": "MuirMcNeil",
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental sans",
+    "classification_notes": "Although structurally based on a sans serif skeleton, Flip's governing principle is symmetrical manipulation of letterforms rather than typographic function, placing it firmly in the display/experimental category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Flip"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "symmetry",
+      "geometric",
+      "display",
+      "avant-garde",
+      "systematic",
+      "sans-serif"
+    ],
+    "summary": "A collection of seven experimental sans serif typefaces in which each variant is governed by a single axis of symmetry, from vertical and horizontal through to biaxial and multiaxial.",
+    "description": "Each of the seven fonts in the Flip collection applies a distinct symmetrical constraint to the entire Latin character set, including vertical, horizontal, rotational, biaxial and multiaxial axes. Glyphs are reduced to their simplest symmetrical shapes while legibility is maintained as far as the mirroring allows. The collection also includes subcomponent font pairs that each show only half of a glyph, designed to be recombined into composite forms. Flip is a development of MuirMcNeil Sans Sans, an ongoing programme investigating the fundamental attributes of alphabetic form.",
+    "foundry_blurb": "MuirMcNeil describe Flip as a collection of seven experimental sans serif typefaces exploring symmetry in the roman alphabet, with each variant governed by a single axis of symmetry. They note that each glyph has been stripped to its simplest symmetrical shape while maintaining legibility, and that the collection includes subcomponent font pairs showing only half of each glyph for recombination into composite forms. Flip is drawn in Latin 1 standard character sets and supplied in OTF, TTF, WOFF and WOFF2 formats."
+  },
+  {
+    "name": "Generator",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/generator-type-system/",
+    "designer": null,
+    "year": 2015,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Generator is a geometric display type system built around precise modular construction, designed explicitly for layered and generative visual effects rather than conventional text setting.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Generator A",
+      "Generator B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modular",
+      "layered",
+      "generative",
+      "display",
+      "system",
+      "experimental",
+      "poster"
+    ],
+    "summary": "A geometric type system built for layered composition, originating from exhibition lettering created for a generative art show at Kaleidoscope Gallery in 2015.",
+    "description": "Developed from poster lettering made for a 2015 exhibition exploring analogue generative systems, Generator has grown into a family of four styles across three weights, each available in positive and negative versions. Every contour and space is engineered to align precisely, allowing fonts to be stacked in interlocking layers or calibrated offsets using layout, bitmap or vector software. The system supports 126 of the 132 possible combinations between its A and B subfamilies, enabling outlines, tints, colours, textures and patterns to interact across letterforms and backgrounds.",
+    "foundry_blurb": "MuirMcNeil describe Generator as a type system that began as geometric lettering for a poster promoting a 2015 exhibition at the Kaleidoscope Gallery, where artworks used analogue systems to explore the language of generative art. Now expanded to four styles in three weights with positive and negative versions, every contour and space aligns precisely so that all fonts can interact in layers, allowing end users to apply styles to letterforms and backgrounds in interlocking layers or calibrated offsets, with outlines, tints, colours, textures and patterns applied as appropriate."
+  },
+  {
+    "name": "FourPoint",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/fourpoint/",
+    "designer": "MuirMcNeil",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric dot-matrix",
+    "classification_notes": "Constructed on a fixed dot-grid at four resolutions with halftone-style dot densities replacing conventional stroke weight variation, placing it firmly in the display/experimental geometric category rather than any conventional text type classification.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Fat"
+    ],
+    "optical_sizes_or_widths": [
+      "FourPoint 01",
+      "FourPoint 02",
+      "FourPoint 03",
+      "FourPoint 04"
+    ],
+    "subfamilies": [
+      "FourPoint 01",
+      "FourPoint 02",
+      "FourPoint 03",
+      "FourPoint 04"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "dot-matrix",
+      "geometric",
+      "led",
+      "display",
+      "experimental",
+      "grid-based",
+      "halftone",
+      "systematic"
+    ],
+    "summary": "A dot-grid typeface in four scale groups and five tonal densities, drawn from LED transport signage and built on a halftone logic that replaces conventional stroke weight with expanding dot diameters.",
+    "description": "Each of the four scale groups — FourPoint 01 through 04 — is built on a fixed grid where stroke widths measure one to four dots respectively, and the letterforms scale proportionally to those stroke widths. Weight variation across the five densities per group is achieved not by thinning or thickening strokes but by enlarging dot diameters, producing the optical effect of a halftone tint screen within the letter bodies. Grid positions, spacing, side-bearings and kerning all remain locked across weights, allowing precise calculation of size and weight ratios in composition.",
+    "foundry_blurb": "MuirMcNeil describe FourPoint as an optical and geometric typeface inspired by the simple LED lettering found on trains and road signage, and an investigation into using predefined conditions to progressively modify forms. It is built at four resolutions on a fixed grid, with five tonal densities per group achieved by enlarging dot diameters rather than altering stroke positions, subverting the binary contrast of traditional type to simulate the illusion of tints within letterforms."
+  },
+  {
+    "name": "Interlock",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/interlock-type-system/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric bitmap",
+    "classification_notes": "Interlock is a geometric bitmap type system built on a strict grid, with letterforms constructed from parallel horizontal and vertical lines of incremented weight rather than conventional stroke contrast. Its layering mechanics and tonal density patterns place it firmly in the display category.",
+    "weights": [
+      "Weight 1",
+      "Weight 2",
+      "Weight 3",
+      "Weight 4",
+      "Weight 5",
+      "Weight 6"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Interlock"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "bitmap",
+      "layered",
+      "grid",
+      "display",
+      "modular",
+      "experimental",
+      "texture"
+    ],
+    "summary": "A geometric bitmap type system built on a strict grid, designed to be layered and offset to generate tonal patterns and textures across four styles and six weights.",
+    "description": "Interlock replaces conventional stroke contrast with even patterns of parallel horizontal or vertical lines, progressively incremented in weight to produce tonal densities within the letter body. All contours and spaces align to a shared grid, allowing the four styles to interlock precisely with one another and with corresponding rectangular background grids. In page layout, bitmap or vector software, styles can be stacked in exact register or calibrated offsets, with outlines, tints, colours and transparencies applied to build complex surface effects.",
+    "foundry_blurb": "MuirMcNeil describe Interlock as a geometric bitmap type system in four styles each in six weights. Rather than binary contrasts of form and counterform, the system uses progressively incremented parallel lines to create tonal pattern densities within letterforms. A common grid governs all elements, enabling typefaces to interact in layers with each other and with rectangular background grids, allowing users to apply styles in precise register or calibrated offsets using standard design software."
+  },
+  {
+    "name": "Intersect Typefaces",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/intersect-typefaces/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental layering system",
+    "classification_notes": "Intersect is a display-oriented type system built around layered linear screens that simulate tonal density within letterforms, subverting conventional weight relationships through optical illusion rather than stroke variation.",
+    "weights": [
+      "Weight 1",
+      "Weight 2",
+      "Weight 3",
+      "Weight 4"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Intersect A",
+      "Intersect B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "layered",
+      "optical",
+      "screenprint",
+      "display",
+      "modular",
+      "system",
+      "geometric"
+    ],
+    "summary": "A layered type system from MuirMcNeil that replaces conventional weight with successive linear screen patterns to create the illusion of tonal density within letterforms.",
+    "description": "Two contour variants, A and B, share 16 screen patterns arranged in four groups of four weights, and are designed to be overlaid in up to 256 combinations. Where standard typefaces offer only a binary contrast of form and counterform, Intersect introduces an intermediate range of apparent tints by mapping contours and screen spacings precisely against one another. Colour, transparency and opacity applied in layout or vector software extend the design possibilities further.",
+    "foundry_blurb": "MuirMcNeil describe Intersect as a type system that subverts the traditional relationship between inked and uninked parts of letterforms. Rather than offering a binary contrast of black and white, the system emulates successive linear screens to give the illusion of tint densities within the type body. The A and B contour variants share 16 common screen patterns in four groups of four weights, and are designed to interact through layering in 256 possible combinations, with further effects achievable through colour, tint and opacity."
+  },
+  {
+    "name": "Interact",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/interact/",
+    "designer": "8vo",
+    "year": 1994,
+    "category": "display",
+    "subcategory": "bitmap/pixel",
+    "classification_notes": "Interact is built from a grid-based bitmap system using horizontal, vertical and 45-degree pixel steps to optically round letterforms, making it a display typeface rooted in screen-resolution bitmap construction rather than any conventional serif or sans-serif tradition.",
+    "weights": [
+      "12 calibrated weights"
+    ],
+    "optical_sizes_or_widths": [
+      "06",
+      "04",
+      "03",
+      "02"
+    ],
+    "subfamilies": [
+      "Interact"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "bitmap",
+      "pixel",
+      "grid",
+      "modular",
+      "screen",
+      "geometric",
+      "experimental",
+      "low-resolution"
+    ],
+    "summary": "A grid-based bitmap typeface system originally designed by 8vo in 1994, expanded by MuirMcNeil into 23 scaleable faces across four pixel-resolution groups and 12 calibrated weights.",
+    "description": "Originally conceived by the design collective 8vo for the American Center of Design Journal, Interact takes its optical logic from Wim Crouwel's 1968 'vormgevers' lettering, using horizontal, vertical and 45-degree pixel steps to simulate rounded stroke junctions within a strict bitmap grid. MuirMcNeil expanded the system from a lowercase-only screen face into 23 typefaces across four resolution scales (06, 04, 03 and 02), each proportionally calibrated so bitmap contours align consistently when type sizes follow the system's mathematical hierarchy. Capital letters, punctuation and Western European accented characters have been added to complete the character set.",
+    "foundry_blurb": "MuirMcNeil describe Interact as a system of 23 typefaces in four scaleable resolution groups with 12 calibrated weights, originally designed by 8vo in 1994 as a grid-based bitmap family for screen use. The design draws on the optical stroke-junction characteristics of Wim Crouwel's 'vormgevers' lettering of 1968, using pixel steps to modulate letterforms so they appear optically rounded. The four resolution groups (06, 04, 03 and 02) follow a mathematical progression ensuring bitmap contours occupy a consistent grid when type sizes are set in the correct proportional relationships."
+  },
+  {
+    "name": "Anode",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/anode/",
+    "designer": "Natasha Lucas",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Anode is a geometric display typeface built from a systematic investigation into form and counterform, producing layered inner and outer alphabets that are decorative and experimental rather than suited to continuous text.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Anode"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "layered",
+      "experimental",
+      "display",
+      "counterform",
+      "modular",
+      "ambiguous",
+      "systematic"
+    ],
+    "summary": "A geometric display typeface built from reciprocal inner and outer alphabets designed to layer precisely, creating letters that balance legibility with formal ambiguity.",
+    "description": "Designed by Natasha Lucas in collaboration with MuirMcNeil, Anode is the third in a quartet of type systems exploring the relationship between positive and negative space in alphabetic forms. The family comprises four versions including two subcomponent sets, all engineered to register exactly when overlaid. Letters function as an interdependent pair of alphabets, each containing and informing the other, making Anode as much a visual system as a typeface.",
+    "foundry_blurb": "MuirMcNeil describe Anode as an interdependent pair of alphabets — an inner character set and an outer one — that combine reciprocally to form a complete design, each containing and informing the other. It is the third in a quartet of geometric type systems by Natasha Lucas, cut in four versions with two subcomponent sets designed to register precisely in layers."
+  },
+  {
+    "name": "Nine Mono",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/nine-mono/",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "A strictly geometric monospaced typeface constructed on a 36-unit grid with vertical, horizontal and 45-degree oblique segments, placing it firmly in the geometric mono category.",
+    "weights": [
+      "018 Ultra Light",
+      "036 Extra Light",
+      "054 Light",
+      "072 Regular",
+      "090 Medium",
+      "108 Bold",
+      "126 Heavy",
+      "144 Black",
+      "162 Extra Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nine Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "monospaced",
+      "modular",
+      "grid-based",
+      "systematic",
+      "constructed",
+      "display",
+      "text"
+    ],
+    "summary": "A strictly geometric monospaced typeface built on a 36-unit grid, available in nine weights defined by incremental stroke additions along a fixed central axis.",
+    "description": "Part of MuirMcNeil's Nine type system, Nine Mono shares its geometric constraints with the varispaced Nine Metric, both derived from the same grid used in the ThreeSix system. Strokes are constructed from vertical, horizontal and 45-degree oblique segments capped with circular arcs, with each of the nine weights adding 18 units of stroke in equal increments. The fixed-width design remains workable across both extended text settings and display use.",
+    "foundry_blurb": "MuirMcNeil describe Nine Mono as one half of a geometric type system, alongside Nine Metric, both built within strict geometric constraints on a 36-unit grid subdivided into 9 units. Nine Mono's nine weights run from 018 Ultra Light to 162 Extra Black, with stroke, width, cap-height, x-height, ascent and descent all modulated on a fixed grid in increments of 18 units."
+  },
+  {
+    "name": "Nine Metric",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/nine-metric/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Nine Metric is constructed entirely from vertical, horizontal and 45-degree oblique segments terminated by circular arcs on a strict 36-unit grid subdivided into 9 units, placing it firmly in the geometric sans tradition.",
+    "weights": [
+      "018 Ultra Light",
+      "036 Extra Light",
+      "054 Light",
+      "072 Regular",
+      "090 Medium",
+      "108 Bold",
+      "124 Heavy",
+      "144 Black",
+      "162 Extra Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nine Metric",
+      "Nine Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grid-based",
+      "modular",
+      "system",
+      "display",
+      "text",
+      "spatial",
+      "experimental"
+    ],
+    "summary": "A geometric type system built on a strict 9-unit grid, available in nine weights with a matching monospaced counterpart.",
+    "description": "Nine Metric is part of MuirMcNeil's Nine system, constructed from vertical, horizontal and 45-degree oblique segments on the same 36-unit grid that underlies their ThreeSix system. Nine weights run from 018 Ultra Light to 162 Extra Black, with stroke increments added symmetrically on a central axis so that width, cap-height, x-height and spacing all modulate together across the range. Because contours and side-bearings map onto each other precisely, weights can be layered in exact registration or offset, opening spatial and time-based design possibilities beyond ordinary type use.",
+    "foundry_blurb": "MuirMcNeil describe Nine Metric as a geometric type system built within strict constraints on a 36-unit grid subdivided into 9 units, constructed from vertical, horizontal and 45-degree oblique segments terminated by circular arcs. The nine weights are spaced by adding strokes in increments of 18 units on a central axis, so character fit tightens progressively as weight increases. Precise mapping of contours and side-bearings enables layering and positional offsetting for use in both spatial and time-based design."
+  },
+  {
+    "name": "Bisect",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/bisect/",
+    "designer": "Natasha Lucas",
+    "year": null,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "Bisect is explicitly described as monospace and unicase, built on a strict grid system with horizontal and vertical character segments, placing it firmly in the geometric mono category.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bisect"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "unicase",
+      "geometric",
+      "modular",
+      "layered",
+      "grid-based",
+      "experimental",
+      "display"
+    ],
+    "summary": "A unicase geometric mono system built on a grid of horizontal and vertical segments, designed in four layerable versions to express the fragmentation of language and memory.",
+    "description": "Conceived by Natasha Lucas as part of a visual system for Harold Pinter's memory plays, Bisect uses a shared grid to govern letterforms, text setting and document formatting simultaneously. Its four versions are precision-cut to register with one another in layers, multiplying the typographic possibilities from a single constrained structure. The playful tension between horizontal and vertical segments gives the system a rigour that suits both theatrical and identity contexts.",
+    "foundry_blurb": "MuirMcNeil describe Bisect as a geometric type system produced in collaboration with graphic designer Natasha Lucas. Lucas developed it to express the progressive fragmentation of language as eroded by the selective, faulty nature of memory, working across print and digital media for a project around Harold Pinter's memory plays. The system uses a single grid for constructing letterforms, setting text and formatting documents, and is cut in four versions designed to layer precisely over one another."
+  },
+  {
+    "name": "Cathode",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/cathode/",
+    "designer": "Natasha Lucas",
+    "year": null,
+    "category": "display",
+    "subcategory": "modular geometric",
+    "classification_notes": "Cathode is a modular geometric display system built around the interdependence of positive and negative space, using interlocking layered alphabets rather than conventional letterform construction.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cathode"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "geometric",
+      "layered",
+      "display",
+      "experimental",
+      "positive-negative",
+      "interlocking",
+      "system"
+    ],
+    "summary": "A modular geometric type system built from two interlocking alphabets, one square inner and one bevelled outer, designed to overlap in precisely registered layers.",
+    "description": "Designed by Natasha Lucas in collaboration with MuirMcNeil, Cathode is the fourth in a series of modular geometric systems exploring the relationship between positive and negative space in letterforms. The family comprises three versions cut to register with each other precisely, allowing the square inner character set and bevelled outer one to interlock into a reciprocal whole. The result is an alphabet that reads consistently while maintaining a deliberate visual ambiguity between form and counterform.",
+    "foundry_blurb": "MuirMcNeil describe Cathode as an interdependent pair of alphabets, one square inner and one bevelled outer, that overlap and intertwine to make a reciprocal whole. The three versions are designed to register precisely with each other in interlocking layers, the outcome of Natasha Lucas's ongoing investigation into how form and counterform can be manipulated to construct shapes that are playfully ambiguous yet consistently readable."
+  },
+  {
+    "name": "Diode",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/diode/",
+    "designer": "Natasha Lucas",
+    "year": null,
+    "category": "display",
+    "subcategory": "modular geometric",
+    "classification_notes": "Diode is built from three geometric modules exploring reciprocal positive and negative space, placing it firmly in the display/experimental modular category rather than any conventional text classification.",
+    "weights": [
+      "Positive",
+      "Negative 1",
+      "Negative 2"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Diode"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "geometric",
+      "experimental",
+      "display",
+      "positive-negative",
+      "typographic-system",
+      "conceptual"
+    ],
+    "summary": "A modular geometric type system built from just three geometric shapes, exploring the reciprocal relationship between letterform and counterform across three positive and negative cuts.",
+    "description": "Designed by Natasha Lucas in collaboration with MuirMcNeil, Diode uses only three geometric modules to construct its alphabet, deliberately playing positive and negative space against each other to produce letters that are structurally incomplete yet legible. The family ships in three versions, one positive and two negative, plus three additional overlay fonts corresponding to each geometric module, enabling colour delineation in layered compositions. The work extends Lucas's earlier research into form and counterform first explored in her Bisect typeface, published by MuirMcNeil in 2018.",
+    "foundry_blurb": "MuirMcNeil describe Diode as a modular geometric type system produced in collaboration with Natasha Lucas, growing out of a series of visual experiments into the interdependence of positive and negative spaces in typographic forms. Built from just three geometric modules, the system manipulates form and counterform reciprocally to produce letters that are playfully ambiguous while remaining true to their alphabetic origins. Three cuts of the typeface are provided alongside three module overlay fonts for colour work."
+  },
+  {
+    "name": "Orca, Minke and Beluga",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/orca-minke-beluga/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "The page provides no detailed specimen or classification text; the three-family collection name and Muir McNeil's known geometric, system-based design approach suggest display-oriented geometric typefaces.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Orca",
+      "Minke",
+      "Beluga"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "system",
+      "display",
+      "modular",
+      "collection"
+    ],
+    "summary": "A printed specimen accompanying the Orca, Minke and Beluga collection from MuirMcNeil, a studio known for systematic and parametric type design.",
+    "description": "The page describes a 24 x 17 cm, 16-page printed specimen that ships free with purchases of the Orca, Minke and Beluga typeface collection. MuirMcNeil's work is characterised by rigorous geometric and systematic approaches, and the three family names suggest a cohesive collection. Little additional detail about the typefaces themselves is present on this page.",
+    "foundry_blurb": "MuirMcNeil offer a printed specimen of 24 x 17 cm and 16 pages, included free with all purchases of the Orca, Minke and Beluga collection."
+  },
+  {
+    "name": "Rumori Typefaces",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/rumori-typefaces/",
+    "designer": "MuirMcNeil",
+    "year": 2014,
+    "category": "display",
+    "subcategory": "gothic display",
+    "classification_notes": "Reconstructed from surviving wood type characters on a 1913 Futurist manifesto cover, drawing on grotesque and gothic display typefaces of the period; its titling-only nature and historical speculative reinvention place it firmly in display territory.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rumori Typefaces"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "wood-type",
+      "futurist",
+      "gothic",
+      "titling",
+      "historical",
+      "speculative",
+      "revival"
+    ],
+    "summary": "A speculative reconstruction of the wood type appearing on the cover of Luigi Russolo's 1913 Futurist noise manifesto, built outward from just ten surviving titling characters.",
+    "description": "Originally commissioned in 2014 for a public event reimagining Russolo's 'L'Arte dei rumori' as a series of street parades through Maastricht, the typeface began with only the ten titling characters legible on the manifesto's front cover. When research into the original wood type's origins proved inconclusive, MuirMcNeil drew on grotesque and gothic display faces from the same era to reconstruct the missing characters. The result is less a traditional revival than a speculative reinvention, grounded in period research but shaped by editorial judgement.",
+    "foundry_blurb": "MuirMcNeil describe Rumori as a reconstruction of the typeface used on the front cover of 'L'Arte dei rumori', a Futurist manifesto published in Milan in 1916. Commissioned in 2014 by graphic artists Yeb Wiersma and Paul Bailey for a public reinterpretation of the manifesto as six parades through Maastricht, the typeface was drawn from only ten surviving titling characters on the original cover. Unable to identify the historical wood type, MuirMcNeil studied grotesque and gothic display faces of the period to reconstruct the missing letterforms, making it a speculative reinvention rather than a conventional revival."
+  },
+  {
+    "name": "Panopticon Typefaces",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/panopticon-typefaces/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Panopticon is a modular, layered three-dimensional display system based on orthographic projection geometry; it has no characteristics of text typography and is built entirely for large-scale visual composition and display use.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Panopticon A",
+      "Panopticon B",
+      "Panopticon C",
+      "Panopticon D"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "modular",
+      "layered",
+      "isometric",
+      "geometric",
+      "three-dimensional",
+      "orthographic",
+      "experimental"
+    ],
+    "summary": "A system of three-dimensional display typefaces built across four orthographic projections, each subdivided into four interlocking layers for compositing.",
+    "description": "Panopticon structures each of its four projections — named A through D for top-right, bottom-left, top-left and bottom-right viewpoints — into Perimeter, Interior, Horizontal and Vertical layers that can be overlaid or offset in page layout and vector software. Letterforms are designed edge-to-edge with no inter-character spacing, and lines register flush at one or half-line increments. The system is named after Jeremy Bentham's polygonal surveillance architecture, a reference that runs through its logic of controlled viewpoints and concealed structure.",
+    "foundry_blurb": "MuirMcNeil describe Panopticon as a system of three-dimensional display typefaces implemented in four orthographic projections, each broken into four separate layer typefaces — Perimeter, Interior, Horizontal and Vertical — that interact to produce a wide range of visual possibilities through overlays, offsets, tints, colours, textures and transparencies."
+  },
+  {
+    "name": "Sans Flux",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/sans-flux-type-family/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as a sans serif with vertical stroke contrast and calligraphic impression, drawing on neo-grotesque DNA but shaped by humanist sensibilities akin to typescript forms, placing it squarely in humanist sans territory.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sans Flux"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "neo-grotesque",
+      "stroke-contrast",
+      "calligraphic",
+      "vertical-stress",
+      "modernist"
+    ],
+    "summary": "A stroke-contrasted sans serif from MuirMcNeil that layers humanist warmth over a neo-grotesque skeleton derived from the Sans Sans typographic database.",
+    "description": "Drawn on the same skeleton as MuirMcNeil Sans Sans, Sans Flux introduces vertical stroke modulation and naturally incised junctions to give a calligraphic quality uncommon in neo-grotesque forms. Uppercase proportions echo Roman monumental capitals, lending the typeface a classical bearing alongside its modernist structure. The result sits between the discipline of a grotesque and the warmth of a humanist sans, suited to editorial and identity work that wants both qualities.",
+    "foundry_blurb": "MuirMcNeil describe Sans Flux as a sans serif with structured stroke contrast intended to suggest humanist, typescript-like sensibilities with a warm, calligraphic impression. It has been developed from their Sans Sans typographic database, sharing the same skeleton and drawn from the DNA of neo-grotesque modernist sans serifs of the latter twentieth century."
+  },
+  {
+    "name": "Rumori S Typefaces",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/rumori-s-typefaces/",
+    "designer": "MuirMcNeil",
+    "year": null,
+    "category": "display",
+    "subcategory": "stencil grotesque",
+    "classification_notes": "A bold stencil display face derived from early twentieth-century grotesque and gothic display wood type, referencing Futurist design sensibilities and modernist modular alphabet experiments.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rumori S"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "display",
+      "futurist",
+      "grotesque",
+      "modular",
+      "wood-type",
+      "historical-reconstruction",
+      "bold"
+    ],
+    "summary": "A bold stencil display face speculatively reconstructed from the wood type used on the cover of Luigi Russolo's 1913 Futurist noise manifesto.",
+    "description": "Derived from the ten surviving titling characters on the cover of Russolo's 'L'Arte dei rumori', the design fills in the missing glyphs by drawing on grotesque and gothic display typefaces of the period rather than reviving a single historical source. The stencil variant applies that same speculative method without a direct historical model, conforming closely to the original Rumori contours while drawing on early modernist alphabets built from minimal, redistributable components. The result sits between historical reconstruction and original design, shaped by Futurist sensibility and early-twentieth-century geometric thinking.",
+    "foundry_blurb": "MuirMcNeil describe Rumori S as a stencil variant of their Rumori typeface, itself a reconstruction of wood type used on the cover of Russolo's Futurist manifesto from 1916. With only ten original characters to work from, the studio drew on period grotesque and gothic display types to fill the gaps, extending this speculative approach in Rumori S with bold stencil letterforms that reference modernist alphabets built from minimal, reusable components."
+  },
+  {
+    "name": "Sans Norm",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/sans-norm/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Constructed on a geometric skeleton with mechanised, stripped-down forms referencing utilitarian twentieth century designs like DIN 1451 and Isonorm, placing it firmly in the geometric sans subcategory with a condensed, blocky character.",
+    "weights": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sans Norm"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "condensed",
+      "utilitarian",
+      "din-influenced",
+      "mechanical",
+      "systematic",
+      "blocky"
+    ],
+    "summary": "A mechanised geometric sans built on a shared skeleton with Sans Sans, referencing DIN 1451, Isonorm and OCR-A across 13 weights in upright and italic.",
+    "description": "The family emphasises rhythms of straight vertical strokes to produce a blocky, condensed appearance, constructed on a skeleton closely related to that of MuirMcNeil Sans Sans. Its stripped-down, utilitarian character draws on twentieth century geometric standards such as DIN 1451, Isonorm and OCR-A. Thirteen matching weights are available in both upright and italic styles, making it a systematic and distinctively flavoured option for grid-driven or technical work.",
+    "foundry_blurb": "MuirMcNeil describe Sans Norm as a sans serif type system that emphasises vertical stroke rhythms to give the impression of a blocky, condensed script. Its skeleton corresponds closely to that of Sans Sans, and its mechanised forms refer to utilitarian geometric designs including DIN 1451, Isonorm and OCR-A. The family is presented as economical, versatile and competent, with an unequivocally distinctive design available in upright and italic styles across 13 matching weights."
+  },
+  {
+    "name": "Sans Sans",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/sans-sans/",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "MuirMcNeil explicitly cite neo-grotesque lineage, describing Sans Sans as drawing on 'elegant late modern styles often referred to as neo-grotesques', with each glyph reduced to its simplest organic form.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Hairline",
+      "UltraLight",
+      "Heavy",
+      "UltraBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sans Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "neutral",
+      "minimal",
+      "systematic",
+      "editorial",
+      "clean",
+      "geometric"
+    ],
+    "summary": "A deliberately restrained neo-grotesque in 13 weights, drawn to strip each glyph to its most natural and economical form.",
+    "description": "Sans Sans takes its cues from the neo-grotesque tradition of the latter twentieth century, paring every contour and counter form back to its simplest possible state. The family runs to 13 matching weights in upright and italic, offered as a deliberate counterpoint to sprawling multi-subfamily type systems. It is conceived as part of a longer MuirMcNeil research project investigating legibility, rhythm and typographic structure through a reduced, archetypal Latin alphabet.",
+    "foundry_blurb": "MuirMcNeil describe Sans Sans as an economical and versatile sans serif whose design carries the DNA of several neo-grotesque typefaces from the latter half of the twentieth century. Every contour, stroke and counter form has been refined to its most natural shape. The family is the first outcome of an ongoing project to distil the Latin alphabet into an organic system of archetypal components for use in a series of typographic experiments."
+  },
+  {
+    "name": "THD Sentient",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/sentient/",
+    "designer": "Tim Hutchinson",
+    "year": 2017,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "An all-capitals, monolinear, proportionally spaced display family derived from IBM Selectric II numerals as seen on HAL 9000's screen in 2001: A Space Odyssey; its stark geometric forms and sci-fi lineage place it firmly in the display category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "THD Sentient"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "all-caps",
+      "monolinear",
+      "geometric",
+      "sci-fi",
+      "kubrick",
+      "ibm",
+      "retro-futurist"
+    ],
+    "summary": "An all-capitals display family derived from the IBM Selectric II numerals famously visible on HAL 9000's screen in Kubrick's 2001: A Space Odyssey, extended into four monolinear weights by MuirMcNeil and Tim Hutchinson.",
+    "description": "Originally designed by Tim Hutchinson in 2017 for a Stanley Kubrick archive exhibition, THD Sentient traces its letterforms back to IBM Selectric II numerals that were repurposed for HAL 9000's display screens in 2001: A Space Odyssey. MuirMcNeil rationalised and expanded Hutchinson's single alphabet into a fully functional all-capitals character set across four weights, each set on bodies of identical width. Monolinear and proportionally spaced, it carries the air of a retrofuturist computer terminal without tipping into pastiche.",
+    "foundry_blurb": "MuirMcNeil describe THD Sentient as an all-capitals type family in four weights developed in collaboration with Tim Hutchinson, whose characters are derived from IBM Selectric II numerals repurposed for HAL 9000's data display screens in Kubrick's 2001: A Space Odyssey. Originally a single alphabet created for a 2017 exhibition marking the 10th anniversary of the Stanley Kubrick archive at the London College of Communication, the family was rationalised and extended by MuirMcNeil into a fully functional monolinear, proportionally spaced character set with all four weights sharing identical character widths."
+  },
+  {
+    "name": "Stem",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/stem-typefaces/",
+    "designer": null,
+    "year": 2016,
+    "category": "display",
+    "subcategory": "neoclassical display serif",
+    "classification_notes": "Stem is a display type system modelled on late eighteenth-century neoclassical types by Didot and Bodoni, featuring extreme contrast, vertical axis and sharp serifs taken to geometric extremes; its systematic constructed approach places it firmly in the display category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Stem Thin",
+      "Stem Thick"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "neoclassical",
+      "display",
+      "high-contrast",
+      "geometric",
+      "stencil-lineage",
+      "constructed",
+      "bodoni-didot",
+      "editorial"
+    ],
+    "summary": "A display type system derived from neoclassical Didot and Bodoni models, pushed to geometric extremes across five weights in matching roman and italic styles.",
+    "description": "Developed from Cut, MuirMcNeil's earlier stencil typeface, Stem applies the systematic construction methods of early twentieth-century geometric type to the extreme contrast and vertical axis of late eighteenth-century neoclassical serifs. Stem Thin reduces letterforms to hairline strokes with detached razor-sharp serifs, intended solely for very large display use, while Stem Thick offers enough structural weight to hold at smaller display sizes. The collection spans five weights in both roman and italic, each sharing a rational, reductive approach to letterform assembly.",
+    "foundry_blurb": "MuirMcNeil describe Stem as a display type system first published in 2016 as a development of Cut, a stencil typeface inspired by baroque and modernist designs. Revised and expanded in 2020, the collection is modelled on the radical neoclassical typefaces of Firmin Didot and Giambatista Bodoni, with extreme contrast and vertical axis pushed further in each of its two variants. Stem's characters are assembled using systematic methods drawn from early twentieth-century constructed types, where basic geometric components are repositioned, repeated and reflected to build complete alphabets."
+  },
+  {
+    "name": "TwoBar Mono",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twobar-mono/",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "A monolinear, monospaced type system explicitly positioned as part of MuirMcNeil's Two Type System; the consistent stroke width and systematic grid-based construction place it firmly in the geometric mono category.",
+    "weights": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TwoBar Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "monolinear",
+      "geometric",
+      "system",
+      "display",
+      "text",
+      "modular"
+    ],
+    "summary": "A monolinear, monospaced type system in nine weights, forming one subgroup within MuirMcNeil's broader Two Type System.",
+    "description": "Part of MuirMcNeil's expansive Two Type System, TwoBar Mono is built around a consistent monolinear stroke and fixed-width grid across nine weights. Individual glyphs are designed to work in concert with others across the wider system rather than as a standalone alphabet. Suited to both text and display applications where systematic consistency and weight range are priorities.",
+    "foundry_blurb": "MuirMcNeil describe TwoBar Mono as a monolinear, monospaced type system in nine weights, intended for both text and display use. They position it as one part of their extensive Two Type System, in which subgroups are designed not as independent alphabets but as components of a shared design space, with glyphs configured to collaborate harmoniously across the system."
+  },
+  {
+    "name": "TenPoint",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/tenpoint/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "modular",
+    "classification_notes": "TenPoint is a strictly modular display system built on a geometric grid of circular disc cells, placing it firmly in the display category with a modular/experimental subcategory due to its systematic, rule-based construction and extreme abstraction at small sizes.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "08"
+    ],
+    "subfamilies": [
+      "TenPoint 01",
+      "TenPoint 02",
+      "TenPoint 03",
+      "TenPoint 04",
+      "TenPoint 05",
+      "TenPoint 06",
+      "TenPoint 08"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "geometric",
+      "experimental",
+      "layered",
+      "motion-graphics",
+      "display",
+      "grid-based",
+      "bitmap-inspired"
+    ],
+    "summary": "A modular type system by MuirMcNeil built from a single circular disc cell repeated on a fixed geometric grid, producing seven sizes that range from near-illegible textile-like patterns to rudimentary readability.",
+    "description": "Each of the seven sizes — indexed 01 through 08 by cell-count repetitions defining body height — behaves differently: the smallest reduce text to an abstracted linear weave, while larger sizes gradually resolve into identifiable letterforms. Every size ships as five variant typefaces, including a compound-path ready-to-use version and four decomposed layer sets that sit in perfect registration, enabling extensive opacity, layering and positional effects. The system is particularly suited to motion graphics, where precise registration allows controlled transitions across the scale of abstraction.",
+    "foundry_blurb": "MuirMcNeil describe TenPoint as an attempt to locate typographic objects at the lowest limit of their function as vehicles of language, constructed from repetitions of a single circular disc cell within a fixed geometric grid. Small counterforms prevent forms from merging into solid blocks and maintain grid constancy, while the layered variant structure gives designers wide control over opacity, registration and positional effects in both print and motion contexts."
+  },
+  {
+    "name": "ThreePoint",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/threepoint/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A dot-based three-dimensional display system built on orthographic projections; its layered, isometric construction and lack of conventional weight variation place it firmly in the display category with a geometric, grid-based character.",
+    "weights": [
+      "Light",
+      "Bold",
+      "Comp H",
+      "Comp V"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "ThreePoint A",
+      "ThreePoint B",
+      "ThreePoint C",
+      "ThreePoint D"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "dot-matrix",
+      "isometric",
+      "layered",
+      "3d",
+      "orthographic",
+      "modular",
+      "motion-graphics"
+    ],
+    "summary": "A dot-based three-dimensional display system built across four orthographic projections, each split into composite and sub-component typefaces designed for precise layered construction.",
+    "description": "ThreePoint extends MuirMcNeil's Panopticon into a dot-screen system of four projections — top right, bottom left, top left and bottom right — each available as two composite faces (darker horizontally or vertically) plus light and bold dot screens. Each projection also ships as four sub-component faces separating horizontal and vertical planes, which can be overlaid or offset to produce tints, colour splits and transparency effects. The system is particularly suited to motion graphics, where its tight dot-to-dot letter fitting and half-line interlinear increments allow precise registration across transitions.",
+    "foundry_blurb": "MuirMcNeil describe ThreePoint as a system of three-dimensional display typefaces implemented in four orthographic projections, developed from their Panopticon typeface. Each projection offers four ready-to-use composite faces alongside four layerable sub-component faces separating horizontal and vertical planes, enabling a wide range of print, fixed-media and motion graphics applications through overlays, offsets, colours, tints and transparencies."
+  },
+  {
+    "name": "TwoBit",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twobit-type-system/",
+    "designer": "MuirMcNeil",
+    "year": null,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "TwoBit A is explicitly described as a monospaced typeface; the family is built on a strict grid-based, segmented architecture with rounded terminals characteristic of geometric mono design.",
+    "weights": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TwoBit A",
+      "TwoBit B",
+      "TwoBit C",
+      "TwoBit D",
+      "TwoBit E"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "layered",
+      "modular",
+      "grid",
+      "system",
+      "segmented",
+      "experimental"
+    ],
+    "summary": "A five-variant monospaced type system in nine weights, built from interlocking sub-component segments designed to layer precisely on top of one another.",
+    "description": "Part of MuirMcNeil's broader Two Type System, TwoBit treats the alphabet not as a set of independent characters but as a design space of collaborating parts. TwoBit A is a conventional rounded monospaced face, while TwoBit B through E are each split into discrete segments that interlock when layered, allowing for dense chromatic and structural variation across nine weights per variant. The system reflects MuirMcNeil's characteristic approach of building typefaces as modular, rule-based systems rather than isolated designs.",
+    "foundry_blurb": "MuirMcNeil describe TwoBit as a type system of five variants, each in nine weights, forming part of their extensive Two Type System. TwoBit A is a conventional monospaced typeface with rounded terminals; TwoBit B, C, D and E are split into sub-component segments designed to interlock precisely in layers. The system's subgroups are conceived not as independent alphabets but as a framework of an expansive design space in which individual glyphs collaborate harmoniously."
+  },
+  {
+    "name": "TwoBlock",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twoblock-type-system/",
+    "designer": "MuirMcNeil",
+    "year": null,
+    "category": "display",
+    "subcategory": "modular display",
+    "classification_notes": "TwoBlock is a layered, modular type system with geometric block construction, designed explicitly for interlocking multi-layer compositions rather than conventional text setting, placing it firmly in the display category.",
+    "weights": [
+      "Weight 1",
+      "Weight 2",
+      "Weight 3",
+      "Weight 4",
+      "Weight 5",
+      "Weight 6",
+      "Weight 7",
+      "Weight 8",
+      "Weight 9"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TwoBlock A",
+      "TwoBlock B",
+      "TwoBlock C",
+      "TwoBlock D",
+      "TwoBlock E",
+      "TwoBlock F"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "layered",
+      "geometric",
+      "display",
+      "system",
+      "experimental",
+      "interlocking"
+    ],
+    "summary": "A six-part modular type system drawn in nine weights per variant, engineered to interlock in layers as part of MuirMcNeil's broader Two Type System.",
+    "description": "TwoBlock comprises four complete typefaces (A, B, C and D) alongside two sub-component variants (E and F) that separate the horizontal and vertical strokes of TwoBlock D for independent layering. All six variants share nine weights, each drawn to align precisely when overlaid, enabling dense, multi-layered compositions. The system sits within MuirMcNeil's wider Two Type System, conceived as a collaborative design space rather than a set of standalone alphabets.",
+    "foundry_blurb": "MuirMcNeil describe TwoBlock as a type system of four complete typefaces and two sub-component variants, all drawn in nine weights and designed to interlock precisely in layers. It forms part of the broader Two Type System, in which individual subgroups are conceived not as independent alphabets but as elements of an expansive, harmoniously configured design space."
+  },
+  {
+    "name": "TwoDot",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twodot-3-styles-7-weights-21-fonts-from-45/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "modular display",
+    "classification_notes": "TwoDot is a modular, grid-based display type system built on dot matrix structures with variant stroke styles; its constructivist, systematic nature places it firmly in the display/experimental category.",
+    "weights": [
+      "Weight 1",
+      "Weight 2",
+      "Weight 3",
+      "Weight 4",
+      "Weight 5",
+      "Weight 6",
+      "Weight 7"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TwoDot A",
+      "TwoDot B",
+      "TwoDot C"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "dot-matrix",
+      "layering",
+      "system",
+      "experimental",
+      "constructivist",
+      "display",
+      "geometric"
+    ],
+    "summary": "A dot-structured display typeface in three stroke variants and seven weights, designed to layer with other alphabets from MuirMcNeil's broader Two Type System.",
+    "description": "Part of MuirMcNeil's Two Type System, TwoDot is built on a common grid that governs letterforms, spacing and accompanying pattern panels, allowing precise superimposition with any of the system's 200-plus modular alphabets. Three variant styles define its character: Style A uses three dots to the stroke width, Style B applies a dotted outline stroke and Style C a dotted inline stroke, each available in seven weights. The system is designed for layered use in software, with interlocking or offset combinations accepting outlines, tints, colours, textures and transparencies.",
+    "foundry_blurb": "MuirMcNeil describe TwoDot as a subsystem within their expansive Two Type System, where individual glyphs across 200-plus modular alphabets share a common grid so that any pair can be superimposed to produce one of thousands of unique combinations. TwoDot specifically is implemented in three styles — a filled dot stroke, a dotted outline and a dotted inline — each in seven weights, and ships with additional grid background panels in corresponding weights and patterns."
+  },
+  {
+    "name": "TwoPoint H+I",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twopoint-hi/",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "modular mono",
+    "classification_notes": "TwoPoint H+I are explicitly described as monospaced modular typefaces, built on a systematic grid framework with dotted and rounded linear forms, placing them firmly in the monospaced category with a modular subcategory.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TwoPoint H",
+      "TwoPoint I"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "monospaced",
+      "dotted",
+      "geometric",
+      "systematic",
+      "grid-based"
+    ],
+    "summary": "A pair of monospaced modular typefaces in dotted and rounded linear forms, conceived as components within MuirMcNeil's broader Two Type System.",
+    "description": "TwoPoint H and I are matched variants within the Two Type System, distinguished by their dotted and rounded linear constructions respectively. Rather than standing as independent alphabets, they function as part of a larger framework in which individual glyphs are designed to work in concert across the system's many subgroups. The result is a highly systematic approach to type design suited to structured, grid-led graphic work.",
+    "foundry_blurb": "MuirMcNeil describe TwoPoint H and I as monospaced modular typefaces in matching dotted and rounded linear forms, forming part of their extensive Two Type System. The subgroups within the Two System are not conceived as independent alphabets but as a framework for an expansive design space, with individual glyphs configured to collaborate harmoniously with one another."
+  },
+  {
+    "name": "TwoLine",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twoline/",
+    "designer": "MuirMcNeil",
+    "year": 2015,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "TwoLine is a display typeface built on a systematic geometric framework, distinguished by its two-variant structure (Soft and Hard terminals) and its role within MuirMcNeil's broader Two Type System rather than functioning as a standalone alphabet.",
+    "weights": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TwoLine Soft",
+      "TwoLine Hard"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "systematic",
+      "modular",
+      "terminal-variants",
+      "identity",
+      "experimental"
+    ],
+    "summary": "A nine-weight geometric display family in two terminal variants, designed as part of MuirMcNeil's Two Type System and first produced for the London College of Communication degree shows in 2015.",
+    "description": "Built within the framework of MuirMcNeil's Two Type System, TwoLine offers Soft and Hard variants distinguished by rounded and square terminals respectively, each running across nine weights. The system's logic treats individual glyphs not as independent forms but as components of a shared design space intended to work in concert. Commissioned originally for LCC degree shows in 2015 and later expanded for TypeCon 2016, it carries strong credentials in institutional identity work.",
+    "foundry_blurb": "TwoLine originated as part of a custom type collection for the 2015 London College of Communication degree shows, and was subsequently revised and expanded for the American Society of Typographic Aficionados' TypeCon 2016 identity. It comes in two variants, Soft and Hard, defined by rounded and square terminals respectively, each across nine weights, and forms part of MuirMcNeil's extensive Two Type System, in which glyphs are configured to collaborate harmoniously rather than operate as independent alphabets."
+  },
+  {
+    "name": "TwoPoint",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twopoint/",
+    "designer": "MuirMcNeil",
+    "year": null,
+    "category": "display",
+    "subcategory": "bitmap/dot matrix",
+    "classification_notes": "TwoPoint is built on a two-dot stroke system within MuirMcNeil's Two Type System, using configurable dot-grid structures to form letterforms — a display bitmap typeface with systematic, modular construction.",
+    "weights": [
+      "Weight 1",
+      "Weight 2",
+      "Weight 3",
+      "Weight 4",
+      "Weight 5",
+      "Weight 6",
+      "Weight 7"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TwoPoint A",
+      "TwoPoint B",
+      "TwoPoint C",
+      "TwoPoint D"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "dot-matrix",
+      "bitmap",
+      "modular",
+      "systematic",
+      "grid",
+      "display",
+      "experimental",
+      "geometric"
+    ],
+    "summary": "A dot-grid display typeface built across four structural variants and seven weights as part of MuirMcNeil's broader Two Type System.",
+    "description": "Part of MuirMcNeil's expansive Two Type System, TwoPoint constructs letterforms from two-dot stroke units arranged in four distinct configurations: uniform dots, horizontal emphasis, vertical emphasis, and a chequerboard pattern. Each of the four styles runs through seven progressively incremented weights, with no positional changes between steps, maintaining structural coherence across the range. Matching grid backgrounds in corresponding weights and patterns are included, extending the system's use for layered and textural typographic work.",
+    "foundry_blurb": "MuirMcNeil describe TwoPoint as one subgroup within their Two Type System, conceived not as an independent alphabet but as part of a broader design space where glyphs are configured to work harmoniously together. The four styles — A, B, C and D — vary the dot arrangement to produce different directional emphases, from consistent two-dot strokes to chequerboard configurations, each available in seven incremental weights with accompanying grid backgrounds."
+  },
+  {
+    "name": "TwoSix",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twosix/",
+    "designer": "MuirMcNeil",
+    "year": null,
+    "category": "display",
+    "subcategory": "modular geometric",
+    "classification_notes": "TwoSix is a modular typeface built from geometric stroke units derived from the ThreeSix system, making it a display-oriented modular/geometric design rather than a conventional text face.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TwoSix"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "geometric",
+      "system",
+      "display",
+      "grid-based",
+      "experimental",
+      "structural"
+    ],
+    "summary": "A modular typeface constructed from the stroke geometries of MuirMcNeil's ThreeSix system, adapted to sit within the broader Two Type System.",
+    "description": "TwoSix draws its stroke geometry from ThreeSix, MuirMcNeil's earlier modular type system published in 2014 and now part of the Monotype collection. Its armature has been reworked to integrate harmoniously with the other typefaces in the Two Type System, a large family of related modular designs. Individual glyphs are configured not as standalone alphabets but as components of a shared design framework, intended to collaborate across subgroups.",
+    "foundry_blurb": "MuirMcNeil describe TwoSix as a modular typeface built using the stroke geometries of their ThreeSix system, adapted to work within the Two Type System. They position the subgroups not as independent alphabets but as parts of an expansive design space in which glyphs are configured to work harmoniously together."
+  },
+  {
+    "name": "TwoNet",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twonet-4-typefaces-5-styles-20-fonts-from-45/",
+    "designer": "MuirMcNeil",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "geometric modular",
+    "classification_notes": "TwoNet is a multilinear geometric display typeface built on a modular system of overlapping strokes and subcomponents, designed for layering and visual complexity rather than extended text setting.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Frequency 1",
+      "Frequency 2",
+      "Frequency 3",
+      "Frequency 4"
+    ],
+    "subfamilies": [
+      "TwoNet"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modular",
+      "layered",
+      "multilinear",
+      "experimental",
+      "display",
+      "system",
+      "grid"
+    ],
+    "summary": "A multilinear geometric typeface built for layering, organised across four stroke-frequency subsets within MuirMcNeil's Two System.",
+    "description": "Part of MuirMcNeil's wider Two System, TwoNet uses a modular geometric construction where weights, contours and spaces are calibrated to overlay precisely across fonts. Four stroke-frequency subsets increase in visual complexity, each available in three weights, with the median weight of every subset also supplied as split horizontal and vertical subcomponent fonts for granular compositional control. Originally created for the covers of MuirMcNeil's 2023 publication System Process Form, the family has since been refined into a standalone type system.",
+    "foundry_blurb": "MuirMcNeil describe TwoNet as a multilinear geometric typeface within their Two System, originally developed for the covers of System Process Form, their 2023 publication. The collection is organised across four stroke-frequency subsets of increasing visual complexity, offered in three weights, with median-weight subcomponent fonts provided as compatible horizontal and vertical parts. All Two System typefaces are modular geometric designs intended to work individually or in combination across two or more layers, with weights, frequencies, contours and spaces engineered to overlay perfectly."
+  },
+  {
+    "name": "TwoSix IO Zero",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twosix-io-zero/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "modular inline",
+    "classification_notes": "An inline/outline typeface built on a strict modular grid system with zero letter spacing, causing characters to touch and overlap; its layering logic and systematic construction place it firmly in the display category with a modular subcategory.",
+    "weights": [
+      "Weight 1",
+      "Weight 2",
+      "Weight 3",
+      "Weight 4",
+      "Weight 5",
+      "Weight 6",
+      "Weight 7",
+      "Weight 8"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TwoSix IO Zero",
+      "TwoSix IO Zero Monospaced"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "inline",
+      "outline",
+      "layering",
+      "systematic",
+      "grid-based",
+      "display",
+      "experimental"
+    ],
+    "summary": "An inline/outline display typeface in eight weights derived from MuirMcNeil's TwoSix system, with zero letter spacing so characters touch and overlap at their outlines.",
+    "description": "Part of MuirMcNeil's Two Type System, TwoSix IO Zero eliminates all letter spacing so that adjacent glyphs touch and their outlines overlap with precision, producing a dense, interlocking texture at any weight. Eight stroke weights are available alongside a set of eight monospaced alternates that share the same underlying grid, enabling layered glyph combinations across the broader Two Type System. The monospaced alternates extend its utility into structured, grid-locked compositions where consistent glyph widths are required.",
+    "foundry_blurb": "MuirMcNeil describe TwoSix IO Zero as an inline/outline typeface in eight weights based on TwoSix, itself part of the extensive Two Type System. In this variant, all letter spacing has been removed so adjacent characters touch and their outlines overlap precisely. A set of eight monospaced alternates, compatible with the Two Type System's shared grid, allows layered glyph combinations across the system."
+  },
+  {
+    "name": "TwoSlant",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twoslant/",
+    "designer": "MuirMcNeil",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "TwoSlant sits within MuirMcNeil's modular Two Type System and is built from angled linear forms, placing it firmly in the geometric display category with a system-driven, constructivist character.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "A",
+      "B"
+    ],
+    "subfamilies": [
+      "TwoSlant A",
+      "TwoSlant B"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modular",
+      "system",
+      "display",
+      "linear",
+      "constructivist",
+      "angled"
+    ],
+    "summary": "Part of MuirMcNeil's Two Type System, TwoSlant offers angled linear variants designed to work in concert with the broader modular family.",
+    "description": "TwoSlant A and B are members of MuirMcNeil's extensive Two Type System, distinguished by their angled linear construction. Rather than functioning as standalone alphabets, the variants are conceived as components of a larger design space in which glyphs are calibrated to collaborate across subgroups. The result is a tightly systematic typeface suited to applications where structural rigour and geometric precision are central.",
+    "foundry_blurb": "MuirMcNeil describe TwoSlant A and B as variants of their extensive Two Type System, rendered in matching angled linear forms. They note that the many subgroups within the Two System are not designed as independent alphabets but as the framework of an expansive design space, with individual glyphs configured to collaborate harmoniously with one another."
+  },
+  {
+    "name": "TwoString Typefaces",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twostring-typefaces/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric modular",
+    "classification_notes": "A modular, multilinear geometric display family built on a strict system of strokes and sub-components rather than conventional letterform construction; the system-based, non-independent design language places it firmly in experimental geometric display territory.",
+    "weights": [
+      "modulated stroke weights"
+    ],
+    "optical_sizes_or_widths": [
+      "3-line",
+      "5-line",
+      "9-line"
+    ],
+    "subfamilies": [
+      "TwoString Round",
+      "TwoString Square"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modular",
+      "multilinear",
+      "system",
+      "experimental",
+      "display",
+      "constructivist",
+      "combinatorial"
+    ],
+    "summary": "A modular geometric family built on a system of two-string strokes in three resolutions and two terminal variants, designed to combine with other typefaces across MuirMcNeil's Two Type System.",
+    "description": "TwoString uses stroke counts of three, five and nine lines to produce three distinct resolutions of the same underlying letterform structure, each available in round or square terminal variants. Every style also comes in modulated stroke weights and disassembled sub-component formats, allowing designers to mix parts across the system. The family is not conceived as a standalone alphabet but as one layer within MuirMcNeil's broader Two Type System, where glyphs from different sub-families are calibrated to work together harmoniously.",
+    "foundry_blurb": "MuirMcNeil describe TwoString as a multilinear geometric type family drawn at three resolutions with stroke counts of three, five and nine lines, offered in round and square terminal variants. Each style is available in modulated stroke weights and disassembled sub-component formats designed to combine with one another or with other typefaces across the Two Type System, which they frame not as a collection of independent alphabets but as an expansive design space where glyphs collaborate harmoniously."
+  },
+  {
+    "name": "TwoStencil",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twostencil/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "modular stencil",
+    "classification_notes": "TwoStencil is a display typeface built entirely from horizontal and vertical strokes in a modular grid system, functioning as a stencil-style constructed type rather than a conventional readable text face.",
+    "weights": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TwoStencil Soft",
+      "TwoStencil Hard"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "stencil",
+      "constructed",
+      "geometric",
+      "system",
+      "display",
+      "experimental"
+    ],
+    "summary": "A modular stencil typeface built entirely from horizontal and vertical strokes, released in two terminal variants across nine weights each as part of MuirMcNeil's Two Type System.",
+    "description": "TwoStencil is constructed from a strict grid of horizontal and vertical strokes, available in Soft (rounded terminals) and Hard (square terminals) versions, each in nine weights. Each version splits further into subcomponent typefaces, allowing the horizontal and vertical stroke weights and styles to be mixed independently or combined with other typefaces across MuirMcNeil's broader Two Type System. The design is conceived not as a standalone alphabet but as one element within an expansive, harmonically integrated typographic framework.",
+    "foundry_blurb": "MuirMcNeil describe TwoStencil as a modular typeface composed entirely of horizontal and vertical strokes, offered in Soft and Hard variants with rounded and square terminals respectively, each in nine weights. Each variant subdivides into subcomponent typefaces to allow individual stroke weights and styles to be combined freely within MuirMcNeil's Two Type System, which is conceived as a wide design space rather than a set of independent alphabets."
+  },
+  {
+    "name": "U_Pipe",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/u_pipe/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "modular stencil",
+    "classification_notes": "U_Pipe is a modular, multiline stencil display typeface built from a minimal set of component parts on a shared construction framework, placing it firmly in the display/experimental category.",
+    "weights": [
+      "B"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "U_Pipe"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "stencil",
+      "display",
+      "systematic",
+      "experimental",
+      "geometric",
+      "multiline"
+    ],
+    "summary": "A modular multiline stencil typeface built as a companion to U_Type, assembling characters automatically from a minimal set of shared component parts.",
+    "description": "U_Pipe extends the U_Type system into multiline territory, using the same shared construction framework where each character acts as a blueprint for automatic module arrangement. The result is a highly systematic display face whose forms are determined by rule rather than drawn conventionally. It suits work where the logic of construction is itself part of the visual statement.",
+    "foundry_blurb": "MuirMcNeil describe U_Pipe as a multiline companion to U_Type, a stencil typeface collection constructed on a shared framework from a minimal set of component parts, in which every character serves as a blueprint onto which different arrangements of modules are configured automatically."
+  },
+  {
+    "name": "TwoTone",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twotone/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "modular display",
+    "classification_notes": "TwoTone is a tonal variant within a larger modular type system, designed for visual collaboration between glyphs rather than as a standalone text face, placing it firmly in the display category.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TwoTone"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "system",
+      "display",
+      "tonal",
+      "geometric",
+      "experimental"
+    ],
+    "summary": "A tonal variant of TwoPoint H, designed as part of MuirMcNeil's broader Two Type System in which glyphs are configured to work together as a cohesive framework rather than as independent letterforms.",
+    "description": "TwoTone sits within MuirMcNeil's extensive Two Type System, a modular framework built from multiple subgroups designed to function collectively rather than as separate alphabets. Each glyph is shaped to collaborate harmoniously with others across the system, making TwoTone most effective when used alongside its sibling variants. The tonal character of the face distinguishes it from TwoPoint H, its direct counterpart within the system.",
+    "foundry_blurb": "MuirMcNeil describe TwoTone as a tonal variant of TwoPoint H and part of their expansive Two Type System. The system's subgroups are not conceived as independent alphabets but as a design framework in which individual glyphs are configured to collaborate harmoniously with one another."
+  },
+  {
+    "name": "TwoStroke",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/twostroke/",
+    "designer": "MuirMcNeil",
+    "year": 2015,
+    "category": "mono",
+    "subcategory": "geometric mono",
+    "classification_notes": "TwoStroke is explicitly described as a monospaced type system; its construction from rectangular grids gives it a strongly geometric character, placing it firmly in the geometric mono subcategory.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TwoStroke"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "geometric",
+      "grid-based",
+      "modular",
+      "system",
+      "identity",
+      "display"
+    ],
+    "summary": "A monospaced type system built from sixteen rectangular grids, originating as a custom commission for London College of Communication's 2015 degree shows before being expanded for TypeCon 2016.",
+    "description": "Constructed from sixteen corresponding rectangular grids, TwoStroke sits within MuirMcNeil's broader Two Type System, a framework in which individual glyphs are designed to collaborate rather than operate as isolated alphabets. The system was first developed for a custom type collection at London College of Communication's 2015 degree shows, then revised and extended for the American Society of Typographic Aficionados' TypeCon 2016 identity. Its strict modular logic makes it well suited to systematic, grid-driven visual identities.",
+    "foundry_blurb": "MuirMcNeil describe TwoStroke as a monospaced type system whose strokes are composed from sixteen corresponding rectangular grids. It originated as part of a custom collection for the 2015 LCC degree shows and was later revised and expanded for the TypeCon 2016 identity on behalf of the American Society of Typographic Aficionados. TwoStroke forms part of the broader Two Type System, in which subgroups are conceived not as independent alphabets but as components of an expansive design space where glyphs are configured to work harmoniously together."
+  },
+  {
+    "name": "U_Type",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/u_type/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "modular stencil",
+    "classification_notes": "U_Type is a constructed stencil display system built from a minimal shared set of modular components across six sub-families, with no conventional serif or sans-serif classification applicable.",
+    "weights": [
+      "standard"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "U_Line",
+      "U_Quad",
+      "U_Hexa",
+      "U_Octo",
+      "U_Span"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "modular",
+      "constructed",
+      "geometric",
+      "layering",
+      "display",
+      "system",
+      "experimental"
+    ],
+    "summary": "A collection of six compatible stencil type systems built from a shared modular framework, designed for precise overlay and colour layering.",
+    "description": "Six compatible stencil type systems, each constructed from a minimal shared set of component parts that are automatically configured across every character. Each system ships in two variants: Set A with open stencil bridges between subcomponents, and Set B where those intervals are reduced to hairlines. Fonts are designed to be overlaid in registration or calibrated offsets, enabling the application of multiple outlines, tints, colours, textures and transparencies through page layout or vector software.",
+    "foundry_blurb": "MuirMcNeil describe U_Type as a collection of stencil typefaces constructed on a shared framework from a minimal set of component parts, where every character acts as a blueprint for automatically configured modular arrangements. The six compatible type systems can be overlaid in precise registration or calibrated offsets to apply outlines, tints, colours, textures, patterns or transparencies. A companion set of multilinear fonts, U_Pipe, is available separately."
+  },
+  {
+    "name": "Worm Variable",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/worm-variable-typeface/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Worm Variable is a display typeface built on a consistent geometric framework, with individually shaped idiosyncratic letterforms rather than a systematically derived design, placing it firmly in the geometric display category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy",
+      "Fat"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Worm Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "variable",
+      "layerable",
+      "idiosyncratic",
+      "experimental",
+      "motion",
+      "print"
+    ],
+    "summary": "A variable font development of MuirMcNeil's Worm type system, spanning Thin to Fat across a continuous weight axis with eight intermediate presets and a layerable architecture.",
+    "description": "Each letterform is shaped individually rather than derived from a generalised design code, producing an alphabet that feels like a loose coalition of idiosyncratic characters held together by a shared geometric framework governing every contour, space and alignment. All instances are calibrated to layer precisely over one another, opening a range of visual combinations for print, interactive media and motion graphics. The variable axis runs continuously from Thin to Fat, with eight named weight presets as stopping points.",
+    "foundry_blurb": "MuirMcNeil describe Worm Variable as a development of their Worm type system, designed specifically for variable font technology. The weight axis slides from Thin to Fat with eight intermediate presets, and every instance is designed to interact in calibrated layers, enabling a broad range of visual options across print, interactive media and motion graphics. Letterforms are shaped individually within a consistent geometric framework rather than generated by an overarching design code."
+  },
+  {
+    "name": "Worm",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/worm-type-system/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "modular display",
+    "classification_notes": "Worm is a modular type system built on a consistent geometric framework but with individually shaped glyphs; its layering system and idiosyncratic character construction place it firmly in the display category.",
+    "weights": [
+      "Weight 1",
+      "Weight 2",
+      "Weight 3",
+      "Weight 4",
+      "Weight 5",
+      "Weight 6",
+      "Weight 7"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Worm"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "geometric",
+      "layered",
+      "display",
+      "experimental",
+      "system",
+      "idiosyncratic"
+    ],
+    "summary": "A seven-weight modular type system by MuirMcNeil in which individually shaped glyphs are designed to layer and interact across weights for print, screen and motion.",
+    "description": "Rather than generating letterforms from a fixed design code, each glyph in Worm has been drawn individually within a consistent geometric framework that governs contours, spacing and alignment. The seven weights are calibrated to sit on top of one another, so outlines from different cuts can be combined to produce a range of visual effects. The result sits somewhere between a strictly systematic typeface and a loosely coordinated alphabet of idiosyncratic characters.",
+    "foundry_blurb": "MuirMcNeil describe Worm as a modular type system in seven compatible weights, where each glyph is shaped individually rather than derived from an overarching design code. The letterforms are coordinated as a loose association of idiosyncratic characters held together by a consistent geometric framework governing every contour, space and alignment. All seven weights are designed to interact in calibrated layers, enabling outlines to be mapped onto each other for use in print, interactive media and motion graphics."
+  },
+  {
+    "name": "Wormhole",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/wormhole-type-system/",
+    "designer": "MuirMcNeil",
+    "year": null,
+    "category": "display",
+    "subcategory": "modular",
+    "classification_notes": "A modular type system designed for layering and combination, placing it firmly in the display category with a construction-based subcategory rather than any conventional serif or sans classification.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Wormhole"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "layered",
+      "system",
+      "display",
+      "experimental",
+      "geometric",
+      "motion",
+      "print"
+    ],
+    "summary": "A seven-style modular type system built for layering, with contours compatible across all styles and with the MuirMcNeil Worm family.",
+    "description": "Wormhole is a modular display system of seven styles, each designed to be stacked and combined with the others and with all weights of MuirMcNeil's Worm type system. Contour compatibility across the full range means styles can be mapped onto each other directly in page layout or vector software, opening a broad field of composite treatments. The system is suited to print, interactive and motion graphics contexts where layered typographic construction is central to the work.",
+    "foundry_blurb": "MuirMcNeil describe Wormhole as a modular type system designed in seven styles, built to interact in multiple layers with each other and with all weights of their Worm type system. Contours are fully compatible across the range, allowing users to map styles onto each other in page layout or vector drawing software, generating a wide range of visual options for print, interactive and motion graphics environments."
+  },
+  {
+    "name": "Two Type System",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/two-type-system/",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "modular display",
+    "classification_notes": "The Two Type System is a collection of modular display typefaces constructed from a shared glyph set on a common grid, spanning dot, stroke, stencil, bar and other geometric construction methods typical of display and experimental type systems.",
+    "weights": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TwoBar Mono",
+      "TwoBit",
+      "TwoBlock",
+      "TwoDot",
+      "TwoLine",
+      "TwoPoint A",
+      "TwoPoint B",
+      "TwoPoint C",
+      "TwoPoint D",
+      "TwoPoint H",
+      "TwoPoint I",
+      "TwoNet",
+      "TwoSix",
+      "TwoSix IO",
+      "TwoSlant",
+      "Two Stencil",
+      "TwoString",
+      "TwoStroke",
+      "TwoTone"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "geometric",
+      "display",
+      "grid-based",
+      "system",
+      "experimental",
+      "stencil",
+      "mono"
+    ],
+    "summary": "A system of 15 modular typeface families sharing a common glyph set and grid, spanning dot, bar, stroke, stencil and other geometric construction approaches across up to nine weights each.",
+    "description": "MuirMcNeil's Two Type System brings 15 typeface families under a single structural framework, with every glyph mapped to a common grid to ensure calibrated visual consistency across the entire collection. The families range from TwoBar Mono and TwoDot through to TwoStroke and TwoTone, each exploring a distinct construction method whilst maintaining formal coherence with the rest of the system. At 418 fonts in total, it is a thorough and disciplined exploration of modular type design for display and graphic contexts.",
+    "foundry_blurb": "MuirMcNeil describe the Two Type System as 15 typeface families built from a core set of glyphs mapped to a common grid, with each family available in up to nine calibrated weights, resulting in a total of 418 fonts across the complete collection."
+  },
+  {
+    "name": "MuirMcNeil Modular Type Collection",
+    "foundry": "Muirmcneil",
+    "url": "https://muirmcneil.com/project/mtc/",
+    "designer": "MuirMcNeil",
+    "year": null,
+    "category": "display",
+    "subcategory": "modular",
+    "classification_notes": "The collection is built entirely on modular, systematic design principles across geometric, grid-based and parametric constructions, placing it firmly in the display category with a modular subcategory.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Anode",
+      "Bisect",
+      "Beluga",
+      "Cathode",
+      "Cut",
+      "Cut Square",
+      "Diode",
+      "Farset & Feirste",
+      "Five",
+      "FourPoint",
+      "Generator",
+      "Interact",
+      "Interlock",
+      "Intersect",
+      "Minke",
+      "Nine Metric",
+      "Nine Mono",
+      "Orca",
+      "Panopticon",
+      "Rumori",
+      "Rumori S",
+      "Sentient",
+      "Stem",
+      "TenPoint",
+      "ThreePoint",
+      "TwoBar Mono",
+      "TwoBit",
+      "TwoBlock",
+      "TwoLine",
+      "TwoPoint A–D",
+      "TwoPoint H+I",
+      "TwoNet",
+      "TwoSix",
+      "TwoSix IO",
+      "TwoSlant",
+      "TwoStencil",
+      "TwoString",
+      "TwoStroke",
+      "TwoTone",
+      "Ubu",
+      "U_Type",
+      "U_Pipe",
+      "Worm",
+      "Wormhole",
+      "Worm Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "geometric",
+      "systematic",
+      "parametric",
+      "grid-based",
+      "display",
+      "experimental",
+      "collection"
+    ],
+    "summary": "A collection of over 800 fonts spanning more than 45 typeface families, all built on MuirMcNeil's signature modular and parametric design methodology.",
+    "description": "The MuirMcNeil Modular Type Collection bundles the full range of the studio's systematic typefaces, from geometric constructions like TwoPoint and ThreePoint to stencil, mono and variable formats. Each family in the collection is derived from a shared logic of modular unit systems, grid constraints and parametric variation, giving the collection a coherent internal architecture despite its breadth. Offered at a substantially discounted price relative to purchasing individual families, it excludes Sans Flux, Sans Sans and Sans Norm.",
+    "foundry_blurb": "MuirMcNeil present this as their complete modular type collection, comprising 800+ fonts across families including Anode, Bisect, Cut, TwoPoint and Worm Variable, available at a substantially discounted price through their shop. The collection excludes Sans Flux, Sans Sans and Sans Norm."
+  }
+]

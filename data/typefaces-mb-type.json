@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Heliotrope",
+    "foundry": "MB Type",
+    "url": "https://mbtype.com/fonts/heliotrope",
+    "designer": "Matthew Butterick",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Heliotrope presents characteristics consistent with a transitional serif: moderate contrast, bracketed serifs and a rational structure suited to extended text reading at small sizes.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Heliotrope"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "transitional",
+      "book",
+      "reading",
+      "editorial"
+    ],
+    "summary": "A text serif from MB Type designed for long-form reading in digital and print environments.",
+    "description": "A transitional-style text serif built for sustained reading, with proportions and spacing calibrated for body copy at small sizes. The sample text draws from an OSS field manual, suggesting a functional, no-nonsense design ethos. Part of MB Type's library of typefaces aimed at professional publishing and document typography.",
+    "foundry_blurb": "Heliotrope is available from MB Type as part of an eight-family library, priced at $119 alongside families including Concourse, Equity, Triplicate and Valkyrie."
+  },
+  {
+    "name": "Triplicate",
+    "foundry": "MB Type",
+    "url": "https://mbtype.com/fonts/triplicate",
+    "designer": "Matthew Butterick",
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced serif",
+    "classification_notes": "Triplicate is a monospaced typeface with serif details, designed for coding and writing environments. The combination of fixed-width metrics with serif letterforms places it firmly in the monospaced serif subcategory.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Triplicate"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "serif",
+      "coding",
+      "writing",
+      "literary",
+      "typewriter",
+      "editorial"
+    ],
+    "summary": "A monospaced serif from Matthew Butterick designed to bring warmth and legibility to coding and writing contexts where most faces sacrifice character.",
+    "description": "Triplicate pairs fixed-width metrics with the texture of a traditional serif, making it unusual among coding fonts that typically favour sterile geometry. It is designed by Matthew Butterick, whose Practical Typography has shaped how many designers and writers think about type in the browser. The result reads well at small sizes in a terminal or text editor while retaining enough personality for literary and editorial use.",
+    "foundry_blurb": "Triplicate is available from MB Type as part of a library of typefaces designed by Matthew Butterick, alongside families including Advocate, Century Supra, Concourse, Equity, Heliotrope, Hermes Maia and Valkyrie."
+  },
+  {
+    "name": "Equity",
+    "foundry": "MB Type",
+    "url": "https://mbtype.com/fonts/equity",
+    "designer": "Matthew Butterick",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Equity is a serif typeface designed for body text in legal and academic documents, drawing on transitional serif conventions with refined proportions suited to small sizes and long-form reading.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Equity"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "legal",
+      "academic",
+      "book",
+      "readable",
+      "professional",
+      "transitional"
+    ],
+    "summary": "A text serif from Matthew Butterick, designed specifically for legal and academic documents where clarity at small sizes is the primary concern.",
+    "description": "Equity is built for long-form reading in professional and legal contexts, with proportions and spacing tuned for the kind of dense, small-print documents common in law and academia. It sits in a tradition of transitional serifs but is shaped by practical constraints rather than historical revival. MB Type packages it for workaday document use, making it a rare serif that genuinely serves its intended purpose rather than approximating it.",
+    "foundry_blurb": "Equity is part of MB Type's library of eight families, positioned alongside other text and document-focused releases such as Concourse, Triplicate and Valkyrie, and offered as a paid typeface suited to professional document work."
+  },
+  {
+    "name": "Century Supra",
+    "foundry": "MB Type",
+    "url": "https://mbtype.com/fonts/century-supra",
+    "designer": "Matthew Butterick",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Century Supra draws from the Century lineage of transitional serifs, combining sturdy bracketed serifs and moderate contrast with text-optimised proportions suited to long-form reading.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Century Supra"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "century-revival",
+      "text",
+      "book",
+      "editorial",
+      "legal",
+      "print"
+    ],
+    "summary": "A revival of the Century typeface family by Matthew Butterick, refined for modern text setting and document use.",
+    "description": "Century Supra draws on the Century tradition of sturdy, readable transitional serifs, reworked for contemporary document and editorial contexts. It carries the bracketed serifs, moderate stroke contrast and generous proportions that made the Century lineage a staple of book and legal typography. Sold as part of the MB Type library alongside other text-focused families such as Equity and Valkyrie.",
+    "foundry_blurb": "Century Supra is available from MB Type as part of a library of eight families, priced at $119, alongside related text faces including Equity, Valkyrie and Triplicate."
+  },
+  {
+    "name": "Valkyrie",
+    "foundry": "MB Type",
+    "url": "https://mbtype.com/fonts/valkyrie",
+    "designer": "Matthew Butterick",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Valkyrie has the structured, high-contrast characteristics of a transitional serif, designed for long-form text setting at screen and print sizes, consistent with MB Type's focus on book and document typography.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Valkyrie"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "transitional",
+      "text",
+      "book",
+      "document",
+      "screen",
+      "legal",
+      "editorial"
+    ],
+    "summary": "A transitional serif from MB Type designed for long-form document and book typography across screen and print.",
+    "description": "Valkyrie is a text serif aimed at legal, academic and book work where sustained readability is the primary concern. It sits within the MB Type library alongside Equity and Century Supra, a stable of faces built for typographically demanding documents. The design holds up at typical body text sizes on screen without sacrificing character at print resolutions.",
+    "foundry_blurb": "Valkyrie is part of the MB Type library of typefaces designed for serious document and book typography, available individually or as part of the full library bundle of eight families."
+  },
+  {
+    "name": "Concourse",
+    "foundry": "MB Type",
+    "url": "https://mbtype.com/fonts/concourse",
+    "designer": "Matthew Butterick",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Concourse is a humanist sans-serif drawn with calligraphic influences and open apertures typical of the humanist genre, designed for extended reading in documents and on screen.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Concourse"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "document",
+      "screen",
+      "legibility",
+      "text",
+      "professional"
+    ],
+    "summary": "A humanist sans-serif from MB Type designed for long-form reading in professional documents and on screen.",
+    "description": "Created by Matthew Butterick for MB Type, Concourse is a humanist sans-serif built for document use and sustained on-screen reading. Its open apertures and calligraphic proportions keep it legible at text sizes without sacrificing character at display. Priced as a standalone family, it sits alongside Butterick's other text-focused releases including Equity and Triplicate.",
+    "foundry_blurb": "Concourse is a humanist sans-serif available from MB Type, offered as part of a library of typefaces designed with document and screen legibility in mind."
+  },
+  {
+    "name": "Advocate",
+    "foundry": "MB Type",
+    "url": "https://mbtype.com/fonts/advocate",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The sample text and overall presentation suggest a text-focused serif with classical proportions; without explicit classification notes on the page, the clean, readable forms point to a transitional serif design suited to body text and documents.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Advocate"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "transitional",
+      "document",
+      "readable",
+      "classical"
+    ],
+    "summary": "A text serif from MB Type designed for extended reading in documents and print.",
+    "description": "Advocate sits in MB Type's library alongside other text-focused designs such as Equity and Century Supra, suggesting a similar emphasis on legibility at body sizes. The sample copy, drawn from a wartime document, demonstrates the face's suitability for sustained prose. Details on the page are sparse, but the overall presentation positions it as a straightforward, functional text serif.",
+    "foundry_blurb": "MB Type offer Advocate as part of their library of eight families, alongside Century Supra, Concourse, Equity, Heliotrope, Hermes Maia, Triplicate and Valkyrie."
+  },
+  {
+    "name": "Hermes Maia",
+    "foundry": "MB Type",
+    "url": "https://mbtype.com/fonts/hermes-maia",
+    "designer": "Matthew Butterick",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The specimen text and overall design suggest a clean, legible humanist sans-serif intended for body and editorial use, consistent with MB Type's focus on text-oriented typefaces for reading environments.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hermes Maia"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "text",
+      "editorial",
+      "reading",
+      "clean",
+      "functional"
+    ],
+    "summary": "A humanist sans from MB Type designed for sustained reading in editorial and document contexts.",
+    "description": "Hermes Maia is part of Matthew Butterick's MB Type library, a collection known for text-first typefaces built around legibility and practical performance on the page. The family is offered alongside other MB Type text faces including Equity, Concourse and Triplicate, suggesting a similar focus on document and long-form use. Priced at $119, it sits within a tightly curated library of eight families.",
+    "foundry_blurb": "Hermes Maia is offered by MB Type as part of their library of eight type families, available individually at $119 or as part of a library subscription alongside faces such as Advocate, Concourse, Equity and Triplicate."
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "name": "CMM Modul",
+    "foundry": "Comma Type",
+    "url": "https://commatype.com/cmm-modul/",
+    "designer": "Anna Cairns",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Built from a small set of repeated modules on a geometric skeleton, it is explicitly designed for display use and sits outside conventional text type categories. The stencil variant and modular construction reinforce its display orientation.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "CMM Modul"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "modular",
+      "display",
+      "stencil",
+      "constructivist",
+      "playful",
+      "single-weight"
+    ],
+    "summary": "A modular geometric display face by Anna Cairns that toggles between playful naiveté and constructivist rigidity through OpenType alternates.",
+    "description": "Each letterform is assembled from a minimal set of shared modules, giving the family a consistent structural logic that can read as architectural or childlike depending on context. Stylistic sets cover alternative letterforms, a stencil version, square punctuation and a baseline-aligned descender option for tighter line spacing. Released in 2024 after four years of development, it exists as a single Regular weight with considerable character variety packed into OpenType features.",
+    "foundry_blurb": "Comma Type describe CMM Modul as a constructed geometric display typeface with two personalities: one a child in play, the other a rigorous architect. Its potential lies between naiveté and constructivity, looseness and stability, motion and order. Each letter is composed from a small set of simple modules balancing simplicity and readability, with stylistic sets offering alternative letters, ligatures, a stencil version and descenders-on-baseline for compact line spacing."
+  },
+  {
+    "name": "CMM Coda",
+    "foundry": "Comma Type",
+    "url": "https://commatype.com/cmm-coda/",
+    "designer": "Anna Cairns",
+    "year": 2024,
+    "category": "mono",
+    "subcategory": "typewriter-derived monospace",
+    "classification_notes": "Derived from Dual Basic, a 1960s IBM Selectric typewriter face, the family includes both monospaced and proportional styles with a warm analogue aesthetic rooted in typewriter typography.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "CMM Coda Mono Sans",
+      "CMM Coda Mono Serif",
+      "CMM Coda Proportional"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "typewriter",
+      "monospaced",
+      "analogue",
+      "feminist-history",
+      "editorial",
+      "identity",
+      "coding-aesthetic",
+      "proportional"
+    ],
+    "summary": "A typewriter-derived family by Anna Cairns drawn from the IBM Selectric's Dual Basic face, offered in three structurally distinct styles with a feminist conceptual framework connecting typing, coding and writing.",
+    "description": "Based on Dual Basic, a 1960s IBM Selectric typeface, CMM Coda splits into Mono Sans, Mono Serif and Proportional, each with an italic, offering an unusual breadth within a shared analogue DNA. Stylistic sets including normalised proportions, alternate letterforms and a German gender symbol asterisk substantially alter the character of each style. The conceptual premise links the history of women in typing and software engineering to the visual language of monospaced and proportionally spaced type.",
+    "foundry_blurb": "Comma Type describe CMM Coda as a warm typewriter font with subtly rounded edges and an analogue aesthetic, based on Dual Basic from the IBM Selectric typewriter. They frame the design as drawing a conceptual and typographic connection between typing, coding and writing, connecting feminist histories of typewriters and software engineering with the visual character of mono and proportional spacing. Designed and mastered by Anna Cairns, released in 2024."
+  },
+  {
+    "name": "CMM Radio",
+    "foundry": "Comma Type",
+    "url": "https://commatype.com/cmm-radio/",
+    "designer": "Anna Cairns",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Explicitly geometric sans serif in the Futura lineage, with strictly monolinear strokes and circle-based constructions; the foundry describes it as geometric sans with enhanced consistency over Renner's original sketches.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "CMM Radio"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "futura-inspired",
+      "monolinear",
+      "accessibility",
+      "opentype-features",
+      "variable",
+      "modernist",
+      "inclusive"
+    ],
+    "summary": "A geometric sans rooted in Futura's 1924 sketches but redesigned for improved legibility, with three distinct OpenType letterform sets covering arched, stylised and inclusive variants.",
+    "description": "Designed by Anna Cairns and released in 2026, it departs from revival territory by pushing Futura's geometry further: x-height is raised, corners are slightly cut and strokes are made as monolinear as possible. Three switchable OpenType letterform modes let designers toggle between right-angled classical forms, arched conventional shapes and an inclusive set that eliminates mirrored letters to aid distinction. Available as individual Regular and Regular Italic cuts or as a variable font; additional weights are planned for later in 2026.",
+    "foundry_blurb": "Comma Type describe CMM Radio as a geometric sans that tunes modernist aesthetics to contemporary needs by reimagining Futura with legibility and inclusivity in mind. Rather than a revival, the goal was greater geometric consistency alongside improved readability, achieved through a raised x-height, slightly cut corners and monolinear strokes. The Inclusive Letterforms feature avoids mirrored shapes to distinguish every letter, an approach the foundry notes is rare in the geometric sans category."
+  }
+]

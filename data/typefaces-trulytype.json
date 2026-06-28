@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Werk Sans",
+    "foundry": "Trulytype",
+    "url": "https://trulytype.com/fonts/werk-sans/",
+    "designer": null,
+    "year": 2015,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The foundry describes Werk Sans as a modern geometric typeface with roots in 1920s and 30s sans serifs, placing it squarely in the geometric sans tradition alongside contemporaries such as Futura.",
+    "weights": [
+      "4 weights"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Werk Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "mid-century",
+      "signage",
+      "editorial",
+      "poster",
+      "magazine"
+    ],
+    "summary": "A geometric sans with mid-century references, built for signage, editorial and display work across four weights.",
+    "description": "Werk Sans draws on the precision of 1920s and 30s geometric type while introducing subtle humanist corrections to keep text readable at body sizes. Four weights with alternates serve a range of applications from magazine headers to poster titles. The extended Latin glyph set covers a broad range of European languages with support for diacritics across Central and Northern European scripts.",
+    "foundry_blurb": "Trulytype describe Werk Sans as a modern geometric typeface rooted in the sans serifs of the 1920s and 30s, balancing geometric precision with a human touch that echoes mid-century architecture journals. They position it as versatile across titles, signage, magazines and posters, with alternates that respect proportion and space."
+  },
+  {
+    "name": "Afrika Sans",
+    "foundry": "Trulytype",
+    "url": "https://trulytype.com/fonts/afrika-sans/",
+    "designer": null,
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as having brush-like strokes and a clean modern structure, placing it within humanist sans-serif territory where calligraphic influence softens an otherwise contemporary skeletal form.",
+    "weights": [
+      "Weight 1",
+      "Weight 2",
+      "Weight 3",
+      "Weight 4",
+      "Weight 5"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Afrika Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "brush-influenced",
+      "african-inspired",
+      "warm",
+      "contemporary",
+      "display",
+      "versatile"
+    ],
+    "summary": "A sans-serif with brush-like stroke modulation, drawn from the influence African art movements had on 20th-century European avant-garde work.",
+    "description": "Released in 2017, Afrika Sans takes its conceptual cue from the sculptural and tactile qualities that drew artists like Picasso and Matisse toward African traditional forms. Its strokes carry a visible calligraphic quality that gives the letterforms warmth and movement without sacrificing a clean, modern structure. Five weights and broad Latin Extended coverage make it usable across branding, editorial and display contexts where a touch of textural character is welcome.",
+    "foundry_blurb": "Trulytype describe Afrika Sans as a warm, romantic typeface inspired by the 20th-century African art movement, channelling the same spirit of innovation that led European avant-garde artists to draw from African sculpture. Brush-like strokes lend a sense of movement and tactility, while a clean modern structure keeps it versatile, bridging artistic tradition with contemporary elegance in a form that is both sculptural and avant-garde."
+  },
+  {
+    "name": "Ordinary Sans",
+    "foundry": "Trulytype",
+    "url": "https://trulytype.com/fonts/ordinary-sans/",
+    "designer": null,
+    "year": 2014,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "The page categorises it as Display and Sans Serif with a geometric touch; clean, balanced proportions and a modern construction place it firmly in the geometric sans tradition.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Heavy",
+      "Display Bold",
+      "Display Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Ordinary Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "display",
+      "text",
+      "legible",
+      "multipurpose",
+      "latin-extended",
+      "companion"
+    ],
+    "summary": "A geometric sans with text and display weights, designed as a companion to the Everyday Sans family and released in 2014 with broad Latin script coverage.",
+    "description": "Described as drawing from the quiet beauty of daily routines, Ordinary Sans pairs clean geometric proportions with subtle character details intended to reveal themselves with extended use. The family spans 12 weights with matching italics, split between refined text weights for smaller settings and bolder display cuts for large-scale use. Latin coverage extends across a wide range of European and minority languages.",
+    "foundry_blurb": "Trulytype describe Ordinary Sans as a modern sans serif with a geometric touch, created as a companion to the Everyday Sans family. They position it as a typeface for extensive use, where subtle character variations become apparent over time, and note its 12 weights with matching italics offer flexibility from bold display statements down to refined text settings."
+  },
+  {
+    "name": "Everyday Sans",
+    "foundry": "Trulytype",
+    "url": "https://trulytype.com/fonts/everyday-sans/",
+    "designer": null,
+    "year": 2014,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as distilled from 20 different fonts with warm, playful strokes and refined forms, suggesting a humanist sans approach rather than a strictly geometric or grotesque one.",
+    "weights": [
+      "Weight 1",
+      "Weight 2",
+      "Weight 3",
+      "Weight 4"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Everyday Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "humanist",
+      "warmth",
+      "editorial",
+      "branding",
+      "latin-extended",
+      "multi-language"
+    ],
+    "summary": "A four-weight sans-serif drawn from the study of 20 typefaces, aiming for a broadly familiar neutrality with a slightly elevated x-height.",
+    "description": "Released in 2014, Everyday Sans attempts to distil a common visual language from a survey of existing sans-serif typefaces, landing somewhere between warmth and restraint. The elevated x-height aids legibility at smaller sizes, and the broad language support covers over 60 Latin-based languages. Four weights are available in OTF and WOFF2 formats, making it functional across editorial and branding contexts without strong stylistic distinction.",
+    "foundry_blurb": "Trulytype describe Everyday Sans as a typeface distilled from the study of 20 fonts, designed to capture a universal simplicity and balance of familiarity and charm. They position it as celebrating everyday beauty through playful strokes and refined forms, with an elevated x-height and versatile proportions that adapt across editorial design, branding and beyond."
+  },
+  {
+    "name": "Dakota Serif",
+    "foundry": "Trulytype",
+    "url": "https://trulytype.com/fonts/dakota-serif/",
+    "designer": null,
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Described as having organic, imperfect qualities inspired by the human form, placing it within the humanist serif tradition where warmth and character take precedence over geometric precision.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dakota Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "humanist",
+      "fashion",
+      "editorial",
+      "organic",
+      "vintage",
+      "single-weight"
+    ],
+    "summary": "A single-weight serif with deliberately organic letterforms, referencing the aesthetic of archival Comme des Garçons printed matter.",
+    "description": "Released in 2024 by Trulytype, Dakota Serif is a single-weight serif that leans into intentional irregularity, drawing inspiration from the contours of the human body and the ephemeral print culture of vintage fashion. The design aims for a balance between refinement and idiosyncrasy, suited to editorial, branding or fashion contexts that want a serif with personality rather than neutrality. Latin Extended coverage spans a wide range of European and African languages.",
+    "foundry_blurb": "Trulytype describe Dakota Serif as a timeless serif with a human touch, inspired by the imperfect beauty of the human form and the spirit of vintage Comme des Garçons ephemera and archival fashion. They frame it as a typeface that embraces the unconventional while remaining refined, offering both elegance and edge."
+  },
+  {
+    "name": "Practice Sans",
+    "foundry": "Trulytype",
+    "url": "https://trulytype.com/fonts/practice-sans/",
+    "designer": null,
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A sans-serif with geometric construction and deliberate stencil-like breaks at diagonal junctions, placing it broadly within geometric sans territory with a display-leaning character.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Practice Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "stencil",
+      "modern",
+      "branding",
+      "editorial",
+      "display",
+      "bold"
+    ],
+    "summary": "A geometric sans with angled disconnections at diagonal strokes, giving letterforms such as A, M, N and V a stencil-like quality across nine weights.",
+    "description": "Released in 2018, Practice Sans distinguishes itself through deliberate angled breaks at diagonal junctions in letters like A, M, N, V, W and y, producing a partial stencil effect within an otherwise clean geometric sans structure. Nine weights are available in OTF and WOFF2 formats with broad Latin Extended language coverage spanning over sixty languages. The effect works well in branding and display contexts where a touch of constructed rigidity is wanted without fully committing to an actual stencil face.",
+    "foundry_blurb": "Trulytype describe Practice Sans as a genre-bending sans-serif inspired by the act of practice itself, where ideas are limitless and conventions challenged. They highlight its angled disconnections as a standout feature that gives certain letterforms a stencil-like appearance, and position it as their best-selling typeface suited to branding, editorial design and a wide range of industries."
+  },
+  {
+    "name": "Dooijes Sans",
+    "foundry": "Trulytype",
+    "url": "https://trulytype.com/fonts/dooijes-sans/",
+    "designer": null,
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as friendly and warm with a contemporary character inspired by Dutch museum catalogues, placing it in the humanist sans tradition where personality tempers neutrality.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dooijes Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "dutch",
+      "museum",
+      "wayfinding",
+      "neutral",
+      "friendly",
+      "editorial"
+    ],
+    "summary": "A four-weight sans inspired by Dutch museum catalogues, designed to read as neutral without sacrificing warmth or personality.",
+    "description": "Drawn from the visual language of Dutch museum print, Dooijes Sans positions itself between clinical neutrality and approachable warmth. Four weights and a set of alternates offer enough variation for wayfinding, editorial and branding contexts. Language support covers English and a range of Latin-script languages including Indonesian, Swahili and Malay.",
+    "foundry_blurb": "Trulytype describe Dooijes Sans as a modern typeface inspired by Dutch museum catalogues, offering a friendly alternative to conventional neutral fonts. They highlight its range of alternates for creative expression and position it for use in museum catalogues, wayfinding systems and arts-adjacent projects where clarity and personality are both required."
+  },
+  {
+    "name": "Tilt Script",
+    "foundry": "Trulytype",
+    "url": "https://trulytype.com/fonts/tilt-sans/",
+    "designer": null,
+    "year": 2017,
+    "category": "script",
+    "subcategory": "display script",
+    "classification_notes": "Explicitly categorised as Script by the foundry, with sign-painting influences and a tilt system that introduces angle variation across weights for expressive, display-oriented use.",
+    "weights": [
+      "Weight 1",
+      "Weight 2",
+      "Weight 3",
+      "Weight 4"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tilt Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "sign-painting",
+      "display",
+      "expressive",
+      "handcrafted",
+      "tilted",
+      "headline"
+    ],
+    "summary": "A sign-painting-inspired script with a tilt system that adjusts the angle of each weight to vary expressive intensity.",
+    "description": "Each of the four weights introduces a different tilt angle, giving designers a way to control how much movement and personality a layout carries. The letterforms draw on sign-painting tradition while maintaining a contemporary finish suited to headlines and display settings. Language support spans a broad range of Latin-based scripts across Europe, Africa and Southeast Asia.",
+    "foundry_blurb": "Trulytype describe Tilt Script as an expressive typeface that reimagines sign painting, combining handcrafted character with contemporary design. Its tilt system gives each weight a distinct angle, letting designers dial the expressive impact up or down. The foundry position it as a typeface with personality and presence suited to bold headlines, displays and statement typography."
+  },
+  {
+    "name": "Blanche Sans",
+    "foundry": "Trulytype",
+    "url": "https://trulytype.com/fonts/blanche-sans/",
+    "designer": null,
+    "year": 2015,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Inspired by Bauhaus principles and Paul Renner, Blanche Sans is built on geometric foundations with humanist proportions, placing it squarely in the geometric sans tradition.",
+    "weights": [
+      "Weight 1",
+      "Weight 2",
+      "Weight 3",
+      "Weight 4",
+      "Weight 5"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blanche Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "bauhaus-inspired",
+      "modernist",
+      "humanist",
+      "approachable",
+      "clean"
+    ],
+    "summary": "A geometric sans with Bauhaus lineage, blending rational structure with humanist warmth across five weights.",
+    "description": "Drawing on the Bauhaus and the influence of Paul Renner, this typeface pairs geometric construction with approachable proportions that soften its modernist rigour. Released in 2015, it covers an extensive range of Latin-extended languages, making it a practical choice for multilingual work. The five-weight range suits both display and text applications without straying far from its clean, optimistic character.",
+    "foundry_blurb": "Trulytype describe Blanche Sans as a playful and refined sans serif channelling the optimism and modernity of early 20th-century design. Inspired by the Bauhaus and Paul Renner's vision of merging clarity with humanist proportions, it aims to balance rationality and functionality with warmth, capturing what the foundry calls the joy, clarity and timeless appeal of modernist typography."
+  },
+  {
+    "name": "Yoko Mono",
+    "foundry": "Trulytype",
+    "url": "https://trulytype.com/fonts/yoko-mono/",
+    "designer": null,
+    "year": 2017,
+    "category": "mono",
+    "subcategory": "geometric monospace",
+    "classification_notes": "Listed under Monospace and Sans Serif by the foundry; square-infused letterforms with a fixed-width structure place it firmly in the geometric monospace category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Yoko Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "geometric",
+      "experimental",
+      "concrete-poetry",
+      "graphic",
+      "expressive",
+      "single-weight",
+      "display"
+    ],
+    "summary": "A single-weight monospace inspired by Yoko Ono's poetry and the visual traditions of concrete poetry, with square, brush-inflected letterforms.",
+    "description": "Released in 2017, the typeface draws on concrete poetry's idea of letterforms as visual material in their own right, with squared shapes that echo a painter's brushwork. Available in one weight only, it covers an unusually broad Latin script range spanning over fifty languages. Best suited to experimental, sculptural typographic work rather than extended text.",
+    "foundry_blurb": "Trulytype describe Yoko Mono as shaped by the poetic works of Yoko Ono and the visual language of concrete poetry, where letterforms become the raw material for ideas. They highlight its square-infused shapes reminiscent of a painter's brush strokes, creating a graphic and expressive texture. Versatile yet unconventional, it is said to shine most in sculptural, experimental compositions."
+  },
+  {
+    "name": "Grotex Sans",
+    "foundry": "Trulytype",
+    "url": "https://trulytype.com/fonts/grotex-sans/",
+    "designer": null,
+    "year": 2013,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Described as inspired by typefaces used to teach children to draw sans serifs, suggesting a humanist, hand-influenced construction with warmth and legibility rather than strict geometric or grotesque forms.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grotex Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "nostalgic",
+      "legible",
+      "body-text",
+      "display",
+      "warm",
+      "educational"
+    ],
+    "summary": "A three-weight humanist sans drawn from the tradition of didactic lettering guides used to teach children to construct sans serif letterforms.",
+    "description": "Inspired by the instructional typefaces once used in children's lettering education, Grotex Sans carries rounded, approachable forms that sit comfortably across headlines, body text and display use. Three weights are available in OTF and WOFF2 formats with broad Latin Extended coverage spanning over fifty languages. The design leans on familiarity rather than novelty, offering legibility and a mild warmth without strong stylistic assertion.",
+    "foundry_blurb": "Trulytype describe Grotex Sans as a modern typeface that pays homage to old-school books, inspired by letterforms once used to teach children how to draw sans serifs. They position it as timeless yet fresh, blending memory with modernity, and highlight its versatility across headlines, body text and display settings, with warmth, clarity and a human touch as its defining qualities."
+  },
+  {
+    "name": "Ulrich Sans",
+    "foundry": "Trulytype",
+    "url": "https://trulytype.com/fonts/ulrich-sans/",
+    "designer": null,
+    "year": 2018,
+    "category": "display",
+    "subcategory": "glyphic display",
+    "classification_notes": "The foundry categorises it as Display and Sans Serif; its blend of classical glyphic seriffed strokes with otherwise sans-serif structure places it firmly in the glyphic display camp, designed for headlines rather than extended text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ulrich Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "glyphic",
+      "display",
+      "editorial",
+      "headline",
+      "art-world",
+      "alternates",
+      "single-weight"
+    ],
+    "summary": "A single-weight glyphic display typeface that mixes incised serif forms with sans-serif structure, conceived in reference to curator Hans Ulrich Obrist.",
+    "description": "Released in 2018, Ulrich Sans draws on the glyphic tradition, where letterforms carry the trace of a chisel or incised stroke rather than a drawn pen, whilst shedding conventional serifs for a stripped silhouette. A thoughtful set of alternates extends its usefulness for headline compositions and expressive typesetting. At one weight with broad Latin Extended language support, it suits art-world publishing, cultural institutions and editorial contexts where a slightly unconventional display voice is wanted.",
+    "foundry_blurb": "Trulytype describe Ulrich Sans as a glyphic typeface shaped by the perspective of curator Hans Ulrich Obrist, merging classical glyphic forms with innovation and artistic exploration. They frame its blend of serif and sans-serif elements as both refined and unconventional, with alternates designed for expressive headlines, and position it as a vehicle for heartfelt, authentic messages."
+  },
+  {
+    "name": "Winona Sans",
+    "foundry": "Trulytype",
+    "url": "https://trulytype.com/fonts/winona-sans/",
+    "designer": null,
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "contemporary sans",
+    "classification_notes": "Described as a contemporary sans with structured forms and refined stroke contrast; sits between humanist and transitional sans conventions without fitting neatly into a single historical subcategory.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Winona Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "contemporary",
+      "workhorse",
+      "extended-latin",
+      "opentype",
+      "multilingual",
+      "structured",
+      "versatile"
+    ],
+    "summary": "A five-weight contemporary sans with stroke contrast and broad Latin language support, released in 2025 by Trulytype.",
+    "description": "Structured forms meet modest thick-thin stroke contrast across five weights from Thin to Bold, each accompanied by italics. OpenType features include alternate characters, ligatures, special numerals and arrows, with coverage extending to over sixty Latin-script languages. A reliable option for UI, editorial and brand work requiring wide language reach without strong stylistic personality.",
+    "foundry_blurb": "Trulytype describe Winona Sans as a contemporary workhorse that balances a clear, structured foundation with refined stroke contrasts. Available in five weights with italics and full OpenType feature sets including alternates, ligatures, special numerals and arrows, it offers precision and adaptability for modern designers across a wide range of applications."
+  }
+]

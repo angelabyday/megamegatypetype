@@ -1,0 +1,1363 @@
+[
+  {
+    "name": "Dorival UI",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/dorival-ui",
+    "designer": "Daniel Sabino, Lucas Gini",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Loosely derived from the engineered geometry of DIN 1451, with subtle humanistic traits such as diagonal terminals and mild stroke contrast, placing it firmly in the geometric sans tradition with a functional, screen-oriented character.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "Narrow",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Dorival UI",
+      "Dorival UI Condensed",
+      "Dorival UI Narrow"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "ui",
+      "multiplexed",
+      "din-inspired",
+      "interface",
+      "screen",
+      "humanist-touches",
+      "versatile"
+    ],
+    "summary": "A DIN-influenced geometric sans with multiplexed spacing across all weights, designed primarily for interface and digital environments.",
+    "description": "Built around the engineered structure of DIN 1451, Dorival UI introduces diagonal terminals and a degree of stroke contrast to soften the mechanical rigidity. Its key technical feature is multiplexed spacing: every weight shares identical glyph widths and kerning, so switching weights in a layout causes no text reflow or repositioning. The family spans seven weights with matching italics across three widths, Normal, Narrow and Condensed, making it serviceable for both screen interfaces and print.",
+    "foundry_blurb": "Blackletra describe Dorival UI as loosely inspired by the engineered geometry of DIN 1451, balancing strict structure with subtle humanistic traits including diagonal terminals and a degree of contrast. The font's multiplexed spacing ensures that text blocks occupy identical space regardless of weight, avoiding reflow in digital interfaces. Three widths and their respective italics extend its range to printed material, and the name pays homage to Brazilian musician Dorival Caymmi."
+  },
+  {
+    "name": "Dorival UI Condensed",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/dorival-ui-condensed",
+    "designer": "Daniel Sabino, Lucas Gini",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Loosely derived from the engineered geometry of DIN 1451, with humanistic touches such as diagonal terminals and slight stroke contrast, placing it firmly in the geometric sans tradition.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Dorival UI Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "ui",
+      "condensed",
+      "multiplexed",
+      "din-influenced",
+      "interface",
+      "digital",
+      "versatile"
+    ],
+    "summary": "A condensed, DIN-influenced sans with multiplexed spacing, meaning all weights occupy identical space in the layout to prevent text reflow in digital interfaces.",
+    "description": "Designed by Daniel Sabino and Lucas Gini, this is the condensed width of the Dorival UI family, released in 2024. Its defining technical feature is multiplexed spacing: every weight shares the same glyph widths and kerning, so switching weights in a UI never triggers layout shifts. The design tempers DIN 1451's strict geometry with diagonal terminals and a touch of contrast, keeping it readable across both screen interfaces and printed material.",
+    "foundry_blurb": "Blackletra describe Dorival UI Condensed as loosely inspired by the engineered geometry of DIN 1451, balanced with subtle humanistic traits including diagonal terminals and a degree of contrast. The family's multiplexed spacing ensures that text blocks occupy identical space regardless of weight, making it well suited to UI design and digital environments where text reflow must be avoided. Three width variants and full italic support make it versatile enough for print as well. The name pays homage to Brazilian musician Dorival Caymmi."
+  },
+  {
+    "name": "Dorival UI Narrow",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/dorival-ui-narrow",
+    "designer": "Daniel Sabino, Lucas Gini",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Loosely derived from the engineered geometry of DIN 1451, with subtle humanistic traits such as diagonal terminals and slight stroke contrast, placing it firmly in the geometric sans-serif category.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow"
+    ],
+    "subfamilies": [
+      "Dorival UI Narrow",
+      "Dorival UI Condensed",
+      "Dorival UI"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "ui",
+      "multiplexed",
+      "narrow",
+      "din-influenced",
+      "interface",
+      "digital",
+      "versatile"
+    ],
+    "summary": "A narrow-width geometric sans with multiplexed spacing, designed for digital interfaces where text reflow across weight changes must be avoided.",
+    "description": "Loosely derived from DIN 1451, this narrow cut of the Dorival UI family pairs an engineered geometric structure with diagonal terminals and a degree of stroke contrast. Its defining technical feature is multiplexed spacing: every weight shares identical glyph widths and kerning, so swapping weights never causes text reflow in layouts. The narrow width sits alongside condensed and standard cuts, making the broader family practical for both screen interfaces and print.",
+    "foundry_blurb": "Blackletra describe Dorival UI Narrow as loosely inspired by the engineered geometry of DIN 1451, balanced with subtle humanistic traits. The family's multiplexed spacing ensures that text occupies identical space regardless of weight, making it well suited to UI design and digital environments where repositioning must be avoided. Three widths and their italics extend its usefulness to printed material as well. The name honours Brazilian musician Dorival Caymmi. Designed by Daniel Sabino and Lucas Gini, with font engineering by Henrique Beier, and released in 2024."
+  },
+  {
+    "name": "Gal Gothic Condensed",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/gal-gothic-condensed",
+    "designer": "Daniel Sabino",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Inspired by Franklin Gothic, a classic American grotesque, but refined with neo-grotesque elements including horizontal stroke endings, smooth stem connections and round dots, placing it between the two traditions.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Gal Gothic Condensed",
+      "Gal Gothic Variable"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "franklin-gothic-lineage",
+      "condensed",
+      "neo-grotesque",
+      "variable",
+      "extended-latin",
+      "editorial"
+    ],
+    "summary": "A condensed grotesque by Daniel Sabino that takes Franklin Gothic as its starting point, extending its characteristic stroke contrast consistently across all weights from Light to Extrabold.",
+    "description": "Where Morris Fuller Benton's Franklin Gothic confined its notable stroke contrast to the heavier weights, Gal Gothic Condensed redistributes that quality across the full range, from Light to Extrabold, creating a more unified family. Neo-grotesque touches, including horizontal stroke terminals, smooth junctions between verticals and curves, and round punctuation dots, shift the tone away from the original reference. Each of the twelve static styles carries around 900 glyphs with broad Latin language support, small caps, tabular and old-style figures, and variable font options covering weight and width axes.",
+    "foundry_blurb": "Blackletra describe Gal Gothic as a sans serif whose main inspiration is Franklin Gothic by Morris Fuller Benton (1904), noting that Franklin's moderate stroke contrast is its most identifiable formal feature. They explain that Gal Gothic seeks to bring this contrast into the lighter weights for greater consistency, while horizontal endings and smooth stem connections push the design toward the neo-grotesque model. The name is a tribute to Brazilian singer Gal Costa."
+  },
+  {
+    "name": "Gal Gothic Narrow",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/gal-gothic-narrow",
+    "designer": "Daniel Sabino",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Inspired by Franklin Gothic, Gal Gothic Narrow extends that grotesque lineage with neo-grotesque refinements such as horizontal stroke endings and round dots, placing it firmly in the grotesque sans-serif tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow"
+    ],
+    "subfamilies": [
+      "Gal Gothic Narrow",
+      "Gal Gothic Variable"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "franklin-gothic",
+      "neo-grotesque",
+      "narrow",
+      "variable",
+      "editorial",
+      "multilingual"
+    ],
+    "summary": "A narrow grotesque drawn from Franklin Gothic's lineage, reworked by Daniel Sabino to carry moderate stroke contrast consistently across all weights.",
+    "description": "Where Morris Fuller Benton's Franklin Gothic reserved its characteristic stroke contrast for heavier weights, Gal Gothic Narrow redistributes that tension throughout the full range from Light to Extrabold, giving the family a more coherent system. Horizontal stroke endings and smooth junctions between vertical and curved stems push the design toward neo-grotesque territory, while round dots add a distinct tone. Each font carries around 900 glyphs, a variable version with weight and width axes, and OpenType features including small caps, tabular and oldstyle figures.",
+    "foundry_blurb": "Blackletra describe Gal Gothic as a sans serif whose primary reference is Franklin Gothic by Morris Fuller Benton (1904), noting Franklin's moderate stroke contrast as its most identifiable feature. They explain that Gal Gothic extends this contrast into the lighter weights for greater consistency across the system, and that horizontal endings and smooth connections between stems bring it closer to the neo-grotesque model. The name is a tribute to Brazilian singer Gal Costa."
+  },
+  {
+    "name": "Gal Gothic",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/gal-gothic",
+    "designer": "Daniel Sabino",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Inspired by Franklin Gothic, a classic American grotesque, but modified with horizontal terminals and smooth curve-to-stem connections that push it toward the neo-grotesque model, making it a hybrid between the two traditions.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gal Gothic",
+      "Gal Gothic Narrow",
+      "Gal Gothic Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "franklin-gothic-lineage",
+      "neo-grotesque",
+      "variable",
+      "latin-extended",
+      "editorial",
+      "multiscript"
+    ],
+    "summary": "A Franklin Gothic-inspired grotesque by Daniel Sabino that extends the characteristic stroke contrast into lighter weights and tilts the overall design towards the neo-grotesque with horizontal terminals and round dots.",
+    "description": "Where Franklin Gothic's stroke contrast historically diminished in lighter weights due to later additions by other hands, Gal Gothic reintegrates that contrast across the entire range for a more coherent system. Horizontal terminals and smooth junctions between verticals and curves pull the design away from its American grotesque roots and closer to neo-grotesque territory, while round dots and a consistent rhythm give it a distinct voice. Each font contains around 900 glyphs with extensive Latin language support, small caps, tabular and old-style figures, and a variable version with weight and width axes. The name is a tribute to Brazilian singer Gal Costa.",
+    "foundry_blurb": "Blackletra describe Gal Gothic as a sans serif drawing its main inspiration from Morris Fuller Benton's Franklin Gothic (1904), specifically its moderate stroke contrast, which they found was inconsistently applied across lighter weights added later by Victor Caruso for ITC in 1980. Gal Gothic recalibrates that contrast throughout the weight range, and pairs it with horizontal terminals and smooth curve-to-stem connections that bring it closer to the neo-grotesque model. Round dots contribute to its distinctive tone. Each font includes around 900 glyphs, extensive language support, OpenType features including small caps and multiple figure styles, and a variable version. The name honours Brazilian singer Gal Costa."
+  },
+  {
+    "name": "Elza Narrow",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/elza-narrow",
+    "designer": "Daniel Sabino",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Explicitly modelled on the neo-grotesque tradition of Helvetica and Univers, with mechanised square curves and straight-sided rounds that push the genre's systematisation further still. Obliques rather than true italics reinforce its rational, unsentimental character.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow"
+    ],
+    "subfamilies": [
+      "Elza Narrow"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "neutral",
+      "systematic",
+      "narrow",
+      "oblique",
+      "versatile",
+      "rational",
+      "variable"
+    ],
+    "summary": "The narrow width of Daniel Sabino's Elza family, a deliberately characterless neo-grotesque with mechanised square curves drawn from the Helvetica and Univers lineage.",
+    "description": "Elza Narrow comprises 16 styles across eight weights from Thin to Black, each with an oblique companion, part of the larger Elza family that spans three widths and two optical sizes. Small straight segments on the sides of round letters push the design towards a squarish, mechanised consistency beyond even Helvetica, while OpenType features include small caps, tabular and oldstyle figures, and a single-storey 'a' alternate. A variable font with weight, width and slant axes is also available, and language support extends across several hundred Latin-script languages.",
+    "foundry_blurb": "Blackletra describe Elza as a neo-grotesque in the tradition of Helvetica and Univers, designed to take the absence of character and systematic consistency to an extreme. The narrow width is part of the largest family in Blackletra's library, with 58 fonts across three widths and two optical sizes. The name is a tribute to Brazilian singer Elza Soares."
+  },
+  {
+    "name": "Drummond",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/drummond",
+    "designer": "Emerson Eller",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "Renaissance serif",
+    "classification_notes": "Drummond is rooted in sixteenth-century French Renaissance typography, specifically drawn from the Mediane Romaine matrices in the Plantin-Moretus collection and the tradition of Garamont. Its letterforms reflect the humanist calligraphic origins and classical proportions of that era.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Drummond",
+      "Drummond Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "renaissance",
+      "garamond-lineage",
+      "humanist",
+      "classical",
+      "calligraphic",
+      "editorial",
+      "book",
+      "historical"
+    ],
+    "summary": "A Renaissance serif by Emerson Eller, rooted in the fragmented Mediane Romaine matrices of the Plantin-Moretus collection and the sixteenth-century French tradition of Claude Garamont.",
+    "description": "Developed during a type design course at the Museum Plantin-Moretus in Antwerp, Drummond takes its starting point from an incomplete set of matrices in the Plantin-Moretus inventory, described in the catalogue as resembling but distinct from the Median Romain used by Garamont around 1545. The family runs across five weights from Light to Bold, each with a matching italic, plus variable font versions of both upright and italic axes. Its grounding in primary archival research gives it a specificity and historical texture that distinguishes it from generic Garamond revivals.",
+    "foundry_blurb": "Blackletra describe Drummond as a typeface born from research into the Plantin-Moretus collection in Antwerp, where designer Emerson Eller was drawn to a set of matrices catalogued as Mediane Romaine: a beautiful sixteenth-century French face that resembled but was not identical to the Median Romain associated with Garamont's work with Barbé in 1545. The fragmented, incompletely attributed nature of the source material was itself part of its appeal, offering room for interpretation alongside historical fidelity."
+  },
+  {
+    "name": "Elza",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/elza",
+    "designer": "Daniel Sabino",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Designed explicitly within the neo-grotesque tradition, with Helvetica and Univers as primary references, and deliberately pushing that genre's systematisation and mechanisation further through squared curves and straight-segment construction on round letters.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Narrow",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Elza",
+      "Elza Narrow",
+      "Elza Condensed",
+      "Elza Text",
+      "Elza Round"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "neutral",
+      "systematic",
+      "helvetica-lineage",
+      "variable",
+      "wide-language-support",
+      "oblique",
+      "rational"
+    ],
+    "summary": "A rigorously systematised neo-grotesque by Daniel Sabino, extending the logic of Helvetica and Univers through squarer curves and a deliberately characterless construction.",
+    "description": "Released in 2021, Elza takes the neo-grotesque tradition's drive for consistency and pushes it further: round letters carry small straight segments on their sides that help maintain coherence across widths and give the forms a mechanised, almost clinical quality. The family spans eight weights from Thin to Black with matching obliques across standard, Narrow and Condensed widths, plus related subfamilies including Elza Text and Elza Round. A variable version covers weight, width and slant axes, and each font carries around 900 glyphs with broad Latin language support, small caps, tabular and old-style figures, and a single-storey alternate /a.",
+    "foundry_blurb": "Blackletra describe Elza as their largest family to date, citing Helvetica and Univers as its primary references. Designer Daniel Sabino set out to take the idea of absence of character to the extreme, constructing a plain, competent and versatile neo-grotesque with three widths and two optical sizes across 58 fonts. The typeface is named in tribute to Brazilian singer Elza Soares."
+  },
+  {
+    "name": "Elza Round",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/elza-round",
+    "designer": "Daniel Sabino",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Elza Round is the rounded variant of the Elza family, a humanist sans with softened terminals throughout its weight range, retaining the warm proportions characteristic of humanist construction.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Elza Round",
+      "Elza Round Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "humanist",
+      "soft-terminals",
+      "variable",
+      "multilingual",
+      "text",
+      "warmth"
+    ],
+    "summary": "A rounded variant of the Elza family by Daniel Sabino, offered in six weights with matching italics and variable font options.",
+    "description": "Derived from the Elza family, this version applies rounded terminals across all six weights from Light to Black, each accompanied by an italic. A variable font edition is also available in both roman and italic axes. The extensive language support covers a broad sweep of Latin-script languages, making it suitable for international publishing and interface work where a softer tone is needed.",
+    "foundry_blurb": "Blackletra describe Elza Round as the rounded version of Elza, designed by Daniel Sabino in 2023 with production credits to Lucas Gini, Henrique Beier and Diego Maldonado. It is available as static weights or as variable fonts, and supports an extensive range of Latin-script languages."
+  },
+  {
+    "name": "Elza Text",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/elza-text",
+    "designer": "Daniel Sabino",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Explicitly modelled on Helvetica and Univers, with mechanised square curves and near-total suppression of humanist detail, placing it squarely in the neo-grotesque tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text"
+    ],
+    "subfamilies": [
+      "Elza Text"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "neutral",
+      "systematic",
+      "text",
+      "variable",
+      "oblique",
+      "rational",
+      "versatile"
+    ],
+    "summary": "A deliberately neutral neo-grotesque text face by Daniel Sabino, designed to extrapolate the systematisation of Helvetica and Univers toward near-mechanical consistency.",
+    "description": "Elza Text is the text-optimised optical size of the broader Elza family, which spans three widths and 58 fonts in total. Curves on round letters incorporate small straight segments to unify normal and condensed widths, producing a squarish, rational appearance more mechanised than Helvetica itself. The family ships in five weights with oblique companions rather than true italics, a variable font with weight, slant and width axes, and around 900 glyphs per style including small caps and old-style figures.",
+    "foundry_blurb": "Blackletra describe Elza Text as their attempt to take neo-grotesque neutrality to an extreme, citing Helvetica and Univers as primary references and framing the design as a continuation of their tradition of rigorous systematisation. The family is the largest in Blackletra's library, and its name is a tribute to Brazilian singer Elza Soares."
+  },
+  {
+    "name": "Elza Condensed",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/elza-condensed",
+    "designer": "Daniel Sabino",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Explicitly modelled on Helvetica and Univers, the two canonical neo-grotesques, with mechanised square curves and an absence of humanist detailing. Obliques rather than true italics reinforce the systematic, rational character.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Elza Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "condensed",
+      "systematic",
+      "rational",
+      "neutral",
+      "helvetica-lineage",
+      "variable"
+    ],
+    "summary": "A condensed neo-grotesque by Daniel Sabino that takes Helvetica and Univers as its direct references and pushes their mechanised logic further with subtly straight-sided round letterforms.",
+    "description": "Sixteen styles span eight weights from Thin to Black, each with an oblique companion, across a single condensed width. Round letters carry small straight segments on their sides to maximise consistency between weights and to produce a squarish, almost mechanical regularity that the designer describes as more neutral than Helvetica itself. The family supports approximately 900 glyphs per font, includes small caps, old-style figures and a variable version with weight, width and slant axes.",
+    "foundry_blurb": "Blackletra describe Elza Condensed as part of a larger family built in the tradition of neo-grotesque systematisation, citing Helvetica and Univers as primary references. The design aims to take the absence of character to an extreme, using straight segments in round letters to achieve consistency across widths. The condensed subfamily is one width within a total family of 58 fonts across three widths and two optical sizes, with variable font support and broad language coverage."
+  },
+  {
+    "name": "Silva Text",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/silva-text",
+    "designer": "Daniel Sabino",
+    "year": 2015,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Silva Text features moderated ascenders and descenders, generous x-height, robust serifs and slightly condensed proportions consistent with a transitional serif designed for extended reading in editorial contexts.",
+    "weights": [
+      "Light",
+      "Book",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text"
+    ],
+    "subfamilies": [
+      "Silva Text",
+      "Silva Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "editorial",
+      "text",
+      "transitional",
+      "superfamily",
+      "optical-sizes",
+      "extended-latin",
+      "readable",
+      "economical"
+    ],
+    "summary": "A text-optimised serif by Daniel Sabino with slightly condensed proportions, generous x-height and extensive OpenType features across five weights and matching italics.",
+    "description": "Designed for complex editorial environments, Silva Text offers ten styles from Light to Black with companion italics, built around slightly condensed proportions and robust serifs that improve reading economy on the page. OpenType features include old style and lining figures with tabular versions, fractions, small capitals, ligatures and arrows, making it well equipped for editorial systems requiring typographic hierarchy. Part of a larger superfamily alongside Silva Display, which handles the larger optical size.",
+    "foundry_blurb": "Blackletra describe Silva Text as a superfamily designed primarily for editorial use in complex environments, subdivided into two optical sizes for a total of 26 fonts including italics. They highlight its slightly condensed proportions, generous x-height, moderated ascenders and descenders, and robust serifs as contributors to readability and economy, alongside an extensive character set with broad language support."
+  },
+  {
+    "name": "Silva Display",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/silva-display",
+    "designer": "Daniel Sabino",
+    "year": 2015,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Silva Display is a serif with slightly condensed proportions, robust serifs and a generous x-height, characteristics consistent with a transitional serif designed for editorial display use.",
+    "weights": [
+      "Extralight",
+      "Light",
+      "Book",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black",
+      "Ultrablack"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Silva Display",
+      "Silva Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "editorial",
+      "serif",
+      "display",
+      "versatile",
+      "superfamily",
+      "high-legibility",
+      "condensed-proportions",
+      "multilingual"
+    ],
+    "summary": "A display-optical serif from Daniel Sabino with slightly condensed proportions and eight weights, designed for editorial contexts demanding typographic range.",
+    "description": "Part of the Silva superfamily alongside Silva Text, the Display cut offers 16 styles across eight weights from Extralight to Ultrablack, each with a matching italic. Slightly condensed proportions, a generous x-height and moderated ascenders and descenders make it economical on the page without sacrificing readability at larger sizes. The character set is extensive, covering old-style and lining figures, tabular variants, fractions, ligatures, small capitals and broad Latin language support.",
+    "foundry_blurb": "Blackletra describe Silva Display as designed primarily for editorial use and positioned as a superfamily suited to complex environments requiring high versatility. The family features slightly condensed proportions, generous x-height, moderated ascenders and descenders, and robust serifs, making it both readable and economic. Subdivided into two optical sizes, the full family totals 26 fonts and includes an extensive character set with old-style and lining figures, tabular versions, fractions, ligatures, small capitals and a range of symbols."
+  },
+  {
+    "name": "Magno Sans",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/magno-sans",
+    "designer": "Lucas Gini",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Magno Sans is a condensed geometric sans-serif that originated from a misidentified metal 'Memphis' found in Brazil, resulting in a display-oriented geometric family with consistent visual mass across a wide weight range.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Magno Sans",
+      "Magno Sans Variable"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "condensed",
+      "display",
+      "variable",
+      "wide-language-support",
+      "latin-extended",
+      "modular",
+      "impact"
+    ],
+    "summary": "A condensed geometric sans in eight weights with matching italics and a variable version, originating from a misidentified Brazilian metal type specimen.",
+    "description": "Designed by Lucas Gini and released in 2022, Magno Sans grew from a 'Memphis' specimen found in Brazil that turned out to be something else entirely, becoming a standalone condensed family rather than a revival. The eight weights run from Thin to Black with corresponding italics, a variable font option, and OpenType features including small caps, multiple numeral sets, fractions, superiors, inferiors and a unicase stylistic set. Latin coverage extends to over 200 languages, and the family pairs with a companion serif, Magno Serif.",
+    "foundry_blurb": "Blackletra describe Magno Sans as beginning with a mysterious metal typeface reference found in Brazil, a 'Memphis' that was never a real Memphis. The condensed family evolved into something entirely new, offering 8 weights with italics across both serif and sans versions, a large Latin character set covering over 200 languages, and extensive OpenType features. Its attention to visual mass and consistency across the weight range makes it a strong display choice for impactful messages."
+  },
+  {
+    "name": "Noka",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/noka",
+    "designer": "Daniel Sabino",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Noka is explicitly described as a geometric sanserif with structural references to digital and technological contexts; parallel diagonal strokes and narrowed letters confirm a geometric construction approach.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Noka"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "digital",
+      "technology",
+      "clean",
+      "minimal"
+    ],
+    "summary": "A clean geometric sans by Daniel Sabino with a digital and technological character, notable for its narrowed F, T and L and parallel diagonal strokes on V, W and A.",
+    "description": "Designed by Daniel Sabino and released in 2017, Noka is a geometric sans-serif whose letter construction references digital and technological aesthetics. Its six weights run from Hairline to Black, offering good tonal range for both display and interface work. The deliberately narrowed F, T and L, alongside the parallel diagonals in V, W, A and their lowercase equivalents, give the family a distinct underlying rhythm rather than standard geometric uniformity.",
+    "foundry_blurb": "Blackletra describe Noka as a clean geometric sanserif whose structure refers to a digital and technological atmosphere, with letters F, T and L narrower than usual and the diagonal strokes of V, v, W, w and A drawn in parallel."
+  },
+  {
+    "name": "Ofelia Display",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/ofelia-display",
+    "designer": "Daniel Sabino",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described by the foundry as a geometric sans-serif; its rigid geometric structure is softened by gestural letterforms on characters such as /a, /f and the comma.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Ofelia Display",
+      "Ofelia Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "versatile",
+      "multilingual",
+      "optical-sizes",
+      "humanist-touches"
+    ],
+    "summary": "A geometric sans-serif optimised for display use, balancing a rigid underlying structure with gestural details on select letterforms.",
+    "description": "Designed by Daniel Sabino and released in 2016, Ofelia Display is the larger optical size of a two-part family that also includes Ofelia Text. Fourteen styles span seven weights from Thin to Extrabold with matching italics, and the fonts include small caps, old-style and tabular figures, and alternates for /a and /l. The gestural quality of characters like /a, /f and the comma prevents the geometric framework from feeling cold or mechanical.",
+    "foundry_blurb": "Blackletra describe Ofelia as a geometric sans-serif that performs well across a wide range of situations, available in two optical sizes — Display and Text — with just enough personality. Its rigid geometric structure is offset by letters with a gestural touch, including /a, /f and the comma, and the fonts come equipped with small caps, old-style and tabular figures, and alternates for /a and /l."
+  },
+  {
+    "name": "Magno Serif",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/magno-serif",
+    "designer": "Lucas Gini",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Described as originating from a condensed 'Memphis'-like reference, it evolved into a display-oriented serif with eight weights and strong visual mass, suited to impactful headlines rather than running text.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Magno Serif",
+      "Magno Serif Variable",
+      "Magno Serif Variable Italic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "condensed-origin",
+      "variable",
+      "multilingual",
+      "headline",
+      "impactful"
+    ],
+    "summary": "A display serif from Lucas Gini spanning eight weights with italics and variable font support, covering over 200 languages across an extensive Latin character set.",
+    "description": "Developed from a misidentified 'Memphis' metal type found in Brazil, Magno Serif has moved well beyond that starting point into its own voice. Eight weights from Thin to Black each carry a matching italic, with variable font versions available for both romans and italics. OpenType features include small caps, multiple numeral sets, fractions, superiors, inferiors, arrows and a unicase stylistic set, making it a capable tool for display work where weight contrast and breadth of language support matter.",
+    "foundry_blurb": "Blackletra describe Magno Serif as beginning with a mysterious metal typeface reference, a 'Memphis' found in Brazil that was never a real Memphis. The condensed family evolved into something entirely new, offering eight weights per version across both serif and sans, plus obliques, a large Latin character set covering over 200 languages, extensive OpenType features and a unicase stylistic set. Special attention to visual mass and consistency across the weight range makes it a strong display option for impactful messaging."
+  },
+  {
+    "name": "Ofelia Text",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/ofelia-text",
+    "designer": "Daniel Sabino",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Described explicitly as a geometric sanserif, with a rigid geometric structure offset by gestural details in certain letters, placing it firmly in the geometric sans category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Ofelia Text",
+      "Ofelia Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "text",
+      "versatile",
+      "latin-extended",
+      "opentype-features",
+      "small-caps",
+      "oldstyle-figures"
+    ],
+    "summary": "A geometric sans with gestural details in key letters, designed for extended text setting across five weights with matching italics.",
+    "description": "Designed by Daniel Sabino in 2016 and released as the text optical size of the Ofelia family, this geometric sans balances a rigid underlying structure with humanising touches in letters like /a, /f and the comma. Ten styles span Light to Bold with matching italics, and OpenType features include small caps, old style figures, tabular figures and alternates for /a and /l. Broad Latin language support covers several hundred languages and writing systems.",
+    "foundry_blurb": "Ofelia is described by Blackletra as a geometric sanserif suited to almost any situation, available in Display and Text optical sizes with just the right amount of personality. Its geometric structure contrasts with gestural letters, and the fonts include small caps, old style and tabular figures, and alternates for /a and /l."
+  },
+  {
+    "name": "Elizeth Condensed",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/elizeth-condensed",
+    "designer": "Daniel Sabino",
+    "year": 2020,
+    "category": "slab",
+    "subcategory": "geometric slab",
+    "classification_notes": "Described explicitly as a geometric slab evoking early twentieth-century rationalism, referencing Rockwell, but distinguished by its bracketed serifs and true italics.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Elizeth Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "geometric",
+      "condensed",
+      "rationalist",
+      "editorial",
+      "multilingual",
+      "bracketed-serifs"
+    ],
+    "summary": "A condensed geometric slab with bracketed serifs, drawn in seven weights with true italics and broad Latin language support.",
+    "description": "The condensed width companion to Elizeth, sharing its geometric slab construction that references early twentieth-century rationalism and typefaces such as Rockwell. Bracketed serifs soften the geometric rigour, and true italics across all seven weights give the family genuine typographic range. OpenType features include small capitals, old-style figures and tabular figures, with language coverage extending across a large number of Latin-script languages.",
+    "foundry_blurb": "Blackletra describe Elizeth Condensed as the seriffed counterpart to Ofelia, forming a versatile family in two widths and seven weights suited to a wide range of applications. The normal width is a geometric slab evoking early twentieth-century rationalism in dialogue with Rockwell, though using bracketed rather than unbracketed serifs. The family offers true italics, broad language support and OpenType features including small capitals and old-style and tabular figures."
+  },
+  {
+    "name": "Elizeth",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/elizeth",
+    "designer": "Daniel Sabino",
+    "year": 2020,
+    "category": "slab",
+    "subcategory": "geometric slab",
+    "classification_notes": "Elizeth is explicitly described as a geometric slab that evokes early twentieth-century rationalism and draws comparison to Rockwell, while using bracketed serifs rather than unbracketed ones.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Elizeth",
+      "Elizeth Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric-slab",
+      "rationalist",
+      "bracketed-serifs",
+      "versatile",
+      "text",
+      "editorial",
+      "broad-language-support"
+    ],
+    "summary": "A geometric slab with bracketed serifs designed by Daniel Sabino, referencing early twentieth-century rationalist type in the vein of Rockwell.",
+    "description": "Designed by Daniel Sabino and released in 2020, Elizeth spans seven weights from Thin to Extrabold with true italics across the full range, totalling fourteen styles. The normal-width family is complemented by Elizeth Condensed, giving the system two widths for varied layout demands. OpenType features include small capitals, old-style figures and tabular figures, alongside broad Latin language coverage spanning several hundred languages.",
+    "foundry_blurb": "Blackletra describe Elizeth as the seriffed counterpart to their Ofelia family, a versatile type family in two widths and seven weights suited to a wide range of uses. The normal width is a geometric slab evoking early twentieth-century rationalism and establishing dialogue with typefaces such as Rockwell, distinguished by its use of bracketed serifs. The family offers true italics, broad language support and OpenType features including small capitals and old-style and tabular figures."
+  },
+  {
+    "name": "Gandur New",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/gandur-new",
+    "designer": "Daniel Sabino",
+    "year": 2014,
+    "category": "blackletter",
+    "subcategory": "textura",
+    "classification_notes": "Described explicitly as a display textura, Gandur New draws on simplified geometric textura traditions while incorporating humanistic and romanised structural influences, placing it firmly within the blackletter category.",
+    "weights": [
+      "Light",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gandur New"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "textura",
+      "display",
+      "geometric",
+      "humanist",
+      "historical",
+      "contemporary"
+    ],
+    "summary": "A display textura in three weights by Daniel Sabino, built on a hexagonal grid and refined toward a more humanistic, romanised structure than its companion family Gandur Alte.",
+    "description": "Gandur New is one half of the Gandur family, distinguished from Gandur Alte by its more contemporary, humanistic character construction and a fuller set of OpenType features including small capitals. The design began on a strict hexagonal grid, taking cues from Max Bittrof's Element (1933), but progressively shifted toward pen-based forms, particularly in the heavier weights. The result sits between historical rigour and legibility for modern display use, covering an extensive range of Latin-based languages.",
+    "foundry_blurb": "Blackletra describe Gandur New as a display textura inspired by simplified geometric texturas, particularly Max Bittrof's Element (1933). The family began with a strict hexagonal grid before moving toward more pen-based forms. Gandur New is the more humanistic and romanised of the two Gandur families, featuring small capitals, while Gandur Alte adheres more closely to historical letterforms including the long-s."
+  },
+  {
+    "name": "Haltrix",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/haltrix",
+    "designer": "Daniel Sabino",
+    "year": 2014,
+    "category": "script",
+    "subcategory": "angular script",
+    "classification_notes": "A connected script typeface that deliberately avoids smooth curves in favour of angular, straight-line segments, with influences from blackletter; categorised as script due to its handwritten, connected letterforms despite its aggressive geometry.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Haltrix"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "angular",
+      "connected",
+      "handwritten",
+      "blackletter-influenced",
+      "aggressive",
+      "opentype"
+    ],
+    "summary": "A connected script built on straight lines and hard angles, drawing on the designer's own handwriting and blackletter forms rather than the smooth curves typical of the genre.",
+    "description": "Where most script typefaces rely on fluid curves and decorative swashes, Haltrix takes the opposing position: every letterform is constructed to maximise angularity and minimise curves, producing a script with an aggressive, handwritten edge. The single Regular style uses OpenType Contextual Alternates to maintain natural connections between letters, supplemented by several alternates and swashes. The designer cites Gabriel Martínez Meave's Arcana and Roger Excoffon's Mistral as peers, placing it within a tradition of expressive, personality-driven scripts that resist elegance in favour of character.",
+    "foundry_blurb": "Blackletra describe Haltrix as a connected script that inverts the typical conventions of the genre, starting from Daniel Sabino's own handwriting and pushing every decision toward angular, straight-line construction. Influenced by blackletter types and scripts such as Arcana and Mistral, it uses OpenType Contextual Alternates and includes alternates, swashes and broad language support."
+  },
+  {
+    "name": "Gandur Alte",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/gandur-alte",
+    "designer": "Daniel Sabino",
+    "year": 2014,
+    "category": "blackletter",
+    "subcategory": "textura",
+    "classification_notes": "Gandur Alte is explicitly described as a display textura, rooted in geometric textura tradition with reference to Max Bittrof's Element (1933), and retains historical blackletter forms throughout.",
+    "weights": [
+      "Mager",
+      "Halbfett",
+      "Fett"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gandur Alte"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "textura",
+      "display",
+      "geometric",
+      "historical",
+      "german",
+      "medieval",
+      "decorative"
+    ],
+    "summary": "A geometric display textura in three weights, developed from a strict hexagonal grid and drawing on Max Bittrof's Element (1933) while retaining historically accurate letterforms.",
+    "description": "Designed by Daniel Sabino and released in 2014, Gandur Alte is the more historically faithful half of the Gandur family, preserving period-accurate forms for characters such as S, X and Z that its sibling Gandur New modernises. The design began on a hexagonal grid but shifted towards pen-based construction in the heavier weights, giving Fett a more organic feel than the strict geometry of Mager. A long-s is available via Stylistic Set, switching automatically to short-s at word endings for historically correct composition.",
+    "foundry_blurb": "Blackletra describe Gandur Alte as a display textura in three weights inspired by simplified geometric texturas, particularly Max Bittrof's Element of 1933. Starting from a strict hexagonal grid, the design gradually moved towards a more pen-based approach, especially in the heaviest weights. Gandur Alte distinguishes itself from Gandur New by staying closer to historical forms, including the long-s accessed via Stylistic Set, with automatic substitution to short-s at word endings."
+  },
+  {
+    "name": "Gothiks Condensed",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/gothiks-condensed",
+    "designer": "Daniel Sabino",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "gothic grotesque",
+    "classification_notes": "A condensed display sans-serif with diagonal strokes rendered vertically throughout, drawing on the rhythmic verticality of Textura blackletter while remaining entirely within the sans-serif tradition.",
+    "weights": [
+      "UltraLight",
+      "SuperLight",
+      "Light",
+      "Book",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Gothiks Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "display",
+      "blackletter-influenced",
+      "gothic",
+      "textura",
+      "vertical-strokes",
+      "editorial",
+      "multilingual"
+    ],
+    "summary": "A six-weight condensed display sans by Daniel Sabino that channels the vertical rhythm of Textura blackletter into a sanserif structure, turning diagonal strokes upright throughout the alphabet.",
+    "description": "Designed by Daniel Sabino and released in 2016, Gothiks Condensed applies a defining formal rule: wherever a diagonal stroke would normally appear, it is made vertical instead. Letters such as A, M, N, K, V, W, X, Y and Z all follow this treatment, giving the family a striking uniformity that accepts condensation naturally. The result sits between sanserif and blackletter traditions, a relationship the name makes explicit, since 'Gothic' refers to both depending on geography.",
+    "foundry_blurb": "Blackletra describe Gothiks Condensed as a six-weight display sanserif influenced by Texturas, noting that the rhythm and verticality of Textura lettering is most visible in letters with diagonal strokes, which are all rendered vertically here. They highlight the extensive character set, broad language support and OpenType features including fractions, small capitals and multiple figure sets, with default figures aligning to the lowercase."
+  },
+  {
+    "name": "Gothiks Compressed",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/gothiks-compressed",
+    "designer": "Daniel Sabino",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "compressed display sans",
+    "classification_notes": "A display sans-serif with compressed proportions and vertical diagonal strokes derived from Textura blackletter, giving it a distinctive upright rhythm that sets it apart from conventional grotesques.",
+    "weights": [
+      "UltraLight",
+      "SuperLight",
+      "Light",
+      "Book",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Gothiks Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "compressed",
+      "display",
+      "blackletter-influenced",
+      "textura",
+      "vertical",
+      "editorial",
+      "latin-extended"
+    ],
+    "summary": "A compressed display sans by Daniel Sabino that pulls its vertical rhythm from Textura blackletter, rendering all diagonal strokes as upright verticals across six weights.",
+    "description": "Designed by Daniel Sabino in 2016, the family draws on the verticality of Textura scripts to create a compressed sans where diagonals in letters like A, N, M and V are resolved as strict verticals. This structural decision makes extreme condensation feel organic rather than forced, giving the family a distinctive character suited to editorial headlines and display work. The typeface ships with an extensive OpenType feature set including small capitals, multiple figure styles, fractions and broad Latin language coverage.",
+    "foundry_blurb": "Blackletra describe Gothiks Compressed as a 6-weight display sans-serif influenced by Texturas, noting that the rhythm and verticality of that blackletter tradition is most visible in letters with diagonal strokes, which are rendered as verticals throughout. This morphological choice allows the design to accept extreme compression naturally, producing a uniquely characterful sans with extensive language support and OpenType features including fractions, small capitals and different figure sets. The name Gothiks references the plural of Gothic, a word that refers to both sans-serifs and blackletter depending on geography."
+  },
+  {
+    "name": "Gothiks",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/gothiks",
+    "designer": "Daniel Sabino",
+    "year": 2016,
+    "category": "display",
+    "subcategory": "display sans-serif",
+    "classification_notes": "Classified as display because the foundry explicitly describes it as a display sanserif; its vertical diagonal strokes, derived from Textura blackletter rhythm, give it a distinctly decorative personality suited to large sizes rather than text use.",
+    "weights": [
+      "UltraLight",
+      "SuperLight",
+      "Light",
+      "Book",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gothiks"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sans-serif",
+      "blackletter-influenced",
+      "textura",
+      "vertical-strokes",
+      "opentype",
+      "editorial",
+      "condensable"
+    ],
+    "summary": "A six-weight display sans by Daniel Sabino that borrows the vertical rhythm of Textura blackletters to give its diagonal strokes an unusually upright, condensation-friendly structure.",
+    "description": "Where most sans-serifs use angled diagonals, Gothiks makes all diagonal strokes vertical on letters such as A, N, M, K, V, W, X, Y and Z, a structural decision lifted directly from Textura blackletter tradition. That verticality makes the typeface accept condensation naturally, which explains the existence of companion Condensed and Compressed families. The character set is extensive, covering a large range of Latin languages, and OpenType features include fractions, small capitals and multiple figure sets, with default figures aligned to the lowercase.",
+    "foundry_blurb": "Blackletra describe Gothiks as a 6-weight display sanserif influenced by Texturas, noting that the verticality and rhythm of that blackletter form are most visible in letters with diagonal strokes, all of which are rendered as verticals. The name references the dual meaning of 'Gothic', which can denote either sanserifs or blackletters depending on geographic context."
+  },
+  {
+    "name": "Gothiks Round",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/gothiks-round",
+    "designer": "Daniel Sabino",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A rounded variant of the geometric grotesque Gothiks family, with softened terminals across a six-weight range, placing it firmly in the geometric sans category with a friendly, rounded character.",
+    "weights": [
+      "UltraLight",
+      "SuperLight",
+      "Light",
+      "Book",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gothiks Round",
+      "Gothiks Round Condensed",
+      "Gothiks Round Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "grotesque",
+      "friendly",
+      "multilingual",
+      "display",
+      "branding"
+    ],
+    "summary": "A rounded companion to Daniel Sabino's Gothiks, offered in six weights from UltraLight to Black with softened terminals throughout.",
+    "description": "Gothiks Round applies rounded terminals to the Gothiks geometric grotesque framework, softening the family's character across six weights. Designed by Daniel Sabino in 2018 and produced with Lucas Gini, it sits within a broader type system that includes condensed and compressed variants. Extensive Latin language support makes it well suited to multilingual branding and editorial work.",
+    "foundry_blurb": "Blackletra describe Gothiks Round as the rounded version of Gothiks, available in six styles from UltraLight to Black, with an Adobe Fonts activation option and free trial fonts available for download."
+  },
+  {
+    "name": "Gothiks Round Condensed",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/gothiks-round-condensed",
+    "designer": "Daniel Sabino",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A condensed geometric sans-serif with rounded terminals, derived from the Gothiks family. The rounded endings place it firmly in the geometric-rounded subcategory of sans-serif.",
+    "weights": [
+      "UltraLight",
+      "SuperLight",
+      "Light",
+      "Book",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Gothiks Round Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "rounded",
+      "condensed",
+      "gothic",
+      "display",
+      "versatile"
+    ],
+    "summary": "A rounded, condensed geometric sans in six weights, derived from the broader Gothiks type system designed by Daniel Sabino.",
+    "description": "Part of Blackletra's Gothiks family, this condensed variant pairs rounded terminals with a tight, upright silhouette across six weights running from UltraLight to Black. The rounding softens what would otherwise be a rigid geometric skeleton, making it suitable for display work where a friendlier tone is needed without sacrificing economy of space. Language support spans an extensive range of Latin-based scripts.",
+    "foundry_blurb": "Gothiks Round Condensed is described by Blackletra as the rounded version of Gothiks Condensed, designed by Daniel Sabino in 2018 and produced with Lucas Gini. It is available in six styles and supports a wide range of Latin-based languages."
+  },
+  {
+    "name": "Gothiks Round Compressed",
+    "foundry": "Blackletra",
+    "url": "https://blackletra.com/typefaces/gothiks-round-compressed",
+    "designer": "Daniel Sabino",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A compressed grotesque sans with rounded terminals, part of the broader Gothiks family. The rounded treatment softens the compressed forms without departing from the grotesque genre.",
+    "weights": [
+      "UltraLight",
+      "SuperLight",
+      "Light",
+      "Book",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Gothiks Round Compressed"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "compressed",
+      "rounded",
+      "display",
+      "latin-extended",
+      "narrow"
+    ],
+    "summary": "A compressed, rounded grotesque from Daniel Sabino, offering six weights within the wider Gothiks family system.",
+    "description": "The rounded variant of Gothiks Compressed, sharing the same narrow proportions but with softened terminals that give it a warmer character than its sharper sibling. Six weights run from UltraLight to Black, covering a broad range of display and headline use cases. Extended Latin language support spans hundreds of languages, making it practical for multilingual projects.",
+    "foundry_blurb": "Blackletra describe Gothiks Round Compressed as the rounded version of Gothiks Compressed, designed by Daniel Sabino and released in 2018. It is available in six styles and is part of a broader Gothiks family that includes condensed, compressed and round variants."
+  }
+]

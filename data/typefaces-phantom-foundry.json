@@ -1,0 +1,282 @@
+[
+  {
+    "name": "TXT25",
+    "foundry": "Phantom Foundry",
+    "url": "https://phantom-foundry.com/project/txt25",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Described as a functional text typeface with exaggerated axis and unconventional stroke exits, placing it within the transitional serif tradition but pushed toward display expressiveness.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "TXT25"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "text",
+      "serif",
+      "unconventional",
+      "expressive",
+      "editorial",
+      "display",
+      "body-copy"
+    ],
+    "summary": "A text serif with an exaggerated stress axis and unbalanced exit strokes, designed to produce a lively texture at body sizes while offering a condensed display cut for larger settings.",
+    "description": "Originally released on Future Fonts under the code name TXT25 before launching as NaN Tragedy on NaN.xyz, this family attempts to bring display-style design decisions into a workhorse text typeface. Graphic shapes in round letters and desequilibrated exit strokes give it a distinctive rhythm that reads quietly at small sizes but shows its character on closer inspection. A Display cut amplifies these unconventional features in a more condensed width for use at larger sizes.",
+    "foundry_blurb": "Phantom Foundry describe TXT25 as an attempt to offer a functional text typeface with unconventional shapes, infusing display-style design thinking into body copy constraints. The typeface features an exaggerated axis that creates graphic shapes in round letters and uses desequilibrated exit strokes, yet achieves a smooth, even texture at body size. A Display cut in a more condensed width emphasises all these unconventional details at larger scales. Promotional material for the original TXT25 release included a set of twelve playing cards illustrated by AAAAA Atelier."
+  },
+  {
+    "name": "Token",
+    "foundry": "Phantom Foundry",
+    "url": "https://phantom-foundry.com/project/97",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "slab serif",
+    "classification_notes": "Described explicitly as a slab serif by the foundry, with geometric origins and sharp, spiky triangular serifs; the closed slab serifs, pointed terminals and mixed contrast place it firmly in the slab category with a highly idiosyncratic character.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Token Green",
+      "Token Yellow"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "display",
+      "spiky",
+      "geometric",
+      "expressive",
+      "editorial",
+      "headline",
+      "experimental"
+    ],
+    "summary": "A deliberately contradictory slab serif that pairs soft curves with sharp spiky terminals, closed apertures and triangular serifs to produce an assertive, hedgehog-like headline face.",
+    "description": "Token sets out to combine opposing impulses: the low contrast and softness of its curves sit against spiky pointed terminals, while stained, closed apertures in the 'a', 'e', 'V', 'W' and 'k' build dense, distinctive word shapes. Two subfamilies divide the family: Token Green carries the upright with its thorny hedgehog alternates, and Token Yellow is the italic, which draws on monospaced typewriter conventions for its wide straight stroke exits and closed serifs rather than following a calligraphic route. The result is a typeface that reads as a functional collision of geometric construction and raw, naive mark-making.",
+    "foundry_blurb": "Phantom Foundry describe Token as a functional Frankenstein monster that mixes roundness with sharpness, professional drawing with naive ideas, and elegance with rawness. It originated as an attempt to make a spiky Latin serif with geometric shapes, eventually settling into a slab serif family while retaining pointed triangular serifs, thin stem-shoulder connections and a hedgehog quality in its alternate uppercase. The italic subfamily, Token Yellow, takes a different direction, borrowing from monospaced typewriter fonts with long straight serifs and wide stroke exits rather than calligraphic sharp exits."
+  },
+  {
+    "name": "Karrik",
+    "foundry": "Phantom Foundry",
+    "url": "https://phantom-foundry.com/project/karrik",
+    "designer": "Jean-Baptiste Morizot, Lucas Le Bihan",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Karrik is deliberately modelled on early, clumsy grotesque sans-serifs, with intentional optical corrections omitted and uneven weight distribution to evoke forgotten vernacular type foundries.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Karrik"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "grotesque",
+      "vernacular",
+      "open-source",
+      "display",
+      "expressive",
+      "editorial",
+      "imperfect",
+      "historical"
+    ],
+    "summary": "An intentionally flawed grotesque designed for a ghost-themed magazine, built around the charm of forgotten early sans-serifs and deliberate optical miscorrections.",
+    "description": "Designed by Jean-Baptiste Morizot and Lucas Le Bihan for Cercle magazine's 2020 ghost-themed issue, Karrik evokes abandoned places and discontinued electric station signage through wilful design flaws: uneven letter widths, heavy stem joins left uncorrected, and weight distribution that runs against conventional practice. A stylistic set (SS01) introduces chaotic alternate uppercase letters for added vernacular disorder. Released as a libre font through the Velvetyne foundry, it reads coherently at body size despite its display-oriented irregularities.",
+    "foundry_blurb": "Karrik is an open-source font co-designed by Jean-Baptiste Morizot and Lucas Le Bihan, originally commissioned for Cercle magazine's 2020 ghost-themed issue. The design intentionally mimics clumsy early sans-serifs from forgotten foundries, with uneven widths, absent optical corrections and deliberate weight disadjustments. An SS01 stylistic set adds chaotic alternate uppercase letters evoking garage lettering and nameless vernacular type. The font is published by Velvetyne foundry and freely available to download."
+  },
+  {
+    "name": "Phantom Sans",
+    "foundry": "Phantom Foundry",
+    "url": "https://phantom-foundry.com/project/phtm-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Explicitly described as geometric sans with grotesque influences; design decisions follow geometric construction with circular rounds, though Roman Capital proportions in the uppercase add humanist warmth.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Phantom Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grotesque",
+      "screen",
+      "apps",
+      "editorial",
+      "futura-influenced",
+      "historic",
+      "contemporary"
+    ],
+    "summary": "A geometric sans that blends circular construction with Roman Capital proportions, distinguished by oversized dots, a closed-tail g, and a wider r for improved screen legibility.",
+    "description": "Phantom Sans sits at the intersection of Futura-style geometry and grotesque warmth, with specific details chosen to give it a recognisable texture: dots larger than convention for legibility at small sizes, a tightly closed single-storey g, and a tall t ascender. Uppercase proportions follow Roman Capitals loosely rather than the even spacing typical of geometric sans, lending a historical undercurrent to an otherwise contemporary construction. Available through Future Fonts as a work in progress.",
+    "foundry_blurb": "Phantom Foundry describe Phantom Sans as a geometric sans with attitude, designed over nearly two years to bring warmth and originality to an overcrowded genre. Key details include oversized dots for screen readability, a closed-tail g for recognisability, a wider r for breathing room, and uppercase proportions drawn from Roman Capitals — an oscillation between past and present that the foundry say makes it suited to apps, websites and books seeking radical modernity grounded in type history."
+  },
+  {
+    "name": "Bluu Suuperstar",
+    "foundry": "Phantom Foundry",
+    "url": "https://phantom-foundry.com/project/bluu-suuperstar",
+    "designer": "Jean-Baptiste Morizot",
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Described explicitly as a display font with sharp triangular serifs and distinctive flat tops on normally curved letters; the dramatic, angular character places it firmly in the display category rather than a conventional text serif classification.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bluu Suuperstar"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "editorial",
+      "angular",
+      "rock",
+      "fashion",
+      "high-contrast",
+      "distinctive"
+    ],
+    "summary": "A redesign from scratch of Morizot's earlier open-source Bluu Next, with sharp triangular serifs and flat-topped letterforms that give conventionally round glyphs a hard, structural edge.",
+    "description": "Originally released through Velvetyne as Bluu Next and picked up by rock bands, museums and fashion brands, the family has been rebuilt entirely by Jean-Baptiste Morizot following his time at Black Foundry. The defining feature is the straight top applied to letters that are normally curved, such as 'a', 'c' and 's', creating an angular tension unusual in serif type. This professional edition adds a true italic and multiple weights absent from the earlier open-source release.",
+    "foundry_blurb": "Phantom Foundry describe Bluu Suuperstar as the final incarnation of a learning project that began with the ambition of drawing a Times with attitude: big triangular serifs and a sharp overall design. The earlier version, Bluu Next, was published by Velvetyne and found widespread use across rock music identities, museums, fashion brands and whisky labels. After joining Black Foundry as a professional type designer, Morizot chose to rebuild the design from the ground up, adding a true italic and several weights to produce the current family."
+  },
+  {
+    "name": "Trickster",
+    "foundry": "Phantom Foundry",
+    "url": "https://phantom-foundry.com/project/trickster",
+    "designer": "Jean-Baptiste Morizot",
+    "year": 2017,
+    "category": "blackletter",
+    "subcategory": "hybrid blackletter",
+    "classification_notes": "The designer describes it as a blend of Merovingian writing, blackletter influences and contemporary shapes, placing it squarely in the blackletter tradition despite its hybrid nature.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trickster"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "blackletter",
+      "merovingian",
+      "historical",
+      "free",
+      "velvetyne",
+      "experimental",
+      "hybrid"
+    ],
+    "summary": "A free blackletter with roots in Merovingian script, blending historical calligraphic forms with contemporary details.",
+    "description": "Released in 2017 with the Velvetyne collective, Trickster draws on Merovingian writing and blackletter tradition while incorporating contemporary shapes. The designer describes the combination as deliberately difficult to categorise, occupying a space between historical script and modern experimentation. Available as a free download via Velvetyne.",
+    "foundry_blurb": "Trickster is a free typeface released in late 2017 in collaboration with the Velvetyne crew, described by its designer as a smooth blend of Merovingian writing, blackletter influences and contemporary shapes."
+  },
+  {
+    "name": "Super Fat Bob",
+    "foundry": "Phantom Foundry",
+    "url": "https://phantom-foundry.com/project/super-fat-bob",
+    "designer": "Jean-Baptiste Morizot",
+    "year": null,
+    "category": "display",
+    "subcategory": "novelty display",
+    "classification_notes": "A deliberately quirky, heavily stylised display face with exaggerated weight, wavy inner counters and unstable letterforms; squarely a novelty display typeface rooted in pop culture aesthetics rather than any traditional typographic lineage.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Super Fat Bob"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "novelty",
+      "playful",
+      "pop-culture",
+      "chunky",
+      "internet",
+      "cartoon",
+      "experimental"
+    ],
+    "summary": "A chubby, pop-culture-saturated display face with wavy inner counters and deliberately unstable uppercase letterforms.",
+    "description": "Inspired by video games, cartoons and comic books rather than typographic history, this face pushes legibility to its limits with heavily weighted strokes and squirming interior counters. The uppercase sits uneasily on the baseline, giving text an intentionally chaotic, screen-native energy. It suits posters, packaging or any context where visual attitude takes priority over readability.",
+    "foundry_blurb": "The foundry describes Super Fat Bob as a tribute to pop culture, drawing its name from Meat Boy, SpongeBob and superhero comics, and framing it as a typographic translation of internet culture built on everyday visual references rather than historical typographic knowledge. The result is a bold design with wavy inner counters, unstable uppercase and letters that push at the edges of legibility."
+  }
+]

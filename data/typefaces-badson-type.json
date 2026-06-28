@@ -1,0 +1,368 @@
+[
+  {
+    "name": "Custom Type",
+    "foundry": "Badson Type",
+    "url": "https://badsontype.com/custom-type",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "custom",
+    "classification_notes": "This page covers bespoke typeface commissions across multiple styles rather than a single released typeface; display is the closest catch-all given the brand-identity focus shown in the examples.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Custom Type"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "custom",
+      "bespoke",
+      "brand",
+      "identity",
+      "boutique",
+      "commission"
+    ],
+    "summary": "A custom type commission service from Badson Type, producing bespoke typefaces for brands ranging from small businesses to large corporations.",
+    "description": "Badson Type offers tailored typeface design for brands of any scale, from independent businesses to Fortune 500 companies. Past commissions shown on the page include Emporium Sans for Emporium Pies, Apothecaria for Badger, Hawkeyes Script for the Iowa Hawkeyes, and Catherine Display for The Ramble Hotel. The studio positions itself as a boutique outfit focused on typographic craft and personality-driven results.",
+    "foundry_blurb": "Badson Type describes itself as a boutique type design outfit producing brand-ready, personality-driven typefaces focused on typographic craft. They state that designers and brands of all sizes deserve high-quality typographic tools that express authentic brand voices, and note over a decade of experience building custom typefaces for passionate businesses."
+  },
+  {
+    "name": "Guilder",
+    "foundry": "Badson Type",
+    "url": "https://badsontype.com/guilder",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "layered display",
+    "classification_notes": "An all-caps layerable display family inspired by sign painting and gilding traditions, designed for decorative and ornamental headline use rather than body text.",
+    "weights": [
+      "Solid",
+      "Outline",
+      "Inline"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Guilder"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "layered",
+      "all-caps",
+      "sign-painting",
+      "gilded",
+      "ornamental",
+      "decorative"
+    ],
+    "summary": "A three-layer all-caps display family inspired by sign painting gilding, built so that Solid, Outline and Inline styles can be combined to produce up to five distinct gilded letter effects.",
+    "description": "Guilder draws on the tradition of sign painting gilders, offering three layerable fonts — Solid, Outline and Inline — that stack to produce varied gilded letterform effects. The family is all-caps with small caps in the lowercase positions and covers the Basic Latin Unicode character set. A forthcoming 2.0 expansion is planned to extend the family to 25 styles across five weights and five widths, each with its own outline and inline variants.",
+    "foundry_blurb": "Badson Type describe Guilder as a utilitarian typeface that nods to master sign painting gilders of the past, aiming to stay clean, contemporary and slim while offering opportunities for gilded decoration. The name itself is a deliberate play on 'guild' — a community of craft — rather than the act of gilding, which the foundry found irresistible given the golden-hued associations."
+  },
+  {
+    "name": "Ermine",
+    "foundry": "Badson Type",
+    "url": "https://badsontype.com/ermine",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Inspired by hand-painted lettering from WPA National Park Service posters, Ermine is a variable-width display typeface with a vernacular, craft-driven character rather than a conventional geometric or grotesque construction.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Width 1",
+      "Width 2",
+      "Width 3",
+      "Width 4",
+      "Width 5"
+    ],
+    "subfamilies": [
+      "Ermine"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "hand-painted",
+      "wpa",
+      "vernacular",
+      "americana",
+      "poster",
+      "craft",
+      "variable-width"
+    ],
+    "summary": "A five-width display typeface drawn from the hand-painted lettering of early 20th-century WPA National Park Service posters.",
+    "description": "Ermine takes its cues from the irregular, variable-width lettering found on a small number of original WPA National Park Service posters, translating the warmth and imperfection of that handicraft into a structured font family. Five distinct widths are designed to be mixed and matched, allowing for expressive typographic compositions that echo the energy of hand-painted poster lettering. The result sits between vernacular Americana and contemporary brand display use.",
+    "foundry_blurb": "Badson Type describe Ermine as inspired by the odd, variable-width, hand-painted lettering of early 20th-century WPA National Park Service posters, citing qualities of diligent craft, honesty of production and connection to the land. The family spans five widths designed to be mixed and matched, with a version 2.0 announced for release in autumn 2024."
+  },
+  {
+    "name": "Ginny Sans",
+    "foundry": "Badson Type",
+    "url": "https://badsontype.com/ginny-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A thin, utilitarian sans-serif drawing on the open grotesque letterforms common to 1970s food packaging, placing it firmly in the grotesque sans tradition with a vintage commercial character.",
+    "weights": [
+      "Thin"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ginny Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "thin",
+      "vintage",
+      "packaging",
+      "cpg",
+      "1970s",
+      "commercial"
+    ],
+    "summary": "A thin, open grotesque drawn from 1970s food-packaging typography, designed for CPG branding and packaging work.",
+    "description": "Ginny Sans takes its cues from the clear, open sans letterforms that defined food packaging in the 1970s, carrying a light weight with enough character to hold its own in branding contexts. It is part of Badson Type's first Brand Palette Collection, a set of four typefaces built specifically for CPG identity and packaging. Works equally well set in sentence case or all caps, shifting between a quiet supporting role and something more prominent depending on context.",
+    "foundry_blurb": "Badson Type describe Ginny Sans as an unassuming power player with a delicate touch — a thin workhorse sans inspired by the clear, open sans types found on 1970s food packaging, with a little extra zing added. It forms part of the Brand Palette Collection 01, a set of four fonts designed specifically for CPG branding and packaging."
+  },
+  {
+    "name": "Armond",
+    "foundry": "Badson Type",
+    "url": "https://badsontype.com/armond",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "decorative display",
+    "classification_notes": "Armond draws on Italian packaging and signage traditions with outline caps and solid lowercase, making it a decorative display face suited to label and branding work rather than running text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Armond"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "packaging",
+      "italian-inspired",
+      "layerable",
+      "outline",
+      "cpg",
+      "branding",
+      "retro"
+    ],
+    "summary": "A retro-Italian display face with outline capitals and solid lowercase, designed for layering on packaging and label work.",
+    "description": "Armond takes its cues from old Italian packaging and signage, pairing outline-style capitals with a matching solid infill in the lowercase to create two layerable fonts in one file. The design is aimed squarely at CPG branding and product label work, where the contrast between the two styles can be used to build depth without additional graphics. It is sold as part of Badson's Brand Palette Collection 01, a set of four fonts built for packaging contexts.",
+    "foundry_blurb": "Badson describe Armond as an old soul with a few tricks up its sleeve, referencing old-fashioned Italian packaging and sign styles. They position it as equally at home on a whiskey label as on a contemporary flavoured seltzer, and note that its outline caps and solid lowercase make it effectively two layerable fonts in one. It forms part of their first Brand Palette Collection, designed for CPG branding and packaging."
+  },
+  {
+    "name": "BPC01",
+    "foundry": "Badson Type",
+    "url": "https://badsontype.com/bpc01",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display collection",
+    "classification_notes": "A bundled collection of four display fonts with diverse styles spanning art nouveau serif, condensed industrial sans, thin workhorse sans and layerable caps, all oriented toward packaging and branding work rather than body text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grigio Serif",
+      "Porter Sans",
+      "Ginny Sans",
+      "Armond Caps"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "packaging",
+      "branding",
+      "cpg",
+      "collection",
+      "bundle",
+      "eclectic",
+      "vintage"
+    ],
+    "summary": "A bundle of four display fonts from Badson Type, each with a distinct personality, assembled specifically for Consumer Packaged Goods branding work.",
+    "description": "BPC01 brings together four stylistically distinct display fonts: Grigio Serif with art nouveau slenderness, Porter Sans as an ultra-condensed uniwidth industrial sans, Ginny Sans referencing 1970s food packaging typography and Armond Caps drawing on Italian sign lettering with a layerable outline and solid infill system. Character sets are intentionally lean at around 100 glyphs each, covering A-Z, a-z, numerals and basic punctuation. The collection is priced to be bought as a set rather than individually, with licensing tiers from individual through to enterprise.",
+    "foundry_blurb": "Badson Type describe BPC01 as the first in their Brand Palette Collection series, font bundles designed to give designers a ready-made palette of expressive display types for specific industry applications. This first collection targets the Consumer Packaged Goods sector, drawing on current packaging and branding trends to offer four fonts that can be used solo or layered together for everything from breakfast cereal to sparkling beverage brands."
+  },
+  {
+    "name": "Porter Sans",
+    "foundry": "Badson Type",
+    "url": "https://badsontype.com/porter-sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "condensed grotesque",
+    "classification_notes": "Described as an ultra-condensed engineered sans with industrial pedigree, Porter Sans sits firmly in the condensed grotesque tradition, optimised for display and large-scale use rather than continuous text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Ultra-Condensed"
+    ],
+    "subfamilies": [
+      "Porter Sans"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "grotesque",
+      "industrial",
+      "display",
+      "packaging",
+      "cpg",
+      "uniwidth",
+      "engineered"
+    ],
+    "summary": "An ultra-condensed, uniwidth engineered sans designed for CPG packaging and large-scale display use where space is tight.",
+    "description": "Built around a uniwidth principle where all alphabetic characters from caps to lowercase share the same set width, Porter Sans keeps messaging predictable in constrained spaces. Its industrial character suits packaging and brand identity work at large sizes, and it is sold as part of Badson Type's Brand Palette Collection 01, a set of four fonts aimed at CPG branding. Individual styles are available separately or as part of the collection.",
+    "foundry_blurb": "Badson Type describe Porter Sans as an ultra-condensed engineered sans with an industrial pedigree, optimised for large-size deployment. All alphabetic characters are uniwidth, allowing designers to maximise messaging within a controlled space. It forms part of Brand Palette Collection 01, a set of four fonts designed for CPG branding and packaging."
+  },
+  {
+    "name": "Grigio Serif",
+    "foundry": "Badson Type",
+    "url": "https://badsontype.com/grigio-serif",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "art nouveau serif",
+    "classification_notes": "Described explicitly as a display serif with Art Nouveau influences and calligraphic qualities; its narrow proportions and decorative character place it firmly in display rather than text use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grigio Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "art-nouveau",
+      "serif",
+      "calligraphic",
+      "packaging",
+      "headline",
+      "branding",
+      "narrow"
+    ],
+    "summary": "A slender Art Nouveau display serif designed for regal headlines and CPG brand packaging, offering a calligraphic elegance at narrow proportions.",
+    "description": "Grigio Serif draws on Art Nouveau influences and calligraphic movement to produce a typeface built around confident, upright display settings. Its narrow proportions suit label and packaging contexts where a refined yet playful tone is needed, from wine and cheese to jams and jellies. Part of Badson Type's Brand Palette Collection 01, a set of four fonts aimed at CPG branding.",
+    "foundry_blurb": "Badson Type describes Grigio Serif as a sprightly and slender display serif with Art Nouveau influences and elegant calligraphic notions, suited to regal headlines and brand packaging. It sits within Brand Palette Collection 01, a group of four fonts designed specifically for CPG branding and packaging work."
+  },
+  {
+    "name": "Brand Palette Collection 01",
+    "foundry": "Badson Type",
+    "url": "https://badsontype.com/types",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display collection",
+    "classification_notes": "The page presents a mixed collection of display-oriented typefaces including art deco serifs, compressed sans, thin sans and flared all-caps styles, grouped under a single collection label rather than a single unified typeface.",
+    "weights": [
+      "1 Font per style"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grigio Serif",
+      "Porter Sans",
+      "Ginny Sans",
+      "Armond"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "art-deco",
+      "compressed",
+      "condensed",
+      "vintage",
+      "all-caps",
+      "collection",
+      "branding"
+    ],
+    "summary": "A curated set of four display typefaces from Badson Type, spanning art deco narrow serif, compressed sans, thin sans and a vintage flared all-caps.",
+    "description": "The Brand Palette Collection 01 bundles four distinct display styles intended for brand work: Grigio Serif (an art deco inspired narrow serif), Porter Sans (a contemporary compressed sans), Ginny Sans (a slender thin sans) and Armond (a vintage all-caps flared sans with outline and solid styles). Each is offered as a single font, with the collection positioned as a coordinated toolkit for visual identity. The range covers narrow and compressed widths, making it suited to logotype and headline applications.",
+    "foundry_blurb": "Badson Type present the Brand Palette Collection 01 as a grouped set of complementary display fonts, each with a distinct character: an art deco narrow serif, a contemporary compressed sans, a slender hard-working thin sans and a vintage all-caps flared sans available in both outline and solid styles."
+  }
+]

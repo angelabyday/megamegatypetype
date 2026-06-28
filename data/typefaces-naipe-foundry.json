@@ -1,0 +1,225 @@
+[
+  {
+    "name": "Juma",
+    "foundry": "Naipe Foundry",
+    "url": "https://store.naipefoundry.com/fonts/juma",
+    "designer": "Cyla Costa",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "color display",
+    "classification_notes": "A single-weight super display typeface released in both Color and Monochrome variants, with highly ornate, sculptural letterforms designed exclusively for large-scale use. Its decorative nature and OpenType Color font technology place it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Juma Color",
+      "Juma Monochrome"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "color-font",
+      "display",
+      "decorative",
+      "lettering",
+      "sculptural",
+      "tropical",
+      "ornate",
+      "headline"
+    ],
+    "summary": "A single-weight OpenType Color display typeface by Brazilian lettering artist Cyla Costa, built for large-scale use with hypnotic, sculptural letterforms.",
+    "description": "Designed by Cyla Costa, Juma comes in Color and Monochrome variants, each with OpenType alternate sets offering Blue Alternates, Green Alternates, an alternate ampersand and an alternate A. The forms draw on organic references — tropical birds, marble — giving individual letters a sculptural presence suited to drop caps, striking headlines or abstract pattern work. It won Gold at the Latin American Design Awards 2022 and was recognised in the Communication Arts Typography Annual 2022.",
+    "foundry_blurb": "Naipe Foundry describe Juma as a super display color font made to be used huge, created by Brazilian lettering artist Cyla Costa as a deep exploration of shapes that pushed the boundaries of her visual language. They note the forms recall natural beauties like tropical birds or marble, and that each letter carries a sculptural quality that invites imagining it as a physical object."
+  },
+  {
+    "name": "Pacaembu",
+    "foundry": "Naipe Foundry",
+    "url": "https://store.naipefoundry.com/fonts/pacaembu",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "art deco sans",
+    "classification_notes": "Pacaembu is a sans-serif rooted in Art Deco stone lettering, inspired by the geometric and decorative letterforms found at the Estádio Pacaembu, inaugurated in 1940. The family sits between geometric and display sans categories, with clear Art Deco influence in its proportions and detailing.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pacaembu"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "art-deco",
+      "geometric",
+      "sports",
+      "brazilian",
+      "display",
+      "variable",
+      "latin-extended",
+      "cultural"
+    ],
+    "summary": "A seven-weight sans-serif drawn from the Art Deco stone lettering of São Paulo's Estádio Pacaembu, available in static and variable formats.",
+    "description": "Originating as a study of the inscribed lettering found in the Paulo Machado de Carvalho Municipal Stadium, this family translates the geometric Art Deco character of a 1940 Brazilian landmark into a functional type system. Seven weights run from Thin to Black, supported by a variable font, with OpenType features including an alternate single-storey 'a', a short J, an alternative question mark, and case-sensitive forms. Broad Latin language support stretches across hundreds of scripts and creole languages, reflecting the pan-Latin cultural context of its origins.",
+    "foundry_blurb": "Naipe describe Pacaembu as a celebration of Brazilian football, rooted in a study of the Art Deco stone lettering of the Estádio Pacaembu in São Paulo. They note that Art Deco letterforms, like football itself, were brought to Brazil by Europeans and then took on a wholly distinct personality in the tropics. The family is available in both static and variable formats."
+  },
+  {
+    "name": "Uai",
+    "foundry": "Naipe Foundry",
+    "url": "https://store.naipefoundry.com/fonts/uai",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A clean, upright sans-serif with geometric tendencies and humanist details, purpose-built for UI environments. Alternate letterforms for a, g, i and l are characteristic of screen-focused geometric sans families.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Uai",
+      "Uai Variable",
+      "Uai Darkmode",
+      "Uai Darkmode Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "ui",
+      "geometric",
+      "variable",
+      "screen",
+      "legibility",
+      "darkmode",
+      "interface",
+      "latin-extended"
+    ],
+    "summary": "A 14-style variable sans from Naipe Foundry, built for UI design with a Minas Gerais–inflected character.",
+    "description": "Designed explicitly for user-interface work, Uai offers seven weights from Thin to Black in both static and variable formats, with a dedicated Darkmode subfamily optimised for light-on-dark rendering. OpenType features include alternate forms for a, g, i and l, tabular figures, slashed zero and case-sensitive punctuation, giving it the technical toolkit expected of a serious UI face. The family covers an extensive Latin character set spanning hundreds of languages, and carries a quiet regional identity rooted in the culture of Minas Gerais, Brazil.",
+    "foundry_blurb": "Naipe describe Uai as a sans serif designed to meet the high standards of modern UI design while carrying the taste and beauty of Minas Gerais. The 14-style, fully variable family is highly legible and adaptable, solving complex design challenges without losing its charm — quietly confident and effortlessly effective, much like the people of the region it draws from."
+  },
+  {
+    "name": "Gabarito",
+    "foundry": "Naipe Foundry",
+    "url": "https://store.naipefoundry.com/fonts/gabarito",
+    "designer": "Leandro Assis, Álvaro Franca, Felipe Casaprima, Henrique Baier",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Gabarito is explicitly described as a geometric sans typeface, with rounded, friendly forms built on geometric construction principles suited to educational contexts.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gabarito"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "friendly",
+      "educational",
+      "variable",
+      "open-source",
+      "display",
+      "round",
+      "functional"
+    ],
+    "summary": "A friendly geometric sans in six weights, originally conceived to help Brazilian students navigate university entrance exams, with a glyph set packed with mathematical and scientific symbols.",
+    "description": "Designed by Leandro Assis and Álvaro Franca in 2017 and later expanded and reworked for open source by Henrique Baier, Gabarito takes its name from the Brazilian Portuguese word for an answer sheet. The typeface pairs a light-hearted geometric voice with a practical character set that includes circled numbers, fractions, superscripts, subscripts and a range of mathematical operators. Six weights from Regular to Black are available as both static fonts and a variable font, and the open source files are accessible via GitHub.",
+    "foundry_blurb": "Naipe describe Gabarito as a light-hearted geometric sans created by Leandro Assis and Naipe Foundry, named after the Brazilian Portuguese word for an answer sheet. It was made to help young people learn and prepare for the vestibular university entry exams, packing high-school-level symbols and figures into a friendly, functional voice. Originally designed by Leandro Assis and Álvaro Franca in 2017, expanded by Felipe Casaprima, and reworked for the open source space by Henrique Baier."
+  },
+  {
+    "name": "Discórdia",
+    "foundry": "Naipe Foundry",
+    "url": "https://store.naipefoundry.com/fonts/discordia",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "wedge serif",
+    "classification_notes": "The Regular uses a wedge-serif structure with broad-nib contrast, the Bold shifts to horizontal slab-serif contrast, the Italic is a monoline sans-serif-ish cut, and the Bold Italic presents a twisted design — making this a multi-category super-family anchored by its serif Regular.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Discórdia"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Hebrew"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "wedge-serif",
+      "superfamily",
+      "mixed-contrast",
+      "hebrew",
+      "editorial",
+      "expressive",
+      "opentype-features",
+      "swash"
+    ],
+    "summary": "A four-style mini super-family in which each member uses a different contrast structure, allowing mixed-style setting across wedge-serif, slab, monoline and twisted variants in the same line.",
+    "description": "Each of the four styles — Regular, Italic, Bold and Bold Italic — is built on a distinct contrast principle: broad-nib, monoline, horizontal slab and an intentionally distorted fourth. They are drawn to coexist in the same line, creating typographic hierarchy without changing typeface. The family covers Latin and Hebrew, with a deep OpenType feature set including swash capitals, oldstyle figures, fractions, alternates and justification alternates for Hebrew.",
+    "foundry_blurb": "Naipe Foundry describe Discórdia as a type-family of contrasting contrasts, in which each of the four members has a different contrast type: the Regular has broad-nib contrast, the Bold has horizontal contrast, the Italic is monoline, and the Bold Italic is something you need to see for yourself. They explain that these different design structures were fine-tuned to work together in the same line, creating emphasis and hierarchy through a mini super-family that groups a wedge-serif Regular, a slab-serif Bold, a sans-serif-ish Italic and a twisted Bold Italic, covering both Latin and Hebrew with extensive OpenType features."
+  }
+]

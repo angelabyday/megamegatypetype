@@ -1,0 +1,923 @@
+[
+  {
+    "name": "Statika",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/statika",
+    "designer": "Anne Büttner",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A contemporary grotesque with a monospaced companion; the upright forms and extended weight range place it firmly in the grotesque sans-serif tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Statika",
+      "Statika Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "technical",
+      "mono",
+      "cyrillic",
+      "editorial",
+      "extended-latin",
+      "radio",
+      "scientific"
+    ],
+    "summary": "A grotesque sans by Anne Büttner spanning eleven weights with italic companions and a monospaced variant, covering Latin and Cyrillic across 72 languages.",
+    "description": "Designed by Anne Büttner and released by Brownfox, Statika runs from Light to Black with italics at each weight and a separate Mono subfamily for technical settings. The family covers 72 languages across Latin and Cyrillic scripts, making it a capable choice for multilingual editorial and interface work. The specimen leans on scientific and radio-frequency copy, suggesting a sensibility suited to technical and instructional contexts.",
+    "foundry_blurb": "Statika is an 11-weight grotesque sans with italic variants and a Mono companion, supporting Latin and Cyrillic for 72 languages. Designed by Anne Büttner and available from Brownfox starting at €50."
+  },
+  {
+    "name": "Aeroport",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/aeroport",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Clean geometric proportions and optically balanced construction place this firmly in the geometric sans-serif category, with a neutral, rational character typical of airport and wayfinding-inspired designs.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Aeroport",
+      "Aeroport Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "wayfinding",
+      "neutral",
+      "cyrillic",
+      "multilingual",
+      "corporate",
+      "signage"
+    ],
+    "summary": "A geometric sans-serif with Latin and Cyrillic support across five weights, accompanied by italic and a monospaced variant.",
+    "description": "Offered in five weights from Light to Black with matching italics, Aeroport covers 72 languages across Latin and Cyrillic scripts. A separate Mono subfamily extends its utility to code and tabular settings. Its clean, rational forms and broad language support make it a practical choice for international publishing, corporate identity and interface work.",
+    "foundry_blurb": "Brownfox present Aeroport as an 11-weight family spanning 72 languages with full Latin and Cyrillic coverage, available with italic styles and a dedicated Mono variant, starting from €50."
+  },
+  {
+    "name": "Formular",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/formular",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Formular is a geometric-leaning grotesque sans-serif with a rational structure, alternate character options, and a companion monospaced variant, placing it firmly in the grotesque tradition.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Formular",
+      "Formular Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "neutral",
+      "editorial",
+      "cyrillic",
+      "mono",
+      "multiscript",
+      "corporate"
+    ],
+    "summary": "A geometric grotesque with 15 weights, italic cuts and a mono companion, covering Latin and Cyrillic across 72 languages.",
+    "description": "Formular offers a broad weight range from ExtraLight to Ultra, each with a matching italic, suited to both text and display use. Alternate glyphs for 'a', '&' and '0' allow stylistic adjustment, and a dedicated monospaced variant extends the family into editorial and interface contexts. Latin and Cyrillic coverage across 72 languages makes it practical for multilingual European and Russian-language work.",
+    "foundry_blurb": "Brownfox present Formular as a 15-weight family with full italic coverage, Latin and Cyrillic support across 72 languages, a monospaced variant, and OpenType features including alternate forms for select characters. Pricing starts from €50."
+  },
+  {
+    "name": "Tercia",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/tercia",
+    "designer": "Anne Büttner",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The letterforms visible in the specimen suggest a classical serif with refined proportions; the name and overall treatment point to a traditional transitional or old-style serif design suited to text setting.",
+    "weights": [
+      "Light",
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tercia"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "classical",
+      "multilingual",
+      "latin",
+      "cyrillic",
+      "editorial"
+    ],
+    "summary": "A two-weight serif by Anne Büttner covering Latin and Cyrillic across 72 languages, suited to multilingual text composition.",
+    "description": "Tercia offers Light and Regular weights for use in continuous text, with coverage spanning 72 languages across Latin and Cyrillic scripts. The specimen settings demonstrate its range from large display sizes down to conventional body copy, where its classical proportions hold well. The broad script support makes it a practical choice for multilingual publishing and editorial work.",
+    "foundry_blurb": "Tercia is a serif typeface from Brownfox designed by Anne Büttner, available in two weights and supporting 72 languages across Latin and Cyrillic scripts, starting from €50."
+  },
+  {
+    "name": "Coil",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/coil",
+    "designer": "Anne Buttner, Alexey Murashko",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Coil presents as a contemporary grotesque sans-serif with a full range of weights and italics, plus a monospaced variant, suggesting a workhorse text family in the grotesque tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Coil",
+      "Coil Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "text",
+      "workhorse",
+      "multilingual",
+      "cyrillic",
+      "mono",
+      "editorial"
+    ],
+    "summary": "A nine-weight grotesque sans by Anne Buttner and Alexey Murashko, covering Latin and Cyrillic across 72 languages with a matching monospaced variant.",
+    "description": "Designed by Anne Buttner and Alexey Murashko for Brownfox, Coil spans nine weights from Light to Bold, each with a corresponding italic, and extends to a monospaced cut. Latin and Cyrillic coverage across 72 languages makes it suited to multilingual publishing and editorial work. The range of weights and the mono subfamily give it enough range for both running text and interface use.",
+    "foundry_blurb": "Coil is a sans-serif family designed by Anne Buttner and Alexey Murashko, available in nine weights with italic variants and a monospaced style. It supports 72 languages across Latin and Cyrillic scripts, with prices starting from €50."
+  },
+  {
+    "name": "Antonym",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/antonym",
+    "designer": "Delphine Lejeune, Diana Zinchenko",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The specimen text and weight range suggest a text-oriented humanist sans with accompanying mono variant; the italics and broad language support reinforce a workhorse classification rather than display or geometric.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Antonym",
+      "Antonym Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "text",
+      "multilingual",
+      "cyrillic",
+      "mono",
+      "workhorse",
+      "editorial"
+    ],
+    "summary": "A text-oriented sans in seven weights with Latin and Cyrillic support, accompanied by a monospaced variant.",
+    "description": "Antonym covers 72 languages across Latin and Cyrillic scripts, offered in seven weights each with italic companions. A dedicated Mono variant extends its usefulness into code or tabular contexts. Designed by Delphine Lejeune and Diana Zinchenko under the Brownfox label, it reads as a workmanlike text face suited to body copy across European languages.",
+    "foundry_blurb": "Brownfox present Antonym as a seven-weight type family with italic styles, a Mono variant, and coverage of 72 languages in Latin and Cyrillic scripts, starting from €50."
+  },
+  {
+    "name": "Wermut",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/wermut",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "The specimen suggests a refined text serif with classical proportions, suitable for editorial and book work; the style and application in book and editorial projects points to a transitional or humanist serif tradition.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Wermut"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "book",
+      "text",
+      "latin",
+      "cyrillic",
+      "multilingual"
+    ],
+    "summary": "A two-weight serif covering Latin and Cyrillic, evidently suited to book design and editorial work across 72 languages.",
+    "description": "Wermut is a serif typeface from Brownfox offered in Regular and Italic, with coverage of 72 languages across Latin and Cyrillic scripts. Its application in book and editorial projects suggests a text-first disposition with classical proportions. The two-weight offering keeps the family compact, positioning it for body text and refined long-form work rather than display use.",
+    "foundry_blurb": "Brownfox offer Wermut in two weights with italic support, covering Latin and Cyrillic across 72 languages, starting from €50."
+  },
+  {
+    "name": "Gerbera",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/gerbera",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Gerbera's specimen shows classical upright roman and italic forms with clear stroke contrast, consistent with a transitional serif tradition. The range of weights from Light to Black and the accompanying italics reinforce this classification.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gerbera"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "serif",
+      "multilingual",
+      "editorial",
+      "text",
+      "latin",
+      "cyrillic",
+      "publishing"
+    ],
+    "summary": "A transitional serif spanning ten weights with matching italics, covering Latin and Cyrillic across 72 languages.",
+    "description": "Offered in five weights from Light to Black, each with a companion italic, Gerbera covers 72 languages across Latin and Cyrillic scripts. The family is shown at work in both small text settings and large display sizes, handling dense multilingual body copy and expressive headlines with equal composure. Its breadth of language support makes it a practical choice for European and Eastern European publishing projects.",
+    "foundry_blurb": "Brownfox offer Gerbera in 10 weights with support for 72 languages across Latin and Cyrillic scripts, with pricing starting from €50."
+  },
+  {
+    "name": "Geometria",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/geometria",
+    "designer": "Yulia Popova",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Geometria is a geometric sans-serif with a clean, constructed aesthetic and a wide weight range, consistent with the geometric sans tradition. Its name and specimen imagery confirm the geometric classification.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Geometria"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "cyrillic",
+      "latin",
+      "multilingual",
+      "clean",
+      "contemporary",
+      "wide-range"
+    ],
+    "summary": "A geometric sans-serif spanning eight weights with matching italics, covering Latin and Cyrillic across 72 languages.",
+    "description": "Designed by Yulia Popova, Geometria offers sixteen styles running from Thin to Heavy in both upright and italic cuts. The dual-script coverage across Latin and Cyrillic makes it practical for multilingual projects in European and Russian-speaking markets. Its clean, constructed forms sit comfortably in editorial, corporate and digital contexts.",
+    "foundry_blurb": "Brownfox presents Geometria as a 16-weight geometric sans-serif with broad language support spanning 72 languages across the Latin and Cyrillic scripts, starting from €50."
+  },
+  {
+    "name": "Activist",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/activist",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "Activist appears to be a bold, expressive display typeface with a single weight, suited to editorial and activist-adjacent design contexts. Its wide language support and strong visual character place it firmly in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Activist"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "editorial",
+      "political",
+      "single-weight",
+      "cyrillic",
+      "latin",
+      "expressive"
+    ],
+    "summary": "A single-weight display typeface from Brownfox with broad Latin and Cyrillic coverage across 72 languages.",
+    "description": "A single-weight display typeface with coverage across 72 languages in Latin and Cyrillic scripts. Its sparse family structure and strong visual presence suggest use in editorial, cultural and activist-adjacent design contexts, as evidenced by its use in projects for Afisha and Semiotik Design. The name and specimen reference art and performance history, lending the typeface a particular ideological character.",
+    "foundry_blurb": "Activist is available from Brownfox starting from €25, offered in a single Regular weight with support for 72 languages across Latin and Cyrillic scripts."
+  },
+  {
+    "name": "Bitum",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/bitum",
+    "designer": "Stella Kucher",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Bitum presents as a contemporary grotesque sans-serif with a range of weights and italics, covering Latin and Cyrillic scripts with the neutral, functional character typical of the grotesque subcategory.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bitum"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "cyrillic",
+      "multilingual",
+      "editorial",
+      "neutral",
+      "functional"
+    ],
+    "summary": "A six-weight grotesque by Stella Kucher covering Latin and Cyrillic across 72 languages, with matching italics throughout.",
+    "description": "Designed by Stella Kucher, Bitum is a straightforward grotesque sans running from Light to Bold with italic cuts at each weight. Its dual-script Latin and Cyrillic coverage across 72 languages makes it practical for multilingual publishing and branding projects. The specimen copy leans on technical and regulatory texts, suggesting the family suits dense, information-heavy settings as readily as display use.",
+    "foundry_blurb": "Brownfox offer Bitum as a six-weight grotesque covering Latin and Cyrillic scripts across 72 languages, available starting from €50."
+  },
+  {
+    "name": "Ferro Grotesk",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/ferro-grotesk",
+    "designer": "Vyacheslav Kirilenko",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A contemporary grotesque sans-serif with both upright and italic styles across multiple weights, complemented by a monospaced variant, placing it firmly in the grotesque tradition.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ferro Grotesk",
+      "Ferro Grotesk Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "cyrillic",
+      "latin",
+      "technical",
+      "mono",
+      "multi-weight",
+      "functional"
+    ],
+    "summary": "A nine-weight grotesque from Brownfox covering Latin and Cyrillic across 72 languages, with a companion monospaced variant.",
+    "description": "Designed by Vyacheslav Kirilenko, Ferro Grotesk runs from Light to Bold with matching italics throughout, supported by a Mono subfamily for technical or code-adjacent uses. Script coverage spans 72 languages across Latin and Cyrillic, making it a practical choice for multilingual European and Russian-language work. The sample texts lean towards scientific and industrial content, suggesting a positioning suited to technical publishing and institutional communication.",
+    "foundry_blurb": "Ferro Grotesk is a grotesque sans-serif from Brownfox available in nine weights with italic variants and a monospaced companion, covering 72 languages across Latin and Cyrillic scripts."
+  },
+  {
+    "name": "Brutal Type",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/brutal-type",
+    "designer": "Marc Fischer",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The specimen and name suggest a blunt, industrial grotesque character; wide weight range and straightforward structure place it firmly in the grotesque sans-serif tradition.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brutal Type"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "industrial",
+      "multilingual",
+      "cyrillic",
+      "editorial",
+      "display",
+      "wide-weight-range"
+    ],
+    "summary": "An eight-weight grotesque sans from Brownfox covering Latin and Cyrillic across 72 languages, designed by Marc Fischer.",
+    "description": "Brutal Type runs from Thin to Black across eight weights, with no italics or condensed cuts, giving it a direct, no-frills character suited to display and editorial work. Cyrillic support alongside Latin extended coverage makes it viable across 72 languages. The name and specimen suggest a purposefully blunt aesthetic rather than a refined humanist approach.",
+    "foundry_blurb": "Brownfox present Brutal Type as an eight-weight sans covering Latin and Cyrillic scripts across 72 languages, with weights ranging from Thin to Black and starting from €50."
+  },
+  {
+    "name": "Booklet Serif",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/booklet-serif",
+    "designer": "Vyacheslav Kirilenko",
+    "year": null,
+    "category": "serif",
+    "subcategory": "text serif",
+    "classification_notes": "A traditional-leaning text serif available in three weights with no italic shown, suited to editorial and publication use, drawing on book typography conventions implied by the name.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Booklet Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "editorial",
+      "publication",
+      "multilingual",
+      "cyrillic",
+      "book"
+    ],
+    "summary": "A three-weight text serif by Vyacheslav Kirilenko covering Latin and Cyrillic across 72 languages, aimed at editorial and publication use.",
+    "description": "Designed by Vyacheslav Kirilenko and published by Brownfox, Booklet Serif offers Light, Regular and Bold weights suited to running text and display settings in editorial contexts. Its Latin and Cyrillic coverage across 72 languages makes it practical for multilingual publication work. The name and specimen copy suggest a focus on printed matter, journals and bulletin-style typesetting.",
+    "foundry_blurb": "Booklet Serif is a three-weight serif from Brownfox, designed by Vyacheslav Kirilenko with support for 72 languages across Latin and Cyrillic scripts, starting from €50."
+  },
+  {
+    "name": "Booklet Sans",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/booklet",
+    "designer": "Nikita Sapozhkov",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The specimen text and even spacing suggest a text-oriented humanist sans; the design's compatibility with both Latin and Cyrillic scripts and its range of weights reinforce this classification.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Booklet Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "text",
+      "multilingual",
+      "cyrillic",
+      "latin",
+      "editorial",
+      "legible"
+    ],
+    "summary": "A five-weight humanist sans from Brownfox covering Latin and Cyrillic across 72 languages, suited to text-heavy editorial and interface work.",
+    "description": "Designed by Nikita Sapozhkov at Brownfox, Booklet Sans runs from Light to Black across five weights with no italics. The family covers 72 languages across Latin and Cyrillic scripts, making it a practical choice for multilingual publishing and digital products. Its even spacing and readable proportions point toward sustained text use rather than display applications.",
+    "foundry_blurb": "Booklet Sans is a five-weight sans-serif family from Brownfox supporting Latin and Cyrillic scripts across 72 languages, available from €50."
+  },
+  {
+    "name": "Geometria Narrow",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/geometria-narrow",
+    "designer": "Arthur Lebsak",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Geometria Narrow is a condensed geometric sans-serif, sharing the clean circular forms and rational construction typical of the geometric grotesque genre, offered in a narrow width variant of the Geometria family.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow"
+    ],
+    "subfamilies": [
+      "Geometria Narrow"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "narrow",
+      "condensed",
+      "multilingual",
+      "cyrillic",
+      "latin",
+      "mathematical",
+      "editorial"
+    ],
+    "summary": "A narrow geometric sans in eight weights with broad Latin and Cyrillic coverage, drawn by Arthur Lebsak for Brownfox.",
+    "description": "Geometria Narrow offers the clean, circular construction of a geometric sans compressed into a narrow width, making it suited to tight layouts and dense text settings. Eight weights run from Thin to Heavy, covering 72 languages across Latin and Cyrillic scripts. It is the condensed sibling of the Geometria family, extending the range for space-constrained editorial and display use.",
+    "foundry_blurb": "Brownfox offer Geometria Narrow as an 8-weight narrow geometric sans with support for 72 languages across Latin and Cyrillic scripts, priced from €50."
+  },
+  {
+    "name": "Formular Neutral",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/formular-neutral",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Formular Neutral presents as a neutral grotesque sans-serif, a genre defined by restrained geometry and minimal personality, covering both Latin and Cyrillic scripts across 15 weights with mono and italic variants.",
+    "weights": [
+      "Ultra",
+      "Black",
+      "Bold",
+      "Medium",
+      "Regular",
+      "Light",
+      "ExtraLight"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Formular Neutral",
+      "Formular Neutral Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "neutral",
+      "cyrillic",
+      "multilingual",
+      "editorial",
+      "mono",
+      "workhorse"
+    ],
+    "summary": "A neutral grotesque spanning seven weights with matching italics and a monospaced variant, covering Latin and Cyrillic across 72 languages.",
+    "description": "Offering seven weights from Ultra to ExtraLight, each with a corresponding italic, Formular Neutral is a restrained grotesque intended for extended text and editorial use. A dedicated mono variant broadens its application to coding environments and tabular work. Latin and Cyrillic support across 72 languages makes it a practical choice for multilingual publishing.",
+    "foundry_blurb": "Formular Neutral is a 15-weight grotesque from Brownfox supporting Latin and Cyrillic across 72 languages, with weights ranging from Ultra to ExtraLight, full italic coverage, and a monospaced variant included in the family."
+  },
+  {
+    "name": "Fonema",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/fonema",
+    "designer": "Anne Büttner",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The specimen and thematic focus on phonetics suggest a text-oriented humanist sans; the four-weight range without condensed or italic variants points to a utility-focused, reading-oriented design.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fonema"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "text",
+      "multilingual",
+      "latin",
+      "cyrillic",
+      "editorial",
+      "neutral"
+    ],
+    "summary": "A four-weight sans by Anne Büttner covering Latin and Cyrillic across 72 languages, with a thematic grounding in phonetics and sound systems.",
+    "description": "Designed by Anne Büttner and sold through Brownfox, Fonema spans Light to Bold in a clean, text-facing register suited to extended setting. The family covers 72 languages across Latin and Cyrillic scripts, making it a practical choice for multilingual publishing or editorial work. Its conceptual framing around phonemes and linguistic abstraction gives it a considered identity without overreaching in formal terms.",
+    "foundry_blurb": "Brownfox present Fonema as a four-weight type family by Anne Büttner, offering Latin and Cyrillic support across 72 languages. The family takes its name and conceptual basis from phonology, specifically the notion of the phoneme as an abstraction of spoken sound, with specimen text drawn from linguistic writing on phonetics and spelling systems."
+  },
+  {
+    "name": "Maket",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/maket",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "The specimen and weight range suggest a clean, functional grotesque sans-serif with no visible italic or decorative features, positioned for text and display use.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Maket"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "multilingual",
+      "cyrillic",
+      "text",
+      "display"
+    ],
+    "summary": "A three-weight grotesque sans covering Latin and Cyrillic across 72 languages, suited to text and display settings.",
+    "description": "Maket is a clean grotesque sans offered in Light, Regular and Bold, with no italics in the family. Its dual-script coverage spanning Latin and Cyrillic across 72 languages makes it a practical choice for multilingual publishing and interface work. The specimen leans on architectural and cultural references, suggesting a positioning towards editorial and cultural institution contexts.",
+    "foundry_blurb": "Brownfox offer Maket as a three-weight Latin and Cyrillic typeface supporting 72 languages, priced from €50."
+  },
+  {
+    "name": "Institut",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/institut",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Institut presents as a restrained, neutral grotesque with even stroke weight and a single-weight offering, typical of functional display and text sans-serifs in the European grotesque tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Institut"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "neutral",
+      "single-weight",
+      "latin",
+      "cyrillic",
+      "functional",
+      "editorial"
+    ],
+    "summary": "A single-weight grotesque covering Latin and Cyrillic across 72 languages, suited to editorial and institutional work.",
+    "description": "Institut is a restrained grotesque available in one weight, with coverage spanning 72 languages across Latin and Cyrillic scripts. Its even stroke rhythm and neutral character make it a workable choice for exhibition design, editorial use and identity systems with a functional register. Seen in use by Tuman Studio and in exhibition contexts, suggesting a lean toward cultural and institutional applications.",
+    "foundry_blurb": "Brownfox offer Institut as a single Regular-weight typeface supporting Latin and Cyrillic across 72 languages, with licences starting from €30."
+  },
+  {
+    "name": "Nolde",
+    "foundry": "Brownfox",
+    "url": "https://brownfox.org/fonts/nolde",
+    "designer": "Alexey Buldakov",
+    "year": null,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Nolde offers a Regular and an Outline weight, with letterforms suited to large display sizes; the expressive stroke contrast and named Outline variant point firmly toward display use rather than text setting.",
+    "weights": [
+      "Regular",
+      "Outline"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nolde"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "outline",
+      "expressive",
+      "cyrillic",
+      "latin",
+      "editorial",
+      "poster"
+    ],
+    "summary": "A two-weight display serif with a companion Outline cut, covering Latin and Cyrillic across 72 languages.",
+    "description": "Nolde is a display serif available in Regular and Outline weights, designed for use at large sizes in editorial, exhibition and poster contexts. The Outline variant extends its range for layered or high-contrast typographic applications. Latin and Cyrillic support spans 72 languages, making it broadly usable across Eastern and Western European markets.",
+    "foundry_blurb": "Nolde is offered by Brownfox in two weights — Regular and Outline — with support for Latin and Cyrillic scripts across 72 languages, starting from €30."
+  }
+]

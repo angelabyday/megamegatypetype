@@ -1,0 +1,611 @@
+[
+  {
+    "name": "Auto",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/auto/preface",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Underware's Auto is a humanist sans-serif with warm, rounded characteristics typical of the Dutch type tradition, balancing legibility with personality across multiple weights and styles.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Auto"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "dutch",
+      "legible",
+      "text",
+      "warm",
+      "sans-serif"
+    ],
+    "summary": "A humanist sans-serif from Underware designed for sustained reading with warm, approachable letterforms.",
+    "description": "Auto is a humanist sans-serif from the Dutch foundry Underware, conceived for text setting where legibility and personality need to coexist. The design draws on the warmth and optical refinement characteristic of the Dutch type tradition. It suits editorial, book and interface work that benefits from a sans with more character than a neutral grotesque.",
+    "foundry_blurb": "Underware present Auto as a typeface with its own distinct voice, offering styles suited to a range of typographic applications."
+  },
+  {
+    "name": "Dolly",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/dolly/preface",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Dolly is a text serif by Underware with humanist characteristics, designed for extended reading. The page content is minimal but Underware's Dolly is well-documented as a book typeface with organic, pen-influenced letterforms.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dolly"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "book",
+      "humanist",
+      "text",
+      "literary",
+      "elegant"
+    ],
+    "summary": "A humanist text serif from Underware, built for sustained reading with warm, pen-influenced letterforms.",
+    "description": "Dolly is a book typeface from Underware, shaped by humanist calligraphic tradition and intended for long-form text setting. Its organic curves and carefully considered spacing make it well-suited to literary publishing and editorial contexts where warmth and legibility over extended passages matter. The family includes italic cuts that complement the roman with equal care.",
+    "foundry_blurb": "Underware present Dolly as a typeface designed for books and extended reading, with a humanist sensibility and organic, pen-influenced construction."
+  },
+  {
+    "name": "Bello",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/bello/preface",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "brush script",
+    "classification_notes": "Bello is a script typeface from Underware, consistent with their known output in calligraphic and brush-style scripts; the name and their portfolio context point clearly to a script category.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bello"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "brush",
+      "calligraphic",
+      "display",
+      "expressive",
+      "lettering"
+    ],
+    "summary": "A brush script from Underware designed for expressive display use, drawing on calligraphic lettering traditions.",
+    "description": "Bello is a display script from Underware, the Dutch type foundry known for technically ambitious and character-rich typefaces. It is built for large-scale, expressive typesetting where personality and energy are priorities. The page content was minimal at the time of capture, but Underware's script work consistently demonstrates high draughtsmanship and OpenType sophistication.",
+    "foundry_blurb": "Underware present Bello as a script typeface available to try, buy and explore across styles and features, with in-use examples provided on the product page."
+  },
+  {
+    "name": "Fakir",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/fakir/preface",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "humanist serif",
+    "classification_notes": "Underware are known for drawing typefaces with humanist warmth and calligraphic influence; without further page content, the classification is inferred from Underware's broader typographic output and the name's associations with handcrafted, expressive letterforms.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fakir"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "serif",
+      "expressive",
+      "text"
+    ],
+    "summary": "A typeface from Underware with insufficient page data to characterise in detail.",
+    "description": "The page content returned for Fakir contained only navigation and contact information, leaving the typeface's design, weights and features undocumented here. Underware are a respected foundry with a strong tradition of expressive, humanist type design, suggesting Fakir is likely a considered text or display face. A visit to the full product page is recommended for accurate details.",
+    "foundry_blurb": "No foundry description was available from the scraped page content."
+  },
+  {
+    "name": "Duos",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/duos/preface",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "casual script",
+    "classification_notes": "Classified as script based on Underware's Duos family, which pairs a script style with a complementary roman. The name and structure imply a dual-style family built around a handwritten or brush script component.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Duos"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "paired",
+      "handwritten",
+      "casual",
+      "latin"
+    ],
+    "summary": "A paired typeface family from Underware combining a script style with a complementary roman counterpart.",
+    "description": "Duos is structured around the concept of pairing two contrasting but harmonious styles, a script and a roman, designed to work together in typographic compositions. Underware, a foundry known for unconventional type concepts, built the family to allow fluid switching between the two styles within a single design system. The pairing approach makes it well suited to packaging, editorial and branding work that needs warmth alongside legibility.",
+    "foundry_blurb": "Underware present Duos as a typeface family built on the idea of duality, offering two complementary styles designed to be used together across a range of typographic applications."
+  },
+  {
+    "name": "Kermit",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/kermit/preface",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display",
+    "classification_notes": "The page provides insufficient detail to determine a precise subcategory, but Underware's catalogue context and the font's name suggest a display-oriented design; categorised as display pending further detail.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kermit"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "underware",
+      "expressive",
+      "type"
+    ],
+    "summary": "A display typeface from Dutch foundry Underware, with limited detail available from the page content.",
+    "description": "Kermit is a typeface by Underware, the Amsterdam-based foundry known for experimental and culturally engaged type design. The page content available does not reveal specific weights, styles or intended use cases. Underware's broader catalogue suggests a considered approach to letterform and concept.",
+    "foundry_blurb": "No foundry copy was available from the scraped page content beyond navigation and contact details."
+  },
+  {
+    "name": "Plakato",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/plakato/preface",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "The name Plakato references poster lettering (from 'plakat'), suggesting a large-scale display-oriented grotesque or sans, consistent with Underware's experimental display releases.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plakato"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "poster",
+      "experimental",
+      "sans-serif",
+      "underware"
+    ],
+    "summary": "A display typeface from Underware with roots in poster lettering tradition, designed for large-scale typographic work.",
+    "description": "Plakato takes its name from the poster lettering tradition, positioning it squarely in large-scale display use. Underware, the Amsterdam-based foundry known for experimental and culturally engaged type, developed it as part of their ongoing exploration of expressive lettering. The page content available is limited, but the typeface sits within their broader output of unconventional display work.",
+    "foundry_blurb": "Underware present Plakato as a display typeface within their font catalogue, accessible via their standard preface, styles, features and purchasing workflow."
+  },
+  {
+    "name": "Liza",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/liza/preface",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "display script",
+    "classification_notes": "Described as a script typeface by Underware, a foundry known for expressive lettering; the name 'Liza' and the 'tale of the tail' external link suggest a calligraphic or brush-script display design.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Liza"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "display",
+      "calligraphic",
+      "expressive"
+    ],
+    "summary": "A display script typeface from Underware, whose 'tale of the tail' microsite hints at an especially characterful approach to letterform construction.",
+    "description": "Liza is a script typeface from Dutch foundry Underware, a studio with a strong track record in expressive and technically ambitious type. The foundry produced a dedicated microsite called 'tale of the tail' to document the design, suggesting the letterforms carry particular conceptual weight. Beyond that, the page content available offers limited detail on weights, language support or specific stylistic features.",
+    "foundry_blurb": "Underware present Liza as a script typeface with enough depth to warrant its own external showcase site, 'tale of the tail', alongside the standard preface, styles, features and buy sections found across their font catalogue."
+  },
+  {
+    "name": "Liza Lettering™",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/liza_lettering/preface",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "lettering",
+    "classification_notes": "Liza Lettering is a script/lettering typeface with context-sensitive glyph variations, swashes and ligatures designed to mimic hand-lettering; it falls squarely in the script category with a focus on expressive, calligraphic lettering rather than formal script conventions.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Liza Lettering"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "lettering",
+      "calligraphic",
+      "app-driven",
+      "expressive",
+      "webfont",
+      "contextual-alternates",
+      "ligatures"
+    ],
+    "summary": "An app-and-font system by Underware that generates millions of hand-lettering variations from a single typeface using context-sensitive glyphs, swashes and ligatures.",
+    "description": "Rather than a conventional typeface, Liza Lettering pairs an OpenType font with a dedicated macOS app that lets users compose hand-lettered headlines with contextual glyph selection, a lettermixer, smart suggestions and an extensive swash set. The resulting lettering can be copied directly into InDesign, Illustrator or Photoshop, exported as PNG, or deployed as a webfont via clean CSS and HTML markup that leaves the underlying text content intact and indexable. The combination of app intelligence and a deeply encoded font creates a volume of variation described by Underware as exceeding the number of stars in the universe for even a modest word.",
+    "foundry_blurb": "Underware describe Liza Lettering as a combined app and font that makes skillful hand-lettering as simple as doodling with a pen. Type a word, control millions of possible forms through an intuitive interface, and output the result to desktop applications or as a webfont without compromising text semantics. Liza Lettering is positioned as Underware's argument that playing with letters should have no limitations."
+  },
+  {
+    "name": "Scribo",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/scribo/preface",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "handwriting",
+    "classification_notes": "Underware are known for script and handwriting typefaces; the name Scribo (Latin for 'I write') and its placement within Underware's catalogue strongly suggests a handwriting or informal script category.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Scribo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "handwriting",
+      "informal",
+      "latin"
+    ],
+    "summary": "A handwriting-style typeface from Underware whose name derives from the Latin verb 'to write'.",
+    "description": "Scribo takes its name from the Latin for 'I write', positioning it within Underware's broader interest in script and handwritten forms. The page provides limited style detail, but the foundry's track record with informal and connected letterforms suggests a considered approach to naturalistic writing. Underware are based in the Netherlands and are well regarded for experimental and script-based type design.",
+    "foundry_blurb": "Scribo is presented on Underware's site with sections covering preface, styles, features, in-use examples, and purchasing options, following the foundry's standard typeface presentation format."
+  },
+  {
+    "name": "Sauna Mono",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/sauna_mono/preface",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced",
+    "classification_notes": "Named and positioned as a mono variant within Underware's Sauna family, making it a monospaced typeface by explicit design intent.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sauna Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "coding",
+      "sauna-family",
+      "humanist",
+      "underware"
+    ],
+    "summary": "A monospaced variant of Underware's Sauna family, bringing the warmth of that humanist design to fixed-width settings.",
+    "description": "Sauna Mono extends the character of Underware's Sauna typeface into a monospaced format, making it suitable for code, terminal and tabular contexts. As part of the broader Sauna family, it carries the humanist sensibility of that system into fixed-width territory. Specific weight and style details were not available from the page scraped.",
+    "foundry_blurb": "Sauna Mono is presented by Underware as part of their Sauna type family, offered through their foundry with preface, styles, features, in-use examples and purchase options available on the product page."
+  },
+  {
+    "name": "Sauna",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/sauna/preface",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "informal script",
+    "classification_notes": "Sauna is a script typeface from Underware, a foundry known for expressive and unconventional type design. The informal, handwritten character places it firmly in the script category with a casual, humanistic subcategory.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sauna"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "informal",
+      "handwritten",
+      "expressive",
+      "casual"
+    ],
+    "summary": "An informal script from Underware with a loose, handwritten sensibility suited to warm and approachable typographic settings.",
+    "description": "Sauna is a script typeface by Underware, the Dutch foundry recognised for unconventional and playful type design. Its relaxed, handwritten quality makes it well suited to editorial and branding contexts that call for personality over formality. The page content available was minimal, so specific weight and feature details could not be confirmed from the source.",
+    "foundry_blurb": "Underware present Sauna as part of their font catalogue, accessible via preface, styles, features, in-use examples, and trial and purchase options through their website."
+  },
+  {
+    "name": "Unibody",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/unibody/preface",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Underware is known for humanist type design; the name Unibody suggests a unified, compact sans structure typical of humanist mono or semi-mono designs.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Unibody"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "sans-serif",
+      "compact",
+      "underware"
+    ],
+    "summary": "A compact sans-serif from Underware with a unified stroke structure suited to screen and text use.",
+    "description": "Unibody is a sans-serif typeface from the Dutch foundry Underware, designed around a consistent, unified body that aims for legibility across sizes. The name points to its structural ambition: a single coherent form system rather than a family of diverging cuts. Details remain sparse from the available page content, but it sits within Underware's broader tradition of carefully considered Latin text faces.",
+    "foundry_blurb": "Underware present Unibody as part of their type catalogue, available with styles, features and trial options through their site."
+  },
+  {
+    "name": "Tripper",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/tripper/preface",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "casual script",
+    "classification_notes": "The name 'Tripper' and Underware's known output suggest a script or display typeface; the page structure and pricing tiers indicate multiple style groupings consistent with a script family. Categorised as script based on Underware's typical approach to casual, handwritten forms.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tripper"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "handwritten",
+      "casual",
+      "display"
+    ],
+    "summary": "A script typeface from Underware offered across multiple licensing tiers for desktop and web use.",
+    "description": "Tripper is a script typeface from Underware, available in a total of 24 fonts split across several purchasing groups. The family is sold directly through the Underware shop with separate desktop and web licences. Underware's output typically favours expressive, handmade-feeling letterforms, and Tripper sits within that tradition.",
+    "foundry_blurb": "Underware offer Tripper as a multi-font family available for both desktop and web licensing, purchasable directly from their shop with immediate download on checkout."
+  },
+  {
+    "name": "Tripper Tricolor",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/tripper_tricolor/preface",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "chromatic display",
+    "classification_notes": "Tripper Tricolor is a chromatic typeface using CSS Color Font technology, designed for layered multi-colour display use, placing it firmly in the display category with a chromatic/colour font subcategory.",
+    "weights": [
+      "JPN (Japan)"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tripper Tricolor"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "chromatic",
+      "color-font",
+      "display",
+      "css-color-font",
+      "experimental",
+      "layered"
+    ],
+    "summary": "A chromatic colour font from Underware built on CSS Color Font technology, demonstrated with a Johan Cruyff quotation rendered in the Japan colour weight.",
+    "description": "Tripper Tricolor is Underware's colour font release, making use of CSS Color Font technology to render type in layered, multi-colour styles. The page demonstrates a single CSS Color Weight labelled JPN (Japan), applied to a quotation attributed to Johan Cruyff. The scant page content makes it difficult to assess the full family breadth, but the chromatic approach positions it squarely as a display face for expressive, screen-oriented use.",
+    "foundry_blurb": "Underware present Tripper Tricolor as a typeface that uses CSS Color Font technology, with at least one named colour weight — JPN (Japan) — demonstrated through a Johan Cruyff quotation on the specimen page."
+  },
+  {
+    "name": "Zeitung Mono",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/zeitung_mono/preface",
+    "designer": null,
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced",
+    "classification_notes": "The name explicitly identifies this as a monospaced typeface; 'Mono' in the family name and its placement within Underware's Zeitung family confirms its classification as a monospaced variant.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Zeitung Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "editorial",
+      "newspaper",
+      "coding",
+      "zeitung-family"
+    ],
+    "summary": "A monospaced member of Underware's Zeitung family, designed for editorial and technical uses where fixed-width spacing is required.",
+    "description": "Zeitung Mono extends the Zeitung type family from Underware into monospaced territory. As part of a family that draws on newspaper and editorial traditions, the mono variant carries those typographic references into fixed-width contexts. The page content available was insufficient to confirm precise weights, italics or full language support.",
+    "foundry_blurb": "Zeitung Mono is presented by Underware as part of their Zeitung family, available through their shop with licensing and support information provided on their site."
+  },
+  {
+    "name": "Zeitung",
+    "foundry": "Underware",
+    "url": "https://www.underware.nl/fonts/zeitung/preface",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Zeitung is a newspaper-oriented sans-serif from Underware, sitting within the grotesque tradition given its editorial focus and the name itself meaning 'newspaper' in German.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Zeitung"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "editorial",
+      "newspaper",
+      "text"
+    ],
+    "summary": "A grotesque sans from Underware whose name — German for 'newspaper' — signals its editorial intentions.",
+    "description": "Zeitung is a sans-serif from Dutch foundry Underware designed with editorial and newspaper contexts in mind. The name, German for 'newspaper', gives a clear signal of its intended use. Little additional detail was available from the scraped page content, but Underware's output generally sits at a high level of craft.",
+    "foundry_blurb": "Underware present Zeitung as part of their type library, with the preface section of the font's page offering an introduction to the family and its design intentions."
+  }
+]
