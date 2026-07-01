@@ -1,8 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { Checkbox } from "@/components/ui/checkbox";
-import { Input } from "@/components/ui/input";
+import { X } from "lucide-react";
 import { cn } from "@/lib/utils";
 import type { FoundryInfo } from "@/lib/foundry-map";
 
@@ -15,16 +14,24 @@ interface Props {
 export function FoundrySelect({ foundries, selected, onChange }: Props) {
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState("");
-  const containerRef = useRef<HTMLDivElement>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
-    function onPointerDown(e: PointerEvent) {
-      if (containerRef.current && !containerRef.current.contains(e.target as Node)) {
-        setOpen(false);
-      }
+    if (open) {
+      document.body.style.overflow = "hidden";
+      setTimeout(() => inputRef.current?.focus(), 50);
+    } else {
+      document.body.style.overflow = "";
     }
-    document.addEventListener("pointerdown", onPointerDown);
-    return () => document.removeEventListener("pointerdown", onPointerDown);
+    return () => { document.body.style.overflow = ""; };
+  }, [open]);
+
+  useEffect(() => {
+    function onKey(e: KeyboardEvent) {
+      if (e.key === "Escape") setOpen(false);
+    }
+    document.addEventListener("keydown", onKey);
+    return () => document.removeEventListener("keydown", onKey);
   }, []);
 
   const filtered = foundries
@@ -51,20 +58,18 @@ export function FoundrySelect({ foundries, selected, onChange }: Props) {
       : `${selected.size} foundries`;
 
   return (
-    <div ref={containerRef} className="relative">
+    <>
       <button
         type="button"
-        onClick={() => setOpen((o) => !o)}
+        onClick={() => setOpen(true)}
         className={cn(
           "flex w-full items-center justify-between border-[0.5px] border-border px-3 py-2 text-sm transition-colors hover:bg-muted",
-          open && "bg-muted"
+          selected.size > 0 && "bg-foreground text-background border-transparent hover:bg-foreground/90"
         )}
       >
-        <span className={selected.size === 0 ? "text-muted-foreground" : ""}>
-          {label}
-        </span>
+        <span className={selected.size === 0 ? "text-muted-foreground" : ""}>{label}</span>
         <svg
-          className={cn("size-3 shrink-0 transition-transform", open && "rotate-180")}
+          className="size-3 shrink-0"
           viewBox="0 0 10 6"
           fill="none"
           stroke="currentColor"
@@ -75,47 +80,88 @@ export function FoundrySelect({ foundries, selected, onChange }: Props) {
       </button>
 
       {open && (
-        <div className="absolute z-50 mt-1 w-full border-[0.5px] border-border bg-background shadow-md">
-          <div className="border-b-[0.5px] border-border p-2">
-            <Input
-              autoFocus
-              placeholder="Search foundries…"
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              className="h-7 text-xs"
-            />
-          </div>
-          <div className="max-h-[50vh] overflow-y-auto">
-            {filtered.length === 0 ? (
-              <p className="px-3 py-2 text-xs text-muted-foreground">No match</p>
-            ) : (
-              filtered.map((f) => (
-                <label
-                  key={f.slug}
-                  className="flex cursor-pointer items-center gap-2 px-3 py-1.5 text-sm hover:bg-muted"
+        <div className="fixed inset-0 z-50">
+          {/* Backdrop */}
+          <div
+            className="absolute inset-0 bg-black/40"
+            onClick={() => setOpen(false)}
+          />
+
+          {/* Panel — full width, below site header */}
+          <div className="absolute inset-x-0 top-20 bg-background border-b border-border shadow-xl flex flex-col max-h-[calc(100vh-5rem)]">
+            {/* Header row */}
+            <div className="flex items-center justify-between gap-4 px-4 py-3 sm:px-6 border-b border-border shrink-0">
+              <span className="text-sm font-medium">
+                Foundry
+                {selected.size > 0 && (
+                  <span className="ml-2 text-muted-foreground font-normal">
+                    {selected.size} selected
+                  </span>
+                )}
+              </span>
+              <div className="flex items-center gap-2">
+                {selected.size > 0 && (
+                  <button
+                    type="button"
+                    onClick={clear}
+                    className="text-xs text-muted-foreground hover:text-foreground transition-colors"
+                  >
+                    Clear
+                  </button>
+                )}
+                <button
+                  type="button"
+                  onClick={() => setOpen(false)}
+                  className="rounded-full p-1 hover:bg-muted transition-colors"
+                  aria-label="Close"
                 >
-                  <Checkbox
-                    checked={selected.has(f.name)}
-                    onCheckedChange={() => toggle(f.name)}
-                  />
-                  {f.name}
-                </label>
-              ))
-            )}
-          </div>
-          {selected.size > 0 && (
-            <div className="border-t-[0.5px] border-border p-2">
-              <button
-                type="button"
-                onClick={clear}
-                className="w-full px-2 py-1 text-xs text-muted-foreground hover:text-foreground transition-colors"
-              >
-                Clear selection
-              </button>
+                  <X className="h-4 w-4" />
+                </button>
+              </div>
             </div>
-          )}
+
+            {/* Search */}
+            <div className="px-4 py-3 sm:px-6 shrink-0">
+              <input
+                ref={inputRef}
+                type="search"
+                value={query}
+                onChange={(e) => setQuery(e.target.value)}
+                placeholder="Search foundries…"
+                className="h-8 w-full rounded-full border-[0.5px] border-border bg-muted px-4 text-sm outline-none placeholder:text-muted-foreground focus:border-foreground/40"
+              />
+            </div>
+
+            {/* Roundels */}
+            <div className="overflow-y-auto px-4 pb-5 sm:px-6">
+              {filtered.length === 0 ? (
+                <p className="py-4 text-sm text-muted-foreground">No foundries match &ldquo;{query}&rdquo;</p>
+              ) : (
+                <div className="flex flex-wrap gap-1.5">
+                  {filtered.map((f) => {
+                    const active = selected.has(f.name);
+                    return (
+                      <button
+                        key={f.slug}
+                        type="button"
+                        onClick={() => toggle(f.name)}
+                        className={cn(
+                          "rounded-full border-[0.5px] px-3 py-1 text-xs transition-colors",
+                          active
+                            ? "bg-foreground text-background border-transparent"
+                            : "border-border hover:bg-muted"
+                        )}
+                      >
+                        {f.name}
+                      </button>
+                    );
+                  })}
+                </div>
+              )}
+            </div>
+          </div>
         </div>
       )}
-    </div>
+    </>
   );
 }
