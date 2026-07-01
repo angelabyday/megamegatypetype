@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Bitstream Charter",
+    "foundry": "Bitstream",
+    "url": "https://www.myfonts.com/collections/charter-font-bitstream",
+    "category": "serif",
+    "subcategory": "transitional / slab serif",
+    "classification_notes": "Bitstream categorises Charter as transitional serif, though it also exhibits slab serif characteristics. Designed for 300 dpi laser printers with simplified structure and minimal curves. Donated to X Consortium in 1992. A Pro version arrived in 2004 with small caps, ranging figures and expanded character sets. Apple adopted Charter as a system font in macOS High Sierra.",
+    "designer": "Matthew Carter",
+    "year": 1987,
+    "weights": [
+      "Roman",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Charter BT",
+      "Charter Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "reseller",
+    "tags": [
+      "text",
+      "serif",
+      "transitional",
+      "slab",
+      "screen",
+      "open-source",
+      "system-font",
+      "legibility"
+    ],
+    "summary": "Matthew Carter's 1987 text serif, engineered for early laser printers and later released as open source — a foundational digital type design.",
+    "description": "Bitstream Charter was designed by Matthew Carter in 1987 specifically for the 300 dpi laser printers of the era, using simplified structure and fewer curves to conserve memory. Bitstream donated a version to the X Consortium in 1992, spawning derivatives including Charis SIL. The Pro version followed in 2004 with small caps and ranging figures, and Apple later integrated it as a macOS system font. Typographer Matthew Butterick ranks it among the finest freely available typefaces.",
+    "foundry_blurb": "Charter was designed to be a versatile text typeface that would perform well even at the modest resolutions of 1980s laser printers — lean, efficient letterforms that still read beautifully today."
+  },
+  {
+    "name": "Bitstream Vera",
+    "foundry": "Bitstream",
+    "url": "https://www.gnome.org/fonts/",
+    "category": "sans-serif",
+    "subcategory": "humanist sans superfamily",
+    "classification_notes": "Humanist sans-serif superfamily covering sans, serif and monospaced variants. Released in 2003 under a liberal open source licence (created 2001). Full TrueType hinting for screen rendering. ~300 glyph coverage. Default font in Python's Matplotlib library. Parent of the DejaVu fonts project.",
+    "designer": "Jim Lyles",
+    "year": 2003,
+    "weights": [
+      "Roman",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Bitstream Vera Sans",
+      "Bitstream Vera Serif",
+      "Bitstream Vera Sans Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "humanist",
+      "open-source",
+      "screen",
+      "mono",
+      "system",
+      "technical",
+      "ui"
+    ],
+    "summary": "Jim Lyles's open source humanist superfamily covering sans, serif and mono variants, optimised for screen and foundational to the DejaVu project.",
+    "description": "Bitstream Vera is a three-family humanist superfamily released under a permissive open source licence in 2003. Jim Lyles built the design with full TrueType hinting for strong screen rendering, and the monospaced variant clearly distinguishes confusable characters like l and 1. Bitstream Vera Sans is the default font in Python's Matplotlib, and the expanded DejaVu project extends its glyph coverage substantially.",
+    "foundry_blurb": "Bitstream Vera is a humanist typeface superfamily optimised for on-screen use with full hinting, released under a licence permitting redistribution in software packages."
+  },
+  {
+    "name": "Amerigo BT",
+    "foundry": "Bitstream",
+    "url": "https://www.myfonts.com/collections/amerigo-font-bitstream",
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Original Bitstream commission by Dutch type designer Gerard Unger. Designed with tapered strokes for performance at lower resolutions, contributing to the desktop publishing revolution.",
+    "designer": "Gerard Unger",
+    "year": null,
+    "weights": [
+      "Roman",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "text",
+      "serif",
+      "transitional",
+      "digital",
+      "desktop-publishing",
+      "classic"
+    ],
+    "summary": "Gerard Unger's original Bitstream commission, a tapered-stroke serif designed for low-resolution digital output.",
+    "description": "Amerigo BT was designed by Gerard Unger for Bitstream as one of the foundry's original commissions. Unger employed tapered strokes specifically to improve legibility at the lower resolutions typical of early digital output devices. The face was significant during the desktop publishing era as a quality serif option designed for digital from the ground up.",
+    "foundry_blurb": "An original Bitstream typeface prepared by Gerard Unger to provide a typeface of tapered stroke that works well at lower resolutions."
+  },
+  {
+    "name": "Carmina BT",
+    "foundry": "Bitstream",
+    "url": "https://www.myfonts.com/collections/carmina-font-bitstream",
+    "category": "serif",
+    "subcategory": "calligraphic serif",
+    "classification_notes": "Commissioned calligraphic serif by Gudrun Zapf von Hesse. Four weights with matching italics across light, medium, bold and black. The designer's calligraphic influence is evident in the letterform construction.",
+    "designer": "Gudrun Zapf von Hesse",
+    "year": null,
+    "weights": [
+      "Light",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "serif",
+      "calligraphic",
+      "editorial",
+      "book",
+      "classic",
+      "elegant"
+    ],
+    "summary": "Gudrun Zapf von Hesse's personal calligraphic serif series commissioned by Bitstream, spanning four weights from light to black.",
+    "description": "Carmina BT is a personal calligraphic series commissioned by Bitstream from Gudrun Zapf von Hesse, one of the 20th century's foremost lettering artists and calligraphers. The design carries its calligraphic origins through each of its four weights, making it suitable for book design, editorial work and signage. Eight fonts cover light through black with matching italics.",
+    "foundry_blurb": "A personal calligraphic series by Gudrun Zapf-von Hesse, commissioned by Bitstream and optimised for digital publishing while retaining strong calligraphic character."
+  },
+  {
+    "name": "Iowan Old Style BT",
+    "foundry": "Bitstream",
+    "url": "https://www.myfonts.com/collections/iowan-old-style-font-bitstream",
+    "category": "serif",
+    "subcategory": "old style serif",
+    "classification_notes": "Contemporary text design modelled on revivals of Jenson and Griffo with enhanced proportions: larger x-height, tighter letterfit, reproportioned capitals. A Titling cap-only variant was added in 2002.",
+    "designer": "John Downer",
+    "year": 1990,
+    "weights": [
+      "Roman",
+      "Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic",
+      "Titling"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Iowan Old Style Titling"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "old-style",
+      "serif",
+      "text",
+      "jenson",
+      "griffo",
+      "book",
+      "editorial",
+      "apple"
+    ],
+    "summary": "John Downer's robust old style text serif drawing on Jenson and Griffo revivals, with a larger x-height and tighter fit than its historical models.",
+    "description": "Iowan Old Style BT is John Downer's 1990 text serif, modelling its proportions on earlier revivals of Nicolas Jenson and Francesco Griffo while improving them for contemporary use: larger x-height, tighter letterfit and reproportioned capitals for better display at small sizes. A Titling variant with cap-only characters and ornamental elements arrived in 2002. Apple later adopted Iowan Old Style as a system font.",
+    "foundry_blurb": "A hardy contemporary text design modelled after earlier revivals of Jenson and Griffo typefaces, with enhanced proportions for digital use."
+  },
+  {
+    "name": "Arrus BT",
+    "foundry": "Bitstream",
+    "url": "https://www.myfonts.com/collections/arrus-font-bitstream",
+    "category": "serif",
+    "subcategory": "old style serif",
+    "classification_notes": "18-font family with Roman, Bold and Black weights plus italic, Old Style Figures, Small Caps and Extension variants. Designed by Richard Lipton.",
+    "designer": "Richard Lipton",
+    "year": null,
+    "weights": [
+      "Roman",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Arrus BT Old Style Figures",
+      "Arrus BT Small Caps"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "serif",
+      "old-style",
+      "text",
+      "book",
+      "small-caps",
+      "editorial",
+      "classic"
+    ],
+    "summary": "Richard Lipton's 18-style Bitstream serif with Roman, Bold and Black weights, old style figures, small caps and extension variants.",
+    "description": "Arrus BT is Richard Lipton's comprehensive serif family for Bitstream, spanning 18 fonts across three weights and a range of specialised variants. Old style figures, small caps and extension styles make it a well-equipped face for book and editorial work. The design sits in the old style tradition with historically informed letterforms suited to extended text.",
+    "foundry_blurb": "Arrus BT is a professional typeface family containing 18 styles including old style figures, small caps and extension variants for thorough typographic control."
+  }
+]

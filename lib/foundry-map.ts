@@ -428,6 +428,26 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Walden Font Co.", slug: "walden-font-co", homepage: "https://www.waldenfont.com", tier: "okay" },
   { name: "Workhorse Type Foundry", slug: "workhorse-type-foundry", homepage: "https://workhorsetypefoundry.com", tier: "okay" },
   { name: "Writtenshape", slug: "writtenshape", homepage: "https://www.writtenshape.com", tier: "okay" },
+  // Batch 23 — featuredtype.com gap-fill
+  { name: "TypeTogether", slug: "type-together", homepage: "https://www.type-together.com/", tier: "best" },
+  { name: "Font Bureau", slug: "font-bureau", homepage: "https://fontbureau.com/", tier: "best" },
+  { name: "Canada Type", slug: "canada-type", homepage: "https://canadatype.com/", tier: "best" },
+  { name: "MVB Fonts", slug: "mvb-fonts", homepage: "https://www.mvbfonts.com/", tier: "best" },
+  { name: "URW Type Foundry", slug: "urw-type-foundry", homepage: "https://www.urwtype.com/", tier: "okay" },
+  { name: "Phil's Fonts", slug: "phils-fonts", homepage: "https://philsfonts.com/", tier: "notgood" },
+  { name: "Rasmus Andersson", slug: "rasmus-andersson", homepage: "https://rsms.me/", tier: "best" },
+  { name: "OGJ Type Design", slug: "ogj-type-design", homepage: "https://ogjtype.com/", tier: "okay" },
+  { name: "Mark van Leeuwen", slug: "mark-van-leeuwen", homepage: "https://markvanleeuwen.nl/", tier: "okay" },
+  { name: "Anton Koovit", slug: "anton-koovit", homepage: "https://antonkoovit.com/", tier: "best" },
+  { name: "Linotype", slug: "linotype", homepage: "https://www.linotype.com/", tier: "okay" },
+  { name: "FontFont", slug: "fontfont", homepage: "https://www.fontfont.com/", tier: "okay" },
+  { name: "AlfaType", slug: "alfatype-fonts-foundry", homepage: "https://www.alfatypefonts.com/", tier: "okay" },
+  { name: "BurnType", slug: "burntype", homepage: "https://burntype.com/", tier: "best" },
+  { name: "Element Type", slug: "element-type", homepage: "https://elementtype.com/", tier: "best" },
+  { name: "Maxitype", slug: "maxitype", homepage: "https://maxitype.com/", tier: "best" },
+  { name: "Denis Serebryakov", slug: "serebryakov", homepage: "https://type.today/en/journal/serebryakov", tier: "best" },
+  { name: "RetroSupply Co.", slug: "retrosupply-co", homepage: "https://www.retrosupply.co/", tier: "okay" },
+  { name: "Bitstream", slug: "bitstream", homepage: "https://www.monotype.com/", tier: "okay" },
 ];
 
 // Foundries confirmed unscrapable — JS-rendered, bot-blocked, or no listing page.

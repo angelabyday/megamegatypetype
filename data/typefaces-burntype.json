@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Brik",
+    "foundry": "BurnType",
+    "url": "https://burntype.com/brik",
+    "designer": "Michael Bagnardi",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A display sans built on a deliberately brick-like geometric construction with hard angles, chunky corners and exaggerated ink traps. The condensed and oblique sub-families extend the system. Substantially revised in 2020–21 with redrawn letters, new kerning and expanded glyph support.",
+    "weights": [
+      "Regular",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "subfamilies": [
+      "Brik Regular",
+      "Brik Condensed",
+      "Brik Oblique",
+      "Brik Variable"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "display",
+      "industrial",
+      "bold",
+      "variable",
+      "condensed",
+      "ink-traps",
+      "editorial",
+      "headline"
+    ],
+    "summary": "A blunt geometric display family from Michael Bagnardi built on brick-like construction, exaggerated ink traps and hard angles, available across five optical sizes with condensed and oblique variants.",
+    "description": "Designed with a zero-bullshit attitude and an explicitly New York sensibility, Brik pairs hard angles and chunky corners against subtle curves and strokes that keep it from becoming purely mechanical. The 2020 revision expanded glyph support to 380 characters covering 100-plus languages, rebuilt the kerning from scratch and redrew several letterforms. Twenty static styles span upright and oblique in both regular and condensed proportions, with a variable font adding weight, slant and width axes.",
+    "foundry_blurb": "BurnType describe Brik as a zero-bullshit type family with a blatant brick-like construction that is honest, coarse and unapologetic. Hard angles, chunky corners and exaggerated ink traps define its character, balanced by subtle curves that add contrast to a rigid frame. The 2020 revision brought expanded glyph support, completely new kerning and reconstructed letters, sold individually or as a variable font bundle with, in BurnType's words, a New York attitude."
+  },
+  {
+    "name": "Super",
+    "foundry": "BurnType",
+    "url": "https://burntype.com/super",
+    "designer": "Michael Bagnardi",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "retro display",
+    "classification_notes": "An all-capitals display typeface with ultra-sleek, razor-edged construction explicitly referencing 1970s and 80s sci-fi and futurist aesthetics. Available in two distinct cuts named Seventy and Eighty. No lowercase, no italic.",
+    "weights": [
+      "Seventy",
+      "Eighty"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Super Seventy",
+      "Super Eighty"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "retro",
+      "sci-fi",
+      "all-caps",
+      "futurist",
+      "1970s",
+      "1980s",
+      "razor-sharp",
+      "poster"
+    ],
+    "summary": "An all-capitals display pair from BurnType channelling 1970s and 80s science fiction through two ultra-sharp, sleek cuts: Super Seventy and Super Eighty.",
+    "description": "Drawing from Sorayama, Frazetta, Barbarella and Blade Runner, Super reduces letterform to pure razor-edged geometry suited to loud, large-scale display work. Both cuts share an all-capitals frame with 218 glyphs and discretionary ligatures for common pairings such as es, mm, rs and ks, expanding typographic texture within a deliberately limited glyph set. Latin language support covers a broad range of African and European languages despite the display-only brief.",
+    "foundry_blurb": "BurnType describe Super as a futuristic love letter to sex and science fiction in the 1970s and 80s, with Sorayama, Frazetta, Barbarella, Blade Runner and the NASA worm logotype as reference points. The two high-performance display faces share an all-capitals frame with ultra-sleek construction and razor-sharp details, described in characteristically direct BurnType terms as big, loud and unapologetically zipper-melting."
+  }
+]

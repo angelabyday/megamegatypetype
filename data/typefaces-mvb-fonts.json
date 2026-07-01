@@ -1,0 +1,1277 @@
+[
+  {
+    "name": "Sweet Sans",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/sweet_sans/",
+    "designer": "Mark van Bronkhorst",
+    "year": 2011,
+    "category": "sans-serif",
+    "subcategory": "Geometric humanist sans",
+    "classification_notes": "Wide-ranging geometric humanist sans with a signature sweet aesthetic. Very large family spanning 54 fonts including Pro and Standard character sets. Hairline to Heavy with small caps across multiple weights.",
+    "weights": [
+      "Hairline",
+      "Extra Thin",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Sweet Sans Pro",
+      "Sweet Sans Standard"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Central European"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric-sans",
+      "humanist",
+      "extensive-family",
+      "branding",
+      "editorial",
+      "wide-range"
+    ],
+    "summary": "MVB's flagship sans-serif: a 54-font family spanning Hairline to Heavy with Pro and Standard character sets and small caps.",
+    "description": "Sweet Sans is Mark van Bronkhorst's most ambitious family, covering nine weights with italics and small caps in both Pro and Standard OpenType variants. Its character sits between the warmth of humanist sans and the orderliness of geometric design. The size of the family makes it one of MVB's most versatile offerings.",
+    "foundry_blurb": "Sweet Sans is a large, refined sans-serif family offering extensive weight and style coverage for demanding design applications."
+  },
+  {
+    "name": "Sweet Square",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/sweet_square/",
+    "designer": "Mark van Bronkhorst",
+    "year": 2011,
+    "category": "sans-serif",
+    "subcategory": "Geometric square sans",
+    "classification_notes": "Square-variant companion to Sweet Sans. 54-font family with the same weight range but square rather than round terminal proportions. Available in Pro and Standard OpenType variants.",
+    "weights": [
+      "Hairline",
+      "Extra Thin",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Sweet Square Pro",
+      "Sweet Square Standard"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Central European"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric-sans",
+      "square",
+      "branding",
+      "editorial",
+      "wide-range"
+    ],
+    "summary": "The square-form companion to Sweet Sans, sharing its 54-font range with subtly squared letterforms throughout.",
+    "description": "Sweet Square applies a squarer geometry to the same nine-weight range as Sweet Sans, giving designers a coordinated pair that differ in subtle but meaningful ways. Both Pro and Standard OpenType sets are available. It works alongside Sweet Sans in branding systems that need tonal variation within a single family.",
+    "foundry_blurb": "Sweet Square is the geometric square-terminal companion to Sweet Sans, offering the same extensive weight range in a squarer idiom."
+  },
+  {
+    "name": "Sweet Gothic",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/sweet_gothic/",
+    "designer": "Mark van Bronkhorst",
+    "year": 2009,
+    "category": "sans-serif",
+    "subcategory": "Gothic sans",
+    "classification_notes": "Gothic sans companion to the Sweet family. Eight fonts including both sans and serif variants across four weights. Bridges American gothic and humanist san traditions.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Sweet Gothic",
+      "Sweet Gothic Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "gothic",
+      "sans-serif",
+      "american-gothic",
+      "display",
+      "editorial"
+    ],
+    "summary": "An eight-font gothic sans with matching serif variants, forming part of the wider Sweet collection.",
+    "description": "Sweet Gothic extends the Sweet collection with an American gothic sensibility, delivering four weights in both sans and serif variants. The serifed cuts give designers a paired option within the same visual family. It bridges classic American grotesque traditions with the warmer Sweet aesthetic.",
+    "foundry_blurb": "Sweet Gothic is a four-weight gothic sans-serif with matching serifed variants, part of the coordinated Sweet type collection."
+  },
+  {
+    "name": "MVB Solano Gothic",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_solano_gothic/",
+    "designer": "Mark van Bronkhorst",
+    "year": 2007,
+    "category": "sans-serif",
+    "subcategory": "American gothic / grotesque",
+    "classification_notes": "Extended American gothic family with 47 fonts. Includes Retro variants with ink-trap-style openings, a Round Bold, Stencil variant and small caps. Standard and Pro OpenType character sets available.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Solano Gothic Standard",
+      "Solano Gothic Pro",
+      "Solano Gothic Retro",
+      "Solano Gothic Round",
+      "Solano Gothic Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "gothic",
+      "american-gothic",
+      "grotesque",
+      "stencil",
+      "retro",
+      "display",
+      "wide-range"
+    ],
+    "summary": "A 47-font American gothic family with Retro, Round and Stencil variants spanning five weights in Standard and Pro formats.",
+    "description": "MVB Solano Gothic is a thorough exploration of the American gothic genre, building out from five core weights into Retro variants with ink-trap-inspired openings, a rounded bold and a stencil cut. The breadth of the family reflects van Bronkhorst's systematic approach to expanding a single historical model. Available through Type Network.",
+    "foundry_blurb": "MVB Solano Gothic is a deep American gothic family with Retro, Round and Stencil variants, offering 47 fonts across Standard and Pro character sets."
+  },
+  {
+    "name": "MVB Embarcadero",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_embarcadero/",
+    "designer": "Mark van Bronkhorst",
+    "year": 2005,
+    "category": "serif",
+    "subcategory": "Transitional serif",
+    "classification_notes": "Extensive transitional serif family with 80 fonts including condensed widths. Both Pro and Standard OpenType character sets. Oldstyle figures and small caps included. Text optimised.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "MVB Embarcadero Standard",
+      "MVB Embarcadero Pro",
+      "MVB Embarcadero Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Central European"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional-serif",
+      "text",
+      "book",
+      "condensed",
+      "oldstyle-figures",
+      "small-caps",
+      "editorial"
+    ],
+    "summary": "An 80-font transitional serif with condensed widths, oldstyle figures and small caps across five weights in Pro and Standard editions.",
+    "description": "MVB Embarcadero is one of van Bronkhorst's most substantial serif families, built on a transitional skeleton and expanded into condensed widths with full small cap and figure-variant coverage. The 80-font count reflects the systematic filling-out of the design space. It is well suited to demanding editorial and book work.",
+    "foundry_blurb": "MVB Embarcadero is a comprehensive transitional serif with 80 fonts, condensed variants, oldstyle figures and small caps for professional editorial use."
+  },
+  {
+    "name": "MVB Solitaire",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_solitaire/",
+    "designer": "Mark van Bronkhorst",
+    "year": 2013,
+    "category": "sans-serif",
+    "subcategory": "Humanist sans",
+    "classification_notes": "22-font humanist sans with a broad weight range from Extra Light to Black. OpenType Pro character set. Designed for text and display use.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Semilight",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Thin"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Central European"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "text",
+      "editorial",
+      "branding",
+      "wide-range"
+    ],
+    "summary": "A 22-font humanist sans with eleven weights and italics, covering everything from delicate text to heavyweight display.",
+    "description": "MVB Solitaire offers eleven weights from Thin to Black with matching italics, making it one of the more comprehensively weighted humanist sans families in the MVB catalogue. The OpenType Pro character set supports extended Latin languages. It handles text setting and display use with equal comfort.",
+    "foundry_blurb": "MVB Solitaire is a broad humanist sans-serif with 22 fonts spanning eleven weights with italics, designed for versatile text and display applications."
+  },
+  {
+    "name": "MVB Dovetail",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_dovetail/",
+    "designer": "David Sudweeks",
+    "year": 2019,
+    "category": "serif",
+    "subcategory": "Contemporary text serif",
+    "classification_notes": "12-font contemporary text serif with five weights and italics. OpenType Pro character set. Designed by David Sudweeks, departing from van Bronkhorst's own designs — a sign of the foundry expanding its roster.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Central European"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "text-serif",
+      "contemporary",
+      "editorial",
+      "book",
+      "readable"
+    ],
+    "summary": "A 12-font contemporary text serif by David Sudweeks, designed for sustained reading across six weights with matching italics.",
+    "description": "MVB Dovetail is a recent addition to the catalogue designed by David Sudweeks rather than van Bronkhorst, signalling the foundry's gradual expansion beyond its founder's solo output. Six weights with italics and an OpenType Pro character set position it firmly as a text serif for editorial and book work. It is distributed through Type Network.",
+    "foundry_blurb": "MVB Dovetail is a 12-font text serif by David Sudweeks, offering six weights with italics in OpenType Pro format."
+  },
+  {
+    "name": "MVB Salis",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_salis/",
+    "designer": "Alan Greene",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "Contemporary sans",
+    "classification_notes": "16-font sans designed by Alan Greene. Eight weights with italics. OpenType Standard character set. The most recent major release from MVB at the time of cataloguing.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Thin",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "contemporary-sans",
+      "clean",
+      "editorial",
+      "branding",
+      "wide-range"
+    ],
+    "summary": "A 16-font contemporary sans by Alan Greene, spanning eight weights with italics in OpenType Standard format.",
+    "description": "MVB Salis is a recent design by Alan Greene released under the MVB imprint, continuing the foundry's occasional practice of publishing work by other designers. Eight weights from Extra Light to Heavy with italics give it solid range for editorial and branding use. It operates on an OpenType Standard character set.",
+    "foundry_blurb": "MVB Salis is a 16-font contemporary sans by Alan Greene, spanning eight weights with italics."
+  },
+  {
+    "name": "MVB Margin",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_margin/",
+    "designer": "Mark van Bronkhorst",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "Humanist sans",
+    "classification_notes": "20-font humanist sans with ten weights and italics. OpenType Pro character set. Designed for text and margin annotation use, hence the name.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Semilight",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Central European"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist-sans",
+      "text",
+      "editorial",
+      "annotation",
+      "wide-range"
+    ],
+    "summary": "A 20-font humanist sans spanning ten weights with italics in OpenType Pro format, designed with text and margin use in mind.",
+    "description": "MVB Margin takes its name from its suitability for annotation and margin text, with fine hairlines at the light end that hold at small sizes. Ten weights with italics in OpenType Pro format give it range from delicate notes to bold display. It reflects van Bronkhorst's continued interest in the quieter end of typographic use.",
+    "foundry_blurb": "MVB Margin is a 20-font humanist sans with ten weights and italics in OpenType Pro, designed for text and margin annotation contexts."
+  },
+  {
+    "name": "MVB Pinecone",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_pinecone/",
+    "designer": "Raiden van Bronkhorst",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "Display sans with texture",
+    "classification_notes": "9-font display face in three widths (Condensed, Regular, Wide) each with Clean, Rough 1 and Rough 2 texture variants. OpenType Basic. Designed by Raiden van Bronkhorst, the founder's son.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Regular",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Pinecone Condensed",
+      "Pinecone Regular",
+      "Pinecone Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "textured",
+      "rough",
+      "condensed",
+      "wide",
+      "woodtype-inspired"
+    ],
+    "summary": "A three-width display sans with clean, Rough 1 and Rough 2 texture variants, designed by Raiden van Bronkhorst.",
+    "description": "MVB Pinecone offers three widths each in three surface treatments: a clean version and two levels of distressed roughness. Designed by Raiden van Bronkhorst, it extends the MVB catalogue with a textured display option suited to vintage and craft-oriented branding. The OpenType Basic format keeps the character set focused.",
+    "foundry_blurb": "MVB Pinecone is a three-width display typeface with clean and rough texture variants, designed by Raiden van Bronkhorst."
+  },
+  {
+    "name": "MVB Diazo",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_diazo/",
+    "designer": "Mark van Bronkhorst",
+    "year": 2017,
+    "category": "display",
+    "subcategory": "Condensed display sans",
+    "classification_notes": "24-font condensed display family in two widths (Condensed, Extra Condensed), four weights (Light, Regular, Bold, Black) each with Clean and two Rough texture variants. OpenType Basic.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Extra Condensed"
+    ],
+    "subfamilies": [
+      "Diazo Condensed",
+      "Diazo Extra Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "condensed",
+      "textured",
+      "rough",
+      "poster",
+      "industrial"
+    ],
+    "summary": "A 24-font condensed display sans in two widths and four weights, each available clean or in two distressed Rough variants.",
+    "description": "MVB Diazo is built around narrow, industrial-feeling proportions, offering Condensed and Extra Condensed widths across four weights. Each cut is also available in two levels of distressed roughness alongside the clean version, giving designers texture control. The design suits poster, packaging and heritage brand contexts.",
+    "foundry_blurb": "MVB Diazo is a condensed display typeface with 24 fonts across two widths, four weights and clean or rough texture variants."
+  },
+  {
+    "name": "MVB Verdigris Pro",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_verdigris_pro/",
+    "designer": "Mark van Bronkhorst",
+    "year": 2003,
+    "category": "serif",
+    "subcategory": "Text serif with optical sizes",
+    "classification_notes": "7-font text serif with optical size variants (Text and Big) designed for different scale uses. First released 2003, updated 2010 and 2012. OpenType Pro character set with extended language support.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Big"
+    ],
+    "subfamilies": [
+      "Verdigris Text",
+      "Verdigris Big"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Central European"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "text-serif",
+      "optical-sizes",
+      "book",
+      "editorial",
+      "classical"
+    ],
+    "summary": "A seven-font text serif with Text and Big optical size variants, refined across three revisions from 2003 to 2012.",
+    "description": "MVB Verdigris Pro is a carefully worked text serif that acknowledges the different optical demands of body copy and larger display use by offering dedicated Text and Big subfamilies. Three rounds of revision over nearly a decade show van Bronkhorst's commitment to refining the design. The OpenType Pro character set supports wide Latin coverage.",
+    "foundry_blurb": "MVB Verdigris Pro is a seven-font text serif with optical Text and Big variants for different scale applications, with OpenType Pro language support."
+  },
+  {
+    "name": "MVB Sirenne",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_sirenne/",
+    "designer": "Alan Dague-Greene, Mark van Bronkhorst",
+    "year": 2002,
+    "category": "display",
+    "subcategory": "Decorative display serif with optical sizes",
+    "classification_notes": "23-font ornamental display serif with four optical size variants named by point size (Text, Six, Eighteen, Seventy-Two). Inspired by an 18th-century natural history publication by Louis Renard. Swash italic and small caps included.",
+    "weights": [
+      "Roman",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Six",
+      "Eighteen",
+      "Seventy-Two"
+    ],
+    "subfamilies": [
+      "Sirenne Text",
+      "Sirenne Six",
+      "Sirenne Eighteen",
+      "Sirenne Seventy-Two"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "decorative",
+      "ornamental",
+      "swash",
+      "historical",
+      "book",
+      "optical-sizes"
+    ],
+    "summary": "A 23-font ornamental display serif in four optical sizes, inspired by an 18th-century Renard natural history publication.",
+    "description": "MVB Sirenne draws its visual character from an 18th-century publication by Louis Renard, translating an ornate, period sensibility into a multi-size digital family. The four optical variants — named by point size from Text to Seventy-Two — allow each cut to be tuned for its intended scale. Swash italics and small caps round out a family well suited to editorial and book work with historical resonance.",
+    "foundry_blurb": "MVB Sirenne is a 23-font ornamental serif in four optical sizes, inspired by an 18th-century natural history book by Louis Renard."
+  },
+  {
+    "name": "MVB Aunt Mildred",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_aunt_mildred/",
+    "designer": "Akemi Aoki",
+    "year": 1995,
+    "category": "display",
+    "subcategory": "Decorative serif",
+    "classification_notes": "12-font decorative text serif by Akemi Aoki, updated 2008. Includes oldstyle and lining figure variants and small caps across four weights. OpenType Standard.",
+    "weights": [
+      "Regular",
+      "Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "decorative",
+      "serif",
+      "small-caps",
+      "oldstyle-figures",
+      "editorial"
+    ],
+    "summary": "A 12-font decorative serif by Akemi Aoki with oldstyle figures, lining figures and small caps across four weights.",
+    "description": "MVB Aunt Mildred is a character-rich decorative serif designed by Akemi Aoki, offering both oldstyle and lining figure variants and small caps to each of its four weights. The typographic thoroughness belies its somewhat whimsical name. It suits editorial and book settings that call for a less formal serif personality.",
+    "foundry_blurb": "MVB Aunt Mildred is a 12-font decorative serif with oldstyle figures, lining figures and small caps, designed by Akemi Aoki."
+  },
+  {
+    "name": "MVB Fantabular",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_fantabular/",
+    "designer": "Akemi Aoki",
+    "year": 2002,
+    "category": "serif",
+    "subcategory": "Display serif",
+    "classification_notes": "6-font display serif by Akemi Aoki. Three weights with italics in OpenType Standard. Decorative character with tabular figure support implied by the name.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "decorative",
+      "tabular"
+    ],
+    "summary": "A six-font display serif by Akemi Aoki in three weights with italics, featuring tabular figure support.",
+    "description": "MVB Fantabular is a display serif by Akemi Aoki with three weights and matching italics. The name references its tabular figure capabilities, a practical feature embedded in an otherwise decorative design. It occupies a niche within the MVB catalogue as a serif bridging display and functional typographic needs.",
+    "foundry_blurb": "MVB Fantabular is a six-font display serif by Akemi Aoki with three weights, italics and tabular figure support."
+  },
+  {
+    "name": "MVB Fantabular Sans",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_fantabular/",
+    "designer": "Akemi Aoki",
+    "year": 2002,
+    "category": "sans-serif",
+    "subcategory": "Display sans",
+    "classification_notes": "6-font sans companion to MVB Fantabular. Three weights with italics in OpenType Standard. Shares the tabular figure feature of the serif sibling.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "display",
+      "decorative",
+      "tabular"
+    ],
+    "summary": "The sans-serif companion to MVB Fantabular, sharing three weights with italics and tabular figure support.",
+    "description": "MVB Fantabular Sans mirrors the structure of its serif sibling, offering three weights with italics and the same tabular figure capability. Designed by Akemi Aoki as part of a coordinated pair, it allows designers to mix serif and sans within a single visual system. Both families are sold through Type Network.",
+    "foundry_blurb": "MVB Fantabular Sans is the six-font sans companion to MVB Fantabular, designed by Akemi Aoki with tabular figure support."
+  },
+  {
+    "name": "MVB Celestia Antiqua",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_celestia_antiqua/",
+    "designer": "Mark van Bronkhorst",
+    "year": 1993,
+    "category": "display",
+    "subcategory": "Classical antiqua display",
+    "classification_notes": "7-font classical antiqua with decorative variants including Inline and Adornado. First released 1993, updated 1996. OpenType Standard. The Adornado variant has highly ornate flourished letterforms.",
+    "weights": [
+      "Roman",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Celestia Antiqua",
+      "Celestia Antiqua Small Caps",
+      "Celestia Antiqua Italic",
+      "Celestia Antiqua Inline",
+      "Celestia Antiqua Adornado"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "antiqua",
+      "classical",
+      "display",
+      "inline",
+      "decorative",
+      "ornate",
+      "historical"
+    ],
+    "summary": "A seven-font classical antiqua with decorative Inline and ornate Adornado variants, one of MVB's earliest typefaces.",
+    "description": "MVB Celestia Antiqua is among van Bronkhorst's earliest designs, translating a classical antiqua structure into a display family with decorative ambitions. The Inline and Adornado variants push the design towards the ornamental end of the spectrum. It has a period character suited to formal invitations, certificates and heritage branding.",
+    "foundry_blurb": "MVB Celestia Antiqua is a classical antiqua display family with Inline and highly ornate Adornado variants."
+  },
+  {
+    "name": "MVB Gryphius",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_gryphius/",
+    "designer": "Otto Trace",
+    "year": 2003,
+    "category": "serif",
+    "subcategory": "Classical text serif",
+    "classification_notes": "3-font classical text serif by Otto Trace. Regular, Italic, and Small Caps. OpenType Standard. Designed in a traditional humanist vein.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Gryphius Regular",
+      "Gryphius Italic",
+      "Gryphius Small Caps"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "classical-serif",
+      "text",
+      "humanist",
+      "small-caps",
+      "book"
+    ],
+    "summary": "A three-font classical text serif by Otto Trace with Roman, Italic and Small Caps in OpenType Standard.",
+    "description": "MVB Gryphius is a restrained classical text serif by Otto Trace, offering a compact three-style family of Roman, Italic and Small Caps. Its traditional humanist construction makes it suitable for book and editorial text that requires historical gravitas without ornamentation. The Small Caps inclusion makes the most of its limited style count.",
+    "foundry_blurb": "MVB Gryphius is a three-font classical text serif by Otto Trace, featuring Roman, Italic and Small Caps."
+  },
+  {
+    "name": "MVB Mascot",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_mascot/",
+    "designer": "Mark van Bronkhorst",
+    "year": 2012,
+    "category": "display",
+    "subcategory": "Display serif with texture",
+    "classification_notes": "3-font display family with a base style and two Rough texture variants (Rough 1, Rough 2). OpenType Basic. Updated 2016.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Mascot",
+      "Mascot Rough 1",
+      "Mascot Rough 2"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "textured",
+      "rough",
+      "distressed",
+      "vintage"
+    ],
+    "summary": "A three-style display face with a clean version and two Rough texture variants for distressed typographic effects.",
+    "description": "MVB Mascot is a display typeface offered in three surface treatments: a clean base and two degrees of roughness that simulate aged or letterpress printing effects. Originally released in 2012 and updated in 2016, it is a characterful entry in MVB's display catalogue. OpenType Basic format keeps its application focused.",
+    "foundry_blurb": "MVB Mascot is a display typeface with a clean version and two Rough texture variants, designed for vintage and distressed typographic effects."
+  },
+  {
+    "name": "MVB Grenadine",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_grenadine/",
+    "designer": "Akemi Aoki",
+    "year": 2003,
+    "category": "sans-serif",
+    "subcategory": "Display sans",
+    "classification_notes": "12-font display sans by Akemi Aoki. Six weights from Regular to Ultra with italics. OpenType Standard. Wide weight range for display use.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display-sans",
+      "wide-range",
+      "poster",
+      "editorial"
+    ],
+    "summary": "A 12-font display sans by Akemi Aoki running from Regular to Ultra with italics across six weights.",
+    "description": "MVB Grenadine is a display sans by Akemi Aoki with an ambitious six-weight range reaching from Regular to Ultra. The italic inclusion at each weight makes it more flexible than a typical single-weight display face. It is a bold contributor to MVB's display catalogue alongside more historically inflected designs.",
+    "foundry_blurb": "MVB Grenadine is a 12-font display sans by Akemi Aoki, spanning six weights from Regular to Ultra with matching italics."
+  },
+  {
+    "name": "MVB Sacre Bleu",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_sacre_bleu/",
+    "designer": "Mark van Bronkhorst",
+    "year": 2007,
+    "category": "display",
+    "subcategory": "Decorative display",
+    "classification_notes": "Single-font decorative display face. OpenType Standard. French-influenced ornamental character implied by the name.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "decorative",
+      "ornamental",
+      "french-influence"
+    ],
+    "summary": "A single-style decorative display face with an ornamental French-inspired character.",
+    "description": "MVB Sacre Bleu is a one-weight decorative display face with a playful, French-inflected personality. As a single style it is designed to make a strong impression at display sizes without the versatility of a larger family. Its ornamental character suits editorial spots, headlines and decorative typographic applications.",
+    "foundry_blurb": "MVB Sacre Bleu is a single-style ornamental display face with a French-influenced decorative character."
+  },
+  {
+    "name": "MVB Calliope",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_calliope/",
+    "designer": "Gayle Sato",
+    "year": 2005,
+    "category": "script",
+    "subcategory": "Formal script",
+    "classification_notes": "3-font formal script by Gayle Sato. Three weights (Regular, Semibold, Bold). OpenType Standard. Calligraphic character suitable for formal display.",
+    "weights": [
+      "Regular",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "formal",
+      "calligraphic",
+      "display"
+    ],
+    "summary": "A three-weight formal calligraphic script by Gayle Sato, designed for elegant display applications.",
+    "description": "MVB Calliope is a formal script by Gayle Sato with three weights from Regular to Bold. The calligraphic character reflects careful study of pen-drawn letterforms. Three weights give it more versatility than most display scripts, allowing use across a range of scale and emphasis requirements.",
+    "foundry_blurb": "MVB Calliope is a three-weight formal calligraphic script by Gayle Sato, suitable for elegant display and stationery use."
+  },
+  {
+    "name": "MVB Emmascript",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_emmascript/",
+    "designer": "Kanna Aoki",
+    "year": 1994,
+    "category": "script",
+    "subcategory": "Informal script",
+    "classification_notes": "2-font informal script by Kanna Aoki. Regular and Bold. OpenType Standard. One of the earliest designs in the MVB catalogue.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "informal",
+      "handwritten",
+      "display"
+    ],
+    "summary": "An early two-weight informal script by Kanna Aoki, one of the longest-standing entries in the MVB catalogue.",
+    "description": "MVB Emmascript is a two-weight informal script by Kanna Aoki, dating from 1994 and digitised as OpenType Standard. Its paired Regular and Bold make it slightly more versatile than a single-weight script. The design has a casual, handwritten quality suited to informal display and greeting applications.",
+    "foundry_blurb": "MVB Emmascript is a two-weight informal script by Kanna Aoki, designed for casual display and greeting applications."
+  },
+  {
+    "name": "MVB Peccadillo",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_peccadillo/",
+    "designer": "Holly Goldsmith, Alan Dague-Greene",
+    "year": 2002,
+    "category": "display",
+    "subcategory": "Optical size display serif",
+    "classification_notes": "3-font family designed across named optical sizes: Eight, Twenty-Four and Ninety-Six. Each is tuned for its designated point size. Decorative serif display character. OpenType Standard.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Eight",
+      "Twenty-Four",
+      "Ninety-Six"
+    ],
+    "subfamilies": [
+      "Peccadillo Eight",
+      "Peccadillo Twenty-Four",
+      "Peccadillo Ninety-Six"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "optical-sizes",
+      "decorative",
+      "serif",
+      "historical"
+    ],
+    "summary": "A three-style display serif designed across optical sizes Eight, Twenty-Four and Ninety-Six by Holly Goldsmith and Alan Dague-Greene.",
+    "description": "MVB Peccadillo takes the optical size concept into decorative display territory, offering three versions each optimised for a specific point-size range. Holly Goldsmith and Alan Dague-Greene's collaboration results in a design with genuine historical flavour and typographic rigour. The approach mirrors that of MVB Sirenne's size-named variants.",
+    "foundry_blurb": "MVB Peccadillo is a decorative display serif with three optical size variants — Eight, Twenty-Four and Ninety-Six — by Holly Goldsmith and Alan Dague-Greene."
+  },
+  {
+    "name": "MVB Hotsy Totsy",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_hotsy_totsy/",
+    "designer": "Akemi Aoki",
+    "year": 1996,
+    "category": "display",
+    "subcategory": "Decorative display",
+    "classification_notes": "6-font display family by Akemi Aoki. Includes Regular, Semibold, Bold, Ultra, Hi-Lite and Rocksie variants. OpenType Standard. Playful, expressive character.",
+    "weights": [
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Hotsy Totsy Hi-Lite",
+      "Hotsy Totsy Rocksie"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "decorative",
+      "playful",
+      "retro",
+      "headline"
+    ],
+    "summary": "A six-style decorative display face by Akemi Aoki with four weights plus Hi-Lite and Rocksie specialty variants.",
+    "description": "MVB Hotsy Totsy is a playful display family by Akemi Aoki with an expressive, retro personality. The Hi-Lite and Rocksie variants add decorative flourish beyond the four core weights. It is a design with a strong point of view, suited to entertainment, food and retro-themed brand contexts.",
+    "foundry_blurb": "MVB Hotsy Totsy is a six-style decorative display face by Akemi Aoki with Hi-Lite and Rocksie specialty variants."
+  },
+  {
+    "name": "MVB Bovine",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_bovine/",
+    "designer": "Mark van Bronkhorst",
+    "year": 1993,
+    "category": "display",
+    "subcategory": "Display serif",
+    "classification_notes": "2-font display serif with Regular and Round variants. OpenType Standard. One of van Bronkhorst's earliest designs, updated for digital distribution.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Bovine Regular",
+      "Bovine Round"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "rounded",
+      "retro",
+      "quirky"
+    ],
+    "summary": "A two-style display serif from 1993 with a standard and rounded variant, one of the earliest MVB designs.",
+    "description": "MVB Bovine is among van Bronkhorst's earliest typefaces, offering a display serif in regular and rounded forms. Its two-style simplicity makes it a focused design statement rather than a versatile text tool. The Round variant softens the design's character for applications where the standard cut might feel too sharp.",
+    "foundry_blurb": "MVB Bovine is a two-style display serif with a standard and rounded variant, one of the foundry's earliest designs."
+  },
+  {
+    "name": "MVB Magnolia",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_magnolia/",
+    "designer": "Mark van Bronkhorst",
+    "year": 1993,
+    "category": "display",
+    "subcategory": "Decorative display",
+    "classification_notes": "Single-font decorative display face. OpenType Standard. Among the foundry's earliest designs.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "decorative",
+      "single-weight",
+      "vintage"
+    ],
+    "summary": "A single-style decorative display face from 1993, one of the foundry's earliest surviving designs.",
+    "description": "MVB Magnolia is a single-weight decorative display face from the foundry's earliest period. As a one-style design it is a focused period piece rather than a workhorse, suited to use where its specific decorative character is the point. It remains part of the MVB catalogue as a historical reference point.",
+    "foundry_blurb": "MVB Magnolia is a single-style decorative display typeface, one of the foundry's earliest designs from 1993."
+  },
+  {
+    "name": "MVB Cafe Mimi",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_cafe_mimi/",
+    "designer": "Kanna Aoki",
+    "year": 1996,
+    "category": "display",
+    "subcategory": "Casual display script",
+    "classification_notes": "2-font casual display script by Kanna Aoki. Regular and Bold. Updated 2003. OpenType Standard.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "script",
+      "casual",
+      "handwritten",
+      "retro"
+    ],
+    "summary": "A two-weight casual display script by Kanna Aoki with a warm, informal handwritten quality.",
+    "description": "MVB Cafe Mimi is a casual display script by Kanna Aoki offered in Regular and Bold, updated from its original 1996 release. The informal, handwritten character suits café, food and retail branding contexts that call for a human, approachable touch. Its two weights give basic emphasis range.",
+    "foundry_blurb": "MVB Cafe Mimi is a two-weight casual display script by Kanna Aoki, suited to informal branding and food-service contexts."
+  },
+  {
+    "name": "MVB Greymantle",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_greymantle/",
+    "designer": "Kanna Aoki",
+    "year": 1993,
+    "category": "display",
+    "subcategory": "Decorative display",
+    "classification_notes": "2-font decorative display face by Kanna Aoki. Regular and an Extras companion. OpenType Standard.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Greymantle Regular",
+      "Greymantle Extras"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "decorative",
+      "ornamental",
+      "historical"
+    ],
+    "summary": "A decorative display face by Kanna Aoki with an Extras companion for ornamental use.",
+    "description": "MVB Greymantle is a decorative display design by Kanna Aoki, dating from the foundry's early period. The accompanying Extras font extends its ornamental capacity beyond the main alphabet. As one of the foundry's earliest designs it has a period character that suits heritage and decorative typographic contexts.",
+    "foundry_blurb": "MVB Greymantle is a decorative display face by Kanna Aoki with a companion Extras font for ornamental applications."
+  },
+  {
+    "name": "MVB Magnesium",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_magnesium/",
+    "designer": "Mark van Bronkhorst",
+    "year": 1992,
+    "category": "display",
+    "subcategory": "Display sans / grotesque",
+    "classification_notes": "2-font display face with Regular and Condensed variants. OpenType Standard. One of the foundry's earliest designs, updated 2003.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Magnesium Regular",
+      "Magnesium Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "grotesque",
+      "condensed",
+      "industrial",
+      "retro"
+    ],
+    "summary": "A two-style display sans with Regular and Condensed variants, one of the foundry's earliest designs from 1992.",
+    "description": "MVB Magnesium is among van Bronkhorst's earliest typefaces, a two-style display sans with a Regular and Condensed cut. Its industrial, no-nonsense character reflects early digital type production. Updated in 2003, it remains a historically significant entry in the MVB catalogue.",
+    "foundry_blurb": "MVB Magnesium is a two-style display sans with Regular and Condensed variants, one of the foundry's earliest designs from 1992."
+  },
+  {
+    "name": "MVB Pedestria",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_pedestria/",
+    "designer": "Akemi Aoki",
+    "year": 2002,
+    "category": "sans-serif",
+    "subcategory": "Text sans with pictograms",
+    "classification_notes": "8-font text sans with pictogram companions by Akemi Aoki. Text styles (Regular through Bold with italics) plus two pictographic variants (Pict One, Pict Two). OpenType Standard.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Pedestria Text",
+      "Pedestria Pict One",
+      "Pedestria Pict Two"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "text-sans",
+      "pictogram",
+      "wayfinding",
+      "editorial",
+      "dingbat"
+    ],
+    "summary": "An eight-font text sans by Akemi Aoki paired with two sets of pictographic companions for wayfinding and editorial use.",
+    "description": "MVB Pedestria combines a practical text sans in three weights with italics and two pictogram companion sets. The pictographic fonts extend the family's utility into wayfinding, signage and editorial contexts that need both text and symbol coverage. Akemi Aoki's design has a practical, unfussy character.",
+    "foundry_blurb": "MVB Pedestria is an eight-font text sans by Akemi Aoki with two pictogram companion sets for wayfinding and editorial use."
+  },
+  {
+    "name": "MVB Bossa Nova",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/mvb_bossa_nova/",
+    "designer": "Holly Goldsmith",
+    "year": 1995,
+    "category": "script",
+    "subcategory": "Display script",
+    "classification_notes": "Single-font display script by Holly Goldsmith. OpenType Standard. Brazilian-music-inspired name suggests rhythmic, expressive character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "display",
+      "expressive",
+      "retro"
+    ],
+    "summary": "A single-style display script by Holly Goldsmith with an expressive, rhythmic character.",
+    "description": "MVB Bossa Nova is a one-weight display script by Holly Goldsmith with a lively, expressive personality suggested by its Brazilian-music-inspired name. As a single-style face its strength lies in character rather than versatility. It suits display contexts where a spirited script is needed.",
+    "foundry_blurb": "MVB Bossa Nova is a single-style display script by Holly Goldsmith with an expressive, rhythmic character."
+  },
+  {
+    "name": "Sweet Fancy Script",
+    "foundry": "MVB Fonts",
+    "url": "https://www.mvbfonts.com/sweet_fancy_script/",
+    "designer": "Mark van Bronkhorst, Linnea Lundquist",
+    "year": 2013,
+    "category": "script",
+    "subcategory": "Formal connecting script",
+    "classification_notes": "2-font formal script designed by van Bronkhorst with Linnea Lundquist. Regular and Light. OpenType Basic. Part of the Sweet collection.",
+    "weights": [
+      "Light",
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "formal",
+      "connecting",
+      "elegant",
+      "sweet-collection"
+    ],
+    "summary": "A two-weight formal connecting script by van Bronkhorst and Linnea Lundquist, part of the Sweet collection.",
+    "description": "Sweet Fancy Script is a formal connecting script co-designed by Mark van Bronkhorst and Linnea Lundquist as an addition to the Sweet collection. Two weights — Regular and Light — allow for tonal variation within its elegant, formal character. It suits invitations, stationery and luxury branding applications.",
+    "foundry_blurb": "Sweet Fancy Script is a two-weight formal connecting script by van Bronkhorst and Lundquist, part of the coordinated Sweet type collection."
+  }
+]

@@ -336,6 +336,26 @@ import workhorseTypeFoundry from "@/data/typefaces-workhorse-type-foundry.json";
 import writtenshape from "@/data/typefaces-writtenshape.json";
 import xoTypeCo from "@/data/typefaces-xo-type-co.json";
 
+// Batch 23 — featuredtype.com gap-fill
+import fontBureau from "@/data/typefaces-font-bureau.json";
+import canadaType from "@/data/typefaces-canada-type.json";
+import mvbFonts from "@/data/typefaces-mvb-fonts.json";
+import urwTypeFoundry from "@/data/typefaces-urw-type-foundry.json";
+import philsFonts from "@/data/typefaces-phils-fonts.json";
+import rasmusAndersson from "@/data/typefaces-rasmus-andersson.json";
+import ogjTypeDesign from "@/data/typefaces-ogj-type-design.json";
+import markVanLeeuwen from "@/data/typefaces-mark-van-leeuwen.json";
+import antonKoovit from "@/data/typefaces-anton-koovit.json";
+import linotype from "@/data/typefaces-linotype.json";
+import fontfont from "@/data/typefaces-fontfont.json";
+import alfatypeFontsFoundry from "@/data/typefaces-alfatype-fonts-foundry.json";
+import burntype from "@/data/typefaces-burntype.json";
+import elementType from "@/data/typefaces-element-type.json";
+import maxitype from "@/data/typefaces-maxitype.json";
+import serebryakov from "@/data/typefaces-serebryakov.json";
+import retrosupplyCo from "@/data/typefaces-retrosupply-co.json";
+import bitstream from "@/data/typefaces-bitstream.json";
+
 import { FOUNDRIES, getFoundryByName, type FoundryInfo } from "./foundry-map";
 import foundryResellers from "@/data/foundry-resellers.json";
 
@@ -767,6 +787,25 @@ export function getAllTypefaces(): Typeface[] {
         workhorseTypeFoundry,
         writtenshape,
         xoTypeCo,
+        // Batch 23 — featuredtype.com gap-fill
+        fontBureau,
+        canadaType,
+        mvbFonts,
+        urwTypeFoundry,
+        philsFonts,
+        rasmusAndersson,
+        ogjTypeDesign,
+        markVanLeeuwen,
+        antonKoovit,
+        linotype,
+        fontfont,
+        alfatypeFontsFoundry,
+        burntype,
+        elementType,
+        maxitype,
+        serebryakov,
+        retrosupplyCo,
+        bitstream,
       ] as RawTypeface[][]
     )
       .flat()

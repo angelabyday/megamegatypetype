@@ -1,0 +1,484 @@
+[
+  {
+    "name": "Nimbus Sans",
+    "foundry": "URW Type Foundry",
+    "url": "https://www.myfonts.com/fonts/urw/nimbus-sans/",
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Neo-grotesque sans-serif closely modelled on Helvetica, designed as a contemporary digital interpretation. Available in Text, Display and Poster optical sizes with a Monospaced variant.",
+    "designer": "URW++ Design Staff",
+    "year": 1999,
+    "weights": [
+      "Ultra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display",
+      "Poster",
+      "Condensed",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Nimbus Sans T",
+      "Nimbus Sans D",
+      "Nimbus Sans P",
+      "Nimbus Sans Monospaced"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic",
+      "Arabic",
+      "Hebrew",
+      "Japanese",
+      "Chinese",
+      "Korean",
+      "Thai",
+      "Devanagari"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "helvetica-inspired",
+      "neutral",
+      "grotesque",
+      "corporate",
+      "text",
+      "display",
+      "multilingual"
+    ],
+    "summary": "URW's broad-coverage Helvetica analog, available in optical sizes and spanning Latin, Cyrillic, Greek and a range of non-Latin scripts.",
+    "description": "Nimbus Sans was developed in 1999 as URW's contemporary interpretation of Helvetica, using URW's own font sources to capture the proportions of 1970s cold-type printing with updated digital spacing. The family spans Text, Display and Poster optical sizes, a Monospaced variant, and global editions covering Arabic, Hebrew, CJK, Thai and Devanagari. With 59 styles across extended weights and widths, it is one of the most complete Helvetica-adjacent families available commercially.",
+    "foundry_blurb": "Nimbus Sans is URW's modern take on the classic neo-grotesque, with broad language coverage designed to meet the demands of corporate and OEM customers worldwide."
+  },
+  {
+    "name": "Nimbus Sans L",
+    "foundry": "URW Type Foundry",
+    "url": "https://www.myfonts.com/fonts/urw/nimbus-sans-l/",
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Open-source version of URW's Helvetica analog, released under GPL/AFPL/LPPL. Standard in Linux distributions and Ghostscript. Metrically compatible with core PostScript fonts.",
+    "designer": "URW Design Staff",
+    "year": null,
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black",
+      "Extra Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Condensed"
+    ],
+    "subfamilies": [],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "open-source",
+      "helvetica-inspired",
+      "grotesque",
+      "linux",
+      "ghostscript",
+      "text"
+    ],
+    "summary": "The open-source Helvetica analog that ships with Ghostscript and most Linux distributions, available in five weights across regular and condensed widths.",
+    "description": "Nimbus Sans L was originally bundled with Apple's LaserWriter II and later released as open-source software under multiple licences including GPL and LPPL. It became the standard Helvetica substitute in the open-source world and forms the basis of TeX Gyre Heros. The family covers 18 styles across five weights and two widths, with full italic options throughout.",
+    "foundry_blurb": "A freely licensed sans-serif from URW's historic Ghostscript font package, now a standard component of open-source typesetting environments."
+  },
+  {
+    "name": "Nimbus Roman",
+    "foundry": "URW Type Foundry",
+    "url": "https://www.myfonts.com/fonts/urw/nimbus-roman/",
+    "category": "serif",
+    "subcategory": "transitional",
+    "classification_notes": "Times New Roman analog from URW's PostScript core font equivalents programme. Part of the historic Nimbus series that provided metric-compatible substitutes for the 35 core PostScript fonts.",
+    "designer": "URW Design Staff",
+    "year": null,
+    "weights": [
+      "Regular",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Nimbus Roman No9 L"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "times-inspired",
+      "transitional",
+      "text",
+      "book",
+      "newspaper",
+      "postscript"
+    ],
+    "summary": "URW's Times New Roman analog, part of the foundry's historic suite of PostScript-compatible serif faces.",
+    "description": "Nimbus Roman is URW's metric-compatible substitute for Times New Roman, created as part of the core PostScript font equivalents that URW developed during the early digital era. The family offers seven styles across Regular, Bold and Extra Bold weights with corresponding italics. The open-source variant, Nimbus Roman No9 L, ships with Ghostscript and Linux distributions as a standard Times substitute.",
+    "foundry_blurb": "A professional serif typeface from URW's comprehensive library, carrying the foundry's long history in digital type engineering."
+  },
+  {
+    "name": "Nimbus Mono L",
+    "foundry": "URW Type Foundry",
+    "url": "https://www.myfonts.com/fonts/urw/nimbus-mono-l/",
+    "category": "mono",
+    "subcategory": "slab-monospaced",
+    "classification_notes": "Courier analog from URW's PostScript core font equivalents. Open-source, ships with Ghostscript. Four styles: Regular, Bold and oblique variants of each.",
+    "designer": "URW Design Staff",
+    "year": null,
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "open-source",
+      "courier-inspired",
+      "monospaced",
+      "typewriter",
+      "ghostscript",
+      "linux",
+      "coding"
+    ],
+    "summary": "URW's open-source Courier analog, a four-style monospaced family distributed with Ghostscript and standard across Linux typesetting environments.",
+    "description": "Nimbus Mono L is URW's metric-compatible substitute for Courier, released as open-source software and bundled with Ghostscript for decades. It provides the four standard typewriter-style styles — Regular, Bold, and oblique versions of each — and serves as the Courier equivalent in open-source PDF and PostScript workflows.",
+    "foundry_blurb": "Part of URW's Ghostscript font package, Nimbus Mono L provides a freely licensed monospaced typeface compatible with standard PostScript workflows."
+  },
+  {
+    "name": "Corporate S Pro",
+    "foundry": "URW Type Foundry",
+    "url": "https://www.myfonts.com/fonts/urw/corporate-s-pro/",
+    "category": "sans-serif",
+    "subcategory": "humanist",
+    "classification_notes": "Part of Kurt Weidemann's Corporate ASE trilogy (Antiqua, Sans, Egyptian), designed as a unified corporate type system originally for Daimler-Benz. The Pro version adds WGL4 character set coverage.",
+    "designer": "Kurt Weidemann",
+    "year": 1990,
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Corporate S WGL"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "corporate",
+      "humanist",
+      "german",
+      "system-typeface",
+      "weidemann",
+      "automotive",
+      "text"
+    ],
+    "summary": "The sans-serif arm of Weidemann's Corporate ASE trilogy, originally designed for Daimler-Benz and distinguished by its classical proportions and six-weight range.",
+    "description": "Corporate S is the sans-serif component of Kurt Weidemann's three-part type system, completed between 1985 and 1990 alongside Corporate A (Antiqua) and Corporate E (Egyptian). Originally commissioned as an exclusive corporate typeface for DaimlerChrysler, it was subsequently released for general licensing. The WGL version extends the character set to cover Greek, Cyrillic and Eastern European Latin scripts. Six weights run from Light to Extra Bold, each with a companion italic.",
+    "foundry_blurb": "Part of the Corporate ASE trilogy — a type programme of classical quality designed by Kurt Weidemann, originally created exclusively for DaimlerChrysler and now available for broader licensing."
+  },
+  {
+    "name": "Corporate A",
+    "foundry": "URW Type Foundry",
+    "url": "https://www.myfonts.com/fonts/urw/corporate-a/",
+    "category": "serif",
+    "subcategory": "glyphic",
+    "classification_notes": "Antiqua (serif) member of Weidemann's Corporate ASE trilogy. Shares proportional system with Corporate S and Corporate E, designed as a harmonious companion for multi-face corporate work.",
+    "designer": "Kurt Weidemann",
+    "year": 1990,
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "corporate",
+      "german",
+      "system-typeface",
+      "weidemann",
+      "text",
+      "antiqua"
+    ],
+    "summary": "The serif companion of Weidemann's Corporate ASE trilogy, designed to work in harmony with Corporate S and Corporate E as a complete corporate type system.",
+    "description": "Corporate A is the Antiqua (serif) component of Kurt Weidemann's type programme for DaimlerChrysler, designed to sit alongside the sans-serif Corporate S and Egyptian Corporate E. The three faces share proportional logic so they compose harmoniously together. With 24 fonts in the full Pro family, the range covers Light, Regular and Bold weights with italics and small caps.",
+    "foundry_blurb": "Corporate A completes the ASE trilogy alongside Corporate S and Corporate E, offering a serif counterpart in the same classical proportional system designed by Kurt Weidemann."
+  },
+  {
+    "name": "Corporate E",
+    "foundry": "URW Type Foundry",
+    "url": "https://www.myfonts.com/fonts/urw/corporate-e/",
+    "category": "slab",
+    "subcategory": "geometric-slab",
+    "classification_notes": "Egyptian (slab serif) member of Weidemann's Corporate ASE trilogy. Designed as the display and accent face of the three-part system.",
+    "designer": "Kurt Weidemann",
+    "year": 1990,
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Demi",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "corporate",
+      "german",
+      "system-typeface",
+      "weidemann",
+      "slab",
+      "egyptian",
+      "display"
+    ],
+    "summary": "The slab serif third of Weidemann's Corporate ASE trilogy, offering Egyptian-style weight and presence as the display-oriented member of the system.",
+    "description": "Corporate E is the Egyptian (slab serif) component of the Corporate ASE system. It shares the same proportional basis as Corporate S and Corporate A, making all three interchangeable within corporate typography. The family includes 15 fonts spanning five weights with matching italics and small caps variants.",
+    "foundry_blurb": "The Egyptian member of the Corporate ASE trilogy, designed by Kurt Weidemann to provide a slab-serif option within the unified DaimlerChrysler type programme."
+  },
+  {
+    "name": "URW Dock",
+    "foundry": "URW Type Foundry",
+    "url": "https://www.myfonts.com/type-foundry/urw/",
+    "category": "sans-serif",
+    "subcategory": "geometric",
+    "classification_notes": "Geometric sans-serif with 60 styles, one of URW's larger contemporary families. Designed by Jörn Oelsner.",
+    "designer": "Jörn Oelsner",
+    "year": null,
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "geometric",
+      "contemporary",
+      "multi-weight",
+      "corporate",
+      "display",
+      "text"
+    ],
+    "summary": "A large contemporary geometric sans-serif by Jörn Oelsner, spanning 60 styles across extensive weights and widths.",
+    "description": "URW Dock is one of URW's most extensive contemporary type families, covering 60 styles designed by Jörn Oelsner. The family offers comprehensive weight and width options suited to both text and display applications, with the broad language coverage typical of URW's corporate-oriented catalogue.",
+    "foundry_blurb": "URW Dock delivers an extensive geometric sans-serif system with broad weight and style coverage for demanding corporate and editorial applications."
+  },
+  {
+    "name": "Transport",
+    "foundry": "URW Type Foundry",
+    "url": "https://www.myfonts.com/fonts/urw/transport/",
+    "category": "sans-serif",
+    "subcategory": "humanist",
+    "classification_notes": "Digital revival of the UK Department of Transport road sign typeface originally designed by Jock Kinneir and Margaret Calvert in the late 1950s for Britain's motorway and trunk road network. Two styles: Medium and Bold.",
+    "designer": "Jock Kinneir, Margaret Calvert",
+    "year": 1958,
+    "weights": [
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "signage",
+      "uk",
+      "wayfinding",
+      "humanist",
+      "kinneir-calvert",
+      "transport",
+      "motorway"
+    ],
+    "summary": "URW's licensed digital edition of the Kinneir–Calvert UK road signage typeface, in two weights as used on Britain's motorway and trunk road network.",
+    "description": "Transport is the typeface designed by Jock Kinneir and Margaret Calvert for the British Ministry of Transport in the late 1950s, used on motorway and trunk road signs across the UK. URW Type Foundry published this two-weight digital edition, offering Medium and Bold styles as used on actual road signage. It remains the definitive humanist sans-serif from the British wayfinding tradition.",
+    "foundry_blurb": "URW's edition of the classic British road signage typeface, designed by Kinneir and Calvert and used on UK motorway and trunk road signs since the 1960s."
+  },
+  {
+    "name": "Berling",
+    "foundry": "URW Type Foundry",
+    "url": "https://www.myfonts.com/fonts/urw/berling/",
+    "category": "serif",
+    "subcategory": "old-style",
+    "classification_notes": "Venetian old-style serif designed by Karl-Erik Forsberg for the Berling foundry in Sweden, 1951. Based on the classical Aldine model of Aldus Manutius. Published by URW Type Foundry.",
+    "designer": "Karl-Erik Forsberg",
+    "year": 1951,
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "venetian",
+      "old-style",
+      "book",
+      "swedish",
+      "text",
+      "aldine"
+    ],
+    "summary": "A refined Venetian old-style serif by Swedish designer Karl-Erik Forsberg, based on the Aldine model and cut in 1951 for book and magazine text setting.",
+    "description": "Berling was designed by Karl-Erik Forsberg and first issued by Sweden's Berlingska Stilgjuteriet in 1951, with additional weights added in 1958. Modelled on the Venetian type of Aldus Manutius, it brings a warm, slightly calligraphic character to text setting. URW Type Foundry publishes the four-style family — Regular, Italic, Bold and Bold Italic — as a digital edition of this mid-century Swedish classic.",
+    "foundry_blurb": "Berling is an old style typeface based on the classical Venetian model used by Aldus Manutius, originally designed for book, journal and magazine composition."
+  },
+  {
+    "name": "Hiroshige",
+    "foundry": "URW Type Foundry",
+    "url": "https://www.myfonts.com/fonts/urw/hiroshige/",
+    "category": "serif",
+    "subcategory": "calligraphic-serif",
+    "classification_notes": "Calligraphic serif with gentle organic flare, designed in 1986 by Cynthia Hollandsworth Batty of AlphaOmega Typography. Originally developed for a book of Ando Hiroshige's woodblock prints.",
+    "designer": "Cynthia Hollandsworth Batty",
+    "year": 1986,
+    "weights": [
+      "Book",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "calligraphic",
+      "elegant",
+      "editorial",
+      "book",
+      "display",
+      "serif"
+    ],
+    "summary": "A calligraphic serif with gentle flair, designed in 1986 for a book of Hiroshige woodblock prints and suited to both elegant headlines and refined body text.",
+    "description": "Hiroshige was designed by Cynthia Hollandsworth Batty in 1986 for a publication featuring the Japanese woodblock artist Ando Hiroshige, and the typeface carries a subtle calligraphic warmth suited to its origins. Eight styles span Book, Medium, Bold and Black, each with a companion italic. Published by URW Type Foundry, it sits at the intersection of editorial serif and display face.",
+    "foundry_blurb": "Hiroshige has a gentle calligraphic flair that creates an interesting page of text as well as elegant headlines, originally developed to complement the woodblock prints of the Japanese artist Ando Hiroshige."
+  },
+  {
+    "name": "URW Classico",
+    "foundry": "URW Type Foundry",
+    "url": "https://www.myfonts.com/fonts/urw/classico/",
+    "category": "serif",
+    "subcategory": "flared-serif",
+    "classification_notes": "Optima-inspired flared-serif by Hermann Zapf, designed for URW. Sits between a humanist sans and a serifed face, using subtle tapered strokes rather than full serifs. Eight styles including condensed.",
+    "designer": "Hermann Zapf",
+    "year": null,
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "zapf",
+      "optima-inspired",
+      "flared-serif",
+      "elegant",
+      "display",
+      "text",
+      "humanist"
+    ],
+    "summary": "Hermann Zapf's Optima-inspired flared serif for URW, offering eight styles with a condensed variant and the distinctive tapered strokes of his humanist aesthetic.",
+    "description": "URW Classico is Hermann Zapf's interpretation of the Optima concept, using subtle flared terminations that sit between a humanist sans-serif and a classical serifed face. Published by URW Type Foundry since March 2000, the family covers Regular, Medium, Bold and Black weights with italics and a Condensed variant — eight fonts in total. The open-source edition, distributed under the Aladdin Free Public License, ships with Ghostscript.",
+    "foundry_blurb": "A classical typeface by Hermann Zapf in the tradition of Optima, with refined proportions and the characteristic stroke contrast of his humanist typographic vision."
+  }
+]

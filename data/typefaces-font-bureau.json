@@ -1,0 +1,551 @@
+[
+  {
+    "name": "Benton Sans",
+    "foundry": "Font Bureau",
+    "url": "https://fontbureau.com/fonts/BentonSans",
+    "category": "sans-serif",
+    "subcategory": "Grotesque sans-serif",
+    "classification_notes": "Based on Morris Fuller Benton's late 19th-century News Gothic; expanded by Cyrus Highsmith and Tobias Frere-Jones into a comprehensive editorial grotesque system",
+    "designer": "Tobias Frere-Jones & Cyrus Highsmith",
+    "year": 2002,
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Benton Sans Condensed",
+      "Benton Sans Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "editorial",
+      "newspaper",
+      "branding",
+      "corporate",
+      "versatile"
+    ],
+    "summary": "A systematic editorial grotesque rooted in Morris Fuller Benton's News Gothic, expanded by Frere-Jones and Highsmith into a large, multi-width type family.",
+    "description": "Benton Sans distils the proportions and rhythm of News Gothic into a contemporary system with nine weights across three widths — Regular, Condensed and Compressed. It became a standard-bearer for American newspaper sans-serif typography and remains widely used in editorial and corporate design. Rights have been redistributed to original designers following Font Bureau's library sale.",
+    "foundry_blurb": "Rooted in the American grotesque tradition, Benton Sans is a systematic editorial sans designed for the full demands of newspaper and institutional typography."
+  },
+  {
+    "name": "Benton Modern",
+    "foundry": "Font Bureau",
+    "url": "https://fontbureau.com/fonts/BentonModern",
+    "category": "serif",
+    "subcategory": "Transitional serif",
+    "classification_notes": "Transitional serif drawing on Morris Fuller Benton's Century and Clearface work; designed for editorial use at text and display sizes",
+    "designer": "Richard Lipton & Cyrus Highsmith",
+    "year": 2003,
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Benton Modern Display",
+      "Benton Modern Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "editorial",
+      "newspaper",
+      "text",
+      "display",
+      "optical-sizes"
+    ],
+    "summary": "A transitional editorial serif companion to Benton Sans, with separate Text and Display optical families for newspapers and magazines.",
+    "description": "Benton Modern extends the Benton family into the serif domain, drawing on Morris Fuller Benton's Century and Clearface models and adapting them for contemporary editorial use. Separate Text and Display versions are calibrated for their respective size ranges, making the system a complete editorial package alongside the sans companion.",
+    "foundry_blurb": "A transitional serif companion to Benton Sans, designed for intensive editorial use across text and display sizes in newspapers and magazines."
+  },
+  {
+    "name": "Bureau Grot",
+    "foundry": "Font Bureau",
+    "url": "https://fontbureau.com/fonts/BureauGrot",
+    "category": "sans-serif",
+    "subcategory": "Grotesque sans-serif",
+    "classification_notes": "19th-century-inspired grotesque revival; wide weight range with strong headline presence; used extensively in American editorial design",
+    "designer": "David Berlow",
+    "year": 1989,
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Compressed",
+      "Extra Compressed"
+    ],
+    "subfamilies": [
+      "Bureau Grot Condensed",
+      "Bureau Grot Compressed",
+      "Bureau Grot Extra Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "newspaper",
+      "headline",
+      "american",
+      "editorial",
+      "condensed"
+    ],
+    "summary": "David Berlow's 19th-century-inspired grotesque, one of Font Bureau's signature designs, spanning extreme widths for American editorial and headline use.",
+    "description": "Bureau Grot channels the energy of Victorian wood-type grotesques into a systematic modern family. Its breadth — from Extra Compressed to standard — made it a workhorse in American newspaper and magazine design through the 1990s and 2000s. The full system encompasses weights from ExtraLight to Black across multiple widths.",
+    "foundry_blurb": "A 19th-century-inspired grotesque family spanning extreme widths — a signature David Berlow design built for American editorial and headline typography."
+  },
+  {
+    "name": "Titling Gothic FB",
+    "foundry": "Font Bureau",
+    "url": "https://fontbureau.com/fonts/TitlingGothicFB",
+    "category": "sans-serif",
+    "subcategory": "Titling grotesque",
+    "classification_notes": "Extensive grotesque titling family with multiple widths and weights; designed specifically for display and headline use; very large family",
+    "designer": "David Berlow",
+    "year": 2005,
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Condensed",
+      "Compressed",
+      "Extended",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Titling Gothic FB Narrow",
+      "Titling Gothic FB Condensed",
+      "Titling Gothic FB Compressed",
+      "Titling Gothic FB Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "titling",
+      "display",
+      "headline",
+      "condensed",
+      "newspaper"
+    ],
+    "summary": "A systematic titling grotesque spanning five widths from Compressed to Wide — one of the most comprehensive headline sans families produced by Font Bureau.",
+    "description": "Titling Gothic FB provides a complete width system for editorial headline setting, covering Compressed, Condensed, Narrow, standard and Wide variants each with a full weight range. Its breadth made it a practical solution for publications needing flexible headline typography without switching typefaces. Designed by David Berlow.",
+    "foundry_blurb": "An extensive grotesque titling family with multiple widths and weights designed specifically for display and headline use."
+  },
+  {
+    "name": "Escrow Banner",
+    "foundry": "Font Bureau",
+    "url": "https://fontbureau.com/fonts/Escrow",
+    "category": "serif",
+    "subcategory": "Scotch roman",
+    "classification_notes": "Scotch roman revival with high contrast and ball terminals; designed for newspaper banners and feature display headings",
+    "designer": "Cyrus Highsmith",
+    "year": 2007,
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Banner"
+    ],
+    "subfamilies": [
+      "Escrow Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "scotch-roman",
+      "newspaper",
+      "banner",
+      "display",
+      "high-contrast",
+      "editorial"
+    ],
+    "summary": "A high-contrast Scotch roman revival by Cyrus Highsmith, purpose-built for newspaper banner headlines and feature display settings.",
+    "description": "Escrow Banner revives the formal qualities of 19th-century Scotch romans — high contrast, sharp serifs and ball terminals — and scales them up for contemporary newspaper banner headlines. A condensed companion extends its usefulness across column widths. The design is confident and authoritative at large sizes.",
+    "foundry_blurb": "A Scotch roman revival with high contrast and ball terminals, designed for newspaper banners and feature display headings."
+  },
+  {
+    "name": "Poynter Oldstyle",
+    "foundry": "Font Bureau",
+    "url": "https://fontbureau.com/fonts/PoynterOldstyle",
+    "category": "serif",
+    "subcategory": "Oldstyle newspaper serif",
+    "classification_notes": "Part of the Poynter Design Group; three optical-size specific subfamilies (Text, Italic, Display); designed for the Poynter Institute and commissioned newspaper use",
+    "designer": "Tobias Frere-Jones",
+    "year": 1997,
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Poynter Oldstyle Text",
+      "Poynter Oldstyle Display",
+      "Poynter Gothic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "newspaper",
+      "editorial",
+      "oldstyle",
+      "text",
+      "optical-sizes",
+      "commissioned"
+    ],
+    "summary": "Tobias Frere-Jones's oldstyle newspaper serif designed for the Poynter Institute, with dedicated Text and Display optical families.",
+    "description": "Poynter Oldstyle was developed for the Poynter Institute's newspaper design research programme, resulting in a family calibrated specifically for newsprint conditions. Separate Text and Display versions address the optical corrections needed across size ranges. The companion Poynter Gothic completes the system.",
+    "foundry_blurb": "An oldstyle newspaper serif commissioned for the Poynter Institute, with text and display optical variants tuned to newsprint requirements."
+  },
+  {
+    "name": "Poynter Serif",
+    "foundry": "Font Bureau",
+    "url": "https://fontbureau.com/fonts/PoynterSerif",
+    "category": "serif",
+    "subcategory": "Transitional newspaper serif",
+    "classification_notes": "Transitional serif from the Poynter Design Group; modern proportions for contemporary editorial use; companion to Poynter Gothic",
+    "designer": "Tobias Frere-Jones",
+    "year": 1997,
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "newspaper",
+      "editorial",
+      "transitional",
+      "text",
+      "optical-sizes"
+    ],
+    "summary": "The transitional serif companion within the Poynter Design Group, designed for contemporary newspaper editorial use at text and display sizes.",
+    "description": "Poynter Serif provides a transitional-style alternative within the Poynter system, offering more modern letterform proportions alongside the oldstyle companion. Text and Display versions are calibrated for their respective size ranges. Designed by Tobias Frere-Jones for the Poynter Institute programme.",
+    "foundry_blurb": "A transitional newspaper serif from the Poynter Design Group, designed for contemporary editorial use."
+  },
+  {
+    "name": "Agency FB",
+    "foundry": "Font Bureau",
+    "url": "https://fontbureau.com/fonts/AgencyFB",
+    "category": "display",
+    "subcategory": "Art Deco display sans",
+    "classification_notes": "Revival of Morris Fuller Benton's 1932 Agency Gothic; Art Deco geometric proportions; all-caps display face",
+    "designer": "David Berlow",
+    "year": 1990,
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "DemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "art-deco",
+      "geometric",
+      "all-caps",
+      "revival",
+      "headline"
+    ],
+    "summary": "David Berlow's revival of Morris Fuller Benton's 1932 Agency Gothic, an Art Deco all-caps display face with geometric construction.",
+    "description": "Agency FB updates Benton's 1932 Agency Gothic with refined spacing and an expanded weight range, retaining its angular Art Deco character and all-caps design. The face has remained popular for headline and display use across advertising, entertainment and sports branding. Included with Microsoft Office, giving it broad recognition.",
+    "foundry_blurb": "A revival of Morris Fuller Benton's 1932 Agency Gothic with an expanded weight range and refined spacing."
+  },
+  {
+    "name": "Belizio",
+    "foundry": "Font Bureau",
+    "url": "https://fontbureau.com/fonts/Belizio",
+    "category": "serif",
+    "subcategory": "Book serif",
+    "classification_notes": "Warm, humanist book serif; designed for long-form reading in books and magazines; moderate contrast",
+    "designer": "Richard Lipton",
+    "year": 1993,
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "book",
+      "text",
+      "humanist",
+      "editorial",
+      "literary"
+    ],
+    "summary": "A warm humanist book serif by Richard Lipton, designed for comfortable long-form reading in books and literary publications.",
+    "description": "Belizio offers moderate contrast and humanist proportions suited to continuous text setting in books and literary magazines. Richard Lipton's design emphasises reading comfort through open counters and well-judged weight distribution. Four styles cover regular and bold with matching italics.",
+    "foundry_blurb": "A warm humanist book serif designed for comfortable long-form reading."
+  },
+  {
+    "name": "Californian FB",
+    "foundry": "Font Bureau",
+    "url": "https://fontbureau.com/fonts/CalifornianFB",
+    "category": "serif",
+    "subcategory": "Oldstyle serif",
+    "classification_notes": "Reinterpretation of Frederic Goudy's Californian typeface; oldstyle proportions with warmth and craft quality; designed for book and editorial use",
+    "designer": "David Berlow",
+    "year": 1994,
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "oldstyle",
+      "book",
+      "revival",
+      "goudy",
+      "literary",
+      "editorial"
+    ],
+    "summary": "David Berlow's reinterpretation of Frederic Goudy's Californian, retaining its warm oldstyle craft quality for contemporary book and editorial use.",
+    "description": "Californian FB revisits Goudy's original design with updated spacing and refined proportions for digital typesetting. Its warm, crafted character suits literary and editorial contexts where historical personality is valued. Four styles provide the essentials for book-length work.",
+    "foundry_blurb": "A reinterpretation of Frederic Goudy's Californian typeface with updated spacing and refined proportions."
+  },
+  {
+    "name": "Giza",
+    "foundry": "Font Bureau",
+    "url": "https://fontbureau.com/fonts/Giza",
+    "category": "slab",
+    "subcategory": "Egyptian slab serif",
+    "classification_notes": "Monoline Egyptian/Clarendon style slab; very large family spanning nine widths from extra-condensed to extra-extended; David Berlow design",
+    "designer": "David Berlow",
+    "year": 1994,
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Extra Condensed",
+      "Condensed",
+      "Narrow",
+      "Normal",
+      "Wide",
+      "Extra Wide"
+    ],
+    "subfamilies": [],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "egyptian",
+      "display",
+      "condensed",
+      "headline",
+      "clarendon"
+    ],
+    "summary": "A monoline Egyptian slab spanning nine widths from extra-condensed to extra-wide — one of the most comprehensive slab-serif families Font Bureau produced.",
+    "description": "Giza draws on the Egyptian/Clarendon slab tradition and expands it into an exhaustive nine-width, six-weight system. The full family gives designers a single typeface solution for any headline width requirement, from the tightest newspaper column to a wide-format billboard. Designed by David Berlow in 1994.",
+    "foundry_blurb": "A monoline Egyptian slab serif spanning nine widths — from extra-condensed to extra-wide — for complete headline width flexibility."
+  },
+  {
+    "name": "Bodoni FB",
+    "foundry": "Font Bureau",
+    "url": "https://fontbureau.com/fonts/BodoniFB",
+    "category": "serif",
+    "subcategory": "Didone",
+    "classification_notes": "Bodoni revival with high contrast and fine hairlines; display optimised but includes text weights; classic neoclassical proportions",
+    "designer": "David Berlow",
+    "year": 1995,
+    "weights": [
+      "Book",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Poster"
+    ],
+    "subfamilies": [
+      "Bodoni FB Poster"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "display",
+      "fashion",
+      "high-contrast",
+      "neoclassical",
+      "revival"
+    ],
+    "summary": "Font Bureau's Bodoni revival with high contrast and fine hairlines, including a Poster weight for the largest display applications.",
+    "description": "Bodoni FB captures the hallmarks of Giambattista Bodoni's neoclassical design — extreme weight contrast, abrupt thin serifs and geometric proportions — with refinements tuned for contemporary reproduction. A Poster weight and display-optimised variants extend the family's usefulness at very large sizes.",
+    "foundry_blurb": "A Bodoni revival with high contrast and fine hairlines, optimised for display and fashion editorial use."
+  },
+  {
+    "name": "Garamond FB",
+    "foundry": "Font Bureau",
+    "url": "https://fontbureau.com/fonts/GaramondFB",
+    "category": "serif",
+    "subcategory": "Oldstyle serif",
+    "classification_notes": "Garamond revival in the oldstyle tradition; text-focused with classical proportions; text and display optical sizes",
+    "designer": "David Berlow",
+    "year": 1992,
+    "weights": [
+      "Book",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Garamond FB Display",
+      "Garamond FB Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "oldstyle",
+      "garamond",
+      "revival",
+      "book",
+      "text",
+      "classical"
+    ],
+    "summary": "Font Bureau's Garamond revival with separate Text and Display optical families, maintaining classical oldstyle proportions.",
+    "description": "Garamond FB revisits the French oldstyle tradition with Text and Display variants calibrated for their respective size ranges. David Berlow's interpretation retains the classical proportions and humanist warmth of the Garamond model while updating spacing and hinting for digital use.",
+    "foundry_blurb": "A Garamond revival with separate text and display optical families in the classical oldstyle tradition."
+  }
+]

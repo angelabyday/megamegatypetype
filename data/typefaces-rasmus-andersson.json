@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Inter",
+    "foundry": "Rasmus Andersson",
+    "url": "https://rsms.me/inter/",
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Tall x-height geometric neo-grotesque designed for screen readability. Close relatives: Roboto, San Francisco, Akkurat.",
+    "designer": "Rasmus Andersson",
+    "year": 2017,
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Inter",
+      "Inter Italic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "screen",
+      "ui",
+      "variable-font",
+      "open-source",
+      "neutral",
+      "high-legibility",
+      "slashed-zero",
+      "open-type-features"
+    ],
+    "summary": "Open-source sans-serif designed specifically for screen readability, now one of the most widely used UI typefaces on the web.",
+    "description": "Inter was built from the ground up for screen use, with a tall x-height, ink traps at small sizes, and optical size variants for text and display settings. It ships as a variable font covering nine weights with true italics, and includes over 30 OpenType features, 2000+ glyphs, and support for 147 languages across Latin, Greek and Cyrillic scripts. Used by Figma, Mozilla, GitLab, NASA and many others.",
+    "foundry_blurb": "Inter is a free and open-source typeface family designed for computer screens, featuring a tall x-height for legibility and a comprehensive set of OpenType features including contextual alternates, stylistic sets and slashed zero."
+  },
+  {
+    "name": "Hovden Stitch",
+    "foundry": "Rasmus Andersson",
+    "url": "https://rsms.me/projects/",
+    "category": "display",
+    "subcategory": "novelty",
+    "classification_notes": "Decorative display typeface imitating embroidery or stitching patterns. Created as a personal experiment in 2002.",
+    "designer": "Rasmus Andersson",
+    "year": 2002,
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "novelty",
+      "embroidery",
+      "stitch",
+      "decorative",
+      "early-work"
+    ],
+    "summary": "An early experimental display typeface by Rasmus Andersson that mimics a classic stitching or embroidery aesthetic.",
+    "description": "Hovden Stitch is a decorative typeface created in 2002 with letterforms that evoke hand-stitched or embroidered text. It is a personal early project by Andersson rather than a polished commercial release. Available from his projects archive.",
+    "foundry_blurb": "A typeface from 2002 with a classic stitching and embroidery look."
+  }
+]

@@ -1,0 +1,363 @@
+[
+  {
+    "name": "Adam",
+    "foundry": "Anton Koovit",
+    "url": "https://antonkoovit.com/typefaces/adam",
+    "category": "sans-serif",
+    "subcategory": "Humanist sans-serif",
+    "classification_notes": "Draws on early 20th-century grotesques and broad-nib calligraphy. Includes a stencil-based display cut (Adam Cut) alongside standard weights. Designed first for reading sizes and continuous text.",
+    "weights": [
+      "Thin",
+      "Thin Italic",
+      "Regular",
+      "Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic",
+      "Cut Thin",
+      "Cut Thin Italic",
+      "Cut Black",
+      "Cut Black Italic"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Adam Cut"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "editorial",
+      "text",
+      "body-text",
+      "display",
+      "stencil",
+      "multilingual",
+      "estonian"
+    ],
+    "summary": "A humanist sans-serif designed in Estonia for continuous reading, with roots in early grotesques and broad-nib calligraphy.",
+    "description": "Adam is the first typeface designed in Estonia specifically for reading sizes and continuous text. Inspired by early 20th-century grotesques and calligraphic forms, it works across gallery publications, magazines and signage. The family includes a stencil-based display cut (Adam Cut) alongside conventional weights.",
+    "foundry_blurb": "Adam was conceived for art manifestos and expanded into a comprehensive family for gallery publications, magazines and signage — with stencil display cuts complementing the text weights.",
+    "designer": "Anton Koovit",
+    "year": null
+  },
+  {
+    "name": "U8",
+    "foundry": "Anton Koovit",
+    "url": "https://antonkoovit.com/typefaces/u8",
+    "category": "sans-serif",
+    "subcategory": "Geometric sans-serif",
+    "classification_notes": "Inspired by Berlin U-Bahn (U8 line) signage. Wider proportions than most geometric sans-serifs. Includes ligatures, tabular and oldstyle figures, and fractions. 15 styles across 7 weights.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "transport",
+      "berlin",
+      "bauhaus",
+      "modernist",
+      "signage",
+      "wide"
+    ],
+    "summary": "A geometric sans-serif inspired by the signage of Berlin's U8 subway line, with wider-than-usual proportions and a clean, strong character.",
+    "description": "U8 takes its name and visual cues from the U8 metro line connecting Reinickendorf to Neukölln in Berlin. The design sits wider than most geometric sans-serifs, giving it a strong, open character suited to both display and text settings. It includes full OpenType features including ligatures, oldstyle figures and fractions.",
+    "foundry_blurb": "U8 is a geometric sans-serif with wider proportions than most common geometric sans, inspired by Berlin's U-Bahn line 8. It has a strong character and a clean design.",
+    "designer": "Anton Koovit",
+    "year": null
+  },
+  {
+    "name": "Arvo",
+    "foundry": "Anton Koovit",
+    "url": "https://antonkoovit.com/typefaces/arvo",
+    "category": "slab",
+    "subcategory": "Geometric slab-serif",
+    "classification_notes": "Monolinear-ish contrast with subtle modulation. Optimised for screen legibility. Free and open-source, distributed via Google Fonts and Open Font Library. Name references both an Estonian male given name and the Finnish word for value.",
+    "weights": [
+      "Regular",
+      "Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "free",
+    "tags": [
+      "slab-serif",
+      "geometric",
+      "screen",
+      "open-source",
+      "google-fonts",
+      "multilingual",
+      "estonian"
+    ],
+    "summary": "A geometric slab-serif optimised for screen and print, widely distributed through Google Fonts as an open-source release.",
+    "description": "Arvo is a geometric slab-serif with subtly modulated contrast, designed to read well on screen and in print. Its near-monolinear strokes give it a sturdy presence at small sizes. The typeface is freely available via Google Fonts and the Open Font Library, with coverage extending to Cyrillic and 70-plus languages.",
+    "foundry_blurb": "Arvo is a geometric slab-serif typeface family suited for screen and print, with monolinearish qualities and subtle contrast.",
+    "designer": "Anton Koovit",
+    "year": null
+  },
+  {
+    "name": "Aleksei",
+    "foundry": "Anton Koovit",
+    "url": "https://antonkoovit.com/typefaces/aleksei",
+    "category": "serif",
+    "subcategory": "Contemporary serif",
+    "classification_notes": "Rotated contrast inspired by circular and rotating forms. Moderate contrast with sturdy thin strokes calibrated for extended reading at small sizes. Shares proportions and weights with Adam. Includes small caps, ligatures and oldstyle figures.",
+    "weights": [
+      "Thin",
+      "Thin Italic",
+      "Regular",
+      "Regular Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "contemporary",
+      "cyrillic",
+      "editorial",
+      "small-caps",
+      "multilingual",
+      "estonian"
+    ],
+    "summary": "A contemporary serif with rotated contrast and circular forms, calibrated for extended text and intended as a companion to Adam.",
+    "description": "Aleksei draws on circular and rotating forms to produce a serif with distinctive rotated contrast. Its moderate stroke differentiation and sturdy thin strokes make it comfortable for extended reading at small sizes. The family includes small caps, ligatures and oldstyle figures, and covers both Latin and Cyrillic.",
+    "foundry_blurb": "Aleksei features rotated contrast, rotating inkdrops and other round shapes, carefully calibrated for extended text at smaller sizes with moderate contrast and sturdy thin strokes. It complements Adam through shared proportions and weights.",
+    "designer": "Anton Koovit",
+    "year": null
+  },
+  {
+    "name": "Aino",
+    "foundry": "Anton Koovit & Estonian Design Team",
+    "url": "https://antonkoovit.com/typefaces/aino",
+    "category": "sans-serif",
+    "subcategory": "Contemporary humanist sans-serif",
+    "classification_notes": "Commissioned as the official typeface for Brand Estonia in 2016. Designed collaboratively by Anton Koovit with Jan Tomson, Alari Orav, Selina Bernet, Nikita Kanarev and Marion Kadi. Italics added 2022; Headline styles added 2024.",
+    "weights": [
+      "Headline Light",
+      "Headline",
+      "Regular",
+      "Bold",
+      "Italic",
+      "Bold Italic"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Aino Headline"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "branding",
+      "national",
+      "estonian",
+      "humanist",
+      "official",
+      "identity",
+      "multilingual"
+    ],
+    "summary": "The official typeface of Brand Estonia, a contemporary humanist sans-serif designed collaboratively for use across all national communications.",
+    "description": "Aino is the official typeface of Estonia's national brand identity, designed to be the most recognisable element of Brand Estonia across print and screen. Created collaboratively by Anton Koovit with the Estonian Design Team, it has grown since its 2016 launch to include italics and a Headline subfamily. The family covers Latin and Cyrillic scripts.",
+    "foundry_blurb": "Aino is the official typeface for Brand Estonia, the most widespread and recognisable element of the brand, communicating ideas across all mediums — in print and on screen.",
+    "designer": "Anton Koovit, Jan Tomson, Alari Orav, Selina Bernet, Nikita Kanarev, Marion Kadi",
+    "year": 2016
+  },
+  {
+    "name": "Velo",
+    "foundry": "Anton Koovit",
+    "url": "https://antonkoovit.com/typefaces/velo",
+    "category": "display",
+    "subcategory": "Hyper-extended experimental sans-serif",
+    "classification_notes": "Monospaced modular design with hyper-extended proportions. Inspired by Amsterdam's Sloten velodrome and track cycling. Originally conceived for an imaginary sports magazine. Exhibited at AtypI Helsinki 2005.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "experimental",
+      "wide",
+      "monospaced",
+      "sport",
+      "modular",
+      "extended"
+    ],
+    "summary": "An experimental hyper-extended display typeface inspired by the speed and architecture of Amsterdam's Sloten velodrome.",
+    "description": "Velodromatic (Velo) began as a souvenir of track cycling at Amsterdam's Sloten velodrome, capturing the pace and atmosphere of the sport. Its modular, monospaced construction produces hyper-extended letter forms with an industrial character. The typeface was originally created for an imaginary sports magazine and shown at AtypI Helsinki in 2005.",
+    "foundry_blurb": "A souvenir or memo of velodrome racing — letter shapes of no particular style, monospaced, with hyper-extended proportions, originally conceived for an imaginary sports magazine.",
+    "designer": "Anton Koovit",
+    "year": 2005
+  },
+  {
+    "name": "Tontfont",
+    "foundry": "Anton Koovit",
+    "url": "https://antonkoovit.com/typefaces/tontfont",
+    "category": "display",
+    "subcategory": "Geometric modular display",
+    "classification_notes": "All letterforms built from a circular module system using a spray-compass tool called Möriseja. Realised as a public mural across 27 painted blocks. Available as a free download. Created summer 2005.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "modular",
+      "geometric",
+      "circular",
+      "environmental",
+      "spray-painted",
+      "experimental",
+      "free"
+    ],
+    "summary": "A free modular display typeface where every letterform is built from a circular module, originally realised as a spray-painted public mural in Estonia.",
+    "description": "Tontfont derives all its letterforms from a single circular module system, painted onto 27 blocks as a public mural using a spray-compass tool called Möriseja. The project was created in summer 2005 while Koovit was on break from Paris studies. The typeface is available as a free download.",
+    "foundry_blurb": "All letters are based on a circular module system, realised through a public mural project featuring 27 painted blocks using the Möriseja spray-compass tool.",
+    "designer": "Anton Koovit",
+    "year": 2005
+  },
+  {
+    "name": "KORK Sausage",
+    "foundry": "Anton Koovit",
+    "url": "https://antonkoovit.com/typefaces/sausage",
+    "category": "display",
+    "subcategory": "Experimental stencil display",
+    "classification_notes": "Name is an acronym for the Estonian phrase Kõik On Raudselt Korras (Everything Is Definitely in Order). Designed for silkscreen stencil techniques with interlocking letters and a modulated baseline. Includes special ligatures (RR, LL, Ko) and Latin plus some Cyrillic. Poster exhibited at Brno Biennial.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "experimental",
+      "stencil",
+      "handmade",
+      "modular",
+      "interlocking",
+      "cyrillic",
+      "estonian"
+    ],
+    "summary": "An experimental stencil display face designed for silkscreen techniques, with interlocking letters and a deliberate tension between chaos and order.",
+    "description": "KORK Sausage — an acronym for the Estonian phrase meaning 'Everything Is Definitely in Order' — walks a line between chaos and order through a modulated baseline and interlocking letter construction. Designed for silkscreen paper stencil techniques, it includes special ligatures and extends into Cyrillic. Its promotional poster was shown at the Brno Biennial.",
+    "foundry_blurb": "KORK stands for Kõik On Raudselt Korras — balancing between chaos and order, featuring a modulated baseline and numerous interlocking letters, designed for silkscreen stencil techniques.",
+    "designer": "Anton Koovit",
+    "year": 2004
+  },
+  {
+    "name": "Kandi",
+    "foundry": "Anton Koovit",
+    "url": "https://antonkoovit.com/typefaces/kandi",
+    "category": "display",
+    "subcategory": "Geometric modular display",
+    "classification_notes": "Letterforms built from a small set of geometric modules with minimal detailing. Created for the Estonian drum and bass party series Sound Scientifics, originally as a graduation project at the Estonian Academy of Arts.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "modular",
+      "geometric",
+      "minimal",
+      "club",
+      "music",
+      "estonian",
+      "graduation"
+    ],
+    "summary": "A minimal geometric modular display face originally designed for an Estonian drum and bass event series as a graduation project.",
+    "description": "Kandi reduces letterforms to a handful of geometric modules, prioritising structural consistency over decoration. It was created as Koovit's graduation project at the Estonian Academy of Arts for the Tallinn drum and bass party series Sound Scientifics. The single-weight face covers Latin extended with Estonian characters.",
+    "foundry_blurb": "Shapes of the letters based on a handful of modules with minimal detailing. Originally created for the drum and bass party series Sound Scientifics.",
+    "designer": "Anton Koovit",
+    "year": 2004
+  }
+]
