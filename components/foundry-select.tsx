@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import { createPortal } from "react-dom";
 import { X } from "lucide-react";
 import { cn } from "@/lib/utils";
 import type { FoundryInfo } from "@/lib/foundry-map";
@@ -62,24 +63,12 @@ export function FoundrySelect({ foundries, selected, onChange }: Props) {
       <button
         type="button"
         onClick={() => setOpen(true)}
-        className={cn(
-          "flex w-full items-center justify-between border-[0.5px] border-border px-3 py-2 text-sm transition-colors hover:bg-muted",
-          selected.size > 0 && "bg-foreground text-background border-transparent hover:bg-foreground/90"
-        )}
+        className="flex w-full items-center justify-center rounded-full bg-foreground text-background px-3 py-2 text-sm transition-colors hover:bg-foreground/90"
       >
-        <span className={selected.size === 0 ? "text-muted-foreground" : ""}>{label}</span>
-        <svg
-          className="size-3 shrink-0"
-          viewBox="0 0 10 6"
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="1.5"
-        >
-          <path d="M1 1l4 4 4-4" />
-        </svg>
+        <span>{label}</span>
       </button>
 
-      {open && (
+      {open && createPortal(
         <div className="fixed inset-0 z-50">
           {/* Backdrop */}
           <div
@@ -160,7 +149,8 @@ export function FoundrySelect({ foundries, selected, onChange }: Props) {
               )}
             </div>
           </div>
-        </div>
+        </div>,
+        document.body
       )}
     </>
   );

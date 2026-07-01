@@ -268,7 +268,7 @@ export function Directory({
           </div>
         </CollapsibleSection>
 
-        <CollapsibleSection label="Foundry" collapsible={collapsible}>
+        <CollapsibleSection label="Select Foundry" collapsible={collapsible}>
           <FoundrySelect
             foundries={foundries}
             selected={selectedFoundries}
