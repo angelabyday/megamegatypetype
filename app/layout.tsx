@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { NavMenu } from "@/components/nav-menu";
 import { BackToTop } from "@/components/back-to-top";
+import { CompareProvider } from "@/contexts/compare-context";
+import { CompareSidebar } from "@/components/compare-sidebar";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -38,6 +40,7 @@ export default function RootLayout({
         <script dangerouslySetInnerHTML={{__html: `(function(){var s=localStorage.getItem('theme'),d=window.matchMedia('(prefers-color-scheme:dark)').matches;if(s==='dark'||(s===null&&d))document.documentElement.classList.add('dark');})()`}} />
       </head>
       <body className="min-h-full flex flex-col bg-background text-foreground overflow-x-hidden">
+        <CompareProvider>
         <header className="sticky top-0 z-30 bg-background border-b-[0.5px] border-border">
           <div className="mx-auto flex items-center justify-between px-4 pt-3 pb-2 sm:px-6">
             <Link href="/" className="text-lg font-bold tracking-tight">
@@ -51,6 +54,7 @@ export default function RootLayout({
         </header>
         <main className="flex-1">{children}</main>
         <BackToTop />
+        <CompareSidebar />
         <footer className="border-t-[0.5px] border-border">
           <div className="mx-auto px-4 py-4 text-xs text-muted-foreground sm:px-6 flex items-center justify-between gap-4">
             <span>
@@ -63,6 +67,7 @@ export default function RootLayout({
             </Link>
           </div>
         </footer>
+        </CompareProvider>
       </body>
     </html>
   );

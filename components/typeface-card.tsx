@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { Badge } from "@/components/ui/badge";
+import { CompareButton } from "@/components/compare-button";
 import specimens from "@/lib/specimens.json";
 import type { DirectoryEntry } from "@/lib/typefaces";
 export function hasSpecimen(foundrySlug: string, slug: string): boolean {
@@ -11,8 +12,17 @@ export function TypefaceCard({ typeface, priority }: { typeface: DirectoryEntry;
   const specimen = hasSpecimen(typeface.foundrySlug, typeface.slug);
   const detailUrl = `/t/${typeface.foundrySlug}/${typeface.slug}`;
 
+  const compareItem = {
+    foundrySlug: typeface.foundrySlug,
+    slug: typeface.slug,
+    name: typeface.name,
+    foundry: typeface.foundry,
+    hasSpecimen: specimen,
+  };
+
   return (
     <div className="relative group border-[0.5px] border-border overflow-hidden rounded-[12px]">
+      <CompareButton item={compareItem} />
       <Link
         href={detailUrl}
         className="block transition-colors hover:bg-muted/50"
