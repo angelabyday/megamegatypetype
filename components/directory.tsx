@@ -339,7 +339,7 @@ export function Directory({
   return (
     <div className="mx-auto flex flex-col gap-6 px-4 py-6 sm:px-6 lg:flex-row">
       {/* Desktop sidebar */}
-      <aside className="hidden w-full shrink-0 lg:block lg:w-60 lg:sticky lg:top-20 lg:self-start">
+      <aside className="hidden w-full shrink-0 lg:block lg:w-60 lg:sticky lg:top-20 lg:self-start lg:max-h-[calc(100vh-5rem)] lg:overflow-y-auto">
         <Input
           type="search"
           placeholder="Name, foundry, style, tags…"
