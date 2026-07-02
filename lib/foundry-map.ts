@@ -284,7 +284,6 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Road to Venice Type", slug: "road-to-venice-type", homepage: "https://www.r-vtype.com", tier: "okay" },
   { name: "Serpentype", slug: "serpentype", homepage: "https://www.serpentype.com", tier: "okay" },
   { name: "Setup Type", slug: "setup-type", homepage: "https://www.setuptype.com", tier: "okay" },
-  { name: "Slanted Hall", slug: "slanted-hall", homepage: "https://slantedhall.com", tier: "okay" },
   { name: "Softdrive Foundry", slug: "softdrive-foundry", homepage: "https://www.softdrivefoundry.com/", tier: "okay" },
   { name: "Teeline Fonts", slug: "teeline-fonts", homepage: "https://teelinefonts.com", tier: "okay" },
   { name: "The Letters", slug: "the-letters", homepage: "https://theletters.co/", tier: "okay" },

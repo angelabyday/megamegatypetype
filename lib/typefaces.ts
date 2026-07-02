@@ -305,7 +305,6 @@ import scifipoetry from "@/data/typefaces-scifipoetry.json";
 import serpentype from "@/data/typefaces-serpentype.json";
 import setupType from "@/data/typefaces-setup-type.json";
 import simpleBits from "@/data/typefaces-simple-bits.json";
-import slantedHall from "@/data/typefaces-slanted-hall.json";
 import smeltery from "@/data/typefaces-smeltery.json";
 import tegamitype from "@/data/typefaces-tegamitype.json";
 import theLetters from "@/data/typefaces-the-letters.json";
@@ -757,7 +756,6 @@ export function getAllTypefaces(): Typeface[] {
         serpentype,
         setupType,
         simpleBits,
-        slantedHall,
         smeltery,
         tegamitype,
         theLetters,
