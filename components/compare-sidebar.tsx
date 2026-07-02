@@ -2,42 +2,73 @@
 
 import { useEffect, useState } from "react";
 import { createPortal } from "react-dom";
+import { usePathname } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
-import { X, ArrowRight } from "lucide-react";
+import { X, ArrowRight, Columns2 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useCompare } from "@/contexts/compare-context";
 
 export function CompareSidebar() {
   const { items, remove, clear } = useCompare();
   const [mounted, setMounted] = useState(false);
+  const [collapsed, setCollapsed] = useState(false);
+  const pathname = usePathname();
 
   useEffect(() => { setMounted(true); }, []);
-  if (!mounted) return null;
 
-  const open = items.length > 0;
+  // Auto-expand when first item added
+  useEffect(() => {
+    if (items.length === 1) setCollapsed(false);
+  }, [items.length]);
+
+  if (!mounted) return null;
+  if (pathname === "/compare") return null;
+  if (items.length === 0) return null;
+
   const compareUrl = `/compare?t=${items.map((i) => `${i.foundrySlug}/${i.slug}`).join("&t=")}`;
 
+  // Collapsed: show a small tab on the right edge
+  if (collapsed) {
+    return createPortal(
+      <button
+        type="button"
+        onClick={() => setCollapsed(false)}
+        className="fixed right-0 top-1/2 -translate-y-1/2 z-40 flex flex-col items-center gap-1.5 bg-foreground text-background px-2 py-4 rounded-l-[10px] shadow-xl hover:bg-foreground/90 transition-colors"
+        aria-label="Open compare panel"
+      >
+        <Columns2 className="h-4 w-4" />
+        <span className="text-xs font-medium tabular-nums">{items.length}</span>
+      </button>,
+      document.body
+    );
+  }
+
   return createPortal(
-    <div
-      className={cn(
-        "fixed top-0 right-0 h-full z-40 flex flex-col bg-background border-l-[0.5px] border-border shadow-2xl transition-transform duration-300 w-72",
-        open ? "translate-x-0" : "translate-x-full"
-      )}
-    >
+    <div className="fixed top-0 right-0 h-full z-40 flex flex-col bg-background border-l-[0.5px] border-border shadow-2xl w-72 translate-x-0 transition-transform duration-300">
       {/* Header */}
       <div className="flex items-center justify-between px-4 py-3 border-b-[0.5px] border-border shrink-0 mt-[57px]">
         <span className="text-sm font-medium">
           Compare
           <span className="ml-2 text-muted-foreground font-normal">{items.length}/{8}</span>
         </span>
-        <button
-          type="button"
-          onClick={clear}
-          className="text-xs text-muted-foreground hover:text-foreground transition-colors"
-        >
-          Clear all
-        </button>
+        <div className="flex items-center gap-3">
+          <button
+            type="button"
+            onClick={clear}
+            className="text-xs text-muted-foreground hover:text-foreground transition-colors"
+          >
+            Clear
+          </button>
+          <button
+            type="button"
+            onClick={() => setCollapsed(true)}
+            className="text-muted-foreground hover:text-foreground transition-colors p-0.5"
+            aria-label="Collapse panel"
+          >
+            <X className="h-4 w-4" />
+          </button>
+        </div>
       </div>
 
       {/* Items */}
