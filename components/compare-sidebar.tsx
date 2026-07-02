@@ -5,7 +5,7 @@ import { createPortal } from "react-dom";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
-import { X, ArrowRight, Columns2 } from "lucide-react";
+import { X, ArrowRight, Columns2, ChevronRight } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useCompare } from "@/contexts/compare-context";
 
@@ -46,29 +46,31 @@ export function CompareSidebar() {
 
   return createPortal(
     <div className="fixed top-0 right-0 h-full z-40 flex flex-col bg-background border-l-[0.5px] border-border shadow-2xl w-72 translate-x-0 transition-transform duration-300">
+      {/* Collapse button — sits in the nav-height zone at the very top */}
+      <div className="h-[57px] flex items-center justify-end px-3 shrink-0">
+        <button
+          type="button"
+          onClick={() => setCollapsed(true)}
+          className="flex h-6 w-6 items-center justify-center rounded-full bg-foreground text-background hover:bg-foreground/80 transition-colors"
+          aria-label="Collapse panel"
+        >
+          <ChevronRight className="h-3.5 w-3.5" />
+        </button>
+      </div>
+
       {/* Header */}
-      <div className="flex items-center justify-between px-4 py-3 border-b-[0.5px] border-border shrink-0 mt-[57px]">
+      <div className="flex items-center justify-between px-4 py-3 border-b-[0.5px] border-border shrink-0">
         <span className="text-sm font-medium">
           Compare
           <span className="ml-2 text-muted-foreground font-normal">{items.length}/{8}</span>
         </span>
-        <div className="flex items-center gap-3">
-          <button
-            type="button"
-            onClick={clear}
-            className="text-xs text-muted-foreground hover:text-foreground transition-colors"
-          >
-            Clear
-          </button>
-          <button
-            type="button"
-            onClick={() => setCollapsed(true)}
-            className="text-muted-foreground hover:text-foreground transition-colors p-0.5"
-            aria-label="Collapse panel"
-          >
-            <X className="h-4 w-4" />
-          </button>
-        </div>
+        <button
+          type="button"
+          onClick={clear}
+          className="text-xs text-muted-foreground hover:text-foreground transition-colors"
+        >
+          Clear
+        </button>
       </div>
 
       {/* Items */}
