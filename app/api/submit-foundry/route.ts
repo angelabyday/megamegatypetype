@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import { Resend } from "resend";
 
 export async function POST(request: Request) {
-  const { url, foundry } = await request.json();
+  const { url, foundry, email } = await request.json();
 
   if (!url || typeof url !== "string") {
     return NextResponse.json({ error: "url required" }, { status: 400 });
@@ -20,7 +20,8 @@ export async function POST(request: Request) {
       from: "MegaMegaTypeType <submissions@send.megamegatypetype.xyz>",
       to: "angela@loveandlogic.co.uk",
       subject,
-      text,
+      text: text + (email ? `\n\nReply to: ${email}` : ""),
+      replyTo: email || undefined,
     });
     return NextResponse.json({ ok: true });
   } catch (err) {

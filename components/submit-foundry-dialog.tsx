@@ -7,6 +7,7 @@ import { Input } from "@/components/ui/input";
 export function SubmitFoundryButton({ className }: { className?: string }) {
   const [open, setOpen] = useState(false);
   const [url, setUrl] = useState("");
+  const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "submitting" | "done" | "error">("idle");
   const overlayRef = useRef<HTMLDivElement>(null);
 
@@ -22,11 +23,12 @@ export function SubmitFoundryButton({ className }: { className?: string }) {
       const res = await fetch("/api/submit-foundry", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ url: url.trim() }),
+        body: JSON.stringify({ url: url.trim(), email: email.trim() || undefined }),
       });
       if (!res.ok) throw new Error("Failed");
       setStatus("done");
       setUrl("");
+      setEmail("");
     } catch {
       setStatus("error");
     }
@@ -36,6 +38,7 @@ export function SubmitFoundryButton({ className }: { className?: string }) {
     setOpen(false);
     setStatus("idle");
     setUrl("");
+    setEmail("");
   }
 
   return (
@@ -73,6 +76,13 @@ export function SubmitFoundryButton({ className }: { className?: string }) {
                     onChange={(e) => setUrl(e.target.value)}
                     required
                     autoFocus
+                    disabled={status === "submitting"}
+                  />
+                  <Input
+                    type="email"
+                    placeholder="Your email (optional)"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
                     disabled={status === "submitting"}
                   />
                   {status === "error" && (
