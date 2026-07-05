@@ -83,30 +83,83 @@ function CollapsibleSection({
   );
 }
 
+function getAll(params: Record<string, string | string[]>, key: string): string[] {
+  const v = params[key];
+  if (!v) return [];
+  return Array.isArray(v) ? v : [v];
+}
+
+function getString(params: Record<string, string | string[]>, key: string): string {
+  const v = params[key];
+  if (!v) return "";
+  return Array.isArray(v) ? v[0] : v;
+}
+
 export function Directory({
   typefaces,
   foundries,
+  initialParams = {},
 }: {
   typefaces: DirectoryEntry[];
   foundries: FoundryInfo[];
+  initialParams?: Record<string, string | string[]>;
 }) {
-  const [query, setQuery] = useState("");
-  const [category, setCategory] = useState<Category | "all">("all");
-  const [selectedFoundries, setSelectedFoundries] = useState<Set<string>>(new Set());
-  const [selectedUseCases, setSelectedUseCases] = useState<Set<string>>(new Set());
-  const [selectedStyles, setSelectedStyles] = useState<Set<string>>(new Set());
-  const [condensedOnly, setCondensedOnly] = useState(false);
-  const [italicOnly, setItalicOnly] = useState(false);
-  const [monoOnly, setMonoOnly] = useState(false);
-  const [variableOnly, setVariableOnly] = useState(false);
-  const [wideOnly, setWideOnly] = useState(false);
-  const [opticalSizesOnly, setOpticalSizesOnly] = useState(false);
-  const [pricing, setPricing] = useState<"all" | "free" | "paid">("all");
-  const [source, setSource] = useState<"all" | "foundry" | "reseller">("all");
-  const [sort, setSort] = useState<SortKey>("name");
+  const [query, setQuery] = useState(() => getString(initialParams, "q"));
+  const [category, setCategory] = useState<Category | "all">(() => {
+    const c = getString(initialParams, "cat");
+    return CATEGORIES.includes(c as Category) ? (c as Category) : "all";
+  });
+  const [selectedFoundries, setSelectedFoundries] = useState<Set<string>>(
+    () => new Set(getAll(initialParams, "foundry"))
+  );
+  const [selectedUseCases, setSelectedUseCases] = useState<Set<string>>(
+    () => new Set(getAll(initialParams, "use"))
+  );
+  const [selectedStyles, setSelectedStyles] = useState<Set<string>>(
+    () => new Set(getAll(initialParams, "style"))
+  );
+  const [condensedOnly, setCondensedOnly] = useState(() => getString(initialParams, "condensed") === "1");
+  const [italicOnly, setItalicOnly] = useState(() => getString(initialParams, "italic") === "1");
+  const [monoOnly, setMonoOnly] = useState(() => getString(initialParams, "mono") === "1");
+  const [variableOnly, setVariableOnly] = useState(() => getString(initialParams, "variable") === "1");
+  const [wideOnly, setWideOnly] = useState(() => getString(initialParams, "wide") === "1");
+  const [opticalSizesOnly, setOpticalSizesOnly] = useState(() => getString(initialParams, "optical") === "1");
+  const [pricing, setPricing] = useState<"all" | "free" | "paid">(() => {
+    const p = getString(initialParams, "pricing");
+    return p === "free" || p === "paid" ? p : "all";
+  });
+  const [source, setSource] = useState<"all" | "foundry" | "reseller">(() => {
+    const s = getString(initialParams, "source");
+    return s === "foundry" || s === "reseller" ? s : "all";
+  });
+  const [sort, setSort] = useState<SortKey>(() => {
+    const s = getString(initialParams, "sort");
+    return s === "foundry" || s === "year-desc" || s === "year-asc" ? s : "name";
+  });
   const [visibleCount, setVisibleCount] = useState(60);
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const loadMoreRef = useRef<HTMLDivElement>(null);
+
+  // Sync filter state to URL without adding browser history entries
+  useEffect(() => {
+    const params = new URLSearchParams();
+    if (query) params.set("q", query);
+    if (category !== "all") params.set("cat", category);
+    selectedFoundries.forEach((f) => params.append("foundry", f));
+    selectedUseCases.forEach((u) => params.append("use", u));
+    selectedStyles.forEach((s) => params.append("style", s));
+    if (condensedOnly) params.set("condensed", "1");
+    if (italicOnly) params.set("italic", "1");
+    if (monoOnly) params.set("mono", "1");
+    if (variableOnly) params.set("variable", "1");
+    if (wideOnly) params.set("wide", "1");
+    if (opticalSizesOnly) params.set("optical", "1");
+    if (pricing !== "all") params.set("pricing", pricing);
+    if (source !== "all") params.set("source", source);
+    if (sort !== "name") params.set("sort", sort);
+    const qs = params.toString();
+    window.history.replaceState(null, "", qs ? `/?${qs}` : "/");
+  }, [query, category, selectedFoundries, selectedUseCases, selectedStyles, condensedOnly, italicOnly, monoOnly, variableOnly, wideOnly, opticalSizesOnly, pricing, source, sort]);
 
   const activeFilterCount =
     (category !== "all" ? 1 : 0) +
