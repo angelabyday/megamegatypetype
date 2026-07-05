@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import { Menu, X } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { SubmitFoundryButton } from "@/components/submit-foundry-dialog";
+import { SignInButton, Show, UserButton } from "@clerk/nextjs";
 
 const NAV_LINKS = [
   { href: "/foundries", label: "Foundries" },
@@ -25,8 +26,7 @@ export function NavMenu() {
   return (
     <>
       {/* Desktop nav */}
-      <div className="hidden sm:flex items-center gap-4">
-        <ThemeToggle />
+      <div className="hidden sm:flex items-center gap-3">
         <nav className="flex items-center gap-0 rounded-full bg-foreground text-background text-sm overflow-hidden">
           {NAV_LINKS.map((link, i) => (
             <span key={link.href} className="contents">
@@ -39,6 +39,17 @@ export function NavMenu() {
           <span className="w-px self-stretch bg-background/20" aria-hidden="true" />
           <SubmitFoundryButton />
         </nav>
+        <ThemeToggle />
+        <Show when="signed-in">
+          <UserButton />
+        </Show>
+        <Show when="signed-out">
+          <SignInButton mode="modal">
+            <button className="text-sm px-3 py-1.5 rounded-full border-[0.5px] border-border hover:bg-muted transition-colors">
+              Sign in
+            </button>
+          </SignInButton>
+        </Show>
       </div>
 
       {/* Mobile nav trigger */}

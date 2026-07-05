@@ -10,8 +10,8 @@
     },
     {
       "name": "dev",
-      "runtimeExecutable": "pnpm",
-      "runtimeArgs": ["dev", "--port", "4400"],
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--", "--port", "4400"],
       "port": 4400,
       "autoPort": true
     }
