@@ -12,7 +12,7 @@ export async function POST(request: Request) {
 
   try {
     await resend.emails.send({
-      from: "MegaMegaTypeType <submissions@megamegatypetype.xyz>",
+      from: "MegaMegaTypeType <submissions@send.megamegatypetype.xyz>",
       to: "angela@loveandlogic.co.uk",
       subject: `Takedown / correction request — ${foundry}`,
       text: [
