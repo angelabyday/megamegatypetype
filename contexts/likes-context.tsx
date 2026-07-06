@@ -27,7 +27,7 @@ export function LikesProvider({ children }: { children: React.ReactNode }) {
   useEffect(() => {
     if (!isLoaded || !isSignedIn) return;
     fetch("/api/likes")
-      .then((r) => r.json())
+      .then((r) => r.ok ? r.json() : Promise.resolve({ liked: [] }))
       .then((data) => setLikes(data.liked ?? []));
   }, [isLoaded, isSignedIn]);
 

@@ -9,7 +9,7 @@ export async function GET() {
   const result = await sql`
     SELECT foundry_slug, typeface_slug FROM liked_fonts
     WHERE user_id = ${userId}
-    ORDER BY position ASC, created_at ASC
+    ORDER BY created_at ASC
   `;
   return NextResponse.json({
     liked: result.rows.map((r) => ({
@@ -40,13 +40,9 @@ export async function POST(req: NextRequest) {
     `;
     return NextResponse.json({ liked: false });
   } else {
-    const posResult = await sql`
-      SELECT COALESCE(MAX(position) + 1, 0) AS pos FROM liked_fonts WHERE user_id = ${userId}
-    `;
-    const position = posResult.rows[0].pos as number;
-    await sql`
-      INSERT INTO liked_fonts (user_id, foundry_slug, typeface_slug, position)
-      VALUES (${userId}, ${foundrySlug}, ${typefaceSlug}, ${position})
+      await sql`
+      INSERT INTO liked_fonts (user_id, foundry_slug, typeface_slug)
+      VALUES (${userId}, ${foundrySlug}, ${typefaceSlug})
     `;
     return NextResponse.json({ liked: true });
   }

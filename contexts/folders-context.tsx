@@ -41,7 +41,7 @@ export function FoldersProvider({ children }: { children: React.ReactNode }) {
   useEffect(() => {
     if (!isLoaded || !isSignedIn) return;
     fetch("/api/folders")
-      .then((r) => r.json())
+      .then((r) => r.ok ? r.json() : Promise.resolve({ folders: [] }))
       .then((data) => setFolders(data.folders ?? []));
   }, [isLoaded, isSignedIn]);
 

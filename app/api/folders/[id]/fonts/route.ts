@@ -21,14 +21,9 @@ export async function POST(
     return NextResponse.json({ error: "Not found" }, { status: 404 });
   }
 
-  const posResult = await sql`
-    SELECT COALESCE(MAX(position) + 1, 0) AS pos FROM folder_fonts WHERE folder_id = ${folderId}
-  `;
-  const position = posResult.rows[0].pos as number;
-
   await sql`
-    INSERT INTO folder_fonts (folder_id, foundry_slug, typeface_slug, position)
-    VALUES (${folderId}, ${foundrySlug}, ${typefaceSlug}, ${position})
+    INSERT INTO folder_fonts (folder_id, foundry_slug, typeface_slug)
+    VALUES (${folderId}, ${foundrySlug}, ${typefaceSlug})
     ON CONFLICT DO NOTHING
   `;
   return NextResponse.json({ ok: true });
