@@ -5,9 +5,10 @@ import {
   DndContext,
   DragEndEvent,
   PointerSensor,
+  TouchSensor,
   useSensor,
   useSensors,
-  closestCenter,
+  pointerWithin,
 } from "@dnd-kit/core";
 import { SortableContext, verticalListSortingStrategy } from "@dnd-kit/sortable";
 import { Plus } from "lucide-react";
@@ -22,7 +23,10 @@ export default function FavouritesPage() {
   const [newFolderName, setNewFolderName] = useState("");
   const [creating, setCreating] = useState(false);
 
-  const sensors = useSensors(useSensor(PointerSensor, { activationConstraint: { distance: 8 } }));
+  const sensors = useSensors(
+    useSensor(PointerSensor, { activationConstraint: { distance: 8 } }),
+    useSensor(TouchSensor, { activationConstraint: { delay: 200, tolerance: 8 } })
+  );
 
   function handleDragEnd(event: DragEndEvent) {
     const { active, over } = event;
@@ -64,12 +68,12 @@ export default function FavouritesPage() {
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-8 sm:px-6">
-      <DndContext sensors={sensors} collisionDetection={closestCenter} onDragEnd={handleDragEnd}>
+      <DndContext sensors={sensors} collisionDetection={pointerWithin} onDragEnd={handleDragEnd}>
         {/* Liked fonts */}
         <section className="mb-12">
           <div className="flex items-center justify-between mb-4">
             <h1 className="text-lg font-bold">
-              Liked fonts
+              Type cabinet
               {likes.length > 0 && (
                 <span className="ml-2 text-sm font-normal text-muted-foreground">{likes.length}</span>
               )}

@@ -24,6 +24,11 @@ export function TypefaceCard({ typeface, priority }: { typeface: DirectoryEntry;
   return (
     <div className="relative group border-[0.5px] border-border overflow-hidden rounded-[12px]">
       <CompareButton item={compareItem} />
+      <LikeButton
+        foundrySlug={typeface.foundrySlug}
+        typefaceSlug={typeface.slug}
+        className="absolute top-2 right-10 z-10"
+      />
       <Link
         href={detailUrl}
         className="block transition-colors hover:bg-muted/50"
@@ -78,13 +83,10 @@ export function TypefaceCard({ typeface, priority }: { typeface: DirectoryEntry;
           href={typeface.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="flex-1 py-3 text-xs font-medium text-center border-r-[0.5px] border-border bg-foreground text-background hover:opacity-80 transition-opacity"
+          className="flex-1 py-3 text-xs font-medium text-center bg-foreground text-background hover:opacity-80 transition-opacity"
         >
           Get the font
         </a>
-        <div className="flex items-center justify-center px-1 bg-foreground">
-          <LikeButton foundrySlug={typeface.foundrySlug} typefaceSlug={typeface.slug} />
-        </div>
       </div>
     </div>
   );

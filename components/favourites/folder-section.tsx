@@ -93,7 +93,11 @@ export function FolderSection({ folder }: { folder: Folder }) {
               <Pencil className="h-3.5 w-3.5" />
             </button>
             <button
-              onClick={() => deleteFolder(folder.id)}
+              onClick={() => {
+                if (confirm(`Delete folder "${folder.name}"? Fonts inside will not be deleted.`)) {
+                  deleteFolder(folder.id);
+                }
+              }}
               className="text-muted-foreground hover:text-red-500"
               aria-label="Delete folder"
             >

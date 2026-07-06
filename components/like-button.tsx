@@ -16,6 +16,7 @@ export function LikeButton({ foundrySlug, typefaceSlug, className }: LikeButtonP
 
   return (
     <button
+      type="button"
       onClick={(e) => {
         e.preventDefault();
         e.stopPropagation();
@@ -23,10 +24,10 @@ export function LikeButton({ foundrySlug, typefaceSlug, className }: LikeButtonP
       }}
       aria-label={liked ? "Unlike" : "Like"}
       className={cn(
-        "flex items-center justify-center rounded-full p-1.5 transition-colors",
+        "flex h-7 w-7 items-center justify-center rounded-full transition-all",
         liked
-          ? "text-red-500 hover:text-red-400"
-          : "text-background/70 hover:text-background",
+          ? "bg-foreground text-background opacity-100"
+          : "bg-background/80 text-foreground opacity-0 group-hover:opacity-100",
         className
       )}
     >

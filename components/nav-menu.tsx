@@ -2,10 +2,11 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { Menu, X } from "lucide-react";
+import { Menu, X, Heart } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { SubmitFoundryButton } from "@/components/submit-foundry-dialog";
 import { SignInButton, Show, UserButton } from "@clerk/nextjs";
+import { useRouter } from "next/navigation";
 
 const NAV_LINKS = [
   { href: "/foundries", label: "Foundries" },
@@ -16,6 +17,7 @@ const NAV_LINKS = [
 
 export function NavMenu() {
   const [open, setOpen] = useState(false);
+  const router = useRouter();
 
   useEffect(() => {
     if (open) document.body.style.overflow = "hidden";
@@ -41,7 +43,21 @@ export function NavMenu() {
         </nav>
         <ThemeToggle />
         <Show when="signed-in">
-          <UserButton />
+          <UserButton
+            appearance={{
+              elements: {
+                avatarBox: "ring-1 ring-border",
+              },
+            }}
+          >
+            <UserButton.MenuItems>
+              <UserButton.Action
+                label="Type cabinet"
+                labelIcon={<Heart className="h-4 w-4" />}
+                onClick={() => router.push("/favourites")}
+              />
+            </UserButton.MenuItems>
+          </UserButton>
         </Show>
         <Show when="signed-out">
           <SignInButton mode="modal">
