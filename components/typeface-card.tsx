@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Badge } from "@/components/ui/badge";
 import { CompareButton } from "@/components/compare-button";
+import { LikeButton } from "@/components/like-button";
 import specimens from "@/lib/specimens.json";
 import type { DirectoryEntry } from "@/lib/typefaces";
 export function hasSpecimen(foundrySlug: string, slug: string): boolean {
@@ -66,7 +67,7 @@ export function TypefaceCard({ typeface, priority }: { typeface: DirectoryEntry;
       </Link>
 
       {/* Action bar – slides up from below on hover */}
-      <div className="absolute inset-x-0 bottom-0 translate-y-full group-hover:translate-y-0 transition-transform duration-200 flex border-t-[0.5px] border-border rounded-b-[12px] overflow-hidden">
+      <div className="absolute inset-x-0 bottom-0 translate-y-full group-hover:translate-y-0 transition-transform duration-200 flex items-stretch border-t-[0.5px] border-border rounded-b-[12px] overflow-hidden">
         <Link
           href={detailUrl}
           className="flex-1 py-3 text-xs font-medium text-center border-r-[0.5px] border-border bg-foreground text-background hover:opacity-80 transition-opacity"
@@ -77,10 +78,13 @@ export function TypefaceCard({ typeface, priority }: { typeface: DirectoryEntry;
           href={typeface.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="flex-1 py-3 text-xs font-medium text-center bg-foreground text-background hover:opacity-80 transition-opacity"
+          className="flex-1 py-3 text-xs font-medium text-center border-r-[0.5px] border-border bg-foreground text-background hover:opacity-80 transition-opacity"
         >
           Get the font
         </a>
+        <div className="flex items-center justify-center px-1 bg-foreground">
+          <LikeButton foundrySlug={typeface.foundrySlug} typefaceSlug={typeface.slug} />
+        </div>
       </div>
     </div>
   );
