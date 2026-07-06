@@ -161,7 +161,7 @@ export function FolderSection({ folder }: { folder: Folder }) {
         ref={setDropRef}
         className={`min-h-24 rounded-xl border-[0.5px] transition-colors ${
           isOver
-            ? "border-foreground bg-muted/60"
+            ? "border-foreground bg-foreground/10"
             : fonts.length === 0
             ? "border-dashed border-border"
             : "border-transparent"
