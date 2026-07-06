@@ -9,12 +9,14 @@ type LikesContextValue = {
   likes: LikeKey[];
   isLiked: (foundrySlug: string, typefaceSlug: string) => boolean;
   toggle: (foundrySlug: string, typefaceSlug: string) => Promise<void>;
+  reorderLikes: (orderedItems: LikeKey[]) => Promise<void>;
 };
 
 const LikesContext = createContext<LikesContextValue>({
   likes: [],
   isLiked: () => false,
   toggle: async () => {},
+  reorderLikes: async () => {},
 });
 
 export function LikesProvider({ children }: { children: React.ReactNode }) {
@@ -65,8 +67,17 @@ export function LikesProvider({ children }: { children: React.ReactNode }) {
     [isSignedIn, likes, openSignIn]
   );
 
+  const reorderLikes = useCallback(async (orderedItems: LikeKey[]) => {
+    setLikes(orderedItems);
+    fetch("/api/likes", {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ orderedItems }),
+    }).catch(() => {});
+  }, []);
+
   return (
-    <LikesContext.Provider value={{ likes, isLiked, toggle }}>
+    <LikesContext.Provider value={{ likes, isLiked, toggle, reorderLikes }}>
       {children}
     </LikesContext.Provider>
   );

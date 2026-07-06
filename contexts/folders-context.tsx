@@ -20,6 +20,7 @@ type FoldersContextValue = {
   addToFolder: (folderId: number, foundrySlug: string, typefaceSlug: string) => Promise<void>;
   removeFromFolder: (folderId: number, foundrySlug: string, typefaceSlug: string) => Promise<void>;
   reorderFolders: (orderedIds: number[]) => Promise<void>;
+  reorderFontsInFolder: (folderId: number, orderedFonts: FolderFont[]) => Promise<void>;
 };
 
 const FoldersContext = createContext<FoldersContextValue>({
@@ -30,6 +31,7 @@ const FoldersContext = createContext<FoldersContextValue>({
   addToFolder: async () => {},
   removeFromFolder: async () => {},
   reorderFolders: async () => {},
+  reorderFontsInFolder: async () => {},
 });
 
 export function FoldersProvider({ children }: { children: React.ReactNode }) {
@@ -127,9 +129,20 @@ export function FoldersProvider({ children }: { children: React.ReactNode }) {
     );
   }, []);
 
+  const reorderFontsInFolder = useCallback(async (folderId: number, orderedFonts: FolderFont[]) => {
+    setFolders((prev) =>
+      prev.map((f) => (f.id === folderId ? { ...f, fonts: orderedFonts } : f))
+    );
+    fetch(`/api/folders/${folderId}/fonts`, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ orderedItems: orderedFonts }),
+    }).catch(() => {});
+  }, []);
+
   return (
     <FoldersContext.Provider
-      value={{ folders, createFolder, renameFolder, deleteFolder, addToFolder, removeFromFolder, reorderFolders }}
+      value={{ folders, createFolder, renameFolder, deleteFolder, addToFolder, removeFromFolder, reorderFolders, reorderFontsInFolder }}
     >
       {children}
     </FoldersContext.Provider>

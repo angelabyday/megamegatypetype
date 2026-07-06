@@ -7,7 +7,9 @@ export async function GET() {
   if (!userId) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
 
   const result = await sql`
-    SELECT foundry_slug, typeface_slug FROM liked_fonts WHERE user_id = ${userId}
+    SELECT foundry_slug, typeface_slug FROM liked_fonts
+    WHERE user_id = ${userId}
+    ORDER BY position ASC, created_at ASC
   `;
   return NextResponse.json({
     liked: result.rows.map((r) => ({
@@ -38,10 +40,29 @@ export async function POST(req: NextRequest) {
     `;
     return NextResponse.json({ liked: false });
   } else {
+    const posResult = await sql`
+      SELECT COALESCE(MAX(position) + 1, 0) AS pos FROM liked_fonts WHERE user_id = ${userId}
+    `;
+    const position = posResult.rows[0].pos as number;
     await sql`
-      INSERT INTO liked_fonts (user_id, foundry_slug, typeface_slug)
-      VALUES (${userId}, ${foundrySlug}, ${typefaceSlug})
+      INSERT INTO liked_fonts (user_id, foundry_slug, typeface_slug, position)
+      VALUES (${userId}, ${foundrySlug}, ${typefaceSlug}, ${position})
     `;
     return NextResponse.json({ liked: true });
   }
+}
+
+export async function PUT(req: NextRequest) {
+  const { userId } = await auth();
+  if (!userId) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+
+  const { orderedItems } = await req.json() as { orderedItems: { foundrySlug: string; typefaceSlug: string }[] };
+
+  await Promise.all(
+    orderedItems.map(({ foundrySlug, typefaceSlug }, i) =>
+      sql`UPDATE liked_fonts SET position = ${i} WHERE user_id = ${userId} AND foundry_slug = ${foundrySlug} AND typeface_slug = ${typefaceSlug}`
+    )
+  );
+
+  return NextResponse.json({ ok: true });
 }

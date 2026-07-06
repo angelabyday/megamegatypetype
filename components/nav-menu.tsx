@@ -38,6 +38,13 @@ export function NavMenu() {
               </Link>
             </span>
           ))}
+          <Show when="signed-in">
+            <span className="w-px self-stretch bg-background/20" aria-hidden="true" />
+            <Link href="/type-cabinet" className="px-4 py-1.5 hover:opacity-75 transition-opacity flex items-center gap-1.5">
+              <Heart className="h-3 w-3" />
+              Type cabinet
+            </Link>
+          </Show>
           <span className="w-px self-stretch bg-background/20" aria-hidden="true" />
           <SubmitFoundryButton />
         </nav>
@@ -54,7 +61,7 @@ export function NavMenu() {
               <UserButton.Action
                 label="Type cabinet"
                 labelIcon={<Heart className="h-4 w-4" />}
-                onClick={() => router.push("/favourites")}
+                onClick={() => router.push("/type-cabinet")}
               />
             </UserButton.MenuItems>
           </UserButton>
@@ -96,6 +103,14 @@ export function NavMenu() {
                   {link.label}
                 </Link>
               ))}
+              <Link
+                href="/type-cabinet"
+                onClick={() => setOpen(false)}
+                className="px-6 py-4 text-sm hover:bg-muted transition-colors flex items-center gap-2"
+              >
+                <Heart className="h-3.5 w-3.5" />
+                Type cabinet
+              </Link>
               <SubmitFoundryButton className="px-6 py-4 text-sm hover:bg-muted transition-colors text-left w-full" />
             </nav>
           </div>

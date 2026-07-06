@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { useDroppable } from "@dnd-kit/core";
-import { useSortable } from "@dnd-kit/sortable";
+import { useSortable, SortableContext, rectSortingStrategy } from "@dnd-kit/sortable";
 import { CSS } from "@dnd-kit/utilities";
 import { GripVertical, Pencil, Trash2, Check, X } from "lucide-react";
 import { useFolders, type Folder } from "@/contexts/folders-context";
@@ -12,13 +12,58 @@ import type { DirectoryEntry } from "@/lib/typefaces";
 
 const allTypefaces = getAllTypefaces().map(toDirectoryEntry);
 
+function SortableFolderFont({
+  typeface,
+  folderId,
+  onRemove,
+}: {
+  typeface: DirectoryEntry;
+  folderId: number;
+  onRemove: () => void;
+}) {
+  const {
+    attributes,
+    listeners,
+    setNodeRef,
+    transform,
+    transition,
+    isDragging,
+  } = useSortable({
+    id: `FF:${folderId}:${typeface.foundrySlug}/${typeface.slug}`,
+    data: { type: "folder-font", folderId, foundrySlug: typeface.foundrySlug, typefaceSlug: typeface.slug },
+  });
+
+  return (
+    <div
+      ref={setNodeRef}
+      style={{
+        transform: CSS.Transform.toString(transform),
+        transition,
+        opacity: isDragging ? 0.25 : 1,
+      }}
+      className="relative touch-none"
+    >
+      <div {...listeners} {...attributes} className="cursor-grab active:cursor-grabbing">
+        <TypefaceCard typeface={typeface} />
+      </div>
+      <button
+        onClick={onRemove}
+        className="absolute top-2 right-2 z-20 rounded-full bg-background/80 p-1 text-muted-foreground hover:text-foreground transition-colors"
+        aria-label="Remove from folder"
+      >
+        <X className="h-3 w-3" />
+      </button>
+    </div>
+  );
+}
+
 export function FolderSection({ folder }: { folder: Folder }) {
   const { renameFolder, deleteFolder, removeFromFolder } = useFolders();
   const [editing, setEditing] = useState(false);
   const [nameValue, setNameValue] = useState(folder.name);
 
   const { setNodeRef: setDropRef, isOver } = useDroppable({
-    id: `folder-${folder.id}`,
+    id: `FZ:${folder.id}`,
     data: { folderId: folder.id },
   });
 
@@ -29,7 +74,7 @@ export function FolderSection({ folder }: { folder: Folder }) {
     transform,
     transition,
     isDragging,
-  } = useSortable({ id: `folder-${folder.id}` });
+  } = useSortable({ id: `F:${folder.id}` });
 
   const style = {
     transform: CSS.Transform.toString(transform),
@@ -42,6 +87,10 @@ export function FolderSection({ folder }: { folder: Folder }) {
       allTypefaces.find((t) => t.foundrySlug === foundrySlug && t.slug === typefaceSlug)
     )
     .filter(Boolean) as DirectoryEntry[];
+
+  const fontIds = folder.fonts.map(
+    (ff) => `FF:${folder.id}:${ff.foundrySlug}/${ff.typefaceSlug}`
+  );
 
   const handleRename = () => {
     if (nameValue.trim() && nameValue.trim() !== folder.name) {
@@ -58,7 +107,7 @@ export function FolderSection({ folder }: { folder: Folder }) {
           className="text-muted-foreground hover:text-foreground cursor-grab active:cursor-grabbing"
           {...attributes}
           {...listeners}
-          aria-label="Drag to reorder"
+          aria-label="Drag to reorder folder"
         >
           <GripVertical className="h-4 w-4" />
         </button>
@@ -123,20 +172,18 @@ export function FolderSection({ folder }: { folder: Folder }) {
             Drag fonts here
           </p>
         ) : (
-          <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {fonts.map((typeface) => (
-              <div key={`${typeface.foundrySlug}/${typeface.slug}`} className="relative">
-                <TypefaceCard typeface={typeface} />
-                <button
-                  onClick={() => removeFromFolder(folder.id, typeface.foundrySlug, typeface.slug)}
-                  className="absolute top-2 right-2 rounded-full bg-background/80 p-1 text-muted-foreground hover:text-foreground"
-                  aria-label="Remove from folder"
-                >
-                  <X className="h-3 w-3" />
-                </button>
-              </div>
-            ))}
-          </div>
+          <SortableContext items={fontIds} strategy={rectSortingStrategy}>
+            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {fonts.map((typeface) => (
+                <SortableFolderFont
+                  key={`${typeface.foundrySlug}/${typeface.slug}`}
+                  typeface={typeface}
+                  folderId={folder.id}
+                  onRemove={() => removeFromFolder(folder.id, typeface.foundrySlug, typeface.slug)}
+                />
+              ))}
+            </div>
+          </SortableContext>
         )}
       </div>
     </div>

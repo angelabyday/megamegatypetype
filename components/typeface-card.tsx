@@ -3,8 +3,10 @@ import Link from "next/link";
 import { Badge } from "@/components/ui/badge";
 import { CompareButton } from "@/components/compare-button";
 import { LikeButton } from "@/components/like-button";
+import { FolderButton } from "@/components/folder-button";
 import specimens from "@/lib/specimens.json";
 import type { DirectoryEntry } from "@/lib/typefaces";
+
 export function hasSpecimen(foundrySlug: string, slug: string): boolean {
   return Boolean((specimens as Record<string, boolean>)[`${foundrySlug}/${slug}`]);
 }
@@ -23,12 +25,19 @@ export function TypefaceCard({ typeface, priority }: { typeface: DirectoryEntry;
 
   return (
     <div className="relative group border-[0.5px] border-border overflow-hidden rounded-[12px]">
+      {/* Top-right button cluster: compare, like, folder+ */}
       <CompareButton item={compareItem} />
       <LikeButton
         foundrySlug={typeface.foundrySlug}
         typefaceSlug={typeface.slug}
         className="absolute top-2 right-10 z-10"
       />
+      <FolderButton
+        foundrySlug={typeface.foundrySlug}
+        typefaceSlug={typeface.slug}
+        className="absolute top-2 right-[4.5rem] z-10"
+      />
+
       <Link
         href={detailUrl}
         className="block transition-colors hover:bg-muted/50"

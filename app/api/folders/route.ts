@@ -17,7 +17,7 @@ export async function GET() {
   let fontsByFolder: Record<number, { foundrySlug: string; typefaceSlug: string }[]> = {};
   if (folderIds.length > 0) {
     const fontsResult = await sql.query(
-      "SELECT folder_id, foundry_slug, typeface_slug FROM folder_fonts WHERE folder_id = ANY($1::int[]) ORDER BY created_at ASC",
+      "SELECT folder_id, foundry_slug, typeface_slug FROM folder_fonts WHERE folder_id = ANY($1::int[]) ORDER BY position ASC, created_at ASC",
       [folderIds]
     );
     for (const row of fontsResult.rows) {

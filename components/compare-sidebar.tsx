@@ -2,17 +2,24 @@
 
 import { useEffect, useState } from "react";
 import { createPortal } from "react-dom";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
-import { X, ArrowRight, Columns2, ChevronRight } from "lucide-react";
+import { X, ArrowRight, Columns2, ChevronRight, FolderPlus } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useCompare } from "@/contexts/compare-context";
+import { useFolders } from "@/contexts/folders-context";
+import { useAuth } from "@clerk/nextjs";
 
 export function CompareSidebar() {
   const { items, remove, clear } = useCompare();
+  const { createFolder, addToFolder } = useFolders();
+  const { isSignedIn } = useAuth();
+  const router = useRouter();
   const [mounted, setMounted] = useState(false);
   const [collapsed, setCollapsed] = useState(false);
+  const [savingFolder, setSavingFolder] = useState(false);
+  const [folderName, setFolderName] = useState("");
   const pathname = usePathname();
 
   useEffect(() => { setMounted(true); }, []);
@@ -28,7 +35,18 @@ export function CompareSidebar() {
 
   const compareUrl = `/compare?t=${items.map((i) => `${i.foundrySlug}/${i.slug}`).join("&t=")}`;
 
-  // Collapsed: show a small tab on the right edge
+  const handleSaveAsFolder = async () => {
+    const name = folderName.trim() || "Compare";
+    const folder = await createFolder(name);
+    if (!folder) return;
+    await Promise.all(items.map((i) => addToFolder(folder.id, i.foundrySlug, i.slug)));
+    setSavingFolder(false);
+    setFolderName("");
+    clear();
+    router.push("/type-cabinet");
+  };
+
+  // Collapsed: small tab on right edge
   if (collapsed) {
     return createPortal(
       <button
@@ -46,7 +64,7 @@ export function CompareSidebar() {
 
   return createPortal(
     <div className="fixed top-0 right-0 h-full z-40 flex flex-col bg-background border-l-[0.5px] border-border shadow-2xl w-72 translate-x-0 transition-transform duration-300">
-      {/* Collapse button — sits in the nav-height zone at the very top */}
+      {/* Collapse button */}
       <div className="h-[57px] flex items-center justify-end px-3 shrink-0">
         <button
           type="button"
@@ -112,7 +130,7 @@ export function CompareSidebar() {
       </div>
 
       {/* Footer */}
-      <div className="px-4 py-4 border-t-[0.5px] border-border shrink-0">
+      <div className="px-4 py-4 border-t-[0.5px] border-border shrink-0 space-y-2">
         <Link
           href={compareUrl}
           className="flex w-full items-center justify-center gap-2 rounded-full bg-foreground text-background px-4 py-2.5 text-sm font-medium hover:bg-foreground/90 transition-colors"
@@ -120,6 +138,38 @@ export function CompareSidebar() {
           View Compare Sheet
           <ArrowRight className="h-4 w-4" />
         </Link>
+
+        {isSignedIn && (
+          savingFolder ? (
+            <div className="flex items-center gap-2">
+              <input
+                autoFocus
+                value={folderName}
+                onChange={(e) => setFolderName(e.target.value)}
+                onKeyDown={(e) => {
+                  if (e.key === "Enter") handleSaveAsFolder();
+                  if (e.key === "Escape") { setSavingFolder(false); setFolderName(""); }
+                }}
+                placeholder="Folder name"
+                className="flex-1 min-w-0 text-sm border-[0.5px] border-border rounded-md px-3 py-1.5 bg-background outline-none focus:ring-1 ring-foreground"
+              />
+              <button
+                onClick={handleSaveAsFolder}
+                className="shrink-0 text-sm px-3 py-1.5 rounded-md bg-foreground text-background hover:opacity-80 transition-opacity"
+              >
+                Save
+              </button>
+            </div>
+          ) : (
+            <button
+              onClick={() => setSavingFolder(true)}
+              className="flex w-full items-center justify-center gap-2 rounded-full border-[0.5px] border-border px-4 py-2 text-sm hover:bg-muted transition-colors text-muted-foreground"
+            >
+              <FolderPlus className="h-3.5 w-3.5" />
+              Save as folder
+            </button>
+          )
+        )}
       </div>
     </div>,
     document.body
