@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Geo",
+    "foundry": "Lena Weber",
+    "url": "https://www.monomodular.de/geo.html",
+    "designer": "Lena Weber",
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental geometric sans",
+    "classification_notes": "An all-caps experimental sans-serif display typeface defined by its technical concept rather than conventional typographic construction. The emphasis on extreme anchor-point density produces letterforms of unusual structural complexity rather than a traditional classification character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Geo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "geometric",
+      "all-caps",
+      "sans-serif",
+      "conceptual",
+      "modular"
+    ],
+    "summary": "An experimental all-caps display font built around pushing font files to their anchor-point capacity.",
+    "description": "Geo is an all-caps experimental display typeface from Lena Weber's x*y Monomodular foundry. The concept centres on maximising the number of anchor points a font file can hold, producing letterforms of unusual structural complexity. The character set covers uppercase, numerals and basic punctuation only – there is no lowercase.",
+    "foundry_blurb": "GEO is described as an experimental font pushing the limits of how many anchor points a font file can store. The guiding idea, as the foundry puts it: nothing is set in stone."
+  },
+  {
+    "name": "Bezier",
+    "foundry": "Lena Weber",
+    "url": "https://www.monomodular.de/bezier.html",
+    "designer": "Lena Weber",
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental curvy display",
+    "classification_notes": "A curvy headline display typeface with a modular grid-based construction. Named for Bézier curve logic, the letterforms are defined by smooth rounded forms. A fixed-width companion (Bezier Mono) extends the family, but the primary face is display-oriented.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Bezier",
+      "Bezier Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Latin Extended"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "display",
+      "curvy",
+      "geometric",
+      "headline",
+      "modular",
+      "fixed-width-variant"
+    ],
+    "summary": "A curvy display typeface built on Bézier curve logic, with a fixed-width companion variant.",
+    "description": "Bezier is a headline display typeface with pronounced curves throughout, constructed on a 600×600-unit modular grid. The letterforms take their logic from Bézier curves, producing smooth rounded forms that sit apart from conventional display faces. A Bezier Mono companion extends the design into fixed-width territory, with coverage across full Latin and Latin Extended character sets.",
+    "foundry_blurb": "Bezier is a curvy typeface designed on a modular grid, covering the full Latin character range. A Bezier Mono companion brings the same rounded character to a fixed-width format."
+  },
+  {
+    "name": "Abraxas",
+    "foundry": "Lena Weber",
+    "url": "https://www.monomodular.de/abraxas.html",
+    "designer": "Lena Weber",
+    "year": null,
+    "category": "display",
+    "subcategory": "variable experimental display",
+    "classification_notes": "A variable typeface that spans from legible letterforms to abstract geometric squares as the variable axes shift. Sits at the boundary between typography and generative art; practical typesetting use is very limited.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Abraxas"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "experimental",
+      "display",
+      "generative",
+      "modular",
+      "geometric",
+      "abstract"
+    ],
+    "summary": "A variable hybrid font where letterforms progressively dissolve into unreadable geometric squares.",
+    "description": "Abraxas is a variable font from Lena Weber's x*y Monomodular foundry in which letterforms transition into abstract squares as the variable axes are pushed. Both uppercase and lowercase Latin are covered, built on a 600×600-unit modular grid with adjustable stretch and curve parameters. At readable settings it functions as a display face; at extremes it becomes a pattern generator.",
+    "foundry_blurb": "Abraxas is described as a variable hybrid font where the shapes transform into unreadable squares. The adjustable parameters for stretch and curves make it operate simultaneously as a typeface and a system for generating geometric patterns."
+  }
+]

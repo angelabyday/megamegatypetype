@@ -1,0 +1,423 @@
+[
+  {
+    "name": "LH Noggle Script",
+    "foundry": "Léon Hugues",
+    "url": "https://leon-hugues.fonts.xyz/lh-noggle-script/",
+    "designer": "Léon Hugues",
+    "year": null,
+    "category": "script",
+    "subcategory": "calligraphic display script",
+    "classification_notes": "The script companion in the three-part Noggle system (alongside the serif base and sans counterpart). Classified as a calligraphic script based on the naming convention and Hugues' documented practice of building related type voices from a shared calligraphic skeleton.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LH Noggle Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "calligraphic",
+      "display",
+      "experimental",
+      "handwritten",
+      "system"
+    ],
+    "summary": "A calligraphic script companion to the Noggle family, built from gestural pen-derived forms.",
+    "description": "LH Noggle Script is the third voice in Hugues' Noggle system, which pairs it with a serif base and a sans companion. Where the other two variants work with constructed letterforms, the Script introduces gestural, pen-drawn movement. The design sits within Hugues' practice of exploring handwritten-inspired forms without literal calligraphy reproduction.",
+    "foundry_blurb": "LH Fonts is an exploratory type practice led by Léon Hugues. Each design emerges from experimentation with gesture, rhythm and movement, exploring irregularity, personality and the nuances of handwritten-inspired forms in a digital and print world."
+  },
+  {
+    "name": "LH Noggle Sans",
+    "foundry": "Léon Hugues",
+    "url": "https://leon-hugues.fonts.xyz/lh-noggle-sans/",
+    "designer": "Léon Hugues",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "experimental display sans",
+    "classification_notes": "The sans-serif member of the Noggle family trio. Classified as sans-serif by designation; likely shares proportions and structural DNA with LH Noggle (serif base) and LH Noggle Script, the three forming a unified type system across different stylistic registers.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LH Noggle Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "display",
+      "experimental",
+      "system",
+      "companion",
+      "expressive"
+    ],
+    "summary": "The sans-serif counterpart to LH Noggle, completing a three-voice experimental type system.",
+    "description": "LH Noggle Sans strips the serif details from the base Noggle structure, providing a companion voice for mixed-family layouts. The trio of Noggle, Noggle Sans and Noggle Script gives designers three typographically distinct but formally related tools from a single design source. Consistent with Hugues' interest in taking a system to its limits.",
+    "foundry_blurb": "LH Fonts is an exploratory type practice led by Léon Hugues. Each design emerges from experimentation with gesture, rhythm and movement, exploring irregularity, personality and the nuances of handwritten-inspired forms in a digital and print world."
+  },
+  {
+    "name": "LH Noggle",
+    "foundry": "Léon Hugues",
+    "url": "https://leon-hugues.fonts.xyz/lh-noggle/",
+    "designer": "Léon Hugues",
+    "year": null,
+    "category": "serif",
+    "subcategory": "experimental display serif",
+    "classification_notes": "The serif base of the Noggle three-part family (Noggle, Noggle Sans, Noggle Script). Classified as serif by inference from the naming logic: when a type system includes a 'Sans' companion, the base is typically a serifed form. Hugues' calligraphic background suggests pen-derived contrast rather than formal historical revival.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LH Noggle",
+      "LH Noggle Sans",
+      "LH Noggle Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "experimental",
+      "calligraphic",
+      "system",
+      "expressive"
+    ],
+    "summary": "The serif base of Hugues' three-part Noggle system, designed with calligraphic formal logic.",
+    "description": "LH Noggle anchors a three-voice type system alongside a sans-serif and a script companion. Hugues' calligraphic training is visible in the letterform proportions, which draw on pen-influenced contrast rather than strict historical precedent. It suits display and editorial work where a degree of formal tension is wanted alongside typographic coherence.",
+    "foundry_blurb": "LH Fonts is an exploratory type practice led by Léon Hugues. Each design emerges from experimentation with gesture, rhythm and movement, exploring irregularity, personality and the nuances of handwritten-inspired forms in a digital and print world."
+  },
+  {
+    "name": "LH Toast Script",
+    "foundry": "Léon Hugues",
+    "url": "https://leon-hugues.fonts.xyz/lh-toast-script/",
+    "designer": "Léon Hugues",
+    "year": null,
+    "category": "script",
+    "subcategory": "high-contrast connected calligraphic script",
+    "classification_notes": "A fully connected calligraphic script with continuous letterform joins. Draws on Spencerian handwriting, copperplate and broad-nib calligraphic traditions. One of two complementary styles in the LH Toast family; the other (LH Toast Italic) disconnects the same letterforms into standalone editorial forms.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi",
+      "Bold",
+      "Black",
+      "Heavy",
+      "Ultra",
+      "Massive"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LH Toast Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "calligraphic",
+      "display",
+      "high-contrast",
+      "connected",
+      "luxury",
+      "editorial",
+      "swash"
+    ],
+    "summary": "A connected high-contrast script in 10 weights drawing on Spencerian and copperplate calligraphy.",
+    "description": "LH Toast Script is the connected-lettering half of the LH Toast family, with flowing joins and continuous movement across all 10 weights. The letterforms mix Spencerian handwriting, copperplate precision and broad-nib experiments, producing high-contrast curves and exaggerated swashes. A comprehensive set of alternates and eight stylistic sets lets the register shift from restrained editorial use to full decorative expression.",
+    "foundry_blurb": "LH Toast Script features fully connected lettering with flowing joins and continuous movement. A large set of alternates and swash variations lets the texture shift from understated luxury to full dramatic entrance, depending on the context or the designer's level of self-control."
+  },
+  {
+    "name": "LH Toast Italic",
+    "foundry": "Léon Hugues",
+    "url": "https://leon-hugues.fonts.xyz/lh-toast-italic/",
+    "designer": "Léon Hugues",
+    "year": null,
+    "category": "script",
+    "subcategory": "high-contrast disconnected calligraphic italic",
+    "classification_notes": "The disconnected counterpart to LH Toast Script. Though labelled Italic, it functions as a standalone calligraphic display typeface with separated letterforms rather than a traditional roman-with-italic pairing. High contrast and swash features remain consistent with the Script variant; the disconnected joins produce a calmer, more editorial voice.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi",
+      "Bold",
+      "Black",
+      "Heavy",
+      "Ultra",
+      "Massive"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LH Toast Italic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "italic",
+      "display",
+      "high-contrast",
+      "editorial",
+      "calligraphic",
+      "disconnected",
+      "luxury"
+    ],
+    "summary": "The disconnected editorial variant of LH Toast, trading flowing joins for standalone calligraphic letterforms.",
+    "description": "LH Toast Italic separates the continuous flow of LH Toast Script into individual letterforms while keeping the same calligraphic proportions, contrast and swash vocabulary. The result is calmer and more editorial – suited to layouts that need calligraphic energy without the formality of connected script. Available in the same 10 weights from Thin to Massive.",
+    "foundry_blurb": "LH Toast Italic disconnects the Script construction into more editorial standalone forms – calmer, cleaner and slightly more disciplined, at least in appearance. The same alternates and stylistic sets allow the same expressive range as the connected Script style."
+  },
+  {
+    "name": "LH Toast",
+    "foundry": "Léon Hugues",
+    "url": "https://leon-hugues.fonts.xyz/lh-toast/",
+    "designer": "Léon Hugues",
+    "year": null,
+    "category": "script",
+    "subcategory": "high-contrast calligraphic display script",
+    "classification_notes": "A display script family available in two complementary styles: Script (connected, flowing joins) and Italic (disconnected, editorial standalone forms). Both styles draw on Spencerian handwriting, copperplate and broad-nib calligraphy. High contrast with pronounced swash and alternate sets. Ten weights across both styles give considerable range.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi",
+      "Bold",
+      "Black",
+      "Heavy",
+      "Ultra",
+      "Massive"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LH Toast Script",
+      "LH Toast Italic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "calligraphic",
+      "display",
+      "high-contrast",
+      "luxury",
+      "editorial",
+      "swash",
+      "fashion"
+    ],
+    "summary": "A 10-weight display script in two distinct styles, spanning connected calligraphy to disconnected editorial forms.",
+    "description": "LH Toast sits somewhere between formal calligraphy, storefront lettering and luxury editorial typography. Mixing Spencerian handwriting, copperplate references and broad-nib technique, it produces high-contrast curves with exaggerated swashes and abrupt cuts. Two distinct styles – Script (connected) and Italic (disconnected) – give the family meaningfully different voices for different layout needs, all within a coherent 10-weight system.",
+    "foundry_blurb": "Toast is a display script family built somewhere between formal calligraphy, storefront lettering and slightly overconfident magazine typography. The project explores what happens when different calligraphic influences collide inside the same system, mixing Spencerian handwriting, copperplate references and broad-nib experiments into something sharper, stranger and more contemporary."
+  },
+  {
+    "name": "LH Stash Plain",
+    "foundry": "Léon Hugues",
+    "url": "https://leon-hugues.fonts.xyz/lh-stash-plain/",
+    "designer": "Léon Hugues",
+    "year": null,
+    "category": "display",
+    "subcategory": "layered display",
+    "classification_notes": "The solid-fill base layer of the LH Stash system. Classified as display based on its design intent as a headline and decorative typeface. The Plain, Stroke and Mix nomenclature is consistent with a layerable font system where individual files can be overlaid to create composite typographic effects.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LH Stash Plain"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "layered",
+      "headline",
+      "experimental",
+      "modular",
+      "solid"
+    ],
+    "summary": "The solid base layer of LH Stash, usable alone or combined with Stroke and Mix variants.",
+    "description": "LH Stash Plain provides the filled letterforms of Hugues' modular Stash system. Used alone it functions as a direct display typeface; aligned with LH Stash Stroke or LH Stash Mix it creates layered effects at headline scale. The design reflects Hugues' stated interest in building type that exhausts its formal potential within a tightly defined system.",
+    "foundry_blurb": "LH Stash Plain is the filled layer of the Stash system, an experimental display typeface built for layering. Part of Léon Hugues' LH Fonts practice, where each design emerges from experimentation with gesture, rhythm and movement."
+  },
+  {
+    "name": "LH Stash Stroke",
+    "foundry": "Léon Hugues",
+    "url": "https://leon-hugues.fonts.xyz/lh-stash-stroke/",
+    "designer": "Léon Hugues",
+    "year": null,
+    "category": "display",
+    "subcategory": "layered outline display",
+    "classification_notes": "The outline or stroke-only layer of the LH Stash system. Classified as display based on its decorative and headline-scale orientation. In context with the Plain and Mix companions, Stroke provides the open skeletal or contour form of the letterforms for use in overlay effects.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LH Stash Stroke"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "layered",
+      "outline",
+      "stroke",
+      "experimental",
+      "headline",
+      "inline"
+    ],
+    "summary": "The outline layer of LH Stash, designed for standalone use or overlay with the Plain and Mix variants.",
+    "description": "LH Stash Stroke renders the Stash letterforms as open outlines rather than solid fills. It can function independently as a light or inline display face, and creates contrast and depth when registered over LH Stash Plain in large headline applications. The layering approach allows typographic dimension without illustration work.",
+    "foundry_blurb": "LH Stash Stroke is the outlined layer of the Stash system, designed to be used on its own or combined with Plain and Mix variants for layered typographic effects. Part of Léon Hugues' LH Fonts exploratory type practice."
+  },
+  {
+    "name": "LH Stash Mix",
+    "foundry": "Léon Hugues",
+    "url": "https://leon-hugues.fonts.xyz/lh-stash-mix/",
+    "designer": "Léon Hugues",
+    "year": null,
+    "category": "display",
+    "subcategory": "layered inline display",
+    "classification_notes": "The combined layer within the LH Stash system, incorporating elements of both the Plain (filled) and Stroke (outline) variants. Functions as a self-contained inline or compound display typeface as well as a third overlay layer when all three Stash variants are used together.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LH Stash Mix"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "layered",
+      "inline",
+      "combined",
+      "experimental",
+      "headline",
+      "decorative"
+    ],
+    "summary": "A combined fill-and-stroke variant providing the full Stash layer effect within a single font file.",
+    "description": "LH Stash Mix merges the solid and outlined treatments of the Stash family into a single typeface, delivering the layered composite look without needing to overlay multiple files. It suits designers who want the system's decorative effect without the precision of exact layer registration. Part of Hugues' wider interest in taking typographic systems through formal extremes.",
+    "foundry_blurb": "LH Stash Mix brings together the Plain and Stroke layers into a single combined style, providing the layered Stash effect in one font file. Part of the LH Stash system and Léon Hugues' LH Fonts exploratory type practice."
+  },
+  {
+    "name": "LH Stash",
+    "foundry": "Léon Hugues",
+    "url": "https://leon-hugues.fonts.xyz/lh-stash/",
+    "designer": "Léon Hugues",
+    "year": null,
+    "category": "display",
+    "subcategory": "layered modular display",
+    "classification_notes": "The umbrella family for three layerable display variants: Plain (solid fill), Stroke (outline) and Mix (combined). Classified as display based on the headline and decorative intent of the system. The three-layer structure is consistent with constructed or inline display type traditions, adapted as a contemporary modular font system.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LH Stash Plain",
+      "LH Stash Stroke",
+      "LH Stash Mix"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "layered",
+      "modular",
+      "headline",
+      "experimental",
+      "decorative",
+      "system"
+    ],
+    "summary": "A three-layer modular display family with Plain, Stroke and Mix variants designed for composite headline use.",
+    "description": "LH Stash is Hugues' modular display system built around three interlocking layers: Plain (solid fill), Stroke (outline) and Mix (the two combined). Each variant works independently as a display typeface and can be aligned over the others for dimensional headline effects. The system extends Hugues' documented interest in exhausting a type concept's formal potential before moving on.",
+    "foundry_blurb": "LH Stash is a display type system built for layering. The three variants – Plain, Stroke and Mix – can each be used independently or combined to create layered typographic effects. Part of Léon Hugues' exploratory LH Fonts practice, where each design emerges from experimentation with gesture, rhythm and movement."
+  }
+]

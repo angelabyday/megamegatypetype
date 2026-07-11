@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Onlysans",
+    "foundry": "Daria Cohen",
+    "url": "https://contemporarytype.com/fonts/onlysans",
+    "designer": "Daria Cohen",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "post-geometric sans",
+    "classification_notes": "Post-geometric in that it builds on a strict grid and geometric principles but introduces deliberate irregularities and mischievous details. Duplexed – all letters maintain identical advance widths across every weight – which echoes rationalist sans traditions while consciously rejecting timelessness as a design goal.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "XBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Onlysans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "variable",
+      "duplexed",
+      "post-geometric",
+      "branding",
+      "interface",
+      "contemporary",
+      "playful"
+    ],
+    "summary": "A duplexed post-geometric sans that pairs disciplined grid-work with deliberately mischievous details.",
+    "description": "Onlysans maintains identical letter widths across all weights – a property called duplexing – giving it an unusual rhythmic consistency regardless of weight. Its forms appear clean and grid-based yet carry playful alternates, contrasting corner treatments and a conscious refusal to be timeless. Well suited to branding and interface work where precision and light eccentricity need to coexist.",
+    "foundry_blurb": "Daria Cohen describes Onlysans as a post-geometric sans that looks rational, clean and modern but hides strange mischievous details. Because it is duplexed, letters occupy the same space at every weight – a futile attempt at stability, she says. It was designed for branding, interfaces and projects that call for strange precision with a touch of entropy, and is explicitly not meant to be timeless."
+  },
+  {
+    "name": "Superfluous",
+    "foundry": "Daria Cohen",
+    "url": "https://www.futurefonts.com/daria-cohen/superfluous",
+    "designer": "Daria Cohen",
+    "year": null,
+    "category": "script",
+    "subcategory": "naive script",
+    "classification_notes": "A hand-drawn upright script drawing on Pennsylvania Dutch folk lettering traditions. Lacks the formal flow of calligraphic scripts; the letterforms are deliberately imperfect and festive, positioned closer to vernacular lettering than to brush or chancery traditions.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Superfluous"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "naive",
+      "hand-drawn",
+      "festive",
+      "folk",
+      "display",
+      "vernacular",
+      "opentype-features"
+    ],
+    "summary": "A slow, festive naive script drawing on Pennsylvania Dutch folk lettering with a randomiser stylistic set.",
+    "description": "Superfluous is a hand-drawn script that sits somewhere between Pennsylvania Dutch birth certificate lettering and a handwritten postcard – intentionally naive rather than polished. It includes three OpenType stylistic sets: one that randomises capitalisation for an organic all-caps mode, and two catering to small caps usage. A limited but characterful choice for seasonal, festive or folk-inflected design work.",
+    "foundry_blurb": "Daria Cohen describes Superfluous as a slow, festive and naive script – somewhere between Pennsylvania Dutch birth certificates and her best effort at writing a heartfelt postcard. It does not try to imitate skillful calligraphy; it just tries to be nice, real hard. Some features are, by the designer's own admission, superfluous."
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "name": "Gestures",
+    "foundry": "JS Type",
+    "url": "https://js-type.fonts.xyz/gestures/",
+    "designer": "Jolana Sýkorová",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "experimental sans",
+    "classification_notes": "A clean contemporary sans serif in four weights distinguished by OpenType scribbly alternates. Every letter in the Latin set has a hand-drawn counterpart that can replace the standard glyph, making it simultaneously a workhorse text face and an expressive display tool.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gestures"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Vietnamese",
+      "Pinyin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "experimental",
+      "alternates",
+      "hand-drawn",
+      "display",
+      "editorial",
+      "variable",
+      "scribbly",
+      "expressive"
+    ],
+    "summary": "A four-weight sans serif where every letter has a scribbly hand-drawn alternate, usable for headlines or hidden within body text.",
+    "description": "Gestures pairs clean, conventional sans serif letterforms with a second layer of hand-drawn scribbly counterparts for every character. The alternates can take over a headline entirely or appear sporadically in running text for visual rhythm. Created with Studio Moniker, the full family includes variable font support, ligatures and case-sensitive forms, with extensive Latin coverage plus Vietnamese and Pinyin.",
+    "foundry_blurb": "The scribbly alternates are a complementary feature where scribble lines overrule readability. The typeface works for headlines as well as embedded in longer text, and embraces an extensive range of Latin languages alongside Vietnamese and Pinyin."
+  },
+  {
+    "name": "Doppler",
+    "foundry": "JS Type",
+    "url": "https://js-type.fonts.xyz/doppler/",
+    "designer": "Jolana Sýkorová",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "display grotesque",
+    "classification_notes": "A display sans serif built explicitly around width as its primary design axis. The family spans two extremes – Extended and Narrow – each in Regular and Bold, taking its conceptual cue from the Doppler effect's compression and expansion of waves.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Extended",
+      "Narrow"
+    ],
+    "subfamilies": [
+      "Doppler Extended",
+      "Doppler Narrow"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "grotesque",
+      "extended",
+      "narrow",
+      "width-contrast",
+      "experimental",
+      "sans-serif",
+      "proportional"
+    ],
+    "summary": "A display grotesque built on extreme width contrast between Narrow and Extended cuts in two weights.",
+    "description": "Doppler explores width as a central typographic variable by pairing Narrow and Extended versions of the same letterforms in Regular and Bold weights. The contrast between the compressed and stretched cuts gives designers a wide range of expressive options from a single coherent family. The name references the Doppler effect, where perceived frequency shifts depending on the observer's position.",
+    "foundry_blurb": "Two widths, two weights – a sans-serif family that maps the full range of proportional contrast from narrow to extended, giving each a distinct character while keeping both clearly related."
+  },
+  {
+    "name": "Label",
+    "foundry": "JS Type",
+    "url": "https://js-type.fonts.xyz/label/",
+    "designer": "Jolana Sýkorová",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "utilitarian sans",
+    "classification_notes": "A functional sans serif drawn from the tradition of product and industrial label typography – clear, economical letterforms suited to small sizes and constrained layouts. Consistent with JS Type's exploratory approach, the design is expected to carry some unconventional detail alongside its practical structure.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Label"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "utilitarian",
+      "functional",
+      "display",
+      "industrial",
+      "packaging",
+      "sans-serif",
+      "legible"
+    ],
+    "summary": "A utilitarian sans serif rooted in product and industrial label typography, designed for clarity at small sizes.",
+    "description": "Label takes its cues from the practical typography of product labelling – clean, efficient letterforms that hold up at compact sizes and in constrained settings. The design reflects Jolana Sýkorová's interest in pairing functional rigour with an exploratory sensibility. It sits in a lineage of workhorse display faces adapted from signage and product graphics.",
+    "foundry_blurb": "A typeface grounded in the typography of labels and product marking, where clarity and economy of form are the primary requirements."
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "name": "DGM Composta Stitch",
+    "foundry": "Giulia Boggio",
+    "url": "https://giulia-boggio.fonts.xyz/dgm-composta-stitch/",
+    "designer": "Giulia Boggio",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "dot matrix display",
+    "classification_notes": "A connected-stroke variant of the DGM Composta dot matrix system. Where Composta uses discrete dots of varying sizes on a 7×11 grid, the Stitch version joins those points into continuous line segments, producing letterforms with a stitched or threaded appearance.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "DGM Composta Stitch"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "reseller",
+    "tags": [
+      "dot matrix",
+      "display",
+      "decorative",
+      "stitch",
+      "experimental",
+      "grid",
+      "bitmap"
+    ],
+    "summary": "A stitch-effect variant of DGM Composta, joining discrete dot matrix points into continuous thread-like strokes.",
+    "description": "Built on the same 7×11 grid as DGM Composta, the Stitch variant connects the dot positions with continuous strokes rather than leaving them as separate points. The result reads like embroidery or technical stitching at display sizes. Suited to poster and packaging work where the texture of the letterforms is the primary visual interest.",
+    "foundry_blurb": "A companion variant to DGM Composta's dot matrix system, using connected strokes between grid positions to produce a stitched letterform effect across the same weight range."
+  },
+  {
+    "name": "DGM Fette",
+    "foundry": "Giulia Boggio",
+    "url": "https://www.giuliaboggio.xyz/fonts/dgm-fette",
+    "designer": "Giulia Boggio",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "extended grotesque",
+    "classification_notes": "A semi-revival of Breite Fette Information, an ultra-wide, ultra-heavy grotesque originally cast by Klingspor in 1956. The extreme width and single heavy weight place it firmly in the display category. Supports Latin, Cyrillic and Greek across 694 glyphs.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "DGM Fette"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "grotesque",
+      "extended",
+      "wide",
+      "revival",
+      "bold",
+      "mid-century",
+      "cinematic"
+    ],
+    "summary": "Semi-revival of the 1956 Breite Fette Information, known from the Bullitt title sequence.",
+    "description": "DGM Fette revives Friedrich K. Sallwey's ultra-wide grotesque, originally cast by Klingspor in 1956 as an extension of the Information family. The single weight is massively extended and heavy, with tightly closed bowls and the squared-off joins of mid-century German grotesque design. Best suited to posters and title settings at large scale.",
+    "foundry_blurb": "A semi-revival of Breite Fette Information by Friedrich K. Sallwey (1956, Klingspor), best known from Pablo Ferro's title sequence for Bullitt and The Kinks' Kinkdom album. Redesigned in 2023 with assistance from Sven Sorić and Filippos Fragkogiannis."
+  },
+  {
+    "name": "DGM Marinella",
+    "foundry": "Giulia Boggio",
+    "url": "https://giulia-boggio.fonts.xyz/dgm-marinella/",
+    "designer": "Giulia Boggio",
+    "year": null,
+    "category": "display",
+    "subcategory": "high-contrast display",
+    "classification_notes": "A high-contrast display typeface with an intentionally ambiguous retro character. Strong thick-thin contrast places it in the display tradition, and the eight-weight range plus variable axis give it more span than most single-purpose display faces.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "DGM Marinella"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "display",
+      "high contrast",
+      "retro",
+      "variable",
+      "editorial",
+      "fashion",
+      "ambiguous"
+    ],
+    "summary": "A high-contrast display face with a deliberately ambiguous retro feel, across eight weights and a variable axis.",
+    "description": "DGM Marinella is built around strong thick-thin contrast with a retro-inflected character that sits between strict historical revival and contemporary display design. The eight static weights and variable axis give it more range than most display faces, making it workable across fashion, editorial and poster applications.",
+    "foundry_blurb": "Started as a fun project during three weeks of enforced rest after breaking a foot. What began as one entry in a twelve-typefaces-in-twelve-hours experiment became the sole typeface from that session, now expanded to eight styles with a wonderfully ambiguous retro look."
+  },
+  {
+    "name": "Feraz Condensed",
+    "foundry": "Giulia Boggio",
+    "url": "https://www.giuliaboggio.xyz/fonts/feraz-condensed",
+    "designer": "Giulia Boggio",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "condensed display",
+    "classification_notes": "A narrow condensed typeface designed for display use. The nine-weight range from Thin to Black gives it unusual span for a condensed face. Curves soften in the heavier weights to prevent letterforms from closing up.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Feraz Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "display",
+      "headline",
+      "poster",
+      "logo",
+      "editorial"
+    ],
+    "summary": "A condensed display face spanning nine weights from Thin to Black, designed for headlines and posters.",
+    "description": "Feraz Condensed runs from Thin to Black across nine weights, with lighter cuts carrying a delicate, refined quality and heavier weights softening their curves to maintain legibility at tight settings. Designed for headlines, logos and posters. The 406-glyph character set covers 45+ Latin-based languages.",
+    "foundry_blurb": "A condensed typeface for headlines, logos and posters. The delicate feel of the thinner weights translates into the bolder ones through softened curves and relaxed angles."
+  },
+  {
+    "name": "Mulett",
+    "foundry": "Giulia Boggio",
+    "url": "https://www.giuliaboggio.xyz/fonts/mulett",
+    "designer": "Giulia Boggio",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "high-contrast editorial serif",
+    "classification_notes": "A high-contrast, fine-bracketed display serif with strong editorial character. The extreme thick-thin contrast and single light weight make it unsuitable for body text but well matched to fashion and luxury titling.",
+    "weights": [
+      "Light"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Mulett"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "editorial",
+      "high contrast",
+      "luxury",
+      "fashion",
+      "titling"
+    ],
+    "summary": "A single-weight high-contrast editorial serif suited to luxury branding, fashion publishing and titles.",
+    "description": "Mulett has fine bracketed serifs and strong thick-thin contrast, placing it in the tradition of fashion and luxury display serifs. The single light weight positions it squarely at display and titling use. The 535-glyph set covers 50+ Latin-based languages, making it broadly deployable across European editorial projects.",
+    "foundry_blurb": "Features high contrast, fine bracketed serifs and a refined editorial tone. Suited to luxury branding, fashion, publishing and titles, with broad Latin coverage across 50+ languages."
+  },
+  {
+    "name": "Ufficio Display",
+    "foundry": "Giulia Boggio",
+    "url": "https://www.giuliaboggio.xyz/fonts/ufficio-display",
+    "designer": "Giulia Boggio",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "A geometric display sans constructed from near-perfect circles, squared stems and triangular diagonals. Distinguished from Ufficio Sans by its use of scrapped stylistic alternates and exaggerated geometric construction. Six weights from Light to Extrabold.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Ufficio Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "sans-serif",
+      "modernist",
+      "branding",
+      "logo",
+      "editorial",
+      "funky"
+    ],
+    "summary": "A geometric display counterpart to Ufficio Sans, built from circles, squares and triangles with deliberate contrast.",
+    "description": "Ufficio Display pushes the Ufficio family into expressive display territory, constructing letterforms from near-perfect circles, squared stems and triangular diagonals. Stylistic alternates too distinctive for Ufficio Sans found their home here. Six weights and strong geometric construction make it effective for logos, headlines and brand-identity work.",
+    "foundry_blurb": "The display counterpart to Ufficio Sans, born from scrapped stylistic alternates and geometric elements encountered during a bookshop branding project with Type01 Studio. Pushes the Ufficio system into a funky yet geometric register, built on a rigid framework of circles, squares and triangles with deliberate contrast."
+  },
+  {
+    "name": "DGM Typeset",
+    "foundry": "Giulia Boggio",
+    "url": "https://www.giuliaboggio.xyz/fonts/dgm-typeset",
+    "designer": "Giulia Boggio",
+    "year": 2025,
+    "category": "mono",
+    "subcategory": "typewriter mono serif",
+    "classification_notes": "A monospaced serif typeface drawing from typewriter and Olivetti precedents. Two stylistic sets shift the character between creased serifs and crisper boxy arches. The family includes a companion sans (DGM Typeset Sans), making it a complete monospaced toolkit.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "DGM Typeset",
+      "DGM Typeset Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "mono",
+      "typewriter",
+      "monospaced",
+      "serif",
+      "editorial",
+      "retro",
+      "digital",
+      "toolkit"
+    ],
+    "summary": "A five-weight typewriter-inspired monospaced serif with soft and sharp stylistic sets.",
+    "description": "DGM Typeset draws from classic Olivetti and typewriter typefaces, filtered through a contemporary lens. Five weights run from Thin to Bold, with two stylistic sets offering either creased serifs or crisper boxy arches. A companion DGM Typeset Sans rounds out the system, giving it span across code, editorial and branding applications.",
+    "foundry_blurb": "Draws inspiration from typewriter historical typefaces, blending the vintage feel of classic Olivetti type with a digital flare and modern duality. Features five weights, two stylistic sets and both serif and sans versions, designed as a versatile toolkit typeface for a wide range of digital and print use cases."
+  },
+  {
+    "name": "DGM Typeset Sans",
+    "foundry": "Giulia Boggio",
+    "url": "https://giulia-boggio.fonts.xyz/dgm-typeset-sans/",
+    "designer": "Giulia Boggio",
+    "year": 2025,
+    "category": "mono",
+    "subcategory": "typewriter mono sans",
+    "classification_notes": "The monospaced sans companion to DGM Typeset. Shares the same typewriter ancestry and two-stylistic-set structure across five weights. The absence of serifs makes it cleaner at smaller sizes and suited to UI, code and captions.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "DGM Typeset Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "reseller",
+    "tags": [
+      "mono",
+      "typewriter",
+      "monospaced",
+      "sans-serif",
+      "editorial",
+      "digital",
+      "code",
+      "toolkit"
+    ],
+    "summary": "The sans companion to DGM Typeset, a five-weight monospaced sans with typewriter origins.",
+    "description": "DGM Typeset Sans is the clean-edged sibling to DGM Typeset, sharing the same five-weight structure and stylistic sets but dropping the serifs for a more versatile monospaced sans. The typewriter aesthetic carries through in the fixed-width rhythm and boxy proportions. Works alongside DGM Typeset or independently in UI, code and editorial contexts.",
+    "foundry_blurb": "The sans counterpart to DGM Typeset, designed as part of the same toolkit system. Five weights, two stylistic sets and the same typewriter-inspired DNA without serifs."
+  },
+  {
+    "name": "DGM Composta",
+    "foundry": "Giulia Boggio",
+    "url": "https://www.giuliaboggio.xyz/fonts/dgm-composta",
+    "designer": "Giulia Boggio",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "dot matrix",
+    "classification_notes": "A modular dot matrix typeface built on a 7×11 grid, using static dots of growing size to generate nine weights. The underlying grid is fixed; weight contrast comes from dot size rather than stroke variation. 357 glyphs covering 48+ Latin-based languages.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "DGM Composta",
+      "DGM Composta Stitch"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "dot matrix",
+      "display",
+      "geometric",
+      "modular",
+      "grid",
+      "bitmap",
+      "experimental"
+    ],
+    "summary": "A nine-weight dot matrix typeface on a fixed 7×11 grid, with dot size driving the weight variation.",
+    "description": "DGM Composta places static dots of growing size on a 7×11 grid, following classic dot matrix precedents. The nine-weight range produces noticeably different textures, from a barely-there cluster of small points in Thin to a dense filled-in mass in Black. A companion Stitch variant uses connected strokes rather than discrete dots.",
+    "foundry_blurb": "Builds on a 7×11 grid following classic fixed-width dot matrix typefaces, using static points of growing size to vary weight. Legibility and application vary across styles, giving Composta a broad reach and versatility."
+  }
+]

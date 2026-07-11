@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Blok",
+    "foundry": "Florian Runge",
+    "url": "http://florianrunge.com/blok/",
+    "designer": "Florian Runge",
+    "year": null,
+    "category": "display",
+    "subcategory": "display grotesque",
+    "classification_notes": "A stout extrabold display sans-serif modelled on the Fette Grotesk typefaces that circulated in European and Soviet avant-garde printing from the late 19th century onwards. The extreme weight and compressed character place it squarely in the display category.",
+    "weights": [
+      "Regular",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blok"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "grotesque",
+      "extrabold",
+      "historical",
+      "avant-garde",
+      "poster",
+      "constructivist"
+    ],
+    "summary": "A stout display grotesque distilled from early 20th century European avant-garde metal types.",
+    "description": "Blok draws on research into the heavy grotesques used in European and Soviet avant-garde printing from ca. 1887 onwards. Rather than reviving any single original, it distils the spirit of metal types from multiple foundries, including designs that later informed Olivetti advertising through the 1950s and 60s. Named after the Warsaw Blok group and magazine from ca. 1924, it suits poster-scale and headline typography.",
+    "foundry_blurb": "Blok is Florian Runge's personal interpretation of the stout extrabold sans that was especially popular in early 20th century avant-garde magazines. The design distils the spirit of various original metal type designs from many different foundries between ca. 1887 and 1912, starting with Fette Steinschrift by Schelter and Giesecke. From the 1950s onwards, the same style appeared widely in Olivetti advertising material."
+  },
+  {
+    "name": "Muster Grotesk A",
+    "foundry": "Florian Runge",
+    "url": "https://florian-runge.fonts.xyz/muster-grotesk-a/",
+    "designer": "Florian Runge",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A professional grotesque with sophisticated OpenType alternate forms for both the 'g' and 'a', distinguishing it from a purely neutral neo-grotesque. The 'A' designation places it as one variant within a broader Muster type system alongside a companion antiqua.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Muster Grotesk A"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "text",
+      "alternates",
+      "professional",
+      "branding",
+      "editorial",
+      "opentype"
+    ],
+    "summary": "A professional grotesque with alternate 'a' and 'g' forms, used by Studio DRAMA across major brand work.",
+    "description": "Muster Grotesk A carries a well-developed OpenType feature set, including alternate double-storey and single-storey forms for both 'a' and 'g', discretionary ligatures and ordinals. It serves as the house typeface for Studio DRAMA, appearing across branding and editorial projects for global clients. The 'A' designation signals its place within a broader Muster type system alongside a companion serif.",
+    "foundry_blurb": "Muster Grotesk is Florian Runge's own grotesque, developed and refined over years before being released publicly through his fonts.xyz storefront. It is the typeface used to set the Studio DRAMA studio website. The name Muster references the German word for pattern or specimen."
+  },
+  {
+    "name": "Asgaard",
+    "foundry": "Florian Runge",
+    "url": "http://florianrunge.com/asgaard/",
+    "designer": "Florian Runge",
+    "year": 2012,
+    "category": "sans-serif",
+    "subcategory": "functional sans",
+    "classification_notes": "A sans-serif with micro-serifs and ink traps, shaped by research into Danish graphic lettering traditions. The combination of square terminals, slightly rounded corners and a large x-height places it in the functional humanist sans territory rather than the pure grotesque or slab categories.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Asgaard"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "functional",
+      "wayfinding",
+      "signage",
+      "ui",
+      "danish",
+      "information-design",
+      "legible",
+      "humanist"
+    ],
+    "summary": "A Danish-influenced functional sans with micro-serifs and ink traps, designed for legibility in UI and wayfinding.",
+    "description": "Asgaard was created during the 2012 tipoRenesansa workshop in Slovenia, built on research into a distinctive strand of Danish lettering and type design from the 20th century. Its large x-height, open counters, slightly rounded corners and visible ink traps give it reliable legibility at small sizes. It performs especially well in wayfinding systems, information design and UI contexts, and includes an alternate Ø with horizontal bar referencing old Danish enamel signage.",
+    "foundry_blurb": "Asgaard is based on extensive research into a unique Danish design phenomenon in typeface design and lettering from the 20th century. The engineered character gives the typeface a tech-associated feel, while rounded corners and the absence of sharp points retain a soft human touch. The applied features allow it to perform especially well in situations where legibility is critical, such as UI, information design and signage."
+  },
+  {
+    "name": "Muster Antiqua Text",
+    "foundry": "Florian Runge",
+    "url": "https://florian-runge.fonts.xyz/muster-antiqua-text/",
+    "designer": "Florian Runge",
+    "year": null,
+    "category": "serif",
+    "subcategory": "text antiqua",
+    "classification_notes": "Classed as an antiqua, the Central European term for a Roman-style serif, optimised for body text setting. Functions as the serif companion to Muster Grotesk within the Muster type system.",
+    "weights": [
+      "Regular",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "Text"
+    ],
+    "subfamilies": [
+      "Muster Antiqua Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "text",
+      "antiqua",
+      "serif",
+      "companion",
+      "book",
+      "body-text",
+      "roman"
+    ],
+    "summary": "A text-optimised antiqua designed as the serif companion to Muster Grotesk.",
+    "description": "Muster Antiqua Text is the serif counterpart within Florian Runge's Muster type system. The 'Text' designation marks it as optimised for body copy settings rather than display work, offering the economy and control needed for sustained reading. It pairs naturally with Muster Grotesk in mixed-setting designs.",
+    "foundry_blurb": "Muster Antiqua Text is part of Florian Runge's Muster type system, released alongside Muster Grotesk as a companion serif for text-heavy applications. Like the grotesque, it takes its name from the German word for pattern or specimen."
+  }
+]

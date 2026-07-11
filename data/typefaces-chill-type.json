@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Bufano",
+    "foundry": "Chill Type",
+    "url": "https://chilltype.com/fonts/bufano",
+    "designer": "Vedad Siljak",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Described by the foundry and third-party sources as 'the display serif' – its single-weight, two-style structure (Roman and Italic) confirms it is designed for headline and display use, not sustained body text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bufano"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "editorial",
+      "headline",
+      "branding",
+      "contemporary"
+    ],
+    "summary": "Chill Type's founding release – a focused two-style display serif for headlines and editorial work.",
+    "description": "Bufano is the inaugural typeface from Austrian indie foundry Chill Type, released in 2024. It comes as a Roman and Italic pair, aimed squarely at display and editorial settings. Designer Vedad Siljak, recipient of a TDC Judges Choice Award and Red Dot Design Award, brings professional discipline to this deliberately focused two-style family.",
+    "foundry_blurb": "Chill Type describe Bufano as an original typeface crafted with great attention to detail, built to be reliable and satisfying to use. It was the foundry's first public release."
+  },
+  {
+    "name": "Chill Sans",
+    "foundry": "Chill Type",
+    "url": "https://chilltype.com/fonts/chill-sans",
+    "designer": "Vedad Siljak",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The foundry describes Chill Sans as warm and friendly, built around warm shapes and uninterrupted balance – characteristics consistent with humanist rather than geometric or grotesque construction. The broad 8-weight range with matching italics confirms it is a working text and display family.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Chill Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "humanist",
+      "warm",
+      "text",
+      "editorial",
+      "branding",
+      "opentype",
+      "multi-weight"
+    ],
+    "summary": "A 16-style warm sans-serif spanning Hairline to Ultra, with stylistic sets, swash caps and ligatures.",
+    "description": "Chill Sans is a sans-serif family in eight weights from Hairline to Ultra, each with a matching italic. Its character is warm and approachable – open forms and balanced proportions consistent with humanist sans construction. An extensive OpenType feature set, including stylistic sets, swash caps and ligatures, extends its usefulness across editorial, UI and branding work.",
+    "foundry_blurb": "Chill Type describe Chill Sans as a warm and friendly sans serif whose warm shapes and uninterrupted balance make it a dependable companion for work where friendliness and sincerity are key. Trial fonts are available on the foundry's website."
+  }
+]

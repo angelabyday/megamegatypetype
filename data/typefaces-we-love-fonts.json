@@ -1,0 +1,311 @@
+[
+  {
+    "name": "Setra",
+    "foundry": "We Love Fonts",
+    "url": "https://we-love-fonts.fonts.xyz/setra/",
+    "designer": "Olli Meier",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "neutral grotesque",
+    "classification_notes": "Low-contrast, neutral grotesque with a large x-height. The foundry tags it Sans, Grotesque, Neutral and Low Contrast, placing it in the utilitarian grotesque tradition alongside faces like Helvetica Neue or Aktiv Grotesk, though with a markedly wide weight range and broad multilingual coverage.",
+    "weights": [
+      "Thin",
+      "XLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "XBold",
+      "Black",
+      "XBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Setra"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "neutral",
+      "variable",
+      "low-contrast",
+      "workhorse",
+      "multilingual",
+      "big-x-height"
+    ],
+    "summary": "A neutral, low-contrast grotesque with a large x-height and ten static weights.",
+    "description": "Setra is a workhorse neutral grotesque built around a generous x-height and minimal stroke contrast. The weight range runs from Thin to XBlack across ten named styles, with a variable font file included in the family purchase. Extensive Latin-script language support makes it viable for multilingual publishing and interface work.",
+    "foundry_blurb": "We Love Fonts positions Setra as a versatile low-contrast grotesque with a big x-height and broad language coverage, suited to projects that need a dependable neutral sans across a wide weight range."
+  },
+  {
+    "name": "Setra Grunge",
+    "foundry": "We Love Fonts",
+    "url": "https://we-love-fonts.fonts.xyz/setra-grunge/",
+    "designer": "Olli Meier",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "distressed grotesque",
+    "classification_notes": "Shares the grotesque skeleton of Setra but overlays a rough, distressed texture. The foundry tags it Brutalist and Decorative, which separates it from the utility-grotesque category and places it firmly in display territory despite retaining the same weight range as the base Setra.",
+    "weights": [
+      "Thin",
+      "XLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "XBold",
+      "Black",
+      "XBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Setra Grunge"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "grunge",
+      "distressed",
+      "brutalist",
+      "decorative",
+      "display",
+      "variable"
+    ],
+    "summary": "Setra's grotesque structure given a rough, brutalist texture – ten weights of controlled grime.",
+    "description": "Setra Grunge applies a distressed, rough-edged treatment to the neutral Setra skeleton. The texture runs across all ten weights, from hairline to ultra-heavy, so there is range for both barely-there and blunt applications. It suits poster work, music packaging and branding that wants controlled aggression rather than clean restraint.",
+    "foundry_blurb": "We Love Fonts describes Setra Grunge as a brutalist decorative variant of the Setra family, adding rough, gritty texture to the underlying grotesque structure for edgy typographic applications."
+  },
+  {
+    "name": "Setra Top",
+    "foundry": "We Love Fonts",
+    "url": "https://we-love-fonts.fonts.xyz/setra-top/",
+    "designer": "Olli Meier",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "experimental display grotesque",
+    "classification_notes": "A display-optimised variant of the Setra grotesque, explicitly tagged Display and Experimental by the foundry. It retains low contrast and the grotesque skeleton of the base Setra but introduces modifications intended to read with more character at headline scale.",
+    "weights": [
+      "Thin",
+      "XLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "XBold",
+      "Black",
+      "XBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Setra Top"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "display",
+      "experimental",
+      "variable",
+      "low-contrast",
+      "headline",
+      "big-x-height"
+    ],
+    "summary": "An experimental display grotesque that reworks Setra's structure for expressive headline use.",
+    "description": "Setra Top takes the low-contrast grotesque foundation of Setra and pushes it in a more expressive, display-oriented direction. The experimental tag from the foundry signals letterform modifications that distinguish it from the neutral base. Ten weights plus a variable file are included in the family, covering everything from spare hairlines to heavy impact.",
+    "foundry_blurb": "We Love Fonts presents Setra Top as a low-contrast variable display grotesque with an experimental character, designed to perform at large scale where more personality is warranted."
+  },
+  {
+    "name": "Setra Nebu",
+    "foundry": "We Love Fonts",
+    "url": "https://we-love-fonts.fonts.xyz/setra-nebu/",
+    "designer": "Olli Meier",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "techno display",
+    "classification_notes": "Tagged Display, Experimental and Techno by the foundry. It is the most structurally complex member of the Setra system: distributed in OTF rather than TTF format, it lacks a variable counterpart, and its limited OpenType feature set (Ordinals and Tabular Figures only, with no Case Sensitive Forms) suggests significantly modified letterforms that trade functional versatility for a strong decorative character.",
+    "weights": [
+      "Thin",
+      "XLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "XBold",
+      "Black",
+      "XBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Setra Nebu"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "techno",
+      "experimental",
+      "decorative",
+      "futuristic",
+      "niche",
+      "otf"
+    ],
+    "summary": "The most expressive Setra variant – a techno display face with futuristic, experimental letterforms.",
+    "description": "Setra Nebu is the most outwardly decorative entry in the Setra system. Its Techno and Experimental tags point to letterforms that depart considerably from the neutral grotesque base, likely incorporating cutout or inline treatments that give the face a digital, futuristic quality. It is distributed in OTF format and has no variable counterpart. The ten static weights run from Thin to XBlack, but this is a typeface for display work only – branding, posters and screen-based headlines rather than continuous text.",
+    "foundry_blurb": "We Love Fonts positions Setra Nebu as a techno-inflected experimental display typeface, the most decorative and visually distinctive member of the Setra family, released as an OTF with ten static weights."
+  },
+  {
+    "name": "Setra Variable",
+    "foundry": "We Love Fonts",
+    "url": "https://we-love-fonts.fonts.xyz/setra-variable/",
+    "designer": "Olli Meier",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "neutral grotesque",
+    "classification_notes": "Same classification as the base Setra – low-contrast neutral grotesque with a large x-height – but sold as a single variable font file. The variable axis spans the full weight range of the static family, making this effectively the same typeface in a different purchase format.",
+    "weights": [
+      "Variable"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Setra Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "neutral",
+      "variable",
+      "low-contrast",
+      "workhorse",
+      "multilingual",
+      "big-x-height"
+    ],
+    "summary": "The single-file variable font version of the neutral Setra grotesque, spanning its full weight range.",
+    "description": "Setra Variable packages the complete weight spectrum of the Setra grotesque into a single variable font file, enabling continuous interpolation along the weight axis. It shares all the characteristics of the static family: low stroke contrast, a generous x-height, and broad Latin-script language support. The variable format is better suited to web and app use where minimising file count and enabling responsive weight behaviour both matter.",
+    "foundry_blurb": "We Love Fonts offers Setra Variable as a standalone variable font file covering the full weight range of the Setra neutral grotesque, sold as a single-style purchase for teams that want only the variable format."
+  },
+  {
+    "name": "Setra Grunge Variable",
+    "foundry": "We Love Fonts",
+    "url": "https://we-love-fonts.fonts.xyz/setra-grunge-variable/",
+    "designer": "Olli Meier",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "distressed grotesque",
+    "classification_notes": "Variable font counterpart of Setra Grunge. The foundry tags it Low Contrast, Variable, Display, Sans, Grotesque and Big x-Height – the same grotesque-display classification as the static family, packaged into a single interpolating file. The distressed texture of Setra Grunge is retained across the weight axis.",
+    "weights": [
+      "Variable"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Setra Grunge Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "grunge",
+      "distressed",
+      "brutalist",
+      "display",
+      "variable",
+      "big-x-height"
+    ],
+    "summary": "Setra Grunge's distressed display grotesque character in a single variable font file.",
+    "description": "Setra Grunge Variable delivers the rough, brutalist texture of Setra Grunge as a single interpolating font file. The weight axis spans from hairline to ultra-heavy, with the distressed treatment maintained across the full range. It is a practical choice for interactive or web projects that need the Setra Grunge aesthetic while keeping the font payload to one file.",
+    "foundry_blurb": "We Love Fonts offers Setra Grunge Variable as the variable font companion to the Setra Grunge static family, providing the complete distressed grotesque weight range in a single-file variable format."
+  },
+  {
+    "name": "Setra Top Variable",
+    "foundry": "We Love Fonts",
+    "url": "https://we-love-fonts.fonts.xyz/setra-top-variable/",
+    "designer": "Olli Meier",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "experimental display grotesque",
+    "classification_notes": "Variable font counterpart of Setra Top. Tagged Low Contrast, Variable, Sans, Grotesque, Experimental and Big x-Height. The experimental display grotesque classification of the static Setra Top family is preserved in a single-file variable format. Note: the Setra Top Variable page omits Case Sensitive Forms from its OpenType feature list, unlike most other Setra family members.",
+    "weights": [
+      "Variable"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Setra Top Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "display",
+      "experimental",
+      "variable",
+      "headline",
+      "big-x-height",
+      "low-contrast"
+    ],
+    "summary": "The variable font version of Setra Top, packaging its experimental display grotesque character into a single file.",
+    "description": "Setra Top Variable provides the experimental display character of Setra Top in a single variable font file. The weight axis spans the full range continuously, giving designers fluid control over weight – useful for dynamic headline applications or interactive typographic experiments. Like the static Setra Top, it is oriented toward display and headline settings rather than body text.",
+    "foundry_blurb": "We Love Fonts offers Setra Top Variable as the variable font companion to the Setra Top static family, making the full experimental display weight range available in a single file for web and app use."
+  }
+]

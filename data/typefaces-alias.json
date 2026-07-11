@@ -1,0 +1,578 @@
+[
+  {
+    "name": "Ever",
+    "foundry": "Alias",
+    "url": "https://alias.fonts.xyz/ever/",
+    "designer": "Gareth Hague",
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast display serif",
+    "classification_notes": "High-contrast serif built around a recurring triangular motif. The outer serif is dropped from diagonal characters – v, w, x – to let their angular geometry dominate and unify the design. References early DTP serifs like Emigre's Matrix and the aesthetics of letter carving.",
+    "weights": [
+      "Regular",
+      "Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Ever"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "display",
+      "editorial",
+      "triangular",
+      "angular",
+      "serif"
+    ],
+    "summary": "High-contrast serif where the outer serifs are dropped from angled characters to establish a repeating triangular motif.",
+    "description": "Ever has large shapes drawn freely rather than constructed, giving it a textural directness that references early DTP serifs like Emigre's Matrix and the look of carved letterforms. The defining move is removing the outer serif from triangular characters – v, w and x – so their angular geometry becomes pronounced. That triangle becomes a visual thread through the whole design.",
+    "foundry_blurb": "Simple does not mean basic or modular. Ever combines the reduced clarity of early DTP type with letter-carving aesthetics. The outside serif on triangular characters is dropped to focus their geometry and let a repeated triangle motif run through the typeface."
+  },
+  {
+    "name": "AnoSerif",
+    "foundry": "Alias",
+    "url": "https://alias.fonts.xyz/anoserif/",
+    "designer": "Gareth Hague",
+    "year": 2006,
+    "category": "serif",
+    "subcategory": "geometric constructed serif",
+    "classification_notes": "Serif counterpart to Ano, built on the same Bauhaus-derived circular geometry. The design sits the serif tradition – rooted in brush or chisel – against a mathematical, monoline construction. Nine style variations per weight (standard, upper-lower, wide, each in roman, italic and back-italic) produce 54 fonts across six weights.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "AnoSerif",
+      "AnoSerif Upper Lower",
+      "AnoSerif Wide"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "constructed",
+      "serif",
+      "back-italic",
+      "editorial",
+      "magazine",
+      "bauhaus"
+    ],
+    "summary": "54-font geometric serif system built on Ano's circular framework, used in AnOther magazine for nearly two decades.",
+    "description": "AnoSerif began as a headline for Another Man Issue 3 in 2006, then developed into a full 54-font system: six weights, each in nine variations (three style variants across three orientations – roman, italic and back-italic). The design applies Ano's Bauhaus-derived circular construction to a serif, creating tension between mathematical monoline geometry and the classical weight and angle of the serif letterform. It ran in AnOther and Another Man magazines from issue 15 onwards.",
+    "foundry_blurb": "The serif counterpart to Ano, developed from the same circular Bauhaus geometry. Originally drawn in 2006 as headlines for Another Man Issue 3, it was used in Another magazine from issue 15 onwards. Nine variations in six weights – standard, upper-lower and wide, each in roman, italic and back-italic – produce 54 fonts in total. The construction is Bauhaus-style mechanical geometry; the serif is derived from writing with a brush or carving with a chisel."
+  },
+  {
+    "name": "Asperity",
+    "foundry": "Alias",
+    "url": "https://alias.fonts.xyz/asperity/",
+    "designer": "Gareth Hague",
+    "year": 2012,
+    "category": "display",
+    "subcategory": "angular display serif",
+    "classification_notes": "Angular display italic serif, the hard-edged member of a three-typeface set sharing the same underlying character structure. Asphalt is the soft, brushlike version; Aspic is the painted script. Asperity uses sharp, geometric strokes throughout.",
+    "weights": [
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Asperity"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "angular",
+      "editorial",
+      "magazine",
+      "hard",
+      "geometric"
+    ],
+    "summary": "Angular display serif designed for AnOther magazine, the hard-edged version of a trio built on the same character skeleton.",
+    "description": "Asperity was created for AnOther magazine issues 18 and 19 alongside Asphalt and Aspic – three typefaces with the same underlying character structure but different executions: angular, brushlike and painted respectively. Asperity is the hard version, using sharp geometric strokes that make its letterforms feel cut rather than written. Only Medium and Bold weights are available.",
+    "foundry_blurb": "Designed for Another magazine issues 18 and 19. One of three typefaces with the same character shape: Hard (Asperity) is angular, Soft (Asphalt) is brushlike, and Script (Aspic) is a painted-ish connected design. The three together highlight how the same underlying skeleton reads very differently depending on its execution."
+  },
+  {
+    "name": "Barb",
+    "foundry": "Alias",
+    "url": "https://alias.fonts.xyz/barb/",
+    "designer": "Gareth Hague",
+    "year": 2016,
+    "category": "display",
+    "subcategory": "constructed display",
+    "classification_notes": "Display typeface built by assembling separate graphic components rather than modifying a unified design. Has some structural kinship with stencil type, but the motivation is construction rather than deconstruction. Triangular serifs and scythe-shaped curved strokes create unusual connector forms.",
+    "weights": [
+      "Regular",
+      "Extra"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Barb"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "constructed",
+      "triangle-serif",
+      "experimental",
+      "graphic",
+      "editorial"
+    ],
+    "summary": "A display typeface assembled from separate graphic elements, producing unusual geometric connectors between strokes.",
+    "description": "Barb builds each letterform from distinct graphic parts rather than cutting gaps into an existing design. The B, P and R combine scythe-shaped curves with triangular serifs; A, H and N feature pointed connector shapes where strokes meet. The approach borrows something from stencil typography in its separation of parts, but the aim is inventive construction rather than legibility-driven cutouts.",
+    "foundry_blurb": "Not made by adding gaps to an existing design, but by constructing letters from separate graphic elements. The separation allows interesting and unusual connecting devices – scythe-shapes of curved characters meet triangle serifs, and pointed connector-shapes appear in the A, H and N. The intent is construction and fun, not deconstruction."
+  },
+  {
+    "name": "Cactus",
+    "foundry": "Alias",
+    "url": "https://alias.fonts.xyz/cactus/",
+    "designer": "Gareth Hague",
+    "year": 2003,
+    "category": "display",
+    "subcategory": "compressed modular display",
+    "classification_notes": "Super-compressed modular sans-serif display type with a consistent circle-based grid framework. Evokes nineteenth-century woodcut grotesque without direct historical quotation. Despite its modular construction, letterforms retain individual character rather than reading as mechanical repetition.",
+    "weights": [
+      "Light",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Cactus"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "compressed",
+      "condensed",
+      "modular",
+      "display",
+      "grotesque",
+      "woodcut",
+      "grid"
+    ],
+    "summary": "Tightly compressed modular display face with the logic of a woodcut grotesque and the warmth of hand-drawn letterforms.",
+    "description": "Cactus applies a consistent geometric grid to achieve maximum compression while keeping each letter individually characterful. The circle-based framework is modular, but the result reads closer to woodcut display type than digital construction. Available in four weights with italics, it suits dense headline settings where space is limited.",
+    "foundry_blurb": "Cactus shows that a modular design can have a similar warmth of character as a hand-drawn typeface. Letters are treated as characterful, individual graphic elements within the parameters of a set grid. A typestyle associated with nineteenth century grot woodcut typography, without the historic reference points."
+  },
+  {
+    "name": "Alias Didot",
+    "foundry": "Alias",
+    "url": "https://alias.fonts.xyz/alias-didot/",
+    "designer": "Gareth Hague",
+    "year": 2012,
+    "category": "serif",
+    "subcategory": "condensed high-contrast serif",
+    "classification_notes": "Condensed Didone serif with the spare severity of the Modern face tradition. The italic departs from convention – mixing Didot structure, Bodoni conventions and invented numeral forms. The Black weight moves into Fat Face territory, with an expressive graphic density that Hague traces to 1970s New York design rather than classical precedent.",
+    "weights": [
+      "Light",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Alias Didot"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "condensed",
+      "high-contrast",
+      "fashion",
+      "editorial",
+      "modern",
+      "display"
+    ],
+    "summary": "Condensed Didone designed for fashion editorial, with an italic that freely mixes Didot, Bodoni and invented shapes.",
+    "description": "Alias Didot began as a pitch for a fashion magazine redesign – a few condensed uppercase characters expanded into a full family. It carries the sharp angular severity of the Didone tradition, but the italic is eclectic, mixing Didot structure with Bodoni conventions and custom numeral forms. The Black weight adds ball terminals at an unusual ratio and gains the graphic density of Fat Face display type.",
+    "foundry_blurb": "Began as a proposal for a fashion magazine redesign, developing a few condensed Didot uppercase characters into a full font. The design has a sparse severity – particularly in the sharp angular connection between vertical and horizontal strokes. The italic mixes styles, with numerals that swap between Didot, Bodoni and invented shapes. Bold weights increase line weight and ball terminals while keeping the condensed character shape."
+  },
+  {
+    "name": "Edict",
+    "foundry": "Alias",
+    "url": "https://alias.fonts.xyz/edict/",
+    "designer": "Gareth Hague",
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans-serif",
+    "classification_notes": "Display typeface from Alias's exclusive fonts.xyz catalog. Detailed published design information is limited; classification based on Alias's consistent approach to graphic display typography and the small family size.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Edict"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "editorial",
+      "graphic",
+      "alias"
+    ],
+    "summary": "Display typeface from Alias's fonts.xyz-exclusive catalog by Gareth Hague.",
+    "description": "Edict is a display typeface from Alias, available only through the foundry's fonts.xyz shop. It sits within Gareth Hague's output of graphically direct display designs, though detailed documentation is limited. The small family pricing suggests a focused offering suited to headline and display use.",
+    "foundry_blurb": "Part of the Alias collection of new and previously unreleased designs, only available through fonts.xyz."
+  },
+  {
+    "name": "Gerry",
+    "foundry": "Alias",
+    "url": "https://alias.fonts.xyz/gerry/",
+    "designer": "Gareth Hague",
+    "year": null,
+    "category": "display",
+    "subcategory": "display sans-serif",
+    "classification_notes": "Display typeface from Alias's exclusive fonts.xyz catalog. The family pricing at €240 indicates a more complete multi-weight offering than most of Alias's smaller families. Detailed design information is limited; classification is based on Alias's broader catalog tendencies.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Gerry"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "editorial",
+      "graphic",
+      "alias",
+      "multi-weight"
+    ],
+    "summary": "Multi-weight display typeface from Alias's fonts.xyz-exclusive catalog by Gareth Hague.",
+    "description": "Gerry is a display typeface from Alias, available exclusively through the foundry's fonts.xyz shop. With family pricing at €240, it is among the more comprehensive of Alias's newer offerings, suggesting a fuller weight range than the foundry's more focused two-style releases. Specific design details are not widely documented.",
+    "foundry_blurb": "Part of the Alias collection of new and previously unreleased designs, only available through fonts.xyz. Type design by Gareth Hague."
+  },
+  {
+    "name": "Girder",
+    "foundry": "Alias",
+    "url": "https://alias.fonts.xyz/girder/",
+    "designer": "Gareth Hague",
+    "year": null,
+    "category": "display",
+    "subcategory": "modular geometric display",
+    "classification_notes": "Modular linear display type constructed from simple structural shapes – the name refers to industrial girders in a building frame. Letterforms are built from a geometric framework rather than drawn freely, giving the design a structural, almost architectural character.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Girder"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "geometric",
+      "display",
+      "linear",
+      "constructed",
+      "structural"
+    ],
+    "summary": "Modular display type built from simple geometric shapes, as if assembling letterforms from structural girders.",
+    "description": "Girder constructs its letterforms from a framework of simple graphic shapes – the analogy is structural steelwork rather than calligraphic tradition. The result is linear and modular with the directness of industrial construction. It sits within Alias's interest in building type from graphic components rather than deriving it from hand-drawn or historical models.",
+    "foundry_blurb": "A type constructed from a framework of simple graphic shapes – like girders in a building. Modular and linear, with multiple options within the family."
+  },
+  {
+    "name": "Noah",
+    "foundry": "Alias",
+    "url": "https://alias.fonts.xyz/noah/",
+    "designer": "Gareth Hague",
+    "year": 2012,
+    "category": "display",
+    "subcategory": "display serif",
+    "classification_notes": "Display serif referencing lettercutting and mid-twentieth century book cover design. Available in three structural variants: Text (standard case relationship), Unicase (upper and lower case at the same height) and Upper Lower (uppercase replaced by enlarged lowercase forms). The Medium weight has a Berthold Wolpe Anglo-Germanic quality; the Bold reads closer to Tom Carnese's Grouch.",
+    "weights": [
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Noah Text",
+      "Noah Unicase",
+      "Noah Upper Lower"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "lettercutting",
+      "unicase",
+      "editorial",
+      "angular",
+      "serif",
+      "mid-century"
+    ],
+    "summary": "Display serif in three case variants, drawing on lettercutting traditions and mid-century book cover lettering.",
+    "description": "Noah references the logic of lettercutting – carving with a chisel rather than painting with a brush – but adds an angular graphic quality beyond strict historical reference. It comes in three structural versions: Text, Unicase (where upper and lowercase share the same cap height) and Upper Lower (where uppercase is drawn as an enlarged lowercase). The Medium weight has something of Berthold Wolpe's Germanic seriousness; the Bold edges towards the expressive weight of Tom Carnese's Grouch.",
+    "foundry_blurb": "Noah references lettercutting – taking the logic of carving with chisel or painting with brush – combined with the lettering of mid-twentieth century book cover design and an extra, modern angular graphic quality. Available in Text, Unicase and Upper Lower versions, each in Medium and Bold."
+  },
+  {
+    "name": "Quair",
+    "foundry": "Alias",
+    "url": "https://alias.fonts.xyz/quair/",
+    "designer": "Gareth Hague",
+    "year": null,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Display serif drawing on Thorowgood and Scotch nineteenth-century typefaces, but reducing their nuance to a binary thick/thin contrast without modulation. Offered in Round and Triangle serif variants, each available in standard and Headline sizes, highlighting whether the curved or angular quality of the letterforms is dominant.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Headline"
+    ],
+    "subfamilies": [
+      "Quair Round",
+      "Quair Round Headline",
+      "Quair Triangle",
+      "Quair Triangle Headline"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "thorowgood",
+      "scotch",
+      "binary-contrast",
+      "headline",
+      "editorial"
+    ],
+    "summary": "Display serif with Round and Triangle serif variants, reducing nineteenth-century Thorowgood and Scotch references to a binary thick/thin contrast.",
+    "description": "Quair grew from a planned extension of Alias's Oban typeface but became distinct enough to stand alone. It draws on market-stall trader lettering and Thorowgood and Scotch nineteenth-century display types – bold, idiosyncratic letterforms with striking proportions. The design strips away gradual modulation, replacing it with a binary thick/thin, and offers two serif shapes: Round, which emphasises the curved quality of the letters, and Triangle, which reads more angular.",
+    "foundry_blurb": "Originally planned as an extension of Alias's Oban typeface but developed into a separate design. Mixes typographic and graphic reference points, mainly from market-stall trader lettering and from Thorowgood and Scotch nineteenth-century typefaces. Modulation is replaced with binary thick/thin – creating an angular, basic and inelegant look, but functional and useable. Round and Triangle serif options highlight the difference between curvy and angular emphasis."
+  },
+  {
+    "name": "Schism One",
+    "foundry": "Alias",
+    "url": "https://alias.fonts.xyz/schism-one/",
+    "designer": "Gareth Hague",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "high-contrast modulated sans-serif",
+    "classification_notes": "High-contrast modulated sans-serif derived from Alias Didot, with serifs removed. Maintains the same thin stroke weight from Light through Black, giving it a graded quality like a Didone without serifs. Letter endings are horizontal or vertical, producing pinched forms in characters like a, c, e and s. The first of three sub-families, with the thinnest hairline stroke of the set.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Schism One"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "modulated",
+      "sans-serif",
+      "incised",
+      "austere",
+      "didone-sans",
+      "editorial"
+    ],
+    "summary": "High-contrast modulated sans with a hairline stroke held constant across all weights, derived from Alias Didot.",
+    "description": "Schism One is a serif-free development of Alias Didot, stripping the serifs while keeping the high contrast and condensed character. The thin stroke weight stays constant from Light to Black – a technique called grading – making the design feel like a sans Didone. Letter endings land at strict horizontal or vertical angles, giving shapes like a, c and e a slightly pinched, constricted quality. Sharp connections between curves and verticals give the family a chiselled, austere character.",
+    "foundry_blurb": "A modulated sans-serif developed from Alias Didot as a serif-less version of the same design. Schism One has high contrast, with the same thin stroke weight from Light to Black. Letter endings are at horizontal or vertical, giving a pinched, constricted shape to characters such as a, c, e and s. The h, m, n and u have a sharp connection between curve and vertical, giving a slightly square shape."
+  },
+  {
+    "name": "Schism Two",
+    "foundry": "Alias",
+    "url": "https://alias.fonts.xyz/schism-two/",
+    "designer": "Gareth Hague",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "medium-contrast modulated sans-serif",
+    "classification_notes": "Medium-contrast modulated sans-serif derived from Alias Didot. The thin stroke is heavier than in Schism One, reducing the Didone-like quality and shifting the character towards something more incised and chiselled. The connections between verticals and curves remain cut to sharp points throughout all weights.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Schism Two"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "medium-contrast",
+      "modulated",
+      "sans-serif",
+      "incised",
+      "austere",
+      "editorial"
+    ],
+    "summary": "Medium-contrast modulated sans sitting between the Didone severity of Schism One and the near-grotesque quality of Schism Three.",
+    "description": "Schism Two is the middle member of the three-part Schism family derived from Alias Didot. Its thin stroke is heavier than Schism One's, reducing the extreme contrast and shifting from a sans-Didone character towards something more incised. The sharp connections between curves and verticals are retained across all weights, giving it a textural and chiselled quality without the bloated weight gain typical of heavier grotesques.",
+    "foundry_blurb": "Developed from Alias Didot as a serif-less version of the same design, with a thicker thin stroke than Schism One. The connections between vertical and curves remain cut to an incised point throughout all weights, giving a chiselled and textural appearance. Clear, defined forms in Bold and Black avoid the wide, heavy appearance of typical heavier sans-serifs."
+  },
+  {
+    "name": "Schism Three",
+    "foundry": "Alias",
+    "url": "https://alias.fonts.xyz/schism-three/",
+    "designer": "Gareth Hague",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "low-contrast modulated sans-serif",
+    "classification_notes": "Low-contrast modulated sans-serif, the heaviest-hairlined of the three Schism sub-families. The progressive thickening of the thin stroke from Schism One through Three is a grading device used here as a deliberate design variable. Schism Three approaches grotesque territory while retaining incised connections at curves and verticals.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard"
+    ],
+    "subfamilies": [
+      "Schism Three"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "low-contrast",
+      "modulated",
+      "sans-serif",
+      "grotesque-adjacent",
+      "incised",
+      "graded",
+      "editorial"
+    ],
+    "summary": "Low-contrast modulated sans derived from Alias Didot, the most grotesque-like of the three Schism sub-families.",
+    "description": "Schism Three is the final member of the Schism trio, with the thickest hairline stroke of the three. The progressive increase in thin-stroke weight from Schism One to Three – normally a technical parameter called grading – is here used as the design's organising idea. Schism Three sits closest to grotesque in character, but retains the incised connections at curves and verticals that run through all three members of the family.",
+    "foundry_blurb": "The third in a set of three modulated sans-serifs developed from Alias Didot, where the thin stroke gets progressively heavier from Schism One to Schism Three. Schism Three approaches almost-Grotesk territory. The connections between vertical and curves remain cut to an incised point throughout, giving a chiselled and textural appearance. The change in thin stroke thickness across the three families – a technique called grading – is used here as a design device rather than a technical parameter."
+  }
+]

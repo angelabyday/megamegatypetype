@@ -1,0 +1,85 @@
+[
+  {
+    "name": "BL Particles",
+    "foundry": "Burrow Lab",
+    "url": "https://burrow-lab.fonts.xyz/bl-particles/",
+    "designer": "Philipp Koller",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "experimental sans",
+    "classification_notes": "Generated through Burrow Lab's parametric type system, which constructs letterforms from skeletal guides with variable stroke offsetting and outline merging. The skeleton-based method produces clean, unmodulated strokes characteristic of sans-serif forms, while the procedural origin places it in the experimental subcategory rather than a conventional grotesque or geometric lineage.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "BL Particles"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "parametric",
+      "experimental",
+      "geometric",
+      "multi-weight",
+      "generative",
+      "opentype",
+      "sans"
+    ],
+    "summary": "A six-weight parametric sans-serif family produced by Burrow Lab's procedural type tool.",
+    "description": "BL Particles is built by Burrow Lab's generative software, which derives letterforms from skeletal guides through stroke offsetting and outline manipulation rather than manual drawing. The result spans six weights from ExtraLight to Bold, making it usable across display and editorial contexts. Stylistic sets and numerator/denominator OpenType features provide additional typographic control.",
+    "foundry_blurb": "Burrow Lab describes its typefaces as outputs of a parametric type system that formalises the rules behind letterforms into a framework of logic and constraints. Rather than drawing paths manually, the designer controls parameters and the glyphs are generated in real time from blueprint through skeleton to finished outline."
+  },
+  {
+    "name": "BL Fallback",
+    "foundry": "Burrow Lab",
+    "url": "https://burrow-lab.fonts.xyz/bl-fallback/",
+    "designer": "Philipp Koller",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Confirmed as a 'Fallback Sans' by Burrow Lab, placing it squarely in the sans-serif category. The design concept draws on the idea of system fallback fonts – neutral, generic grotesques like Arial or Helvetica – reimagined through Burrow Lab's parametric generation process.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "BL Fallback"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "parametric",
+      "grotesque",
+      "system",
+      "neutral",
+      "utility",
+      "web",
+      "fallback"
+    ],
+    "summary": "A parametric grotesque that riffs on the concept of the generic system fallback font.",
+    "description": "BL Fallback takes the idea of a browser or OS fallback font as its starting point, producing a neutral sans-serif through Burrow Lab's generative process. It is primarily a single-style design, available at low cost, and functions as a utilitarian or conceptual typeface rather than a workhorse family. Its appeal is largely to designers interested in the discourse around system fonts and web typography.",
+    "foundry_blurb": "Burrow Lab positions BL Fallback as a 'Fallback Sans' – a typeface that plays on the role of the fallback font in web and system typography, generated through the same parametric skeleton-to-outline workflow used across all Burrow Lab typefaces."
+  }
+]

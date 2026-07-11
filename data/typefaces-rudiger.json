@@ -1,0 +1,93 @@
+[
+  {
+    "name": "RR Opague",
+    "foundry": "Rüdiger",
+    "url": "https://rudiger.fonts.xyz/rr-opague/",
+    "designer": "Philipp Neumeyer",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Circular 'O' forms and strongly horizontal apertures create a hard, even rhythm at low contrast. Postmodern sensibility referencing nineteenth-century grotesques including Bernard Brothers & Spindler's Lining Gothic nº82 and Bauer's Venus.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Semilight",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "RR Opague"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "postmodern",
+      "variable",
+      "multilingual",
+      "editorial",
+      "display",
+      "text",
+      "grotesque"
+    ],
+    "summary": "A postmodern geometric sans in nine weights with italics, drawing on historical grotesque precedents with contemporary precision.",
+    "description": "Opague is shaped by a circular 'O' and enforced horizontal lines through its apertures and midpoints, giving it a hard, even typographic colour. Nine weights run from Thin to Black, each with a matching 15° italic, with a variable font included. Over 1000 glyphs per style cover Latin, Cyrillic and Greek across 280+ languages, with case-sensitive punctuation, multiple figure sets and ten stylistic sets.",
+    "foundry_blurb": "Rüdiger describes Opague as a synthetically distilled postmodern geometric sans, its character shaped by a circular O and horizontal lines through the apertures and middle height. A subdued palette and near-anonymous quality let it dominate at display scale or recede into interface copy without losing authority. The variable font expands the 18-style static family into an almost infinite range of intermediate options."
+  },
+  {
+    "name": "RR Repose",
+    "foundry": "Rüdiger",
+    "url": "https://rudiger.fonts.xyz/rr-repose/",
+    "designer": "Philipp Neumeyer",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "geometric display sans",
+    "classification_notes": "Uppercase-only geometric sans at a single light weight, built around fixed-width proportional logic where O equals double H equals double I. Not a text face – designed exclusively for large-scale display. Six styles derived from rounding and spacing choices rather than a weight range.",
+    "weights": [
+      "Light"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "RR Repose Prop",
+      "RR Repose Quad"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "uppercase",
+      "headline",
+      "poster",
+      "editorial",
+      "quadrospaced"
+    ],
+    "summary": "Uppercase-only geometric display sans in six rounding and spacing variations, built for large-scale headline use.",
+    "description": "Repose is an uppercase-only light sans in six styles derived from three corner-rounding levels – fully rounded, inside corners only, no rounding – crossed with two spacing approaches. Prop uses proportional kerning for tight, elegant setting; Quad abandons kerning for a fixed-width quadrospace that reads with deliberate technical awkwardness at scale. Proportions are grounded in a simple fixed-width logic where O is double H is double I.",
+    "foundry_blurb": "Rüdiger designed Repose to be used big and ostentatiously: spread across movie titles, record covers, building-sized banners and haughty headlines. The Quad sub-collection forgoes kerning in favour of simplicity and a technical awkwardness; Prop maintains the same dynamic proportions with kerning for tighter, more modest elegance. Both sub-collections cover 280+ languages across Latin and Cyrillic."
+  }
+]

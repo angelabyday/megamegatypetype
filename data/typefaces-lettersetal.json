@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Algam B",
+    "foundry": "Lettersetal",
+    "url": "https://www.lettersetal.co.uk/AlgamB.html",
+    "designer": "Matt Burvill",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "geometric humanist sans",
+    "classification_notes": "Sits at the midpoint of the Algam series, blending the rounded warmth of Algam A with the harder structure of Algam C. The single-storey 'a' retains humanist character; overall proportions are clean without being strictly geometric. The specimen tagline 'Create and Am[algam]ate' signals its role as the versatile, combining member of the family.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Algam A",
+      "Algam B",
+      "Algam C"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "humanist",
+      "versatile",
+      "display",
+      "text",
+      "variable",
+      "british"
+    ],
+    "summary": "The balanced midpoint of the Algam series, mixing friendly curves with conventional structure across nine weights.",
+    "description": "Algam B splits the difference between Algam A's soft retro shapes and Algam C's harder geometry. A single-storey 'a' and gently softened terminals keep it approachable, while the cleaner proportions give it more versatility than its warmer sibling. Nine weights from Hairline to Black come with matching italics and variable font support.",
+    "foundry_blurb": "Algam B keeps some friendly forms mixed with more traditional shapes, resulting in a usefully friendly tone for medium-length text and headlines."
+  },
+  {
+    "name": "Grotek",
+    "foundry": "Lettersetal",
+    "url": "https://www.lettersetal.co.uk/Grotek.html",
+    "designer": "Matt Burvill",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "The foundry describes it as a 'technical grotesk': neo-grotesque in proportion and character but drawn with geometric discipline throughout. Open counters, consistent stroke contrast and the neutral double-storey 'a' in italic confirm the grotesque classification. The specimen tagline 'Technical, not Identical' captures the approach precisely.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grotek",
+      "Grotek Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "neo-grotesque",
+      "technical",
+      "swiss",
+      "geometric",
+      "variable",
+      "neutral"
+    ],
+    "summary": "A Swiss-influenced technical grotesque with nine weights, geometric precision and a matched monospace companion.",
+    "description": "Grotek applies the discipline of Swiss type design to neo-grotesque proportions. Letterforms are clean and precise without being rigidly constructed from circles – curves are consistent rather than geometric. Nine weights from Hairline to Black come with true italics and variable font support, alongside a matched monospace companion in Grotek Mono.",
+    "foundry_blurb": "Pulling from ideas of Swiss precision, Grotek takes neo-grotesque ideas and draws them with geometric discipline – clean and crisp, but not dictated by strict geometry."
+  },
+  {
+    "name": "Grotek Mono",
+    "foundry": "Lettersetal",
+    "url": "https://www.lettersetal.co.uk/GrotekMono.html",
+    "designer": "Matt Burvill",
+    "year": 2023,
+    "category": "mono",
+    "subcategory": "grotesque mono",
+    "classification_notes": "A fixed-width companion to Grotek, carrying the same Swiss-influenced geometric precision into a monospace format. The equal character spacing imposes a distinct squareness on the letterforms while the grotesque structure keeps counters open and stroke contrast consistent. The oblique italic style is characteristic of monospace families.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grotek",
+      "Grotek Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "mono",
+      "grotesque",
+      "technical",
+      "geometric",
+      "swiss",
+      "variable",
+      "code"
+    ],
+    "summary": "A nine-weight monospace companion to Grotek, sharing the same geometric precision in fixed-width form.",
+    "description": "Grotek Mono brings the clean, Swiss-influenced character of Grotek into a fixed-width format. Equal character spacing forces each letterform to carry the Grotek proportions within a shared width, but geometric precision remains consistent across all nine weights. Upright and italic styles are included alongside variable font support.",
+    "foundry_blurb": "Grotek Mono applies the same geometric precision as Grotek to a monospace format – the same technical, Swiss-influenced quality across nine weights with upright and italic styles."
+  },
+  {
+    "name": "Rawleigh",
+    "foundry": "Lettersetal",
+    "url": "https://www.lettersetal.co.uk/Rawleigh.html",
+    "designer": "Matt Burvill",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "display humanist sans",
+    "classification_notes": "A display sans-serif drawn from British railway poster lettering of the 1920s–30s. The distinctive flick at curve-stem junctions and the pointed diagonals of letters like V and N are the defining features. The foundry describes it as 'humanist and geometric' – the humanist quality comes from the calligraphic flick and organic letter spacing; the geometric from the extremely sharp, constructed diagonals.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Book",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Poster"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rawleigh",
+      "Rawleigh Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "humanist",
+      "geometric",
+      "heritage",
+      "british",
+      "railway",
+      "variable",
+      "retro"
+    ],
+    "summary": "A British display sans drawn from 1920s railway poster lettering, defined by sharp diagonals and a characteristic flick.",
+    "description": "Rawleigh takes its cue from British railway poster lettering of the 1920s and 30s. A distinctive flick appears where curves meet stems – most visible in the R and italic t – while V, N and other diagonal letters carry extremely pointed strokes. Nine weights from Thin to Poster with true italics and variable font support make it one of the more characterful British display faces of recent years.",
+    "foundry_blurb": "A display type intended for big sizes, Rawleigh runs from Thin to Poster with a distinctive flick where curves meet stems and sharp, pointed diagonals – retro flair well suited to heritage branding in a modern context."
+  },
+  {
+    "name": "Rawleigh Text",
+    "foundry": "Lettersetal",
+    "url": "https://www.lettersetal.co.uk/RawleighText.html",
+    "designer": "Matt Burvill",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "humanist text sans",
+    "classification_notes": "A text-optimised companion to the display Rawleigh. The distinctive flick is removed, diagonal strokes are blunted and x-height is raised for legibility at smaller sizes. The addition of a SemiBold weight (in place of the display's sharper weight jump) and the smoother overall forms confirm this as a redesign for text use rather than a scaled-down display font.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Book",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rawleigh",
+      "Rawleigh Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "text",
+      "humanist",
+      "geometric",
+      "heritage",
+      "british",
+      "variable",
+      "legible",
+      "body"
+    ],
+    "summary": "Rawleigh redrawn for text sizes, with the display flick removed, x-height raised and diagonals softened.",
+    "description": "Rawleigh Text adapts the display Rawleigh for body text and smaller scales. The characteristic flick is gone, diagonal strokes are blunted and the x-height is raised – all in service of better on-screen and print legibility. The weight range adds a SemiBold for fine-grained text hierarchy, with matching italics and variable font support across nine weights.",
+    "foundry_blurb": "Rawleigh Text tones down the distinctive display features of Rawleigh – removing the flick, blunting the diagonals and raising the x-height – to deliver a smoother reading experience at text sizes."
+  },
+  {
+    "name": "Algam C",
+    "foundry": "Lettersetal",
+    "url": "https://www.lettersetal.co.uk/AlgamC.html",
+    "designer": "Matt Burvill",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "The most structured and traditional of the Algam series. The double-storey 'a', squarer curvature and higher stroke contrast align it with the neo-grotesque tradition rather than humanist sans. The specimen tagline 'Heavy Duty Cutie' acknowledges its strength-first character while the rounded terminations stop it reading as purely cold.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Algam A",
+      "Algam B",
+      "Algam C"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "workhorse",
+      "headline",
+      "high-contrast",
+      "variable",
+      "traditional"
+    ],
+    "summary": "The most structured of the Algam series, with squarer curves and higher stroke contrast for sturdy headlines and text.",
+    "description": "Algam C sits at the formal, workhorse end of the Algam spectrum. Squarer curvature, higher stroke contrast and a double-storey 'a' give it a no-nonsense quality suited to headlines and text where authority counts. Nine weights from Hairline to Black with matching italics and variable font support complete the family.",
+    "foundry_blurb": "Algam C has squarer curvature, higher contrast and traditional shapes that bring a stronger feel to headlines and text, with a no-nonsense, hard-working character."
+  },
+  {
+    "name": "Algam A",
+    "foundry": "Lettersetal",
+    "url": "https://www.lettersetal.co.uk/AlgamA.html",
+    "designer": "Matt Burvill",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "rounded humanist sans",
+    "classification_notes": "The most playful and humanist of the Algam series. Wide, soft curves, a single-storey 'a' and consistently round counters throughout place this in the rounded humanist grotesque tradition. The retro character of the heavier weights references mid-century European grotesques without directly quoting any single source.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Algam A",
+      "Algam B",
+      "Algam C"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "humanist",
+      "retro",
+      "playful",
+      "friendly",
+      "variable",
+      "display",
+      "branding"
+    ],
+    "summary": "The warmest and most retro of the Algam series, built on soft rounded curves with a friendly, playful energy.",
+    "description": "Algam A is the most expressive of the Algam variants. Wide, soft curves, a single-storey 'a' and circular counters give it a warmth and retro character that becomes more pronounced in the heavier weights. It works well in branding, packaging and editorial settings where personality and legibility need to coexist.",
+    "foundry_blurb": "Algam A's softer curves and friendly shapes bring a playfully retro aesthetic, sitting at the expressive, playful end of the Algam range."
+  },
+  {
+    "name": "Algam Wav VF",
+    "foundry": "Lettersetal",
+    "url": "https://lettersetal.fonts.xyz/algam-wav-vf/",
+    "designer": "Matt Burvill",
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental variable sans",
+    "classification_notes": "An experimental variable font offshoot of the Algam sans-serif series. The VF designation confirms variable font format; the Wav name suggests a wave-based or distortion axis applied to the Algam letterforms. Classified as display given its experimental, effect-driven nature and limited everyday utility as a text face.",
+    "weights": [],
+    "optical_sizes_or_widths": [
+      "variable"
+    ],
+    "subfamilies": [
+      "Algam Wav VF"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "variable",
+      "experimental",
+      "display",
+      "sans-serif",
+      "wave",
+      "algam",
+      "effect",
+      "motion"
+    ],
+    "summary": "An experimental variable font from the Algam family, applying a wave-based axis to the base letterforms for display use.",
+    "description": "Algam Wav VF applies a variable wave or distortion axis to the Algam sans-serif letterforms. The result is an experimental display font suited to poster work, motion graphics and typographic contexts where letterforms need to carry additional visual energy beyond weight alone. It sits alongside the Experim-etal series of experimental variable releases from Lettersetal.",
+    "foundry_blurb": "Algam Wav VF is a variable font from the Algam family, available from Lettersetal from €30, part of a programme of experimental variable font releases that push the boundaries of the original designs."
+  }
+]

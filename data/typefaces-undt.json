@@ -1,0 +1,42 @@
+[
+  {
+    "name": "UT Phänomen",
+    "foundry": "Undt",
+    "url": "https://undt.fonts.xyz/ut-phanomen/",
+    "designer": "Marcus Leis Allion",
+    "year": null,
+    "category": "display",
+    "subcategory": "reverse-contrast display",
+    "classification_notes": "Features horizontal contrast — thicker horizontals than verticals — directly inverting the conventional stress axis of traditional type. Influenced by MICR E-13B banking typography, placing it in the tradition of reverse-contrast and industrial display lettering with a postdigital theoretical framing.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "UT Phänomen"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "postdigital",
+      "horizontal contrast",
+      "reverse contrast",
+      "display",
+      "industrial",
+      "experimental",
+      "MICR",
+      "technical"
+    ],
+    "summary": "A display face with horizontal contrast drawn from MICR E-13B banking typography and postdigital aesthetics.",
+    "description": "UT Phänomen inverts the conventional stress axis: horizontals are heavy where verticals are light, taking direct cues from MICR E-13B, the magnetic ink character recognition font used on bank cheques. The result is an industrial, technically-inflected display typeface that sits within the reverse-contrast lettering tradition. It suits editorial and brand contexts where a postdigital, machine-influenced aesthetic is the point.",
+    "foundry_blurb": "A typeface with horizontal contrast that continues Undt's exploration into postdigital aesthetics, influenced in part by MICR E-13B, the magnetic ink character recognition font developed by the Stanford Research Institute and General Electric Computer Laboratory. Designer Marcus Leis Allion describes UNDT as working at a question of form, moving between the history of writing and the aesthetics of technical mediation."
+  }
+]

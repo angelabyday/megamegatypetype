@@ -1,0 +1,49 @@
+[
+  {
+    "name": "MRL Transit",
+    "foundry": "Morula Type",
+    "url": "https://morula-type.fonts.xyz/mrl-transit/",
+    "designer": "Valerio Monopoli",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "display sans",
+    "classification_notes": "MICR (Magnetic Ink Character Recognition) lettering reimagined as a display type, with geometric construction, rounded strokes and monolinear weight. The inkball-derived forms and notched terminals place it firmly in the display category rather than any functional text classification.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Ultra Condensed",
+      "Compressed",
+      "Condensed",
+      "Semi Condensed",
+      "Medium",
+      "Semi Expanded",
+      "Expanded",
+      "Ultra Expanded"
+    ],
+    "subfamilies": [
+      "MRL Transit"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "MICR",
+      "display",
+      "variable",
+      "width-axis",
+      "retro",
+      "logotype",
+      "geometric",
+      "vintage-computing"
+    ],
+    "summary": "A MICR-inspired display type spanning eight widths with a variable font and vintage computing character.",
+    "description": "MRL Transit reinterprets the functional letterforms of Magnetic Ink Character Recognition type, adding rounded strokes and a retro quality drawn from early computing aesthetics. It comes in eight static widths – ultra condensed to ultra expanded – plus a variable font that moves fluidly along the width axis. An alternative stylistic set introduces specular counters and exaggerated drop terminals for further variation.",
+    "foundry_blurb": "Morula Type describe Transit as taking MICR's functional origins and reimagining them with a rounded, retro sensibility rooted in vintage computing. The design spans eight distinct widths with a complete alternative glyph set featuring specular counters and drop terminals. The variable version enables smooth animations along the width axis, making it suited to logos and animated titles."
+  }
+]

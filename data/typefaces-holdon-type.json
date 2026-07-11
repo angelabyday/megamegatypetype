@@ -1,0 +1,100 @@
+[
+  {
+    "name": "HD Koncert",
+    "foundry": "Holdon Type",
+    "url": "https://www.holdontype.design/typepage-koncert",
+    "designer": "Fadhl Haqq",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "display grotesque",
+    "classification_notes": "Wide-set, blocky geometric letterforms drawn from 1960s music poster lettering; sharp-edged forms, uniform stroke widths and open counters place it in the display grotesque tradition, optimised for headline and large-format use across four scripts.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "HD Koncert"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek",
+      "Thai"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "grotesque",
+      "vintage",
+      "poster",
+      "multi-script",
+      "headline",
+      "geometric",
+      "wide"
+    ],
+    "summary": "A wide, blocky display grotesque spanning four scripts, drawn from 1960s music poster lettering.",
+    "description": "HD Koncert takes its proportions from vintage concert poster typography, translating those blocky, wide shapes into sharp geometric letterforms with even stroke weights. Open counters keep the type readable at scale without sacrificing visual weight. Eight weights span Latin, Cyrillic, Greek and Thai, making it one of the few display faces of this style with genuine multi-script range.",
+    "foundry_blurb": "Holdon Type describes HD Koncert as built around the blocky shapes and wide proportions of 1960s concert poster lettering, with geometric sharp-edged forms designed to deliver impact at headline sizes across four scripts."
+  },
+  {
+    "name": "HD Axiom",
+    "foundry": "Holdon Type",
+    "url": "https://www.holdontype.design/typepage-axiom",
+    "designer": "Fadhl Haqq",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Nine-weight geometric sans with variable font support; OpenType alternates for j, t and Q suggest precision-oriented design, positioning it between neutral grotesque and functional geometric sans.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "HD Axiom"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "variable",
+      "multi-weight",
+      "neutral",
+      "text",
+      "alternates",
+      "branding"
+    ],
+    "summary": "A nine-weight geometric sans with variable support and OpenType alternates for j, t and Q.",
+    "description": "HD Axiom is a clean geometric sans-serif running from Thin to Black with a variable font for granular weight control. OpenType features include fractions and alternates for j, t and Q, giving designers flexibility within an otherwise systematic framework. The range and variable support make it suitable for branding, UI and extended text work.",
+    "foundry_blurb": "Holdon Type offers HD Axiom as a complete sans family with nine static weights plus a variable font, built with practical OpenType features including fractions and alternate glyphs for j, t and Q."
+  }
+]

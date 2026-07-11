@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Thow",
+    "foundry": "Duong Tran",
+    "url": "https://duong-tran.fonts.xyz/thow/",
+    "designer": "Dương Trần",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "A transitional serif referencing Baskerville and Times New Roman, filtered through the aesthetic of the Đông Dương Tạp Chí newspaper (1913–1919). Generous x-heights and open terminals update what is otherwise a historically grounded structure. The handling of Vietnamese diacritics – stacked to the right of the circumflex – reflects a considered approach to the language's dense mark combinations.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Thow"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "serif",
+      "text",
+      "workhorse",
+      "vietnamese",
+      "editorial",
+      "heritage"
+    ],
+    "summary": "A transitional text serif rooted in Vietnamese newspaper heritage, with six weights and full Vietnamese diacritic support.",
+    "description": "Thow draws its proportions and mood from the typefaces used in Đông Dương Tạp Chí (1913–1919), Vietnam's early print culture, while staying close to the transitional conventions of Baskerville and Times New Roman. Generous x-heights and open terminals keep it readable at text sizes. Vietnamese diacritics are stacked to the right of the circumflex – a deliberate solution to the complex mark combinations the language requires.",
+    "foundry_blurb": "Described as a workhorse serif that blends transitional and modern influences, drawing from the historic Vietnamese journal Đông Dương Tạp Chí (1913–1919) and classics like Baskerville and Times New Roman. Designed to combine historical elegance with contemporary utility, featuring generous x-heights, open terminals and carefully drawn Vietnamese diacritics."
+  },
+  {
+    "name": "Loes",
+    "foundry": "Duong Tran",
+    "url": "https://duong-tran.fonts.xyz/loes/",
+    "designer": "Dương Trần",
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "A high-contrast display serif with organic, sweeping strokes modelled on stalactites and stalagmites rather than the calligraphic pen tradition. The x-height is tightened progressively from Thin to Bold – an intentional structural decision for display legibility at large sizes. Recognised by the Type Directors Club in 2024.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Loes"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "high-contrast",
+      "editorial",
+      "headlines",
+      "luxury",
+      "organic"
+    ],
+    "summary": "A high-contrast display serif with sweeping, organic strokes drawn from the forms of stalactites and stalagmites.",
+    "description": "Loes uses Roman letterforms as its foundation and introduces high-contrast, flowing strokes drawn from mineral formations rather than calligraphic sources. The x-height narrows progressively from Thin to Bold, keeping letterforms optically consistent across the range at large sizes. At 600+ glyphs covering extended Latin and Vietnamese, it was recognised by the Type Directors Club in 2024.",
+    "foundry_blurb": "Described as a contemporary and luxurious serif display typeface that mimics the gorgeous flow inspired by stalactites and stalagmites. Draws on classic Roman letterforms for structural grounding while introducing playful rhythms and a majestic texture. Designed for headlines, logos and covers."
+  },
+  {
+    "name": "Lavishe",
+    "foundry": "Duong Tran",
+    "url": "https://duong-tran.fonts.xyz/lavishe/",
+    "designer": "Dương Trần",
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "glyphic serif",
+    "classification_notes": "An incised or glyphic serif – stroke endings derived from Roman carved letterforms rather than calligraphic pen strokes, giving a wedge or triangular serif form rather than bracketed ones. Sits in hybrid territory between serif and sans-serif. The designer notes this style is rare in the Vietnamese type landscape, which was the stated motivation for creating it.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lavishe"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "glyphic",
+      "incised",
+      "display",
+      "serif",
+      "vietnamese",
+      "roman",
+      "organic"
+    ],
+    "summary": "A glyphic serif blending Roman carved letterform traditions with contemporary curves, filling a gap in Vietnamese type design.",
+    "description": "Lavishe takes its structural cue from Roman incised lettering, giving its serifs a wedge or triangular form rather than the bracketed serifs of the calligraphic tradition. Sweeping serifs make it striking at display sizes, while distinctively curved lowercase terminals keep the texture calm and readable at smaller settings. The name derives from the Vietnamese phrase 'Là vì SHE', reflecting the character the designer embedded in the letterforms.",
+    "foundry_blurb": "Described as a dedication to filling a gap in the Vietnamese type library, where glyphic and incised styles are rare. Blends traditional Roman carved letter details with contemporary treatment, featuring flourish serifs and distinctively curved lowercase terminals that give a calm, organic texture. Designed as a hybrid between serif and sans-serif."
+  }
+]

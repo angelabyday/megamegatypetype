@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Teaser",
+    "foundry": "Teaser",
+    "url": "https://teaser.fonts.xyz/teaser/",
+    "designer": "Reymund Schröder",
+    "year": null,
+    "category": "serif",
+    "subcategory": "text serif",
+    "classification_notes": "Classified as serif based on the OpenType feature set: Historical Forms, Oldstyle Figures, Standard Ligatures and Discretionary Ligatures are most strongly associated with historically-grounded serif text faces. Reymund Schröder's background in historical revivals at Forgotten Shapes supports this reading. Direct visual confirmation was not available as the site returns 403 errors.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Teaser"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "type": "foundry",
+    "tags": [
+      "historical",
+      "text",
+      "revival",
+      "oldstyle figures",
+      "ligatures",
+      "single weight",
+      "indie"
+    ],
+    "summary": "A single-style historically-grounded text face from Reymund Schröder's Leipzig indie studio.",
+    "description": "Teaser is a solo release from Reymund Schröder, co-founder of Forgotten Shapes and designer behind NaN Hyena and NaN Druid. Its OpenType feature set — oldstyle figures, historical forms, standard and discretionary ligatures — points to a carefully detailed text typeface with historical grounding. As a single-style release, it reads as a contained typographic statement rather than a broad workhorse family.",
+    "foundry_blurb": "Teaser Studio brings together several side projects by Reymund Schröder, a Leipzig-based type designer and co-founder of Forgotten Shapes, who also works with Production Type and NaN."
+  }
+]
