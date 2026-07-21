@@ -93,6 +93,50 @@
     "foundry_blurb": "Narrow Type describe Emilio as a modern serif family of 14 styles that balances traditional and modern approaches. Inspired by eighties advertising visuals and typefaces like Times and Garamond, it introduces contemporary details including calligraphy-inspired reductive strokes and distinctive leg shapes on the K and R. Stylistic alternates, standard and discretionary ligatures, and other OpenType features are included, with the foundry positioning it for editorial design, posters, covers, branding and logo design."
   },
   {
+    "name": "Azurio",
+    "foundry": "Narrow Type",
+    "url": "https://narrowtype.com/fonts/azurio/",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "sharp modern serif",
+    "classification_notes": "Modern serif with geometric and triangular construction inspired by the mineral Azurite. Pointed wedge serifs, squared counters and triangular crossbar alternates on A and H give it a crisp, hard-edged character. Large x-height and moderate contrast make it viable for text as well as display. Includes stylistic alternates, standard and discretionary ligatures, plus a variable font.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Azurio"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "sharp",
+      "geometric",
+      "branding",
+      "editorial",
+      "logo",
+      "variable",
+      "mineral"
+    ],
+    "summary": "A six-weight sharp serif with mineral-inspired geometry — pointed wedge serifs, squared counters and triangular crossbar alternates give it strong personality at headline sizes.",
+    "description": "Azurio takes its name and structure from Azurite, translating the mineral's crystalline geometry into a modern serif: pointed wedge serifs, squared counters and optional triangular crossbars on A and H. Six weights from Light to Black are available as static files and a variable font. Despite its display personality, a large x-height and moderate contrast keep it workable for longer text.",
+    "foundry_blurb": "Narrow Type describe Azurio as 'a modern, sharp serif type family ranging from light to black' with 'numerous geometric and triangular details reminiscent of the mineral Azurite', including 'squared counters and pointed wedge serifs'. Stylistic alternates on A and H offer two triangular crossbar variants; the family includes standard and discretionary ligatures and additional OpenType features. Positioned for branding, visual identities, logo design, print and editorial."
+  },
+  {
     "name": "Remixa",
     "foundry": "Narrow Type",
     "url": "https://narrowtype.com/fonts/remixa/",
