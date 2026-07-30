@@ -355,6 +355,9 @@ import serebryakov from "@/data/typefaces-serebryakov.json";
 import retrosupplyCo from "@/data/typefaces-retrosupply-co.json";
 import bitstream from "@/data/typefaces-bitstream.json";
 
+// Batch 26 — limitype + Zarma Type
+import limitype from "@/data/typefaces-limitype.json";
+import zarmaType from "@/data/typefaces-zarma-type.json";
 // Batch 25 — best-tier gap-fill
 import cotypeFondry from "@/data/typefaces-cotype-foundry.json";
 import tupokompanii from "@/data/typefaces-tupokompanii.json";
@@ -890,6 +893,9 @@ export function getAllTypefaces(): Typeface[] {
         teaser,
         undt,
         weLoveFonts,
+        // Batch 26 — limitype + Zarma Type
+        limitype,
+        zarmaType,
         // Batch 25 — best-tier gap-fill
         cotypeFondry,
         tupokompanii,
