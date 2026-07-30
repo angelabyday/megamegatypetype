@@ -355,6 +355,47 @@ import serebryakov from "@/data/typefaces-serebryakov.json";
 import retrosupplyCo from "@/data/typefaces-retrosupply-co.json";
 import bitstream from "@/data/typefaces-bitstream.json";
 
+// Batch 24 — recent additions
+import aboutType from "@/data/typefaces-about-type.json";
+import alias from "@/data/typefaces-alias.json";
+import antoninBertrand from "@/data/typefaces-antonin-bertrand.json";
+import atipoFoundry from "@/data/typefaces-atipo-foundry.json";
+import burrowLab from "@/data/typefaces-burrow-lab.json";
+import chillType from "@/data/typefaces-chill-type.json";
+import dariaCohen from "@/data/typefaces-daria-cohen.json";
+import daytonaMess from "@/data/typefaces-daytona-mess.json";
+import dinamoNew from "@/data/typefaces-dinamo.json";
+import displaayNew from "@/data/typefaces-displaay.json";
+import duongTran from "@/data/typefaces-duong-tran.json";
+import f37Foundry from "@/data/typefaces-f37-foundry.json";
+import familiarFaces from "@/data/typefaces-familiar-faces.json";
+import florianRunge from "@/data/typefaces-florian-runge.json";
+import fredsfonts from "@/data/typefaces-fredsfonts.json";
+import giuliaBoggio from "@/data/typefaces-giulia-boggio.json";
+import grilliNew from "@/data/typefaces-grilli-type.json";
+import hadrienHerzog from "@/data/typefaces-hadrien-herzog.json";
+import holdonType from "@/data/typefaces-holdon-type.json";
+import jFoundry from "@/data/typefaces-j-foundry.json";
+import jsType from "@/data/typefaces-js-type.json";
+import keusselStudio from "@/data/typefaces-keussel-studio.json";
+import kindTypeFoundry from "@/data/typefaces-kind-type-foundry.json";
+import klimTypeFoundry from "@/data/typefaces-klim-type-foundry.json";
+import lenaWeber from "@/data/typefaces-lena-weber.json";
+import leonHugues from "@/data/typefaces-leon-hugues.json";
+import lettersetal from "@/data/typefaces-lettersetal.json";
+import loveLetters from "@/data/typefaces-love-letters.json";
+import morulaType from "@/data/typefaces-morula-type.json";
+import pangramPangramNew from "@/data/typefaces-pangram-pangram.json";
+import resistenzaType from "@/data/typefaces-resistenza-type.json";
+import rudiger from "@/data/typefaces-rudiger.json";
+import sharpType from "@/data/typefaces-sharp-type.json";
+import spaceType from "@/data/typefaces-space-type.json";
+import spaghetype from "@/data/typefaces-spaghetype.json";
+import studioFeixenNew from "@/data/typefaces-studio-feixen.json";
+import teaser from "@/data/typefaces-teaser.json";
+import undt from "@/data/typefaces-undt.json";
+import weLoveFonts from "@/data/typefaces-we-love-fonts.json";
+
 import { FOUNDRIES, getFoundryByName, type FoundryInfo } from "./foundry-map";
 import foundryResellers from "@/data/foundry-resellers.json";
 
@@ -804,6 +845,46 @@ export function getAllTypefaces(): Typeface[] {
         serebryakov,
         retrosupplyCo,
         bitstream,
+        // Batch 24 — recent additions
+        aboutType,
+        alias,
+        antoninBertrand,
+        atipoFoundry,
+        burrowLab,
+        chillType,
+        dariaCohen,
+        daytonaMess,
+        dinamoNew,
+        displaayNew,
+        duongTran,
+        f37Foundry,
+        familiarFaces,
+        florianRunge,
+        fredsfonts,
+        giuliaBoggio,
+        grilliNew,
+        hadrienHerzog,
+        holdonType,
+        jFoundry,
+        jsType,
+        keusselStudio,
+        kindTypeFoundry,
+        klimTypeFoundry,
+        lenaWeber,
+        leonHugues,
+        lettersetal,
+        loveLetters,
+        morulaType,
+        pangramPangramNew,
+        resistenzaType,
+        rudiger,
+        sharpType,
+        spaceType,
+        spaghetype,
+        studioFeixenNew,
+        teaser,
+        undt,
+        weLoveFonts,
       ] as RawTypeface[][]
     )
       .flat()
