@@ -405,6 +405,11 @@ import studioFeixenNew from "@/data/typefaces-studio-feixen.json";
 import teaser from "@/data/typefaces-teaser.json";
 import undt from "@/data/typefaces-undt.json";
 import weLoveFonts from "@/data/typefaces-we-love-fonts.json";
+// Batch 29 — okay-tier gap-fill
+import tf205 from "@/data/typefaces-205tf.json";
+import folch from "@/data/typefaces-folch.json";
+import milieuGrotesque from "@/data/typefaces-milieu-grotesque.json";
+import monkeyType from "@/data/typefaces-monkey-type.json";
 
 import { FOUNDRIES, getFoundryByName, type FoundryInfo } from "./foundry-map";
 import foundryResellers from "@/data/foundry-resellers.json";
@@ -905,6 +910,11 @@ export function getAllTypefaces(): Typeface[] {
         tupokompanii,
         rellence,
         ianAdjeidu,
+        // Batch 29 — okay-tier gap-fill
+        tf205,
+        folch,
+        milieuGrotesque,
+        monkeyType,
       ] as RawTypeface[][]
     )
       .flat()

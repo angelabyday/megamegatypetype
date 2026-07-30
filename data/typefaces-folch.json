@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Acid Grotesk",
+    "url": "https://acidgrotesk.folchstudio.com/",
+    "foundry": "FOLCH",
+    "designer": "Josep Puy",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "A grotesque sans-serif drawing on geometric conventions while injecting warmth through rounded vertices, large open counters, and a generous x-height. Fine-weight accents and symbols contrast against the regular stroke weight – a system-level detail that adds coherence. Stylistic alternates include an exaggerated snake-like 's', an inverted 'y' tail, and a smiley face glyph; functional enough for text, characterful enough for display.",
+    "weights": [
+      "Extra Light",
+      "Ultra Light",
+      "Light",
+      "Normal",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "rounded",
+      "editorial",
+      "cultural",
+      "display",
+      "text",
+      "playful",
+      "multilingual",
+      "OpenType alternates",
+      "acid house"
+    ],
+    "summary": "A rounded geometric grotesque with nine weights and matching italics, drawn for Acid House Barcelona's identity and engineered thoroughly enough – 224 languages, 507 characters, OpenType alternates – to carry well beyond it.",
+    "description": "Acid Grotesk pairs a clean grotesque structure with smooth rounded vertices and generous open counters, producing a face that reads as confident and approachable without tipping into novelty. Designed by Josep Puy at Folch, it draws on the visual culture of acid house music while functioning as a proper text and display typeface across the full weight range. OpenType stylistic alternates – including an exaggerated 's', inverted 'y' tail, and smiley face glyph – add cultural specificity without undermining the utility of the underlying system.",
+    "foundry_blurb": "FOLCH describes Acid Grotesk as a fluid and energetic typeface born from the abstract universe of acid house music, designed to work equally well in headlines and body text. The design deliberately avoided psychedelic display excess in favour of a refined, functional grotesque with a transgressive spirit underneath. The smiley face glyph was conceived as a natural inclusion – a direct, globally recognised reference to acid house's iconic visual culture.",
+    "type": "foundry"
+  },
+  {
+    "name": "Good Direction Sans",
+    "url": "https://gooddirectionsans.folchstudio.com/",
+    "foundry": "FOLCH",
+    "category": "sans-serif",
+    "subcategory": "Humanist Sans",
+    "classification_notes": "Humanist sans with geometric construction, rooted in wayfinding and signage tradition. Open apertures and abrupt junctions keep legibility high at smaller sizes. Features 10 stylistic sets, an extensive directional arrow glyph set, and OpenType support for fractions, ordinals, sub/superscripts and localised forms. Currently released as a single weight; additional weights listed as forthcoming.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Western European",
+      "Central European",
+      "Eastern European"
+    ],
+    "tier": "okay",
+    "tags": [
+      "wayfinding",
+      "signage",
+      "humanist",
+      "geometric",
+      "arrows",
+      "legible",
+      "accessible",
+      "commissioned",
+      "environmental"
+    ],
+    "summary": "A signage-rooted humanist sans originally commissioned for wayfinding agency Avanti, built around open letterforms, geometric construction and an extensive set of directional arrow glyphs.",
+    "description": "Designed by Pablo Fernández at FOLCH for Avanti's wayfinding and urban design practice, Good Direction Sans translates the legibility demands of classic signage typography into a contemporary retail typeface. Geometric shapes pair with abrupt junctions and open apertures, while 10 stylistic sets and a rich bank of directional arrows give it genuine utility in environmental and navigational contexts. Currently available in one weight, with additional cuts in development.",
+    "foundry_blurb": "Good Direction Sans was created for Avanti, a strategic agency working in wayfinding and urban tactics. Inspired by the humanist and geometric typefaces that shaped signage history, it pairs geometric construction with abrupt junctions and open letterforms to meet contemporary accessibility standards while bringing a fresh sensibility to the classic wayfinding tradition.",
+    "designer": "Pablo Fernández",
+    "year": 2021,
+    "type": "foundry"
+  },
+  {
+    "name": "Odd Pixel",
+    "url": "http://oddpixel.folchstudio.com/",
+    "foundry": "FOLCH",
+    "designer": "Pablo Fernández de la Fuente",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "Pixel / Bitmap",
+    "classification_notes": "Grid-based pixel display typeface in the bitmap tradition. Built on a strict pixel grid with the visual vocabulary of early digital screens and low-resolution display. The name implies unconventional or irregular pixel forms rather than orthodox bitmap letterforms – a playful angle on the genre rather than a straight archive revival.",
+    "weights": [],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "tags": [
+      "pixel",
+      "bitmap",
+      "display",
+      "retro",
+      "digital",
+      "screen",
+      "lo-fi",
+      "grid",
+      "gaming"
+    ],
+    "summary": "A pixel display typeface from Fonts From Folch, drawing on the bitmap and early screen traditions through the craft sensibility FOLCH brings to its broader type library.",
+    "description": "Designed by Pablo Fernández de la Fuente under the Fonts From Folch label, Odd Pixel draws on the bitmap heritage of early digital screens and low-resolution display typography. The studio frames it as a revival of pixel-era type – a genre FOLCH approaches with the same attention to form that characterises its text families. The name points to an irregular or unconventional take on the grid rather than a faithful period pastiche.",
+    "foundry_blurb": "Fonts From Folch is the type foundry arm of Barcelona's FOLCH Studio, producing retail typefaces for licensing alongside bespoke custom work for clients.",
+    "type": "foundry"
+  },
+  {
+    "name": "Acid Grotesk Soft",
+    "url": "https://fontsfromfolch.com/",
+    "foundry": "FOLCH",
+    "designer": "Pablo Fernández de la Fuente",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "Geometric Grotesk",
+    "classification_notes": "Rounded-terminal variant of Acid Grotesk. Shares the parent's proportions, x-height and structural rhythm but applies soft stroke endings throughout, shifting the overall register from assertive to approachable. No italics in the retail release; nine weights cover the full range from Ultra Light to Black.",
+    "weights": [
+      "Ultra Light",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Extended Latin"
+    ],
+    "tier": "okay",
+    "tags": [
+      "grotesk",
+      "rounded terminals",
+      "soft",
+      "barcelona",
+      "geometric",
+      "brand",
+      "editorial",
+      "display",
+      "text",
+      "friendly"
+    ],
+    "summary": "A rounded-terminal companion to Acid Grotesk — nine weights from Ultra Light to Black with softened stroke endings that make it warmer than its parent without losing structural discipline.",
+    "description": "Acid Grotesk Soft takes the proportions and rhythm of FOLCH's Acid Grotesk and applies consistently softened terminals throughout, producing a face that reads as approachable rather than assertive. Nine weights run from Ultra Light to Black with no italic counterparts, so it works best in branding and display contexts where the warmth of rounded endings is the point. Designed by Pablo Fernández de la Fuente at FOLCH's Barcelona studio, it was in development through 2023 and became available for retail licensing in late 2024.",
+    "foundry_blurb": "Fonts From Folch (FFF) is the retail type arm of Barcelona's Folch Studio, releasing a small and considered catalogue of typefaces that emerge directly from the studio's own graphic design practice and commissioned work.",
+    "type": "foundry"
+  },
+  {
+    "name": "Protect",
+    "url": "https://fontsfromfolch.com/",
+    "foundry": "FOLCH",
+    "category": "sans-serif",
+    "subcategory": "Unreleased – no specimen available",
+    "classification_notes": "Protect is listed as \"coming soon\" on fontsfromfolch.com with no public specimen, weight listing, or design description at time of research (July 2026). Category, subcategory and all technical details cannot be verified until the typeface is released. Classification fields are provisional placeholders only.",
+    "weights": [],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "tags": [
+      "coming-soon",
+      "Barcelona",
+      "editorial",
+      "FFF",
+      "unreleased"
+    ],
+    "summary": "An unreleased retail typeface from Fonts From Folch, teased on their homepage with no specimen or design details published as of July 2026.",
+    "description": "Protect is an upcoming retail typeface from Fonts From Folch (FFF), the type division of Barcelona-based Folch Studio. No specimen, weights, or design notes have been made public – the foundry lists it only as \"coming soon\" alongside Odd Pixel on their homepage. FOLCH's existing retail catalogue spans considered grotesques and humanist sans-serifs with strong editorial character; further research is needed once the typeface launches before this record can be properly assessed.",
+    "foundry_blurb": "Fonts From Folch is a digital type foundry offering retail and custom typefaces, designing and distributing type that reimagines historical letterforms to speak the language of the present. The studio, based in Barcelona, works across both bespoke commissions and retail releases distributed through fontsfromfolch.com.",
+    "designer": null,
+    "year": null,
+    "type": "foundry"
+  },
+  {
+    "name": "RIC",
+    "url": "https://fontsfromfolch.com/",
+    "foundry": "FOLCH",
+    "category": "display",
+    "subcategory": "compact all-caps display sans",
+    "classification_notes": "Compact, all-caps display family in four styles, each colour-coded in FOLCH's brand materials (blue, brown, green, purple). Described on Instagram as \"a compact all-caps, four-style family.\" At least one style variant has an associated physical stencil template (\"Made for the real world\"), pointing toward signage and wayfinding applications. The four styles appear to be designated alphabetically — the physical template post references \"FFF RIC (A).\" Compact proportions and uppercase-only orientation place this firmly in display territory. Whether letterforms carry any serif detail is unconfirmed; given FOLCH's history with sans-serif work (Acid Grotesk, Good Direction Sans), a sans-serif classification is the most probable reading.",
+    "weights": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "tags": [
+      "all-caps",
+      "display",
+      "compact",
+      "stencil",
+      "signage",
+      "four-style",
+      "Barcelona",
+      "Spain",
+      "uppercase-only",
+      "physical template"
+    ],
+    "summary": "A compact, all-caps display family from Barcelona's Fonts From Folch, released across four colour-coded styles with at least one variant intended for physical stencil use.",
+    "description": "RIC is a compact, uppercase-only display typeface built in four distinct styles, each assigned a colour in FOLCH's marketing materials. The family is designed to function in real-world contexts as well as on screen — a physical stencil template exists for at least one style, pointing to use in signage and environmental graphics. It follows FOLCH's pattern of typefaces with strong design intent and cultural grounding rather than generic utility.",
+    "foundry_blurb": "Fonts From Folch (FFF) is the type division of Barcelona-based Folch Studio, offering retail and custom typefaces available for licensing across desktop, web, app, broadcast and social media.",
+    "designer": null,
+    "year": 2025,
+    "type": "foundry"
+  },
+  {
+    "name": "Tool Serif & Sans",
+    "url": "https://tool.folchstudio.com",
+    "foundry": "FOLCH",
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "A paired serif and sans-serif superfamily, each sub-family available in five weights (20 styles in total, likely roman plus italic per weight). Designed originally as an in-house studio system before release as retail. The serif anchors the family; exact stylistic classification (humanist, transitional) cannot be confirmed from public materials alone, but the stated design purpose – maximum versatility across every studio use-case – points toward a text-oriented, moderate-contrast serif with a corresponding neutral grotesk companion.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Tool Serif",
+      "Tool Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "tags": [
+      "paired",
+      "superfamily",
+      "editorial",
+      "workhorse",
+      "system",
+      "in-house",
+      "text",
+      "Barcelona",
+      "studio"
+    ],
+    "summary": "A paired serif and sans-serif superfamily grown from Folch Studio's own need for a flexible in-house type system, each family offered in five weights and designed to work independently or together.",
+    "description": "Tool was built to solve a real problem: Folch Studio needed a single typeface system that could handle everything across the studio without compromise. The answer was two complementary families – Tool Serif and Tool Sans – each in five weights, deployable separately or in combination. The families are described as non-identical twins: related in spirit but distinct in character, which is what gives the system its range.",
+    "foundry_blurb": "Fonts From Folch (FFF) is a Barcelona-based digital type foundry that designs and distributes retail and custom typefaces, drawing on historical letterform traditions to produce work relevant to contemporary practice.",
+    "designer": null,
+    "year": null,
+    "type": "foundry"
+  }
+]

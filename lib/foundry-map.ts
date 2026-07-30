@@ -456,6 +456,13 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Ian Adjeidu", slug: "ian-adjeidu", homepage: "https://studioplums.com/", tier: "notgood" },
   { name: "Dirty Line Studio", slug: "dirty-line-studio", homepage: "https://dirtylinestudio.com/", tier: "okay" },
   { name: "Latinotype", slug: "latinotype", homepage: "https://latinotype.com/", tier: "okay" },
+  // Batch 29 — okay-tier gap-fill
+  { name: "205TF", slug: "205tf", homepage: "https://www.205.tf/", tier: "okay" },
+  { name: "FOLCH", slug: "folch", homepage: "https://fontsfromfolch.com/", tier: "okay" },
+  { name: "Milieu Grotesque", slug: "milieu-grotesque", homepage: "https://www.myfonts.com/collections/milieu-grotesque", tier: "okay" },
+  { name: "Monkey Type", slug: "monkey-type", homepage: "https://mnkytype.com/", tier: "okay" },
+  { name: "Lettermatic", slug: "lettermatic", homepage: "https://lettermatic.com/", tier: "okay" },
+  { name: "Radim Pesko", slug: "radim-pesko", homepage: "https://radimpesko.com/", tier: "okay" },
 ];
 
 // Foundries confirmed unscrapable — JS-rendered, bot-blocked, or no listing page.
