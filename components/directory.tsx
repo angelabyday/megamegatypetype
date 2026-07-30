@@ -459,7 +459,7 @@ export function Directory({
                 onClick={() => setMobileFiltersOpen(false)}
                 className="w-full rounded-full bg-foreground py-2.5 text-sm font-medium text-background transition-colors hover:opacity-90"
               >
-                Show {filtered.length} results
+                Show {filtered.length.toLocaleString()} results
               </button>
             </div>
           </div>
@@ -469,7 +469,7 @@ export function Directory({
       <section className="min-w-0 flex-1">
         <div className="mb-4 flex items-center justify-between gap-4">
           <p className="text-sm text-muted-foreground">
-            Showing {filtered.length} of {typefaces.length} typefaces from{" "}
+            Showing {filtered.length.toLocaleString()} of {typefaces.length.toLocaleString()} typefaces from{" "}
             <Link href="/foundries" className="underline underline-offset-2 hover:text-foreground transition-colors">
               {new Set(filtered.map((t) => t.foundry)).size} type foundries
             </Link>
