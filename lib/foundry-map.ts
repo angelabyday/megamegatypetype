@@ -447,6 +447,13 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Denis Serebryakov", slug: "serebryakov", homepage: "https://type.today/en/journal/serebryakov", tier: "best" },
   { name: "RetroSupply Co.", slug: "retrosupply-co", homepage: "https://www.retrosupply.co/", tier: "okay" },
   { name: "Bitstream", slug: "bitstream", homepage: "https://www.monotype.com/", tier: "okay" },
+  // Batch 25–26 — manually indexed foundries
+  { name: "CoType Foundry", slug: "cotype-foundry", homepage: "https://cotypefoundry.com/", tier: "best" },
+  { name: "Sharp Type", slug: "sharp-type", homepage: "https://www.sharptype.co/", tier: "okay" },
+  { name: "limitype", slug: "limitype", homepage: "https://limitype.com/", tier: "notgood" },
+  { name: "Zarma Type", slug: "zarma-type", homepage: "https://zarmatype.com/", tier: "notgood" },
+  { name: "Tüpokompanii", slug: "tupokompanii", homepage: "https://tupokompanii.com/", tier: "okay" },
+  { name: "Ian Adjeidu", slug: "ian-adjeidu", homepage: "https://studioplums.com/", tier: "notgood" },
 ];
 
 // Foundries confirmed unscrapable — JS-rendered, bot-blocked, or no listing page.
