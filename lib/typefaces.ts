@@ -355,6 +355,8 @@ import serebryakov from "@/data/typefaces-serebryakov.json";
 import retrosupplyCo from "@/data/typefaces-retrosupply-co.json";
 import bitstream from "@/data/typefaces-bitstream.json";
 
+// Batch 28 — Latinotype
+import latinotype from "@/data/typefaces-latinotype.json";
 // Batch 26 — limitype + Zarma Type
 import limitype from "@/data/typefaces-limitype.json";
 import zarmaType from "@/data/typefaces-zarma-type.json";
@@ -893,6 +895,8 @@ export function getAllTypefaces(): Typeface[] {
         teaser,
         undt,
         weLoveFonts,
+        // Batch 28 — Latinotype
+        latinotype,
         // Batch 26 — limitype + Zarma Type
         limitype,
         zarmaType,
