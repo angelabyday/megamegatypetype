@@ -1,0 +1,199 @@
+[
+  {
+    "name": "Juunior",
+    "url": "https://www.typokompanii.com/fonts/juunior",
+    "foundry": "Tüpokompanii",
+    "category": "sans-serif",
+    "subcategory": "humanist sans-serif",
+    "classification_notes": "Six-weight humanist sans-serif drawing from American Gothic tradition (contrasted strokes, references to Franklin Gothic) combined with stretched, egg-like proportions and non-geometric arched forms. Ships with ten sets of stylistic alternates covering schoolbook, arched, senior and pointy letter variants. Includes a variable font axis. Spacing and kerning by Igino Marini.",
+    "designer": "Andree Paat",
+    "year": 2025,
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin (65+ languages)",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "tags": [
+      "humanist",
+      "american-gothic",
+      "contrasted",
+      "playful",
+      "variable",
+      "cyrillic",
+      "display",
+      "editorial",
+      "branding",
+      "stylistic-alternates"
+    ],
+    "summary": "A humanist sans-serif that pairs the contrasted strokes of American Gothic faces with stretched, egg-like proportions, available in six weights with italics and a variable font.",
+    "description": "Juunior channels the ink-trap sensibility of American Gothics like Franklin Gothic through arched, non-geometric letterforms that read as simultaneously naive and assured. Designed by Andree Paat of Tüpokompanii, it ships with ten sets of stylistic alternates – schoolbook, arched, senior and pointy variants – giving typographers real range within a single family. The technical build is solid: 700 glyphs covering Latin and Cyrillic, kerning by Igino Marini, and full variable font support across the weight axis.",
+    "foundry_blurb": "Tüpokompanii describe Juunior as a typeface seeking symbiosis between naive spirit and sage wisdom – stretched curves moving with youthful speed, contrasted strokes carrying the authority of classic American Gothics. Ten stylistic alternate sets give each character four distinct voices, while broad Latin and Cyrillic coverage and a variable font make it workable across languages and contexts.",
+    "type": "foundry"
+  },
+  {
+    "name": "Vitamiin",
+    "url": "https://www.typokompanii.com/fonts/vitamiin",
+    "foundry": "Tüpokompanii",
+    "category": "sans-serif",
+    "subcategory": "humanist sans-serif",
+    "classification_notes": "Humanist-geometric sans with a self-described \"Semi-Softie\" character – an uncommon mix of rounded and sharp forms. Built as a uniwidth system so glyph metrics remain identical across all weights and slants. Available as a static and variable font.",
+    "designer": "Andree Paat",
+    "year": 2024,
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin (100+ languages)",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "tags": [
+      "humanist",
+      "geometric",
+      "rounded",
+      "uniwidth",
+      "variable",
+      "playful",
+      "workhorse",
+      "cyrillic",
+      "latin-extended",
+      "stylistic-sets",
+      "positive"
+    ],
+    "summary": "A uniwidth humanist-geometric sans from Estonian designer Andree Paat, mixing rounded and sharp forms across five weights with italic and variable versions.",
+    "description": "Vitamiin sits between humanist warmth and geometric structure, distinguished by an unusual interplay of rounded curves and sharp terminals. The uniwidth architecture keeps glyph metrics consistent across all weights and italics, so text never reflows when switching styles – useful for animated or interactive layouts. Twelve stylistic sets, broad Latin and Cyrillic coverage and spacing by Igino Marini round out a thoughtfully made debut release.",
+    "foundry_blurb": "Tüpokompanii bills Vitamiin as a \"whimsical workhorse\" – a \"Semi-Softie\" bridging humorous humanist and geometric territory with a blend of rounded and sharp elements. The uniwidth system means every glyph shares the same metrics across all styles, and 12 stylistic sets offer alternate forms for letters, numerals and punctuation. The italic is constructed through a specific formula of slanting and rotation rather than a conventional drawing, with spacing and kerning by Igino Marini.",
+    "type": "foundry"
+  },
+  {
+    "name": "Ladna",
+    "url": "https://www.typokompanii.com/fonts/ladna",
+    "foundry": "Tüpokompanii",
+    "category": "sans-serif",
+    "subcategory": "grotesk",
+    "classification_notes": "Geometric-leaning grotesk with deliberately retained irregularities drawn from Soviet-era hand-produced enamel street signs. The \"Faux\" companion subfamily uses obliques and back-slanted italics rather than true cuts, framed as an intentional departure from optical convention.",
+    "designer": "Andree Paat",
+    "year": 2023,
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Ladna",
+      "Ladna Faux",
+      "Ladna Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Extended Latin",
+      "African Latin"
+    ],
+    "tier": "okay",
+    "tags": [
+      "grotesk",
+      "soviet-era",
+      "street signage",
+      "workhorse",
+      "variable",
+      "cyrillic",
+      "estonian",
+      "quirky",
+      "display",
+      "body text"
+    ],
+    "summary": "A grotesk pulled from Soviet-era Estonian street signage, its slight hand-drawn irregularities kept intact to give it warmth across display and body settings alike.",
+    "description": "Ladna takes Soviet-era hand-produced enamel street signs found across Estonia as its direct source, translating their imprecisions into a grotesk that reads as familiar rather than idiosyncratic. Nine weights run from Thin to Black, each with true italics, while the Faux subfamily reframes obliques and back-slanted forms as a deliberate aesthetic stance. A variable font and Cyrillic support across 100+ languages round it out as a genuinely capable workhorse.",
+    "foundry_blurb": "Tüpokompanii is a type design studio founded in Tallinn, Estonia in 2022 by Andree Paat and Aimur Takk. Their practice draws on Soviet-era printed ephemera and physical letterform production methods – silkscreen, letterpress, phototype – treating mistakes and limitations as design material rather than problems to correct.",
+    "type": "foundry"
+  },
+  {
+    "name": "Trafarett",
+    "url": "https://www.typokompanii.com/fonts/trafarett",
+    "foundry": "Tüpokompanii",
+    "designer": "Aimur Takk",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "Stencil",
+    "classification_notes": "Three-mode stencil display family with Stencil (solid), Frame (outline), and Shadow (\"low-res sunset\") variants, each in Thin and Thick weights with ZigZag italics — 12 static styles in total. Also ships as a variable font with three axes: Weight, Frame, and ZigZag. Related to geometric stencil traditions; draws formally from Futura Black and layered pennant-print aesthetics.",
+    "weights": [
+      "Thin",
+      "Thick"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Stencil",
+      "Frame",
+      "Shadow",
+      "ZigZag"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended-A",
+      "Latin Extended-B",
+      "Cyrillic",
+      "Greek",
+      "Afrikaans",
+      "Estonian",
+      "Finnish",
+      "Polish",
+      "German",
+      "Russian",
+      "100+ languages"
+    ],
+    "tier": "okay",
+    "tags": [
+      "stencil",
+      "display",
+      "variable",
+      "layerable",
+      "geometric",
+      "decorative",
+      "eastern-european",
+      "heritage",
+      "experimental",
+      "bold"
+    ],
+    "summary": "Stencil-plate display family in three layerable modes — Stencil, Frame, and Shadow — each with ZigZag italics and a variable font spanning weight, frame, and zigzag axes.",
+    "description": "Designed by Aimur Takk in 2023, Trafarett draws on his grandmother's DIY silkscreen pennant work in 1970s Estonia to produce a 12-style family with a strong cut-paper character. Consistent spacing across all three modes makes layering the Stencil, Frame, and Shadow variants straightforward, and the variable font gives continuous control over weight, frame intensity, and ZigZag angle. The character set covers 100+ languages including Cyrillic and Greek, with a stylistic alternate \"a\" and standard ligatures included.",
+    "foundry_blurb": "Tüpokompanii is a type design studio in Tallinn, Estonia, founded in 2022 by Andree Paat and Aimur Takk. Alongside retail fonts and custom type work, the studio is active in type education, with a practice built around discovering unexpected qualities in letterforms and treating apparent imperfections as productive starting points for new typographic ideas.",
+    "type": "foundry"
+  }
+]

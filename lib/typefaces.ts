@@ -355,6 +355,11 @@ import serebryakov from "@/data/typefaces-serebryakov.json";
 import retrosupplyCo from "@/data/typefaces-retrosupply-co.json";
 import bitstream from "@/data/typefaces-bitstream.json";
 
+// Batch 25 — best-tier gap-fill
+import cotypeFondry from "@/data/typefaces-cotype-foundry.json";
+import tupokompanii from "@/data/typefaces-tupokompanii.json";
+import rellence from "@/data/typefaces-rellence.json";
+import ianAdjeidu from "@/data/typefaces-ian-adjeidu.json";
 // Batch 24 — recent additions
 import aboutType from "@/data/typefaces-about-type.json";
 import alias from "@/data/typefaces-alias.json";
@@ -885,6 +890,11 @@ export function getAllTypefaces(): Typeface[] {
         teaser,
         undt,
         weLoveFonts,
+        // Batch 25 — best-tier gap-fill
+        cotypeFondry,
+        tupokompanii,
+        rellence,
+        ianAdjeidu,
       ] as RawTypeface[][]
     )
       .flat()
