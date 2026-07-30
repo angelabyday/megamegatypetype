@@ -454,6 +454,7 @@ export const FOUNDRIES: FoundryInfo[] = [
   { name: "Zarma Type", slug: "zarma-type", homepage: "https://zarmatype.com/", tier: "notgood" },
   { name: "Tüpokompanii", slug: "tupokompanii", homepage: "https://tupokompanii.com/", tier: "okay" },
   { name: "Ian Adjeidu", slug: "ian-adjeidu", homepage: "https://studioplums.com/", tier: "notgood" },
+  { name: "Dirty Line Studio", slug: "dirty-line-studio", homepage: "https://dirtylinestudio.com/", tier: "okay" },
 ];
 
 // Foundries confirmed unscrapable — JS-rendered, bot-blocked, or no listing page.

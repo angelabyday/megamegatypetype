@@ -1,524 +1,668 @@
 [
   {
-    "name": "Dx Neuegrid",
+    "name": "Casta",
+    "url": "https://dirtylinestudio.com/product/casta/",
     "foundry": "Dirty Line Studio",
-    "url": "https://dirtylinestudio.com/product/dx-neuegrid/",
-    "designer": null,
-    "year": null,
-    "category": "sans-serif",
-    "subcategory": "geometric sans",
-    "classification_notes": "The name and specimen suggest a geometric, grid-based construction typical of neo-grotesque or geometric sans-serif designs, with a structured, modular quality implied by the 'Neue' and 'Grid' naming.",
+    "designer": "Hendra Maulia",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "Display Serif",
+    "classification_notes": "High-contrast modern display serif with sharp triangular serifs and strong vertical stress. The family's most distinctive feature is a dancing baseline – letters set at varying heights within a word – which lends informal warmth to what is otherwise a formal, fashion-adjacent face. Available across nine weights and three widths (condensed, regular, expanded), plus a variable font.",
     "weights": [
+      "Thin",
+      "Extra Light",
       "Light",
       "Regular",
       "Medium",
       "SemiBold",
       "Bold",
-      "ExtraBold",
+      "Extra Bold",
       "Black"
     ],
     "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Dx Neuegrid"
-    ],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "geometric",
-      "grid-based",
-      "variable",
-      "modern",
-      "clean",
-      "sans-serif"
-    ],
-    "summary": "A geometric sans-serif family from Dirty Line Studio spanning seven weights with matching slanted cuts and a variable font option.",
-    "description": "The family runs from Light to Black across 14 static styles, each weight paired with a slanted companion, plus a variable font covering the full range. The 'Neue' and 'Grid' naming signals a structured, modular approach to letterform construction. Available for desktop, web, logo, app and corporate licensing at tiered price points.",
-    "foundry_blurb": "Dirty Line Studio offer Dx Neuegrid as a full 14-style family plus variable font, with seven upright weights from Light to Black and matching slanted versions. Buying options range from individual weights to the complete family, with licensing available for desktop, web, logo, mobile apps and worldwide corporate use."
-  },
-  {
-    "name": "DX Form",
-    "foundry": "Dirty Line Studio",
-    "url": "https://dirtylinestudio.com/product/dx-form/",
-    "designer": null,
-    "year": null,
-    "category": "sans-serif",
-    "subcategory": "geometric sans",
-    "classification_notes": "Listed under sans-serif on the foundry site; the name and minimal page content suggest a clean geometric or constructed sans form, typical of the foundry's display-oriented sans offerings.",
-    "weights": [
-      "Regular"
-    ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "DX Form"
-    ],
-    "has_condensed": false,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "loose",
-    "type": "foundry",
-    "tags": [
-      "geometric",
-      "sans-serif",
-      "display",
-      "constructed",
-      "minimal"
-    ],
-    "summary": "A single-weight geometric sans from Dirty Line Studio, positioned for display and logo use.",
-    "description": "A geometric sans offered in one weight, aimed at display and branding contexts. The licensing tiers suggest it is intended for logo, web and mobile applications rather than extended text setting. Limited style range restricts its versatility.",
-    "foundry_blurb": "Dirty Line Studio offer DX Form as a geometric sans-serif available in a single Regular weight, with licensing options covering desktop, web, logo, mobile and extended corporate use."
-  },
-  {
-    "name": "Dx Burst",
-    "foundry": "Dirty Line Studio",
-    "url": "https://dirtylinestudio.com/product/dx-burst/",
-    "designer": null,
-    "year": null,
-    "category": "script",
-    "subcategory": "brush script",
-    "classification_notes": "Marketed as a brush typeface with a 'Regular' and 'Smooth' variant, placing it firmly in the brush script category typical of display hand-lettering work.",
-    "weights": [
-      "Regular"
-    ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "DxBurst-Regular",
-      "DxBurst-Smooth",
-      "Dx Burst Brush"
-    ],
-    "has_condensed": false,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "loose",
-    "type": "foundry",
-    "tags": [
-      "brush",
-      "script",
-      "handlettering",
-      "display",
-      "expressive",
-      "informal"
-    ],
-    "summary": "A brush script typeface from Dirty Line Studio offered in a regular and smoothed variant, aimed at display and logo use.",
-    "description": "Comes in three variants: a textured Regular, a Smooth version with cleaner strokes, and a dedicated Brush cut. The family targets display, logo and branding contexts where a handmade brush quality is wanted. Licensing tiers range from desktop through to worldwide corporate, suggesting a commercial focus on identity work.",
-    "foundry_blurb": "Dirty Line Studio offer Dx Burst as a brush-style display font with both a standard and a smooth variant, alongside a dedicated brush version, available across a range of licensing options from desktop to worldwide corporate use."
-  },
-  {
-    "name": "DX Wideground",
-    "foundry": "Dirty Line Studio",
-    "url": "https://dirtylinestudio.com/product/dx-wideground/",
-    "designer": null,
-    "year": null,
-    "category": "display",
-    "subcategory": "variable display",
-    "classification_notes": "Marketed explicitly as a display font for headlines and large-scale typography, with a variable width axis spanning UltraCondensed to UltraExpanded, placing it firmly in the display category.",
-    "weights": [
-      "Regular"
-    ],
-    "optical_sizes_or_widths": [
-      "UltraCondensed",
-      "ExtraCondensed",
       "Condensed",
-      "SemiCondensed",
       "Regular",
-      "SemiExpanded",
-      "Expanded",
-      "ExtraExpanded",
-      "UltraExpanded"
+      "Expanded"
     ],
     "subfamilies": [
-      "DX Wideground"
+      "Casta Condensed",
+      "Casta Expanded",
+      "Casta Variable"
     ],
     "has_condensed": true,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "display",
-      "variable",
-      "width-axis",
-      "headline",
-      "large-scale",
-      "condensed",
-      "expanded"
-    ],
-    "summary": "A variable-width display typeface offering nine width variants from UltraCondensed to UltraExpanded, designed for headline and large-format work.",
-    "description": "Built around a single variable width axis, the family spans nine named instances from UltraCondensed to UltraExpanded, giving designers considerable flexibility across a single licence. There is no weight axis or italic, keeping the focus squarely on width-driven typographic expression at large sizes. Best suited to posters, editorial covers and branding where width contrast is the primary tool.",
-    "foundry_blurb": "Dirty Line Studio describe DX Wideground as a modern variable-width display font built to dominate headlines and large-scale typography, available in a full range of width variants from UltraCondensed to UltraExpanded."
-  },
-  {
-    "name": "DX Sillage",
-    "foundry": "Dirty Line Studio",
-    "url": "https://dirtylinestudio.com/product/dx-sillage/",
-    "designer": null,
-    "year": null,
-    "category": "serif",
-    "subcategory": "display serif",
-    "classification_notes": "The name and the fashion-adjacent positioning of the foundry suggest a refined display serif; the page offers Regular and Italic cuts with no weight range, consistent with a single-weight display face.",
-    "weights": [
-      "Regular"
-    ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "DX Sillage"
-    ],
-    "has_condensed": false,
     "has_italic": true,
     "has_mono": false,
     "languages": [
-      "Latin"
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Italian",
+      "Portuguese",
+      "Dutch",
+      "Danish",
+      "Norwegian",
+      "Swedish",
+      "Finnish",
+      "Polish",
+      "Czech",
+      "Slovak",
+      "Hungarian",
+      "Romanian",
+      "Croatian",
+      "Slovenian",
+      "Estonian",
+      "Latvian",
+      "Lithuanian",
+      "Turkish"
     ],
     "tier": "okay",
-    "type": "foundry",
     "tags": [
       "display",
+      "high-contrast",
+      "luxury",
       "fashion",
       "editorial",
-      "serif",
-      "elegant",
-      "single-weight"
-    ],
-    "summary": "A single-weight display serif with a matching italic, aimed at fashion and editorial contexts.",
-    "description": "Offered in Regular and Italic only, this is a focused display face without weight variations. The foundry's other releases sit in fashion and script territory, placing DX Sillage in a similar aesthetic bracket. Licensing tiers range from desktop to worldwide corporate, with a logo licence available separately.",
-    "foundry_blurb": "Dirty Line Studio offer DX Sillage in Regular and Italic cuts, positioned alongside their display, fashion and script releases. Licensing options cover desktop, web, mobile, logo, extended and worldwide corporate use."
-  },
-  {
-    "name": "Dx Ruiga",
-    "foundry": "Dirty Line Studio",
-    "url": "https://dirtylinestudio.com/product/dx-ruiga/",
-    "designer": null,
-    "year": null,
-    "category": "sans-serif",
-    "subcategory": "geometric sans",
-    "classification_notes": "The clean, even stroke widths and wide weight range from Thin to Black suggest a geometric or neo-grotesque sans-serif construction typical of contemporary display-oriented families.",
-    "weights": [
-      "Thin",
-      "ExtraLight",
-      "Light",
-      "Regular",
-      "Medium",
-      "SemiBold",
-      "Bold",
-      "ExtraBold",
-      "Black"
-    ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Dx Ruiga"
-    ],
-    "has_condensed": false,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "geometric",
-      "sans-serif",
-      "variable",
-      "display",
-      "contemporary",
-      "clean",
-      "wide-range"
-    ],
-    "summary": "A nine-weight sans-serif family from Dirty Line Studio, available as a variable font spanning Thin to Black.",
-    "description": "The family covers nine static weights from Thin to Black, with a variable font version allowing continuous interpolation across the full range. Suited to branding and display work where weight contrast between headline and body is needed. No italic or condensed cuts are offered, keeping the family focused on upright settings.",
-    "foundry_blurb": "Dirty Line Studio offer Dx Ruiga as a full family of nine fonts plus a variable font, available under desktop, web, branding, and corporate licence tiers, with individual weights also sold separately from $29 each."
-  },
-  {
-    "name": "DxPlayhigh Variable",
-    "foundry": "Dirty Line Studio",
-    "url": "https://dirtylinestudio.com/product/dx-playhigh-variable/",
-    "designer": null,
-    "year": null,
-    "category": "display",
-    "subcategory": "variable display",
-    "classification_notes": "A variable display typeface with extensive width variants from Condensed to Ultra Expanded, plus Back and Italic cuts, placing it firmly in the display category with no clear serif or sans-serif subfamily identity from the available copy.",
-    "weights": [
-      "Regular"
-    ],
-    "optical_sizes_or_widths": [
-      "Condensed",
-      "SemiCondensed",
-      "Regular",
-      "SemiExpanded",
-      "Expanded",
-      "ExtraExpanded",
-      "UltraExpanded"
-    ],
-    "subfamilies": [
-      "DxPlayhigh-Regular",
-      "DxPlayhigh-Back",
-      "DxPlayhigh-Condensed",
-      "DxPlayhigh-CondensedBack",
-      "DxPlayhigh-CondensedItalic",
-      "DxPlayhigh-SemiCondensed",
-      "DxPlayhigh-SemiCondensedBack",
-      "DxPlayhigh-SemiCondIta",
-      "DxPlayhigh-SemiExpanded",
-      "DxPlayhigh-SemiExpandedBack",
-      "DxPlayhigh-SemiExpandedItalic",
-      "DxPlayhigh-Expanded",
-      "DxPlayhigh-ExpandedBack",
-      "DxPlayhigh-ExpandedItalic",
-      "DxPlayhigh-ExtraExpanded",
-      "DxPlayhigh-ExtraExpandedBack",
-      "DxPlayhigh-UltraExpanded",
-      "DxPlayhigh-UltraExpandedBack",
-      "DxPlayhigh-ExtExpIta",
-      "DxPlayhigh-UltExpIta",
-      "DxPlayhigh-Italic"
-    ],
-    "has_condensed": true,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "variable",
-      "display",
-      "wide",
-      "condensed",
-      "expanded",
-      "multi-width",
-      "experimental"
-    ],
-    "summary": "A variable display typeface from Dirty Line Studio spanning an unusually wide range of widths, from Condensed to Ultra Expanded, with Back and Italic variants throughout.",
-    "description": "The family offers 21 named styles covering condensed, semi-condensed, regular, semi-expanded, expanded, extra-expanded and ultra-expanded widths, each available in standard, Back and Italic cuts. The variable font format allows fluid interpolation across the width axis, making it suited to display and branding work where width contrast is a design tool. The breadth of the family is its main selling point, though the foundry provides little context about the typeface's underlying design language.",
-    "foundry_blurb": "Dirty Line Studio offer DxPlayhigh Variable as a complete variable font family with 21 styles, available under desktop, web, branding, logo, mobile app and corporate licensing tiers, with extended and worldwide corporate options available on request."
-  },
-  {
-    "name": "DX Figgle",
-    "foundry": "Dirty Line Studio",
-    "url": "https://dirtylinestudio.com/product/dx-figgle/",
-    "designer": null,
-    "year": null,
-    "category": "display",
-    "subcategory": "display",
-    "classification_notes": "Listed under the Display category on the foundry's own site, with a companion italic suggesting an expressive, non-text typeface intended for headlines or decorative use.",
-    "weights": [
-      "Regular"
-    ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Dx Figgle",
-      "DX Figgle Italic"
-    ],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "loose",
-    "type": "foundry",
-    "tags": [
-      "display",
-      "decorative",
-      "headline",
-      "expressive"
-    ],
-    "summary": "A display typeface from Dirty Line Studio offered in a regular and italic style, priced from $35.",
-    "description": "A two-style display family comprising an upright and an italic cut. The page provides little detail on its formal characteristics, though its placement alongside decorative and display-oriented releases suggests it targets headline and branding contexts. Available under a range of licensing tiers from desktop to worldwide corporate.",
-    "foundry_blurb": "Dirty Line Studio offer DX Figgle as a display typeface available in standard and italic styles, with licensing options spanning desktop, web, logo, branding, mobile apps and corporate use, starting from $35."
-  },
-  {
-    "name": "Dx Lactos Vol.02",
-    "foundry": "Dirty Line Studio",
-    "url": "https://dirtylinestudio.com/product/dx-lactos-vol-02/",
-    "designer": null,
-    "year": null,
-    "category": "sans-serif",
-    "subcategory": "geometric sans",
-    "classification_notes": "The clean, structured naming and variable weight range suggest a geometric or neo-grotesque sans-serif aimed at branding and display applications.",
-    "weights": [
-      "Thin",
-      "ExtraLight",
-      "Light",
-      "Regular",
-      "Medium",
-      "SemiBold",
-      "Bold",
-      "ExtraBold",
-      "Black"
-    ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Dx Lactos Vol.02"
-    ],
-    "has_condensed": false,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "geometric",
       "branding",
-      "variable",
-      "display",
-      "wide-weight-range",
-      "logo"
+      "poster",
+      "triangular serifs",
+      "dancing baseline",
+      "variable font",
+      "commercial"
     ],
-    "summary": "A nine-weight variable sans from Dirty Line Studio, spanning Thin to Black for branding and display use.",
-    "description": "The family covers nine static weights alongside a variable font file, giving designers flexibility across a broad weight axis. Sold in individual weights, an essentials bundle or as a full family, it is priced for commercial branding, web and corporate licensing tiers. The offering is straightforward and workmanlike, suited to identity and packaging projects that need a clean, neutral sans with weight variety.",
-    "foundry_blurb": "Dirty Line Studio offer Dx Lactos Vol.02 as a full nine-font family plus variable font, with individual weights available separately and an essentials bundle covering Light, Regular and Black. Licensing tiers run from standard desktop and web through to branding, extended, national corporate and worldwide corporate use."
+    "summary": "A high-contrast display serif with triangular serifs and a dancing baseline, spanning nine weights and three widths for editorial and luxury branding use.",
+    "description": "Casta pairs strong vertical contrast with sharp triangular serifs across 54 styles – condensed, regular and expanded widths in nine weights, each with a slanted companion, plus a variable font – giving it genuine range for display work. The dancing baseline, where letters sit at varying heights within a word, is the family's most distinctive move, adding informal energy to an otherwise formal face. Technically thorough with 429 glyphs, 28+ language support and a full set of OpenType features, though the luxury-fashion aesthetic puts it squarely in a crowded category.",
+    "foundry_blurb": "Dirtyline Studio describes Casta as classic but contemporary – a display serif combining triangular serifs and strong modern contrasts with enough versatility for logos, editorial layouts and luxury branding, elegant and assertive in equal measure.",
+    "type": "foundry"
   },
   {
-    "name": "Dx Kord",
+    "name": "Centrion",
+    "url": "https://dirtylinestudio.com/product/centrion/",
     "foundry": "Dirty Line Studio",
-    "url": "https://dirtylinestudio.com/product/dx-kord/",
-    "designer": null,
-    "year": null,
-    "category": "sans-serif",
-    "subcategory": "grotesque",
-    "classification_notes": "The family's optical size axis spanning Fine, Normal and Inktrap subfamilies, combined with its wide width range, points to a contemporary grotesque designed for demanding print and display conditions.",
+    "designer": "Hendra Maulia",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "Futuristic techno display",
+    "classification_notes": "Angular, geometric display face with techno-brutalist styling. Sharp terminals, interrupted strokes and modified uppercase letterforms reinforce the cyberpunk/futurism register. Uppercase-dominant; the design is built for large-format headline use only. Originally released as a free font in 2021; the commercial release adds a second weight (High) and a variable font file.",
     "weights": [
+      "Regular",
+      "High"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Static (2 fonts)",
       "Variable"
     ],
-    "optical_sizes_or_widths": [
-      "Fine",
-      "Normal",
-      "Inktrap",
-      "Compressed",
-      "Expanded",
-      "Extended Expanded",
-      "Ultimate Compressed",
-      "Ultimate Expanded"
-    ],
-    "subfamilies": [
-      "DxKord Fine",
-      "DxKord Fine Compressed",
-      "DxKord Fine Expanded",
-      "DxKord Fine Extended Expanded",
-      "DxKord Fine Ultimate Compressed",
-      "DxKord Fine Ultimate Expanded",
-      "DxKord Inktrap",
-      "DxKord Inktrap Compressed",
-      "DxKord Inktrap Expanded",
-      "DxKord Inktrap Extended Expanded",
-      "DxKord Inktrap Ultimate Compressed",
-      "DxKord Inktrap Ultimate Expanded",
-      "DxKord Normal",
-      "DxKord Normal Compressed",
-      "DxKord Normal Expanded",
-      "DxKord Normal Extended Expanded",
-      "DxKord Normal Ultimate Expanded",
-      "DxKord Ultimate Compressed"
-    ],
-    "has_condensed": true,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "variable",
-      "grotesque",
-      "inktrap",
-      "display",
-      "multi-width",
-      "contemporary",
-      "branding"
-    ],
-    "summary": "A variable grotesque with optical size and width axes, offering Fine, Normal and Inktrap subfamilies across an unusually broad range of widths from Ultimate Compressed to Ultimate Expanded.",
-    "description": "Dx Kord is a variable grotesque from Dirty Line Studio that spans eighteen named style instances across three optical categories: Fine, Normal and Inktrap. The width axis runs from Ultimate Compressed through to Ultimate Expanded, giving designers substantial flexibility for both tight setting and broad display work. The Inktrap subfamily adds ink-trap details suited to small sizes or as a stylistic feature at larger scales.",
-    "foundry_blurb": "Dirty Line Studio offer Dx Kord as a variable font family available in a complete package starting at $35, with licensing tiers covering standard desktop, web, mobile, branding, logo and corporate use up to worldwide corporate level."
-  },
-  {
-    "name": "Dx Restcal",
-    "foundry": "Dirty Line Studio",
-    "url": "https://dirtylinestudio.com/product/dx-restcal/",
-    "designer": null,
-    "year": null,
-    "category": "sans-serif",
-    "subcategory": "geometric sans",
-    "classification_notes": "The clean, structured naming conventions and variable font offering suggest a geometric or neutral sans-serif optimised for text and display use across a broad weight range.",
-    "weights": [
-      "Thin",
-      "ExtraLight",
-      "Light",
-      "Regular",
-      "Medium",
-      "SemiBold",
-      "Bold",
-      "ExtraBold",
-      "Black"
-    ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Dx Restcal"
-    ],
     "has_condensed": false,
     "has_italic": false,
     "has_mono": false,
     "languages": [
-      "Latin"
+      "Latin",
+      "Latin Extended"
     ],
-    "tier": "okay",
-    "type": "foundry",
+    "tier": "loose",
     "tags": [
+      "gaming",
+      "futuristic",
+      "techno",
+      "cyberpunk",
+      "synthwave",
+      "vaporwave",
+      "brutalism",
+      "experimental",
+      "angular",
       "geometric",
-      "variable",
-      "multi-weight",
-      "neutral",
-      "contemporary",
-      "text",
-      "branding"
+      "display"
     ],
-    "summary": "A nine-weight variable sans from Dirty Line Studio covering Thin through Black with a clean, neutral character suited to branding and editorial work.",
-    "description": "Available as individual weights or a full variable family, Dx Restcal spans nine weights from Thin to Black with no condensed or italic cuts. The variable font format makes it practical for web and screen use, and the licensing tiers run from standard desktop through to worldwide corporate. It sits comfortably in branding and UI contexts where a neutral, even-tempered sans is needed.",
-    "foundry_blurb": "Dirty Line Studio offer Dx Restcal as a full family of nine static fonts plus a variable font, available in a range of licensing tiers from standard desktop at $125 up to worldwide corporate licensing. An essentials package covering Light, Regular and Bold is also available."
+    "summary": "A sharp, techno-brutalist display face with angular letterforms and interrupted strokes, engineered for gaming branding and synthwave aesthetics.",
+    "description": "Centrion is a futurism display face by Indonesian designer Hendra Maulia, released in two static weights – Regular and High – alongside a variable font. The design draws on cyberpunk and experimental brutalism: angular terminals, cutout forms and geometric rhythm that reads instantly at large sizes but has little range beyond its single aesthetic register. It suits gaming logos, UI overlays and vaporwave poster work well enough, but offers nothing for designers working outside that narrow lane.",
+    "foundry_blurb": "Dirtyline Studio bills Centrion as a futurism typeface inspired by the visual language of techno-based design trends, suited to gaming logos, techno branding, digital assets, UI/UX, synthwave and vaporwave aesthetics, futuristic poster work, techwear apparel and vehicle design.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Aiter",
+    "url": "https://dirtylinestudio.com/product/dx-aiter/",
+    "foundry": "Dirty Line Studio",
+    "category": "script",
+    "subcategory": "calligraphic script",
+    "classification_notes": "Modern calligraphic script with a dancing/bouncing baseline and sharp pen-nib stroke contrast. Single style, display-weight only. Typical of the Indonesian marketplace script genre — decorative, informal rhythm, swash-heavy. Built for headline and branding use at large sizes.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Afrikaans",
+      "Albanian",
+      "Catalan",
+      "Danish",
+      "English",
+      "Finnish",
+      "French",
+      "German",
+      "Italian",
+      "Norwegian",
+      "Portuguese",
+      "Spanish",
+      "Swedish",
+      "and 80+ additional Latin-script languages"
+    ],
+    "tier": "loose",
+    "tags": [
+      "script",
+      "calligraphy",
+      "dancing baseline",
+      "swash",
+      "handwritten",
+      "display",
+      "branding",
+      "wedding",
+      "invitations",
+      "decorative"
+    ],
+    "summary": "A single-weight calligraphic script with sharp stroke contrast and a bouncing baseline, designed for logos, invitations and decorative branding.",
+    "description": "Dx Aiter sits firmly in the crowded genre of bouncing-baseline calligraphy scripts, pairing sharp pen-nib strokes with an informal, rhythmic flow. OpenType alternates, swashes and discretionary ligatures extend its expressive range at the margins, but it remains a one-weight display font with a narrow use case. It covers 90+ Latin-script languages and ships in all major web and desktop formats, which is about as much as can be said in its favour over the many near-identical options in the category.",
+    "foundry_blurb": "Dirty Line Studio describe Dx Aiter as a fresh, modern script with sharp calligraphy styling and a dancing baseline. They position it for logos, greeting card invitations, branding materials, business cards, quotes and posters. The font includes PUA encoding for easy glyph access, OpenType swashes and stylistic alternates, and is available in OTF, TTF, WOFF and WOFF2 formats.",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2022,
+    "type": "foundry"
   },
   {
     "name": "Dx Alegant",
-    "foundry": "Dirty Line Studio",
     "url": "https://dirtylinestudio.com/product/dx-alegant/",
-    "designer": null,
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "Elegant Display",
+    "classification_notes": "Decorative display typeface with high-contrast ornamental letterforms and a vintage sensibility. Spans seven weights – Thin to Bold – plus a variable weight axis. Includes OpenType standard and discretionary ligatures and two stylistic sets.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Variable"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Latin Extended",
+      "Western European",
+      "Eastern European",
+      "African Latin"
+    ],
+    "tier": "loose",
+    "tags": [
+      "display",
+      "vintage",
+      "elegant",
+      "decorative",
+      "ornamental",
+      "branding",
+      "logo",
+      "editorial",
+      "variable"
+    ],
+    "summary": "A seven-weight vintage display family with variable font support from Dirtyline Studio, built for branding and editorial headlines in the ornamental-elegant mould.",
+    "description": "Dx Alegant pairs ornamental letterforms with a vintage sensibility across seven weights – Thin to Bold – plus a variable axis, giving designers some range within a singular aesthetic. The 388-glyph set covers 84 languages via Latin extended script, with OpenType ligatures and two stylistic sets included. It occupies a well-populated corner of the decorative display market and offers competent execution without standing out from the crowd.",
+    "foundry_blurb": "Dirtyline Studio describes Dx Alegant as a display typeface that blends elegance with modern design aesthetics, suited to branding, logo design and editorial use. The studio points to its expressive characters, wide glyph coverage and broad language support as reasons to reach for it across both print and digital projects.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Archivar",
+    "url": "https://dirtylinestudio.com/product/dx-archivar/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Uppercase-only geometric display pack with four stylistic variants: Slim, Blur, Rounded and Sharp. All share the same modular, architectural base skeleton. The Blur variant applies a diffused soft treatment to the geometric letterforms. Bold proportions and an industrial edge throughout.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Slim",
+      "Blur",
+      "Rounded",
+      "Sharp"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Western European",
+      "Central European",
+      "Eastern European",
+      "African Latin"
+    ],
+    "tier": "loose",
+    "tags": [
+      "display",
+      "geometric",
+      "uppercase-only",
+      "modular",
+      "branding",
+      "poster",
+      "modern-retro",
+      "multi-style",
+      "streetwear",
+      "industrial"
+    ],
+    "summary": "Four-style uppercase display pack – Slim, Blur, Rounded and Sharp – built on a bold modular skeleton; the Blur variant tips the family firmly into novelty territory.",
+    "description": "Dx Archivar ships in four variants – Slim, Blur, Rounded and Sharp – all derived from the same uppercase-only geometric skeleton with bold, architectural proportions. The Blur style applies a diffused soft treatment to the base letterforms, which is the family's most eye-catching characteristic and its most limiting one. OpenType support covers discretionary ligatures, stylistic alternates and two stylistic sets across 80+ languages.",
+    "foundry_blurb": "Dirty Line Studio describe Dx Archivar as a bold, architectural display pack that pairs geometric forms and impactful proportions with what they call a modern retro aesthetic and futuristic edge, intended for branding, posters, editorial, packaging, fashion and streetwear projects.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Bloop",
+    "url": "https://dirtylinestudio.com/product/dx-bloop/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "bubble display",
+    "classification_notes": "Graffiti-inflected bubble lettering with heavy, rounded forms and no stress contrast. Comes in three visual modes – solid fill, outline and 3D emboss – but all share the same underlying structure. Strictly a decorative headline face; no numerals or punctuation in Vol.01.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Solid",
+      "Outline",
+      "3D Emboss"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Basic Latin (alphabet only)"
+    ],
+    "tier": "loose",
+    "tags": [
+      "bubble",
+      "graffiti",
+      "display",
+      "bold",
+      "playful",
+      "streetwear",
+      "3D emboss",
+      "outline",
+      "headline",
+      "logo"
+    ],
+    "summary": "A graffiti bubble display face in three variants – solid, outline and 3D emboss – covering alphabet only, built for attention-grabbing titles and streetwear-adjacent logo work.",
+    "description": "Dx Bloop is a bold, bubbly display typeface drawing on graffiti lettering traditions, released by Dirty Line Studio in early 2023. Three style variants – solid fill, outline and 3D emboss – give the family some visual range without broadening its narrow aesthetic lane. Coverage is restricted to basic Latin alphabet in this first volume, with no numerals or punctuation included.",
+    "foundry_blurb": "Dirty Line Studio describes Dx Bloop as a graffiti bubble font built for headlines and logos, with three style options – solid, outline and 3D emboss – so designers can dial in the right look for any project. The 3D emboss variant is positioned as the standout, adding depth and texture to make type pop off the page.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Burst",
+    "url": "https://dirtylinestudio.com/product/dx-burst/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Rahmad Satria",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "brush",
+    "classification_notes": "Bold hand-painted brush display typeface with thick, gestural strokes. Ships in two variants – Regular (textured) and Smooth – at a single weight. OpenType discretionary ligatures, stylistic alternates and two stylistic sets.",
+    "weights": [
+      "Regular",
+      "Smooth"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "DxBurst Regular",
+      "DxBurst Smooth"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "English",
+      "French",
+      "Spanish",
+      "German",
+      "Portuguese"
+    ],
+    "tier": "loose",
+    "tags": [
+      "brush",
+      "display",
+      "hand-painted",
+      "bold",
+      "poster",
+      "streetwear",
+      "expressive",
+      "texture",
+      "branding",
+      "urban",
+      "album-cover"
+    ],
+    "summary": "A single-weight bold brush display face drawn from thick hand-painted strokes, available in Regular and Smooth variants, pitched squarely at posters, streetwear graphics and social media.",
+    "description": "Dx Burst is built from gestural brushwork, giving the letterforms visible texture and a deliberately rough energy suited to large-scale display contexts. The Regular variant leans into that rawness, while Smooth offers a cleaner version of the same structure. OpenType alternates and two stylistic sets extend variety, but the typeface has a single job – visual loudness – and there is little room to take it anywhere quieter.",
+    "foundry_blurb": "Dirty Line Studio positions Dx Burst as a bold, expressive brush font built to carry raw energy and attitude, with thick hand-painted strokes and dynamic letterforms designed to evoke fast, gestural mark-making – recommended for headlines, posters, logos, streetwear graphics, album covers and social media visuals.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Dynamix",
+    "url": "https://dirtylinestudio.com/product/dx-dynamix/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "geometric",
+    "classification_notes": "Geometric sans-serif with upright construction across six weights. Slanted versions are oblique (mechanically inclined) rather than drawn italics. Offered as a variable font plus static OTF/TTF files. Extended Latin glyph set (367 glyphs) with OpenType stylistic alternates, stylistic sets and ligatures.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semi-Bold",
+      "Bold",
+      "Extra-Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Dx Dynamix Slanted"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Western European",
+      "Eastern European",
+      "African Latin",
+      "85+ Latin-script languages"
+    ],
+    "tier": "loose",
+    "tags": [
+      "geometric",
+      "variable",
+      "urban",
+      "lifestyle",
+      "minimalist",
+      "modern",
+      "oblique",
+      "display",
+      "branding"
+    ],
+    "summary": "A variable geometric sans in six weights with slanted alternates, aimed at urban and lifestyle branding.",
+    "description": "Dx Dynamix is a geometric sans-serif with six weights, each offered in Roman and Slanted variants — twelve styles in total, plus variable font files. The design draws on urban and lifestyle aesthetics, with stylistic alternates, ligatures and an extended Latin set covering 85+ languages. It is technically capable but conceptually generic, occupying a very crowded corner of the geometric sans market without a clear point of difference.",
+    "foundry_blurb": "A modern minimalist geometric typeface with alternative characters and ligatures, inspired by urban and hype design. Available as a variable font and in nine static weights across Roman and Slanted versions, with an extended Latin character set of 367 glyphs and support for over 85 languages.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Figgle",
+    "url": "https://dirtylinestudio.com/product/dx-figgle/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "retro bold display",
+    "classification_notes": "Single-style bold display face with chunky strokes, rounded terminals and strong 70s retro influence. OpenType features include two stylistic sets, discretionary ligatures, swash characters and stylistic alternates. Available in Regular and Italic only; no weight range.",
+    "weights": [
+      "Regular",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "English",
+      "Spanish",
+      "French",
+      "German",
+      "Portuguese",
+      "100+ languages"
+    ],
+    "tier": "loose",
+    "tags": [
+      "display",
+      "retro",
+      "70s",
+      "chunky",
+      "rounded",
+      "bold",
+      "decorative",
+      "playful",
+      "food and beverage",
+      "streetwear",
+      "pop culture",
+      "youth",
+      "alternates",
+      "swash"
+    ],
+    "summary": "A chunky, rounded display face with 70s retro energy, suited to bold headline work in food and beverage, streetwear and pop-culture contexts.",
+    "description": "Dx Figgle is a bold display typeface drawing on 70s curves and rounded letterforms, offered in Regular and Italic styles. Its OpenType features — two stylistic sets, discretionary ligatures and swash characters — give it more flexibility than most novelty faces of its kind. It works best at headline scale in high-energy visual contexts and has limited range outside them.",
+    "foundry_blurb": "Dirty Line Studio presents Dx Figgle as a bold, fun display font combining chunky structure, rounded forms and playful alternates to balance retro charm with modern freshness. Inspired by 70s aesthetics, they recommend it for logos, menus, posters, packaging and movie titles, with particular suitability for food and beverage, streetwear and youth-oriented campaigns.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Form",
+    "url": "https://dirtylinestudio.com/product/dx-form/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "geometric display sans",
+    "classification_notes": "Bold geometric sans-serif built on a modular structure with deliberately asymmetrical details — notably the F, r, Y and O. Industrial weight with experimental cuts throughout. Two styles: Regular and a Display variant optimised for large-scale use. No italic. OpenType alternates via Stylistic Sets 01 and 02 plus discretionary ligatures.",
+    "weights": [
+      "Regular",
+      "Display"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Regular",
+      "Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Italian",
+      "Portuguese",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Dutch",
+      "Polish"
+    ],
+    "tier": "okay",
+    "tags": [
+      "geometric",
+      "industrial",
+      "architectural",
+      "bold",
+      "display",
+      "modular",
+      "experimental",
+      "avant-garde",
+      "branding",
+      "poster",
+      "editorial",
+      "streetwear",
+      "high-impact"
+    ],
+    "summary": "A bold, modular geometric display sans with asymmetrical details and an industrial character suited to high-impact branding and poster work.",
+    "description": "Dx Form is a geometric display typeface built around a modular structure with deliberate irregularities — asymmetrical letterforms, sharp cuts and an industrial weight that holds well at large scale. Specific glyphs carry the visual identity: the F and r are notably asymmetrical, the Y is sharp-angled and the O stays circular and clean. Two styles (Regular and Display) keep the family lean, with OpenType alternates providing variation for editorial and branding applications.",
+    "foundry_blurb": "Dirty Line Studio positions Dx Form as a bold, architectural typeface for designers who want to move away from conventional typography. The modular construction and unconventional geometry are intended to deliver high-impact display quality with an industrial edge, while custom letterform alternates allow for rhythmic variation across branding, editorial and motion work.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Gaster",
+    "url": "https://dirtylinestudio.com/product/dx-gaster/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia",
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "high-contrast display",
+    "classification_notes": "High-contrast display serif in the Didone tradition, distinguished by sharp triangular serifs and a slightly varying baseline that gives the letterforms a calligraphic looseness. Strong vertical stress with dramatic thick-thin modulation. Designed primarily for display and branding use.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Roman",
+      "Italic",
+      "Variable Upright",
+      "Variable Italic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Extended Latin (86+ languages)"
+    ],
+    "tier": "okay",
+    "tags": [
+      "display",
+      "high-contrast",
+      "editorial",
+      "luxury",
+      "branding",
+      "logo",
+      "fashion",
+      "sharp",
+      "angular",
+      "swash",
+      "alternates",
+      "variable",
+      "calligraphic-edge"
+    ],
+    "summary": "A high-contrast display serif with sharp triangular serifs and a gently dancing baseline, pitched at luxury branding, editorial headlines and logo work.",
+    "description": "Released in 2021 by Hendra Maulia at Dirtyline Studio, Dx Gaster is a display serif built around dramatic weight contrast and angular triangular serifs. The full family runs to 17 styles – including upright and italic variable fonts – with discretionary ligatures, swash characters and two stylistic sets across 404 glyphs covering 86-plus languages. A subtly varying baseline gives the letterforms a calligraphic edge that separates it from more conventional Didone-adjacent designs, though its appeal is primarily decorative rather than typographically rigorous.",
+    "foundry_blurb": "Dirtyline Studio describes Dx Gaster as a fresh modern serif with strong style and a dancing baseline. They highlight the triangular serifs and high contrast as well-suited to logo design and editorial layouts, while the multiple alternates and swashes are positioned as tools for varied typographic expression across branding and luxury fashion contexts. The extended Latin character set covers over 86 languages with 404 glyphs.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Glitar",
+    "url": "https://dirtylinestudio.com/product/dx-glitar/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "geometric display",
+    "classification_notes": "Geometric display face with clean, angular construction. Minimal stroke contrast; letterforms built on a grid-influenced skeleton. OpenType alternates, swash characters and discretionary ligatures provide variation within a single-weight system. Aesthetic is deliberately trend-led, aimed at fashion and streetwear branding rather than text use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Regular",
+      "Italic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Portuguese",
+      "Danish",
+      "Norwegian",
+      "Swedish",
+      "Finnish",
+      "and 50+ additional languages including various African languages"
+    ],
+    "tier": "loose",
+    "tags": [
+      "geometric",
+      "display",
+      "fashion",
+      "urban",
+      "minimalist",
+      "lifestyle",
+      "streetwear",
+      "alternates",
+      "swash",
+      "contemporary"
+    ],
+    "summary": "A trend-led geometric display face with an urban fashion sensibility, offering stylistic alternates and swash variants across a single weight.",
+    "description": "Dx Glitar pairs clean geometric letterforms with a set of OpenType alternates, discretionary ligatures and swash characters, giving designers some visual variation within a single-weight system. The aesthetic is deliberately contemporary – angular and spare, aimed at fashion and streetwear branding rather than sustained reading. It covers 60+ languages and ships in Regular and Italic, but the draw is decorative rather than typographic.",
+    "foundry_blurb": "Dirty Line Studio describes Dx Glitar as inspired by hype and urban culture – a lifestyle typeface suited to trend-driven design. The geometric construction is supplemented by OpenType features including stylistic alternates, swash characters and discretionary ligatures.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Gotha",
+    "url": "https://dirtylinestudio.com/product/dx-gotha/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia & M. Sadikun",
+    "year": 2024,
+    "category": "blackletter",
+    "subcategory": "Contemporary Blackletter",
+    "classification_notes": "Dense contemporary blackletter with deliberately compressed letterfit; calligraphic gothic origins filtered through a modern, high-density sensibility. Single regular weight with stylistic alternates and discretionary ligatures. Optimised for display and logotype use, not continuous text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended (83 languages)",
+      "English",
+      "German",
+      "French",
+      "Spanish",
+      "Portuguese",
+      "Polish"
+    ],
+    "tier": "okay",
+    "tags": [
+      "blackletter",
+      "gothic",
+      "display",
+      "logotype",
+      "dark",
+      "dense",
+      "compressed",
+      "contemporary",
+      "calligraphic"
+    ],
+    "summary": "A considered contemporary blackletter from Hendra Maulia and M. Sadikun, built around deliberate compression and density for headline and logotype work in a gothic register.",
+    "description": "Dx Gotha packs 338 glyphs into a single regular weight, its letterforms arranged for maximum density within minimal space – an intentional claustrophobia that reads well at scale but limits it to display use. The calligraphic gothic structure is handled with care: discretionary ligatures, stylistic alternates and 83-language Latin coverage give it more utility than most single-weight blackletter faces. It suits logotypes, posters and branding with a dark or gothic register; it is not a text face.",
+    "foundry_blurb": "Dirty Line Studio describe Dx Gotha as a contemporary blackletter built on the efficient arrangement of a maximum number of letters in minimal space, producing an exceptionally varied, character-rich font that deliberately evokes a sense of claustrophobia in the viewer.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Grafik",
+    "url": "https://dirtylinestudio.com/product/dx-grafik/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Dirty Line Studio",
     "year": null,
     "category": "sans-serif",
     "subcategory": "geometric sans",
-    "classification_notes": "The name and specimen suggest a clean, elegant geometric sans-serif with a variable weight axis spanning Thin to Bold, typical of contemporary display-oriented geometric families.",
+    "classification_notes": "Low-contrast geometric sans with a clean, minimal structure and urban sensibility. Stylistic alternate characters via SS01 and SS02 add variety. Available as a variable font and in nine static weights; italic variants present at heavier weights.",
     "weights": [
       "Thin",
       "ExtraLight",
@@ -526,83 +670,198 @@
       "Regular",
       "Medium",
       "SemiBold",
-      "Bold"
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Black Italic"
     ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
+    "optical_sizes_or_widths": [],
     "subfamilies": [
-      "Dx Alegant"
+      "Variable",
+      "Static"
     ],
     "has_condensed": false,
-    "has_italic": false,
+    "has_italic": true,
     "has_mono": false,
     "languages": [
-      "Latin"
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Portuguese",
+      "Italian",
+      "Dutch",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Polish",
+      "Czech",
+      "Slovak",
+      "Hungarian",
+      "Romanian",
+      "Croatian",
+      "Turkish",
+      "Baltic languages"
     ],
     "tier": "okay",
-    "type": "foundry",
     "tags": [
       "geometric",
-      "elegant",
-      "variable",
+      "urban",
+      "lifestyle",
+      "variable font",
+      "modern",
+      "minimal",
       "display",
-      "contemporary",
-      "clean"
+      "branding",
+      "extended latin"
     ],
-    "summary": "A seven-weight geometric sans with a variable font included, pitched at display and branding use.",
-    "description": "Spanning Thin through Bold with a matching variable font, Dx Alegant is a clean geometric sans aimed at titles and branding. The family offers no italics or condensed cuts, keeping the range focused on weight contrast. Licensing tiers run from desktop to worldwide corporate, with individual weights also available separately.",
-    "foundry_blurb": "Dirty Line Studio offer Dx Alegant as a full family of seven static fonts plus a variable font, available for desktop, web, logo, and corporate licensing. The family spans Thin to Bold and is sold either as a complete package or as individual weights."
+    "summary": "A clean geometric sans with variable font support and a contemporary urban flavour, pitched at lifestyle branding and digital interfaces.",
+    "description": "Dx Grafik is a low-contrast geometric sans from Dirty Line Studio, built with a minimal, contemporary feel and alternative characters accessible via two stylistic sets. The full family ships as a variable font plus nine static weights, with an extended Latin character set covering 534 glyphs and 95+ languages. Functional enough for UI work or brand design, though it sits firmly in Creative Market territory rather than specialist type design.",
+    "foundry_blurb": "Dirty Line Studio describes Dx Grafik as a modern minimalist geometric typeface inspired by hype and urban design, intended for lifestyle and trend-oriented work. They position it as a versatile workhorse for interfaces and branding, emphasising its \"elegant style, strength, and contrasts\" and the flexibility of its variable font format.",
+    "type": "foundry"
   },
   {
     "name": "Dx Grove",
-    "foundry": "Dirty Line Studio",
     "url": "https://dirtylinestudio.com/product/dx-grove/",
-    "designer": null,
-    "year": null,
-    "category": "sans-serif",
-    "subcategory": "grotesque",
-    "classification_notes": "The family offers regular, italic, condensed and condensed italic cuts consistent with a functional grotesque sans-serif. No decorative or script characteristics are evident from the page content.",
+    "foundry": "Dirty Line Studio",
+    "category": "display",
+    "subcategory": "Vintage Display Serif",
+    "classification_notes": "Hand-drawn serif with irregular stroke qualities and decorative alternates. OpenType features include swash, stylistic alternates and discretionary ligatures. Classified as display/serif; not suited to body text. The condensed variant extends its range beyond pure novelty.",
+    "designer": "Hendra Maulia",
+    "year": 2022,
     "weights": [
-      "Regular"
+      "Regular",
+      "Italic",
+      "Condensed",
+      "Condensed Italic",
+      "Variable"
     ],
     "optical_sizes_or_widths": [
-      "standard",
+      "Regular",
       "Condensed"
     ],
     "subfamilies": [
-      "Dx Grove"
+      "Dx Grove",
+      "Dx Grove Condensed"
     ],
     "has_condensed": true,
     "has_italic": true,
     "has_mono": false,
     "languages": [
-      "Latin"
+      "Latin Extended",
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Italian",
+      "Portuguese",
+      "Dutch",
+      "Polish",
+      "and 70+ additional Latin-based languages"
+    ],
+    "tier": "loose",
+    "tags": [
+      "vintage",
+      "retro",
+      "hand-drawn",
+      "90s",
+      "display",
+      "serif",
+      "branding",
+      "packaging",
+      "wedding",
+      "nostalgia",
+      "swash",
+      "alternates",
+      "variable"
+    ],
+    "summary": "A hand-drawn vintage serif with four styles, swash alternates and a condensed sibling – competent within its 90s-nostalgia lane but narrow in scope.",
+    "description": "Dx Grove is a hand-lettered display serif from Indonesia's Dirty Line Studio, built around soft, irregular stroke qualities and decorative swash alternates that give it a period-appropriate warmth. The family spans regular and condensed cuts, each with italics, plus a variable TTF – more range than most marketplace novelty faces, though it remains firmly display territory. It suits signage, packaging and branding at larger sizes where the nostalgic grain reads clearly; it has no role in body text.",
+    "foundry_blurb": "Dirty Line Studio describe Dx Grove as a vintage-inspired serif blending nostalgia with elegance, suited to projects that call for 90s aesthetic sensibilities. They position it across wedding invitations, branding, packaging and graphic design work.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Kord Variable",
+    "url": "https://dirtylinestudio.com/product/dx-kord/",
+    "foundry": "Dirty Line Studio",
+    "category": "display",
+    "subcategory": "Variable Display Sans",
+    "classification_notes": "Geometric display sans-serif with two variable axes: Width (Ultra Compressed to Ultra Extended) and Inktrap (toggles between clean and notched-corner inktrap forms). Three subfamilies – Fine, Normal, Inktrap – each span six width positions across static cuts. Inktrap is deployed as a stylistic axis rather than a production necessity, giving a sharp, angular character at display sizes.",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2025,
+    "weights": [
+      "Fine",
+      "Normal"
+    ],
+    "optical_sizes_or_widths": [
+      "Ultra Compressed",
+      "Compressed",
+      "Normal",
+      "Expanded",
+      "Extended",
+      "Ultra Extended"
+    ],
+    "subfamilies": [
+      "Fine",
+      "Normal",
+      "Inktrap"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Portuguese",
+      "Italian",
+      "Dutch",
+      "Polish",
+      "Czech",
+      "Romanian",
+      "Hungarian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Turkish",
+      "Afrikaans"
     ],
     "tier": "okay",
-    "type": "foundry",
     "tags": [
-      "grotesque",
-      "condensed",
-      "functional",
-      "editorial",
-      "display"
+      "variable",
+      "display",
+      "geometric",
+      "inktrap",
+      "headline",
+      "branding",
+      "width-axis",
+      "compressed",
+      "extended",
+      "commercial",
+      "logo",
+      "advertising"
     ],
-    "summary": "A compact grotesque sans offered in regular and condensed cuts with matching italics, suited to display and editorial use.",
-    "description": "Dx Grove is a grotesque sans from Dirty Line Studio available in four styles: Regular, Italic, Condensed and Condensed Italic. The condensed variant extends its range into tighter column settings and headline work. Licensing is available across desktop, web, mobile and server tiers, with a complete family bundle from $25.",
-    "foundry_blurb": "Dirty Line Studio offer Dx Grove as a complete family bundle covering regular and condensed widths with italics for each, available under desktop, web, mobile, server and extended licences."
+    "summary": "A two-axis variable display sans running from ultra-compressed to ultra-extended widths with an inktrap toggle, across Fine, Normal and Inktrap subfamilies in 18 static cuts plus a variable file.",
+    "description": "Dx Kord pairs a width axis spanning Ultra Compressed to Ultra Extended with a second axis that shifts between clean geometric forms and an inktrap version with notched corners. The three subfamilies – Fine, Normal and Inktrap – each cover six width positions, giving solid range for headlines and identity work without file-switching. OpenType support for discretionary ligatures, stylistic alternates and two stylistic sets rounds out the character-level flexibility.",
+    "foundry_blurb": "Dirty Line Studio pitches Dx Kord as a modern, precision-crafted display sans built for versatility across advertising, logos, packaging and digital assets. The width and inktrap variable axes are the defining feature, with 17 named instances mapping the design space from a tight compressed setting to a wide extended one with sharp inktrap detailing.",
+    "type": "foundry"
   },
   {
     "name": "Dx Lactos",
-    "foundry": "Dirty Line Studio",
     "url": "https://dirtylinestudio.com/product/dx-lactos/",
-    "designer": null,
-    "year": null,
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2024,
     "category": "display",
-    "subcategory": "display sans",
-    "classification_notes": "The family includes Regular, Expanded and Ultra width variants, with a variable font axis, suggesting a display-oriented sans designed for expressive typographic use rather than extended text setting.",
+    "subcategory": "variable-width display",
+    "classification_notes": "Bold decorative display typeface with a variable width axis spanning three named configurations. Playful, quirky letterforms with rounded qualities. OpenType support for discretionary ligatures, stylistic alternates, swash variants and two stylistic sets. No weight axis – variation is entirely width-based. Designed primarily for entertainment marketing and large-scale digital headers.",
     "weights": [
       "Regular",
+      "Expanded",
       "Ultra"
     ],
     "optical_sizes_or_widths": [
@@ -611,47 +870,1331 @@
       "Ultra"
     ],
     "subfamilies": [
-      "Dx Lactos"
+      "Regular",
+      "Expanded",
+      "Ultra"
     ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Extended Latin",
+      "Afrikaans",
+      "Spanish",
+      "French",
+      "German",
+      "Portuguese"
+    ],
+    "tier": "loose",
+    "tags": [
+      "display",
+      "variable",
+      "variable-width",
+      "bold",
+      "quirky",
+      "playful",
+      "entertainment",
+      "headlines",
+      "decorative",
+      "promotional",
+      "digital",
+      "streaming"
+    ],
+    "summary": "A bold, variable-width display face with quirky letterforms and OpenType alternates, built for entertainment headlines and promotional graphics rather than general editorial use.",
+    "description": "Dx Lactos offers three width configurations – Regular, Expanded and Ultra – driven by a variable width axis, with OpenType features including discretionary ligatures, stylistic alternates, swash variants and two stylistic sets. The character is unapologetically single-mood: bold, playful and pitched at streaming platform graphics, movie promotional material and large-scale digital H1 headers. Outside that lane it has little to offer, which makes it a narrow pick for any serious type collection.",
+    "foundry_blurb": "Dirty Line Studio describes Dx Lactos as a bold, boundary-pushing display face whose variable width and quirky playfulness make it a natural fit for promotional materials for movies and series. The studio positions it as closely aligned with the aesthetic demands of leading entertainment platforms, and highlights its effectiveness for striking H1 through H3 headlines in digital contexts, with coverage extending to 180 or more languages.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Lactos Vol.02",
+    "url": "https://dirtylinestudio.com/product/dx-lactos-vol-02/",
+    "foundry": "Dirty Line Studio",
+    "category": "display",
+    "subcategory": "variable display sans",
+    "classification_notes": "Variable weight display sans-serif with rounded, geometric letterforms and a playful character. Nine named weight instances (Thin to Black) on a single variable weight axis. OpenType features include standard and discretionary ligatures, stylistic alternates, and two stylistic sets. No italic or condensed companion documented. Available in OTF, TTF, WOFF and WOFF2.",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2025,
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "English",
+      "European languages",
+      "African languages"
+    ],
+    "tier": "loose",
+    "tags": [
+      "display",
+      "variable",
+      "sans-serif",
+      "bold",
+      "playful",
+      "entertainment",
+      "branding",
+      "pop-culture",
+      "streaming",
+      "editorial",
+      "logo",
+      "quirky"
+    ],
+    "summary": "A variable display sans with rounded, upbeat letterforms and nine weights, aimed squarely at entertainment branding and pop-culture headlines.",
+    "description": "Dx Lactos Vol.02 is a variable weight display sans-serif with rounded curves, a geometric skeleton and an unabashedly playful character. Its nine named instances from Thin to Black offer practical range for visual hierarchy, and OpenType stylistic alternates with two stylistic sets give some compositional flexibility. The aesthetic is firmly in the pop-culture lane – effective for streaming branding and editorial headers, but it has one register and stays in it.",
+    "foundry_blurb": "Dirty Line Studio describe Dx Lactos Vol.02 as a boundary-pushing display font pairing bold personality with variable weight flexibility. Quirky curves and a confident structure make it suited to entertainment branding, streaming visuals, movie posters and pop-culture campaigns, with the variable axis allowing control from minimal Thin titles through to striking Black headlines, and coverage extending to over 100 languages.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Lucero",
+    "url": "https://dirtylinestudio.com/product/dx-lucero/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2022,
+    "category": "script",
+    "subcategory": "Calligraphic script",
+    "classification_notes": "Modern calligraphic script with a dancing (irregular) baseline and sharp pen-style strokes. Single weight. Extensive OpenType feature set: discretionary ligatures, stylistic alternates, swash characters, four stylistic sets, and PUA encoding for broad software compatibility.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Portuguese",
+      "Scandinavian languages",
+      "African languages",
+      "70+ languages"
+    ],
+    "tier": "loose",
+    "tags": [
+      "script",
+      "calligraphic",
+      "wedding",
+      "invitation",
+      "display",
+      "dancing baseline",
+      "swash",
+      "decorative",
+      "branding",
+      "stationery",
+      "hand-lettered"
+    ],
+    "summary": "A single-weight calligraphic script with a dancing baseline and sharp pen strokes, aimed squarely at wedding stationery, invitations and decorative branding.",
+    "description": "Dx Lucero is a calligraphic script from Dirty Line Studio built on an irregular, dancing baseline to give text a hand-lettered feel. It ships with a solid OpenType feature set – discretionary ligatures, swash characters, four stylistic sets and PUA encoding – which gives it more flexibility than its price suggests. The aesthetic is capable within the genre but sits in a crowded field of similar calligraphic scripts with little to distinguish it from dozens of comparable offerings.",
+    "foundry_blurb": "Dirty Line Studio describe Dx Lucero as a modern script with a sharp calligraphic style and dancing baseline, suited to logos, invitations, greeting cards, branding and posters. It supports 70+ languages and is available in OTF, TTF, WOFF and WOFF2 formats, with PUA encoding for use in applications that don't support OpenType features directly.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Maru",
+    "url": "https://dirtylinestudio.com/product/dx-maru-bold-brush-display-font/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "brush display",
+    "classification_notes": "Bold brush display with handmade, graffiti-influenced aesthetic. Two stylistic variants: Regular (crisp punchy strokes) and Blur (soft spray-paint texture for street-art effects). Uppercase and lowercase with OpenType contextual alternates, stylistic alternates and two stylistic sets for natural rhythm variation.",
+    "weights": [
+      "Regular",
+      "Blur"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Afrikaans",
+      "Albanian",
+      "Danish",
+      "Dutch",
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Norwegian",
+      "Spanish",
+      "Swedish",
+      "Western European",
+      "Central European"
+    ],
+    "tier": "loose",
+    "tags": [
+      "brush",
+      "display",
+      "graffiti",
+      "streetwear",
+      "handmade",
+      "bold",
+      "hand-lettering",
+      "spray-paint"
+    ],
+    "summary": "A bold brush display in two variants – crisp strokes or soft spray-paint blur – targeting streetwear branding, poster work and editorial headlines.",
+    "description": "Dx Maru, by Dirty Line Studio designer Hendra Maulia, draws from hand-painted lettering and graffiti traditions to deliver a confident brush display. The Regular variant gives clean, punchy strokes; Blur introduces a spray-paint texture for a street-art feel. OpenType contextual alternates and two stylistic sets add compositional variation, but the typeface is firmly one-register and narrow in application.",
+    "foundry_blurb": "Dirty Line Studio bills Dx Maru as capturing the raw character of real hand lettering through energetic brush strokes. The Blur variant extends this into spray-paint territory for a street-art feel. Suggested uses include streetwear graphics, poster design, packaging, album covers, event flyers and social media content.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Nacky",
+    "url": "https://dirtylinestudio.com/product/dx-nacky/",
+    "foundry": "Dirty Line Studio",
+    "designer": null,
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "Condensed display serif",
+    "classification_notes": "A condensed serif with sharp triangular serifs and a deliberately undulating, dancing baseline. Display-first, with a mid-90s editorial aesthetic. The distinctive 'a' gives it personality but also narrows its versatility. OpenType features include discretionary ligatures, stylistic alternates, swash characters and a stylistic set. Stylistically adjacent to 1990s fashion magazine typography.",
+    "weights": [
+      "Light",
+      "Medium Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Western European",
+      "Central European",
+      "Eastern European",
+      "Baltic",
+      "Turkish",
+      "Vietnamese"
+    ],
+    "tier": "loose",
+    "tags": [
+      "condensed",
+      "serif",
+      "display",
+      "retro",
+      "vintage",
+      "editorial",
+      "fashion",
+      "90s",
+      "decorative",
+      "dancing baseline"
+    ],
+    "summary": "A condensed retro serif with sharp triangular serifs and a dancing baseline, built for display headlines with a mid-90s fashion editorial feel.",
+    "description": "Dx Nacky is a condensed serif designed for display use, drawing on mid-90s editorial aesthetics with angular triangular serifs and a lively, undulating baseline. The light weight reads as fashion-adjacent and refined; the medium italic adds energy and personality. With only two styles available and a novelty-forward character, its appeal is specific – effective in the right context but limited in range.",
+    "foundry_blurb": "Dirtyline Studio describe Dx Nacky as a fresh-yet-vintage serif with a strong style and a dancing baseline, suited to greeting cards, invitations, branding materials and posters. The full character set runs to 415 glyphs across extended Latin, covering 88 or more languages, with OpenType features including discretionary ligatures, stylistic alternates, swash characters and a stylistic set.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Neuegrid",
+    "url": "https://dirtylinestudio.com/product/dx-neuegrid/",
+    "foundry": "Dirty Line Studio",
+    "category": "sans-serif",
+    "subcategory": "Geometric grotesque",
+    "classification_notes": "A modular geometric grotesque with hard-angled construction and experimental curve treatment. Leans toward display and headline use rather than text setting. The 15° slanted style functions as an oblique rather than a drawn italic. Variable font is included in the full family. Aesthetic draws heavily from techno and industrial signage references, placing it firmly in the futurist display genre popular in the mid-2020s.",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2026,
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Roman",
+      "Slanted",
+      "Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "European",
+      "African",
+      "Māori"
+    ],
+    "tier": "loose",
+    "tags": [
+      "geometric",
+      "grotesk",
+      "futurist",
+      "display",
+      "modular",
+      "techno",
+      "variable",
+      "branding",
+      "editorial",
+      "sharp",
+      "industrial"
+    ],
+    "summary": "A sharp, modular geometric grotesk from an Indonesian studio, built for tech-adjacent branding and headline work with seven weights and a variable font option.",
+    "description": "Dx Neuegrid covers seven weights from Light to Black, each paired with a 15° slanted counterpart, plus a variable font – 14 styles in total. The design takes its cues from industrial signage and modernist grid systems, producing letterforms with hard angles, tight spacing and experimental curves that read as deliberately mechanical. The overall aesthetic is on-trend futurism: distinctive enough for poster and branding use, but squarely within a crowded genre that ages quickly.",
+    "foundry_blurb": "Dirty Line Studio positions Dx Neuegrid as a futuristic grotesk built on sharp geometry, modular rhythm and experimental curves, intended for contemporary branding, editorial systems, posters, interfaces and forward-thinking visual identities. They cite cyber typography, industrial signage and modernist grids as the primary reference points, describing it as sitting between clean functionality and bold visual expression.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Overun",
+    "url": "https://dirtylinestudio.com/product/dx-overun-dirtyline-studio/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "Racing Display",
+    "classification_notes": "Bold variable display typeface with heavy weight and wide proportions. Features a variable slant axis that produces three distinct static styles: Regular, SemiSlant and Slant. Geometric construction with sharp angular cuts and aerodynamic character shapes. Designed for single-word and short-phrase display use in motorsport, automotive and sports contexts. OpenType features include discretionary ligatures, contextual alternates and two stylistic sets.",
+    "weights": [
+      "Regular",
+      "SemiSlant",
+      "Slant"
+    ],
+    "optical_sizes_or_widths": [
+      "Variable Slant Axis"
+    ],
+    "subfamilies": [
+      "DxOverun Regular",
+      "DxOverun SemiSlant",
+      "DxOverun Slant"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Portuguese",
+      "Italian",
+      "Dutch",
+      "Danish",
+      "Norwegian",
+      "Swedish",
+      "Finnish",
+      "Polish",
+      "Czech",
+      "Swahili",
+      "Zulu",
+      "Xhosa"
+    ],
+    "tier": "loose",
+    "tags": [
+      "display",
+      "racing",
+      "motorsport",
+      "variable",
+      "bold",
+      "geometric",
+      "sports",
+      "slant",
+      "automotive",
+      "esports",
+      "gaming",
+      "logo",
+      "wide",
+      "heavy"
+    ],
+    "summary": "A heavy, slant-variable racing display face with wide proportions and sharp geometric cuts, built specifically for motorsport branding, automotive graphics and esports titles.",
+    "description": "Dx Overun is a bold display typeface by Hendra Maulia, built around wide proportions, heavy weight and a variable slant axis that shifts between three styles: Regular, SemiSlant and full Slant. OpenType support includes discretionary ligatures, contextual alternates and two stylistic sets, giving it more typographic depth than most typefaces of its kind. It is designed for a specific visual territory – motorsport logos, racing posters, gaming title cards and esports branding – and makes no claim to versatility beyond it.",
+    "foundry_blurb": "Dirty Line Studio describe Dx Overun as a bold variable racing and motorsport display font built to express speed, power and forward motion. Wide proportions, heavy construction and an aerodynamic slant make it suited to motorsport logos, racing posters, automotive branding, esports titles, sportswear graphics and editorial headlines.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Playhigh Variable",
+    "url": "https://dirtylinestudio.com/product/dx-playhigh-variable/",
+    "foundry": "Dirty Line Studio",
+    "category": "display",
+    "subcategory": "Variable display sans-serif",
+    "classification_notes": "Geometric variable display sans-serif with a continuous width axis spanning Condensed to Ultra Expanded and a weight axis running White to Black. Three style variants – regular, italic and back italic – yield 21 static instances. Sharp angular letterforms with a commanding, futuristic character. OpenType swash characters, discretionary ligatures and stylistic sets are included.",
+    "weights": [
+      "Variable (White to Black)"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Semi-Condensed",
+      "Regular",
+      "Semi-Expanded",
+      "Expanded",
+      "Extra Expanded",
+      "Ultra Expanded"
+    ],
+    "subfamilies": [
+      "Regular",
+      "Italic",
+      "Back Italic"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Portuguese",
+      "Polish",
+      "Latin Extended (120+ languages)"
+    ],
+    "tier": "okay",
+    "tags": [
+      "variable",
+      "display",
+      "geometric",
+      "sans-serif",
+      "bold",
+      "headline",
+      "poster",
+      "branding",
+      "condensed",
+      "expanded",
+      "back italic",
+      "futuristic",
+      "wide"
+    ],
+    "summary": "A bold geometric variable display sans-serif spanning Condensed to Ultra Expanded widths, with regular, italic and back-italic styles across 21 static instances.",
+    "description": "DX Playhigh is a variable display sans-serif from Dirty Line Studio with sharp angular geometry and a width axis that runs from Condensed through Ultra Expanded. Three distinct style variants – regular, italic and back italic – give it flexibility for headline and poster work where the back slant reads as a genuine design choice rather than filler. Swash characters, discretionary ligatures and 120+ language support round out a technically complete commercial package.",
+    "foundry_blurb": "Dirty Line Studio describes DX Playhigh as the ultimate variable display font, a bold and dynamic typeface designed to make a statement. The studio positions it as a blend of strength and energy for designers who want commanding typography across headlines, posters and branding campaigns.",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2025,
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Restcal",
+    "url": "https://dirtylinestudio.com/product/dx-restcal/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "Geometric sans-serif",
+    "classification_notes": "Contemporary geometric grotesk drawing on modernist construction principles with a subtle retro softness. Clean, structured letterforms with an understated vintage edge – closer to the Futura/Nunito corner of the geometric sans spectrum than to the cool neutrality of a Neo-Grotesque. Nine upright weights only; no italics in the current release.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Western European",
+      "Central European",
+      "African Latin",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "tags": [
+      "geometric",
+      "grotesk",
+      "modernist",
+      "retro",
+      "branding",
+      "editorial",
+      "digital",
+      "multi-language",
+      "nine-weights"
+    ],
+    "summary": "A nine-weight geometric sans-serif from Indonesian studio Dirty Line Studio, built on modernist construction with a faint retro softness suited to branding and editorial work.",
+    "description": "Dx Restcal follows a modernist geometric framework, with clean upright letterforms that carry a restrained vintage edge without committing to overt retro styling. The family spans nine weights from Thin to Black, supports 100+ languages, and includes stylistic sets, ligatures and discretionary alternates via OpenType. A functional all-rounder for branding and digital work, though the design territory – geometric warmth, modernist bones – is well-trodden.",
+    "foundry_blurb": "Dirty Line Studio positions Restcal as a contemporary geometric sans-serif built for designers who want precision and warmth together. Inspired by modernist principles, it offers clean, structured letterforms with subtle retro undertones, sized up for branding, editorial and digital applications at any scale.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Rigraf",
+    "url": "https://dirtylinestudio.com/product/dx-rigraf/",
+    "foundry": "Dirty Line Studio",
+    "category": "sans-serif",
+    "subcategory": "humanist sans-serif",
+    "classification_notes": "Geometric-humanist hybrid with monospace design inflections. Constructed from circular bowls and elementary shapes, then cut with sharp angles and contemporary terminals. Not a true monospace – the monospace reference is aesthetic rather than structural. Sits between geometric and humanist classifications; closer to geometric in construction, humanist in proportions and spacing.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Regular",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Italic"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "English",
+      "French",
+      "Spanish",
+      "German",
+      "Italian",
+      "Portuguese",
+      "Polish",
+      "Turkish",
+      "Dutch",
+      "Czech",
+      "Slovak",
+      "Romanian",
+      "Hungarian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Croatian",
+      "Slovenian",
+      "Lithuanian",
+      "Latvian",
+      "Estonian",
+      "Albanian",
+      "Catalan",
+      "Basque",
+      "Galician",
+      "Afrikaans",
+      "Swahili",
+      "Malay",
+      "Indonesian",
+      "Filipino",
+      "Vietnamese",
+      "Welsh"
+    ],
+    "tier": "okay",
+    "tags": [
+      "geometric",
+      "humanist",
+      "monospace-influenced",
+      "variable-font",
+      "multi-width",
+      "contemporary",
+      "branding",
+      "editorial",
+      "display",
+      "logo",
+      "packaging",
+      "advertising",
+      "fashion"
+    ],
+    "summary": "A geometric-humanist sans with monospace inflections, available as a single variable font across nine weights and three widths, suited to branding, editorial and display work.",
+    "description": "Dx Rigraf blends humanist proportions with geometric construction and monospace-influenced details, producing a contemporary sans that reads at both text and display sizes. Designed by Hendra Maulia and released in 2020, the family spans nine weights across three widths with matching italics – 54 styles packaged as a single variable font. The 577-glyph character set covers over 33 languages, giving it genuine range for international brand and editorial use.",
+    "foundry_blurb": "Dirtyline Studio describes Dx Rigraf as a modern humanist typeface with contemporary monospace touches, built from strong elementary shapes in which clean circles meet modern cuts and sharp edges. The variable font format is central to the design intent, giving access to the full weight and width range in software that supports it, while the nine discrete weights serve those who work without variable font tools.",
+    "designer": "Hendra Maulia",
+    "year": 2020,
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Ruiga",
+    "url": "https://dirtylinestudio.com/product/dx-ruiga/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "Geometric humanist sans",
+    "classification_notes": "Soft-square geometric sans sitting between brutalist rigidity and humanist warmth. Deep apertures, carved inner cuts and squared terminals give it a contemporary display character. Variable weight axis (Thin–Black) with five stylistic sets including alternate a, g, R, J, Q and simplified digits. Not a strict geometric nor a true humanist – the tension between the two is the design's main proposition.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Static (OTF)",
+      "Variable (TTF/OTF)",
+      "Webfonts (WOFF2)"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin (Pan-European)",
+      "Vietnamese",
+      "Russian",
+      "Ukrainian",
+      "Bulgarian",
+      "Serbian",
+      "Polish",
+      "Romanian",
+      "Catalan",
+      "Dutch",
+      "Turkish"
+    ],
+    "tier": "okay",
+    "tags": [
+      "geometric",
+      "brutalist",
+      "humanist",
+      "variable",
+      "display",
+      "headline",
+      "branding",
+      "contemporary",
+      "cyrillic",
+      "multilingual",
+      "soft-square",
+      "wordmark"
+    ],
+    "summary": "A soft-square geometric sans from Dirty Line Studio that balances brutalist structure with humanised warmth, available in nine weights and a variable axis with Cyrillic and pan-Latin language support.",
+    "description": "Dx Ruiga builds on a tension between rigid geometry and approachable letterforms – squared contours, deep apertures and carved inner cuts give headlines presence without aggression. Nine static weights span Thin to Black, backed by a full variable font and five stylistic sets with alternate characters suited to wordmarks and brand lock-ups. Pan-European Latin, Vietnamese and Cyrillic coverage across Russian, Ukrainian, Bulgarian and Serbian make it a practical choice for international projects.",
+    "foundry_blurb": "Dirty Line Studio positions Ruiga as a modern sans that blends brutalist structure with humanised qualities, with soft-square contours, deep apertures and carved inner cuts producing a voice they describe as bold, friendly and contemporary. Intended applications range from brand wordmarks and editorial headlines to product packaging, sports campaigns and app interfaces.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Sillage",
+    "url": "https://dirtylinestudio.com/product/dx-sillage/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Rahmad Satria",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "high-contrast display serif",
+    "classification_notes": "High-contrast serif display face with expressive, flowing curves and pronounced letterforms. Blends traditional serif construction with contemporary fluid strokes. Two styles only (Regular and Italic) – purely a display/headline font, not a text family.",
+    "weights": [
+      "Regular",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "English",
+      "French",
+      "German",
+      "Italian",
+      "Spanish",
+      "Portuguese",
+      "Dutch",
+      "Polish",
+      "Czech",
+      "Romanian",
+      "Hungarian",
+      "Croatian",
+      "Slovak",
+      "Slovenian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Turkish",
+      "Afrikaans"
+    ],
+    "tier": "okay",
+    "tags": [
+      "display",
+      "serif",
+      "high-contrast",
+      "luxury",
+      "editorial",
+      "branding",
+      "elegant",
+      "expressive",
+      "wedding",
+      "fashion",
+      "logotype",
+      "invitation"
+    ],
+    "summary": "A high-contrast display serif with fluid, expressive curves and two polished styles, built for luxury branding and editorial headlines.",
+    "description": "Dx Sillage pairs traditional serif construction with contemporary flowing strokes to produce a display face that reads as refined without feeling stiff. The Regular and Italic share consistent dramatic contrast, with discretionary ligatures and two stylistic sets adding flexibility in headlines and logotypes. It is a capable single-purpose display serif rather than a workhorse family – useful for fashion, packaging and invitations but limited in scope by its two-style offering.",
+    "foundry_blurb": "Dirty Line Studio describe Dx Sillage as an elegant, expressive serif display font blending classic serif structures with modern fluid curves to create a graceful silhouette. They position it for luxury branding and high-end editorial design, pointing to its pronounced letterforms and refined strokes as suited to posters, packaging, invitations and logos.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Sitrus",
+    "url": "https://dirtylinestudio.com/product/dx-sitrus/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Ally Hamid, Hendra Maulia",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "wedge-serif display",
+    "classification_notes": "High-contrast display serif with sharp triangular wedge serifs. Offered as a variable font spanning five widths from condensed to extra expanded, each with an italic companion. Letterforms are contemporary and editorial in character, influenced by fashion typography. No explicit weight axis – the range is entirely width-based. OpenType features include discretionary ligatures, stylistic alternates, swash characters, and four stylistic sets.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Semi-Condensed",
+      "Regular",
+      "Expanded",
+      "Extra Expanded"
+    ],
+    "subfamilies": [],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "English",
+      "Indonesian",
+      "Swahili",
+      "Serbian",
+      "Esperanto",
+      "Latin Extended",
+      "African Latin scripts"
+    ],
+    "tier": "okay",
+    "tags": [
+      "display",
+      "serif",
+      "wedge-serif",
+      "triangular-serif",
+      "variable",
+      "editorial",
+      "fashion",
+      "branding",
+      "wide-width-range",
+      "headline"
+    ],
+    "summary": "A variable display serif with sharp triangular wedge serifs and a five-step width range from condensed to extra expanded, best suited to editorial headlines and fashion branding.",
+    "description": "Dx Sitrus is built around a single weight with a width axis that stretches from tight condensed to extra expanded, giving designers genuine flexibility without separate cuts. The triangular wedge serifs and high-contrast strokes read confidently at headline scale and work well for logo and editorial applications. It is a competent and versatile display offering, though the design language sits in well-trodden contemporary-fashion-serif territory rather than staking out distinctive ground.",
+    "foundry_blurb": "Dirty Line Studio describe Dx Sitrus as a fresh, modern serif with strong shape and contemporary touches – suited to invitations, branding, logo design and editorial use, with distinctive letterforms designed to perform across display and smaller applications.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Slight",
+    "url": "https://dirtylinestudio.com/product/dx-slight/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "ultra-condensed display sans-serif",
+    "classification_notes": "Ultra-condensed sans-serif with sharp, triangular letterforms and strong vertical emphasis. Geometric in construction, with compressed proportions designed for headline and poster use. Available as a variable font with weight, H-height and slant axes totalling 55 styles across the full family.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Ultra Condensed"
+    ],
+    "subfamilies": [
+      "Dx Slight Ultra",
+      "Dx Slight Ultra Slant"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Extended Latin",
+      "Western European",
+      "Central European",
+      "Eastern European"
+    ],
+    "tier": "okay",
+    "tags": [
+      "display",
+      "ultra-condensed",
+      "geometric",
+      "poster",
+      "headline",
+      "variable font",
+      "editorial",
+      "modern",
+      "logo",
+      "signage"
+    ],
+    "summary": "A sharp ultra-condensed display sans with triangular letterforms and a variable font architecture spanning nine weights, plus H-height and slant axes, suited to poster headlines and editorial titles.",
+    "description": "Dx Slight is Dirty Line Studio's ultra-condensed display sans, built around sharp triangular construction and strong vertical emphasis. The commercial family ships as a variable font with weight, H-height and slant axes, giving designers control over texture and angle across 55 styles. An extended Latin character set of 366 glyphs covers 88+ languages, and the typeface is well suited to magazine covers, logo work and display typography.",
+    "foundry_blurb": "Dirty Line Studio describes Dx Slight as a fresh, modern ultra-condensed sans built for posters and title-setting. They argue that its sharp triangular shapes and distinctive letterforms hold up both at display sizes and in smaller text, and position the family across logo design, magazine covers, restaurant signage and website headers.",
+    "type": "foundry"
+  },
+  {
+    "name": "Dx Wideground",
+    "url": "https://dirtylinestudio.com/product/dx-wideground/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "Variable width display sans",
+    "classification_notes": "Geometric-leaning display sans with a variable width axis spanning nine steps from Ultra Condensed to Ultra Expanded. Clean, neutral letterforms with a confident upright stance, built for large-scale use. No weight axis – width is the sole variable dimension.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Ultra Condensed",
+      "Extra Condensed",
+      "Condensed",
+      "Semi Condensed",
+      "Regular",
+      "Semi Expanded",
+      "Expanded",
+      "Extra Expanded",
+      "Ultra Expanded"
+    ],
+    "subfamilies": [],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Portuguese",
+      "Italian",
+      "Polish",
+      "Swedish",
+      "100+ languages total"
+    ],
+    "tier": "okay",
+    "tags": [
+      "variable",
+      "display",
+      "geometric",
+      "sans",
+      "condensed",
+      "expanded",
+      "headlines",
+      "poster",
+      "branding",
+      "editorial",
+      "packaging"
+    ],
+    "summary": "A variable-width display sans covering nine steps from ultra condensed to ultra expanded, with clean geometry and broad language support aimed at headline and poster work.",
+    "description": "Dx Wideground runs a single variable width axis across nine static instances, keeping consistent geometric character from ultra condensed to ultra expanded. OpenType features – discretionary ligatures, stylistic alternates, swash and two stylistic sets – give designers some room to tune the type beyond the obvious width play. It is a competent workhorse for branding, editorial headlines and large-scale poster work, though it does not bring anything that sets it apart from the broader field of variable display sans-serifs.",
+    "foundry_blurb": "Dirty Line Studio position Dx Wideground as a modern variable-width display font built for headlines and large-scale typography, with smooth variable control enabling transitions across extreme width proportions while maintaining strong character and readability. They recommend it for posters, branding systems, editorial headlines, packaging and experimental layouts.",
+    "type": "foundry"
+  },
+  {
+    "name": "Elanor",
+    "url": "https://dirtylinestudio.com/product/elanor/",
+    "foundry": "Dirty Line Studio",
+    "designer": null,
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "Retro display serif",
+    "classification_notes": "1970s-inflected serif with diagonal stress and teardrop-shaped terminals. Triangular serifs are the primary structural motif. Decorative ligatures and subtle grotesque details add contemporary versatility. Nine weights with italics plus a variable font; Latin and Cyrillic coverage across 555 glyphs.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Regular",
+      "Italic",
+      "Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "tags": [
+      "retro",
+      "70s",
+      "display",
+      "editorial",
+      "logo",
+      "branding",
+      "ligatures",
+      "variable",
+      "cyrillic",
+      "feminine"
+    ],
+    "summary": "A '70s-inflected serif with teardrop terminals, diagonal stress and triangular serifs, available across nine weights with italics and a variable font spanning Latin and Cyrillic.",
+    "description": "Elanor draws from 1970s type aesthetics, pairing triangular serifs and teardrop-shaped terminals with subtle grotesque details that keep it from reading as purely nostalgic. The 21-style family spans nine weights with corresponding italics and a variable option, covering 94 languages across Latin and Cyrillic scripts via 555 glyphs. It holds up from display sizes down to body copy, though logo and editorial work is clearly where it earns its place.",
+    "foundry_blurb": "Dirty Line Studio describe Elanor as a retro serif built from 1970s influences mixed with experimental touches – diagonal stress, soft curved teardrop terminals and decorative ligatures sit alongside grotesque elements to give it modern range. The 555-glyph set covers over 94 languages and the design is intended to read as classic yet contemporary, assertive yet elegant.",
+    "type": "foundry"
+  },
+  {
+    "name": "Emerat",
+    "url": "https://dirtylinestudio.com/product/emerat-sharp-script/",
+    "foundry": "Dirty Line Studio",
+    "category": "script",
+    "subcategory": "sharp calligraphic script",
+    "classification_notes": "Single-weight sharp-edged calligraphic script with a pronounced bouncing baseline. Angular rather than rounded stroke terminals give it a cut-quill feel. OpenType feature set includes discretionary ligatures, contextual alternates, swash characters and four stylistic sets. PUA-encoded glyphs allow access to alternates in environments that lack full OpenType support. Extended Latin character set.",
+    "designer": "Hendra Maulia",
+    "year": 2020,
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Italian",
+      "Portuguese",
+      "Dutch",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Polish",
+      "Czech"
+    ],
+    "tier": "loose",
+    "tags": [
+      "script",
+      "calligraphic",
+      "sharp",
+      "display",
+      "branding",
+      "alternates",
+      "swash",
+      "bouncing-baseline",
+      "lettering",
+      "invitation",
+      "logo"
+    ],
+    "summary": "A sharp-edged calligraphic script from Banda Aceh's Dirtyline Studio, with a bouncing baseline and a well-stocked set of OpenType alternates, swashes and four stylistic sets.",
+    "description": "Emerat is a single-weight display script built on precise, angular calligraphic forms with pronounced baseline variation. Hendra Maulia has equipped it with contextual alternates, four stylistic sets, swash glyphs and PUA encoding for non-OpenType environments, giving designers more control than most retail scripts at this price. The use case is narrow – logos, invitations, display headlines – but within that lane it is well-constructed.",
+    "foundry_blurb": "Dirtyline Studio is a Banda Aceh-based type foundry run by Hendra Maulia, producing retail fonts that blend hand-lettering influences with digitally precise curves. Their catalogue spans scripts, display serifs, brush and signage faces, sold through their own site and platforms including MyFonts and Creative Market.",
+    "type": "foundry"
+  },
+  {
+    "name": "Harmond",
+    "url": "https://dirtylinestudio.com/product/harmond/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia",
+    "year": 2021,
+    "category": "display",
+    "subcategory": "contemporary display serif",
+    "classification_notes": "High-contrast display serif with sharp triangular serifs and a deliberately animated dancing baseline. Strong vertical stress, pronounced modulation between thick and thin strokes. Available across normal, condensed and expanded widths – the condensed cuts in particular read as fashion editorial. OpenType features include discretionary ligatures, stylistic alternates, swash glyphs and two stylistic sets. Variable font also available.",
+    "weights": [
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Semi Bold",
+      "Semi Bold Italic",
+      "Bold",
+      "Bold Italic",
+      "Extra Bold",
+      "Extra Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Regular",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Harmond",
+      "Harmond Condensed",
+      "Harmond Expanded",
+      "Harmond Variable"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "tags": [
+      "display",
+      "serif",
+      "fashion",
+      "branding",
+      "editorial",
+      "high-contrast",
+      "triangular-serifs",
+      "dancing-baseline",
+      "condensed",
+      "expanded",
+      "variable",
+      "logo",
+      "poster",
+      "invitation"
+    ],
+    "summary": "A display serif with sharp triangular serifs and a dancing baseline that gives it a fashion-editorial character, released in 43+ styles across normal, condensed and expanded widths.",
+    "description": "Harmond is a display serif by Hendra Maulia, built around high vertical contrast, sharp triangular serifs and an animated dancing baseline that lends headlines a fashion-forward energy. The family spans normal, condensed and expanded widths across seven weights with matching italics, plus a variable font option, and covers 470 glyphs across 88+ languages. It holds up well at display and logo sizes; at text sizes the dancing baseline becomes a liability rather than an asset.",
+    "foundry_blurb": "Dirty Line Studio describes Harmond as a fresh, modern serif with a strong style and dancing baseline, designed for invitations, branding, business cards, posters and editorial layouts. They point to the triangular serifs and distinctive letter shapes as particularly effective in logo design and at display scale, with the extended Latin character set of 470 glyphs covering over 88 languages.",
+    "type": "foundry"
+  },
+  {
+    "name": "Lingkawi South",
+    "url": "https://dirtylinestudio.com/product/lingkawi-south/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2022,
+    "category": "script",
+    "subcategory": "Calligraphic script",
+    "classification_notes": "Single-weight calligraphic pen script with a dancing baseline. OpenType features include stylistic alternates, discretionary ligatures, stylistic sets and PUA encoding for decorative glyph access. OTF and TTF formats.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Italian",
+      "Portuguese",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Dutch",
+      "Swahili",
+      "Zulu",
+      "Afrikaans"
+    ],
+    "tier": "loose",
+    "tags": [
+      "script",
+      "calligraphic",
+      "dancing-baseline",
+      "wedding",
+      "invitation",
+      "branding",
+      "logo",
+      "decorative",
+      "pen",
+      "Indonesian"
+    ],
+    "summary": "A single-weight calligraphic pen script with a dancing baseline from Dirty Line Studio's Indonesian designers, aimed squarely at the wedding, invitation and logo market.",
+    "description": "Released in November 2022 by designers Hendra Maulia and Aulia Rahman, Lingkawi South ships as a single Regular weight with a competent OpenType build covering stylistic alternates, discretionary ligatures, stylistic sets and PUA-encoded glyphs. The dancing baseline aesthetic puts it in a very crowded category of market scripts, and while the technical construction is functional, the design concept does little to set it apart from the many similar releases from the same studio and the wider Indonesian foundry scene.",
+    "foundry_blurb": "Dirty Line Studio describe Lingkawi South as a fresh, modern script with a sharp calligraphy style and a dancing baseline, suited to logos, invitations, greeting cards, branding materials, business cards, quotes and posters.",
+    "type": "foundry"
+  },
+  {
+    "name": "Metafora Sans",
+    "url": "https://dirtylinestudio.com/product/metafora-sans-font-family/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "Display sans-serif",
+    "classification_notes": "Contemporary display sans-serif with geometric construction. The weight range runs from Thin to Black, with the heavier cuts extending across width variants from standard through to Ultra Expanded. Oblique styles accompany every weight. Variable font support is included. The overall character is clean and neutral with a slight urbanist inflection at the wider, heavier extremes.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black",
+      "Black Semi Expanded",
+      "Black Expanded",
+      "Black Extra Expanded",
+      "Black Ultra Expanded"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Semi Expanded",
+      "Expanded",
+      "Extra Expanded",
+      "Ultra Expanded"
+    ],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Extended Latin",
+      "Western European"
+    ],
+    "tier": "okay",
+    "tags": [
+      "display",
+      "branding",
+      "headline",
+      "poster",
+      "packaging",
+      "urban",
+      "editorial",
+      "variable",
+      "expanded",
+      "oblique",
+      "contemporary",
+      "geometric"
+    ],
+    "summary": "A display sans spanning 13 weights and five widths – standard through ultra-expanded – each in upright and oblique, with variable font support.",
+    "description": "Metafora Sans is a display sans-serif designed by Hendra Maulia and released through Dirty Line Studio in 2020. The family covers 13 weights, from Thin to Black, with the heavier end branching into expanded widths up to Ultra Expanded – 26 styles in total once obliques are counted, plus a variable font. Extended Latin support makes it viable across Western European languages. It sits squarely in a crowded category of urbanist display sans families, but the breadth of the width axis gives it genuine practical range for branding and headline work.",
+    "foundry_blurb": "Dirty Line Studio describes Metafora Sans as a contemporary display family and \"multifunctional workhorse\" built for both print and screen, intended for logo design, brand identities, packaging, posters and editorial contexts across its full range of styles.",
+    "type": "foundry"
+  },
+  {
+    "name": "Neue Metana",
+    "url": "https://dirtylinestudio.com/product/neue-metana-font-family/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia and Aulia Rahman",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "Geometric sans-serif",
+    "classification_notes": "Contemporary geometric sans-serif with even stroke contrast and a clean minimalist construction. Features two stylistic sets, swash alternates, discretionary and standard ligatures, and ordinals via OpenType. The full family spans nine weights × roman and italic = 18 styles, plus Variable Roman and Variable Italic, totalling 20 fonts. A separate Neue Metana Mono companion exists, and a revised \"Next\" version has also been released.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black",
+      "Variable"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Neue Metana",
+      "Neue Metana Next",
+      "Neue Metana Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Extended Latin"
+    ],
+    "tier": "okay",
+    "tags": [
+      "geometric",
+      "minimal",
+      "lifestyle",
+      "urban",
+      "streetwear",
+      "editorial",
+      "fashion",
+      "variable",
+      "display",
+      "grotesque"
+    ],
+    "summary": "A geometric sans-serif spanning nine weights and variable axes, built for lifestyle branding and trend-conscious editorial with personality-forward alternates and a mono companion.",
+    "description": "Neue Metana holds a strict geometric construction across nine weights and matching italics, with two stylistic sets and swash alternates giving designers room to control how much character the type carries. Variable Roman and Italic files make it a practical choice for responsive digital work, and the separate Neue Metana Mono companion extends it into interface and coding contexts. The family is broad and competently executed; it sits comfortably in the lifestyle branding space without doing anything to distinguish itself from the many geometric sans-serifs chasing the same brief.",
+    "foundry_blurb": "Dirty Line Studio positions Neue Metana as a modern minimalist typeface drawn from \"hype and urban design,\" suited to lifestyle brands and trend-led work. The family blends geometric forms with alternate characters, ligatures and swash options, and runs from Thin to Black with variable font support for flexible typesetting.",
+    "type": "foundry"
+  },
+  {
+    "name": "Neue Metana Mono",
+    "url": "https://dirtylinestudio.com/product/neue-metana-mono/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2023,
+    "category": "mono",
+    "subcategory": "Grotesque Mono",
+    "classification_notes": "Monospaced grotesque sans-serif with geometric construction. Retains the upright, neutral rhythm of a standard grotesque but enforces fixed-width spacing throughout. Includes stylistic alternates — notably a single-storey 'a' and an alternate 's' — alongside discretionary ligatures and a stylistic set. Nine weights with true italics and a variable font axis.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Roman",
+      "Italic",
+      "Variable"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Afrikaans",
+      "Albanian",
+      "Basque",
+      "Czech",
+      "Danish",
+      "Dutch",
+      "English",
+      "Finnish",
+      "French",
+      "German",
+      "Hungarian",
+      "Italian",
+      "Norwegian",
+      "Polish",
+      "Portuguese",
+      "Romanian",
+      "Slovak",
+      "Spanish",
+      "Swedish",
+      "Turkish"
+    ],
+    "tier": "okay",
+    "tags": [
+      "monospaced",
+      "grotesque",
+      "geometric",
+      "urban",
+      "lifestyle",
+      "variable",
+      "editorial",
+      "technical",
+      "display"
+    ],
+    "summary": "A monospaced grotesque sans with nine weights, variable font support and a geometric construction aimed at urban and lifestyle design contexts.",
+    "description": "Neue Metana Mono applies fixed-width spacing to a clean grotesque sans skeleton, running from Thin to Black with italic cuts and a variable font. Each style carries 447 glyphs, extended Latin coverage for 100+ languages, and OpenType features including ligatures and stylistic alternates. The craft is competent and the weight range is genuinely useful, though the hype-driven positioning keeps it firmly in trend-adjacent territory rather than serious typographic work.",
+    "foundry_blurb": "Dirty Line Studio describes Neue Metana Mono as a grotesque sans-serif monospaced typeface designed for versatile media use, developed in collaboration with Aulia Rahman of showup!® typefoundry. The design draws on urban and lifestyle aesthetics, combining a modern minimalist approach with geometric letterforms and a suite of alternative character options.",
+    "type": "foundry"
+  },
+  {
+    "name": "Neue Metana Next",
+    "url": "https://dirtylinestudio.com/product/neue-metana-next/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans-serif",
+    "classification_notes": "Near-monolinear geometric sans with clean, neutral letterforms and a contemporary silhouette. Stylistic alternates and swash characters add some flexibility to an otherwise restrained construction. The \"Next\" designation marks the expanded version of the original Neue Metana, adding Cyrillic support, 534 glyphs and variable font versions.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black",
+      "Variable Roman",
+      "Variable Italic"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Neue Metana Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Extended Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "tags": [
+      "geometric",
+      "variable",
+      "multilingual",
+      "display",
+      "brand",
+      "urban",
+      "lifestyle",
+      "cyrillic",
+      "alternates",
+      "swash"
+    ],
+    "summary": "A nine-weight geometric sans from Indonesia's Dirtyline Studio with variable font versions, Cyrillic support and stylistic alternates – technically well-equipped but unremarkable in an already crowded category.",
+    "description": "Neue Metana Next is a geometric sans-serif built across nine weights with corresponding italics, plus Roman and Italic variable fonts. The 534-glyph set covers 95+ languages including Cyrillic, and OpenType features include discretionary ligatures, swash characters and two stylistic sets that give some room to adjust character. It is competent and versatile for brand and display use, but sits squarely in the middle of the contemporary geometric sans market without staking out distinctive typographic territory.",
+    "foundry_blurb": "Dirtyline Studio describes Neue Metana Next as a modern minimalist geometric typeface inspired by urban and lifestyle design, with alternates and multilingual coverage built for versatile brand identity work. They characterise it as moving between \"classic and contemporary\" and \"elegant and assertive,\" with an extended character set designed to handle a broad range of international projects.",
+    "type": "foundry"
+  },
+  {
+    "name": "Neuromorph",
+    "url": "https://dirtylinestudio.com/product/neuromorph/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia, Aulia Rahman",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "futuristic",
+    "classification_notes": "Single-weight geometric display face with sharp, angular letterforms and a deliberate tech/sci-fi aesthetic. Two OpenType stylistic sets and discretionary ligatures provide a small degree of alternate forms, but the overall palette is narrow.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
     "has_condensed": false,
     "has_italic": false,
     "has_mono": false,
     "languages": [
       "Latin"
     ],
-    "tier": "okay",
-    "type": "foundry",
+    "tier": "loose",
     "tags": [
+      "futuristic",
+      "tech",
+      "sci-fi",
+      "angular",
+      "geometric",
       "display",
-      "variable",
-      "expanded",
-      "sans-serif",
-      "branding",
-      "fashion",
-      "quirky"
+      "single-weight",
+      "headlines",
+      "branding"
     ],
-    "summary": "A variable display sans from Dirty Line Studio offering width variants from Regular through to Ultra for expressive branding and editorial use.",
-    "description": "Dx Lactos comes in three named cuts — Regular, Expanded and Ultra — with a variable font axis allowing fluid movement across the width range. The design leans towards fashion and branding contexts where exaggerated proportions and a clean but characterful structure are needed. Licensing tiers cover desktop, web, mobile apps and branding, with an extended option for broader commercial use.",
-    "foundry_blurb": "Dirty Line Studio present Dx Lactos as a display sans with variable font capabilities, available in Regular, Expanded and Ultra styles. It is listed under display and fashion categories and offered with a range of licensing options including logo, branding, web and mobile app use."
+    "summary": "A single-weight futuristic display face from Dirty Line Studio, built on sharp, angular letterforms with a digital-age aesthetic aimed at tech branding and entertainment headlines.",
+    "description": "Designed by Hendra Maulia and Aulia Rahman, Neuromorph leans hard into retro-futurist conventions: mechanical angles, tight spacing and a deliberate sci-fi register. Two OpenType stylistic sets extend the glyph options slightly, but with one weight and no italic it functions as a headline prop rather than a system. It has a clear use case in game UI, tech advertising and entertainment graphics where the genre signalling is the point.",
+    "foundry_blurb": "Dirty Line Studio describes Neuromorph as a typeface built for the future, with each character designed around distinct lines and shapes that convey boldness and creativity. They position it for headlines, logos and advertising across technology, fashion, art and entertainment, noting its ability to adapt to varied industries and design contexts.",
+    "type": "foundry"
   },
   {
-    "name": "Dx Glitar",
+    "name": "Pannic",
+    "url": "https://dirtylinestudio.com/product/pannic-display-font-sans/",
     "foundry": "Dirty Line Studio",
-    "url": "https://dirtylinestudio.com/product/dx-glitar/",
-    "designer": null,
-    "year": null,
     "category": "display",
-    "subcategory": "display serif",
-    "classification_notes": "The page groups Dx Glitar alongside display and script offerings from Dirty Line Studio, and the name alongside its italic companion suggests a decorative display serif positioned for titles and branding rather than body text.",
+    "subcategory": "techno sans",
+    "designer": null,
+    "year": 2020,
+    "classification_notes": "Condensed display sans with angular, techno-influenced letterforms. Geometric construction with sharp corners and a consistent upright structure; no stroke modulation. Falls squarely within the 1990s–2000s techno/digital display genre. All five styles are structural variants rather than a proper weight range.",
     "weights": [
-      "Regular"
+      "Regular",
+      "Bold",
+      "Oblique",
+      "Bold Oblique",
+      "Outline",
+      "Outline Bold"
     ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Dx Glitar"
-    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
     "has_condensed": false,
     "has_italic": true,
     "has_mono": false,
@@ -659,18 +2202,211 @@
       "Latin"
     ],
     "tier": "loose",
-    "type": "foundry",
+    "tags": [
+      "display",
+      "techno",
+      "geometric",
+      "angular",
+      "condensed",
+      "outline",
+      "poster",
+      "gaming",
+      "digital"
+    ],
+    "summary": "A tall, angular techno display face from an Indonesian stock-font studio, built for posters and gaming graphics rather than serious typographic work.",
+    "description": "Pannic is a condensed display sans with sharp, angular geometry and a digital-techno character typical of the stock-font market. Five styles cover regular, bold, oblique and outline variants – enough for headline use but with little depth or versatility beyond it. The aesthetic fits gaming, tech events and streetwear contexts at large sizes; there is no meaningful case for using it anywhere else.",
+    "foundry_blurb": "Dirty Line Studio describe Pannic as a bold, tall modern techno typeface designed to produce eye-catching, stand-out designs. It is part of a broad catalogue of display and logo fonts from the Indonesian studio, which also offers graphic design templates and custom type work for commercial clients.",
+    "type": "foundry"
+  },
+  {
+    "name": "Scalter",
+    "url": "https://dirtylinestudio.com/product/scalter/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "Retro display, variable serif-to-sans",
+    "classification_notes": "American vintage sign lettering influence with high-contrast display forms. The defining characteristic is a variable axis that interpolates between fully serifed and sans variants, across five widths (condensed to expanded), yielding 40+ styles in total. Letterforms are strong and deliberately contrasted to reinforce the retro character. Released as both a paid variable family and a limited free version.",
+    "weights": [
+      "Serif",
+      "Semi Serif",
+      "Sans Bold",
+      "Sans Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Semi-Condensed",
+      "Normal",
+      "Semi-Expanded",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Serif",
+      "Semi Serif",
+      "Sans Bold",
+      "Sans Black"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended (26+ languages)"
+    ],
+    "tier": "okay",
+    "tags": [
+      "retro",
+      "vintage",
+      "American",
+      "sign-lettering",
+      "display",
+      "variable",
+      "high-contrast",
+      "condensed",
+      "expanded",
+      "branding",
+      "multi-width",
+      "serif-to-sans",
+      "poster"
+    ],
+    "summary": "A retro American sign-lettering display family with a variable serif-to-sans axis and five widths, giving it genuine range for branding and poster work despite a well-trodden aesthetic.",
+    "description": "Scalter spans a variable axis from serif to sans across five widths – condensed through expanded – producing 40+ styles from a single design concept rooted in mid-century American signage. The letterforms are deliberately strong and high-contrast, which holds up well at display sizes and in bold branding contexts. The variable serif-to-sans interpolation is its most interesting technical feature; beyond that it sits comfortably within commercial retro display territory without redefining it.",
+    "foundry_blurb": "Dirtyline Studio describes Scalter as a fresh serif with a strong style and a dancing baseline, drawn from the characteristics of American vintage sign lettering. The sans version is framed as a combination retro typeface where all shapes are made strong and contrasted to deliver a dynamic feel. The studio positions it for branding, posters, stickers and business cards, with 26+ extended Latin languages supported.",
+    "type": "foundry"
+  },
+  {
+    "name": "Shanders",
+    "url": "https://dirtylinestudio.com/product/shanders-typeface/",
+    "foundry": "Dirty Line Studio",
+    "category": "script",
+    "subcategory": "brush script",
+    "classification_notes": "Hand-lettered brush script with an exaggerated bouncy baseline and deliberate brush texture imperfections. Two-style family comprising a main script and a swash companion. OpenType alternates require Illustrator, InDesign or CorelDraw for access.",
+    "weights": [
+      "Regular",
+      "Swash"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Shanders",
+      "Shanders Swash"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "tags": [
+      "brush",
+      "script",
+      "hand-lettered",
+      "bouncy-baseline",
+      "casual",
+      "display",
+      "handwritten",
+      "lettering",
+      "packaging",
+      "greeting-cards",
+      "social-media"
+    ],
+    "summary": "A bouncy-baseline hand brush script in two styles, designed for casual display work across packaging, social media and short-form lettering.",
+    "description": "Shanders is a hand-lettered brush script built around an exaggerated bouncy baseline and deliberate brush imperfections — a combination that reads as casual and warm rather than precise. The family ships with a swash companion and OpenType alternates, giving modest variation within a single register. It occupies very crowded territory; there is nothing here that separates it from the hundreds of similar brush scripts on Creative Market, and serious designers are likely to look elsewhere.",
+    "foundry_blurb": "Shanders is a hand brush typeface with authentic clean brush imperfections and a very bouncy baseline. It comes paired with a complementary marker font and a bonus swash set, and is pitched for logos, handwritten quotes, packaging, posters, merchandise, social media and greeting cards.",
+    "designer": "Hendra Maulia",
+    "year": 2018,
+    "type": "foundry"
+  },
+  {
+    "name": "Wagon Display Serif",
+    "url": "https://dirtylinestudio.com/product/wagon-display-serif/",
+    "foundry": "Dirty Line Studio",
+    "designer": "Hendra Maulia",
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "Display serif",
+    "classification_notes": "Contemporary display serif built around sharp triangular (wedge) serifs with strong stroke contrast and a vertical stress axis. The italic introduces a calligraphic liveliness absent from the upright. Letterforms are assertive and slightly idiosyncratic – well-suited to headline and branding contexts but not neutral enough for text use.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "Wagon",
+      "Wagon Italic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Extended Latin – 87+ languages",
+      "Western European",
+      "Central European",
+      "Vietnamese"
+    ],
+    "tier": "okay",
     "tags": [
       "display",
       "serif",
-      "decorative",
+      "wedge serif",
+      "triangular serifs",
+      "high contrast",
+      "fashion",
       "branding",
       "logo",
-      "title",
-      "editorial"
+      "editorial",
+      "lifestyle",
+      "contemporary",
+      "luxury",
+      "Indonesian foundry"
     ],
-    "summary": "A two-style display serif from Dirty Line Studio, offered in Regular and Italic cuts for headline and logo work.",
-    "description": "Offered in Regular and Italic, Dx Glitar is a display serif aimed at title and logo applications. The licensing structure covers desktop, web, mobile and corporate use, suggesting a broad commercial audience. Little detail is available on its design origins or script coverage beyond standard Latin.",
-    "foundry_blurb": "Dirty Line Studio present Dx Glitar as a Regular and Italic display font pair, available under a range of licences from standard desktop use through to worldwide corporate, with logo and extended options also listed."
+    "summary": "A contemporary display serif from Dirty Line Studio with sharp triangular serifs and high stroke contrast, spanning nine weights from Thin to Black with matching italics.",
+    "description": "Wagon pairs wedge-shaped serifs with strong stroke contrast to produce a display face that reads as both elegant and assertive. The nine-weight family, each with a matching italic, gives decent range across branding, poster and editorial work. Glyph coverage reaches 415 characters across 87 languages – solid for a commercial display face, though the dancing-baseline quality of the italic positions it more firmly in lifestyle branding than serious editorial.",
+    "foundry_blurb": "Dirty Line Studio describes Wagon as a fresh, modern serif with a strong style and dancing baseline, designed for logos, editorial layouts, invitations and branding materials. The 18-style family runs from Thin to Black with an extended Latin character set of 415 glyphs covering over 87 languages.",
+    "type": "foundry"
+  },
+  {
+    "name": "Zailander",
+    "url": "https://dirtylinestudio.com/product/zailander/",
+    "foundry": "Dirty Line Studio",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "vintage display script",
+    "classification_notes": "Single-style display script rooted in American sign-painting and vintage hand-lettering traditions. Uppercase-heavy design with swash characters, four stylistic sets, discretionary ligatures and contextual alternates. No italic or additional weights; PUA Unicode encoding included for full glyph accessibility.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "loose",
+    "tags": [
+      "vintage",
+      "sign-lettering",
+      "display-script",
+      "swash",
+      "alternates",
+      "packaging",
+      "logo",
+      "decorative",
+      "hand-lettering",
+      "retro"
+    ],
+    "summary": "A vintage sign-painting display script with swash alternates and four stylistic sets, built for logo and packaging work rather than extended setting.",
+    "description": "Zailander draws on American sign-painting and hand-lettering traditions, producing a display script best suited to short headlines and logo lockups. Its OpenType feature set – swash characters, four stylistic sets and contextual alternates – gives it reasonable flexibility within a narrow decorative range. At a single weight with no accompanying styles, it has little to offer outside its vintage branding niche.",
+    "foundry_blurb": "Dirty Line Studio pitches Zailander as a font inspired by vintage sign art and hand lettering, with special uppercase letters and alternate characters to give designs an elegant, artistic quality. The package includes OTF and TTF files with PUA encoding, a vector ornament and logo set in Adobe Illustrator format, and multilingual support across PC and Mac.",
+    "type": "foundry"
   }
 ]
