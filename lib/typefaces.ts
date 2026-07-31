@@ -411,6 +411,57 @@ import folch from "@/data/typefaces-folch.json";
 import milieuGrotesque from "@/data/typefaces-milieu-grotesque.json";
 import monkeyType from "@/data/typefaces-monkey-type.json";
 
+// Batch 30 — Supply.Family creators
+import sf403tf from "@/data/typefaces-403tf.json";
+import acidtype from "@/data/typefaces-acidtype.json";
+import amorfaType from "@/data/typefaces-amorfa-type.json";
+import anyTypeFoundry from "@/data/typefaces-any-type-foundry.json";
+import autograph from "@/data/typefaces-autograph.json";
+import bagerichTypeFoundry from "@/data/typefaces-bagerich-type-foundry.json";
+import bentypeStudio from "@/data/typefaces-bentype-studio.json";
+import blankids from "@/data/typefaces-blankids.json";
+import btype from "@/data/typefaces-btype.json";
+import casloopStudio from "@/data/typefaces-casloop-studio.json";
+import edignwnType from "@/data/typefaces-edignwn-type.json";
+import fatehLab from "@/data/typefaces-fateh-lab.json";
+import febspaceStudio from "@/data/typefaces-febspace-studio.json";
+import flatfaceType from "@/data/typefaces-flatface-type.json";
+import garismanStudio from "@/data/typefaces-garisman-studio.json";
+import glyphmindsStudios from "@/data/typefaces-glyphminds-studios.json";
+import glyphonic from "@/data/typefaces-glyphonic.json";
+import godControl from "@/data/typefaces-god-control.json";
+import gridloungeStudio from "@/data/typefaces-gridlounge-studio.json";
+import holisfonts from "@/data/typefaces-holisfonts.json";
+import horaNocte from "@/data/typefaces-hora-nocte.json";
+import k73Tf from "@/data/typefaces-k73-tf.json";
+import lundDesignCo from "@/data/typefaces-lund-design-co.json";
+import neoflixStudio from "@/data/typefaces-neoflix-studio.json";
+import nicolasDesle from "@/data/typefaces-nicolas-desle.json";
+import novaratype from "@/data/typefaces-novaratype.json";
+import offTheRack from "@/data/typefaces-off-the-rack.json";
+import oktnumTypeFoundry from "@/data/typefaces-oktnum-type-foundry.json";
+import pixelbuddha from "@/data/typefaces-pixelbuddha.json";
+import praktypes from "@/data/typefaces-praktypes.json";
+import prototypeLabs from "@/data/typefaces-prototype-labs.json";
+import ragamkataStudio from "@/data/typefaces-ragamkata-studio.json";
+import rndiTypeFoundry from "@/data/typefaces-rndi-type-foundry.json";
+import rooomspaceCreativeLab from "@/data/typefaces-rooomspace-creative-lab.json";
+import sekyraLab from "@/data/typefaces-sekyra-lab.json";
+import skillineFontsCo from "@/data/typefaces-skilline-fonts-co.json";
+import softulka from "@/data/typefaces-softulka.json";
+import studioFew from "@/data/typefaces-studio-few.json";
+import supernulla from "@/data/typefaces-supernulla.json";
+import swimType from "@/data/typefaces-swim-type.json";
+import theNativeSaintClub from "@/data/typefaces-the-native-saint-club.json";
+import toLabs from "@/data/typefaces-to-labs.json";
+import truetype from "@/data/typefaces-truetype.json";
+import typeMania from "@/data/typefaces-type-mania.json";
+import typeparties from "@/data/typefaces-typeparties.json";
+import typobureau from "@/data/typefaces-typobureau.json";
+import unioDesigns from "@/data/typefaces-unio-designs.json";
+import yasireknc from "@/data/typefaces-yasireknc.json";
+import yentyJapCo from "@/data/typefaces-yenty-jap-co.json";
+
 import { FOUNDRIES, getFoundryByName, type FoundryInfo } from "./foundry-map";
 import foundryResellers from "@/data/foundry-resellers.json";
 
@@ -915,6 +966,56 @@ export function getAllTypefaces(): Typeface[] {
         folch,
         milieuGrotesque,
         monkeyType,
+        // Batch 30 — Supply.Family creators
+        sf403tf,
+        acidtype,
+        amorfaType,
+        anyTypeFoundry,
+        autograph,
+        bagerichTypeFoundry,
+        bentypeStudio,
+        blankids,
+        btype,
+        casloopStudio,
+        edignwnType,
+        fatehLab,
+        febspaceStudio,
+        flatfaceType,
+        garismanStudio,
+        glyphmindsStudios,
+        glyphonic,
+        godControl,
+        gridloungeStudio,
+        holisfonts,
+        horaNocte,
+        k73Tf,
+        lundDesignCo,
+        neoflixStudio,
+        nicolasDesle,
+        novaratype,
+        offTheRack,
+        oktnumTypeFoundry,
+        pixelbuddha,
+        praktypes,
+        prototypeLabs,
+        ragamkataStudio,
+        rndiTypeFoundry,
+        rooomspaceCreativeLab,
+        sekyraLab,
+        skillineFontsCo,
+        softulka,
+        studioFew,
+        supernulla,
+        swimType,
+        theNativeSaintClub,
+        toLabs,
+        truetype,
+        typeMania,
+        typeparties,
+        typobureau,
+        unioDesigns,
+        yasireknc,
+        yentyJapCo,
       ] as RawTypeface[][]
     )
       .flat()
