@@ -206,9 +206,11 @@ export function Directory({
       if (opticalSizesOnly && !t.tags.includes("optical-sizes")) return false;
       if (q) {
         const haystack = fold(
-          [t.name, t.foundry, t.designer ?? "", t.summary, t.subcategory ?? "", ...t.tags].join(" ")
+          [t.name, t.designer ?? "", t.summary, t.subcategory ?? "", ...t.tags].join(" ")
         );
-        if (!haystack.includes(q)) return false;
+        // Foundry is matched on its own, not joined into the haystack — concatenating it
+        // let any query bleed across fields and match every font from that foundry.
+        if (!haystack.includes(q) && !fold(t.foundry).includes(q)) return false;
       }
       return true;
     });
