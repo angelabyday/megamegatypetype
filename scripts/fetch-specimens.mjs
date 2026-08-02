@@ -1,17 +1,40 @@
 // Harvest a specimen image for every typeface in data/typefaces-*.json.
 // Pass 1 takes the largest landscape <img> on the page (page-image).
-// Pass 2 screenshots the page with Playwright for whatever remains.
+// Pass 2 types the typeface name into the page's own type tester (if one is found)
+// and screenshots just that element — real webfont, our own text, no page chrome.
+// Pass 3 screenshots the whole page with Playwright for whatever remains.
 // og:image is never used — foundries share site-wide og images across all fonts.
+// Every candidate image is validated before saving: pixel stats reject near-blank
+// pages, an md5 check rejects images already used by another font in the same
+// foundry, and (when ANTHROPIC_API_KEY is set) Claude vision confirms the image
+// actually shows type. Rejected page-images fall through to the tester pass, then
+// to the full-page screenshot, which gets one retry. If a rejection looks like a
+// bot-protection challenge (Cloudflare, "just a moment", etc.), the whole capture
+// is retried once more through a stealth-patched browser before giving up. A
+// missing image beats a junk one, so a final failure counts as a miss rather than
+// saving anything.
 // Output: public/specimens/[foundrySlug]/[slug].webp + lib/specimens.json.
 //
 // Run locally: node scripts/fetch-specimens.mjs
+//   --no-vision            skip the Claude check (heuristics only)
+//   --model <id>           vision model (default claude-opus-4-8; claude-haiku-4-5 for cheap sweeps)
 // Never runs on Vercel.
 
 import { readdirSync, readFileSync, mkdirSync, writeFileSync, existsSync, statSync, unlinkSync as _unlinkSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { createHash } from "node:crypto";
 import sharp from "sharp";
 import { chromium } from "playwright";
+import { chromium as stealthChromium } from "playwright-extra";
+import StealthPlugin from "puppeteer-extra-plugin-stealth";
+
+stealthChromium.use(StealthPlugin());
+
+// Matches the vision rejection reason (or a bare page title) when a bot-protection
+// challenge was captured instead of the real page — worth one retry through a
+// stealth-patched browser rather than accepting it as a plain miss.
+const BOT_BLOCK_RE = /cloudflare|just a moment|attention required|verify you are human|checking your browser|access denied/i;
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const OUT_DIR = join(root, "public", "specimens");
@@ -178,6 +201,7 @@ function loadTypefaces() {
   const files = readdirSync(dataDir).filter((f) => f.startsWith("typefaces-") && f.endsWith(".json"));
   return files.flatMap((f) => JSON.parse(readFileSync(join(dataDir, f), "utf8"))).map((t) => ({
     name: t.name,
+    foundry: t.foundry,
     url: t.url,
     foundrySlug: FOUNDRY_SLUGS[t.foundry] ?? slugify(t.foundry),
     slug: slugify(t.name),
@@ -191,13 +215,134 @@ function outPath(t) {
 // Minimum bytes for a valid specimen — anything below is likely a generic placeholder.
 const MIN_SIZE = 5000;
 
-async function saveWebp(buffer, t, position = "centre") {
-  mkdirSync(join(OUT_DIR, t.foundrySlug), { recursive: true });
-  await sharp(buffer)
-    .resize(WIDTH, HEIGHT, { fit: "cover", position })
+// "cover" crops to fill the frame — right for near-4:3 page screenshots, but a
+// tester element is often a short, very wide strip of text (e.g. 1141x120, a
+// ~9.5:1 ratio). Covering that into 640x400 scales it up to fill the height,
+// then crops a narrow ~640px slice out of the resulting ~3800px width — often
+// landing on a gap between words and producing a near-blank result every time,
+// not just unluckily. "contain" letterboxes instead, so the full line survives.
+async function processWebp(buffer, position = "centre", fit = "cover") {
+  return sharp(buffer)
+    .resize(WIDTH, HEIGHT, { fit, position, background: "#ffffff" })
     .webp({ quality: 75 })
-    .toFile(outPath(t));
-  return statSync(outPath(t)).size;
+    .toBuffer();
+}
+
+function saveWebp(webpBuf, t) {
+  mkdirSync(join(OUT_DIR, t.foundrySlug), { recursive: true });
+  writeFileSync(outPath(t), webpBuf);
+  return webpBuf.length;
+}
+
+// ---- Specimen validation ----
+// Layered: pixel stats (free) → duplicate hash within foundry (free) → Claude vision (paid, optional).
+// Vision runs only when ANTHROPIC_API_KEY is available; pass --no-vision to skip it.
+
+const VISION_ENABLED = !process.argv.includes("--no-vision");
+const modelFlag = process.argv.indexOf("--model");
+const VISION_MODEL = modelFlag > -1 ? process.argv[modelFlag + 1] : "claude-opus-4-8";
+
+// The script runs standalone, so pull the key from .env.local if the shell doesn't have it.
+if (!process.env.ANTHROPIC_API_KEY && existsSync(join(root, ".env.local"))) {
+  const env = readFileSync(join(root, ".env.local"), "utf8");
+  const m = env.match(/^ANTHROPIC_API_KEY=["']?([^"'\n]+)/m);
+  if (m) process.env.ANTHROPIC_API_KEY = m[1];
+}
+
+let anthropicClient = null;
+async function getAnthropicClient() {
+  if (anthropicClient === null && VISION_ENABLED && process.env.ANTHROPIC_API_KEY) {
+    const { default: Anthropic } = await import("@anthropic-ai/sdk");
+    anthropicClient = new Anthropic();
+  }
+  return anthropicClient;
+}
+
+// md5 of every already-accepted image per foundry, so a reused banner/consent wall
+// (identical bytes across fonts) is rejected. Loaded lazily from disk per foundry.
+const foundryHashes = new Map();
+function hashesFor(foundrySlug) {
+  if (!foundryHashes.has(foundrySlug)) {
+    const set = new Set();
+    const dir = join(OUT_DIR, foundrySlug);
+    if (existsSync(dir)) {
+      for (const f of readdirSync(dir)) {
+        if (f === ".DS_Store") continue;
+        set.add(createHash("md5").update(readFileSync(join(dir, f))).digest("hex"));
+      }
+    }
+    foundryHashes.set(foundrySlug, set);
+  }
+  return foundryHashes.get(foundrySlug);
+}
+
+// Cheap, local, no-network check shared by full validation and the tester's
+// retype-retry loop (see typeIntoTester callers) — near-solid images (blank page,
+// consent-dimmed overlay, unrendered canvas, or a demo-text widget's auto-cycle
+// interval having overwritten our typed text back to a blank transition frame).
+async function isNearBlank(webpBuf) {
+  if (webpBuf.length < MIN_SIZE) return true;
+  const { channels } = await sharp(webpBuf).stats();
+  return Math.max(...channels.map((c) => c.stdev)) < 8;
+}
+
+// skipBlankCheck: the tester path already confirms non-blank-ness on the raw,
+// un-padded screenshot before this is ever called — its own "contain"-fit output
+// legitimately compresses small (a wide/short strip letterboxed into 640x400 is
+// mostly solid padding), which would otherwise trip the size/stdev gates below
+// despite having perfectly good content in the un-padded band.
+async function validateSpecimen(webpBuf, t, { skipBlankCheck = false } = {}) {
+  if (!skipBlankCheck) {
+    if (webpBuf.length < MIN_SIZE) return { ok: false, reason: `too small (${webpBuf.length}b)` };
+
+    // Near-solid image (blank page, consent-dimmed overlay, unrendered canvas).
+    const { channels } = await sharp(webpBuf).stats();
+    const maxStdev = Math.max(...channels.map((c) => c.stdev));
+    if (maxStdev < 8) return { ok: false, reason: `near-blank (stdev ${maxStdev.toFixed(1)})` };
+  }
+
+  // Identical to another image in this foundry: shared banner, repeated consent wall.
+  const hash = createHash("md5").update(webpBuf).digest("hex");
+  if (hashesFor(t.foundrySlug).has(hash)) return { ok: false, reason: "duplicate of another specimen in foundry" };
+
+  const client = await getAnthropicClient();
+  if (client) {
+    try {
+      const res = await client.messages.create({
+        model: VISION_MODEL,
+        max_tokens: 100,
+        messages: [{
+          role: "user",
+          content: [
+            { type: "image", source: { type: "base64", media_type: "image/webp", data: webpBuf.toString("base64") } },
+            {
+              type: "text",
+              text:
+                `This image was captured from ${t.foundry}'s website for the typeface "${t.name}". ` +
+                `Is it a usable specimen image, i.e. letterforms or type shown clearly as the main subject? ` +
+                `Answer no for: cookie/consent banners or walls, Cloudflare or human-verification pages, ` +
+                `error pages, blank or near-blank pages, language-coverage maps, photos without prominent type, ` +
+                `pages where the specimen area failed to render. ` +
+                `Reply with JSON only: {"ok": true|false, "reason": "<max 6 words>"}`,
+            },
+          ],
+        }],
+      });
+      const text = res.content.find((b) => b.type === "text")?.text ?? "";
+      const parsed = JSON.parse(text.match(/\{[\s\S]*\}/)?.[0] ?? "{}");
+      if (parsed.ok !== true) return { ok: false, reason: `vision: ${parsed.reason ?? "rejected"}` };
+    } catch (err) {
+      // Vision failure never blocks the pipeline — fall back to heuristics-only acceptance.
+      console.warn(`vision check failed for ${t.foundrySlug}/${t.slug}: ${err.message}`);
+    }
+  }
+
+  return { ok: true, hash };
+}
+
+function acceptSpecimen(webpBuf, t, hash) {
+  hashesFor(t.foundrySlug).add(hash);
+  return saveWebp(webpBuf, t);
 }
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -257,6 +402,83 @@ async function dismissCookies(page) {
   } catch {}
 }
 
+// Selectors for known type-tester widgets, most specific first.
+// - Fontsampler.js (fontsampler.co) is an open-source tester used by many independent
+//   foundries (NaN, and others) — canonical markup is a contenteditable div
+//   tagged data-fsjs="tester".
+// - Shopify "product variable tester" sections (Pangram Pangram and similar themes)
+//   use a contenteditable <p> with this class.
+// - "type-tester__line-wrap" (HvD Fonts and likely other foundries on the same
+//   platform) wraps a bare contenteditable <span> pre-filled with sample text
+//   styled in the real webfont.
+// - Generic fallback: any visible contenteditable, or text input/textarea, that
+//   looks large enough to be a specimen field rather than a search box or newsletter
+//   signup (those are excluded by size and by keyword).
+const TESTER_SELECTORS = [
+  '[contenteditable="true"][data-fsjs="tester"]',
+  ".product-variable-tester__text",
+  '.type-tester__line-wrap [contenteditable="true"]',
+];
+const TESTER_EXCLUDE_RE = /search|newsletter|email|subscribe|comment|login|password/i;
+
+async function findTesterElement(page) {
+  for (const sel of TESTER_SELECTORS) {
+    const el = page.locator(sel).first();
+    if (await el.count()) return el;
+  }
+  // Generic fallback: any contenteditable large enough to be a specimen field.
+  const handles = await page.locator('[contenteditable="true"], [contenteditable=""]').all();
+  for (const handle of handles) {
+    const cls = await handle.getAttribute("class").catch(() => "");
+    const id = await handle.getAttribute("id").catch(() => "");
+    if (TESTER_EXCLUDE_RE.test(`${cls} ${id}`)) continue;
+    const box = await handle.boundingBox().catch(() => null);
+    if (box && box.width >= 200 && box.height >= 40) return handle;
+  }
+  return null;
+}
+
+// Two different widget "species" show up in the wild, and need different treatment:
+//  - Genuinely contenteditable fields (e.g. Fontsampler.js, used by NaN and others)
+//    are real inputs with their own keystroke-driven re-render logic (kerning,
+//    per-character measurement). Overwriting textContent via JS renders invisibly —
+//    the widget's own JS never sees a real input event and doesn't redraw. These
+//    need actual keyboard interaction: select all contents via the Range/Selection
+//    API (works across the multi-node/<br> structure a naive triple-click misses),
+//    delete, then type.
+//  - Non-editable reactive previews (e.g. Shopify "variable tester" text bound via
+//    Alpine.js) never resolve isContentEditable to true anywhere in their ancestor
+//    chain — they're just plain text nodes styled with font-variation-settings.
+//    A direct textContent overwrite is both correct and safe here (whole-node
+//    replace, no partial-selection risk), and real keystrokes wouldn't focus them
+//    at all.
+async function typeIntoTester(page, el, text) {
+  const isEditable = await el.evaluate((n) => n.isContentEditable).catch(() => false);
+  try {
+    if (isEditable) {
+      await el.click();
+      await el.evaluate((node) => {
+        const range = document.createRange();
+        range.selectNodeContents(node);
+        const sel = window.getSelection();
+        sel.removeAllRanges();
+        sel.addRange(range);
+      });
+      await page.keyboard.press("Delete");
+      await page.keyboard.type(text);
+    } else {
+      await el.evaluate((node, value) => {
+        node.textContent = value;
+        node.dispatchEvent(new InputEvent("input", { bubbles: true, cancelable: true }));
+        node.dispatchEvent(new Event("change", { bubbles: true }));
+      }, text);
+    }
+    return true;
+  } catch {
+    return false;
+  }
+}
+
 // Group work by domain so each domain is hit serially with a delay.
 function groupByDomain(typefaces) {
   const groups = new Map();
@@ -301,24 +523,149 @@ async function main() {
     return true;
   });
 
-  // --force: delete existing screenshots so they get retaken
-  if (force) {
-    let deleted = 0;
-    for (const t of typefaces) {
-      const p = outPath(t);
-      if (existsSync(p)) { _unlinkSync(p); deleted++; }
-    }
-    console.log(`--force: deleted ${deleted} existing screenshots\n`);
-  }
-
-  const stats = { pageImg: 0, screenshot: 0, cached: 0, miss: [] };
+  const stats = { pageImg: 0, tester: 0, screenshot: 0, cached: 0, rejected: 0, miss: [] };
 
   // ---- Browser pass: page-image → og:image → screenshot ----
+  // --force re-fetches every entry, but the existing file is only overwritten once a
+  // validated replacement is ready (saveWebp writes in place) — never deleted upfront.
+  // That way an interrupted run leaves every not-yet-reached font with its old image
+  // intact rather than empty.
   const todo = typefaces.filter((t) => {
-    if (existsSync(outPath(t))) { stats.cached++; return false; }
+    if (!force && existsSync(outPath(t))) { stats.cached++; return false; }
     return true;
   });
   console.log(`\nBrowser pass: ${todo.length} pages\n`);
+
+  // Attempts one full capture (page-image, then screenshot with one retry) on an
+  // already-navigated page. Returns {ok: true} on save, or {ok: false, reason,
+  // botBlocked} so the caller can decide whether a stealth retry is worthwhile.
+  async function attemptCapture(page, t) {
+    await dismissCookies(page);
+    await page.waitForTimeout(800);
+    await dismissCookies(page);
+    await page.waitForTimeout(800);
+
+    let lastReason = null;
+
+    if (!screenshotsOnly) {
+      // 1. Find the largest landscape <img> on the page.
+      const imgSrc = await page.evaluate(() => {
+        const SKIP = /logo|icon|avatar|placeholder|sprite|flag|badge/i;
+        const candidates = [...document.querySelectorAll("img")].map((el) => ({
+          src: el.currentSrc || el.src,
+          w: el.naturalWidth,
+          h: el.naturalHeight,
+        })).filter((c) =>
+          c.src &&
+          !c.src.startsWith("data:") &&
+          !/\.svg(\?|$)/i.test(c.src) &&
+          !SKIP.test(c.src) &&
+          c.w >= 400 &&
+          c.h >= 150 &&
+          c.w / c.h >= 1.2
+        ).sort((a, b) => b.w * b.h - a.w * a.h);
+        return candidates[0]?.src ?? null;
+      });
+
+      if (imgSrc) {
+        try {
+          const res = await fetchWithRetry(imgSrc);
+          const buf = Buffer.from(await res.arrayBuffer());
+          const webp = await processWebp(buf);
+          const verdict = await validateSpecimen(webp, t);
+          if (verdict.ok) {
+            acceptSpecimen(webp, t, verdict.hash);
+            stats.pageImg++;
+            console.log(`page-image ${t.foundrySlug}/${t.slug} saved`);
+            return { ok: true };
+          }
+          stats.rejected++;
+          lastReason = verdict.reason;
+          console.log(`page-image rejected ${t.foundrySlug}/${t.slug}: ${verdict.reason} — trying tester`);
+        } catch { /* fall through */ }
+      }
+
+      // 2. Type the typeface name into the page's own type tester, if one is found,
+      // and screenshot just that element — real webfont, our own text, no chrome.
+      // Some testers auto-cycle their demo text on a timer as a marketing loop; by
+      // the time this pass runs (after the page-image fetch and its vision check
+      // have already burned a few real seconds) that cycle may have already fired
+      // once, and can fire again during our own wait. So retype immediately before
+      // each attempt rather than typing once and hoping the wait outlasts it, and
+      // use the cheap local blank-check to retry before paying for a vision call.
+      const tester = await findTesterElement(page).catch(() => null);
+      if (process.env.DEBUG_TESTER) console.log(`DEBUG tester found=${!!tester} for ${t.foundrySlug}/${t.slug}`);
+      if (tester) {
+        let testerBuf = null;
+        for (let attempt = 0; attempt < 5 && !testerBuf; attempt++) {
+          const typed = await typeIntoTester(page, tester, t.name);
+          if (!typed) { if (process.env.DEBUG_TESTER) console.log(`DEBUG attempt ${attempt}: typeIntoTester returned false`); break; }
+          await page.waitForTimeout(400);
+          const buf = await tester.screenshot({ type: "png" }).catch((e) => { if (process.env.DEBUG_TESTER) console.log(`DEBUG attempt ${attempt}: screenshot error: ${e.message}`); return null; });
+          if (!buf) break;
+          // Check blank-ness on the raw screenshot, not the "contain"-padded output:
+          // a wide, short tester strip (e.g. 1141x120) letterboxed into 640x400 ends
+          // up mostly padding, which dilutes whole-frame stdev below the blank
+          // threshold even when the real (un-padded) text band is fine.
+          const blank = await isNearBlank(buf);
+          if (process.env.DEBUG_TESTER) console.log(`DEBUG attempt ${attempt}: raw bytes=${buf.length} blank=${blank}`);
+          if (!blank) testerBuf = await processWebp(buf, "centre", "contain");
+        }
+        if (testerBuf) {
+          const verdict = await validateSpecimen(testerBuf, t, { skipBlankCheck: true });
+          if (verdict.ok) {
+            acceptSpecimen(testerBuf, t, verdict.hash);
+            stats.tester++;
+            console.log(`tester ${t.foundrySlug}/${t.slug} saved`);
+            return { ok: true };
+          }
+          stats.rejected++;
+          lastReason = verdict.reason;
+          console.log(`tester rejected ${t.foundrySlug}/${t.slug}: ${verdict.reason} — falling back to screenshot`);
+        }
+      }
+    }
+
+    // 3. Screenshot (always runs when --screenshots-only; fallback otherwise).
+    // Use position "top" so the hero area fills the frame rather than being cropped from centre.
+    // Validated like the page-image; one retry with extra waits.
+    for (let attempt = 0; attempt < 2; attempt++) {
+      if (attempt === 1) {
+        await dismissCookies(page);
+        await page.evaluate(() => document.fonts?.ready).catch(() => {});
+        await page.waitForTimeout(2500);
+      }
+      const buf = await page.screenshot({ type: "png" });
+      const webp = await processWebp(buf, "top");
+      const verdict = await validateSpecimen(webp, t);
+      if (verdict.ok) {
+        acceptSpecimen(webp, t, verdict.hash);
+        stats.screenshot++;
+        console.log(`screenshot ${t.foundrySlug}/${t.slug} saved`);
+        return { ok: true };
+      }
+      lastReason = verdict.reason;
+    }
+
+    return { ok: false, reason: lastReason, botBlocked: BOT_BLOCK_RE.test(lastReason ?? "") };
+  }
+
+  // Stealth browser is launched lazily, once, only if a bot-block is actually hit.
+  let stealthBrowser = null;
+  let stealthContext = null;
+  async function getStealthContext() {
+    if (!stealthContext) {
+      stealthBrowser = await stealthChromium.launch({ headless: true });
+      stealthContext = await stealthBrowser.newContext({
+        viewport: { width: 1280, height: 960 },
+        userAgent: UA,
+        deviceScaleFactor: 1,
+        locale: "en-US",
+        timezoneId: "Europe/London",
+      });
+    }
+    return stealthContext;
+  }
 
   if (todo.length > 0) {
     const browser = await chromium.launch();
@@ -330,67 +677,40 @@ async function main() {
 
     await runPerDomain(groupByDomain(todo), async (t) => {
       const page = await context.newPage();
+      let result;
       try {
         await page.goto(t.url, { waitUntil: "domcontentloaded", timeout: 30000 });
         await page.waitForLoadState("networkidle", { timeout: 15000 }).catch(() => {});
-        await dismissCookies(page);
-        await page.waitForTimeout(800);
-        await dismissCookies(page);
-        await page.waitForTimeout(800);
-
-        if (!screenshotsOnly) {
-          // 1. Find the largest landscape <img> on the page.
-          const imgSrc = await page.evaluate(() => {
-            const SKIP = /logo|icon|avatar|placeholder|sprite|flag|badge/i;
-            const candidates = [...document.querySelectorAll("img")].map((el) => ({
-              src: el.currentSrc || el.src,
-              w: el.naturalWidth,
-              h: el.naturalHeight,
-            })).filter((c) =>
-              c.src &&
-              !c.src.startsWith("data:") &&
-              !/\.svg(\?|$)/i.test(c.src) &&
-              !SKIP.test(c.src) &&
-              c.w >= 400 &&
-              c.h >= 150 &&
-              c.w / c.h >= 1.2
-            ).sort((a, b) => b.w * b.h - a.w * a.h);
-            return candidates[0]?.src ?? null;
-          });
-
-          if (imgSrc) {
-            try {
-              const res = await fetchWithRetry(imgSrc);
-              const buf = Buffer.from(await res.arrayBuffer());
-              const size = await saveWebp(buf, t);
-              if (size >= MIN_SIZE) {
-                stats.pageImg++;
-                console.log(`page-image ${t.foundrySlug}/${t.slug} saved`);
-                return;
-              }
-              _unlinkSync(outPath(t));
-              console.log(`page-image too small (${size}b), trying og:image`);
-            } catch { /* fall through */ }
-          }
-
-
-        }
-
-        // 3. Screenshot (always runs when --screenshots-only; fallback otherwise).
-        // Use position "top" so the hero area fills the frame rather than being cropped from centre.
-        const buf = await page.screenshot({ type: "png" });
-        await saveWebp(buf, t, "top");
-        stats.screenshot++;
-        console.log(`screenshot ${t.foundrySlug}/${t.slug} saved`);
+        result = await attemptCapture(page, t);
       } catch (err) {
-        stats.miss.push(`${t.foundrySlug}/${t.slug}`);
-        console.warn(`FAIL ${t.foundrySlug}/${t.slug}: ${err.message}`);
+        result = { ok: false, reason: err.message, botBlocked: false };
       } finally {
         await page.close();
+      }
+
+      if (!result.ok && result.botBlocked) {
+        console.log(`${t.foundrySlug}/${t.slug}: bot-block detected, retrying with stealth`);
+        const stealthPage = await (await getStealthContext()).newPage();
+        try {
+          await stealthPage.goto(t.url, { waitUntil: "domcontentloaded", timeout: 30000 });
+          await stealthPage.waitForLoadState("networkidle", { timeout: 15000 }).catch(() => {});
+          result = await attemptCapture(stealthPage, t);
+        } catch (err) {
+          result = { ok: false, reason: err.message, botBlocked: false };
+        } finally {
+          await stealthPage.close();
+        }
+      }
+
+      if (!result.ok) {
+        stats.rejected++;
+        stats.miss.push(`${t.foundrySlug}/${t.slug}`);
+        console.warn(`FAIL ${t.foundrySlug}/${t.slug}: ${result.reason ?? "unknown"} — recorded as miss`);
       }
     });
 
     await browser.close();
+    if (stealthBrowser) await stealthBrowser.close();
   }
 
   // ---- Manifest ----
@@ -403,8 +723,8 @@ async function main() {
   writeFileSync(MANIFEST, JSON.stringify(manifest, null, 0) + "\n");
 
   console.log(
-    `\nDone. page-image ${stats.pageImg}, screenshots ${stats.screenshot}, cached ${stats.cached}, ` +
-      `misses ${stats.miss.length}, manifest entries ${Object.keys(manifest).length}/${typefaces.length}`
+    `\nDone. page-image ${stats.pageImg}, tester ${stats.tester}, screenshots ${stats.screenshot}, cached ${stats.cached}, ` +
+      `rejected ${stats.rejected}, misses ${stats.miss.length}, manifest entries ${Object.keys(manifest).length}/${typefaces.length}`
   );
   if (stats.miss.length) console.log("Missed:", stats.miss.join(", "));
 }
