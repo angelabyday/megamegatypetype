@@ -1,282 +1,1140 @@
-# Foundry indexing status
+## Indexed
 
-Tracks all 269 foundries from the bookmarks list (`data/foundries.json`).  
-Last updated: 2026-06-25.
+| Foundry | Tier | Typefaces | Homepage | Images |
+|---|---|---|---|---|
+| 205TF | okay | 9 | https://www.205.tf/ | 9 missing |
+| 403TF | okay | 38 | https://supply.family/ | 38 missing |
+| 6TM Magazine | okay | 160 | https://shop.6tm-magazine.com/ | 136 missing |
+| A is for | okay | 5 | https://aisforfonts.com/ | ok |
+| A Practice for Everyday Life | okay | 6 | https://apracticeforeverydaylife.com/ | ok |
+| A Type of Amigo | best | 12 | https://atypeofamigo.com/ | 1 bad |
+| a.Foundry | best | 8 | https://a-foundry.com/ | ok |
+| A2-Type | best | 140 | https://a2-type.co.uk/ | 1 bad |
+| ABC Etc Inc | okay | – | http://www.abc-etc.com/ | ok |
+| About Type | okay | 1 | https://abouttype.com/ | 1 missing |
+| Abyme | okay | 12 | https://www.abyme.net | ok |
+| AcidType | okay | 2 | https://supply.family/ | 2 missing |
+| Aesthetic Type | okay | – | https://aesthetictype.com | ok |
+| AlfaType Fonts Foundry | okay | 2 | https://www.alfatypefonts.com/ | 2 missing |
+| Alias | okay | 14 | https://alias.fonts.xyz/ | 14 missing |
+| AllCaps | best | 10 | https://www.allcapstype.com/ | ok |
+| Almarena | best | 9 | https://almarenafoundry.com/ | ok |
+| ALT.tf | okay | 11 | https://alt-tf.com/ | ok |
+| Amorfa Type | okay | 37 | https://supply.family/ | 37 missing |
+| Anton Koovit | best | 8 | https://antonkoovit.com/ | 8 missing |
+| Anton Koovit & Estonian Design Team | best | 1 | https://antonkoovit.com/ | 1 missing |
+| Antonin Bertrand | okay | 1 | https://antoninbertrand.com/ | 1 missing |
+| Any-Type® Foundry | okay | 18 | https://supply.family/ | 18 missing |
+| Apex Foundry | okay | 10 | https://www.apextypefoundry.com/ | ok |
+| Approximate Type | okay | 7 | https://approxtype.com/ | ok |
+| Arcane Type Foundry | okay | 8 | https://www.arcanetype.com | ok |
+| Archive Foundry | best | 3 | https://www.archivefoundry.co/ | ok |
+| Arillatype | best | 25 | https://arillatype.studio/ | ok |
+| Arkitype | best | 20 | https://www.arkitype.co/ | ok |
+| ArrowType | okay | 5 | https://www.arrowtype.com/ | 2 bad |
+| atipo foundry | best | – | https://www.atipofoundry.com/ | ok |
+| Atipo Foundry | okay | 50 | https://www.atipofoundry.com/ | ok |
+| Atlas Fonts | okay | 15 | https://www.atlasfonts.com | ok |
+| Autograph | okay | 3 | https://supply.family/ | 3 missing |
+| Avondale Type Co. | okay | – | https://avondaletypeco.com | ok |
+| b•v-h type | okay | 18 | https://bvhtype.com/ | 5 bad |
+| Badson Type | okay | 9 | https://badsontype.com | 2 bad |
+| Bagerich Type Foundry | okay | 21 | https://supply.family/ | 21 missing |
+| Bal Foundry | okay | 9 | https://www.bal-foundry.com | 2 bad |
+| Balto / Type Supply | okay | 11 | https://typesupply.com/ | ok |
+| Barnbrook | okay | 40 | https://barnbrook.net | ok |
+| Bastarda | best | 17 | https://bastardatype.com/ | ok |
+| Beasts of England | okay | 23 | https://beastsofengland.co | ok |
+| Bentype Studio | okay | 1 | https://supply.family/ | 1 missing |
+| Big Fog Foundry | okay | 4 | https://foundry.bigfog.co/ | ok |
+| Bijou Type | okay | 3 | https://bijoutype.com | ok |
+| Binnenland | best | 10 | https://www.binnenland.ch/ | 1 bad |
+| Bitstream | okay | 6 | https://www.monotype.com/ | 6 missing |
+| Black Foundry | okay | 41 | https://black-foundry.com/ | ok |
+| Blackletra | okay | 30 | https://blackletra.com | ok |
+| Blankids | okay | 10 | https://supply.family/ | 10 missing |
+| Blaze Type | best | 110 | https://blazetype.eu/ | ok |
+| Bloom Type | okay | 12 | https://bloomtype.com | 12 bad |
+| Bold Decisions | okay | 17 | https://bold-decisions.biz | 1 bad |
+| Bold Monday | okay | 37 | https://www.boldmonday.com/ | ok |
+| Bold Studio | okay | – | http://bold.studio | ok |
+| Bolid System | okay | 9 | https://bolidsystem.ch | ok |
+| Boulevard LAB | okay | 2 | https://boulevardlab.com/ | ok |
+| Branding with Type | okay | – | https://brandingwithtype.com | ok |
+| Brandon Nickerson | okay | 3 | https://www.bnicks.com/ | 2 bad |
+| Bretagne | okay | – | http://www.bretagnebretagne.fr | ok |
+| Briefcase Type Foundry | okay | 35 | https://www.briefcasetype.com | ok |
+| British Standard Type | best | 6 | https://www.britishstandardtype.xyz/ | ok |
+| Brownfox | okay | 21 | https://brownfox.org | ok |
+| Brutal Types | okay | – | https://www.brutaltypes.com | ok |
+| BTYPE | okay | 6 | https://supply.family/ | 6 missing |
+| Bureau Brut | best | 16 | https://bureaubrut.com/ | ok |
+| BurnType | best | 2 | https://burntype.com/ | 2 missing |
+| Burrow Lab | okay | 2 | https://burrow-lab.fonts.xyz/ | 2 missing |
+| Cake Type | okay | – | https://www.caketype.com | ok |
+| Camelot | best | 9 | https://camelot-typefaces.com/ | ok |
+| Canada Type | best | 15 | https://canadatype.com/ | 15 missing |
+| Cantrell Type | okay | 11 | https://cantrelltype.com | ok |
+| Cape Arcona | okay | 50 | https://www.cape-arcona.com | 5 bad |
+| Capitalics | best | 63 | https://capitalics.wtf/ | ok |
+| Carmel Type Co. | okay | 7 | https://carmeltype.co | ok |
+| Casloop Studio | okay | 97 | https://supply.family/ | 97 missing |
+| CAST | best | 85 | https://www.c-a-s-t.com/ | ok |
+| Central Type | okay | 12 | https://centraltype.com/ | ok |
+| Character Type | okay | 23 | https://charactertype.com | ok |
+| Charlotte Rohde | okay | 10 | https://www.charlotterohde.de | ok |
+| Chill Type | okay | 2 | https://chilltype.com/ | 2 missing |
+| CJ Type | okay | 4 | http://www.cjtype.com | ok |
+| Collletttivo | okay | 16 | https://www.collletttivo.it/ | ok |
+| Colt Type | okay | 19 | https://wearecolt.com/ | ok |
+| Comma Type | okay | 3 | https://www.commatype.com | 1 bad |
+| Commercial Classics | okay | – | https://commercialclassics.com/ | ok |
+| Commercial Type | okay | 91 | https://commercialtype.com/ | ok |
+| Connary Fagen | okay | 44 | https://connary.com/ | ok |
+| Contrast Foundry | okay | 16 | https://contrastfoundry.com | ok |
+| Coppers and Brasses | okay | 10 | https://coppersandbrasses.com/ | ok |
+| Corentin Noyer | okay | 5 | https://www.corentinoyer.fr | ok |
+| CoType Foundry | best | 19 | https://cotypefoundry.com/ | 19 missing |
+| Counter Forms | okay | 5 | https://counter-forms.com/ | ok |
+| Crescenzi | best | 2 | https://crescenzi.co/ | ok |
+| Crown Type | okay | – | https://crowntype.com | ok |
+| Dalton Maag | best | 77 | https://www.daltonmaag.com/ | ok |
+| Darden Studio | okay | 8 | https://www.dardenstudio.com/ | ok |
+| Daria Cohen | best | 2 | https://contemporarytype.com/ | 2 missing |
+| David Einwaller | okay | – | https://shop.deinwaller.com | ok |
+| David Jonathan Ross | okay | 29 | https://djr.com/ | 3 bad |
+| Daytona Mess | notgood | 1 | https://daytona-mess.fonts.xyz/ | 1 missing |
+| DDOTT | okay | 10 | https://ddott.net/ | ok |
+| Death of Typography | okay | 7 | https://deathoftypography.com/ | ok |
+| Delta Bravo Type | okay | – | https://www.deltabravotype.com | ok |
+| Delve Fonts | okay | 31 | https://delvefonts.com/ | ok |
+| Denis Serebryakov | best | 5 | https://type.today/en/journal/serebryakov | 5 missing |
+| Dennis Grauel | okay | – | https://dennisgrauel.com | ok |
+| Department of Letters | okay | 4 | https://www.deptofletters.ca | ok |
+| Dharma Type | okay | 128 | https://dharmatype.com/ | ok |
+| Dinamo Typefaces | best | 85 | https://abcdinamo.com/ | ok |
+| Diorama Type Partners | okay | 4 | https://www.dioramatypepartners.com | ok |
+| Dirty Line Studio | okay | 45 | https://dirtylinestudio.com/ | 32 missing, 9 bad |
+| Displaay Type Foundry | best | 37 | https://displaay.net/ | ok |
+| DK Type | best | 8 | https://dktype.com/ | ok |
+| Domicile Foundry | okay | – | https://domicilefoundry.com | ok |
+| Dot Colon | okay | 11 | https://dotcolon.net/ | ok |
+| Double Dagger | okay | 14 | https://www.doubledagger.xyz/ | ok |
+| Dreamtype | okay | – | https://dreamtype.xyz | ok |
+| Due Studio | best | 11 | https://www.due-studio.com/ | ok |
+| Dunwich Type | okay | 9 | https://dunwichtype.com | ok |
+| Duong Tran | okay | 3 | https://duong-tran.fonts.xyz/ | 3 missing |
+| E162 | okay | 26 | http://e162.eu | ok |
+| East of Rome | okay | 14 | https://eastofrome.com/ | 1 missing |
+| ECAL Typefaces | okay | 21 | https://ecal-typefaces.ch/ | ok |
+| Edignwn Type | okay | 1 | https://supply.family/ | 1 missing |
+| Edition Studio | okay | 5 | https://edition.studio | 1 bad |
+| EK Type | best | 12 | https://ektype.in | ok |
+| Element Type | best | 1 | https://elementtype.com/ | 1 missing |
+| Emtype Foundry | best | 36 | https://emtype.net | ok |
+| EPI | okay | 8 | https://epitype.xyz | ok |
+| ETC Typefaces | okay | 8 | https://etceteratype.co | 2 missing, 1 bad |
+| Extra Type | okay | 5 | https://extratype.com | ok |
+| Extraset | best | 15 | https://extraset.ch/ | ok |
+| F37 Foundry | okay | 76 | https://www.f37foundry.com/ | ok |
+| Fable | best | 9 | https://fable.design/ | ok |
+| Facetype | okay | 1 | http://www.facetype.org | ok |
+| Faire Type | best | 6 | https://www.fairetype.com/ | ok |
+| Familiar Faces | okay | 1 | https://familiarfaces.xyz | 1 missing |
+| Family Type | best | 6 | https://familytype.co/ | ok |
+| Fantasia Type | okay | – | https://www.fantasia-type.com | ok |
+| Fateh.Lab | okay | 22 | https://supply.family/ | 22 missing |
+| Fatype | best | 7 | https://fatype.com/ | ok |
+| FDI Type Foundry | okay | 24 | https://fdi-type.de | ok |
+| Febspace Studio | okay | 6 | https://supply.family/ | 6 missing |
+| Feedtype | okay | 14 | https://feedtype.ca | ok |
+| Feliciano Type | okay | 18 | https://felicianotype.com/ | ok |
+| Finaltype | okay | – | https://finaltype.de | ok |
+| Flatface Type | okay | 1 | https://supply.family/ | 1 missing |
+| Flood Fonts | okay | 14 | https://floodfonts.com/ | ok |
+| Florian Karsten | best | 9 | https://fonts.floriankarsten.com/ | ok |
+| Florian Runge | okay | 4 | https://florianrunge.com/ | 4 missing |
+| FOLCH | okay | 7 | https://fontsfromfolch.com/ | 7 missing |
+| Fonderie Bretagne | okay | 23 | https://fonderiebretagne.fr/ | 23 bad |
+| Font Bureau | best | 13 | https://fontbureau.com/ | 13 missing |
+| Font Club Belgica | okay | 6 | https://fontclubbelgica.com | ok |
+| Fontfabric | okay | 55 | https://www.fontfabric.com/ | ok |
+| FontFont | okay | 7 | https://www.fontfont.com/ | 7 missing |
+| Fonts from Folch | okay | – | https://www.fontsfromfolch.com/ | ok |
+| Fontshare | okay | 100 | https://www.fontshare.com/ | ok |
+| Fontwerk | best | 16 | https://fontwerk.com/ | ok |
+| Forgery Type | okay | – | https://forgery.ventures | ok |
+| Forgotten Shapes | okay | 9 | https://forgotten-shapes.com/ | ok |
+| Formagari | okay | 10 | https://formagari.com/ | ok |
+| Formerly Known | okay | 6 | https://formerly-known.com/ | ok |
+| Formula Type | okay | – | https://www.formulatype.com | ok |
+| Fort Foundry | okay | 40 | https://fortfoundry.com | ok |
+| Foster Type | okay | – | https://www.fostertype.com | ok |
+| Foundry Five | okay | 10 | https://foundryfivetype.com | ok |
+| FredsFonts | okay | 1 | https://fredsfonts.fonts.xyz/ | 1 missing |
+| Free Faces | okay | 13 | https://www.freefaces.gallery/ | ok |
+| Frere-Jones | best | 25 | https://frerejones.com | ok |
+| Frost | best | 14 | https://frostype.xyz/ | 6 bad |
+| Fuerte Type | okay | 5 | https://www.fuertetype.com/ | ok |
+| Furniture | okay | – | https://www.furniture.xyz | ok |
+| G-Type | best | 32 | https://g-type.com | ok |
+| Gallery Type | okay | 2 | https://gallerytype.com/ | ok |
+| Garisman Studio | okay | 7 | https://supply.family/ | 7 missing |
+| General Type Studio | best | 8 | https://www.generaltypestudio.com/ | ok |
+| Giulia Boggio | okay | 9 | https://giulia-boggio.fonts.xyz/ | 9 missing |
+| Glyphminds Studios | okay | 43 | https://supply.family/ | 43 missing |
+| Glyphonic | okay | 94 | https://supply.family/ | 94 missing |
+| God Control | okay | 8 | https://supply.family/ | 8 missing |
+| Good Type Foundry | okay | 23 | https://goodtypefoundry.com/ | ok |
+| Google Fonts | okay | 1945 | https://fonts.google.com/ | 4 bad |
+| Gradient | okay | 10 | https://wearegradient.net/ | ok |
+| Gridlounge Studio | okay | 2 | https://supply.family/ | 2 missing |
+| Grilli Type | best | 21 | https://www.grillitype.com/ | ok |
+| Groteskly Yours | best | 13 | https://groteskly.xyz/ | ok |
+| Gruppo Due | okay | 6 | https://gruppo-due.com | ok |
+| Güneş Muhittin | okay | 6 | https://www.gunesmuhittin.com/ | ok |
+| Hadrien Herzog | okay | 1 | https://hadrien-herzog.fonts.xyz/ | 1 missing |
+| Hard Type | okay | – | https://hardtype.xyz | ok |
+| Heavyweight | okay | 9 | https://heavyweight-type.com/ | ok |
+| Herzberg Design | okay | 16 | https://www.herzbergdesign.com | ok |
+| HEX | okay | – | https://hex.xyz/ | ok |
+| Hipertipo | okay | 7 | https://www.hipertipo.com | ok |
+| Hoefler & Co | notgood | 45 | https://www.typography.com/ | ok |
+| Holdon Type | okay | 2 | https://www.holdontype.design/ | 2 missing |
+| HolisFonts | okay | 3 | https://supply.family/ | 3 missing |
+| Hora Nocte | okay | 2 | https://supply.family/ | 2 missing |
+| Hot Type | best | 9 | https://hottype.co/ | ok |
+| Hungarumlaut | okay | 8 | https://hungarumlaut.com | ok |
+| Hurme Design | okay | 31 | https://hurmedesign.com/ | ok |
+| HvD Fonts | okay | 76 | https://www.hvdfonts.com/ | ok |
+| Hypertype | okay | – | http://hypertype.xyz | ok |
+| Ian Adjeidu | notgood | 5 | https://studioplums.com/ | 5 missing |
+| Identity Letters | okay | 36 | https://www.identity-letters.com | ok |
+| In-House Intl | okay | 13 | https://weareinhouse.com | 2 bad |
+| Inari Type | okay | – | https://inaritype.com | ok |
+| Increments | okay | 3 | https://www.increments.cc/ | ok |
+| Indian Type Foundry | okay | 28 | https://www.indiantypefoundry.com/ | ok |
+| Interval Type | best | 22 | https://intervaltype.com/ | 1 missing |
+| Itemzero | okay | – | https://shop.itemzero.com | ok |
+| Ivy Foundry | okay | 13 | https://ivyfoundry.com | ok |
+| J Foundry | okay | 11 | https://jfoundry.com | 11 missing |
+| Jamie Clark Type | okay | – | https://www.jamieclarketype.com | ok |
+| Jeremy Tankard Typography | best | 2 | https://typography.net | 2 bad |
+| Jessica Hische | okay | 6 | https://jessicahische.shop/ | ok |
+| Jonas Pelzer | okay | – | http://typefaces.jonaspelzer.com | ok |
+| JP Flexner | okay | 9 | https://www.jpflexner.com/ | ok |
+| JS Type | okay | 3 | https://js-type.fonts.xyz/ | 3 missing |
+| JTD Type | okay | 13 | https://jtdtype.com | ok |
+| July Type | okay | 8 | https://www.julytype.com | ok |
+| Jung-Lee Type Foundry | okay | 9 | https://j-ltf.com | 9 bad |
+| Juri Zæch | okay | 5 | https://www.juri-zaech.com/ | ok |
+| Just Another Foundry | okay | 12 | https://justanotherfoundry.com/ | ok |
+| K73 TF | okay | 3 | https://supply.family/ | 3 missing |
+| Kanon Foundry | okay | – | https://kanonfoundry.com | ok |
+| Kerns & Cairns | okay | 3 | https://www.kernsandcairns.com | ok |
+| Keussel Studio | okay | 1 | https://keussel-studio.fonts.xyz/ | 1 missing |
+| Kilotype | okay | 12 | https://kilotype.de/ | ok |
+| Kimera | okay | – | https://kimeracorp.eu | ok |
+| Kind Type Foundry | okay | 3 | https://kindtype.co/ | 3 missing |
+| Kiosk Fonts | okay | – | https://kiosk-fonts.de | ok |
+| Kirjatehnika | okay | – | https://www.kirjatehnika.ee | ok |
+| Klim Type Foundry | best | 56 | https://klim.co.nz/ | 1 missing, 1 bad |
+| KOMETA Typefaces | okay | 6 | https://www.kometa.xyz/ | ok |
+| Kostic Type | okay | – | https://kostictype.com | ok |
+| Kurppa Hosk Type | okay | 6 | https://khtype.com/ | ok |
+| Kyiv Type Foundry | okay | – | https://kyivtypefoundry.com | ok |
+| La Bolde Vita | okay | 14 | https://www.laboldevita.com | ok |
+| La Police | okay | – | https://lapolice.ch | ok |
+| Labor and Wait | okay | 10 | https://www.laborandwait.xyz/ | ok |
+| Laïc | okay | 17 | https://laic.pl | ok |
+| Latinotype | okay | 285 | https://latinotype.com/ | 285 missing |
+| Laura Worthington Design | okay | 55 | https://lauraworthingtondesign.com | ok |
+| Leinster Type | best | 7 | https://www.leinstertype.com/ | ok |
+| Lena Weber | notgood | 3 | https://www.monomodular.de/ | 3 missing |
+| Léon Hugues | okay | 10 | https://leon-hugues.fonts.xyz/ | 10 missing |
+| Letterjuice | okay | 7 | http://letterjuice.cat/ | ok |
+| Lettermatic | okay | 4 | https://lettermatic.com/ | ok |
+| Lettermin | okay | 16 | https://lettermin.com/ | ok |
+| LettError | best | 18 | https://letterror.com/ | 16 bad |
+| Letters from Sweden | okay | 44 | https://lettersfromsweden.se/ | ok |
+| Lettersetal | okay | 8 | https://lettersetal.co.uk/ | 8 missing |
+| Lettersoup | okay | – | https://www.lettersoup.de | ok |
+| Lewis McGuffie | okay | 2 | https://www.lewismcguffie.com/ | ok |
+| Lift Type | best | 18 | https://www.lift-type.fr/ | 1 bad |
+| limitype | notgood | 48 | https://limitype.com/ | 48 missing |
+| Lineto | best | 92 | https://lineto.com/ | ok |
+| Linotype | okay | 12 | https://www.linotype.com/ | 12 missing |
+| lo-ol Type | okay | 10 | https://www.lo-ol.design/ | 9 bad |
+| London Type Foundry | okay | – | https://londontype.co.uk | ok |
+| Love Letters | okay | 1 | https://love-letters.fonts.xyz/ | 1 missing |
+| Ludwig | okay | 32 | https://www.ludwigtype.de | ok |
+| Lund Design Co. | okay | 6 | https://supply.family/ | 6 missing |
+| Luzi Type | best | 27 | https://www.luzi-type.ch/ | 2 bad |
+| Mai Type | okay | 5 | https://www.maitype.xyz | ok |
+| Manic Type | okay | 7 | https://www.manictype.com | ok |
+| Mark van Leeuwen | okay | 5 | https://markvanleeuwen.nl/ | 5 missing |
+| Marmite de Fontes | okay | – | https://marmitedefontes.com/ | ok |
+| Mass-Driver | okay | 8 | https://mass-driver.com/ | 1 bad |
+| Maxitype | best | 12 | https://maxitype.com/ | 12 missing |
+| MB Type | best | 8 | https://mbtype.com | ok |
+| MCKL | best | 12 | https://mckltype.com | ok |
+| McLetters | best | 23 | https://mcletters.co/ | ok |
+| Metis Foundry | okay | 9 | http://metis-foundry.com | 9 bad |
+| Milieu Grotesque | okay | 5 | https://www.myfonts.com/collections/milieu-grotesque | 5 missing |
+| Milk Type Foundry | okay | – | http://www.milktypefoundry.co.nz | ok |
+| Mint Type | okay | – | https://minttype.com | ok |
+| Modern Type | okay | 9 | https://www.modern-type.com | ok |
+| Mojomox | okay | 2 | https://fonts.mojomox.com/ | ok |
+| Monkey Type | okay | 13 | https://mnkytype.com/ | 13 missing |
+| Monokrom | okay | 18 | https://monokrom.no/ | ok |
+| Morning Type | okay | – | https://morningtype.com | ok |
+| Morula Type | best | 1 | https://morula-type.fonts.xyz/ | 1 missing |
+| Mota Italic | okay | 21 | https://www.motaitalic.com | ok |
+| Muccatypo | okay | 8 | https://muccatypo.com | ok |
+| Muirmcneil | okay | 51 | http://www.muirmcneil.com | 2 bad |
+| Multiocular Type | okay | – | https://www.multioculartype.co | ok |
+| MVB Fonts | best | 33 | https://www.mvbfonts.com/ | 33 missing |
+| Naipe Foundry | okay | 5 | https://store.naipefoundry.com | ok |
+| NaN | best | 26 | https://www.nan.xyz/ | ok |
+| Narrow Type | okay | 12 | https://www.narrowtype.com/ | 9 missing |
+| Ndiscover | okay | – | https://ndiscover.com | ok |
+| Neoflix Studio | okay | 1 | https://supply.family/ | 1 missing |
+| Newglyph | okay | 25 | https://newglyph.com | 1 bad |
+| Newlyn | best | 42 | https://newlyn.com/ | 6 bad |
+| Nice To Type | okay | 21 | https://nicetotype.de/ | 12 bad |
+| Nicolas Desle | okay | 1 | https://supply.family/ | 1 missing |
+| Nikolas Type | okay | 4 | https://www.nikolastype.com/ | ok |
+| NM Type | okay | 4 | http://nmtype.com | ok |
+| Nootype | okay | 14 | https://nootype.com/ | ok |
+| Not Your Type | okay | 14 | https://notyourtype.nl | ok |
+| Nouvelle Noire | okay | 26 | https://nouvellenoire.ch/ | 9 bad |
+| Nova Type Foundry | okay | 11 | https://novatypefoundry.com | ok |
+| NovaraType | okay | 9 | https://supply.family/ | 9 missing |
+| November | okay | 7 | https://www.nvmbr.in/ | ok |
+| Nuform Type | okay | 7 | https://nuformtype.com/ | ok |
+| Nymark Type | okay | – | https://www.nymarktype.co | ok |
+| Occupant Fonts | best | 33 | https://occupantfonts.com | ok |
+| Off The Rack | okay | 3 | https://supply.family/ | 3 missing |
+| Off Type | okay | 17 | https://off-type.com/ | ok |
+| OGJ Type Design | okay | 13 | https://ogjtype.com/ | 13 missing |
+| OH no Type | best | 25 | https://ohnotype.co/ | ok |
+| Okay Type | okay | 5 | http://okaytype.com | ok |
+| Oktnum Type Foundry | okay | 5 | https://supply.family/ | 5 missing |
+| Old City Mailroom | okay | 5 | https://www.oldcitymailroom.com/ | 2 bad |
+| Omnibus-Type | okay | 29 | https://www.omnibus-type.com | ok |
+| Open Foundry | okay | 25 | https://open-foundry.com/ | ok |
+| Optimo | best | 28 | https://optimo.ch/ | ok |
+| Or Type | best | 12 | https://ortype.is | 2 bad |
+| Order | okay | 9 | https://order.design/ | ok |
+| Original Type | okay | 8 | https://originaltype.com | ok |
+| Otherwhere Collective | okay | – | https://otherwherecollective.com | ok |
+| OTT Foundry | best | 22 | https://ott-foundry.com/ | 1 bad |
+| Out of the Dark | best | 27 | https://www.outofthedark.swiss/ | ok |
+| Paavola Type | okay | 16 | https://www.paavolatype.com | ok |
+| Pampatype | best | 25 | https://pampatype.com | ok |
+| Pangram Pangram Foundry | best | 110 | https://pangrampangram.com/ | 38 bad |
+| Patio Foundry | okay | 7 | https://patiofoundry.com/ | ok |
+| Peggo Fonts | okay | 15 | https://peggofonts.com | ok |
+| PFA Typefaces | okay | – | https://pfa-typefaces.com | ok |
+| Phantom Foundry | okay | 7 | http://phantom-foundry.com | ok |
+| Phil's Fonts | notgood | 1 | https://philsfonts.com/ | 1 missing |
+| Pixelbuddha | okay | 7 | https://supply.family/ | 7 missing |
+| Pizza Typefaces | okay | 27 | https://typefaces.pizza/ | ok |
+| Plain Form | okay | 8 | https://plain-form.com/ | ok |
+| Plau | okay | 32 | https://plau.co/en/ | 31 bad |
+| Playtype | best | 106 | https://playtype.com/ | ok |
+| Poem | okay | – | https://www.poem-editions.com | ok |
+| Polytype | okay | 6 | https://polytype.co.uk/ | ok |
+| Positype | okay | 13 | https://positype.com | ok |
+| Power Type | best | 8 | https://power-type.com/ | ok |
+| Praktypes | okay | 2 | https://supply.family/ | 2 missing |
+| Pretend Foundry | okay | – | https://pretendfoundry.com | ok |
+| Primary Foundry | okay | 18 | http://primary-foundry.com | ok |
+| Prioritype | best | 31 | https://prioritypeco.com/ | ok |
+| Process Type Foundry | okay | 32 | https://processtypefoundry.com/ | ok |
+| Production Type | best | 12 | https://www.productiontype.com/ | ok |
+| Prologue Type | okay | – | https://www.prologuetype.co | ok |
+| Proof of Words | okay | 7 | https://proof-of-words.com | ok |
+| ProtoType Labs | okay | 2 | https://supply.family/ | 2 missing |
+| PS Type Lab | okay | 50 | https://pstypelab.com | ok |
+| Public Type | okay | – | https://www.publictype.us | ok |
+| Pyte Foundry | okay | 7 | https://thepytefoundry.net | ok |
+| R-Typography | okay | 24 | https://www.r-typography.com/ | ok |
+| Radim Pesko | okay | 21 | https://radimpesko.com/ | ok |
+| Radluka | okay | – | https://www.radluka.com | ok |
+| Ragamkata Studio | okay | 27 | https://supply.family/ | 27 missing |
+| Rasmus Andersson | best | 2 | https://rsms.me/ | 2 missing |
+| Razzia Type | okay | – | https://www.razziatype.com | ok |
+| Regular Bold Italic | okay | 11 | https://regularbolditalic.com/ | ok |
+| Rellence | okay | 28 | https://rellence.com/ | 28 missing |
+| Reset Type Studio | okay | 8 | https://reset-type.com/ | ok |
+| Resistenza Type | okay | 94 | https://www.resistenza.es/ | 94 missing |
+| RetroSupply Co. | okay | 16 | https://www.retrosupply.co/ | 16 missing |
+| Retype | okay | 22 | https://www.re-type.com | ok |
+| Revolver Type Foundry | okay | 14 | https://www.revolvertype.com/ | ok |
+| Riptype | okay | 4 | https://www.riptype.xyz | ok |
+| RNDI TYPE FOUNDRY | okay | 11 | https://supply.family/ | 11 missing |
+| Road to Venice Type | okay | 8 | https://www.r-vtype.com | ok |
+| rooomspace creative lab | okay | 216 | https://supply.family/ | 216 missing |
+| Rosetta | okay | 38 | https://rosettatype.com/ | ok |
+| Rüdiger | best | 2 | https://rudiger.fonts.xyz/ | 2 missing |
+| S6 Foundry | okay | 35 | https://www.s6foundry.com/ | 35 bad |
+| Schick Toikka | best | 44 | https://www.schick-toikka.com/ | ok |
+| Schriftlabor | okay | – | https://schriftlabor.at | ok |
+| Scifipoetry | okay | 12 | https://scifipoetry.de | ok |
+| Sekyra Lab | okay | 12 | https://supply.family/ | 12 missing |
+| Serpentype | okay | 7 | https://www.serpentype.com | ok |
+| Setup Type | okay | 51 | https://www.setuptype.com | 46 bad |
+| Sharp Type | okay | 66 | https://www.sharptype.co/ | 66 missing |
+| Signal | best | 18 | https://signalfoundry.com/ | ok |
+| SilverStag Type | okay | 17 | https://silverstagtype.com/ | ok |
+| Simple Bits | okay | 18 | https://simplebits.shop | ok |
+| Skilline Fonts Co. | okay | 58 | https://supply.family/ | 58 missing |
+| SM | okay | 8 | https://s-m.nu/ | 1 bad |
+| Smeltery | okay | 21 | https://www.smeltery.net | 21 bad |
+| Smuss Type Kiosk | okay | 7 | https://typekiosk.smuss.studio/ | ok |
+| Sociotype | best | 5 | https://socio-type.com/ | ok |
+| Softdrive Foundry | okay | – | https://www.softdrivefoundry.com/ | ok |
+| Softulka | okay | 9 | https://supply.family/ | 9 missing |
+| Source Type | best | 1 | https://www.sourcetype.com/ | ok |
+| Souvenir Typefaces | best | 2 | https://souvenirtypefaces.xyz/ | ok |
+| Spaghetype | okay | 1 | https://www.spaghetype.com | 1 missing |
+| Standard Type Foundry | okay | – | https://www.standardtypefoundry.com | ok |
+| Store Norske Skriftkompani | okay | 37 | https://skriftkompani.no/ | ok |
+| Studio Feixen Fonts | okay | 7 | https://fonts.studiofeixen.ch/ | ok |
+| Studio Few | okay | 10 | https://supply.family/ | 10 missing |
+| Studio Rene Bieder | best | 28 | https://www.renebieder.com/ | ok |
+| Studio Triple | okay | 16 | https://studiotriple.fr/ | ok |
+| Suitcase Type Foundry | okay | 51 | https://www.suitcasetype.com/ | ok |
+| Supercontinente | okay | – | https://supercontinente.com/ | ok |
+| Superior Type | okay | 34 | https://superiortype.com/ | ok |
+| Supernulla | okay | 3 | https://supply.family/ | 3 missing |
+| Supertype | okay | 33 | https://supertype.de/ | ok |
+| SWIM Type | okay | 1 | https://supply.family/ | 1 missing |
+| Swiss Typefaces | best | 19 | https://www.swisstypefaces.com/ | ok |
+| Tandem Type | okay | – | https://www.tandemtype.co | ok |
+| Taylor Penton | best | 65 | https://www.taylorpenton.com/ | ok |
+| Teaser | notgood | 1 | https://teaser.fonts.xyz/ | 1 missing |
+| Teeline Fonts | okay | – | https://teelinefonts.com | ok |
+| Tegamitype | okay | 9 | https://tegamitype.com | ok |
+| That That Type | okay | 45 | https://thatthattype.com/ | ok |
+| The Designers Foundry | best | 64 | https://thedesignersfoundry.com/ | ok |
+| The Foundry Types | okay | 40 | https://www.thefoundrytypes.com/ | ok |
+| The Letters | okay | 8 | https://theletters.co/ | 1 bad |
+| The Native Saint Club | okay | 17 | https://supply.family/ | 17 missing |
+| The Northern Block | best | 79 | https://www.thenorthernblock.co.uk/ | ok |
+| The Temporary State | okay | 9 | https://type.tmpstate.net/ | 9 bad |
+| Threedotstype | best | 14 | https://threedotstype.com/ | 2 bad |
+| Tightype | okay | 16 | https://tightype.com/ | ok |
+| Tiny Type Co. | okay | 4 | https://tinytype.co | ok |
+| Tipofili | okay | 3 | https://tipofili.com | ok |
+| Tipografies | okay | 13 | https://tipografies.com | ok |
+| Tipotype | okay | 42 | http://tipotype.com | ok |
+| Tiro Typeworks | best | 27 | https://www.tiro.com | ok |
+| TØ—Labs™ | okay | 3 | https://supply.family/ | 3 missing |
+| Tofu Type | best | 6 | https://tofutype.ca/ | ok |
+| Tokotype | okay | 9 | https://www.tokotype.com/ | ok |
+| Tour de Force | okay | 14 | https://tourdefonts.com | ok |
+| Troisième Type | okay | 14 | https://troisieme-type.com/ | ok |
+| Tropical Type | okay | 32 | https://tropicaltype.com/ | 24 bad |
+| TrueType | okay | 30 | https://supply.family/ | 30 missing |
+| Trulytype | okay | 13 | https://trulytype.com | ok |
+| Tunera | okay | 20 | https://www.tunera.xyz/ | ok |
+| Tüpokompanii | okay | 4 | https://tupokompanii.com/ | 4 missing |
+| TYPE BY | okay | 72 | https://www.typeby.com/ | ok |
+| Type Culture | okay | 11 | https://typeculture.com | ok |
+| Type Department | okay | 24 | https://type-department.com/ | ok |
+| Type Different | okay | 76 | https://www.typedifferent.com | ok |
+| Type Forward | okay | 9 | https://www.typeforward.com/ | 4 bad |
+| Type Mania | okay | 68 | https://supply.family/ | 68 missing |
+| Type of Feeling | best | 13 | https://typeoffeeling.com/ | ok |
+| Type Salon | okay | 6 | https://type-salon.com | ok |
+| Type-ø-tones | okay | 78 | http://type-o-tones.com | ok |
+| type.today | okay | 3 | https://type.today/en | 3 bad |
+| Typearture | okay | 6 | https://www.typearture.com | ok |
+| Typeforward | okay | – | https://typeforward.com | ok |
+| Typeheist | okay | 25 | https://typeheist.co | ok |
+| Typejockeys | okay | 11 | https://www.typejockeys.com | ok |
+| Typeland | okay | 6 | https://type.land | ok |
+| Typemanufactur | okay | 20 | https://www.typemanufactur.com/en | ok |
+| TypeMates | okay | 49 | https://www.typemates.com/ | 46 bad |
+| Typeóca | okay | – | https://typeoca.com/ | ok |
+| Typeparties | okay | 32 | https://supply.family/ | 32 missing |
+| Typerepublic | okay | 29 | https://typerepublic.com | ok |
+| Typespec | best | 13 | https://typespec.co.uk/ | ok |
+| TypeTogether | best | 23 | https://www.type-together.com/ | ok |
+| TypeType | okay | 24 | https://typetype.org/ | ok |
+| TypoBureau | okay | 3 | https://supply.family/ | 3 missing |
+| Typocalypse | okay | 7 | http://www.typocalypse.com | ok |
+| Typographies.fr | okay | – | http://typographies.fr/ | ok |
+| Typotheque | best | 198 | https://www.typotheque.com/ | ok |
+| Typozon | okay | 6 | https://typozon.xyz/ | ok |
+| U+270D | okay | 10 | https://u270d.eesab.fr/ | 2 bad |
+| Ultra Kuhl | best | – | https://ultra-kuhl.com/ | ok |
+| Uncut | okay | 163 | https://uncut.wtf/ | ok |
+| Underscore Type | okay | 8 | https://underscoretype.com/ | ok |
+| Underware | best | 17 | https://www.underware.nl | ok |
+| Undt | okay | 1 | https://undt.fonts.xyz/ | 1 missing |
+| Unio Designs | okay | 12 | https://supply.family/ | 12 missing |
+| Ursa Minor | okay | – | https://ursaminor.xyz | ok |
+| URW Type Foundry | okay | 12 | https://www.urwtype.com/ | 12 missing |
+| Vectro | okay | 8 | https://www.vectrotype.com/ | ok |
+| Very Cool Studio | okay | 1 | https://verycoolstudio.com/ | 1 bad |
+| Vibrant Types | okay | – | https://www.vibrant-types.com/ | ok |
+| Victoria Rushton | okay | – | https://victoriarushton.com | ok |
+| Village | okay | – | https://vllg.com/ | ok |
+| VJ Type | best | 14 | https://vj-type.com/ | ok |
+| Vocal Type | okay | 18 | https://www.vocaltype.co/ | ok |
+| W Type Foundry | okay | 63 | https://wtypefoundry.com | ok |
+| Wabi Sabi Type | okay | 21 | https://wabisabitypeshop.com/ | ok |
+| Walden Font Co. | okay | – | https://www.waldenfont.com | ok |
+| We Love Fonts | notgood | 7 | https://we-love-fonts.fonts.xyz/ | 7 missing |
+| Weekend Type | okay | 9 | https://weekendtype.xyz/ | ok |
+| WELTKERN | okay | 8 | https://www.weltkern.com/ | ok |
+| WiseType | okay | 8 | https://wisetype.nl/ | ok |
+| Workhorse Type Foundry | okay | 27 | https://workhorsetypefoundry.com | ok |
+| Writtenshape | okay | 6 | https://www.writtenshape.com | ok |
+| X Cicéro | okay | 18 | https://xcicero.esad-gv.net/ | ok |
+| XO Type Co | okay | 9 | https://xotype.co | ok |
+| XYZ Type | okay | 9 | https://xyztype.com/ | ok |
+| yasireknc | okay | 2 | https://supply.family/ | 2 missing |
+| Yeahright Type | okay | 51 | https://yeahrighttype.com/ | ok |
+| Yenty Jap Co | okay | 16 | https://supply.family/ | 16 missing |
+| Yep! Type Foundry | okay | – | https://yeptype.com | ok |
+| Zarma Type | notgood | 39 | https://zarmatype.com/ | 39 missing |
+| Zetafonts | okay | 154 | https://www.zetafonts.com/ | ok |
 
-**Tiers:** best · okay · loose · notgood  
-**Statuses:** Indexed · Registered, no data · Not registered · Blocked
+## Blocked
 
-| Foundry | Domain | Tier | Status | Fonts | Notes |
-|---------|--------|------|--------|------:|-------|
-| 6TM Magazine Fonts | shop.6tm-magazine.com | okay | Indexed | 24 | |
-| A is for | aisforfonts.com | okay | Indexed | 5 | |
-| A Practice for Everyday Life | apracticeforeverydaylife.com | okay | Indexed | 6 | |
-| a.Foundry | a-foundry.com | best | Indexed | 8 | |
-| AllCaps | allcapstype.com | best | Indexed | 10 | |
-| Almarena Foundry | almarenafoundry.com | best | Indexed | 9 | |
-| ALT.tf | alt-tf.com | okay | Indexed | 11 | |
-| Approximate Type | approxtype.com | okay | Indexed | 7 | |
-| Arillatype.Studio | arillatype.studio | best | Indexed | 25 | |
-| Arkitype | arkitype.co | best | Indexed | 20 | |
-| ArrowType | arrowtype.com | okay | Indexed | 5 | |
-| atipo foundry | atipofoundry.com | best | Indexed | 50 | |
-| A Type of Amigo | atypeofamigo.com | best | Indexed | 12 | |
-| Balto | typesupply.com | okay | Indexed | 11 | |
-| Bastarda | bastardatype.com | best | Indexed | 17 | |
-| Big Fog Foundry | foundry.bigfog.co | okay | Indexed | 4 | |
-| Binnenland Typefaces | binnenland.ch | best | Indexed | 10 | |
-| Black Foundry | black-foundry.com | loose | Indexed | 41 | |
-| Bold Monday | boldmonday.com | okay | Indexed | 37 | |
-| Boulevard LAB | boulevardlab.com | okay | Indexed | 2 | |
-| Brandon Nickerson | bnicks.com | okay | Indexed | 3 | |
-| British Standard Type | britishstandardtype.xyz | best | Indexed | 6 | |
-| Bureau Brut | bureaubrut.com | best | Indexed | 16 | |
-| b•v-h type | bvhtype.com | okay | Indexed | 18 | |
-| Camelot Typefaces | camelot-typefaces.com | best | Indexed | 9 | |
-| CAST | c-a-s-t.com | best | Indexed | 85 | |
-| Central Type | centraltype.com | okay | Indexed | 12 | |
-| Collletttivo | collletttivo.it | loose | Indexed | 16 | |
-| Colt Type Co | wearecolt.com | okay | Indexed | 19 | |
-| Commercial Type | commercialtype.com | okay | Indexed | 91 | |
-| Connary Fagen | connary.com | okay | Indexed | 44 | |
-| Coppers and Brasses | coppersandbrasses.com | okay | Indexed | 10 | |
-| Crescenzi | crescenzi.co | best | Indexed | 76 | |
-| Dalton Maag | daltonmaag.com | best | Indexed | 77 | |
-| Darden Studio | dardenstudio.com | okay | Indexed | 8 | |
-| David Jonathan Ross | djr.com | okay | Indexed | 29 | |
-| DDOTT | ddott.net | okay | Indexed | 10 | |
-| Death of Typography | deathoftypography.com | okay | Indexed | 85 | |
-| Delve Fonts | delvefonts.com | okay | Indexed | 31 | |
-| Dharma Type | dharmatype.com | okay | Indexed | 128 | |
-| Dinamo Typefaces | abcdinamo.com | best | Indexed | 85 | |
-| Dirty Line Studio | dirtylinestudio.com | best | Indexed | 76 | |
-| Displaay Type Foundry | displaay.net | best | Indexed | 37 | |
-| Dot Colon | dotcolon.net | okay | Indexed | 11 | |
-| Double Dagger | doubledagger.xyz | okay | Indexed | 14 | |
-| Due Studio | due-studio.com | best | Indexed | 85 | |
-| East of Rome | eastofrome.com | okay | Indexed | 13 | |
-| ECAL Typefaces | ecal-typefaces.ch | okay | Indexed | 21 | |
-| Extraset | extraset.ch | best | Indexed | 15 | |
-| Fable | fable.design | best | Indexed | 9 | |
-| Faire Type | fairetype.com | best | Indexed | 6 | |
-| Fatype | fatype.com | best | Indexed | 7 | |
-| Feliciano Type | felicianotype.com | okay | Indexed | 18 | |
-| Flood Fonts | floodfonts.com | okay | Indexed | 14 | |
-| Fonderie Bretagne | fonderiebretagne.fr | okay | Indexed | 23 | |
-| Fontfabric | fontfabric.com | okay | Indexed | 54 | |
-| Fontshare | fontshare.com | okay | Indexed | 100 | |
-| Fontwerk | fontwerk.com | best | Indexed | 16 | |
-| Forgotten Shapes | forgotten-shapes.com | okay | Indexed | 9 | |
-| Formagari | formagari.com | okay | Indexed | 10 | |
-| Formerly Known | formerly-known.com | okay | Indexed | 6 | |
-| Free Faces | freefaces.gallery | notgood | Indexed | 13 | |
-| Frost | frostype.xyz | best | Indexed | 14 | |
-| Gallery Type | gallerytype.com | loose | Indexed | 2 | |
-| General Type Studio | generaltypestudio.com | best | Indexed | 8 | |
-| Good Type Foundry | goodtypefoundry.com | okay | Indexed | 23 | |
-| Google Fonts | fonts.google.com | okay | Indexed | 1,945 | |
-| Gradient | wearegradient.net | okay | Indexed | 10 | |
-| Grilli Type | grillitype.com | best | Indexed | 21 | |
-| Groteskly Yours | groteskly.xyz | best | Indexed | 13 | |
-| Güneş Muhittin | gunesmuhittin.com | okay | Indexed | 6 | |
-| Heavyweight | heavyweight-type.com | okay | Indexed | 9 | |
-| Hot Type | hottype.co | best | Indexed | 9 | |
-| HvD Fonts | hvdfonts.com | okay | Indexed | 76 | |
-| Increments | increments.cc | okay | Indexed | 3 | |
-| Indian Type Foundry | indiantypefoundry.com | okay | Indexed | 28 | |
-| Interval Type | intervaltype.com | best | Indexed | 76 | |
-| Jessica Hische | jessicahische.shop | okay | Indexed | 6 | |
-| JP Flexner | jpflexner.com | okay | Indexed | 9 | |
-| Juri Zæch | juri-zaech.com | okay | Indexed | 5 | |
-| Just Another Foundry | justanotherfoundry.com | okay | Indexed | 12 | |
-| Kilotype | kilotype.de | okay | Indexed | 12 | |
-| Klim Type Foundry | klim.co.nz | best | Indexed | 55 | |
-| KOMETA Typefaces | kometa.xyz | okay | Indexed | 6 | |
-| Kurppa Hosk Type | khtype.com | okay | Indexed | 6 | |
-| Labor and Wait | laborandwait.xyz | okay | Indexed | 10 | |
-| Leinster Type | leinstertype.com | best | Indexed | 7 | |
-| Letterjuice | letterjuice.cat | okay | Indexed | 7 | |
-| Lettermin | lettermin.com | okay | Indexed | 16 | |
-| Letters from Sweden | lettersfromsweden.se | okay | Indexed | 44 | |
-| Lift Type | lift-type.fr | best | Indexed | 18 | |
-| Lineto | lineto.com | okay | Indexed | 92 | |
-| lo-ol Type | lo-ol.design | okay | Indexed | 10 | |
-| Luzi Type Foundry | luzi-type.ch | best | Indexed | 28 | |
-| Mass-Driver | mass-driver.com | okay | Indexed | 8 | |
-| Mojomox | fonts.mojomox.com | okay | Indexed | 2 | |
-| Monokrom | monokrom.no | notgood | Indexed | 18 | |
-| nan.xyz | nan.xyz | best | Indexed | 26 | |
-| Narrow Type | narrowtype.com | okay | Indexed | 3 | |
-| Nikolas Type | nikolastype.com | okay | Indexed | 4 | |
-| Nootype | nootype.com | okay | Indexed | 14 | |
-| Nouvelle Noire | nouvellenoire.ch | okay | Indexed | 19 | |
-| November | nvmbr.in | okay | Indexed | 7 | |
-| Nuform Type | nuformtype.com | okay | Indexed | 7 | |
-| Off Type Foundry | off-type.com | loose | Indexed | 17 | |
-| OH no Type Company | ohnotype.co | okay | Indexed | 25 | |
-| Old City Mailroom | oldcitymailroom.com | okay | Indexed | 5 | |
-| Open Foundry | open-foundry.com | okay | Indexed | 25 | |
-| Optimo | optimo.ch | best | Indexed | 28 | |
-| Order | order.design | okay | Indexed | 9 | |
-| Out of the Dark | outofthedark.swiss | best | Indexed | 27 | |
-| Pangram Pangram Foundry | pangrampangram.com | best | Indexed | 110 | |
-| Patio Foundry | patiofoundry.com | loose | Indexed | 7 | |
-| Pizza Typefaces | typefaces.pizza | best | Indexed | 27 | |
-| Plain Form | plain-form.com | okay | Indexed | 8 | |
-| PLAYTYPE | playtype.com | best | Indexed | 106 | |
-| Polytype | polytype.co.uk | okay | Indexed | 6 | |
-| Power Type | power-type.com | best | Indexed | 9 | |
-| Prioritype Co | prioritypeco.com | best | Indexed | 32 | |
-| Process Type Foundry | processtypefoundry.com | notgood | Indexed | 32 | |
-| Production Type | productiontype.com | okay | Indexed | 12 | |
-| R-Typography | r-typography.com | okay | Indexed | 24 | |
-| Regular Bold Italic | regularbolditalic.com | okay | Indexed | 11 | |
-| Rosetta | rosettatype.com | notgood | Indexed | 38 | |
-| S6 Foundry | s6foundry.com | okay | Indexed | 35 | |
-| Schick Toikka | schick-toikka.com | best | Indexed | 44 | |
-| Signal Foundry | signalfoundry.com | best | Indexed | 18 | |
-| SilverStag | silverstagtype.com | okay | Indexed | 17 | |
-| SM | s-m.nu | okay | Indexed | 8 | |
-| Smuss Type Kiosk | typekiosk.smuss.studio | loose | Indexed | 7 | |
-| Sociotype | socio-type.com | best | Indexed | 5 | |
-| Source Type | sourcetype.com | best | Indexed | 1 | |
-| Souvenir Typefaces | souvenirtypefaces.xyz | best | Indexed | 2 | |
-| Studio 2AM | studio2am.co | okay | Indexed | 76 | |
-| Studio Feixen Fonts | fonts.studiofeixen.ch | okay | Indexed | 7 | |
-| Studio Rene Bieder | renebieder.com | best | Indexed | 28 | |
-| Studio Triple | studiotriple.fr | okay | Indexed | 16 | |
-| Suitcase Type Foundry | suitcasetype.com | okay | Indexed | 51 | |
-| Supertype | supertype.de | okay | Indexed | 33 | |
-| Swiss Typefaces | swisstypefaces.com | okay | Indexed | 19 | |
-| That That Type | thatthattype.com | best | Indexed | 45 | |
-| The Designers Foundry | thedesignersfoundry.com | best | Indexed | 64 | |
-| The Foundry Types | thefoundrytypes.com | okay | Indexed | 40 | |
-| The Northern Block | thenorthernblock.co.uk | best | Indexed | 79 | |
-| The Temporary State | typefaces.temporarystate.net | okay | Indexed | 9 | |
-| TIGHTYPE | tightype.com | best | Indexed | 16 | |
-| Tokotype | tokotype.com | okay | Indexed | 9 | |
-| TROPICAL TYPE | tropicaltype.com | okay | Indexed | 32 | |
-| Tunera | tunera.xyz | okay | Indexed | 20 | |
-| TYPE BY | typeby.com | loose | Indexed | 72 | |
-| Type Department | type-department.com | okay | Indexed | 24 | |
-| Type Forward | typeforward.com | okay | Indexed | 9 | |
-| Type of Feeling | typeoffeeling.com | best | Indexed | 13 | |
-| type.today | type.today | okay | Indexed | 3 | |
-| TYPE.WELTKERN | weltkern.com | okay | Indexed | 8 | |
-| TypeMates | typemates.com | okay | Indexed | 49 | |
-| TypeTogether | type-together.com | okay | Indexed | 127 | |
-| TypeType | typetype.org | okay | Indexed | 24 | |
-| Typotheque | typotheque.com | okay | Indexed | 198 | |
-| Typozon | typozon.xyz | okay | Indexed | 6 | |
-| UI8 | ui8.net | okay | Indexed | 76 | |
-| UNCUT.wtf | uncut.wtf | okay | Indexed | 163 | |
-| Vectro | vectrotype.com | okay | Indexed | 8 | |
-| VJ Type | vj-type.com | best | Indexed | 14 | |
-| Vocal Type | vocaltype.co | okay | Indexed | 18 | |
-| Wabi Sabi Type | wabisabitypeshop.com | okay | Indexed | 21 | |
-| Weekend Type | weekendtype.xyz | okay | Indexed | 9 | |
-| WiseType | wisetype.nl | okay | Indexed | 8 | |
-| XYZ Type | xyztype.com | okay | Indexed | 9 | |
-| Yeahright Type | yeahrighttype.com | okay | Indexed | 51 | |
-| zetafonts | zetafonts.com | okay | Indexed | 154 | |
-| Latinotype | latinotype.com | okay | Registered, no data | – | Geo-blocked / timeout |
-| A2-Type | a2-type.co.uk | best | Indexed | 140 | |
-| Blaze | blazetype.eu | best | Indexed | 110 | |
-| Catalogue (Florian Karsten) | fonts.floriankarsten.com | best | Indexed | 10 | |
-| Hand Drawn Fonts (Taylor Penton) | taylorpenton.com | best | Indexed | 65 | |
-| Typespec | typespec.co.uk | best | Indexed | 13 | |
-| Dutype | dutypefoundry.com | best | Blocked | – | DNS dead — domain lapsed |
-| F37 Foundry | f37foundry.com | okay | Indexed | 76 | |
-| Lewis McGuffie | lewismcguffie.com | okay | Indexed | 2 | Only 2 typefaces have dedicated pages |
-| U+270D | u270d.eesab.fr | okay | Indexed | 10 | |
-| X Cicéro | xcicero.esad-gv.net | okay | Indexed | 18 | 1 failed (Bocalupo — no Claude response) |
-| Fonts from Folch | fontsfromfolch.com | okay | Blocked | – | Single-page site; no individual typeface pages |
-| Lettermatic | lettermatic.com | okay | Indexed | 4 | Already registered |
-| Radim Pesko | radimpesko.com | okay | Indexed | – | Already registered |
-| Riegla & Riegraf | typefriends.com | okay | Blocked | – | Readymag subscription expired; site dead |
-| Uxum | uxumuxum.com | okay | Blocked | – | React SPA, single product — not a catalogue |
-| 205TF | 205.tf | okay | Blocked | – | Next.js RSC — zero links extracted |
-| Aeonik | aeonik.co.uk | best | Blocked | – | |
-| AlfaType Fonts Foundry | alfatypefonts.com | loose | Blocked | – | |
-| ATYPICAL | atypical.gr | loose | Blocked | – | |
-| Bad Type Club | badtype.club | loose | Blocked | – | |
-| bb-bureau | bb-bureau.fr | loose | Blocked | – | |
-| Beržulis | berzulis.com | okay | Blocked | – | Site down |
-| Blast Foundry | blast-foundry.com | loose | Blocked | – | |
-| CastleType | castletype.com | best | Blocked | – | |
-| Cinta Mundo | supercontinente.com | loose | Blocked | – | |
-| Claude Type | claudetype.com | loose | Blocked | – | |
-| Capitalics | capitalics.wtf | best | Indexed | 63 | |
-| Family Type | familytype.co | best | Indexed | 6 | |
-| McLetters | mcletters.co | best | Indexed | 24 | |
-| OTT Foundry | ott-foundry.com | best | Indexed | 22 | |
-| Store Norske Skriftkompani | skriftkompani.no | okay | Indexed | 37 | |
-| Superior Type | superiortype.com | okay | Indexed | 34 | |
-| Threedotstype | threedotstype.com | best | Indexed | 14 | |
-| Colophon | colophon-foundry.org | best | Blocked | – | Redirects to MyFonts; catalogue no longer on own domain |
-| Commercial Classics | commercialclassics.com | okay | Blocked | – | Duplicate of Commercial Type |
-| Contemporary Type | contemporarytype.com | okay | Blocked | – | |
-| CoType Foundry | cotypefoundry.com | best | Blocked | – | |
-| degarism | degarism.com | okay | Blocked | – | Coming soon page |
-| DSType Foundry | dstype.com | notgood | Blocked | – | |
-| Emigre | emigre.com | notgood | Blocked | – | |
-| En Travaux | entravaux.framer.website | notgood | Blocked | – | |
-| exljbris | exljbris.com | notgood | Blocked | – | |
-| Family Type | familytype.co | best | Blocked | – | |
-| FOLCH | folchstudio.com | okay | Blocked | – | No individual typeface pages |
-| Font Bureau / Type Network | fontbureau.typenetwork.com | okay | Blocked | – | Reseller |
-| Font Squirrel | fontsquirrel.com | notgood | Blocked | – | Reseller |
-| FontHaus | fonthaus.com | okay | Blocked | – | Reseller |
-| Fonts.gr | fonts.gr | okay | Blocked | – | |
-| Future Fonts | futurefonts.xyz | okay | Blocked | – | Reseller |
-| HAL Typefaces | type.hanli.eu | loose | Blocked | – | |
-| HB Type | hbtype.com | loose | Blocked | – | |
-| Heritage Type Co. | heritagetype.com | notgood | Blocked | – | |
-| Hey | heytype.xyz | notgood | Blocked | – | |
-| Hoefler&Co. | typography.com | notgood | Blocked | – | |
-| I Love Typography | fonts.ilovetypography.com | okay | Blocked | – | Reseller |
-| Ian Adjeidu | studioplums.com | best | Blocked | – | |
-| James Plattner | jamesplattner.com | loose | Blocked | – | |
-| Joliciatype | joliciatype.com | notgood | Blocked | – | |
-| Letterhead Fonts | letterheadfonts.com | notgood | Blocked | – | |
-| Lettersetal | experim-etal.lettersetal.co.uk | best | Blocked | – | |
-| LIBRE FONTS BY WOMXN | design-research.be | okay | Blocked | – | Reseller/aggregator |
-| limitype | limitype.com | best | Blocked | – | |
-| Lost Type | losttype.com | notgood | Blocked | – | |
-| LucasFonts | lucasfonts.com | notgood | Blocked | – | |
-| Margot Lévêque | margotleveque.com | notgood | Blocked | – | |
-| Mark Simonson | marksimonson.com | notgood | Blocked | – | |
-| McLetters | mcletters.co | best | Blocked | – | |
-| Milieu Grotesque | milieugrotesque.com | okay | Blocked | – | Domain redirects to MyFonts; foundry gone |
-| Monkey Type | monkeytype.xyz | okay | Blocked | – | |
-| Monotype | monotype.com | okay | Blocked | – | Reseller |
-| MoTyFo | motyfo.com | notgood | Blocked | – | |
-| NBL | neubauladen.com | notgood | Blocked | – | |
-| Neubau | neubauberlin.com | notgood | Blocked | – | |
-| OTT Foundry | ott-foundry.com | best | Blocked | – | Bot-blocking |
-| Overlap Type | overlaptype.com | notgood | Blocked | – | |
-| P22 | p22.com | notgood | Blocked | – | |
-| Paratype | paratype.com | best | Blocked | – | |
-| PSY/OPS | psyops.com | notgood | Blocked | – | |
-| Rajesh Rajput (Behance) | behance.net | best | Blocked | – | Reseller/portfolio |
-| Resistenza Type | rsztype.com | notgood | Blocked | – | |
-| Retail Fonts / Capitalics | capitalics.wtf | best | Blocked | – | |
-| Sharp Type | sharptype.co | notgood | Blocked | – | |
-| SilverStag (duplicate) | silverstag.design | okay | Blocked | – | Duplicate of silverstagtype.com |
-| Storm Type Foundry | stormtype.com | notgood | Blocked | – | |
-| Sudtipos | sudtipos.com | notgood | Blocked | – | |
-| Sun | sun.fo | notgood | Blocked | – | |
-| Supply.Family / Zarma Type | supply.family | best | Blocked | – | Reseller |
-| T.26 | t26.com | okay | Blocked | – | |
-| The League of Moveable Type | theleagueofmoveabletype.com | notgood | Blocked | – | |
-| Threedotstype | threedotstype.com | best | Blocked | – | |
-| Tüpokompanii | typokompanii.com | best | Blocked | – | |
-| TYPE01 | type-01.com | okay | Blocked | – | |
-| Type Network | typenetwork.com | okay | Blocked | – | Reseller |
-| Typeverything | typeverything.com | best | Blocked | – | Reseller |
-| Typofonderie | typofonderie.com | notgood | Blocked | – | |
-| Ultra Kuhl | ultra-kuhl.com | best | Blocked | – | Domain expired and hijacked |
-| Undercase Type | undercase.xyz | notgood | Blocked | – | |
-| Village | vllg.com | okay | Blocked | – | Domain redirects to Labor and Wait |
-| VTF / Velvetyne | velvetyne.fr | notgood | Blocked | – | |
-| YouWorkForThem | youworkforthem.com | best | Blocked | – | Reseller |
+| Foundry | Reason |
+|---|---|
+| Aeonik | redirects to CoType; CoType is JS-rendered |
+| ATYPICAL | loose tier |
+| Authentic | shop closed |
+| Bad Type Club | loose tier |
+| bb-bureau | loose tier |
+| Beržulis | site down |
+| Blast Foundry | loose tier |
+| Castle Type | old static site, no structured listing |
+| Claude Type | loose tier |
+| Colophon | Redirects to MyFonts; original domain no longer has a catalogue |
+| Contemporary Type | reseller, JS-rendered listing with no crawlable font links |
+| degarism | coming soon, no live catalogue |
+| DSType Foundry | notgood tier — quality not up to index standard |
+| Dutype | unverified — needs scouting |
+| Emigre | notgood tier — legacy catalogue, no structured listing |
+| En Travaux | notgood tier |
+| exljbris | notgood tier |
+| FOLCH Studio | agency site; fonts at fontsfromfolch.com (already indexed) |
+| Font Bureau on TypeNetwork | hosted on TypeNetwork reseller platform |
+| FontHaus | reseller aggregator |
+| Fonts.gr | Greek aggregator site |
+| FontSquirrel | free fonts aggregator, not a foundry |
+| Future Fonts | beta marketplace aggregator, not a single foundry |
+| G마켓 | Korean e-commerce site, not a type foundry |
+| HAL Typefaces | loose tier |
+| HB Type | loose tier |
+| Heritage Type Co. | notgood tier |
+| Hey | notgood tier |
+| ILoveTypography Fonts | aggregator storefront, not a foundry |
+| James Plattner Studio | lettering/logo portfolio, not a type foundry |
+| Joliciatype | notgood tier |
+| Letterhead Fonts | notgood tier |
+| LIBRE FONTS BY WOMXN | curated resource list, not a foundry |
+| Limitype | JS-rendered, no crawlable listing |
+| Lost Type Co-op | notgood tier — co-op with mixed quality |
+| LucasFonts | notgood tier |
+| Margot Lévêque Studio | notgood tier |
+| Mark Simonson | notgood tier |
+| Monotype | corporate conglomerate, not an independent foundry |
+| MoTyFo | notgood tier |
+| NBL | notgood tier |
+| Neubau | notgood tier |
+| Overlap Type | notgood tier |
+| P22 Type Foundry | notgood tier |
+| Paratype | large catalogue, no structured listing page |
+| PSY/OPS Type Foundry | notgood tier |
+| Rajesh Rajput | Behance portfolio, not indexable |
+| Riegla & Riegraf | Readymag subscription expired; site dead |
+| SilverStag (old domain) | redirects to silverstagtype.com which is already registered |
+| Storm Type Foundry | notgood tier |
+| Studio 2AM | unverified — needs scouting |
+| Sudtipos | notgood tier |
+| Sun | notgood tier |
+| Supply.Family | reseller marketplace — 49 creators indexed individually from supply.family/product-category/fonts/ |
+| T.26 | sells individual font weight packs rather than typeface families; structure too granular |
+| The League of Moveable Type | notgood tier — free open-source co-op |
+| The Temporary State (old domain) | foundry moved to type.tmpstate.net; already registered and indexed |
+| TYPE01 | editorial/blog site, not a type foundry storefront |
+| TypeNetwork | reseller platform, not a foundry |
+| Typeverything | inspiration blog, not a foundry |
+| Typofonderie | notgood tier |
+| UI8 | design asset marketplace, not a type foundry |
+| Undercase Type | notgood tier |
+| Uxum | React SPA, single-product site — not a foundry catalogue |
+| VTF (Velvetyne) | notgood tier |
+| YouWorkForThem | reseller marketplace, not a foundry |
+
+## To Do
+
+| Foundry | Domain | Notes |
+|---|---|---|
+| 29Letters | type.lol | Via type.lol · Madrid, Spain · Trial fonts available · Not yet scouted |
+| 29LT | 29lt.com | Arabic/Latin multilingual type. Not yet scouted |
+| 3type | type.lol | Via type.lol · Shanghai, China · Not yet scouted |
+| A+ | a-plus-type.com | Not yet scouted |
+| Aayalolo | type.lol | Via type.lol · Accra, Ghana · Not yet scouted |
+| Abhijit Menon | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Abstract Office | type.lol | Via type.lol · Los Angeles, CA, United States · Trial fonts available · Not yet scouted |
+| ÁccentiaType | type.lol | Via type.lol · Sài Gòn, Vietnam · Trial fonts available · Not yet scouted |
+| Acute Studio | type.lol | Via type.lol · Amsterdam, Netherlands · Not yet scouted |
+| Adam Ladd Design | type.lol | Via type.lol · Cincinnati, Ohio, United States · Not yet scouted |
+| Adobe Originals | type.lol | Via type.lol · San Jose, United States · Not yet scouted |
+| Adotbelow | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Adriana Garcidueñas | type.lol | Via type.lol · Morelia, Mexico · Trial fonts available · Not yet scouted |
+| Aeiou Tools | aeiou.tools | May be tools/micro-foundry hybrid – verify whether they sell fonts |
+| Afrotype | type.lol | Via type.lol · Lagos, Nigeria · Not yet scouted |
+| AinsiFont | type.lol | Via type.lol · Lille, France · Trial fonts available · Not yet scouted |
+| Aiyari Studio | type.lol | Via type.lol · Indonesia · Not yet scouted |
+| AKOFAType | type.lol | Via type.lol · Atlanta, United States · Not yet scouted |
+| Alanna Munro | type.lol | Via type.lol · Vancouver, Canada · Trial fonts available · Not yet scouted |
+| Alexandre Créquer | alex-creq.com | Individual French type designer. Not yet scouted |
+| Alexis Boscariol | type.lol | Via type.lol · Paris, France · Not yet scouted |
+| Alice Savoie | type.lol | Via type.lol · France, France · Trial fonts available · Not yet scouted |
+| Alif Type | type.lol | Via type.lol · Cairo, Egypt · Not yet scouted |
+| Alphabets Patrick Nell | type.lol | Via type.lol · Vienna, Austria · Trial fonts available · Not yet scouted |
+| Altiplano | type.lol | Via type.lol · Switzerland · Trial fonts available · Not yet scouted |
+| Ampersand Type Foundry | type.lol | Via type.lol · Not yet scouted |
+| Anagata | type.lol | Via type.lol · Phnom Penh, Cambodia · Not yet scouted |
+| And Repeat | type.lol | Via type.lol · Not yet scouted |
+| Andinistas | type.lol | Via type.lol · Bogotá, Colombia · Not yet scouted |
+| ANFCo | type.lol | Via type.lol · Pennsylvania, United States · Not yet scouted |
+| Anita Jürgeleit | anitajuergeleit.de | Individual German type designer. Not yet scouted |
+| Anna Khorash | type.lol | Via type.lol · The Hague, Netherlands · Not yet scouted |
+| ANRT | type.lol | Via type.lol · Nancy, France · Trial fonts available · Not yet scouted |
+| Antipixel | type.lol | Via type.lol · Buenos Aires, Argentina · Trial fonts available · Not yet scouted |
+| APK Type | type.lol | Via type.lol · Netherlands · Trial fonts available · Not yet scouted |
+| Arabetics | type.lol | Via type.lol · New York, United States · Not yet scouted |
+| ArabicType | type.lol | Via type.lol · London, United Kingdom · Not yet scouted |
+| Archetype Foundry | type.lol | Via type.lol · Bangalore, India · Trial fonts available · Not yet scouted |
+| Archivio Tipografico | type.lol | Via type.lol · Turin, Italy · Not yet scouted |
+| ARES Type | type.lol | Via type.lol · Not yet scouted |
+| Arlyn Ramos | type.lol | Via type.lol · Honolulu, HI, United States · Not yet scouted |
+| Arphic | type.lol | Via type.lol · Taiwan · Not yet scouted |
+| ARS Type | type.lol | Via type.lol · Amsterdam, Netherlands · Not yet scouted |
+| Art Grootfontein | type.lol | Via type.lol · Paris, France · Not yet scouted |
+| Artcity | type.lol | Via type.lol · Warsaw, Poland · Not yet scouted |
+| ArtyType | type.lol | Via type.lol · Not yet scouted |
+| Asketic Design Studio | type.lol | Via type.lol · Riga, Latvia · Not yet scouted |
+| Astype Fonts | type.lol | Via type.lol · Berlin, Germany · Trial fonts available · Not yet scouted |
+| Asvadek Type | type.lol | Via type.lol · Phnom Penh, Cambodia · Trial fonts available · Not yet scouted |
+| Atelier René Knip | atelierreneknip.nl | Dutch type designer, known for Catharina. Not yet scouted |
+| Atelier Triay | type.lol | Via type.lol · London, United Kingdom · Not yet scouted |
+| ATF Collection | type.lol | Via type.lol · United States · Not yet scouted |
+| ATK Studio | atktype.gumroad.com | Sells via Gumroad. Not yet scouted |
+| Atypical | atypical.gr | Greek type studio. Not yet scouted |
+| Australian Type Foundry | type.lol | Via type.lol · Australia · Not yet scouted |
+| AUTHENTIC | authentic.website | Verify whether they have a proper type catalogue |
+| Authentype | type.lol | Via type.lol · Not yet scouted |
+| Azuliq Type | type.lol | Via type.lol · Paris, France · Not yet scouted |
+| Babelfont | type.lol | Via type.lol · Paris, France · Trial fonts available · Not yet scouted |
+| Backpacker | type.lol | Via type.lol · Greece · Trial fonts available · Not yet scouted |
+| Bahman Design | type.lol | Via type.lol · The Hague, Netherlands · Not yet scouted |
+| Balibilly | type.lol | Via type.lol · Canggu, Indonesia · Trial fonts available · Not yet scouted |
+| Bangla Type Foundry | type.lol | Via type.lol · Bangladesh · Not yet scouted |
+| Bauer Types | type.lol | Via type.lol · Not yet scouted |
+| BB-Bureau | bb-bureau.fr | French type studio, known for experimental display work. Not yet scouted |
+| bBox Type | type.lol | Via type.lol · Potsdam, Germany · Trial fonts available · Not yet scouted |
+| Bea Korsh | type.lol | Via type.lol · Brooklyn, United States · Not yet scouted |
+| Beam Type | type.lol | Via type.lol · Not yet scouted |
+| Benn Zorn | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Best Typefaces | type.lol | Via type.lol · Not yet scouted |
+| Bfgs.Studio | type.lol | Via type.lol · Cologne, Germany · Not yet scouted |
+| Biliktu Foundry | type.lol | Via type.lol · Not yet scouted |
+| Blackmoon Foundry | type.lol | Via type.lol · Berlin, Germany · Not yet scouted |
+| Blanco Letters | blancoletters.com | Not yet scouted |
+| Blast Foundry | blast-foundry.com | Not yet scouted |
+| Bleifrei Type | type.lol | Via type.lol · Bern, Switzerland · Not yet scouted |
+| BluHead Studio | type.lol | Via type.lol · United States · Not yet scouted |
+| BNF Type Foundry | type.lol | Via type.lol · Istanbul, Turkey · Trial fonts available · Not yet scouted |
+| Boharat | type.lol | Via type.lol · Cairo, Egypt · Not yet scouted |
+| Bonez Designz | type.lol | Via type.lol · Birmingham, United Kingdom · Not yet scouted |
+| Boomtype | type.lol | Via type.lol · The Hague, Netherlands · Not yet scouted |
+| Borutta Group | type.lol | Via type.lol · Warsaw, Poland · Not yet scouted |
+| Boutros Fonts | type.lol | Via type.lol · London, United Kingdom · Not yet scouted |
+| Boyish Type | type.lol | Via type.lol · Not yet scouted |
+| Brody Fonts | type.lol | Via type.lol · London, United Kingdom · Not yet scouted |
+| Bureau Blamage | type.lol | Via type.lol · Not yet scouted |
+| C-Type | type.lol | Via type.lol · Not yet scouted |
+| Calame.Bureau | arthurcalame.com | Swiss individual type designer. Not yet scouted |
+| Calderón | estudiocalderon.com | Verify depth of type catalogue before indexing |
+| California Type Foundry | calfonts.com | Not yet scouted |
+| Calvin Kwok | type.lol | Via type.lol · Not yet scouted |
+| Carl J. Kurtz | type.lol | Via type.lol · Hamburg, Germany · Not yet scouted |
+| CarnokyType | type.lol | Via type.lol · Kysak, Slovakia · Not yet scouted |
+| Caron Twice Fonts | type.lol | Via type.lol · Czech Republic · Not yet scouted |
+| Carrois Type Design | type.lol | Via type.lol · Germany · Not yet scouted |
+| Carter & Cone | type.lol | Via type.lol · Washington, United States · Not yet scouted |
+| Céline Hurka Type Foundry | type.lol | Via type.lol · The Hague, Netherlands · Not yet scouted |
+| Cinetype | type.lol | Via type.lol · London, United Kingdom · Not yet scouted |
+| Cinketype | type.lol | Via type.lol · Hungary · Not yet scouted |
+| Claude Type | claudetype.com | Not yet scouted |
+| Clothilde Bouan | type.lol | Via type.lol · Paris, France · Not yet scouted |
+| CocijoType | type.lol | Via type.lol · Dubai, United Arab Emirates · Not yet scouted |
+| Colophon Foundry | colophon-foundry.org | Prominent London foundry. High priority |
+| Compañía Tipográfica de Chile | type.lol | Via type.lol · Chile · Not yet scouted |
+| Constellation | type.lol | Via type.lol · Not yet scouted |
+| Contextype | type.lol | Via type.lol · Not yet scouted |
+| Corradine Fonts | type.lol | Via type.lol · Bogotá, Colombia · Not yet scouted |
+| CSTM | cstmfonts.com | Not yet scouted |
+| CubicType | type.lol | Via type.lol · Not yet scouted |
+| Cyla Costa Studio | type.lol | Via type.lol · Curitiba, Brazil · Not yet scouted |
+| Cyreal | type.lol | Via type.lol · Almaty, Kazakhstan · Not yet scouted |
+| Damn Type Co | type.lol | Via type.lol · Santa Barbara, California, United States · Not yet scouted |
+| Daniel Reed | type.lol | Via type.lol · Manchester, United Kingdom · Not yet scouted |
+| Dave Coleman | type.lol | Via type.lol · Sydney, Australia · Trial fonts available · Not yet scouted |
+| DB Font | type.lol | Via type.lol · Bangkok, Thailand · Not yet scouted |
+| Degarism Studio | degarism.com | Seen on featuredtype.com. Not yet scouted |
+| design.buerro | type.lol | Via type.lol · Italy · Not yet scouted |
+| Designova Fonts | type.lol | Via type.lol · Germany · Not yet scouted |
+| Detail | type.lol | Via type.lol · Japan · Not yet scouted |
+| Device Fonts | type.lol | Via type.lol · London, Kew Gardens, United Kingdom · Not yet scouted |
+| dito-typo | dito-typo.com | Not yet scouted |
+| Diwan Software | type.lol | Via type.lol · Newcastle upon Tyne, United Kingdom · Not yet scouted |
+| DizajnDesign | type.lol | Via type.lol · Bratislava, Slovakia · Trial fonts available · Not yet scouted |
+| Dogray | type.lol | Via type.lol · London, United Kingdom · Not yet scouted |
+| Domicile Foundry | domicilefoundry.com | Seen on featuredtype.com. Not yet scouted |
+| Dominique Kerber | type.lol | Via type.lol · Zurich, Switzerland · Trial fonts available · Not yet scouted |
+| Dotless type | type.lol | Via type.lol · Ljubljana, Slovenia · Not yet scouted |
+| Double B Type | type.lol | Via type.lol · France · Not yet scouted |
+| Double Zero | type.lol | Via type.lol · France · Trial fonts available · Not yet scouted |
+| DR Foundry | daniel-reed.co.uk | Daniel Reed, UK type designer. Not yet scouted |
+| Drawcard | type.lol | Via type.lol · Australia · Not yet scouted |
+| Dum Dum Studio® | type.lol | Via type.lol · Monterrey, N.L., Mexico · Trial fonts available · Not yet scouted |
+| Dunwich Type Founders | type.lol | Via type.lol · Not yet scouted |
+| Dutch Type Library | type.lol | Via type.lol · Netherlands · Not yet scouted |
+| Dutype | dutypefoundry.com | Best tier – not yet scouted |
+| Edito | type.lol | Via type.lol · Paris, France · Not yet scouted |
+| Eko Bimantara | type.lol | Via type.lol · Bogor, Indonesia · Trial fonts available · Not yet scouted |
+| Elefonts | type.lol | Via type.lol · Germany · Not yet scouted |
+| Elena Schneider | elenaschneider.com | Individual type designer. Not yet scouted |
+| Eliott Grunewald | type.lol | Via type.lol · Paris, France · Trial fonts available · Not yet scouted |
+| Ellen Luff Type Foundry | type.lol | Via type.lol · Not yet scouted |
+| Eller Type | type.lol | Via type.lol · Brazil · Not yet scouted |
+| Éric de Berranger | type.lol | Via type.lol · Not yet scouted |
+| Erica Carras | type.lol | Via type.lol · Not yet scouted |
+| Erkin Karamemet | erkinkaramemet.com | Turkish type designer. Not yet scouted |
+| Etc Foundry | etc.supply | Distinct from ETC Typefaces (etceteratype.co) – verify before indexing |
+| Ethan Cohen | type.lol | Via type.lol · Not yet scouted |
+| Experim–etal | type.lol | Via type.lol · United Kingdom · Not yet scouted |
+| F | type.lol | Via type.lol · Not yet scouted |
+| Fabio Haag | type.lol | Via type.lol · Brazil · Trial fonts available · Not yet scouted |
+| Fabrizio Schiavi Design | type.lol | Via type.lol · Italy · Not yet scouted |
+| Familjen Type | type.lol | Via type.lol · Not yet scouted |
+| Famira Fonts | famirafonts.typenetwork.com | Sold via TypeNetwork. Not yet scouted |
+| Fandofonts | type.lol | Via type.lol · Spain · Not yet scouted |
+| Fargun Studio | type.lol | Via type.lol · Not yet scouted |
+| Farsi Font Store | type.lol | Via type.lol · Not yet scouted |
+| Fer Cozzi | fercozzi.com | Argentine type designer. Not yet scouted |
+| Fincker Font Cuisine | type.lol | Via type.lol · France · Not yet scouted |
+| Firm | type.lol | Via type.lol · Not yet scouted |
+| Flavia Zimbardi | flaviazim.com | Individual type designer. Not yet scouted |
+| Flight Mode | type.lol | Via type.lol · Prague, Czech Republic · Trial fonts available · Not yet scouted |
+| Fond de riz | type.lol | Via type.lol · France · Not yet scouted |
+| Font HU | type.lol | Via type.lol · Szentendre, Hungary · Not yet scouted |
+| Font Kitchen | type.lol | Via type.lol · Not yet scouted |
+| Font Review Journal | type.lol | Via type.lol · Not yet scouted |
+| Font Stand | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Fontador | type.lol | Via type.lol · Germany · Not yet scouted |
+| Fontarte | type.lol | Via type.lol · Warsaw, Poland · Not yet scouted |
+| Fontastic Foundry | type.lol | Via type.lol · India · Not yet scouted |
+| FontBit | type.lol | Via type.lol · Tel Aviv, Israel · Not yet scouted |
+| FontRix | type.lol | Via type.lol · Seoul, South Korea · Trial fonts available · Not yet scouted |
+| Fonts In Use | type.lol | Via type.lol · Not yet scouted |
+| FontShop | type.lol | Via type.lol · Berlin, Germany · Not yet scouted |
+| Fontsmith | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Format.otf | type.lol | Via type.lol · Germany · Not yet scouted |
+| Formula Type | formulatype.com | Seen on featuredtype.com. Not yet scouted |
+| Foundry5 | type.lol | Via type.lol · Cambridge, United Kingdom · Not yet scouted |
+| Fountain Type | type.lol | Via type.lol · Not yet scouted |
+| Foznt | type.lol | Via type.lol · Fukuoka, Japan · Trial fonts available · Not yet scouted |
+| Francis Chouquet | type.lol | Via type.lol · Not yet scouted |
+| Frank Adebiaye & Studio Triple | type.lol | Via type.lol · Berlin, Germany · Not yet scouted |
+| Franziska Weitgruber | type.lol | Via type.lol · South Tyrol, Italy · Not yet scouted |
+| Freight Collection | freightcollection.com | Seen on featuredtype.com – possibly Joshua Darden. Not yet scouted |
+| Frenchtype | type.lol | Via type.lol · France, France · Trial fonts available · Not yet scouted |
+| Fresh Fonts | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Frncojonas | type.lol | Via type.lol · Not yet scouted |
+| FrosType | frostype.com | Possibly same as Frost (frostype.xyz) – verify before indexing |
+| Fuego Fonts | type.lol | Via type.lol · Germany · Not yet scouted |
+| GarageFonts | type.lol | Via type.lol · Pittsburgh, United States · Not yet scouted |
+| Geez Archive | type.lol | Via type.lol · Ethiopia · Trial fonts available · Not yet scouted |
+| GHACFONT | type.lol | Via type.lol · Ghana · Trial fonts available · Not yet scouted |
+| Gor Jihanian | type.lol | Via type.lol · United States · Not yet scouted |
+| Graptail Type Supply Company | type.lol | Via type.lol · Not yet scouted |
+| Graviton Font Foundry | type.lol | Via type.lol · Buenos Aires, Argentina · Not yet scouted |
+| Grifi | type.lol | Via type.lol · France · Not yet scouted |
+| GS-Type | type.lol | Via type.lol · Barcelona, Spain · Not yet scouted |
+| HadiType Foundry | type.lol | Via type.lol · Amman, Jordan · Not yet scouted |
+| HAL Typefaces | type.hanli.eu | Not yet scouted |
+| Hamilton Wood Type Collection | type.lol | Via type.lol · New York, United States · Not yet scouted |
+| Hanken Design Co. | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Harbor Type | type.lol | Via type.lol · The City Of Porto Alegre, Brazil · Not yet scouted |
+| Hard Type | hardtype.xyz | Not yet scouted |
+| Hassen Khattak | type.lol | Via type.lol · Cairo, Egypt · Not yet scouted |
+| Haus Type | type.lol | Via type.lol · Sweden · Trial fonts available · Not yet scouted |
+| Heheh Type | type.lol | Via type.lol · Cairo, Egypt · Not yet scouted |
+| Helsinki Type Studio | type.lol | Via type.lol · Helsinki, Finland · Not yet scouted |
+| HEX Projects | type.lol | Via type.lol · Not yet scouted |
+| Hiba Studio | type.lol | Via type.lol · Gaza, Palestine · Not yet scouted |
+| HLC Type | type.lol | Via type.lol · France · Not yet scouted |
+| Hoodzpah | type.lol | Via type.lol · Not yet scouted |
+| Horizon Type | type.lol | Via type.lol · Istanbul, Turkey · Trial fonts available · Not yet scouted |
+| House Industries | houseind.com | Major US foundry. High priority |
+| House of X | type.lol | Via type.lol · Brazil · Not yet scouted |
+| hrftype | type.lol | Via type.lol · Kuala Lumpur, Malaysia · Not yet scouted |
+| Hubert Jocham Type | type.lol | Via type.lol · Memmingen, Germany · Not yet scouted |
+| Huerta Tipográfica | type.lol | Via type.lol · Buenos Aires, Argentina · Trial fonts available · Not yet scouted |
+| Hypersand | type.lol | Via type.lol · London, United Kingdom · Not yet scouted |
+| IBType | type.lol | Via type.lol · Canada · Not yet scouted |
+| Ideabuk | type.lol | Via type.lol · Lithuania · Not yet scouted |
+| iFrame Type Foundry | type.lol | Via type.lol · Greece · Not yet scouted |
+| indestructible type* | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Informal Type | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Inga Plönnigs | type.lol | Via type.lol · Berlin, Germany · Not yet scouted |
+| IngoFonts | type.lol | Via type.lol · Germany · Not yet scouted |
+| Inhouse Type | inhousetype.com | Seen on featuredtype.com. Not yet scouted |
+| Insignedesign | type.lol | Via type.lol · Not yet scouted |
+| Intelligent Foundry | kostasbartsokas.com | Kostas Bartsokas, known for Averta. Not yet scouted |
+| Interrobang Type | type.lol | Via type.lol · Nice, France · Not yet scouted |
+| Into the Type | type.lol | Via type.lol · The Hague, Netherlands · Not yet scouted |
+| Isabel Urbina Peña | type.lol | Via type.lol · United States · Not yet scouted |
+| Jad Maza | type.lol | Via type.lol · Quezon City, Philippines · Trial fonts available · Not yet scouted |
+| Jake Fleming | type.lol | Via type.lol · San Francisco, CA, United States · Not yet scouted |
+| Jakob Fangmeier | type.lol | Via type.lol · The Hague, Netherlands · Not yet scouted |
+| JAM Type | type.lol | Via type.lol · Not yet scouted |
+| Jan Fromm | type.lol | Via type.lol · Berlin, Germany · Not yet scouted |
+| Jan Šindler | type.lol | Via type.lol · Berlin, Germany · Not yet scouted |
+| Jangs Müller | jangsmullertype.com | Individual type designer. Not yet scouted |
+| Jen Wagner Co. | type.lol | Via type.lol · Nashville, Tennessee, United States · Not yet scouted |
+| Jikji Soft | type.lol | Via type.lol · South Korea · Not yet scouted |
+| Jorge Morales Salas | type.lol | Via type.lol · Toronto, Canada · Not yet scouted |
+| José Solé | type.lol | Via type.lol · Chile · Not yet scouted |
+| JT Foundry | type.lol | Via type.lol · Taipei, Taiwan · Not yet scouted |
+| Juanjo López | type.lol | Via type.lol · Madrid, Spain · Trial fonts available · Not yet scouted |
+| Julien Fincker | type.lol | Via type.lol · Stuttgart, Germany · Trial fonts available · Not yet scouted |
+| Justin Penner | type.lol | Via type.lol · Vancouver, Canada · Trial fonts available · Not yet scouted |
+| K-Type | type.lol | Via type.lol · Manchester, United Kingdom · Trial fonts available · Not yet scouted |
+| Karajan Type Foundry | type.lol | Via type.lol · Prague, Czech Republic · Not yet scouted |
+| Karsten Luecke (KLTF) | kltf.de | Respected German foundry. Not yet scouted |
+| Katatrad | type.lol | Via type.lol · Chonburi, Thailand · Not yet scouted |
+| Katja Schimmel | type.lol | Via type.lol · Essen, Germany · Not yet scouted |
+| Kel Troughton | type.lol | Via type.lol · Oakland, United States · Not yet scouted |
+| Kent Lew | type.lol | Via type.lol · Washington, United States · Not yet scouted |
+| Kern Club | type.lol | Via type.lol · United States · Not yet scouted |
+| Kevin Foley Fonts | type.lol | Via type.lol · Massachusetts, United States · Not yet scouted |
+| Keya Vadgama | type.lol | Via type.lol · Bay Area, United States · Not yet scouted |
+| Kimera | kimera.com | Seen on featuredtype.com (KMR Apparat). Not yet scouted |
+| Kiosk / Play Faces | type.lol | Via type.lol · Not yet scouted |
+| Kiosk Fonts | kiosk-fonts.de | German foundry. Not yet scouted |
+| Kirjatehnika | kirjatehnika.ee | Estonian foundry. Verify activity level |
+| KLTF | type.lol | Via type.lol · Germany · Not yet scouted |
+| Kobu Foundry | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Kontour | kontour.com | Not yet scouted |
+| Kostas Bartsokas | type.lol | Via type.lol · Greece · Trial fonts available · Not yet scouted |
+| Kotype | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| KrakenBox | type.lol | Via type.lol · Pekanbaru, Indonesia · Trial fonts available · Not yet scouted |
+| Kulokale | type.lol | Via type.lol · Surabaya, Indonesia · Not yet scouted |
+| KurdFonts | type.lol | Via type.lol · Iraq · Trial fonts available · Not yet scouted |
+| Kyiv Type Foundry | kyivtype.com | Seen on featuredtype.com (Unity Sans). Not yet scouted |
+| Langustefonts | langustefonts.com | Not yet scouted |
+| Lanston Type Company | type.lol | Via type.lol · New York, United States · Not yet scouted |
+| Lapagelepage | type.lol | Via type.lol · Not yet scouted |
+| Laucke Siebein Type | type.lol | Via type.lol · Germany · Not yet scouted |
+| Laudon Design | type.lol | Via type.lol · Sweden · Not yet scouted |
+| Laura Csocsan Typefaces | type.lol | Via type.lol · Lausanne, Switzerland · Trial fonts available · Not yet scouted |
+| Laurent Müller | type.lol | Via type.lol · Brussels, Belgium · Not yet scouted |
+| Lazydogs Typefoundry | lazydogs.de | German type studio. Not yet scouted |
+| Le Laïc | type.lol | Via type.lol · Warsaw, Poland · Trial fonts available · Not yet scouted |
+| League | type.lol | Via type.lol · Geneva, Switzerland · Not yet scouted |
+| League of Movable Type | theleagueofmoveabletype.com | Open-source type collective. Not yet scouted |
+| Lechuga TypeQuerétaro, Querétaro, México | type.lol | Via type.lol · Not yet scouted |
+| LeedoType | type.lol | Via type.lol · Seoul, South Korea · Trial fonts available · Not yet scouted |
+| Letter Edit | type.lol | Via type.lol · Germany · Trial fonts available · Not yet scouted |
+| Letterwerk | type.lol | Via type.lol · Switzerland · Not yet scouted |
+| LiebeFonts | type.lol | Via type.lol · Zurich, Switzerland · Not yet scouted |
+| Ligature Type | type.lol | Via type.lol · Berlin, Germany · Not yet scouted |
+| Lipton Letter Design | type.lol | Via type.lol · Not yet scouted |
+| Lost Type | losttype.com | Pay-what-you-want co-op foundry. Not yet scouted |
+| Loud Room | type.lol | Via type.lol · Not yet scouted |
+| LucasFonts | lucasfonts.com | Luc(as) de Groot, creator of FF TheSans. High priority |
+| Luis Bandovas | type.lol | Via type.lol · Not yet scouted |
+| Luuse | typotheque.luuse.fun | French design studio with type section. Not yet scouted |
+| Lux Typo | type.lol | Via type.lol · Los Angeles, United States · Not yet scouted |
+| MA-MA Type | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| MAC Rhino Fonts | type.lol | Via type.lol · Stockholm, Sweden · Not yet scouted |
+| Madeline O’Donoghue | type.lol | Via type.lol · New Zealand · Not yet scouted |
+| MakeFont | type.lol | Via type.lol · Weifang, China · Not yet scouted |
+| maketypenotwar! | type.lol | Via type.lol · Not yet scouted |
+| Malou Verlomme | type.lol | Via type.lol · France · Not yet scouted |
+| Man Versus Type | type.lol | Via type.lol · India · Not yet scouted |
+| Manchester Type | type.lol | Via type.lol · Manchester, United Kingdom · Not yet scouted |
+| Mans Greback | type.lol | Via type.lol · Sweden · Not yet scouted |
+| Manufacturas Tipográficas Madrileñas | type.lol | Via type.lol · Madrid, Spain · Not yet scouted |
+| Margot Lévêque Studio | margotleveque.com | Individual French type designer. Not yet scouted |
+| Mark Frömberg | type.lol | Via type.lol · Berlin, Germany · Not yet scouted |
+| Mark Simonson | marksimonson.com | Proxima Nova etc. High priority |
+| Marmite Defontes🍫Lausanne, Switzerland | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Martin Pyšný | type.lol | Via type.lol · Trenčín, Slovakia · Not yet scouted |
+| Masahiro Naruse | type.lol | Via type.lol · New York, United States · Not yet scouted |
+| Masterfont | type.lol | Via type.lol · Not yet scouted |
+| Matt Willey | mattwilley.co.uk | UK designer – verify if he has a commercial type catalogue |
+| Matteson Typographics | type.lol | Via type.lol · Colorado, Colorado, United States · Trial fonts available · Not yet scouted |
+| MELKEVEIEN DESIGNKONTOR AS | type.lol | Via type.lol · Oslo, Norway · Not yet scouted |
+| Melvastype | type.lol | Via type.lol · Finland · Not yet scouted |
+| Michael Rafailyk | type.lol | Via type.lol · Ukraine · Not yet scouted |
+| Midwest Type | type.lol | Via type.lol · Akron, Ohio, United States · Not yet scouted |
+| Milletype Foundry | type.lol | Via type.lol · France · Trial fonts available · Not yet scouted |
+| Minjoo Ham | type.lol | Via type.lol · Berlin, Germany · Not yet scouted |
+| Moglia | type.lol | Via type.lol · Annecy, Haute-Savoie, France · Trial fonts available · Not yet scouted |
+| moji.design | type.lol | Via type.lol · Tokyo, Japan · Not yet scouted |
+| Monolith Foundry | monolithfoundry.com | Not yet scouted |
+| Monotype | monotype.com | Major type company. Business model differs from typical foundry – assess before indexing |
+| Monti Fonti | type.lol | Via type.lol · Belgium · Not yet scouted |
+| Mooniak | type.lol | Via type.lol · Colombo, Sri Lanka · Not yet scouted |
+| Moontype | type.lol | Via type.lol · Stockholm, Sweden · Trial fonts available · Not yet scouted |
+| Morcos Key | type.lol | Via type.lol · Brooklyn, NY, United States · Not yet scouted |
+| Moretype | moretype.co.uk | UK foundry. Not yet scouted |
+| Mostardesign Type Foundry | type.lol | Via type.lol · Sofia, Bulgaria · Not yet scouted |
+| Motion Type | type.lol | Via type.lol · null, Switzerland · Not yet scouted |
+| Muk Monsalve | type.lol | Via type.lol · Buenos Aires, Argentina · Not yet scouted |
+| Multitudes | type.lol | Via type.lol · Singapore · Trial fonts available · Not yet scouted |
+| Mytype Studio | type.lol | Via type.lol · Indonesia · Not yet scouted |
+| MzType | type.lol | Via type.lol · Switzerland · Not yet scouted |
+| Naïma Ben Ayed Bureau | type.lol | Via type.lol · London, United Kingdom · Not yet scouted |
+| Namrata Goyal | type.lol | Via type.lol · Bengaluru, India · Not yet scouted |
+| Nasir Udin Studio | type.lol | Via type.lol · Yogyakarta, Sleman, Indonesia · Trial fonts available · Not yet scouted |
+| Natalie Rauch | type.lol | Via type.lol · Berlin, Germany · Not yet scouted |
+| Natanael Gama | type.lol | Via type.lol · Lisbon, Portugal · Trial fonts available · Not yet scouted |
+| Netvarec Type | type.netvarec.ooo | Not yet scouted |
+| Neubau | neubauladen.com | Berlin design studio with type releases. Not yet scouted |
+| Neue | type.lol | Via type.lol · Germany · Not yet scouted |
+| New Letters | type.lol | Via type.lol · Germany · Trial fonts available · Not yet scouted |
+| Nguyen Gobber | nguyengobber.com | Individual type designer. Not yet scouted |
+| Nicole Fally | type.lol | Via type.lol · Not yet scouted |
+| Nimatype | type.lol | Via type.lol · India · Trial fonts available · Not yet scouted |
+| Nina Stössinger | type.lol | Via type.lol · Not yet scouted |
+| Nodo Type Foundry | nodotypefoundry.com | Not yet scouted |
+| Noheul Lee | type.lol | Via type.lol · Not yet scouted |
+| NohType | type.lol | Via type.lol · Seoul, South Korea · Not yet scouted |
+| Noir Blanc Rouge | type.lol | Via type.lol · United States · Trial fonts available · Not yet scouted |
+| Nomad Foundry | type.lol | Via type.lol · Not yet scouted |
+| Non Foundry | nonfoundry.com | Not yet scouted |
+| Nonpareille | type.lol | Via type.lol · United States · Not yet scouted |
+| NoonFont | type.lol | Via type.lol · Tehran, Iran · Not yet scouted |
+| Norberg Type Foundry | type.lol | Via type.lol · Sweden · Trial fonts available · Not yet scouted |
+| Nostalgic Dolphin Studio | type.lol | Via type.lol · Serbia · Trial fonts available · Not yet scouted |
+| Novo Typo | type.lol | Via type.lol · Amsterdam, Netherlands · Not yet scouted |
+| O’Plérou StudioAbidjan, Côte d'Ivoire | type.lol | Via type.lol · Not yet scouted |
+| Obrysy | obrysy.xyz | Not yet scouted |
+| Octotypo | type.lol | Via type.lol · France · Not yet scouted |
+| Office of Personal Responsibility | type.lol | Via type.lol · Not yet scouted |
+| Ograda Type Co. | type.lol | Via type.lol · Runcu, Romania · Trial fonts available · Not yet scouted |
+| Olivia King | type.lol | Via type.lol · Sydney, Australia · Not yet scouted |
+| Olof | type.lol | Via type.lol · Bern, Switzerland · Not yet scouted |
+| Omar Type Foundry | type.lol | Via type.lol · Not yet scouted |
+| Omega Type Foundry | type.lol | Via type.lol · Indonesia · Not yet scouted |
+| OmoType | type.lol | Via type.lol · New York, United States · Not yet scouted |
+| Omse Type | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Op. Cit. Ibid. | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Open Source Publishing | type.lol | Via type.lol · Brussels, Belgium · Not yet scouted |
+| OPS Type | type.lol | Via type.lol · Not yet scouted |
+| Order Type Foundry | ordertypefoundry.com | Seen on featuredtype.com. Not yet scouted |
+| OTT — Ornamental & Title Type | type.lol | Via type.lol · Paris, France · Trial fonts available · Not yet scouted |
+| Our House Graphics | type.lol | Via type.lol · Not yet scouted |
+| Our Polite Society | ourpolitesocietytype.net | Verify if still active |
+| Out of Step Font Company | type.lol | Via type.lol · Toronto, Canada · Trial fonts available · Not yet scouted |
+| Outras Fontes | type.lol | Via type.lol · Vitória, Brazil · Not yet scouted |
+| Overtype | type.lol | Via type.lol · Not yet scouted |
+| Pandeka Studio | type.lol | Via type.lol · Indonesia · Not yet scouted |
+| Papanapa | type.lol | Via type.lol · São Paulo, Brazil · Not yet scouted |
+| ParaType | paratype.com | Major Russian foundry, large catalogue. High priority |
+| Parker Studio | type.lol | Via type.lol · Not yet scouted |
+| Parkinson Type Design | type.lol | Via type.lol · San Francisco, United States · Not yet scouted |
+| Pathfinders | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Paulo Goode | type.lol | Via type.lol · Cork, Ireland · Trial fonts available · Not yet scouted |
+| Pepper Type Foundry | type.lol | Via type.lol · Ukraine · Trial fonts available · Not yet scouted |
+| Peregrin Studio | peregrinstudio.com | Not yet scouted |
+| Peter Roeleveld | type.lol | Via type.lol · Utrecht, Netherlands · Not yet scouted |
+| Petra-D Type Foundry | type.lol | Via type.lol · Czech Republic · Not yet scouted |
+| Philatype | philatype.com | Not yet scouted |
+| PintassilgoPrints | type.lol | Via type.lol · Brazil · Not yet scouted |
+| Piotr Łapa | type.lol | Via type.lol · Not yet scouted |
+| Piscotype | type.lol | Via type.lol · Arequipa, Peru · Not yet scouted |
+| PizzaDude | type.lol | Via type.lol · Denmark · Not yet scouted |
+| Plomb Type | type.lol | Via type.lol · France · Trial fonts available · Not yet scouted |
+| Portograph Studio | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Produce | type.lol | Via type.lol · Not yet scouted |
+| Propertype Fonts | type.lol | Via type.lol · Indonesia · Not yet scouted |
+| Protype Foundry | type.lol | Via type.lol · Egypt · Trial fonts available · Not yet scouted |
+| PSTL | type.lol | Via type.lol · United States · Not yet scouted |
+| Punchform | type.lol | Via type.lol · Romania · Not yet scouted |
+| QueerType | type.lol | Via type.lol · Not yet scouted |
+| Quentin Schmerber | type.lol | Via type.lol · Switzerland · Not yet scouted |
+| Questa Project | type.lol | Via type.lol · Not yet scouted |
+| Quintana-Font | type.lol | Via type.lol · Lima, Peru · Not yet scouted |
+| R9 Type+Design | type.lol | Via type.lol · Canada · Not yet scouted |
+| Rachana Institute of Typography | type.lol | Via type.lol · Thiruvananthapuram, India · Not yet scouted |
+| Raoul Gottschling | type.lol | Via type.lol · Düsseldorf, Germany · Not yet scouted |
+| Razzia Type | razziatype.com | Seen on featuredtype.com. Not yet scouted |
+| Reber R41 | type.lol | Via type.lol · Italy · Not yet scouted |
+| Regular Lines | regularlines.com | Distinct from Regular Bold Italic (already indexed). Not yet scouted |
+| RenegadeFonts | renegadefonts.com | Not yet scouted |
+| Republish | type.lol | Via type.lol · Chicago, United States · Trial fonts available · Not yet scouted |
+| RNS Fonts | type.lol | Via type.lol · Buenos Aires, Argentina · Not yet scouted |
+| Robin Pitchon | type.lol | Via type.lol · France · Not yet scouted |
+| ROHH | type.lol | Via type.lol · Not yet scouted |
+| RP Digital Type Foundry | type.lol | Via type.lol · Amsterdam, Netherlands · Not yet scouted |
+| Rubén Prol | type.lol | Via type.lol · A Coruña, Spain · Not yet scouted |
+| Russian Fonts | type.lol | Via type.lol · Moscow, Russia · Not yet scouted |
+| Ryan Bugden | type.lol | Via type.lol · Brooklyn, United States · Not yet scouted |
+| Sabina Kipară | type.lol | Via type.lol · Amsterdam, Netherlands · Not yet scouted |
+| Saja Typeworks | type.lol | Via type.lol · Washington, United States · Not yet scouted |
+| Sakkal Design | type.lol | Via type.lol · Bothell, WA, United States · Not yet scouted |
+| Saonatype | type.lol | Via type.lol · Vientiane, Laos · Not yet scouted |
+| Scannerlicker | type.lol | Via type.lol · Not yet scouted |
+| Schrift Foundry | type.lol | Via type.lol · Germany · Not yet scouted |
+| Schrifteria | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Scribble Tone | type.lol | Via type.lol · Portland, United States · Not yet scouted |
+| Senamirmir Project | type.lol | Via type.lol · Ethiopia · Trial fonts available · Not yet scouted |
+| Sensatype Studio | type.lol | Via type.lol · Indonesia · Not yet scouted |
+| Serebryakov Type Foundry | type.lol | Via type.lol · Belarus · Not yet scouted |
+| Sergej Lebedev | type.lol | Via type.lol · Germany · Not yet scouted |
+| Set Sail Studios | type.lol | Via type.lol · United Kingdom · Not yet scouted |
+| Seven/eight | type.lol | Via type.lol · Seattle, United States · Not yet scouted |
+| SevenType | type.lol | Via type.lol · Not yet scouted |
+| Show Me Fonts | type.lol | Via type.lol · Berlin, Germany · Not yet scouted |
+| Shriftovik Type Foundry | type.lol | Via type.lol · Russia · Not yet scouted |
+| Si47ash Fonts | type.lol | Via type.lol · Tehran, Iran · Not yet scouted |
+| SIL | type.lol | Via type.lol · Not yet scouted |
+| Silly Type Foundry | type.lol | Via type.lol · Not yet scouted |
+| Skrr Type | type.lol | Via type.lol · Paris, France · Not yet scouted |
+| Slanted Hall | slantedhall.com | Not yet scouted |
+| Slow Fonts | type.lol | Via type.lol · Marseille, France · Not yet scouted |
+| SM Foundry | smfoundry.com | Seen on featuredtype.com (Stellage). Not yet scouted |
+| So-Type | type.lol | Via type.lol · Not yet scouted |
+| Soft Type | type.lol | Via type.lol · Portland, United States · Not yet scouted |
+| Sogari Design | type.lol | Via type.lol · Portugal · Trial fonts available · Not yet scouted |
+| SophiaTypeLove | type.lol | Via type.lol · Not yet scouted |
+| Sorkin Type | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Space Type | spacetypeco.com | Not yet scouted |
+| Specimenism | type.lol | Via type.lol · Not yet scouted |
+| Spirit & Bones | type.lol | Via type.lol · Hamburg, Germany · Not yet scouted |
+| Spizh | type.lol | Via type.lol · London, United Kingdom · Not yet scouted |
+| Spoke | type.lol | Via type.lol · Helsinki, Finland · Not yet scouted |
+| Sportsfonts | type.lol | Via type.lol · Chicago, United States · Trial fonts available · Not yet scouted |
+| Spoviero Type | type.lol | Via type.lol · Buenos Aires, Argentina · Not yet scouted |
+| Stawix Foundry | type.lol | Via type.lol · Bangkok, Thailand · Not yet scouted |
+| Stefán Kjartansson | kjartanssonur.com | Icelandic type designer. Not yet scouted |
+| store.​typenetwork.​com | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Storm Type | stormtype.com | Major Czech foundry, František Štorm. High priority |
+| Studio 2AM | studio2am.co | Okay tier – not yet scouted |
+| Studio Buchanan | type.lol | Via type.lol · Not yet scouted |
+| Studio Linda Hintz | type.lol | Via type.lol · Denmark · Not yet scouted |
+| Studio Muhittin Güneş | type.lol | Via type.lol · Istanbul, Turkey · Trial fonts available · Not yet scouted |
+| Studio Sascha Bente | saschabente.com | Individual German type designer. Not yet scouted |
+| Studio Type | type.lol | Via type.lol · Belgium · Trial fonts available · Not yet scouted |
+| Sudetype | type.lol | Via type.lol · Czech Republic · Trial fonts available · Not yet scouted |
+| Sudtipos | sudtipos.com | Major South American foundry (Argentina). High priority |
+| Sumotype | type.lol | Via type.lol · Bogotá, Colombia · Not yet scouted |
+| Sun Helen | type.lol | Via type.lol · Nesodden, Norway · Not yet scouted |
+| Superness | type.lol | Via type.lol · Milan, Italy · Not yet scouted |
+| SUVA Type Foundry | type.lol | Via type.lol · Tallinn, Estonia · Not yet scouted |
+| Synthview | typography.synthview.com | Not yet scouted |
+| T1 Foundry | type.lol | Via type.lol · Not yet scouted |
+| Tabular Type Foundry | type.lol | Via type.lol · Not yet scouted |
+| Tarallo Design | type.lol | Via type.lol · Worcester, Massachusetts, United States · Not yet scouted |
+| Tarek Atrissi Design | type.lol | Via type.lol · Barcelona, Spain · Not yet scouted |
+| Tekio | type.lol | Via type.lol · Not yet scouted |
+| Terma FoundryTibet | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Terminal Design | terminaldesign.com | Established US foundry, James Montalbano. Not yet scouted |
+| That’s Weirdo Stuff | type.lol | Via type.lol · Not yet scouted |
+| The MicroFoundry | type.lol | Via type.lol · New York, United States · Not yet scouted |
+| The Type Founders | type.lol | Via type.lol · Not yet scouted |
+| Thecoa Foundry | type.lol | Via type.lol · Vietnam · Not yet scouted |
+| Théo Guillard | type.lol | Via type.lol · Paris, France · Not yet scouted |
+| Thomas Jockin | type.lol | Via type.lol · Not yet scouted |
+| Tilde | type.lol | Via type.lol · Riga, Latvia · Not yet scouted |
+| Tipo Pèpel | type.lol | Via type.lol · United States · Not yet scouted |
+| TipografiaRamis | type.lol | Via type.lol · Not yet scouted |
+| Tipos Pereira | type.lol | Via type.lol · São Paulo, Brazil · Not yet scouted |
+| Tom Chalky | type.lol | Via type.lol · United Kingdom · Not yet scouted |
+| Tommi Sharp | type.lol | Via type.lol · Tennessee, United States · Not yet scouted |
+| Tondi Type Studio | type.lol | Via type.lol · Johannesburg, South Africa · Trial fonts available · Not yet scouted |
+| Too Much Type | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Tortilla.studio | type.lol | Via type.lol · Mexico City, Mexico · Not yet scouted |
+| Toshi Omagari | type.lol | Via type.lol · London, United Kingdom · Not yet scouted |
+| ToSupply | type.lol | Via type.lol · Switzerland · Not yet scouted |
+| TPTQ Arabic | type.lol | Via type.lol · Not yet scouted |
+| TrashType | type.lol | Via type.lol · Brooklyn, New York, United States · Trial fonts available · Not yet scouted |
+| TS Fonts | type.lol | Via type.lol · Istanbul, Turkey · Not yet scouted |
+| Tulsey Type | type.lol | Via type.lol · Tulsa, Oklahoma, United States · Not yet scouted |
+| Twinletter | type.lol | Via type.lol · Semarang, Indonesia · Not yet scouted |
+| Twintype | type.lol | Via type.lol · Taiwan · Not yet scouted |
+| Type and Roll | type.lol | Via type.lol · Not yet scouted |
+| Type Brut | type.lol | Via type.lol · Brooklyn, United States · Trial fonts available · Not yet scouted |
+| Type Collider | type.lol | Via type.lol · Stockholm, Sweden · Not yet scouted |
+| Type Colony | type.lol | Via type.lol · Indonesia · Trial fonts available · Not yet scouted |
+| Type Du Nord | type.lol | Via type.lol · Minneapolis, United States · Not yet scouted |
+| Type Goblin | type.lol | Via type.lol · Nice, France · Trial fonts available · Not yet scouted |
+| Type Mafia | type.lol | Via type.lol · Amsterdam, Netherlands · Not yet scouted |
+| Type Supply | type.lol | Via type.lol · United States · Trial fonts available · Not yet scouted |
+| Typedepot | type.lol | Via type.lol · Berlin, Germany · Not yet scouted |
+| Typefolio | type.lol | Via type.lol · Macapá, Brazil · Not yet scouted |
+| Typeji | typeji.com | Not yet scouted |
+| Typeknitting | type.lol | Via type.lol · Switzerland · Not yet scouted |
+| Typerotation | type.lol | Via type.lol · Leipzig, Germany · Not yet scouted |
+| Typesenses | type.lol | Via type.lol · Argentina · Not yet scouted |
+| Typetanic | type.lol | Via type.lol · Chicago, United States · Not yet scouted |
+| TypeThis!Studio | type.lol | Via type.lol · Hamburg, Germany · Not yet scouted |
+| Typetr | type.lol | Via type.lol · Netherlands · Not yet scouted |
+| TypeTrust | type.lol | Via type.lol · Pasadena, CA, United States · Not yet scouted |
+| Typeverything | typeverything.com | Typographic inspiration platform that also releases type. Not yet scouted |
+| Typocopter | typocopter.com | Not yet scouted |
+| Typofonderie | typofonderie.com | Major French foundry, Jean François Porchez. High priority |
+| Typogama | type.lol | Via type.lol · Switzerland · Not yet scouted |
+| Typografische | type.lol | Via type.lol · Istanbul, Turkey · Trial fonts available · Not yet scouted |
+| Typolar | type.lol | Via type.lol · Helsinki, Finland · Not yet scouted |
+| Typonine | type.lol | Via type.lol · Not yet scouted |
+| Typonym | type.lol | Via type.lol · Berlin, Germany · Not yet scouted |
+| Typothèque Bye Bye Binary | type.lol | Via type.lol · Rennes, France · Not yet scouted |
+| U.S. Graphics Company | usgraphics.com | Not yet scouted |
+| Udi Foundry | type.lol | Via type.lol · Nigeria · Not yet scouted |
+| Undercase | undercase.xyz | Not yet scouted |
+| UnitType | type.lol | Via type.lol · United Kingdom · Not yet scouted |
+| Universal Thirst | type.lol | Via type.lol · Not yet scouted |
+| Universitype | type.lol | Via type.lol · Indonesia · Trial fonts available · Not yet scouted |
+| Ursa Minor | ursaminor.xyz | Not yet scouted |
+| Urtd | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
+| Vanilla Type | type.lol | Via type.lol · United States · Trial fonts available · Not yet scouted |
+| Vastago Studio | type.lol | Via type.lol · Santander de Quilichao, Colombia · Not yet scouted |
+| VDL | type.lol | Via type.lol · Japan · Not yet scouted |
+| Vee Ratchanon | type.lol | Via type.lol · The Hague, Netherlands · Not yet scouted |
+| Velvetyne | velvetyne.fr | Open-source French type collective. Not yet scouted |
+| Vetteletters | type.lol | Via type.lol · Netherlands · Not yet scouted |
+| Victor Bartis | type.lol | Via type.lol · Bucharest, Romania · Not yet scouted |
+| Virgile Flores | type.lol | Via type.lol · Not yet scouted |
+| VZWO Type | type.lol | Via type.lol · Germany · Not yet scouted |
+| Wannatype | type.lol | Via type.lol · Vienna, Austria · Not yet scouted |
+| Warsaw Types | type.lol | Via type.lol · Warsaw, Poland · Not yet scouted |
+| WhiteCrow | type.lol | Via type.lol · Mumbai, India · Not yet scouted |
+| Wiener Schriften | type.lol | Via type.lol · Vienna, Austria · Not yet scouted |
+| Wild Type | type.lol | Via type.lol · Riga, Latvia · Trial fonts available · Not yet scouted |
+| Willerstorfer Font Foundry | type.lol | Via type.lol · Vienna, Austria · Not yet scouted |
+| Working Title | type.lol | Via type.lol · Antwerp, Belgium · Not yet scouted |
+| Yanone | type.lol | Via type.lol · Germany · Not yet scouted |
+| Yellow Design Studio | type.lol | Via type.lol · Not yet scouted |
+| YMG Type Foundry | type.lol | Via type.lol · Seoul, South Korea · Not yet scouted |
+| Zakznak | type.lol | Via type.lol · Lviv, Ukraine · Not yet scouted |
+| Zapf Alphabets | type.lol | Via type.lol · Germany · Not yet scouted |
+| Zeenesia Studio | type.lol | Via type.lol · Indonesia · Not yet scouted |
