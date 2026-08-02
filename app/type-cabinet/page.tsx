@@ -14,7 +14,7 @@ import {
 } from "@dnd-kit/core";
 import { SortableContext, verticalListSortingStrategy, rectSortingStrategy, arrayMove } from "@dnd-kit/sortable";
 import { Plus } from "lucide-react";
-import { LikedGrid } from "@/components/favourites/liked-grid";
+import { LikedGrid, type CardSize } from "@/components/favourites/liked-grid";
 import { FolderSection } from "@/components/favourites/folder-section";
 import { useFolders } from "@/contexts/folders-context";
 import { useLikes } from "@/contexts/likes-context";
@@ -25,11 +25,13 @@ const allTypefaces = getAllTypefaces().map(toDirectoryEntry);
 type DragInfo = { name: string; foundry: string } | null;
 
 export default function TypeCabinetPage() {
-  const { folders, createFolder, addToFolder, reorderFolders, reorderFontsInFolder } = useFolders();
+  const { folders, createFolder, addToFolder, removeFromFolder, reorderFolders, reorderFontsInFolder } = useFolders();
   const { likes, reorderLikes } = useLikes();
   const [newFolderName, setNewFolderName] = useState("");
   const [creating, setCreating] = useState(false);
   const [dragInfo, setDragInfo] = useState<DragInfo>(null);
+  const [cardSize, setCardSize] = useState<CardSize>("md");
+  const sizeLabels: Record<CardSize, string> = { xs: "XS", sm: "S", md: "M", lg: "L" };
 
   const sensors = useSensors(
     useSensor(PointerSensor, { activationConstraint: { distance: 8 } }),
@@ -91,23 +93,38 @@ export default function TypeCabinetPage() {
       }
     }
 
-    if (activeId.startsWith("FF:") && overId.startsWith("FF:")) {
+    if (activeId.startsWith("FF:")) {
       const activeRest = activeId.slice(3).split(":");
-      const overRest = overId.slice(3).split(":");
       const activeFolderId = parseInt(activeRest[0]);
-      const overFolderId = parseInt(overRest[0]);
-      if (activeFolderId === overFolderId) {
-        const folder = folders.find((f) => f.id === activeFolderId);
-        if (!folder) return;
-        const [aF, aS] = activeRest[1].split("/");
-        const [oF, oS] = overRest[1].split("/");
-        const oldIdx = folder.fonts.findIndex((ff) => ff.foundrySlug === aF && ff.typefaceSlug === aS);
-        const newIdx = folder.fonts.findIndex((ff) => ff.foundrySlug === oF && ff.typefaceSlug === oS);
-        if (oldIdx !== -1 && newIdx !== -1) {
-          reorderFontsInFolder(activeFolderId, arrayMove([...folder.fonts], oldIdx, newIdx));
+      const [aF, aS] = activeRest[1].split("/");
+
+      if (overId.startsWith("FZ:")) {
+        const targetFolderId = parseInt(overId.slice(3));
+        if (targetFolderId !== activeFolderId) {
+          removeFromFolder(activeFolderId, aF, aS);
+          addToFolder(targetFolderId, aF, aS);
         }
+        return;
       }
-      return;
+
+      if (overId.startsWith("FF:")) {
+        const overRest = overId.slice(3).split(":");
+        const overFolderId = parseInt(overRest[0]);
+        if (activeFolderId === overFolderId) {
+          const folder = folders.find((f) => f.id === activeFolderId);
+          if (!folder) return;
+          const [oF, oS] = overRest[1].split("/");
+          const oldIdx = folder.fonts.findIndex((ff) => ff.foundrySlug === aF && ff.typefaceSlug === aS);
+          const newIdx = folder.fonts.findIndex((ff) => ff.foundrySlug === oF && ff.typefaceSlug === oS);
+          if (oldIdx !== -1 && newIdx !== -1) {
+            reorderFontsInFolder(activeFolderId, arrayMove([...folder.fonts], oldIdx, newIdx));
+          }
+        } else {
+          removeFromFolder(activeFolderId, aF, aS);
+          addToFolder(overFolderId, aF, aS);
+        }
+        return;
+      }
     }
 
     if (activeId.startsWith("F:") && overId.startsWith("F:")) {
@@ -143,16 +160,31 @@ export default function TypeCabinetPage() {
                 <span className="ml-2 text-sm font-normal text-muted-foreground">{likes.length}</span>
               )}
             </h1>
+            <div className="flex items-center gap-0.5 rounded-full border-[0.5px] border-border p-0.5">
+              {(["xs", "sm", "md", "lg"] as const).map((s) => (
+                <button
+                  key={s}
+                  onClick={() => setCardSize(s)}
+                  className={`px-2.5 py-0.5 text-xs rounded-full transition-colors ${
+                    cardSize === s
+                      ? "bg-foreground text-background"
+                      : "text-muted-foreground hover:text-foreground"
+                  }`}
+                >
+                  {sizeLabels[s]}
+                </button>
+              ))}
+            </div>
           </div>
           <SortableContext items={likedIds} strategy={rectSortingStrategy}>
-            <LikedGrid typefaces={likedTypefaces as NonNullable<typeof likedTypefaces[0]>[]} />
+            <LikedGrid typefaces={likedTypefaces as NonNullable<typeof likedTypefaces[0]>[]} cardSize={cardSize} />
           </SortableContext>
         </section>
 
         {/* Folders */}
         <section>
           <div className="flex items-center justify-between mb-6">
-            <h2 className="text-lg font-bold">Folders</h2>
+            <h2 className="text-lg font-bold">Drawers</h2>
             {creating ? (
               <div className="flex items-center gap-2">
                 <input
@@ -163,7 +195,7 @@ export default function TypeCabinetPage() {
                     if (e.key === "Enter") handleCreate();
                     if (e.key === "Escape") { setCreating(false); setNewFolderName(""); }
                   }}
-                  placeholder="Folder name"
+                  placeholder="Drawer name"
                   className="text-sm border-[0.5px] border-border rounded-md px-3 py-1.5 bg-background outline-none focus:ring-1 ring-foreground"
                 />
                 <button
@@ -179,14 +211,14 @@ export default function TypeCabinetPage() {
                 className="flex items-center gap-1.5 text-sm px-3 py-1.5 rounded-full border-[0.5px] border-border hover:bg-muted transition-colors"
               >
                 <Plus className="h-3.5 w-3.5" />
-                New folder
+                New drawer
               </button>
             )}
           </div>
 
           {folders.length === 0 && !creating && (
             <p className="text-sm text-muted-foreground">
-              No folders yet. Create one, or drag a liked font onto a folder.
+              No drawers yet. Create one, or drag a liked font onto a drawer.
             </p>
           )}
 
@@ -196,7 +228,7 @@ export default function TypeCabinetPage() {
           >
             <div className="space-y-10">
               {folders.map((folder) => (
-                <FolderSection key={folder.id} folder={folder} />
+                <FolderSection key={folder.id} folder={folder} cardSize={cardSize} />
               ))}
             </div>
           </SortableContext>

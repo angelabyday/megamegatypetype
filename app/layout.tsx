@@ -45,7 +45,18 @@ export default function RootLayout({
         <script dangerouslySetInnerHTML={{__html: `(function(){var s=localStorage.getItem('theme'),d=window.matchMedia('(prefers-color-scheme:dark)').matches;if(s==='dark'||(s===null&&d))document.documentElement.classList.add('dark');})()`}} />
       </head>
       <body className="min-h-full flex flex-col bg-background text-foreground overflow-x-hidden">
-        <ClerkProvider appearance={{ theme: shadcn }}>
+        <ClerkProvider appearance={{
+          theme: shadcn,
+          variables: {
+            borderRadius: "0.25rem",
+            fontFamily: "system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+          },
+          elements: {
+            userButtonPopoverCard: "shadow-sm border-[0.5px] border-border",
+            userButtonPopoverActionButton: "text-sm rounded-sm hover:bg-muted",
+            userButtonPopoverFooter: "border-t-[0.5px] border-border",
+          },
+        }}>
           <LikesProvider>
           <FoldersProvider>
           <CompareProvider>

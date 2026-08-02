@@ -140,3 +140,11 @@
     @apply font-sans;
   }
 }
+
+/* Clerk UserButton avatar — force b&w to match site aesthetic */
+.cl-userButtonAvatarImage {
+  filter: grayscale(1) contrast(100);
+}
+.dark .cl-userButtonAvatarImage {
+  filter: grayscale(1) contrast(100) invert(1);
+}

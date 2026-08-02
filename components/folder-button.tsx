@@ -65,7 +65,7 @@ export function FolderButton({ foundrySlug, typefaceSlug, className }: FolderBut
       <button
         type="button"
         onClick={handleClick}
-        aria-label="Add to folder"
+        aria-label="Add to drawer"
         className={cn(
           "flex h-7 w-7 items-center justify-center rounded-full transition-all",
           open
@@ -85,7 +85,7 @@ export function FolderButton({ foundrySlug, typefaceSlug, className }: FolderBut
           {folders.length > 0 && (
             <>
               <p className="px-3 pt-1.5 pb-1 text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
-                Add to folder
+                Add to drawer
               </p>
               {folders.map((f) => (
                 <button
@@ -111,7 +111,7 @@ export function FolderButton({ foundrySlug, typefaceSlug, className }: FolderBut
                   if (e.key === "Enter") handleCreateAndAdd(e);
                   if (e.key === "Escape") { setCreating(false); setNewName(""); }
                 }}
-                placeholder="Folder name"
+                placeholder="Drawer name"
                 className="flex-1 min-w-0 text-sm bg-transparent outline-none border-b border-border py-0.5"
               />
               <button
@@ -127,7 +127,7 @@ export function FolderButton({ foundrySlug, typefaceSlug, className }: FolderBut
               className="w-full text-left px-3 py-1.5 text-sm hover:bg-muted transition-colors flex items-center gap-2 text-muted-foreground"
             >
               <FolderPlus className="h-3.5 w-3.5 shrink-0" />
-              Create folder &amp; add
+              Create drawer &amp; add
             </button>
           )}
         </div>

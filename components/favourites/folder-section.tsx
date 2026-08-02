@@ -9,6 +9,17 @@ import { useFolders, type Folder } from "@/contexts/folders-context";
 import { TypefaceCard } from "@/components/typeface-card";
 import { getAllTypefaces, toDirectoryEntry } from "@/lib/typefaces";
 import type { DirectoryEntry } from "@/lib/typefaces";
+import { type CardSize, gridClass } from "@/components/favourites/liked-grid";
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+} from "@/components/ui/alert-dialog";
 
 const allTypefaces = getAllTypefaces().map(toDirectoryEntry);
 
@@ -16,11 +27,14 @@ function SortableFolderFont({
   typeface,
   folderId,
   onRemove,
+  size,
 }: {
   typeface: DirectoryEntry;
   folderId: number;
   onRemove: () => void;
+  size?: CardSize;
 }) {
+  const [confirmOpen, setConfirmOpen] = useState(false);
   const {
     attributes,
     listeners,
@@ -34,33 +48,50 @@ function SortableFolderFont({
   });
 
   return (
-    <div
-      ref={setNodeRef}
-      style={{
-        transform: CSS.Transform.toString(transform),
-        transition,
-        opacity: isDragging ? 0.25 : 1,
-      }}
-      className="relative touch-none"
-    >
-      <div {...listeners} {...attributes} className="cursor-grab active:cursor-grabbing">
-        <TypefaceCard typeface={typeface} />
-      </div>
-      <button
-        onClick={onRemove}
-        className="absolute top-2 right-2 z-20 rounded-full bg-background/80 p-1 text-muted-foreground hover:text-foreground transition-colors"
-        aria-label="Remove from folder"
+    <>
+      <div
+        ref={setNodeRef}
+        style={{
+          transform: CSS.Transform.toString(transform),
+          transition,
+          opacity: isDragging ? 0.25 : 1,
+        }}
+        className="group relative touch-none"
       >
-        <X className="h-3 w-3" />
-      </button>
-    </div>
+        <div {...listeners} {...attributes} className="cursor-grab active:cursor-grabbing">
+          <TypefaceCard typeface={typeface} size={size} />
+        </div>
+        <button
+          onClick={(e) => { e.stopPropagation(); setConfirmOpen(true); }}
+          className="absolute top-2 right-[6.5rem] z-20 flex h-7 w-7 items-center justify-center rounded-full bg-background/80 text-foreground opacity-0 group-hover:opacity-100 transition-all"
+          aria-label="Remove from drawer"
+        >
+          <X className="h-3.5 w-3.5" />
+        </button>
+      </div>
+      <AlertDialog open={confirmOpen} onOpenChange={setConfirmOpen}>
+        <AlertDialogContent>
+          <AlertDialogHeader>
+            <AlertDialogTitle>Remove from drawer?</AlertDialogTitle>
+            <AlertDialogDescription>
+              {typeface.name} will be removed from this drawer. The font stays in your liked fonts.
+            </AlertDialogDescription>
+          </AlertDialogHeader>
+          <AlertDialogFooter>
+            <AlertDialogCancel>Cancel</AlertDialogCancel>
+            <AlertDialogAction onClick={onRemove}>Remove</AlertDialogAction>
+          </AlertDialogFooter>
+        </AlertDialogContent>
+      </AlertDialog>
+    </>
   );
 }
 
-export function FolderSection({ folder }: { folder: Folder }) {
+export function FolderSection({ folder, cardSize = "md" }: { folder: Folder; cardSize?: CardSize }) {
   const { renameFolder, deleteFolder, removeFromFolder } = useFolders();
   const [editing, setEditing] = useState(false);
   const [nameValue, setNameValue] = useState(folder.name);
+  const [deleteFolderOpen, setDeleteFolderOpen] = useState(false);
 
   const { setNodeRef: setDropRef, isOver } = useDroppable({
     id: `FZ:${folder.id}`,
@@ -107,7 +138,7 @@ export function FolderSection({ folder }: { folder: Folder }) {
           className="text-muted-foreground hover:text-foreground cursor-grab active:cursor-grabbing"
           {...attributes}
           {...listeners}
-          aria-label="Drag to reorder folder"
+          aria-label="Drag to reorder drawer"
         >
           <GripVertical className="h-4 w-4" />
         </button>
@@ -137,18 +168,14 @@ export function FolderSection({ folder }: { folder: Folder }) {
             <button
               onClick={() => setEditing(true)}
               className="text-muted-foreground hover:text-foreground"
-              aria-label="Rename folder"
+              aria-label="Rename drawer"
             >
               <Pencil className="h-3.5 w-3.5" />
             </button>
             <button
-              onClick={() => {
-                if (confirm(`Delete folder "${folder.name}"? Fonts inside will not be deleted.`)) {
-                  deleteFolder(folder.id);
-                }
-              }}
+              onClick={() => setDeleteFolderOpen(true)}
               className="text-muted-foreground hover:text-red-500"
-              aria-label="Delete folder"
+              aria-label="Delete drawer"
             >
               <Trash2 className="h-3.5 w-3.5" />
             </button>
@@ -161,7 +188,7 @@ export function FolderSection({ folder }: { folder: Folder }) {
         ref={setDropRef}
         className={`min-h-24 rounded-xl border-[0.5px] transition-colors ${
           isOver
-            ? "border-foreground bg-foreground/10"
+            ? "border-foreground bg-black/10 dark:bg-white/15"
             : fonts.length === 0
             ? "border-dashed border-border"
             : "border-transparent"
@@ -169,23 +196,39 @@ export function FolderSection({ folder }: { folder: Folder }) {
       >
         {fonts.length === 0 ? (
           <p className="text-xs text-muted-foreground text-center py-8">
-            Drag fonts here
+            Drag fonts into this drawer
           </p>
         ) : (
           <SortableContext items={fontIds} strategy={rectSortingStrategy}>
-            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            <div className={gridClass[cardSize]}>
               {fonts.map((typeface) => (
                 <SortableFolderFont
                   key={`${typeface.foundrySlug}/${typeface.slug}`}
                   typeface={typeface}
                   folderId={folder.id}
                   onRemove={() => removeFromFolder(folder.id, typeface.foundrySlug, typeface.slug)}
+                  size={cardSize}
                 />
               ))}
             </div>
           </SortableContext>
         )}
       </div>
+
+      <AlertDialog open={deleteFolderOpen} onOpenChange={setDeleteFolderOpen}>
+        <AlertDialogContent>
+          <AlertDialogHeader>
+            <AlertDialogTitle>Delete &ldquo;{folder.name}&rdquo;?</AlertDialogTitle>
+            <AlertDialogDescription>
+              The drawer will be deleted. Fonts inside will not be removed from your liked fonts.
+            </AlertDialogDescription>
+          </AlertDialogHeader>
+          <AlertDialogFooter>
+            <AlertDialogCancel>Cancel</AlertDialogCancel>
+            <AlertDialogAction onClick={() => deleteFolder(folder.id)}>Delete</AlertDialogAction>
+          </AlertDialogFooter>
+        </AlertDialogContent>
+      </AlertDialog>
     </div>
   );
 }

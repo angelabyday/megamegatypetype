@@ -6,12 +6,13 @@ import { LikeButton } from "@/components/like-button";
 import { FolderButton } from "@/components/folder-button";
 import specimens from "@/lib/specimens.json";
 import type { DirectoryEntry } from "@/lib/typefaces";
+import type { CardSize } from "@/components/favourites/liked-grid";
 
 export function hasSpecimen(foundrySlug: string, slug: string): boolean {
   return Boolean((specimens as Record<string, boolean>)[`${foundrySlug}/${slug}`]);
 }
 
-export function TypefaceCard({ typeface, priority }: { typeface: DirectoryEntry; priority?: boolean }) {
+export function TypefaceCard({ typeface, priority, size = "md" }: { typeface: DirectoryEntry; priority?: boolean; size?: CardSize }) {
   const specimen = hasSpecimen(typeface.foundrySlug, typeface.slug);
   const detailUrl = `/t/${typeface.foundrySlug}/${typeface.slug}`;
 
@@ -22,6 +23,10 @@ export function TypefaceCard({ typeface, priority }: { typeface: DirectoryEntry;
     foundry: typeface.foundry,
     hasSpecimen: specimen,
   };
+
+  const pad = size === "xs" ? "p-2" : size === "sm" ? "p-3" : size === "lg" ? "p-5" : "p-4";
+  const nameSize = size === "xs" || size === "sm" ? "text-xs font-bold" : size === "lg" ? "text-lg font-bold" : "font-bold";
+  const metaSize = size === "sm" ? "text-xs" : "text-sm";
 
   return (
     <div className="relative group border-[0.5px] border-border overflow-hidden rounded-[12px]">
@@ -54,18 +59,20 @@ export function TypefaceCard({ typeface, priority }: { typeface: DirectoryEntry;
             />
           </div>
         )}
-        <div className="p-4">
+        <div className={pad}>
           <div className="flex items-start justify-between gap-2">
-            <span className="font-bold">{typeface.name}</span>
+            <span className={nameSize}>{typeface.name}</span>
             <Badge className="shrink-0 rounded-full bg-foreground text-background hover:bg-foreground">
               {typeface.category}
             </Badge>
           </div>
-          <div className="mt-0.5 text-sm text-muted-foreground">
-            {typeface.foundry}
-            {typeface.year ? ` · ${typeface.year}` : ""}
-          </div>
-          {typeface.tags.length > 0 && (
+          {size !== "xs" && (
+            <div className={`mt-0.5 ${metaSize} text-muted-foreground`}>
+              {typeface.foundry}
+              {typeface.year ? ` · ${typeface.year}` : ""}
+            </div>
+          )}
+          {size !== "xs" && size !== "sm" && typeface.tags.length > 0 && (
             <div className="mt-2 flex flex-wrap gap-1">
               {typeface.tags.slice(0, 3).map((tag) => (
                 <span

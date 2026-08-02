@@ -53,7 +53,7 @@ export function NavMenu() {
           <UserButton
             appearance={{
               elements: {
-                avatarBox: "ring-1 ring-border",
+                userButtonAvatarBox: "h-7 w-7 ring-1 ring-border",
               },
             }}
           >
