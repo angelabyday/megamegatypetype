@@ -4,7 +4,6 @@ import a2Type from "@/data/typefaces-a2-type.json";
 import allcaps from "@/data/typefaces-allcaps.json";
 import almarena from "@/data/typefaces-almarena.json";
 import arillatype from "@/data/typefaces-arillatype.json";
-import atipo from "@/data/typefaces-atipo.json";
 import baltoTypeSupply from "@/data/typefaces-balto-type-supply.json";
 import bastarda from "@/data/typefaces-bastarda.json";
 import bigFogFoundry from "@/data/typefaces-big-fog-foundry.json";
@@ -29,19 +28,16 @@ import dinamo from "@/data/typefaces-dinamo-typefaces.json";
 import displaay from "@/data/typefaces-displaay-type-foundry.json";
 import dueStudio from "@/data/typefaces-due-studio.json";
 import extraset from "@/data/typefaces-extraset.json";
-import f37 from "@/data/typefaces-f37.json";
 import faireType from "@/data/typefaces-faire-type.json";
 import fatype from "@/data/typefaces-fatype.json";
 import fontwerk from "@/data/typefaces-fontwerk.json";
 import frost from "@/data/typefaces-frost.json";
 import generalTypeStudio from "@/data/typefaces-general-type-studio.json";
 import gradient from "@/data/typefaces-gradient.json";
-import grilli from "@/data/typefaces-grilli.json";
 import grotesklyYours from "@/data/typefaces-groteskly-yours.json";
 import hoefler from "@/data/typefaces-hoefler.json";
 import intervalType from "@/data/typefaces-interval-type.json";
 import kilotype from "@/data/typefaces-kilotype.json";
-import klim from "@/data/typefaces-klim.json";
 import kometaTypefaces from "@/data/typefaces-kometa-typefaces.json";
 import kurppaHoskType from "@/data/typefaces-kurppa-hosk-type.json";
 import leinsterType from "@/data/typefaces-leinster-type.json";
@@ -218,7 +214,6 @@ import boldDecisions from "@/data/typefaces-bold-decisions.json";
 import bolidSystem from "@/data/typefaces-bolid-system.json";
 import briefcaseTypeFoundry from "@/data/typefaces-briefcase-type-foundry.json";
 import brownfox from "@/data/typefaces-brownfox.json";
-import bureauBlamage from "@/data/typefaces-bureau-blamage.json";
 import cantrellType from "@/data/typefaces-cantrell-type.json";
 import capeArcona from "@/data/typefaces-cape-arcona.json";
 import carmelType from "@/data/typefaces-carmel-type.json";
@@ -374,8 +369,6 @@ import burrowLab from "@/data/typefaces-burrow-lab.json";
 import chillType from "@/data/typefaces-chill-type.json";
 import dariaCohen from "@/data/typefaces-daria-cohen.json";
 import daytonaMess from "@/data/typefaces-daytona-mess.json";
-import dinamoNew from "@/data/typefaces-dinamo.json";
-import displaayNew from "@/data/typefaces-displaay.json";
 import duongTran from "@/data/typefaces-duong-tran.json";
 import f37Foundry from "@/data/typefaces-f37-foundry.json";
 import familiarFaces from "@/data/typefaces-familiar-faces.json";
@@ -395,13 +388,10 @@ import leonHugues from "@/data/typefaces-leon-hugues.json";
 import lettersetal from "@/data/typefaces-lettersetal.json";
 import loveLetters from "@/data/typefaces-love-letters.json";
 import morulaType from "@/data/typefaces-morula-type.json";
-import pangramPangramNew from "@/data/typefaces-pangram-pangram.json";
 import resistenzaType from "@/data/typefaces-resistenza-type.json";
 import rudiger from "@/data/typefaces-rudiger.json";
 import sharpType from "@/data/typefaces-sharp-type.json";
-import spaceType from "@/data/typefaces-space-type.json";
 import spaghetype from "@/data/typefaces-spaghetype.json";
-import studioFeixenNew from "@/data/typefaces-studio-feixen.json";
 import teaser from "@/data/typefaces-teaser.json";
 import undt from "@/data/typefaces-undt.json";
 import weLoveFonts from "@/data/typefaces-we-love-fonts.json";
@@ -561,7 +551,6 @@ export function getAllTypefaces(): Typeface[] {
         allcaps,
         almarena,
         arillatype,
-        atipo,
         baltoTypeSupply,
         bastarda,
         bigFogFoundry,
@@ -586,19 +575,16 @@ export function getAllTypefaces(): Typeface[] {
         displaay,
         dueStudio,
         extraset,
-        f37,
         faireType,
         fatype,
         fontwerk,
         frost,
         generalTypeStudio,
         gradient,
-        grilli,
         grotesklyYours,
         hoefler,
         intervalType,
         kilotype,
-        klim,
         kometaTypefaces,
         kurppaHoskType,
         leinsterType,
@@ -776,7 +762,6 @@ export function getAllTypefaces(): Typeface[] {
         bolidSystem,
         briefcaseTypeFoundry,
         brownfox,
-        bureauBlamage,
         cantrellType,
         capeArcona,
         carmelType,
@@ -920,8 +905,6 @@ export function getAllTypefaces(): Typeface[] {
         chillType,
         dariaCohen,
         daytonaMess,
-        dinamoNew,
-        displaayNew,
         duongTran,
         f37Foundry,
         familiarFaces,
@@ -941,13 +924,10 @@ export function getAllTypefaces(): Typeface[] {
         lettersetal,
         loveLetters,
         morulaType,
-        pangramPangramNew,
         resistenzaType,
         rudiger,
         sharpType,
-        spaceType,
         spaghetype,
-        studioFeixenNew,
         teaser,
         undt,
         weLoveFonts,

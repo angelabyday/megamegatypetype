@@ -22,6 +22,18 @@ Read SPEC.md before doing anything. It explains the project and the data.
 
 `data/typefaces-*.json` — one file per foundry. Same schema across all. Merge into a single in-memory list on app start.
 
+### Data quality rules for indexing
+
+When indexing a foundry, only add entries that are actual typefaces. Never index:
+
+- Site navigation or legal pages (About, Contact, Cookie Policy, Privacy Policy, EULA, Licensing, Imprint, Sitemap, Copyright, Client Area, Support, Newsletter, Gallery, Publications, Admin).
+- "In use" or "Fonts in use" showcase pages.
+- Test font or trial font download pages.
+- Font bundles or multi-font packs. The individual fonts get their own entries; bundles are duplicates.
+- The foundry itself as an entry (a page titled with the foundry's own name), unless the foundry genuinely sells a typeface named after itself (e.g. Almarena).
+
+Specimen screenshots must show the typeface. Reject screenshots of cookie banners, consent walls, Cloudflare checks, error pages, blank pages, language-coverage maps or unrendered canvases, and rescrape.
+
 Schema (per entry):
 
 ```ts

@@ -34,40 +34,6 @@
     "foundry_blurb": "Workhorse Type Foundry's resources page collects short articles on type and design craft, covering subjects including drawing good curves, optical weighting for visual consistency, generating typographic systems and the rationale behind kerning."
   },
   {
-    "name": "Test Fonts",
-    "foundry": "Workhorse Type Foundry",
-    "url": "https://workhorse.studio/pages/test-fonts",
-    "designer": null,
-    "year": null,
-    "category": "sans-serif",
-    "subcategory": "grotesque",
-    "classification_notes": "The page does not describe a specific typeface; it is a trial font download page for the entire Workhorse Type Foundry retail catalogue. No category can be reliably assigned.",
-    "weights": [],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Test Fonts"
-    ],
-    "has_condensed": false,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "trial",
-      "specimen",
-      "download",
-      "workhorse"
-    ],
-    "summary": "A bundled trial font package offering limited-character versions of all Workhorse Type Foundry retail fonts for design mockups.",
-    "description": "The package provides OTF and WOFF2 trial files covering the full Workhorse retail catalogue in a single 7.6MB download. Character sets are restricted, making the fonts suitable for print, web and app mockups rather than production use. Access requires agreeing to the Test Font Licence Agreement and providing an email address.",
-    "foundry_blurb": "Workhorse offer a single download containing trial versions of all their retail fonts, intended for mocking up print, web and app designs. Files are provided in OTF and WOFF2 formats with a limited character set, and the package weighs in at 7.6MB."
-  },
-  {
     "name": "Custom Type",
     "foundry": "Workhorse Type Foundry",
     "url": "https://workhorse.studio/pages/custom-type",

@@ -1,335 +1,5 @@
 [
   {
-    "name": "Calibre",
-    "url": "https://klim.co.nz/retail-fonts/calibre/",
-    "category": "sans-serif",
-    "subcategory": "Neo-grotesque",
-    "classification_notes": "Geometric neo-grotesque in the rationalist tradition. Draws directly from Aldo Novarese's Recta (Nebiolo, late 1950s), refining its logic without its original optical over-corrections. Shares a fundamental geometric skeleton with its sister typeface Metric, but applies sharper, more rationalist letterform finishes where Metric opts for humanist softness. Classified as Modern Lineal / Neo-grotesque.",
-    "weights": [
-      "Thin",
-      "Thin Italic",
-      "Light",
-      "Light Italic",
-      "Regular",
-      "Regular Italic",
-      "Medium",
-      "Medium Italic",
-      "Semibold",
-      "Semibold Italic",
-      "Bold",
-      "Bold Italic",
-      "Black",
-      "Black Italic"
-    ],
-    "optical_sizes_or_widths": [],
-    "subfamilies": [],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "English",
-      "French",
-      "German",
-      "Spanish",
-      "Portuguese",
-      "Italian",
-      "Dutch",
-      "Swedish",
-      "Norwegian",
-      "Danish",
-      "Finnish",
-      "Polish",
-      "Czech",
-      "Slovak",
-      "Hungarian",
-      "Romanian",
-      "Latin Extended"
-    ],
-    "tier": "best",
-    "tags": [
-      "neo-grotesque",
-      "geometric",
-      "rationalist",
-      "editorial",
-      "corporate",
-      "contemporary",
-      "versatile",
-      "Swiss-influenced",
-      "sans-serif"
-    ],
-    "summary": "A geometric neo-grotesque by Kris Sowersby that channels the rationalist precision of Aldo Novarese's Recta, sharpened into a crisp, contemporary workhorse available in seven weights.",
-    "description": "Designed by Kris Sowersby and released in 2011, Calibre takes the rationalist logic of Nebiolo's late-1950s Recta as its starting point, correcting that typeface's awkward branching and optical over-corrections into something leaner and more precise. It shares an underlying geometric framework with its sister face Metric but diverges at the letterform details, landing firmly in the rationalist camp of the neo-grotesque tradition. Running from Thin to Black with matching italics across all seven weights, it is a thorough workhorse equally at home in editorial, UI and corporate settings.",
-    "foundry_blurb": "Calibre is a geometric neo-grotesque drawing from the rationalist tradition of Aldo Novarese's Recta, a rarely seen late-1950s typeface produced by a team at the now-defunct Nebiolo foundry. Where Recta was held back by over-correction and awkward branching, Calibre refines that underlying logic into something crisp and contemporary. It shares a fundamental geometry with its sister typeface Metric but applies letterforms from a distinct rationalist tradition, making the two complementary but fully independent families.",
-    "designer": "Kris Sowersby",
-    "year": 2011,
-    "foundry": "Klim Type Foundry",
-    "type": "foundry"
-  },
-  {
-    "name": "Feijoa",
-    "url": "https://klim.co.nz/retail-fonts/feijoa/",
-    "category": "serif",
-    "subcategory": "Garalde / Old Style",
-    "classification_notes": "Garalde (Aldine) oldstyle serif, classified by Klim as Modern: Garalde/Oldstyle. Deliberately curvaceous letterforms with all sharp angles resolved into gentle curves. Four styles spanning a Display cut (headline-optimised, 16pt and above) and text weights in Medium and Bold with accompanying italic. Klim's inaugural typeface.",
-    "weights": [
-      "Display",
-      "Medium",
-      "Medium Italic",
-      "Bold"
-    ],
-    "optical_sizes_or_widths": [
-      "Display (headline, 16pt+)",
-      "Text (book and extended reading)"
-    ],
-    "subfamilies": [],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Western European Latin",
-      "Central European Latin",
-      "Baltic Latin"
-    ],
-    "tier": "best",
-    "tags": [
-      "serif",
-      "garalde",
-      "oldstyle",
-      "humanist",
-      "text",
-      "book",
-      "editorial",
-      "display",
-      "literary",
-      "warm",
-      "curvaceous",
-      "ligatures",
-      "inaugural"
-    ],
-    "summary": "Klim's debut release: a warm Garalde serif built on the principle that a straight line is a dead line, with deliberately curvaceous letterforms across a text range and a headline-specific Display cut.",
-    "description": "Feijoa was the first typeface issued by Klim Type Foundry, released in 2007. Designed by Kris Sowersby, it takes a Garalde oldstyle structure and resolves every sharp angle into a gentle curve, humanising the letterforms without undermining their authority at text sizes. The family runs to four styles spanning a text range (Medium and Bold) and a Display cut drawn for 16pt and above, with fanciful ligatures inspired by Zuzana Licko's Mrs Eaves adding an extra layer of typographic warmth.",
-    "foundry_blurb": "Feijoa is built on the idea that a straight line is a dead line. The result is warm, curvaceous letterforms that sidestep the sharp angles which can harm digital typefaces, giving the overall impression a distinctly human quality. The core family — Medium, Italic and Bold — suits book typography and extended reading; the Display weight is drawn specifically for headlines at 16pt and above. All styles include fanciful ligatures and a suite of OpenType features including small caps, multiple stylistic sets and contextual alternates.",
-    "designer": "Kris Sowersby",
-    "year": 2007,
-    "foundry": "Klim Type Foundry",
-    "type": "foundry"
-  },
-  {
-    "name": "Family",
-    "url": "https://klim.co.nz/retail-fonts/family/",
-    "category": "serif",
-    "subcategory": "Oldstyle serif",
-    "classification_notes": "Oldstyle serif revival of Clearface (ATF, 1907, Morris Fuller Benton and Linn Boyd Benton). Retains Clearface's elliptical terminals, open single-storey 'g', sloped 'e' crossbar and strong thick-thin contrast. Serifs are thin slabs on thick strokes, bracketed on thin strokes – a structural trait inherited from the original. Variable font weight axis 300–900.",
-    "weights": [
-      "Light",
-      "Light Italic",
-      "Regular",
-      "Italic",
-      "Medium",
-      "Medium Italic",
-      "Bold",
-      "Bold Italic",
-      "Heavy",
-      "Heavy Italic",
-      "Black",
-      "Black Italic"
-    ],
-    "optical_sizes_or_widths": [],
-    "subfamilies": [],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Albanian",
-      "Basque",
-      "Bosnian",
-      "Catalan",
-      "Croatian",
-      "Czech",
-      "Danish",
-      "Dutch",
-      "English",
-      "Estonian",
-      "Finnish",
-      "French",
-      "German",
-      "Hungarian",
-      "Icelandic",
-      "Irish",
-      "Italian",
-      "Latvian",
-      "Lithuanian",
-      "Macedonian",
-      "Norwegian",
-      "Polish",
-      "Portuguese",
-      "Romanian",
-      "Slovak",
-      "Slovenian",
-      "Spanish",
-      "Swedish",
-      "Turkish",
-      "Welsh"
-    ],
-    "tier": "best",
-    "tags": [
-      "revival",
-      "clearface",
-      "oldstyle",
-      "everyday",
-      "text",
-      "warm",
-      "editorial",
-      "american",
-      "ATF",
-      "historical",
-      "humanist",
-      "variable"
-    ],
-    "summary": "Kris Sowersby's 2023 revival of Clearface, keeping the 1907 ATF original's elliptical terminals and informal warmth while reworking anything that didn't survive the digital transition cleanly.",
-    "description": "Family takes Morris Fuller Benton's 1907 Clearface as its source, preserving the easy-going curves, elliptical terminals and open single-storey 'g' that give the original its character. Sowersby keeps deliberate idiosyncrasies – the sloped 'e' crossbar, the consistent f and j overhang – while quietly resolving the strokes on A, V and W that never translated well into digital. Six weights with matching italics and a variable font axis make it practical across text and display sizes.",
-    "foundry_blurb": "Family is an everyday typeface based on Clearface, originally designed by father and son Morris Fuller and Linn Boyd Benton. It keeps Clearface's easy-going curves and idiosyncrasies while updating it for modern use.",
-    "designer": "Kris Sowersby",
-    "year": 2023,
-    "foundry": "Klim Type Foundry",
-    "type": "foundry"
-  },
-  {
-    "name": "Die Grotesk",
-    "url": "https://klim.co.nz/retail-fonts/die-grotesk/",
-    "category": "sans-serif",
-    "subcategory": "Neo-grotesque",
-    "classification_notes": "Modern neo-grotesque drawn in deliberate dialogue with Helvetica and Neue Haas Grotesk; informed by original metal specimens and Massimo Vignelli's tight-spacing approach to lockups and logotypes. Klim's first retail variable font, with continuous weight (100–900) and optical size (6–42pt) axes. Four discrete optical-size cuts (A through D) replace conventional tracking adjustments across body and display use.",
-    "weights": [
-      "Hairline",
-      "Thin",
-      "Light",
-      "Regular",
-      "Medium",
-      "Bold",
-      "Black",
-      "Heavy"
-    ],
-    "optical_sizes_or_widths": [
-      "A (body, 10px+)",
-      "B (30px+)",
-      "C (60px+)",
-      "D (display, 90px+)"
-    ],
-    "subfamilies": [
-      "Die Grotesk A",
-      "Die Grotesk B",
-      "Die Grotesk C",
-      "Die Grotesk D"
-    ],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Extended Latin"
-    ],
-    "tier": "best",
-    "designer": "Kris Sowersby",
-    "year": 2025,
-    "tags": [
-      "neo-grotesque",
-      "variable",
-      "helvetica-influenced",
-      "display",
-      "text",
-      "optical-sizes",
-      "swiss",
-      "modernist",
-      "tight-spacing",
-      "grotesk"
-    ],
-    "summary": "Klim's first retail variable font – a neo-grotesque in direct dialogue with Helvetica, built across four optical-size cuts and eight weights in roman and italic.",
-    "description": "Designed by Kris Sowersby and released in 2025, Die Grotesk draws from original metal specimens of Neue Haas Grotesk and the rigour of modernist masters to engage Helvetica's legacy rather than sidestep it. Four optical-size subfamilies (A through D) provide purposeful spacing calibrated from dense body copy to tight display lockups, replacing crude tracking adjustments with precision engineered into the letterforms. A continuous weight axis (100–900) and optical size axis (6–42pt) give designers exacting control over typographic texture at every scale.",
-    "foundry_blurb": "Shaped in the long shadow of Helvetica, Die Grotesk draws from the study of original metal cuts and the rigour of modernist masters. Its variable axes give precise control of weight and letter spacing across every size, built to handle the tension between reverence for an iconic grotesk tradition and the practical demands of contemporary design. Engineered with manual VTT hinting and 22,165 manual kerning pairs per style, it meets the exacting standards Klim applies to every retail release.",
-    "foundry": "Klim Type Foundry",
-    "type": "foundry"
-  },
-  {
-    "name": "Epicene Display",
-    "url": "https://klim.co.nz/retail-fonts/epicene-display/",
-    "category": "serif",
-    "subcategory": "baroque old-style",
-    "classification_notes": "Baroque Old-Style drawing from 18th-century Dutch masters Jacques-François Rosart (1714–1777) and Johann Michael Fleischmann (1707–1768); not a revival but a modernisation, synthesising Rosart's exaggerated geometric capitals with Fleischmann's ink-pooled, small-text sensibility; signature scalloped serifs combine the smooth inner curve from Rosart with the sharp outer scallop from Fleischmann, adapted to function across the full character set at both body and display sizes; available as two optical cuts – Display and Text – each with five weights and matching italics.",
-    "weights": [
-      "Light",
-      "Light Italic",
-      "Regular",
-      "Regular Italic",
-      "Medium",
-      "Medium Italic",
-      "Bold",
-      "Bold Italic",
-      "Black",
-      "Black Italic"
-    ],
-    "optical_sizes_or_widths": [
-      "Display",
-      "Text"
-    ],
-    "subfamilies": [
-      "Epicene Display",
-      "Epicene Text"
-    ],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "English",
-      "French",
-      "German",
-      "Spanish",
-      "Italian",
-      "Portuguese",
-      "Dutch",
-      "Danish",
-      "Norwegian",
-      "Swedish",
-      "Finnish",
-      "Icelandic",
-      "Polish",
-      "Czech",
-      "Slovak",
-      "Hungarian",
-      "Romanian",
-      "Croatian",
-      "Slovenian",
-      "Estonian",
-      "Latvian",
-      "Lithuanian",
-      "Turkish",
-      "Welsh",
-      "Afrikaans",
-      "Albanian"
-    ],
-    "tier": "best",
-    "tags": [
-      "baroque",
-      "old-style",
-      "editorial",
-      "cultural",
-      "display",
-      "historical",
-      "award-winning",
-      "gender-neutral",
-      "dutch taste",
-      "scalloped serifs",
-      "18th-century",
-      "sowersby"
-    ],
-    "summary": "A Baroque Old-Style serif in two optical cuts, synthesising the work of 18th-century Dutch masters Rosart and Fleischmann, with the cultural argument baked into its name: typefaces carry no gender.",
-    "description": "Released in September 2021, Epicene exists as Display and Text cuts, each offering five weights with matching italics. Kris Sowersby drew from Rosart's exaggerated geometric capitals and Fleischmann's ink-dense, small-text italics, arriving at a distinctive scalloped serif that sits at the crossing of both designers' sensibilities and reads with equal conviction at headline and body sizes. The name comes from Susan Sontag's \"Notes on Camp\" – epicene meaning lacking gender distinction – a deliberate pushback against the long-held coding of ornamental type as feminine and functional forms as masculine.",
-    "foundry_blurb": "Epicene Text and Display are Baroque typefaces inspired by 18th-century maestros J-F. Rosart and J.M. Fleischmann. Exaggerated details add rigour at small sizes and vigour at large sizes. The collection's cultural statement: typefaces have no gender.",
-    "designer": "Kris Sowersby",
-    "year": 2021,
-    "foundry": "Klim Type Foundry",
-    "type": "foundry"
-  },
-  {
     "name": "American Grotesk",
     "url": "https://klim.co.nz/retail-fonts/american-grotesk/",
     "category": "sans-serif",
@@ -417,77 +87,215 @@
     "type": "foundry"
   },
   {
-    "name": "Domaine Sans",
-    "url": "https://klim.co.nz/retail-fonts/domaine-sans/",
+    "name": "American Grotesk Compressed",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/american-grotesk-compressed/",
+    "designer": "Kris Sowersby",
+    "year": 2024,
     "category": "sans-serif",
-    "subcategory": "High Contrast Grotesque",
-    "classification_notes": "Lineal grotesque with deliberate stroke contrast — an exploration of the Breite Grotesk subgenre. Shares the skeleton of Domaine (the Klim serif family) per Martin Majoor's one-form principle. Terminals taper to hairlines rather than flaring. Italic draws on mid-century lettering artist Mortimer Leach and features optional swash capitals for every uppercase letter. Three optical subfamilies: Fine (60pt+), Display (headlines), Text (sustained reading).",
+    "subcategory": "compressed grotesque",
+    "classification_notes": "Klim classifies it as Lineal: Grotesque; the most compressed width in the American Grotesk system, rooted in Franklin Gothic and the wider American vernacular.",
     "weights": [
       "Thin",
       "Light",
       "Regular",
       "Medium",
-      "Semibold",
       "Bold",
-      "Extrabold",
+      "Heavy",
       "Black"
     ],
     "optical_sizes_or_widths": [
-      "Fine",
-      "Display",
-      "Text"
+      "compressed"
     ],
     "subfamilies": [
-      "Domaine Sans Fine",
-      "Domaine Sans Display",
-      "Domaine Sans Text"
+      "American Grotesk",
+      "American Grotesk Condensed",
+      "American Grotesk Compressed"
     ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "compressed",
+      "grotesque",
+      "franklin gothic lineage",
+      "poster",
+      "editorial",
+      "wood type"
+    ],
+    "summary": "The most compressed width of American Grotesk, built for posters and mastheads where every millimetre of horizontal space counts.",
+    "description": "A compressed grotesque by Kris Sowersby that takes the American Grotesk system to its narrowest setting. Fourteen styles run from Thin to Black with matching italics, and the family connects to the standard and Condensed widths so editorial systems can flex from body to billboard. The Woodtype stylistic set hints at the American poster heritage Klim describes for the wider family.",
+    "foundry_blurb": "Klim classify American Grotesk Compressed as Lineal: Grotesque, designed by Kris Sowersby and released in 2024. It is the compressed width within the American Grotesk system, sharing the family's Franklin Gothic reprisal and its grounding in American graphic vernacular and persuasive communication."
+  },
+  {
+    "name": "American Grotesk Condensed",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/american-grotesk-condensed/",
+    "designer": "Kris Sowersby",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "condensed grotesque",
+    "classification_notes": "Klim classifies it as Lineal: Grotesque; the condensed cut within the American Grotesk system, drawing on Franklin Gothic's role in American graphic vernacular and persuasive communication.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "condensed"
+    ],
+    "subfamilies": [
+      "American Grotesk",
+      "American Grotesk Condensed",
+      "American Grotesk Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "grotesque",
+      "franklin gothic lineage",
+      "headline",
+      "editorial",
+      "poster"
+    ],
+    "summary": "The condensed cut of American Grotesk, holding Franklin Gothic's voice at tighter measures for headlines, posters and packaging.",
+    "description": "A condensed grotesque by Kris Sowersby that compresses the American Grotesk system without losing its Franklin Gothic accent. Fourteen styles span Thin to Black with matching italics, sitting between the standard width and the tighter Compressed cut. Reach for it on posters, mastheads and packaging where you want vertical economy and the same vernacular American voice.",
+    "foundry_blurb": "Klim classify American Grotesk Condensed as Lineal: Grotesque, designed by Kris Sowersby and released in 2024. It is the condensed width within the American Grotesk system, sharing the family's reprisal of Franklin Gothic and its grounding in American graphic vernacular and persuasive communication."
+  },
+  {
+    "name": "Calibre",
+    "url": "https://klim.co.nz/retail-fonts/calibre/",
+    "category": "sans-serif",
+    "subcategory": "Neo-grotesque",
+    "classification_notes": "Geometric neo-grotesque in the rationalist tradition. Draws directly from Aldo Novarese's Recta (Nebiolo, late 1950s), refining its logic without its original optical over-corrections. Shares a fundamental geometric skeleton with its sister typeface Metric, but applies sharper, more rationalist letterform finishes where Metric opts for humanist softness. Classified as Modern Lineal / Neo-grotesque.",
+    "weights": [
+      "Thin",
+      "Thin Italic",
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Regular Italic",
+      "Medium",
+      "Medium Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
     "has_condensed": false,
     "has_italic": true,
     "has_mono": false,
-    "designer": "Kris Sowersby",
-    "year": 2014,
     "languages": [
       "English",
       "French",
       "German",
       "Spanish",
-      "Italian",
       "Portuguese",
+      "Italian",
       "Dutch",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
       "Polish",
       "Czech",
       "Slovak",
       "Hungarian",
       "Romanian",
-      "Croatian",
-      "Danish",
-      "Swedish",
-      "Norwegian",
-      "Finnish",
-      "Icelandic",
-      "Latvian",
-      "Lithuanian",
-      "Estonian",
-      "Turkish"
+      "Latin Extended"
     ],
     "tier": "best",
     "tags": [
-      "high-contrast",
-      "grotesque",
+      "neo-grotesque",
+      "geometric",
+      "rationalist",
       "editorial",
-      "display",
-      "fashion",
-      "magazine",
-      "optical-sizes",
-      "swash",
-      "art-deco",
-      "luxury",
-      "modern"
+      "corporate",
+      "contemporary",
+      "versatile",
+      "Swiss-influenced",
+      "sans-serif"
     ],
-    "summary": "A high-contrast grotesque in three optical subfamilies, grown from the Domaine skeleton and the neglected tradition of Breite Grotesk.",
-    "description": "Domaine Sans began as an experiment: stripping the serifs from Domaine Text Light to reveal the skeleton beneath, then following that logic into the under-exploited genre of sans serifs with visible stroke contrast. Sowersby drew on Optima, Britannic (1924), Breite Grotesk and the Art Deco lettering from Napier's 1931 earthquake rebuilding, using Martin Majoor's one-form principle to hold the three optical subfamilies together. Fine is for use above 60pt; Display handles headlines; Text is built for extended reading — 42 styles in total, each with italics featuring optional swash capitals across every uppercase letter.",
-    "foundry_blurb": "Domaine explored the neglected Latin serif genre; Domaine Sans follows into another unpopular territory: sans serifs with contrast. The family spans three optical subfamilies — Fine, Display and Text — covering up to eight weights each with corresponding italics and swash alternate capitals, built with manual VTT hinting and extensive kerning. Awarded TDC² Judge's Choice (2015) and entered into the Cooper Hewitt permanent collection (2016).",
+    "summary": "A geometric neo-grotesque by Kris Sowersby that channels the rationalist precision of Aldo Novarese's Recta, sharpened into a crisp, contemporary workhorse available in seven weights.",
+    "description": "Designed by Kris Sowersby and released in 2011, Calibre takes the rationalist logic of Nebiolo's late-1950s Recta as its starting point, correcting that typeface's awkward branching and optical over-corrections into something leaner and more precise. It shares an underlying geometric framework with its sister face Metric but diverges at the letterform details, landing firmly in the rationalist camp of the neo-grotesque tradition. Running from Thin to Black with matching italics across all seven weights, it is a thorough workhorse equally at home in editorial, UI and corporate settings.",
+    "foundry_blurb": "Calibre is a geometric neo-grotesque drawing from the rationalist tradition of Aldo Novarese's Recta, a rarely seen late-1950s typeface produced by a team at the now-defunct Nebiolo foundry. Where Recta was held back by over-correction and awkward branching, Calibre refines that underlying logic into something crisp and contemporary. It shares a fundamental geometry with its sister typeface Metric but applies letterforms from a distinct rationalist tradition, making the two complementary but fully independent families.",
+    "designer": "Kris Sowersby",
+    "year": 2011,
+    "foundry": "Klim Type Foundry",
+    "type": "foundry"
+  },
+  {
+    "name": "Die Grotesk",
+    "url": "https://klim.co.nz/retail-fonts/die-grotesk/",
+    "category": "sans-serif",
+    "subcategory": "Neo-grotesque",
+    "classification_notes": "Modern neo-grotesque drawn in deliberate dialogue with Helvetica and Neue Haas Grotesk; informed by original metal specimens and Massimo Vignelli's tight-spacing approach to lockups and logotypes. Klim's first retail variable font, with continuous weight (100–900) and optical size (6–42pt) axes. Four discrete optical-size cuts (A through D) replace conventional tracking adjustments across body and display use.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "A (body, 10px+)",
+      "B (30px+)",
+      "C (60px+)",
+      "D (display, 90px+)"
+    ],
+    "subfamilies": [
+      "Die Grotesk A",
+      "Die Grotesk B",
+      "Die Grotesk C",
+      "Die Grotesk D"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Extended Latin"
+    ],
+    "tier": "best",
+    "designer": "Kris Sowersby",
+    "year": 2025,
+    "tags": [
+      "neo-grotesque",
+      "variable",
+      "helvetica-influenced",
+      "display",
+      "text",
+      "optical-sizes",
+      "swiss",
+      "modernist",
+      "tight-spacing",
+      "grotesk"
+    ],
+    "summary": "Klim's first retail variable font – a neo-grotesque in direct dialogue with Helvetica, built across four optical-size cuts and eight weights in roman and italic.",
+    "description": "Designed by Kris Sowersby and released in 2025, Die Grotesk draws from original metal specimens of Neue Haas Grotesk and the rigour of modernist masters to engage Helvetica's legacy rather than sidestep it. Four optical-size subfamilies (A through D) provide purposeful spacing calibrated from dense body copy to tight display lockups, replacing crude tracking adjustments with precision engineered into the letterforms. A continuous weight axis (100–900) and optical size axis (6–42pt) give designers exacting control over typographic texture at every scale.",
+    "foundry_blurb": "Shaped in the long shadow of Helvetica, Die Grotesk draws from the study of original metal cuts and the rigour of modernist masters. Its variable axes give precise control of weight and letter spacing across every size, built to handle the tension between reverence for an iconic grotesk tradition and the practical demands of contemporary design. Engineered with manual VTT hinting and 22,165 manual kerning pairs per style, it meets the exacting standards Klim applies to every retail release.",
     "foundry": "Klim Type Foundry",
     "type": "foundry"
   },
@@ -576,6 +384,608 @@
     "type": "foundry"
   },
   {
+    "name": "Domaine Display Condensed",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/domaine-display-condensed/",
+    "designer": "Kris Sowersby",
+    "year": 2013,
+    "category": "serif",
+    "subcategory": "condensed display serif",
+    "classification_notes": "Klim classifies it as Modern: Transitional/Latin; the condensed display cut of Domaine, with bracketed triangular serifs, hooked terminals and italics drawn from Deberny & Peignot's Labeurs Ordinaires Série.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display Condensed"
+    ],
+    "subfamilies": [
+      "Domaine Display",
+      "Domaine Display Narrow",
+      "Domaine Display Condensed",
+      "Domaine Text"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "condensed",
+      "serif",
+      "fashion",
+      "editorial",
+      "luxury"
+    ],
+    "summary": "A condensed display serif holding Domaine's triangular serifs and hooked terminals at tight measures for fashion and editorial mastheads.",
+    "description": "A sharp condensed display serif by Kris Sowersby, the tightest cut in the Domaine Display system, with bracketed triangular serifs, hooked terminals and italics inspired by Deberny & Peignot's Labeurs Ordinaires Série. Twelve styles run from Regular to Black with matching italics, made to keep their elegance when set in narrow columns or stacked over images. Frequently paired with Domaine Text and Söhne in fashion, wine and editorial branding.",
+    "foundry_blurb": "Klim classify Domaine Display Condensed as Modern: Transitional/Latin, designed by Kris Sowersby and released in 2013. They describe Domaine as a sharp serif blending French and British genres, with bracketed triangular serifs and hooked terminals, and italics drawn from Deberny & Peignot's Labeurs Ordinaires Série. This is the condensed display cut within the wider Domaine system."
+  },
+  {
+    "name": "Domaine Display Narrow",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/domaine-display-narrow/",
+    "designer": "Kris Sowersby",
+    "year": 2013,
+    "category": "serif",
+    "subcategory": "narrow display serif",
+    "classification_notes": "Klim classifies it as Modern: Transitional/Latin; the narrow display cut between the standard Display and the Condensed, sharing Domaine's triangular serifs, hooked terminals and Deberny & Peignot italics.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display Narrow"
+    ],
+    "subfamilies": [
+      "Domaine Display",
+      "Domaine Display Narrow",
+      "Domaine Display Condensed",
+      "Domaine Text"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "narrow",
+      "serif",
+      "fashion",
+      "editorial",
+      "luxury"
+    ],
+    "summary": "A narrow display serif sitting between Domaine Display and Domaine Display Condensed, made for tight headlines that keep their elegance.",
+    "description": "A narrow display serif by Kris Sowersby, the middle width within the Domaine Display system, with bracketed triangular serifs, hooked terminals and italics inspired by Deberny & Peignot's Labeurs Ordinaires Série. Twelve styles run from Regular to Black with matching italics, more economical than Domaine Display itself but less compressed than Domaine Display Condensed. A natural fit for fashion, wine and editorial mastheads where the columns are tight but the brand still wants air.",
+    "foundry_blurb": "Klim classify Domaine Display Narrow as Modern: Transitional/Latin, designed by Kris Sowersby and released in 2013. They describe Domaine as a sharp serif blending French and British genres, with bracketed triangular serifs and hooked terminals, and italics drawn from Deberny & Peignot's Labeurs Ordinaires Série. This cut is the narrow display width within the Domaine system."
+  },
+  {
+    "name": "Domaine Sans",
+    "url": "https://klim.co.nz/retail-fonts/domaine-sans/",
+    "category": "sans-serif",
+    "subcategory": "High Contrast Grotesque",
+    "classification_notes": "Lineal grotesque with deliberate stroke contrast — an exploration of the Breite Grotesk subgenre. Shares the skeleton of Domaine (the Klim serif family) per Martin Majoor's one-form principle. Terminals taper to hairlines rather than flaring. Italic draws on mid-century lettering artist Mortimer Leach and features optional swash capitals for every uppercase letter. Three optical subfamilies: Fine (60pt+), Display (headlines), Text (sustained reading).",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Fine",
+      "Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "Domaine Sans Fine",
+      "Domaine Sans Display",
+      "Domaine Sans Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "designer": "Kris Sowersby",
+    "year": 2014,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Italian",
+      "Portuguese",
+      "Dutch",
+      "Polish",
+      "Czech",
+      "Slovak",
+      "Hungarian",
+      "Romanian",
+      "Croatian",
+      "Danish",
+      "Swedish",
+      "Norwegian",
+      "Finnish",
+      "Icelandic",
+      "Latvian",
+      "Lithuanian",
+      "Estonian",
+      "Turkish"
+    ],
+    "tier": "best",
+    "tags": [
+      "high-contrast",
+      "grotesque",
+      "editorial",
+      "display",
+      "fashion",
+      "magazine",
+      "optical-sizes",
+      "swash",
+      "art-deco",
+      "luxury",
+      "modern"
+    ],
+    "summary": "A high-contrast grotesque in three optical subfamilies, grown from the Domaine skeleton and the neglected tradition of Breite Grotesk.",
+    "description": "Domaine Sans began as an experiment: stripping the serifs from Domaine Text Light to reveal the skeleton beneath, then following that logic into the under-exploited genre of sans serifs with visible stroke contrast. Sowersby drew on Optima, Britannic (1924), Breite Grotesk and the Art Deco lettering from Napier's 1931 earthquake rebuilding, using Martin Majoor's one-form principle to hold the three optical subfamilies together. Fine is for use above 60pt; Display handles headlines; Text is built for extended reading — 42 styles in total, each with italics featuring optional swash capitals across every uppercase letter.",
+    "foundry_blurb": "Domaine explored the neglected Latin serif genre; Domaine Sans follows into another unpopular territory: sans serifs with contrast. The family spans three optical subfamilies — Fine, Display and Text — covering up to eight weights each with corresponding italics and swash alternate capitals, built with manual VTT hinting and extensive kerning. Awarded TDC² Judge's Choice (2015) and entered into the Cooper Hewitt permanent collection (2016).",
+    "foundry": "Klim Type Foundry",
+    "type": "foundry"
+  },
+  {
+    "name": "Domaine Sans Display",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/domaine-sans-display/",
+    "designer": "Kris Sowersby",
+    "year": 2014,
+    "category": "sans-serif",
+    "subcategory": "high-contrast grotesque",
+    "classification_notes": "Klim classifies it as Lineal: Grotesque, High Contrast; the display cut of Domaine Sans, an exploration of contrast in sans serifs alongside Domaine's earlier work in the Latin serif genre.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Domaine Sans Display",
+      "Domaine Sans Text",
+      "Domaine Sans Fine"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "display",
+      "sans",
+      "fashion",
+      "editorial",
+      "luxury"
+    ],
+    "summary": "A high-contrast display sans by Kris Sowersby that explores contrast in sanserifs, made for fashion and editorial display.",
+    "description": "A high-contrast display sans by Kris Sowersby, sitting at the largest size in the Domaine Sans system. Sixteen styles run from Thin to Black with matching italics, with swashes and old-style or lining numerals available through OpenType. Klim describe Domaine Sans as an exploration of an unpopular genre, sans serifs with contrast, and at display sizes the stress and modulation read clearly, which is why fashion and editorial brands such as Vanity Fair's Hollywood issue have reached for it.",
+    "foundry_blurb": "Klim classify Domaine Sans Display as Lineal: Grotesque, High Contrast, designed by Kris Sowersby and released in 2014. They describe Domaine Sans as an exploration of an unpopular genre, sans serifs with contrast, following Domaine's earlier exploration of the Latin serif genre."
+  },
+  {
+    "name": "Domaine Sans Fine",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/domaine-sans-fine/",
+    "designer": "Kris Sowersby",
+    "year": 2014,
+    "category": "sans-serif",
+    "subcategory": "high-contrast grotesque",
+    "classification_notes": "Klim classifies it as Lineal: Grotesque, High Contrast; the finest optical cut of Domaine Sans, with the sharpest contrast, sharing the family's exploration of contrasted sans serifs.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Fine"
+    ],
+    "subfamilies": [
+      "Domaine Sans Display",
+      "Domaine Sans Text",
+      "Domaine Sans Fine"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "display",
+      "sans",
+      "fashion",
+      "luxury",
+      "editorial"
+    ],
+    "summary": "The sharpest optical cut of Domaine Sans, with the highest contrast for large-scale luxury and editorial display.",
+    "description": "The Fine optical size of Domaine Sans by Kris Sowersby, drawn for the largest display sizes where the family's contrast can read at its sharpest. Sixteen styles run from Thin to Black with matching italics. Specimens for Domaine Sans were added to the Cooper Hewitt Collection in 2016, and the Fine cut tends to appear in luxury, fashion and high-end editorial work where the brief calls for the punch of a Didone but in a sans frame.",
+    "foundry_blurb": "Klim classify Domaine Sans Fine as Lineal: Grotesque, High Contrast, designed by Kris Sowersby and released in 2014. They describe Domaine Sans as an exploration of sans serifs with contrast, following Domaine's earlier exploration of the Latin serif genre. Fine is the highest-contrast optical size in the system."
+  },
+  {
+    "name": "Domaine Sans Text",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/domaine-sans-text/",
+    "designer": "Kris Sowersby",
+    "year": 2014,
+    "category": "sans-serif",
+    "subcategory": "high-contrast grotesque",
+    "classification_notes": "Klim classifies it as Lineal: Grotesque, High Contrast; the text optical size of Domaine Sans, sharing the family's exploration of sans serifs with contrast and adding small caps for setting body copy.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text"
+    ],
+    "subfamilies": [
+      "Domaine Sans Display",
+      "Domaine Sans Text",
+      "Domaine Sans Fine"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "sans",
+      "text",
+      "editorial",
+      "luxury",
+      "small caps"
+    ],
+    "summary": "The text cut of Domaine Sans, with reduced contrast and small caps for body copy that still carries the family's editorial voice.",
+    "description": "The Text optical size of Domaine Sans by Kris Sowersby, with the family's contrast tempered for body sizes and small caps added for editorial setting. Ten styles span Light to Black with matching italics, alongside small caps, all small caps, tabular figures and superiors. Reads with the warmth and authority of a serif text face while staying inside the sans genre, which is why it pairs neatly with Domaine Display, Domaine Text and Tiempos Text in editorial systems.",
+    "foundry_blurb": "Klim classify Domaine Sans Text as Lineal: Grotesque, High Contrast, designed by Kris Sowersby and released in 2014. They describe Domaine Sans as an exploration of sans serifs with contrast, following Domaine's earlier exploration of the Latin serif genre. Text is the optical size tuned for body copy."
+  },
+  {
+    "name": "Domaine Text",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/domaine-text/",
+    "designer": "Kris Sowersby",
+    "year": 2008,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "Klim classifies it as Modern: Transitional/Latin; the text cut of Domaine, with the family's bracketed triangular serifs, hooked terminals and Deberny & Peignot italics, with small caps and figure sets for editorial body copy.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text"
+    ],
+    "subfamilies": [
+      "Domaine Display",
+      "Domaine Display Narrow",
+      "Domaine Display Condensed",
+      "Domaine Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "editorial",
+      "luxury",
+      "longform",
+      "small caps"
+    ],
+    "summary": "The text optical size of Domaine, tuned for body copy with small caps and figure sets while keeping the family's sharpness.",
+    "description": "The Text optical size of Domaine by Kris Sowersby, where the family's bracketed triangular serifs and hooked terminals are recut for body sizes. Ten styles run Light to Black with matching italics drawn from Deberny & Peignot's Labeurs Ordinaires Série, alongside small caps, all small caps and tabular figures. Pairs neatly with Domaine Display and Domaine Display Narrow in editorial, wine and luxury identities where you want the same voice from masthead to running text.",
+    "foundry_blurb": "Klim classify Domaine Text as Modern: Transitional/Latin, designed by Kris Sowersby and released in 2008. They describe Domaine as a sharp serif blending French and British genres, with bracketed triangular serifs and hooked terminals, and italics inspired by Deberny & Peignot's Labeurs Ordinaires Série. Text is the optical size cut for body copy."
+  },
+  {
+    "name": "Epicene Display",
+    "url": "https://klim.co.nz/retail-fonts/epicene-display/",
+    "category": "serif",
+    "subcategory": "baroque old-style",
+    "classification_notes": "Baroque Old-Style drawing from 18th-century Dutch masters Jacques-François Rosart (1714–1777) and Johann Michael Fleischmann (1707–1768); not a revival but a modernisation, synthesising Rosart's exaggerated geometric capitals with Fleischmann's ink-pooled, small-text sensibility; signature scalloped serifs combine the smooth inner curve from Rosart with the sharp outer scallop from Fleischmann, adapted to function across the full character set at both body and display sizes; available as two optical cuts – Display and Text – each with five weights and matching italics.",
+    "weights": [
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Regular Italic",
+      "Medium",
+      "Medium Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "Epicene Display",
+      "Epicene Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish",
+      "Italian",
+      "Portuguese",
+      "Dutch",
+      "Danish",
+      "Norwegian",
+      "Swedish",
+      "Finnish",
+      "Icelandic",
+      "Polish",
+      "Czech",
+      "Slovak",
+      "Hungarian",
+      "Romanian",
+      "Croatian",
+      "Slovenian",
+      "Estonian",
+      "Latvian",
+      "Lithuanian",
+      "Turkish",
+      "Welsh",
+      "Afrikaans",
+      "Albanian"
+    ],
+    "tier": "best",
+    "tags": [
+      "baroque",
+      "old-style",
+      "editorial",
+      "cultural",
+      "display",
+      "historical",
+      "award-winning",
+      "gender-neutral",
+      "dutch taste",
+      "scalloped serifs",
+      "18th-century",
+      "sowersby"
+    ],
+    "summary": "A Baroque Old-Style serif in two optical cuts, synthesising the work of 18th-century Dutch masters Rosart and Fleischmann, with the cultural argument baked into its name: typefaces carry no gender.",
+    "description": "Released in September 2021, Epicene exists as Display and Text cuts, each offering five weights with matching italics. Kris Sowersby drew from Rosart's exaggerated geometric capitals and Fleischmann's ink-dense, small-text italics, arriving at a distinctive scalloped serif that sits at the crossing of both designers' sensibilities and reads with equal conviction at headline and body sizes. The name comes from Susan Sontag's \"Notes on Camp\" – epicene meaning lacking gender distinction – a deliberate pushback against the long-held coding of ornamental type as feminine and functional forms as masculine.",
+    "foundry_blurb": "Epicene Text and Display are Baroque typefaces inspired by 18th-century maestros J-F. Rosart and J.M. Fleischmann. Exaggerated details add rigour at small sizes and vigour at large sizes. The collection's cultural statement: typefaces have no gender.",
+    "designer": "Kris Sowersby",
+    "year": 2021,
+    "foundry": "Klim Type Foundry",
+    "type": "foundry"
+  },
+  {
+    "name": "Epicene Text",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/epicene-text/",
+    "designer": "Kris Sowersby",
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "Baroque text serif",
+    "classification_notes": "Klim classifies it as Baroque Old-Style; the text counterpart to Epicene Display, drawing on Rosart and Fleischmann with details tuned to add rigour at small sizes.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text"
+    ],
+    "subfamilies": [
+      "Epicene Display",
+      "Epicene Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "baroque",
+      "editorial",
+      "long-form",
+      "book",
+      "historical revival",
+      "literary"
+    ],
+    "summary": "A Baroque text serif drawn from Rosart and Fleischmann, tuned with quieter detail for body copy in books and editorial.",
+    "description": "A Baroque text serif by Kris Sowersby and the body-copy companion to Epicene Display, rooted in the same 18th century work of Rosart and Fleischmann. Five roman weights from Light to Black come with matching italics, with details settled down so the page reads steady at book and magazine sizes. Reaches for a literary register where Tiempos Text would feel too neutral and a Garalde revival would feel too quiet.",
+    "foundry_blurb": "Klim classify Epicene Text as a Baroque Old-Style, designed by Kris Sowersby and released in 2021. They pair it with Epicene Display in a single Baroque family inspired by J-F. Rosart and J.M. Fleischmann, with details tuned to add rigour at small sizes."
+  },
+  {
+    "name": "Family",
+    "url": "https://klim.co.nz/retail-fonts/family/",
+    "category": "serif",
+    "subcategory": "Oldstyle serif",
+    "classification_notes": "Oldstyle serif revival of Clearface (ATF, 1907, Morris Fuller Benton and Linn Boyd Benton). Retains Clearface's elliptical terminals, open single-storey 'g', sloped 'e' crossbar and strong thick-thin contrast. Serifs are thin slabs on thick strokes, bracketed on thin strokes – a structural trait inherited from the original. Variable font weight axis 300–900.",
+    "weights": [
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Bold",
+      "Bold Italic",
+      "Heavy",
+      "Heavy Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Albanian",
+      "Basque",
+      "Bosnian",
+      "Catalan",
+      "Croatian",
+      "Czech",
+      "Danish",
+      "Dutch",
+      "English",
+      "Estonian",
+      "Finnish",
+      "French",
+      "German",
+      "Hungarian",
+      "Icelandic",
+      "Irish",
+      "Italian",
+      "Latvian",
+      "Lithuanian",
+      "Macedonian",
+      "Norwegian",
+      "Polish",
+      "Portuguese",
+      "Romanian",
+      "Slovak",
+      "Slovenian",
+      "Spanish",
+      "Swedish",
+      "Turkish",
+      "Welsh"
+    ],
+    "tier": "best",
+    "tags": [
+      "revival",
+      "clearface",
+      "oldstyle",
+      "everyday",
+      "text",
+      "warm",
+      "editorial",
+      "american",
+      "ATF",
+      "historical",
+      "humanist",
+      "variable"
+    ],
+    "summary": "Kris Sowersby's 2023 revival of Clearface, keeping the 1907 ATF original's elliptical terminals and informal warmth while reworking anything that didn't survive the digital transition cleanly.",
+    "description": "Family takes Morris Fuller Benton's 1907 Clearface as its source, preserving the easy-going curves, elliptical terminals and open single-storey 'g' that give the original its character. Sowersby keeps deliberate idiosyncrasies – the sloped 'e' crossbar, the consistent f and j overhang – while quietly resolving the strokes on A, V and W that never translated well into digital. Six weights with matching italics and a variable font axis make it practical across text and display sizes.",
+    "foundry_blurb": "Family is an everyday typeface based on Clearface, originally designed by father and son Morris Fuller and Linn Boyd Benton. It keeps Clearface's easy-going curves and idiosyncrasies while updating it for modern use.",
+    "designer": "Kris Sowersby",
+    "year": 2023,
+    "foundry": "Klim Type Foundry",
+    "type": "foundry"
+  },
+  {
+    "name": "Feijoa",
+    "url": "https://klim.co.nz/retail-fonts/feijoa/",
+    "category": "serif",
+    "subcategory": "Garalde / Old Style",
+    "classification_notes": "Garalde (Aldine) oldstyle serif, classified by Klim as Modern: Garalde/Oldstyle. Deliberately curvaceous letterforms with all sharp angles resolved into gentle curves. Four styles spanning a Display cut (headline-optimised, 16pt and above) and text weights in Medium and Bold with accompanying italic. Klim's inaugural typeface.",
+    "weights": [
+      "Display",
+      "Medium",
+      "Medium Italic",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Display (headline, 16pt+)",
+      "Text (book and extended reading)"
+    ],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Western European Latin",
+      "Central European Latin",
+      "Baltic Latin"
+    ],
+    "tier": "best",
+    "tags": [
+      "serif",
+      "garalde",
+      "oldstyle",
+      "humanist",
+      "text",
+      "book",
+      "editorial",
+      "display",
+      "literary",
+      "warm",
+      "curvaceous",
+      "ligatures",
+      "inaugural"
+    ],
+    "summary": "Klim's debut release: a warm Garalde serif built on the principle that a straight line is a dead line, with deliberately curvaceous letterforms across a text range and a headline-specific Display cut.",
+    "description": "Feijoa was the first typeface issued by Klim Type Foundry, released in 2007. Designed by Kris Sowersby, it takes a Garalde oldstyle structure and resolves every sharp angle into a gentle curve, humanising the letterforms without undermining their authority at text sizes. The family runs to four styles spanning a text range (Medium and Bold) and a Display cut drawn for 16pt and above, with fanciful ligatures inspired by Zuzana Licko's Mrs Eaves adding an extra layer of typographic warmth.",
+    "foundry_blurb": "Feijoa is built on the idea that a straight line is a dead line. The result is warm, curvaceous letterforms that sidestep the sharp angles which can harm digital typefaces, giving the overall impression a distinctly human quality. The core family — Medium, Italic and Bold — suits book typography and extended reading; the Display weight is drawn specifically for headlines at 16pt and above. All styles include fanciful ligatures and a suite of OpenType features including small caps, multiple stylistic sets and contextual alternates.",
+    "designer": "Kris Sowersby",
+    "year": 2007,
+    "foundry": "Klim Type Foundry",
+    "type": "foundry"
+  },
+  {
     "name": "Financier Display",
     "url": "https://klim.co.nz/retail-fonts/financier-display/",
     "category": "serif",
@@ -632,6 +1042,284 @@
     "year": 2016,
     "foundry": "Klim Type Foundry",
     "type": "foundry"
+  },
+  {
+    "name": "Financier Text",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/financier-text/",
+    "designer": "Kris Sowersby",
+    "year": 2016,
+    "category": "serif",
+    "subcategory": "transitional text serif",
+    "classification_notes": "Klim classifies it as Modern: Transitional/Slab Serif; the text counterpart drawn for the 2014 Financial Times redesign, with pragmatic detailing taken from Solus and Joanna in the Gill lineage.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text"
+    ],
+    "subfamilies": [
+      "Financier Display",
+      "Financier Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "editorial",
+      "news",
+      "transitional",
+      "slab-leaning",
+      "joanna lineage",
+      "financial times"
+    ],
+    "summary": "A transitional text serif with slab leanings, drawn from Gill's Solus and Joanna for the 2014 Financial Times redesign.",
+    "description": "A transitional text serif by Kris Sowersby, the body-copy companion to Financier Display drawn for the 2014 Financial Times redesign. Pragmatic detailing comes from Eric Gill's Solus and Joanna, giving it a slab leaning that holds shape on broadsheets and on narrow mobile screens. Four weights from Regular to Black across eight styles plus variable roman and italic axes carry features, news and longform across the FT's wider editorial system.",
+    "foundry_blurb": "Klim classify Financier Text as Modern: Transitional/Slab Serif, designed by Kris Sowersby and released in 2016. They describe it as the text counterpart to Financier Display, drawn for the 2014 Financial Times redesign, with pragmatic detailing taken from Solus and Joanna in Eric Gill's lineage."
+  },
+  {
+    "name": "Founders Grotesk",
+    "url": "https://klim.co.nz/retail-fonts/founders-grotesk/",
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Modern grotesque drawing on Millar & Richard's 1912 Grotesque series and H.W. Caslon's Doric series (1919), with spacing influenced by Helvetica Halbfett headline cuts from the late 1950s. Serpentine S, narrow apertures on C and G, and selective historical letterform choices give it warmth uncommon in contemporary grotesques.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Condensed",
+      "X-Condensed"
+    ],
+    "subfamilies": [
+      "Founders Grotesk",
+      "Founders Grotesk Text",
+      "Founders Grotesk Condensed",
+      "Founders Grotesk X-Condensed",
+      "Founders Grotesk Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "tags": [
+      "grotesque",
+      "editorial",
+      "branding",
+      "newspaper",
+      "headline",
+      "text setting",
+      "british type history",
+      "large family",
+      "condensed",
+      "mono"
+    ],
+    "summary": "A contemporary grotesque synthesising early 20th-century British foundry specimens – Millar & Richard and H.W. Caslon's Doric – into a large, versatile collection spanning core, Text, Condensed, X-Condensed and Mono variants.",
+    "description": "Designed by Kris Sowersby and released in 2010, Founders Grotesk draws from Millar & Richard's 1912 Grotesque series and H.W. Caslon's Doric, coupling their serpentine curves and narrow apertures with the close spacing of Helvetica Halbfett headline cuts. The collection spans five sub-families covering tight display work down to small-body legibility, with the Text variant developed separately after the headline original proved too tight at reading sizes. Condensed and X-Condensed cuts draw on Miller & Richard's Sans-Serif No.5 for square inner counters contrasted against warm outer curves.",
+    "foundry_blurb": "Klim describe Founders Grotesk as a gentle amalgamation of several early grotesques rather than a strict revival, combining rudimentary geometry and serpentine curves from Millar & Richard's Grotesque series with selected details from H.W. Caslon's Doric, spaced to match the close-set Helvetica Halbfett headline metal cuts of the late 1950s.",
+    "designer": "Kris Sowersby",
+    "year": 2010,
+    "foundry": "Klim Type Foundry",
+    "type": "foundry"
+  },
+  {
+    "name": "Founders Grotesk Condensed",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/founders-grotesk-condensed/",
+    "designer": "Kris Sowersby",
+    "year": 2011,
+    "category": "sans-serif",
+    "subcategory": "condensed grotesque",
+    "classification_notes": "Klim classifies it as Modern: Lineal/Grotesque; the condensed cut of Founders Grotesk, an amalgamation of Miller & Richard's early 20th century Grotesque series, H. W. Caslon's Doric and Helvetica's Halbfett headline cuts.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "condensed"
+    ],
+    "subfamilies": [
+      "Founders Grotesk",
+      "Founders Grotesk Text",
+      "Founders Grotesk Condensed",
+      "Founders Grotesk X-Condensed",
+      "Founders Grotesk Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "condensed",
+      "headline",
+      "editorial",
+      "posters",
+      "wayfinding"
+    ],
+    "summary": "A condensed grotesque drawn from Miller & Richard, Caslon Doric and Helvetica headline cuts, built for tight headlines and posters.",
+    "description": "The condensed cut of Founders Grotesk, by Kris Sowersby, pulling rudimentary geometry and serpentine curves from Miller & Richard's early 20th century Grotesque series, further details from H. W. Caslon's Doric series, and tight spacing strategies from Helvetica's Halbfett headline-sized metal cuts of the late 1950s. Five weights from Light to Bold give posters, mastheads and packaging a confident, editorial-feeling condensed sans without the rigidity of a strict revival. Sits within the wider Founders Grotesk system alongside the standard, Text, X-Condensed and Mono cuts.",
+    "foundry_blurb": "Klim classify Founders Grotesk Condensed as Modern: Lineal/Grotesque, designed by Kris Sowersby and released in 2011. They describe Founders Grotesk as a contemporary amalgamation of classic grotesks, drawing on Miller & Richard's Grotesque series, H. W. Caslon's Doric and the tight spacing of Helvetica's Halbfett headline cuts from the late 1950s."
+  },
+  {
+    "name": "Founders Grotesk Mono",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/founders-grotesk-mono/",
+    "designer": "Kris Sowersby",
+    "year": 2014,
+    "category": "mono",
+    "subcategory": "grotesque monospace",
+    "classification_notes": "Klim classifies it as Modern: Lineal/Grotesque Monospaced; the monospaced cut of Founders Grotesk, sharing the family's roots in Miller & Richard's Grotesque series, Caslon's Doric and Helvetica's Halbfett headline cuts.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "mono"
+    ],
+    "subfamilies": [
+      "Founders Grotesk",
+      "Founders Grotesk Text",
+      "Founders Grotesk Condensed",
+      "Founders Grotesk X-Condensed",
+      "Founders Grotesk Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "mono",
+      "grotesque",
+      "code",
+      "editorial",
+      "tabular",
+      "system pairing"
+    ],
+    "summary": "A grotesque monospace inside the Founders Grotesk system, fit for code, editorial detail and brand pairings.",
+    "description": "The monospaced cut of Founders Grotesk, by Kris Sowersby, sharing the lineage of Miller & Richard's Grotesque series, H. W. Caslon's Doric and Helvetica's Halbfett headline cuts. Five weights from Light to Bold sit alongside the parent Founders Grotesk, Text, Condensed and X-Condensed cuts, with a slashed zero, fractions and capital forms in the OpenType set. Used widely in editorial captions, code blocks and brand systems where the mono needs to hold a conversation with a wider grotesque family.",
+    "foundry_blurb": "Klim classify Founders Grotesk Mono as Modern: Lineal/Grotesque Monospaced, designed by Kris Sowersby and released in 2014. They describe the parent Founders Grotesk as a contemporary amalgamation of classic grotesks drawing on Miller & Richard's Grotesque series, Caslon's Doric and Helvetica's Halbfett, with the Mono extending those forms onto a fixed pitch."
+  },
+  {
+    "name": "Founders Grotesk Text",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/founders-grotesk-text/",
+    "designer": "Kris Sowersby",
+    "year": 2013,
+    "category": "sans-serif",
+    "subcategory": "grotesque text sans",
+    "classification_notes": "Klim classifies it as Modern: Lineal/Grotesque; the text-sized cut of Founders Grotesk, with the same lineage as the wider family but tuned for body copy.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text"
+    ],
+    "subfamilies": [
+      "Founders Grotesk",
+      "Founders Grotesk Text",
+      "Founders Grotesk Condensed",
+      "Founders Grotesk X-Condensed",
+      "Founders Grotesk Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "text",
+      "editorial",
+      "long-form",
+      "brand",
+      "workhorse"
+    ],
+    "summary": "The text cut of Founders Grotesk, with five weights and italics tuned for body copy in editorial and brand systems.",
+    "description": "The text cut of Founders Grotesk, by Kris Sowersby, redrawn from the parent grotesque so it holds shape at body sizes. Five weights from Light to Bold across ten styles include true italics, with the same lineage of Miller & Richard's Grotesque series, Caslon's Doric and Helvetica's Halbfett headline cuts. Used as the workhorse text companion in brand and editorial systems where Founders Grotesk runs the headlines, with Condensed, X-Condensed and Mono extending the family.",
+    "foundry_blurb": "Klim classify Founders Grotesk Text as Modern: Lineal/Grotesque, designed by Kris Sowersby and released in 2013. They describe Founders Grotesk as a contemporary amalgamation of classic grotesks drawing on Miller & Richard's Grotesque series, H. W. Caslon's Doric and Helvetica's Halbfett headline cuts, with the Text cut tuned for body copy."
+  },
+  {
+    "name": "Founders Grotesk X-Condensed",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/founders-grotesk-x-condensed/",
+    "designer": "Kris Sowersby",
+    "year": 2011,
+    "category": "sans-serif",
+    "subcategory": "extra-condensed grotesque",
+    "classification_notes": "Klim classifies it as Modern: Lineal/Grotesque; the extra-condensed cut of Founders Grotesk, sharing the family's roots in Miller & Richard's Grotesque series, Caslon's Doric and Helvetica's Halbfett.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "x-condensed"
+    ],
+    "subfamilies": [
+      "Founders Grotesk",
+      "Founders Grotesk Text",
+      "Founders Grotesk Condensed",
+      "Founders Grotesk X-Condensed",
+      "Founders Grotesk Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "extra condensed",
+      "posters",
+      "editorial",
+      "headline",
+      "vertical"
+    ],
+    "summary": "An extra-condensed grotesque inside the Founders Grotesk system, drawn for posters, mastheads and tight vertical headlines.",
+    "description": "The extra-condensed cut of Founders Grotesk, by Kris Sowersby, narrower again than the Condensed and tuned for posters, mastheads and stacked headlines. Five weights from Light to Bold sit beside the standard Founders Grotesk, Text, Condensed and Mono cuts, sharing the same lineage of Miller & Richard's Grotesque series, Caslon's Doric and Helvetica's Halbfett headline metal cuts. The cut culture studios reach for when a grotesque has to set a long word in a short column without thinning the weight.",
+    "foundry_blurb": "Klim classify Founders Grotesk X-Condensed as Modern: Lineal/Grotesque, designed by Kris Sowersby and released in 2011. They describe Founders Grotesk as a contemporary amalgamation of classic grotesks drawing on Miller & Richard's Grotesque series, H. W. Caslon's Doric and Helvetica's Halbfett headline cuts, with the X-Condensed cut taking those forms to an extra-narrow proportion."
   },
   {
     "name": "Geograph",
@@ -711,6 +1399,95 @@
     "year": 2019,
     "foundry": "Klim Type Foundry",
     "type": "foundry"
+  },
+  {
+    "name": "Heldane Display",
+    "url": "https://klim.co.nz/retail-fonts/heldane-display/",
+    "category": "serif",
+    "subcategory": "Garalde",
+    "classification_notes": "Third-generation garalde/oldstyle, synthesising Renaissance punchcutting traditions from van den Keere, Garamont, Granjon and de Colines. High contrast with sharp, tense serifs and dense lowercase. Optimised for display sizes; companion Heldane Text handles body copy. Classified Garalde/Oldstyle.",
+    "weights": [
+      "Regular",
+      "Regular Italic",
+      "Medium",
+      "Medium Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Heldane Display",
+      "Heldane Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Western European Latin",
+      "Central European Latin"
+    ],
+    "tier": "best",
+    "designer": "Kris Sowersby",
+    "year": 2018,
+    "tags": [
+      "garalde",
+      "oldstyle",
+      "renaissance",
+      "display",
+      "editorial",
+      "classical",
+      "high-contrast",
+      "book",
+      "awards"
+    ],
+    "summary": "A sharply drawn garalde display serif over a decade in the making, synthesising van den Keere, Garamont, Granjon and de Colines into a unified face with genuine historical depth.",
+    "description": "Designed by Kris Sowersby and released in 2018, Heldane Display draws its lowercase character from Hendrik van den Keere's dense aesthetic, its capital forms from Simon de Colines, and its numerals from Robert Granjon. Optimised for large sizes, it pairs with Heldane Text for body setting – together forming a complete editorial system. The family took over a decade to develop and received recognition from the Type Directors Club, Tokyo TDC and Graphis Typography.",
+    "foundry_blurb": "A contemporary serif inspired by the renaissance work of Hendrik van den Keere, Claude Garamont, Robert Granjon and Simon de Colines, drawing the strongest details from each source rather than copying any single model and synthesising them into a cohesive whole.",
+    "foundry": "Klim Type Foundry",
+    "type": "foundry"
+  },
+  {
+    "name": "Heldane Text",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/heldane-text/",
+    "designer": "Kris Sowersby",
+    "year": 2018,
+    "category": "serif",
+    "subcategory": "garalde text serif",
+    "classification_notes": "Klim classifies it as Classical: Garalde/Oldstyle; a contemporary serif drawing on Hendrik van den Keere, Claude Garamont, Robert Granjon and Simon de Colines, with old-style numerals, small caps and a full italic swash programme tuned for body text.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Text"
+    ],
+    "subfamilies": [
+      "Heldane Display",
+      "Heldane Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "garalde",
+      "renaissance",
+      "text serif",
+      "long-form",
+      "editorial",
+      "book"
+    ],
+    "summary": "A contemporary garalde text serif blending Garamont, Granjon, van den Keere and de Colines, sturdy enough to carry long-form body copy.",
+    "description": "A garalde text serif by Kris Sowersby drawn from the renaissance work of Hendrik van den Keere, Claude Garamont, Robert Granjon and Simon de Colines, refined through digital drawing for present-day setting. Six styles run Regular, Medium and Bold with italics, plus small caps, old-style and tabular numerals, and a swash programme inherited from the Display cut. The Text size in the Heldane system, paired naturally with Heldane Display for headlines.",
+    "foundry_blurb": "Klim classify Heldane Text as Classical: Garalde/Oldstyle, designed by Kris Sowersby and released in 2018. They describe Heldane as a contemporary serif inspired by the renaissance works of Hendrik van den Keere, Claude Garamont, Robert Granjon and Simon de Colines, amalgamating their best details rather than emulating any single typeface."
   },
   {
     "name": "Karbon",
@@ -802,104 +1579,44 @@
     "type": "foundry"
   },
   {
-    "name": "Heldane Display",
-    "url": "https://klim.co.nz/retail-fonts/heldane-display/",
-    "category": "serif",
-    "subcategory": "Garalde",
-    "classification_notes": "Third-generation garalde/oldstyle, synthesising Renaissance punchcutting traditions from van den Keere, Garamont, Granjon and de Colines. High contrast with sharp, tense serifs and dense lowercase. Optimised for display sizes; companion Heldane Text handles body copy. Classified Garalde/Oldstyle.",
-    "weights": [
-      "Regular",
-      "Regular Italic",
-      "Medium",
-      "Medium Italic",
-      "Bold",
-      "Bold Italic"
-    ],
-    "optical_sizes_or_widths": [
-      "Display"
-    ],
-    "subfamilies": [
-      "Heldane Display",
-      "Heldane Text"
-    ],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Western European Latin",
-      "Central European Latin"
-    ],
-    "tier": "best",
-    "designer": "Kris Sowersby",
-    "year": 2018,
-    "tags": [
-      "garalde",
-      "oldstyle",
-      "renaissance",
-      "display",
-      "editorial",
-      "classical",
-      "high-contrast",
-      "book",
-      "awards"
-    ],
-    "summary": "A sharply drawn garalde display serif over a decade in the making, synthesising van den Keere, Garamont, Granjon and de Colines into a unified face with genuine historical depth.",
-    "description": "Designed by Kris Sowersby and released in 2018, Heldane Display draws its lowercase character from Hendrik van den Keere's dense aesthetic, its capital forms from Simon de Colines, and its numerals from Robert Granjon. Optimised for large sizes, it pairs with Heldane Text for body setting – together forming a complete editorial system. The family took over a decade to develop and received recognition from the Type Directors Club, Tokyo TDC and Graphis Typography.",
-    "foundry_blurb": "A contemporary serif inspired by the renaissance work of Hendrik van den Keere, Claude Garamont, Robert Granjon and Simon de Colines, drawing the strongest details from each source rather than copying any single model and synthesising them into a cohesive whole.",
+    "name": "Karbon Slab Stencil",
     "foundry": "Klim Type Foundry",
-    "type": "foundry"
-  },
-  {
-    "name": "Founders Grotesk",
-    "url": "https://klim.co.nz/retail-fonts/founders-grotesk/",
-    "category": "sans-serif",
-    "subcategory": "grotesque",
-    "classification_notes": "Modern grotesque drawing on Millar & Richard's 1912 Grotesque series and H.W. Caslon's Doric series (1919), with spacing influenced by Helvetica Halbfett headline cuts from the late 1950s. Serpentine S, narrow apertures on C and G, and selective historical letterform choices give it warmth uncommon in contemporary grotesques.",
+    "url": "https://klim.co.nz/fonts/karbon-slab-stencil/",
+    "designer": "Kris Sowersby",
+    "year": 2009,
+    "category": "slab",
+    "subcategory": "stencil slab",
+    "classification_notes": "Klim classifies it as Modern: Mechanistic/Stencil; extends Karbon's spartan geometric linework into slab-serif territory, with a logical programme of breaks referencing the industrial heritage of stencilled letterforms.",
     "weights": [
-      "Light",
       "Regular",
-      "Medium",
-      "Semibold",
       "Bold"
     ],
     "optical_sizes_or_widths": [
-      "Text",
-      "Condensed",
-      "X-Condensed"
+      "standard"
     ],
     "subfamilies": [
-      "Founders Grotesk",
-      "Founders Grotesk Text",
-      "Founders Grotesk Condensed",
-      "Founders Grotesk X-Condensed",
-      "Founders Grotesk Mono"
+      "Karbon",
+      "Karbon Slab Stencil"
     ],
-    "has_condensed": true,
-    "has_italic": true,
-    "has_mono": true,
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
     "languages": [
       "Latin Extended"
     ],
     "tier": "best",
+    "type": "foundry",
     "tags": [
-      "grotesque",
-      "editorial",
-      "branding",
-      "newspaper",
-      "headline",
-      "text setting",
-      "british type history",
-      "large family",
-      "condensed",
-      "mono"
+      "stencil",
+      "slab",
+      "industrial",
+      "geometric",
+      "display",
+      "utility"
     ],
-    "summary": "A contemporary grotesque synthesising early 20th-century British foundry specimens – Millar & Richard and H.W. Caslon's Doric – into a large, versatile collection spanning core, Text, Condensed, X-Condensed and Mono variants.",
-    "description": "Designed by Kris Sowersby and released in 2010, Founders Grotesk draws from Millar & Richard's 1912 Grotesque series and H.W. Caslon's Doric, coupling their serpentine curves and narrow apertures with the close spacing of Helvetica Halbfett headline cuts. The collection spans five sub-families covering tight display work down to small-body legibility, with the Text variant developed separately after the headline original proved too tight at reading sizes. Condensed and X-Condensed cuts draw on Miller & Richard's Sans-Serif No.5 for square inner counters contrasted against warm outer curves.",
-    "foundry_blurb": "Klim describe Founders Grotesk as a gentle amalgamation of several early grotesques rather than a strict revival, combining rudimentary geometry and serpentine curves from Millar & Richard's Grotesque series with selected details from H.W. Caslon's Doric, spaced to match the close-set Helvetica Halbfett headline metal cuts of the late 1950s.",
-    "designer": "Kris Sowersby",
-    "year": 2010,
-    "foundry": "Klim Type Foundry",
-    "type": "foundry"
+    "summary": "Karbon's geometric skeleton pushed into slab-serif territory with stencilled breaks, fit for industrial and utility-flavoured display work.",
+    "description": "A stencil slab by Kris Sowersby that takes the spartan geometry of Karbon and adds slab serifs plus a logical pattern of breaks, citing the industrial heritage of stencilled letterforms. Two styles only, Regular and Bold, with no italic. Sits as a display companion to Karbon proper, useful for posters, packaging and signage that wants a mechanical, slightly utilitarian voice.",
+    "foundry_blurb": "Klim classify Karbon Slab Stencil as Modern: Mechanistic/Stencil, designed by Kris Sowersby and released in 2009. They describe it as an extension of Karbon's spartan linework into slab-serif territory, with a logical programme of breaks referencing the industrial heritage of stencilled letterforms."
   },
   {
     "name": "Maelstrom",
@@ -954,6 +1671,128 @@
     "foundry_blurb": "Maelstrom and Maelstrom Sans are reversed-stress typefaces – perpetual typographic outsiders, never mainstream yet never forgotten. Maelstrom's razor-thin spacing forms narrow strips of light sparkling through the black mass, while Maelstrom Sans combines heavy horizontals and spindly diagonals for a deliberately fragile effect. Their perverse quality is precisely their defining strength.",
     "designer": "Kris Sowersby",
     "year": 2014,
+    "foundry": "Klim Type Foundry",
+    "type": "foundry"
+  },
+  {
+    "name": "Maelstrom Sans",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/maelstrom-sans/",
+    "designer": "Kris Sowersby",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "reversed-stress sans",
+    "classification_notes": "Klim classifies it as a Reversed-Stress Sans Serif; an uneasy mix of heavy horizontals and spindly diagonals that feels fragile, like it could splinter at any moment. Sits in the Maelstrom collection alongside the slab-serif Maelstrom.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Maelstrom",
+      "Maelstrom Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "reversed-stress",
+      "display",
+      "outsider",
+      "poster",
+      "italianate",
+      "single-weight"
+    ],
+    "summary": "A single-weight reversed-stress display sans of heavy horizontals and spindly diagonals, made for posters and identity rather than text.",
+    "description": "A reversed-stress display sans by Kris Sowersby that flips weight onto the horizontals and starves the diagonals, giving it a fragile, almost splintering quality. Released as a single Bold cut, no italic, no other widths. Sits in the Maelstrom collection alongside the slab-serif Maelstrom and belongs to the genre Klim describe as a perpetual typographic outsider, never fashionable yet never abandoned.",
+    "foundry_blurb": "Klim classify Maelstrom Sans as a Reversed-Stress Sans Serif, designed by Kris Sowersby and released in 2019. They describe Maelstrom and Maelstrom Sans as deliberately perverse reversed-stress typefaces, with Maelstrom Sans's uneasy mix of heavy horizontals and spindly diagonals making it feel fragile, like it could splinter at any moment."
+  },
+  {
+    "name": "Martina Plantijn",
+    "url": "https://klim.co.nz/retail-fonts/martina-plantijn/",
+    "category": "serif",
+    "subcategory": "Oldstyle",
+    "classification_notes": "Oldstyle serif revival rooted in Frank Hinman Pierpont's Plantin (1913), which itself drew from Robert Granjon's Gros Cicero (1569) and research at the Plantin-Moretus Museum in Antwerp. Variable weight axis spanning 300–900. Distinctive blunt-leg 'k' (a Pierpont signature) carried through related letterforms including R, K, Q and the italic f, j, z. Corner apexes clipped throughout for an analogue quality. Italic returns to Renaissance punch-cutters rather than the weaker British-modern influence of the original Plantin italic.",
+    "weights": [
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Afrikaans",
+      "Albanian",
+      "Basque",
+      "Bosnian",
+      "Breton",
+      "Catalan",
+      "Croatian",
+      "Czech",
+      "Danish",
+      "Dutch",
+      "English",
+      "Estonian",
+      "Faroese",
+      "Finnish",
+      "French",
+      "Galician",
+      "German",
+      "Hungarian",
+      "Icelandic",
+      "Indonesian",
+      "Irish",
+      "Italian",
+      "Latvian",
+      "Lithuanian",
+      "Maltese",
+      "Norwegian",
+      "Polish",
+      "Portuguese",
+      "Romanian",
+      "Slovak",
+      "Slovenian",
+      "Spanish",
+      "Swedish",
+      "Turkish",
+      "Welsh"
+    ],
+    "designer": "Kris Sowersby",
+    "year": 2023,
+    "tier": "best",
+    "tags": [
+      "oldstyle",
+      "revival",
+      "text",
+      "book",
+      "editorial",
+      "Renaissance",
+      "Plantin",
+      "historical",
+      "workhorse",
+      "variable",
+      "Belgian",
+      "humanist"
+    ],
+    "summary": "Kris Sowersby's third engagement with Plantin — a rigorous revival that goes back to 16th-century sources at the Plantin-Moretus Museum, tightening the roman's proportions and giving the italic the Renaissance energy the original always lacked.",
+    "description": "Martina Plantijn takes Frank Hinman Pierpont's 1913 text workhorse back to its primary sources: Robert Granjon's Gros Cicero (1569) and the specimens held at the Plantin-Moretus Museum in Antwerp. The roman corrects Plantin's overly wide proportions and uncertain drawing; the italic sheds its weak British-modern influence for something more compact and energetic, closer to the renaissance punch-cutters Pierpont was originally studying. The name honours Martina Plantin (1541–1599), daughter of printer Christophe Plantin, who ran the family printing business from 1610 to 1614.",
+    "foundry_blurb": "Klim describes Martina Plantijn as a better Plantin — informed by the workhorse qualities of Pierpont's typeface, expanded through first-hand research into 16th-century type at the Plantin-Moretus Museum in Antwerp, with decisive digital updates made across both the roman and italic cuts.",
     "foundry": "Klim Type Foundry",
     "type": "foundry"
   },
@@ -1033,45 +1872,181 @@
     "type": "foundry"
   },
   {
-    "name": "Newzald",
-    "url": "https://klim.co.nz/retail-fonts/newzald/",
-    "category": "serif",
-    "subcategory": "transitional",
-    "classification_notes": "Transitional serif with Dutch baroque influences from J.F. Rosart and J.M. Fleischman. Large x-height and slightly condensed proportions optimised for editorial column setting. Klim classifies it as Modern: Transitional/Realist.",
+    "name": "Mānuka",
+    "url": "https://klim.co.nz/retail-fonts/manuka/",
+    "category": "display",
+    "subcategory": "compressed grotesque",
+    "classification_notes": "Klim classifies Mānuka as Lineal: Grotesque. Designed specifically for display and large-scale use, the family is compressed throughout with tight spacing, closed apertures and sharp joins derived from an 1860s German wood-type specimen by Will & Schumacher, Mannheim. The sharp joins in strokes (d, h, n, m, u) are highly unusual for sans-serif construction and distinguish it clearly from conventional grotesques. Part of a three-family collection alongside Mānuka Condensed (more compressed) and Mānuka Slab (slab-serif variant drawn from the same specimen's slab series, Nº 264–282).",
     "designer": "Kris Sowersby",
-    "year": 2008,
+    "year": 2021,
     "weights": [
-      "Book",
+      "Thin",
+      "Light",
+      "Regular",
       "Medium",
       "Bold",
-      "Black"
+      "Black",
+      "Ultra"
     ],
     "optical_sizes_or_widths": [],
-    "subfamilies": [],
-    "has_condensed": false,
-    "has_italic": true,
+    "subfamilies": [
+      "Mānuka Condensed",
+      "Mānuka Slab"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
     "has_mono": false,
     "languages": [
-      "Western European Latin",
-      "Central European Latin",
-      "Eastern European Latin"
+      "Afrikaans",
+      "Albanian",
+      "Basque",
+      "Bosnian",
+      "Catalan",
+      "Croatian",
+      "Czech",
+      "Danish",
+      "Dutch",
+      "English",
+      "Estonian",
+      "Faroese",
+      "Finnish",
+      "French",
+      "German",
+      "Hungarian",
+      "Icelandic",
+      "Indonesian",
+      "Irish",
+      "Italian",
+      "Latvian",
+      "Lithuanian",
+      "Malay",
+      "Maltese",
+      "Maori",
+      "Norwegian",
+      "Polish",
+      "Portuguese",
+      "Romanian",
+      "Slovak",
+      "Slovenian",
+      "Spanish",
+      "Swahili",
+      "Swedish",
+      "Turkish",
+      "Welsh"
     ],
-    "tier": "okay",
+    "tier": "best",
     "tags": [
-      "editorial",
-      "text",
-      "newspaper",
-      "magazine",
-      "Dutch baroque",
-      "column setting",
-      "transitional",
-      "high x-height"
+      "compressed",
+      "display",
+      "grotesque",
+      "wood type",
+      "timber type",
+      "German influence",
+      "historical reference",
+      "1860s",
+      "antipodean",
+      "New Zealand",
+      "sharp joins",
+      "closed apertures",
+      "headline",
+      "award-winning",
+      "Kris Sowersby"
     ],
-    "summary": "An editorial text face drawing from Dutch baroque punchcutters Rosart and Fleischman, with a large x-height and slightly condensed forms built for dense column setting.",
-    "description": "Newzald takes its cues from J.F. Rosart and J.M. Fleischman, 18th-century Dutch punchcutters known for their economical rigour. The large x-height and subtly condensed proportions let it carry many words per column without looking cramped. Released in 2008, it is a capable workhorse for newspaper and magazine text environments, offered in four weights each with a roman and italic.",
-    "foundry_blurb": "Klim describes Newzald as a hardworking text typeface for the international editorial environment. Its large x-height and slightly condensed forms allow high word counts per column without sacrificing readability, drawing aesthetic inspiration from the classic Dutch types of Rosart and Fleischman.",
+    "summary": "A compressed display grotesque by Kris Sowersby, distilled from an 1860s German wood-type specimen and built for headline use across seven weights.",
+    "description": "Mānuka takes its starting point from a numbered wood-type specimen by Will & Schumacher, Mannheim, circa 1860s, translating the original's mechanical compression and unusually sharp stroke joins into a contemporary display grotesque. Released in 2021, it spans seven weights from Thin to Ultra and sits alongside Mānuka Condensed and Mānuka Slab as part of a broader collection. Tight spacing, closed apertures and carefully preserved eccentric details – an elegant R kick, a serpentine g link, an elongated r terminal – give it a distinctive, angular texture uncommon in grotesque revival work.",
+    "foundry_blurb": "Klim describes Mānuka as \"new growth from old wood\" – a collection of compressed fonts for large sizes that grafts a contemporary antipodean aesthetic onto 19th-century German root-stock. Deviant details borrowed from Teutonic timber type produce tight spacing, closed apertures and sharp joins that create what they call a compelling texture, \"like sunlight sparkling through a forest canopy.\"",
     "foundry": "Klim Type Foundry",
     "type": "foundry"
+  },
+  {
+    "name": "Mānuka Condensed",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/manuka-condensed/",
+    "designer": "Kris Sowersby",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "compressed grotesque",
+    "classification_notes": "Klim classifies it as Lineal: Grotesque; a collection of compressed fonts for large sizes, with deviant details pilfered from Teutonic timber type, grafting a contemporary antipodean aesthetic onto 19th century German root-stock.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Mānuka Condensed",
+      "Mānuka Slab"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "compressed",
+      "grotesque",
+      "display",
+      "wood type",
+      "poster",
+      "antipodean"
+    ],
+    "summary": "A compressed grotesque cut from Teutonic wood-type roots, running Thin to Ultra for posters, packaging and bold display lockups.",
+    "description": "A compressed display grotesque by Kris Sowersby with sharp joins, closed apertures and tight spacing, pulling deviant details from 19th century Teutonic timber type. Seven upright weights run from Thin to Ultra, no italics. Sits in the Mānuka collection alongside Mānuka Slab, and works hardest at very large sizes where the compressed texture reads, in Klim's words, like sunlight sparkling through a forest canopy.",
+    "foundry_blurb": "Klim classify Mānuka Condensed as Lineal: Grotesque, designed by Kris Sowersby and released in 2021. They describe Mānuka as new growth from old wood, a collection of compressed fonts for large sizes, grafting a contemporary antipodean aesthetic onto 19th century German timber-type root-stock."
+  },
+  {
+    "name": "Mānuka Slab",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/manuka-slab/",
+    "designer": "Kris Sowersby",
+    "year": 2021,
+    "category": "slab",
+    "subcategory": "compressed slab",
+    "classification_notes": "Klim classifies it as Modern: Slab-Serif; the slab cut of the Mānuka collection, sharing compressed proportions and Teutonic timber-type details with Mānuka Condensed.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Mānuka Condensed",
+      "Mānuka Slab"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "compressed",
+      "slab",
+      "display",
+      "wood type",
+      "poster",
+      "antipodean"
+    ],
+    "summary": "The slab partner to Mānuka Condensed, compressed and rooted in Teutonic timber type, running Thin to Ultra for display work.",
+    "description": "A compressed slab by Kris Sowersby that takes Mānuka's antipodean reading of 19th century Teutonic timber type and adds slab serifs. Seven upright weights run from Thin to Ultra with stylistic alternates for a and R, no italics. Pairs naturally with Mānuka Condensed inside the same collection, and earns its keep on posters, packaging and editorial display where the texture needs to feel hand-cut rather than digital.",
+    "foundry_blurb": "Klim classify Mānuka Slab as Modern: Slab-Serif, designed by Kris Sowersby and released in 2021. They describe Mānuka as new growth from old wood, a collection of compressed fonts for large sizes, with deviant details pilfered from Teutonic timber type and grafted onto a contemporary antipodean aesthetic."
   },
   {
     "name": "National",
@@ -1192,6 +2167,191 @@
     "type": "foundry"
   },
   {
+    "name": "National 2 Compressed",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/national-2-compressed/",
+    "designer": "Kris Sowersby",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "compressed grotesque",
+    "classification_notes": "Klim classifies it as Modern: Lineal/Grotesque; the tightest of three new widths added in the 10-year overhaul of National, drawing details from the era of Akzidenz-Grotesk for a humble, workmanlike character.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "compressed"
+    ],
+    "subfamilies": [
+      "National 2",
+      "National 2 Narrow",
+      "National 2 Condensed",
+      "National 2 Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "compressed",
+      "akzidenz lineage",
+      "editorial",
+      "headline",
+      "workhorse"
+    ],
+    "summary": "The tightest width in the National 2 system, an Akzidenz-rooted grotesque drawn for headlines and dense column setting.",
+    "description": "The compressed cut of National 2 by Kris Sowersby, the tightest of three new widths added in the 10-year overhaul of National. Sixteen styles run from Thin to Black with matching italics, all redrawn and remastered with refined curves and better weight distribution. Sits inside the wider National 2 system alongside National 2, Narrow and Condensed, so the same Akzidenz-era voice carries from running text into very tight headlines.",
+    "foundry_blurb": "Klim classify National 2 Compressed as Modern: Lineal/Grotesque, designed by Kris Sowersby and released in 2017. They describe National 2 as a complete overhaul of National, ten years in the making, with every letter redrawn and three new widths (Narrow, Condensed and Compressed). The details are drawn from the era of Akzidenz-Grotesk, giving it a humble, workmanlike character."
+  },
+  {
+    "name": "National 2 Condensed",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/national-2-condensed/",
+    "designer": "Kris Sowersby",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "condensed grotesque",
+    "classification_notes": "Klim classifies it as Modern: Lineal/Grotesque; one of three new widths in the 10-year overhaul of National, sitting between Narrow and Compressed, with details drawn from the era of Akzidenz-Grotesk.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "condensed"
+    ],
+    "subfamilies": [
+      "National 2",
+      "National 2 Narrow",
+      "National 2 Condensed",
+      "National 2 Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "condensed",
+      "akzidenz lineage",
+      "editorial",
+      "headline",
+      "workhorse"
+    ],
+    "summary": "The middle condensed width of the National 2 system, a redrawn Akzidenz-rooted grotesque for tight columns and headlines.",
+    "description": "The condensed cut of National 2 by Kris Sowersby, sitting between Narrow and Compressed in the redrawn National 2 system. Sixteen styles run from Thin to Black with paired italics, with every letter remastered, refined curves and improved weight distribution. The Akzidenz-era detailing keeps the voice humble and workmanlike at small sizes, while the condensed proportions earn their place in editorial headlines, social design and wayfinding.",
+    "foundry_blurb": "Klim classify National 2 Condensed as Modern: Lineal/Grotesque, designed by Kris Sowersby and released in 2017. They describe National 2 as a complete overhaul of National, ten years in the making, with every letter redrawn and three new widths (Narrow, Condensed and Compressed) added. The details come from the era of Akzidenz-Grotesk, giving the family a humble, workmanlike character."
+  },
+  {
+    "name": "National 2 Narrow",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/national-2-narrow/",
+    "designer": "Kris Sowersby",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "narrow grotesque",
+    "classification_notes": "Klim classifies it as Modern: Lineal/Grotesque; the widest of the three new condensed widths added in the 10-year overhaul of National, drawing on Akzidenz-Grotesk era detailing.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "narrow"
+    ],
+    "subfamilies": [
+      "National 2",
+      "National 2 Narrow",
+      "National 2 Condensed",
+      "National 2 Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "narrow",
+      "akzidenz lineage",
+      "editorial",
+      "headline",
+      "workhorse"
+    ],
+    "summary": "The narrow cut of National 2, a gently tightened Akzidenz-rooted grotesque for editorial and brand work where space is short.",
+    "description": "The narrow cut of National 2 by Kris Sowersby, the widest of the three condensed widths added in the redrawn National 2 system. Sixteen styles run from Thin to Black with paired italics, redrawn and remastered with cleaner curves and better weight distribution. Sits well in editorial and brand work that needs a slightly tighter sans without going as compact as Condensed or Compressed, while keeping the family's Akzidenz-era detailing intact.",
+    "foundry_blurb": "Klim classify National 2 Narrow as Modern: Lineal/Grotesque, designed by Kris Sowersby and released in 2017. They describe National 2 as a complete overhaul of National, ten years in the making, with every letter redrawn and three new widths (Narrow, Condensed and Compressed) added. Its details are drawn from the era of Akzidenz-Grotesk, giving it a humble, workmanlike character."
+  },
+  {
+    "name": "Newzald",
+    "url": "https://klim.co.nz/retail-fonts/newzald/",
+    "category": "serif",
+    "subcategory": "transitional",
+    "classification_notes": "Transitional serif with Dutch baroque influences from J.F. Rosart and J.M. Fleischman. Large x-height and slightly condensed proportions optimised for editorial column setting. Klim classifies it as Modern: Transitional/Realist.",
+    "designer": "Kris Sowersby",
+    "year": 2008,
+    "weights": [
+      "Book",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Western European Latin",
+      "Central European Latin",
+      "Eastern European Latin"
+    ],
+    "tier": "okay",
+    "tags": [
+      "editorial",
+      "text",
+      "newspaper",
+      "magazine",
+      "Dutch baroque",
+      "column setting",
+      "transitional",
+      "high x-height"
+    ],
+    "summary": "An editorial text face drawing from Dutch baroque punchcutters Rosart and Fleischman, with a large x-height and slightly condensed forms built for dense column setting.",
+    "description": "Newzald takes its cues from J.F. Rosart and J.M. Fleischman, 18th-century Dutch punchcutters known for their economical rigour. The large x-height and subtly condensed proportions let it carry many words per column without looking cramped. Released in 2008, it is a capable workhorse for newspaper and magazine text environments, offered in four weights each with a roman and italic.",
+    "foundry_blurb": "Klim describes Newzald as a hardworking text typeface for the international editorial environment. Its large x-height and slightly condensed forms allow high word counts per column without sacrificing readability, drawing aesthetic inspiration from the classic Dutch types of Rosart and Fleischman.",
+    "foundry": "Klim Type Foundry",
+    "type": "foundry"
+  },
+  {
     "name": "Pitch",
     "url": "https://klim.co.nz/retail-fonts/pitch/",
     "category": "mono",
@@ -1236,22 +2396,62 @@
     "type": "foundry"
   },
   {
-    "name": "Martina Plantijn",
-    "url": "https://klim.co.nz/retail-fonts/martina-plantijn/",
-    "category": "serif",
-    "subcategory": "Oldstyle",
-    "classification_notes": "Oldstyle serif revival rooted in Frank Hinman Pierpont's Plantin (1913), which itself drew from Robert Granjon's Gros Cicero (1569) and research at the Plantin-Moretus Museum in Antwerp. Variable weight axis spanning 300–900. Distinctive blunt-leg 'k' (a Pierpont signature) carried through related letterforms including R, K, Q and the italic f, j, z. Corner apexes clipped throughout for an analogue quality. Italic returns to Renaissance punch-cutters rather than the weaker British-modern influence of the original Plantin italic.",
+    "name": "Pitch Sans",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/pitch-sans/",
+    "designer": "Kris Sowersby",
+    "year": 2018,
+    "category": "mono",
+    "subcategory": "monospaced sans",
+    "classification_notes": "Klim classifies it as Modern: Lineal/Sans Serif Monospace; a typewriter-inspired sans monospace, sibling to Pitch, described as a synthesis of digital and analogue that evokes typewritten text rather than emulating it.",
     "weights": [
       "Light",
-      "Light Italic",
       "Regular",
-      "Italic",
       "Medium",
-      "Medium Italic",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "monospace"
+    ],
+    "subfamilies": [
+      "Pitch",
+      "Pitch Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "typewriter",
+      "code",
+      "editorial",
+      "tactile",
+      "analogue"
+    ],
+    "summary": "A sans monospace that evokes typewritten text without imitating it, sibling to the slab-serif Pitch.",
+    "description": "A monospaced sans by Kris Sowersby, the sans companion to Pitch, drawn as a love letter to the typewriter rather than a literal revival. Five weights run from Light to Bold with paired italics, all on the same fixed advance width, so it locks into code, captions and tabular settings cleanly. Sits comfortably in editorial and tech work that wants a typewriter atmosphere without the worn-ribbon pastiche.",
+    "foundry_blurb": "Klim classify Pitch Sans as Modern: Lineal/Sans Serif Monospace, designed by Kris Sowersby and released in 2018. They describe Pitch as a love letter to the typewriter, a synthesis of digital and analogue that evokes typewritten text rather than emulating it. Pitch Sans is the sans-serif sibling within the wider Pitch collection."
+  },
+  {
+    "name": "Signifier",
+    "url": "https://klim.co.nz/retail-fonts/signifier/",
+    "category": "serif",
+    "subcategory": "oldstyle",
+    "classification_notes": "Drawn from the 17th-century Fell Types held at Oxford University Press – the English Roman attributed to Nicolaes Briot (c.1670s, ~13.5pt) and the italic from Granjon's Pica Italic – but recast as a digital Brutalist work rather than a conventional revival. Sowersby deliberately deleted curves, snapped details to grids and embraced interpolation artefacts in lighter weights. Rectangular baseline serifs, triangular head serifs (referencing Licko's Matrix, 1986) and Matthew Carter-influenced chopped terminals define the texture. Available as a variable font (weight axis 100–900). Klim classifies it internally as Modern Oldstyle. Red Dot Grand Prix winner 2021.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
       "Bold",
-      "Bold Italic",
-      "Black",
-      "Black Italic"
+      "Black"
     ],
     "optical_sizes_or_widths": [],
     "subfamilies": [],
@@ -1263,7 +2463,6 @@
       "Albanian",
       "Basque",
       "Bosnian",
-      "Breton",
       "Catalan",
       "Croatian",
       "Czech",
@@ -1271,7 +2470,6 @@
       "Dutch",
       "English",
       "Estonian",
-      "Faroese",
       "Finnish",
       "French",
       "Galician",
@@ -1283,173 +2481,39 @@
       "Italian",
       "Latvian",
       "Lithuanian",
-      "Maltese",
-      "Norwegian",
-      "Polish",
-      "Portuguese",
-      "Romanian",
-      "Slovak",
-      "Slovenian",
-      "Spanish",
-      "Swedish",
-      "Turkish",
-      "Welsh"
-    ],
-    "designer": "Kris Sowersby",
-    "year": 2023,
-    "tier": "best",
-    "tags": [
-      "oldstyle",
-      "revival",
-      "text",
-      "book",
-      "editorial",
-      "Renaissance",
-      "Plantin",
-      "historical",
-      "workhorse",
-      "variable",
-      "Belgian",
-      "humanist"
-    ],
-    "summary": "Kris Sowersby's third engagement with Plantin — a rigorous revival that goes back to 16th-century sources at the Plantin-Moretus Museum, tightening the roman's proportions and giving the italic the Renaissance energy the original always lacked.",
-    "description": "Martina Plantijn takes Frank Hinman Pierpont's 1913 text workhorse back to its primary sources: Robert Granjon's Gros Cicero (1569) and the specimens held at the Plantin-Moretus Museum in Antwerp. The roman corrects Plantin's overly wide proportions and uncertain drawing; the italic sheds its weak British-modern influence for something more compact and energetic, closer to the renaissance punch-cutters Pierpont was originally studying. The name honours Martina Plantin (1541–1599), daughter of printer Christophe Plantin, who ran the family printing business from 1610 to 1614.",
-    "foundry_blurb": "Klim describes Martina Plantijn as a better Plantin — informed by the workhorse qualities of Pierpont's typeface, expanded through first-hand research into 16th-century type at the Plantin-Moretus Museum in Antwerp, with decisive digital updates made across both the roman and italic cuts.",
-    "foundry": "Klim Type Foundry",
-    "type": "foundry"
-  },
-  {
-    "name": "Mānuka",
-    "url": "https://klim.co.nz/retail-fonts/manuka/",
-    "category": "display",
-    "subcategory": "compressed grotesque",
-    "classification_notes": "Klim classifies Mānuka as Lineal: Grotesque. Designed specifically for display and large-scale use, the family is compressed throughout with tight spacing, closed apertures and sharp joins derived from an 1860s German wood-type specimen by Will & Schumacher, Mannheim. The sharp joins in strokes (d, h, n, m, u) are highly unusual for sans-serif construction and distinguish it clearly from conventional grotesques. Part of a three-family collection alongside Mānuka Condensed (more compressed) and Mānuka Slab (slab-serif variant drawn from the same specimen's slab series, Nº 264–282).",
-    "designer": "Kris Sowersby",
-    "year": 2021,
-    "weights": [
-      "Thin",
-      "Light",
-      "Regular",
-      "Medium",
-      "Bold",
-      "Black",
-      "Ultra"
-    ],
-    "optical_sizes_or_widths": [],
-    "subfamilies": [
-      "Mānuka Condensed",
-      "Mānuka Slab"
-    ],
-    "has_condensed": true,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [
-      "Afrikaans",
-      "Albanian",
-      "Basque",
-      "Bosnian",
-      "Catalan",
-      "Croatian",
-      "Czech",
-      "Danish",
-      "Dutch",
-      "English",
-      "Estonian",
-      "Faroese",
-      "Finnish",
-      "French",
-      "German",
-      "Hungarian",
-      "Icelandic",
-      "Indonesian",
-      "Irish",
-      "Italian",
-      "Latvian",
-      "Lithuanian",
       "Malay",
       "Maltese",
-      "Maori",
       "Norwegian",
       "Polish",
       "Portuguese",
       "Romanian",
+      "Serbian (Latin)",
       "Slovak",
       "Slovenian",
       "Spanish",
-      "Swahili",
       "Swedish",
       "Turkish",
       "Welsh"
     ],
     "tier": "best",
     "tags": [
-      "compressed",
+      "Brutalist",
+      "oldstyle",
+      "editorial",
       "display",
-      "grotesque",
-      "wood type",
-      "timber type",
-      "German influence",
+      "literary",
+      "variable",
       "historical reference",
-      "1860s",
-      "antipodean",
-      "New Zealand",
-      "sharp joins",
-      "closed apertures",
-      "headline",
+      "sharp serifs",
       "award-winning",
-      "Kris Sowersby"
+      "Fell Types",
+      "philosophical"
     ],
-    "summary": "A compressed display grotesque by Kris Sowersby, distilled from an 1860s German wood-type specimen and built for headline use across seven weights.",
-    "description": "Mānuka takes its starting point from a numbered wood-type specimen by Will & Schumacher, Mannheim, circa 1860s, translating the original's mechanical compression and unusually sharp stroke joins into a contemporary display grotesque. Released in 2021, it spans seven weights from Thin to Ultra and sits alongside Mānuka Condensed and Mānuka Slab as part of a broader collection. Tight spacing, closed apertures and carefully preserved eccentric details – an elegant R kick, a serpentine g link, an elongated r terminal – give it a distinctive, angular texture uncommon in grotesque revival work.",
-    "foundry_blurb": "Klim describes Mānuka as \"new growth from old wood\" – a collection of compressed fonts for large sizes that grafts a contemporary antipodean aesthetic onto 19th-century German root-stock. Deviant details borrowed from Teutonic timber type produce tight spacing, closed apertures and sharp joins that create what they call a compelling texture, \"like sunlight sparkling through a forest canopy.\"",
-    "foundry": "Klim Type Foundry",
-    "type": "foundry"
-  },
-  {
-    "name": "The Future",
-    "url": "https://klim.co.nz/retail-fonts/the-future/",
-    "category": "sans-serif",
-    "subcategory": "geometric",
-    "classification_notes": "Geometric sans-serif modelled on Paul Renner's Futura. Sowersby worked from original brass plates and intaglio prints at the Museum für Druckkunst Leipzig to restore Futura's early, stricter geometric construction — purer circular forms, weight-specific optical corrections, and a selection of Renner's experimental alternates (ten stylistic sets). The accompanying The Future Mono is a speculative monospaced variant framed as a typewriter adaptation under Japanese typographic influence, featuring outlined punctuation and the eccentric stick-and-ball r alternate.",
-    "weights": [
-      "Thin",
-      "Extralight",
-      "Light",
-      "Regular",
-      "Medium",
-      "Bold",
-      "Black"
-    ],
-    "optical_sizes_or_widths": [],
-    "subfamilies": [
-      "The Future",
-      "The Future Mono"
-    ],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": true,
-    "languages": [
-      "Latin Extended"
-    ],
-    "tier": "best",
-    "tags": [
-      "geometric",
-      "futura",
-      "modernist",
-      "avant-garde",
-      "revival",
-      "typewriter",
-      "mono",
-      "weimar",
-      "bauhaus-adjacent",
-      "Paul Renner",
-      "alternate characters"
-    ],
-    "summary": "A rigorous geometric sans built from Renner's original Futura production drawings, paired with a speculative monospaced companion reimagined as a typewriter face.",
-    "description": "The Future is Kris Sowersby's close study of Paul Renner's Futura, developed from original brass plates and intaglio prints at the Museum für Druckkunst Leipzig. It restores the stricter geometric severity of early Futura iterations while retaining the weight-specific optical corrections and eccentric alternates that give Renner's work its character. The Future Mono extends the family as a speculative monospaced variant, framing Futura as if adapted by Renner for typewriter use under Japanese typographic influence, with outlined punctuation and an unusual stick-and-ball r.",
-    "foundry_blurb": "Klim describes The Future as a homage to Futura that returns to Renner's original geometric ambitions, drawing on primary source material to recover a stricter, more abstract version of the typeface than the one that became commercially ubiquitous. The Future Mono is presented as a speculative commission by Kyota Sugimoto, asking what Futura might look like remade for a monospaced, typewriter context.",
+    "summary": "A Brutalist response to the 17th-century Fell Types, Sowersby recasts their letterforms in ones and zeros by embracing machine logic over analogue mimicry.",
+    "description": "Signifier draws on the English Roman from Oxford's Fell Types – cut in the 1670s and attributed to Nicolaes Briot – and Granjon's Pica Italic, but pursues no conventional revival. Sowersby worked deliberately with the computer, snapping details to grids and embracing interpolation artefacts in lighter weights to produce letterforms that acknowledge the nature of digital type. Sharp triangular head serifs, rectangular baseline serifs and Charter-inflected chopped terminals give it a distinctive precision that holds from text to display sizes.",
+    "foundry_blurb": "Klim describe Signifier as a Brutalist response to 17th-century typefaces, with its digital immateriality drawing on a deeply material past. Sowersby worked consciously with the computer to recast the lead, antimony and tin of the Fell Types into ones and zeros, allowing Bézier curves and sharp vectors determined by machine logic to define the result. The design acknowledges that what once was infinitely variable is now infinitely repeatable.",
     "designer": "Kris Sowersby",
-    "year": 2022,
+    "year": 2020,
     "foundry": "Klim Type Foundry",
     "type": "foundry"
   },
@@ -1541,6 +2605,288 @@
     "type": "foundry"
   },
   {
+    "name": "Söhne Breit",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/soehne-breit/",
+    "designer": "Kris Sowersby",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "wide neo-grotesque",
+    "classification_notes": "Klim classifies it as Lineal: Grotesque; the wide cut in the Söhne system, capturing the analogue materiality of Standard Medium used in Unimark's NYC Subway wayfinding.",
+    "weights": [
+      "Extraleicht",
+      "Leicht",
+      "Buch",
+      "Kräftig",
+      "Halbfett",
+      "Dreiviertelfett",
+      "Fett",
+      "Extrafett"
+    ],
+    "optical_sizes_or_widths": [
+      "wide"
+    ],
+    "subfamilies": [
+      "Söhne",
+      "Söhne Breit",
+      "Söhne Schmal",
+      "Söhne Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "wide",
+      "akzidenz lineage",
+      "display",
+      "branding",
+      "neutral"
+    ],
+    "summary": "The wide cut of Söhne, holding the family's Akzidenz-meets-Helvetica neutrality at expansive proportions for display and branding.",
+    "description": "The wide companion to Söhne, drawn by Kris Sowersby with the same Akzidenz-Grotesk and Standard Medium reference points stretched horizontally. Eight weights from Extraleicht to Extrafett run with matching Kursiv italics, giving the same German weight nomenclature as the parent family. Brands reach for it when headlines need width and air without tipping into a true display face, often paired back with Söhne or Söhne Mono for body text.",
+    "foundry_blurb": "Klim classify Söhne Breit as Lineal: Grotesque, designed by Kris Sowersby and released in 2019. They describe Söhne as the memory of Akzidenz-Grotesk seen through the reality of Helvetica, capturing the analogue materiality of Standard Medium used in Unimark's NYC Subway wayfinding."
+  },
+  {
+    "name": "Söhne Mono",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/soehne-mono/",
+    "designer": "Kris Sowersby",
+    "year": 2019,
+    "category": "mono",
+    "subcategory": "grotesque monospace",
+    "classification_notes": "Klim classifies it as Lineal: Grotesque, Monospaced; the fixed-width cut in the Söhne system, sharing the Akzidenz-Grotesk lineage of the parent family.",
+    "weights": [
+      "Extraleicht",
+      "Leicht",
+      "Buch",
+      "Kräftig",
+      "Halbfett",
+      "Dreiviertelfett",
+      "Fett",
+      "Extrafett"
+    ],
+    "optical_sizes_or_widths": [
+      "monospace"
+    ],
+    "subfamilies": [
+      "Söhne",
+      "Söhne Breit",
+      "Söhne Schmal",
+      "Söhne Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "grotesque",
+      "code",
+      "tech",
+      "data",
+      "ui"
+    ],
+    "summary": "A grotesque monospace tied to the Söhne system, giving fixed-width text the same Akzidenz lineage as its proportional sibling.",
+    "description": "The monospaced cut in the Söhne system by Kris Sowersby, sharing the parent family's Akzidenz-Grotesk reference and Standard Medium tone. Eight weights with Kursiv italics give a fuller weight ladder than most code fonts offer, and stylistic alternates handle the alternate a and g for designers wanting to soften the grotesque feel. Used for code, data UI and editorial captions where the rest of the system already runs on Söhne.",
+    "foundry_blurb": "Klim classify Söhne Mono as Lineal: Grotesque, Monospaced, designed by Kris Sowersby and released in 2019. They describe Söhne as the memory of Akzidenz-Grotesk seen through the reality of Helvetica, capturing the analogue materiality of Standard Medium used in Unimark's NYC Subway wayfinding."
+  },
+  {
+    "name": "Söhne Schmal",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/soehne-schmal/",
+    "designer": "Kris Sowersby",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "condensed neo-grotesque",
+    "classification_notes": "Klim classifies it as Lineal: Grotesque; the condensed cut in the Söhne system, drawn from the same Akzidenz-Grotesk and Standard Medium reference points as the parent family.",
+    "weights": [
+      "Extraleicht",
+      "Leicht",
+      "Buch",
+      "Kräftig",
+      "Halbfett",
+      "Dreiviertelfett",
+      "Fett",
+      "Extrafett"
+    ],
+    "optical_sizes_or_widths": [
+      "condensed"
+    ],
+    "subfamilies": [
+      "Söhne",
+      "Söhne Breit",
+      "Söhne Schmal",
+      "Söhne Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "condensed",
+      "wayfinding",
+      "editorial",
+      "display",
+      "akzidenz lineage"
+    ],
+    "summary": "The condensed cut of Söhne, taking the Akzidenz lineage into tight columns and stacked headlines without losing the family's neutrality.",
+    "description": "The narrow companion to Söhne, drawn by Kris Sowersby for measures and stacked headlines that the standard width can't hold. Eight weights from Extraleicht to Extrafett run with Kursiv italics, keeping the Söhne family's eight-step German nomenclature consistent across widths. Editorial mastheads, posters and tight UI labels are the natural home, often paired with Söhne for body copy.",
+    "foundry_blurb": "Klim classify Söhne Schmal as Lineal: Grotesque, designed by Kris Sowersby and released in 2019. They describe Söhne as the memory of Akzidenz-Grotesk seen through the reality of Helvetica, capturing the analogue materiality of Standard Medium used in Unimark's NYC Subway wayfinding."
+  },
+  {
+    "name": "The Future",
+    "url": "https://klim.co.nz/retail-fonts/the-future/",
+    "category": "sans-serif",
+    "subcategory": "geometric",
+    "classification_notes": "Geometric sans-serif modelled on Paul Renner's Futura. Sowersby worked from original brass plates and intaglio prints at the Museum für Druckkunst Leipzig to restore Futura's early, stricter geometric construction — purer circular forms, weight-specific optical corrections, and a selection of Renner's experimental alternates (ten stylistic sets). The accompanying The Future Mono is a speculative monospaced variant framed as a typewriter adaptation under Japanese typographic influence, featuring outlined punctuation and the eccentric stick-and-ball r alternate.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [],
+    "subfamilies": [
+      "The Future",
+      "The Future Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "tags": [
+      "geometric",
+      "futura",
+      "modernist",
+      "avant-garde",
+      "revival",
+      "typewriter",
+      "mono",
+      "weimar",
+      "bauhaus-adjacent",
+      "Paul Renner",
+      "alternate characters"
+    ],
+    "summary": "A rigorous geometric sans built from Renner's original Futura production drawings, paired with a speculative monospaced companion reimagined as a typewriter face.",
+    "description": "The Future is Kris Sowersby's close study of Paul Renner's Futura, developed from original brass plates and intaglio prints at the Museum für Druckkunst Leipzig. It restores the stricter geometric severity of early Futura iterations while retaining the weight-specific optical corrections and eccentric alternates that give Renner's work its character. The Future Mono extends the family as a speculative monospaced variant, framing Futura as if adapted by Renner for typewriter use under Japanese typographic influence, with outlined punctuation and an unusual stick-and-ball r.",
+    "foundry_blurb": "Klim describes The Future as a homage to Futura that returns to Renner's original geometric ambitions, drawing on primary source material to recover a stricter, more abstract version of the typeface than the one that became commercially ubiquitous. The Future Mono is presented as a speculative commission by Kyota Sugimoto, asking what Futura might look like remade for a monospaced, typewriter context.",
+    "designer": "Kris Sowersby",
+    "year": 2022,
+    "foundry": "Klim Type Foundry",
+    "type": "foundry"
+  },
+  {
+    "name": "The Future Mono",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/the-future-mono/",
+    "designer": "Kris Sowersby",
+    "year": 2022,
+    "category": "mono",
+    "subcategory": "geometric monospace",
+    "classification_notes": "Klim classifies it as Monospaced geometric sans-serif; a speculative reimagining of Futura as a typewriter font commissioned by Kyota Sugimoto, sitting alongside The Future as a homage to Paul Renner's geometric classic.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "monospace"
+    ],
+    "subfamilies": [
+      "The Future",
+      "The Future Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "geometric",
+      "futura lineage",
+      "speculative",
+      "code",
+      "editorial"
+    ],
+    "summary": "A geometric monospace by Kris Sowersby that imagines Futura as a typewriter face, with seven weights and a deep stylistic alternates set.",
+    "description": "A geometric monospace by Kris Sowersby drawn as a speculative pairing for The Future, treating Futura as if it had been cut for a typewriter rather than for advertising. Seven weights from Thin to Black run with italics, and the OpenType set carries fifteen stylistic sets covering alt a, g, h, m, n, r, u and square forms borrowed from Renner's avant-garde alternates. Reads cleanly in code and captions, then turns expressive when the alternates are switched on for posters or art direction.",
+    "foundry_blurb": "Klim classify The Future Mono as Monospaced geometric sans-serif, designed by Kris Sowersby and released in 2022. They describe it as a speculative take that reimagines Futura as a typewriter font commissioned by Kyota Sugimoto, alongside The Future, their homage to Paul Renner's progressive classic."
+  },
+  {
+    "name": "Tiempos Fine",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/tiempos-fine/",
+    "designer": "Kris Sowersby, Noe Blanco",
+    "year": 2018,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "Klim classifies it as Modern: Transitional/Realist; the sharpest optical size in the Tiempos system, keeping the proportions and letterfit of Tiempos Headline while intensifying the interplay between warm curves and sharp details.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Fine"
+    ],
+    "subfamilies": [
+      "Tiempos Text",
+      "Tiempos Headline",
+      "Tiempos Fine"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "transitional",
+      "editorial",
+      "fashion",
+      "high-contrast",
+      "headline"
+    ],
+    "summary": "The sharpest optical cut in the Tiempos system, with high contrast and crisp terminals tuned for large editorial and fashion headlines.",
+    "description": "The display optical size in the Tiempos system, drawn by Kris Sowersby and Noe Blanco. Six weights from Light to Black with italics keep the proportions and letterfit of Tiempos Headline, then push contrast and terminal sharpness for use at the largest sizes. A weight-axis variable font is supplied with the full family. Editorial covers, fashion mastheads and luxury display work where Tiempos Headline starts to feel slightly soft.",
+    "foundry_blurb": "Klim classify Tiempos Fine as Modern: Transitional/Realist, designed by Kris Sowersby and Noe Blanco and released in 2018. They describe it as the Fine size in the Tiempos system, keeping the proportions and letterfit of Tiempos Headline while intensifying the interplay between warm curves and sharp details."
+  },
+  {
     "name": "Tiempos Headline",
     "url": "https://klim.co.nz/retail-fonts/tiempos-headline/",
     "category": "serif",
@@ -1624,83 +2970,49 @@
     "type": "foundry"
   },
   {
-    "name": "Signifier",
-    "url": "https://klim.co.nz/retail-fonts/signifier/",
+    "name": "Tiempos Text",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/tiempos-text/",
+    "designer": "Kris Sowersby",
+    "year": 2010,
     "category": "serif",
-    "subcategory": "oldstyle",
-    "classification_notes": "Drawn from the 17th-century Fell Types held at Oxford University Press – the English Roman attributed to Nicolaes Briot (c.1670s, ~13.5pt) and the italic from Granjon's Pica Italic – but recast as a digital Brutalist work rather than a conventional revival. Sowersby deliberately deleted curves, snapped details to grids and embraced interpolation artefacts in lighter weights. Rectangular baseline serifs, triangular head serifs (referencing Licko's Matrix, 1986) and Matthew Carter-influenced chopped terminals define the texture. Available as a variable font (weight axis 100–900). Klim classifies it internally as Modern Oldstyle. Red Dot Grand Prix winner 2021.",
+    "subcategory": "transitional serif",
+    "classification_notes": "Klim classifies it as Modern: Transitional/Realist; takes the functionality of Plantin and Times and updates it for contemporary, economical typesetting.",
     "weights": [
-      "Thin",
-      "Extralight",
-      "Light",
       "Regular",
       "Medium",
-      "Bold",
-      "Black"
+      "Semibold",
+      "Bold"
     ],
-    "optical_sizes_or_widths": [],
-    "subfamilies": [],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Headline",
+      "Fine"
+    ],
+    "subfamilies": [
+      "Tiempos Text",
+      "Tiempos Headline",
+      "Tiempos Fine"
+    ],
     "has_condensed": false,
     "has_italic": true,
     "has_mono": false,
     "languages": [
-      "Afrikaans",
-      "Albanian",
-      "Basque",
-      "Bosnian",
-      "Catalan",
-      "Croatian",
-      "Czech",
-      "Danish",
-      "Dutch",
-      "English",
-      "Estonian",
-      "Finnish",
-      "French",
-      "Galician",
-      "German",
-      "Hungarian",
-      "Icelandic",
-      "Indonesian",
-      "Irish",
-      "Italian",
-      "Latvian",
-      "Lithuanian",
-      "Malay",
-      "Maltese",
-      "Norwegian",
-      "Polish",
-      "Portuguese",
-      "Romanian",
-      "Serbian (Latin)",
-      "Slovak",
-      "Slovenian",
-      "Spanish",
-      "Swedish",
-      "Turkish",
-      "Welsh"
+      "Latin Extended"
     ],
     "tier": "best",
+    "type": "foundry",
     "tags": [
-      "Brutalist",
-      "oldstyle",
       "editorial",
-      "display",
-      "literary",
-      "variable",
-      "historical reference",
-      "sharp serifs",
-      "award-winning",
-      "Fell Types",
-      "philosophical"
+      "transitional",
+      "plantin lineage",
+      "news",
+      "long-form",
+      "legible"
     ],
-    "summary": "A Brutalist response to the 17th-century Fell Types, Sowersby recasts their letterforms in ones and zeros by embracing machine logic over analogue mimicry.",
-    "description": "Signifier draws on the English Roman from Oxford's Fell Types – cut in the 1670s and attributed to Nicolaes Briot – and Granjon's Pica Italic, but pursues no conventional revival. Sowersby worked deliberately with the computer, snapping details to grids and embracing interpolation artefacts in lighter weights to produce letterforms that acknowledge the nature of digital type. Sharp triangular head serifs, rectangular baseline serifs and Charter-inflected chopped terminals give it a distinctive precision that holds from text to display sizes.",
-    "foundry_blurb": "Klim describe Signifier as a Brutalist response to 17th-century typefaces, with its digital immateriality drawing on a deeply material past. Sowersby worked consciously with the computer to recast the lead, antimony and tin of the Fell Types into ones and zeros, allowing Bézier curves and sharp vectors determined by machine logic to define the result. The design acknowledges that what once was infinitely variable is now infinitely repeatable.",
-    "designer": "Kris Sowersby",
-    "year": 2020,
-    "foundry": "Klim Type Foundry",
-    "type": "foundry"
+    "summary": "A workhorse text serif drawing on Plantin and Times, tuned for legible, economical body copy in editorial and news settings.",
+    "description": "A pragmatic transitional serif by Kris Sowersby that updates the Plantin and Times News Roman lineage for contemporary, economical typesetting. The Tiempos system runs across three optical sizes (Text, Headline, Fine), so the same family carries you from body copy to mastheads without breaking voice. Reads quiet at small sizes and steady at large, which is why news, longform and editorial brands reach for it when the serif needs to stay out of the way.",
+    "foundry_blurb": "Klim classify Tiempos Text as Modern: Transitional/Realist, designed by Kris Sowersby and released in 2010. They describe it as Plantin and Times reimagined for present-day, space-efficient text setting, sitting at the Text size in the wider Tiempos system alongside Headline and Fine."
   },
   {
     "name": "Untitled Sans",
@@ -1764,5 +3076,46 @@
     "foundry_blurb": "Klim describes Untitled Sans as a plain neogrotesk validated by the Super Normal project — a collaboration between Jasper Morrison and Naoto Fukasawa exploring how the most useful objects appear designed by no one in particular. Sowersby approached the design with deliberate detachment, avoiding personal stylistic flourishes to produce something ordinary and quietly useful.",
     "foundry": "Klim Type Foundry",
     "type": "foundry"
+  },
+  {
+    "name": "Untitled Serif",
+    "foundry": "Klim Type Foundry",
+    "url": "https://klim.co.nz/fonts/untitled-serif/",
+    "designer": "Kris Sowersby",
+    "year": 2017,
+    "category": "serif",
+    "subcategory": "old-style serif",
+    "classification_notes": "Klim classifies it as Modern: Garalde/Oldstyle; drawn from the post-Caslon, pre-Times workhorses of metal type, sharing Untitled Sans's Super Normal concept rather than a shared skeleton.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Untitled Sans",
+      "Untitled Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "old-style",
+      "garalde",
+      "super normal",
+      "text",
+      "editorial",
+      "everyday"
+    ],
+    "summary": "A quotidian old-style serif drawn from post-Caslon metal workhorses, paired by concept with Untitled Sans for plain, readable text.",
+    "description": "An old-style serif by Kris Sowersby drawn from the post-Caslon, pre-Times workhorses that nearly every metal foundry once offered, then quietened in the spirit of Morrison and Fukasawa's Super Normal. Three weights (Regular, Medium, Bold) with italics keep the family lean, and a variable weight axis is supplied with the full family. Pairs by concept with Untitled Sans, and works for editorial body, books and brands that want a serif with no obvious authorial signature.",
+    "foundry_blurb": "Klim classify Untitled Serif as Modern: Garalde/Oldstyle, designed by Kris Sowersby and released in 2017. They describe it as drawn from the post-Caslon, pre-Times workhorses offered by almost every metal foundry of the time, paired with Untitled Sans by concept rather than skeleton, with a deliberate aesthetic of not being designed by anyone in particular."
   }
 ]

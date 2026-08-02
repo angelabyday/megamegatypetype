@@ -1,66 +1,5 @@
 [
   {
-    "name": "EULA",
-    "foundry": "Troisième Type",
-    "url": "https://troisieme-type.com/licensing",
-    "designer": null,
-    "year": null,
-    "category": "sans-serif",
-    "subcategory": "grotesque",
-    "classification_notes": "The page contains only a licensing agreement and no typeface-specific content; category fields are placeholder defaults as no typeface data is present.",
-    "weights": [],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [],
-    "has_condensed": false,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "licensing",
-      "eula",
-      "troisieme-type"
-    ],
-    "summary": "This page contains only Troisième Type's End User License Agreement and no typeface product information.",
-    "description": "The URL provided leads to Troisième Type's licensing terms page rather than a specific typeface product page. No typeface name, designer, weights, styles or specimen information is present. A meaningful entry cannot be generated from this content alone.",
-    "foundry_blurb": "Troisième Type's EULA governs desktop, web, merchandise and personal-use licenses for their fonts, with restrictions on redistribution, conversion to webfont formats, political or religious use, and NFT-related applications, operating under French intellectual property law."
-  },
-  {
-    "name": "Fonts in Use",
-    "foundry": "Troisième Type",
-    "url": "https://troisieme-type.com/fonts-in-use",
-    "designer": null,
-    "year": null,
-    "category": "display",
-    "subcategory": "display",
-    "classification_notes": "This page is a gallery of client work showcasing multiple typefaces from the foundry's catalogue, not a single typeface product page. No specific typeface can be classified.",
-    "weights": [],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [],
-    "has_condensed": false,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "foundry",
-      "display",
-      "independent",
-      "gallery"
-    ],
-    "summary": "A showcase page listing client and collaborator projects using Troisième Type's display typefaces across branding, print and digital work.",
-    "description": "This is a 'Fonts in Use' gallery page for Troisième Type, an independent French foundry. It presents a range of real-world applications across typefaces including Anurati Pro, Blanka, Braggy, Condensein and Kassandre, used in branding, book covers, signage and video game campaigns. No single typeface is the subject of this page.",
-    "foundry_blurb": "Troisième Type describes itself as an independent foundry providing original display fonts at affordable costs, with early buyers receiving free updates on purchased fonts."
-  },
-  {
     "name": "Calvin",
     "foundry": "Troisième Type",
     "url": "https://troisieme-type.com/calvin",
@@ -596,36 +535,6 @@
     "summary": "A retro-futuristic all-caps display typeface originating from the 36 Days of Type challenge in 2022, expanded into a variable font with 12 styles exploring weight and width axes.",
     "description": "Originally drawn for the 9th edition of 36 Days of Type, Spacer36 draws on the aesthetic of rock band logos such as the Scorpions' to produce a distinctive all-caps alphabet with a space-age feel. Version 0.2 delivers a variable font with 252 glyphs per weight and Latin Extended script support across a wide range of languages. Lowercases and further character additions are planned for future updates.",
     "foundry_blurb": "Troisième Type describe Spacer36 as a retro-futuristic alphabet inspired in part by the Scorpions' logo, first drawn during the 9th edition of 36 Days of Type in 2022 before being developed further into a variable font with 12 styles across weight and width axes. Version 0.2 includes 252 glyphs per weight and Latin Extended support, with lowercases and kerning improvements to follow in future updates."
-  },
-  {
-    "name": "Newsletter",
-    "foundry": "Troisième Type",
-    "url": "https://troisieme-type.com/newsletter",
-    "designer": null,
-    "year": null,
-    "category": "display",
-    "subcategory": "display",
-    "classification_notes": "The page provided is a newsletter sign-up page, not a typeface product page. No typeface-specific information is available to classify.",
-    "weights": [],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Newsletter"
-    ],
-    "has_condensed": false,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [],
-    "tier": "loose",
-    "type": "foundry",
-    "tags": [
-      "newsletter",
-      "no-content"
-    ],
-    "summary": "This URL leads to a newsletter sign-up page for Troisième Type, not a typeface product page.",
-    "description": "The provided URL resolves to Troisième Type's newsletter subscription page, which contains no typeface-specific content. The page lists the foundry's font catalogue by name only, without any design detail, specimen imagery or technical specifications. No meaningful typeface entry can be produced from this content.",
-    "foundry_blurb": "Troisième Type describes itself as an independent foundry offering original display fonts at affordable prices, with early buyers receiving free updates."
   },
   {
     "name": "What's Next",
