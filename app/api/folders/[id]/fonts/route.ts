@@ -11,6 +11,7 @@ export async function POST(
 
   const { id } = await params;
   const folderId = parseInt(id);
+  if (isNaN(folderId)) return NextResponse.json({ error: "Invalid id" }, { status: 400 });
   const { foundrySlug, typefaceSlug } = await req.json();
   if (!foundrySlug || !typefaceSlug) {
     return NextResponse.json({ error: "Missing fields" }, { status: 400 });
@@ -38,7 +39,11 @@ export async function PUT(
 
   const { id } = await params;
   const folderId = parseInt(id);
+  if (isNaN(folderId)) return NextResponse.json({ error: "Invalid id" }, { status: 400 });
   const { orderedItems } = await req.json() as { orderedItems: { foundrySlug: string; typefaceSlug: string }[] };
+  if (!Array.isArray(orderedItems) || orderedItems.length > 500) {
+    return NextResponse.json({ error: "Invalid orderedItems" }, { status: 400 });
+  }
 
   const ownerCheck = await sql`SELECT id FROM folders WHERE id = ${folderId} AND user_id = ${userId}`;
   if (ownerCheck.rows.length === 0) {
@@ -63,6 +68,7 @@ export async function DELETE(
 
   const { id } = await params;
   const folderId = parseInt(id);
+  if (isNaN(folderId)) return NextResponse.json({ error: "Invalid id" }, { status: 400 });
   const { foundrySlug, typefaceSlug } = await req.json();
 
   const ownerCheck = await sql`SELECT id FROM folders WHERE id = ${folderId} AND user_id = ${userId}`;

@@ -45,9 +45,13 @@ export async function POST(req: NextRequest) {
 
   const { name } = await req.json();
   if (!name?.trim()) return NextResponse.json({ error: "Name required" }, { status: 400 });
+  if (name.trim().length > 100) return NextResponse.json({ error: "Name too long" }, { status: 400 });
 
   const countResult = await sql`SELECT COUNT(*) FROM folders WHERE user_id = ${userId}`;
   const position = Number(countResult.rows[0].count);
+  if (position >= 100) {
+    return NextResponse.json({ error: "Folder limit reached" }, { status: 400 });
+  }
 
   const result = await sql`
     INSERT INTO folders (user_id, name, position)

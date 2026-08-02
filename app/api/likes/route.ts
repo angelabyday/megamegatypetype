@@ -53,6 +53,9 @@ export async function PUT(req: NextRequest) {
   if (!userId) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
 
   const { orderedItems } = await req.json() as { orderedItems: { foundrySlug: string; typefaceSlug: string }[] };
+  if (!Array.isArray(orderedItems) || orderedItems.length > 500) {
+    return NextResponse.json({ error: "Invalid orderedItems" }, { status: 400 });
+  }
 
   await Promise.all(
     orderedItems.map(({ foundrySlug, typefaceSlug }, i) =>

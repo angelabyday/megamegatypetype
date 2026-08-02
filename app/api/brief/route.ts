@@ -1,5 +1,7 @@
 import Anthropic from "@anthropic-ai/sdk";
+import { auth } from "@clerk/nextjs/server";
 import { NextResponse } from "next/server";
+import { briefLimiter } from "@/lib/rate-limit";
 import { TYPOGRAPHY_CONTEXT } from "@/lib/brief-context";
 import { getAllTypefaces } from "@/lib/typefaces";
 
@@ -157,6 +159,12 @@ function extractResponse(message: Anthropic.Message): BriefResponse | null {
 }
 
 export async function POST(request: Request) {
+  const { userId } = await auth();
+  if (!userId) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+
+  const { success } = await briefLimiter.limit(userId);
+  if (!success) return NextResponse.json({ error: "Too many requests" }, { status: 429 });
+
   if (!process.env.ANTHROPIC_API_KEY) {
     return NextResponse.json(
       { error: "ANTHROPIC_API_KEY is not set." },
@@ -185,7 +193,8 @@ export async function POST(request: Request) {
   let userContent = `Brief: ${brief}`;
   if (body.answers && body.answers.length > 0) {
     const answered = body.answers
-      .map((a) => `Q: ${a.question}\nA: ${a.answer || "I don't know"}`)
+      .slice(0, 5)
+      .map((a) => `Q: ${String(a.question ?? "").slice(0, 200)}\nA: ${String(a.answer ?? "").slice(0, 500) || "I don't know"}`)
       .join("\n");
     userContent += `\n\nAnswers to your clarifying questions:\n${answered}\n\nDo not ask further questions. Recommend now.`;
   }
