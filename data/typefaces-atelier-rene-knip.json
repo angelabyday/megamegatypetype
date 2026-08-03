@@ -1,0 +1,939 @@
+[
+  {
+    "name": "Square",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/square/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "monospaced environmental caps",
+    "classification_notes": "An all-caps monospaced alphabet meant for physical production (routing, tiling, stencilling) rather than screen text, which places it in the display category alongside the studio's other environmental lettering systems.",
+    "weights": [
+      "Regular",
+      "Stencil",
+      "Bitmap",
+      "Tiles"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Square"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "environmental",
+      "monospaced",
+      "stencil",
+      "signage",
+      "geometric"
+    ],
+    "summary": "An all-caps monospaced alphabet built only from horizontal and vertical strokes, with stencil, bitmap and tile variants for different production methods.",
+    "description": "Square is constructed solely with horizontal and vertical strokes, giving every letter perfectly square dimensions. Alongside the regular cut, a Stencil version allows characters to be cut out, a Bitmap version swaps rounded corners for little stairs, and a Tiles version is proportioned for reproduction on square tiles.",
+    "foundry_blurb": "Atelier René Knip describe Square as all-caps and monospaced, constructed solely with horizontal and vertical strokes, with the Stencil, Bitmap and Tiles variants each offering a different solution for producing the letters in different materials."
+  },
+  {
+    "name": "Double Dot",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/double-dot/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "dot-matrix display",
+    "classification_notes": "A dot-based construction system for physical signage rather than a conventional drawn letterform, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Double Dot"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "dot-matrix",
+      "signage",
+      "led",
+      "environmental",
+      "display"
+    ],
+    "summary": "A dot-matrix face built as a guideline for perforating, drilling or lighting letterforms, with old style figures for typographic refinement.",
+    "description": "Double Dot renders letters as a grid of dots reminiscent of electronic displays and dynamic signage. The dots can be perforated or used to position LEDs, with old style figures adding a touch of refinement to the capitals and lowercase.",
+    "foundry_blurb": "Atelier René Knip describe Double Dot's square raster as a starting point for a wealth of applications, from perforated materials to positioning LEDs, with old style figures complementing the capitals and lowercase."
+  },
+  {
+    "name": "Radius",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/radius/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "routed environmental caps",
+    "classification_notes": "A single-purpose fabrication alphabet for routing and laser-cutting, placing it in the display category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Radius"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "routing",
+      "laser-cut",
+      "signage",
+      "environmental",
+      "geometric"
+    ],
+    "summary": "An all-caps face built from horizontals, verticals and 45-degree diagonals with a single uniform corner radius, designed specifically for routing and laser cutting.",
+    "description": "Radius is an all-caps alphabet drawn using only horizontals, verticals and 45-degree diagonals, with every internal and external corner sharing one identical radius. That consistency lets the whole face be routed or laser-cut with a single tool setting.",
+    "foundry_blurb": "Atelier René Knip note that Radius was specifically designed to be routed, with all corners rounded to an identical radius so router bits never need to change size, and laser cutting can run at a constant speed."
+  },
+  {
+    "name": "Line Up",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/line-up/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "suspended environmental lettering",
+    "classification_notes": "A lowercase alphabet built around physical hanging tabs rather than conventional proportions, placing it as display.",
+    "weights": [
+      "Regular",
+      "No tabs"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Line Up"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "hanging-lettering",
+      "signage",
+      "environmental",
+      "lowercase",
+      "architectural"
+    ],
+    "summary": "An all-lowercase design whose character shapes include foldable tabs for hanging letters from horizontal wires, a construction detail that puts it firmly in the display category.",
+    "description": "Line Up's letters carry built-in tabs meant to be folded back and attached to horizontal wires strung between poles or architectural elements, so the text appears to hover in the air. A version without tabs is included for spacing and layout.",
+    "foundry_blurb": "Atelier René Knip describe Line Up as unique for including construction elements in its character shapes, with the tabs providing anchor points so letters can be suspended between architectural elements."
+  },
+  {
+    "name": "Brick Caps",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/brick-caps/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "masonry environmental caps",
+    "classification_notes": "An alphabet built to brick-module dimensions for wall construction, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brick Caps",
+      "Brick Roman"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "masonry",
+      "signage",
+      "environmental",
+      "caps",
+      "architectural"
+    ],
+    "summary": "An all-caps alphabet mapped to the dimensions of brick masonry, letting text be built directly into a wall using full and half bricks.",
+    "description": "Brick Caps maps text onto brick walls, with each letter available in a full-brick and half-brick starting version and spacing fixed at exactly one half brick. Bricks can be a different colour, or protrude and recede to form the letters, or the alphabet can simply be painted on.",
+    "foundry_blurb": "Atelier René Knip describe Brick Caps as taking into account the actual masonry of the wall, with letter shapes coinciding with the bricks so text can be integrated organically into new or existing construction."
+  },
+  {
+    "name": "Monoline",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/monoline/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "neon monoline display",
+    "classification_notes": "A monospaced fabrication alphabet built for neon and routing, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Monoline"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neon",
+      "routing",
+      "monospaced",
+      "signage",
+      "environmental"
+    ],
+    "summary": "A monospaced face built only from straight lines with rounded corners, designed for neon tubing and single-router-size fabrication.",
+    "description": "Monoline is constructed with only straight lines and rounded stroke endings, making it well suited to neon and to routing in wood, plexiglass or plastic with a single router size. Its square proportions work equally well set vertically or horizontally.",
+    "foundry_blurb": "Atelier René Knip describe Monoline as monospaced and perfectly suited for laying out text to be produced in neon, with rounded corners making it ideal for routing in a range of materials."
+  },
+  {
+    "name": "Street Stencil",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/street-stencil/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "diagonal stencil display",
+    "classification_notes": "A stencil alphabet meant for cutting into materials, placing it as display.",
+    "weights": [
+      "Regular",
+      "Rough"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Street Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "signage",
+      "environmental",
+      "textured",
+      "display"
+    ],
+    "summary": "A stencil face whose diagonal bridges form part of the design rather than a purely functional necessity, with a Rough version adding deliberate erosion.",
+    "description": "Street Stencil uses only diagonal bridges in its characters, giving the letterforms a lively rhythm and identity beyond their stencil function. A Rough version supplies two eroded variants of each letter to avoid repetition.",
+    "foundry_blurb": "Atelier René Knip note Street Stencil's diagonal bridges as forming an integral part of the text image, with the Rough version offering two variants per letter with different erosion to avoid identical repeats."
+  },
+  {
+    "name": "Tangram",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/tangram/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "modular tile display",
+    "classification_notes": "A two-shape modular counting system for tiled surfaces, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tangram"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "tile",
+      "modular",
+      "environmental",
+      "signage",
+      "geometric"
+    ],
+    "summary": "A modular alphabet built from just two tile shapes, referencing the tangram puzzle, and used as a counting guide for physical tile reproduction.",
+    "description": "Tangram builds every letter from two basic shapes, a full tile and a half tile, echoing the Chinese tangram puzzle. Text is outlined and then the full and half tiles are counted to work out how many of each are needed to recreate it on a surface.",
+    "foundry_blurb": "Atelier René Knip describe Tangram as reminiscent of the tangram puzzle, using only two basic shapes to describe all the letters, with text mapped out and then reproduced by counting tiles."
+  },
+  {
+    "name": "Triple Dot",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/triple-dot/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "dot-matrix display",
+    "classification_notes": "A dot-based construction system for physical signage, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Double Dot",
+      "Triple Dot"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "dot-matrix",
+      "signage",
+      "environmental",
+      "backlit",
+      "display"
+    ],
+    "summary": "A finer three-row extension of Double Dot's dot matrix, giving a greyscale effect suited to drilling, backlighting or perforated materials.",
+    "description": "Triple Dot expands Double Dot's concept with a third row of dots, making the raster finer so individual dots start to fade visually into a greyscale effect. It works drilled into metal, wood or plexiglass, and can be backlit or used on already-perforated surfaces.",
+    "foundry_blurb": "Atelier René Knip describe Triple Dot as expanding on Double Dot by adding a third row of dots, lending a greyscale effect that can be drilled, backlit or applied to already-perforated materials."
+  },
+  {
+    "name": "Laundry",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/laundry/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "suspended environmental caps",
+    "classification_notes": "An all-caps alphabet built around physical hanging tabs, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Laundry"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "hanging-lettering",
+      "signage",
+      "environmental",
+      "caps",
+      "architectural"
+    ],
+    "summary": "An all-caps face with integrated tabs for hanging letters from a horizontal cable, reworked from an existing alphabet for general use.",
+    "description": "Laundry originated from an existing alphabet reworked for general use, with integrated tabs that let the all-caps letters hang from a horizontal cable like laundry on a line. The tabs are a functional and visual part of the design.",
+    "foundry_blurb": "Atelier René Knip describe Laundry's letters as having integrated tabs used to hang them from a horizontal cable, giving the text a dreamy, poetic atmosphere."
+  },
+  {
+    "name": "Modular",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/modular/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "modular tile display",
+    "classification_notes": "A six-module counting system for physical reproduction, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Modular"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "modular",
+      "tile",
+      "environmental",
+      "signage",
+      "geometric"
+    ],
+    "summary": "An alphabet built from just six repeating modules assembled in a 3x3 grid, reducing the components needed to produce any character to a minimum.",
+    "description": "Modular breaks every letter into fragments occupying one tile each, needing only six modules to build the full character set. Text is laid out, converted to outlines, and the modules are counted and reproduced, with the modules also usable individually to compose new symbols.",
+    "foundry_blurb": "Atelier René Knip describe Modular as dramatically reducing the number of basic components needed to produce text, with only six modules required to create all letters, numbers and punctuation."
+  },
+  {
+    "name": "Connect",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/connect/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "bridged environmental display",
+    "classification_notes": "A full-charset display face built around connecting bridges between letters.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Connect"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "bridges",
+      "signage",
+      "environmental",
+      "display",
+      "typographic"
+    ],
+    "summary": "A capitals-and-lowercase face with built-in bridges connecting individual characters, functioning as free-standing text as well as surface lettering.",
+    "description": "Connect features built-in bridges connecting its individual characters, in two widths: a lighter bridge with minimal impact on the text image, and a heavy bridge that dramatically alters the letters' appearance. Oldstyle numbers add typographic refinement.",
+    "foundry_blurb": "Atelier René Knip describe Connect's bridges as usable for producing freestanding text or, purely for their artistic merit, for setting type on a surface, with oldstyle numbers adding a touch of typographic refinement."
+  },
+  {
+    "name": "Triplet",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/triplet/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "proportional environmental caps",
+    "classification_notes": "A three-proportion caps alphabet built for architectural surfaces, placing it as display.",
+    "weights": [
+      "Regular",
+      "Tall",
+      "Wide"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Triplet"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "environmental",
+      "architectural",
+      "caps",
+      "signage",
+      "geometric"
+    ],
+    "summary": "An all-caps face in three proportion variants, Regular, Tall and Wide, selected according to the dimensions of the surface the lettering will occupy.",
+    "description": "Triplet shares one structure across three predefined proportions, a squarish Regular, an elongated Tall and a generous Wide, with the choice guided by the surface the letters sit on. Alternating sharp and rounded corners give it an idiosyncratic flavour.",
+    "foundry_blurb": "Atelier René Knip describe Triplet as coming in three predefined versions sharing an identical structure but different proportions, with the surrounding architecture dictating which is used."
+  },
+  {
+    "name": "Body Stencil",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/body-stencil/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "minimal stencil display",
+    "classification_notes": "A full-charset stencil face built for varied physical production, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Body Stencil",
+      "Unicase"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "workhorse",
+      "signage",
+      "environmental",
+      "display"
+    ],
+    "summary": "A minimal, inconspicuous stencil face with full capitals and lowercase, built as a versatile workhorse for environmental lettering projects.",
+    "description": "Body Stencil keeps its stencil bridges to a minimum, added only where structurally necessary, so it reads as an ordinary contemporary face rather than an obviously cut-out one. A full set of capitals and lowercase with lining numerals suits it to longer texts.",
+    "foundry_blurb": "Atelier René Knip describe Body Stencil as a minimal stencil design that tries to be as inconspicuous as possible, calling it a versatile workhorse face for environmental projects."
+  },
+  {
+    "name": "Mono Roman",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/mono-roman/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "monospaced tile lettering",
+    "classification_notes": "An all-lowercase monospaced alphabet for tiled surfaces, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mono Roman"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "tile",
+      "signage",
+      "environmental",
+      "lowercase"
+    ],
+    "summary": "An all-lowercase monospaced face for tatami-tile lettering whose fixed-width grid is disguised by fluid letterform construction.",
+    "description": "Mono Roman sits on a strict fixed-width grid yet is drawn so the viewer forgets it is monospaced, using only straight lines with details that give surprising fluidity. It is intended for tatami-tile lettering, with removable frames around each character.",
+    "foundry_blurb": "Atelier René Knip describe Mono Roman as a fixed-width design whose ingenious construction removes the obsessive rhythm typical of monospaced text, intended to be applied to tatami tiles."
+  },
+  {
+    "name": "Line Dot",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/line-dot/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "dot-matrix environmental caps",
+    "classification_notes": "A dot-based caps alphabet for physical fixings and lighting, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Line Dot"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "dot-matrix",
+      "signage",
+      "environmental",
+      "caps",
+      "lighting"
+    ],
+    "summary": "The lightest of the studio's dotted alphabets, an all-caps face whose single-line dot positions can guide drilling or the placement of lights and fixings.",
+    "description": "Line Dot is the lightest of the dotted faces in the collection, its single lines of dots forming ethereal all-caps letterforms. Dots can be drilled or used to position light bulbs, candles, optical fibres, screw heads or nails, with spacing optically corrected for a calm rhythm.",
+    "foundry_blurb": "Atelier René Knip describe Line Dot as the lightest of the dotted faces in the collection, with dots that can be drilled or serve as a positioning guide for lights, screws, nails or dents."
+  },
+  {
+    "name": "Oblong",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/oblong/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "monumental architectural display",
+    "classification_notes": "A wide-set alphabet built as physical architectural objects, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Oblong"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "architectural",
+      "monumental",
+      "signage",
+      "environmental",
+      "geometric"
+    ],
+    "summary": "A wide, generously proportioned alphabet designed as standalone architectural letters for mounting on roofs and walls, with fixing points built into the corners.",
+    "description": "Oblong's massive, wide letters are meant to stand as objects mounted on roofs and walls, with proportions adjusted to make spacing work despite not being strictly monospaced. Square corners and stroke endings double as attachment points for various fixing methods.",
+    "foundry_blurb": "Atelier René Knip describe Oblong as having very wide, generous proportions that let its letters become standalone objects mounted on roofs and walls, with attachment points calculated into the design."
+  },
+  {
+    "name": "Random Stencil",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/random-stencil/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "randomised stencil display",
+    "classification_notes": "A caps-only stencil face using OpenType alternation, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Random Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "opentype",
+      "routing",
+      "signage",
+      "environmental"
+    ],
+    "summary": "A caps-only stencil face using an OpenType feature to rotate between several bridge positions per character, avoiding the repetition typical of stencil alphabets.",
+    "description": "Random Stencil gives each character multiple bridge positions instead of the usual fixed stencil bridge, with an OpenType feature rotating between alternates for a random-looking effect. Rounded, monoline strokes let it be routed with a single router size.",
+    "foundry_blurb": "Atelier René Knip describe Random Stencil as having multiple versions of each character with bridges in different places, with a smart OpenType feature rotating the alternates to create a random-looking effect."
+  },
+  {
+    "name": "Angular",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/angular/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "straight-line environmental caps",
+    "classification_notes": "A curve-free caps alphabet built for cutting and masking, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Angular"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "caps",
+      "signage",
+      "environmental",
+      "geometric",
+      "adhesive-cut"
+    ],
+    "summary": "A straight-lined, curve-free all-caps face suited to cutting in adhesive foil or masking with tape, and to typographic effects like shading and outlining.",
+    "description": "Angular is drawn with straight lines only, giving it a confident, curve-free appearance ideal for cutting out in adhesive foil or masking with tape when painting on windows or mirrors. The lack of curves also makes it easy to apply shading, outlining or 3D effects.",
+    "foundry_blurb": "Atelier René Knip describe Angular as designed with straight lines only, ideal for cutting out in adhesive foil and well suited to typographic transformations like shading or 3D effects."
+  },
+  {
+    "name": "Curtain",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/curtain/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "suspended monospaced display",
+    "classification_notes": "A monospaced alphabet built for vertical hanging installations, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Curtain"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "hanging-lettering",
+      "signage",
+      "environmental",
+      "monospaced",
+      "architectural"
+    ],
+    "summary": "A monospaced face built to hang vertically rather than horizontally, with tabs shaped to match the letters' countershapes so they stack under greater weight.",
+    "description": "Curtain's monospaced letters connect vertically rather than hanging from a horizontal line, letting them stack and support more weight. The tabs used to attach each letter share their shape and size with the counter shapes inside it, and the set includes arrows.",
+    "foundry_blurb": "Atelier René Knip describe Curtain as connected vertically rather than horizontally, with tabs whose shape and size matches the countershapes within each character, extending its design beyond pure utility."
+  },
+  {
+    "name": "Stretch",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/stretch/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "adaptable environmental display",
+    "classification_notes": "An alphabet engineered for resizing to fit variable surfaces, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Stretch"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "adaptable",
+      "signage",
+      "environmental",
+      "geometric",
+      "poster"
+    ],
+    "summary": "A face deliberately designed to be stretched and manipulated to fit a surface's proportions, using stretch-safe zones of straight lines between curves.",
+    "description": "Stretch is built so its character shapes can be adapted to fit the dimensions of whatever surface they're applied to. Every curve connects to the next via straight 'stretch-safe' lines, so distorting the letters to size doesn't break their proportions.",
+    "foundry_blurb": "Atelier René Knip describe Stretch as specifically designed to be stretched and manipulated, using stretch-safe zones so letters can be resized to fit a canvas without becoming distorted."
+  },
+  {
+    "name": "Concrete",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/concrete/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "monumental concrete display",
+    "classification_notes": "A fixed-width alphabet engineered for concrete casting, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Concrete"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "concrete",
+      "signage",
+      "environmental",
+      "monospaced",
+      "architectural"
+    ],
+    "summary": "A fixed-width alphabet with softly radiused corners designed to be poured in concrete without chipping, referencing Amsterdam School detailing.",
+    "description": "Concrete's letters carry soft radiused corners and no sharp angles, preventing the material from chipping or crumbling when poured. Tapered stroke endings, flat tops and serif-like details recall the Amsterdam School, reworked into a fixed-width design that avoids spacing issues.",
+    "foundry_blurb": "Atelier René Knip describe Concrete as designed to be poured in concrete, with soft radiused corners to prevent chipping and details reminiscent of the Amsterdam School, reimagined as a fixed-width typeface."
+  },
+  {
+    "name": "Brick Roman",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/brick-roman/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "masonry environmental lowercase",
+    "classification_notes": "A lowercase alphabet built to brick-module dimensions, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brick Caps",
+      "Brick Roman"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "masonry",
+      "signage",
+      "environmental",
+      "lowercase",
+      "architectural"
+    ],
+    "summary": "An all-lowercase companion to Brick Caps, built solely from half bricks as a guideline for lettering onto brick masonry.",
+    "description": "Brick Roman is an all-lowercase, half-brick-only companion to Brick Caps. It functions as a guideline rather than a finished result, with letter dimensions changing to match the proportions of whatever brick they're mapped onto, painted on or built into the wall.",
+    "foundry_blurb": "Atelier René Knip describe Brick Roman as an elegant alternative to Brick Caps, constructed solely with half bricks, with the alphabet serving as a guideline for applying text on brick walls."
+  },
+  {
+    "name": "Unicase",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/24-unicase/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "unicase stencil display",
+    "classification_notes": "A mixed-case stencil face for compact environmental setting, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Body Stencil",
+      "Unicase"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "unicase",
+      "stencil",
+      "signage",
+      "environmental",
+      "compact"
+    ],
+    "summary": "A stencil face mixing capital and lowercase forms in a single case, with short ascenders and descenders for compact setting.",
+    "description": "Unicase mixes capital and lowercase letterforms with oldstyle figures for a friendly, delicate text image, rooted in uncial lettering but decidedly contemporary. Its generous body and short ascenders and descenders allow compact setting with little linespace, and its stencil bridges are kept as unobtrusive as possible.",
+    "foundry_blurb": "Atelier René Knip describe Unicase as mixing capital and lowercase forms with roots in uncial lettering, calling it a stencil typeface that tries to attract as little attention as possible to its stencil nature."
+  },
+  {
+    "name": "Wood Stick",
+    "foundry": "Atelier René Knip",
+    "url": "https://atelierreneknip.com/product/wood-stick/",
+    "designer": "René Knip",
+    "year": null,
+    "category": "display",
+    "subcategory": "DIY environmental caps",
+    "classification_notes": "A physical-construction guide for wood-plank lettering rather than a conventional digital face, placing it as display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Wood Stick"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "diy",
+      "signage",
+      "environmental",
+      "caps",
+      "low-budget"
+    ],
+    "summary": "An all-caps alphabet supplied as a cutting guide for assembling letters from wooden planks and nails rather than as digital glyphs to set.",
+    "description": "Wood Stick is a guideline rather than a conventional font: it comes with a PDF specifying the number and length of wooden planks needed to build each letter, to be nailed together by hand at any scale from garden-sized to monumental.",
+    "foundry_blurb": "Atelier René Knip describe Wood Stick as the solution for producing environmental lettering on a very low budget, supplied as a guideline detailing the planks needed to recreate the alphabet."
+  }
+]

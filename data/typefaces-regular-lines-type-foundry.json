@@ -1,0 +1,193 @@
+[
+  {
+    "name": "RL Gruezi",
+    "foundry": "Regular Lines Type Foundry",
+    "url": "https://www.regularlines.com/rl-gruezi/",
+    "designer": "Matej Vojtuš, Jozef Ondrik",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "Swiss modernist grotesque",
+    "classification_notes": "The foundry classes it a Grotesk, built on early European modernist models like Blockschrift and Amerikanische Grotesk from the Genzsch & Heyse foundry, with humanist touches added.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "RL Gruezi"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "swiss",
+      "modernist",
+      "editorial",
+      "multilingual"
+    ],
+    "summary": "A seven-weight grotesque that reworks early Genzsch & Heyse designs into a confident, contemporary Swiss-modernist sans.",
+    "description": "RL Gruezi (Grüezi Grotesk) takes its bones from historic Genzsch & Heyse faces like Blockschrift, Botha and Amerikanische Grotesk, then adds humanist warmth and revived stroke variations that early digital type left behind. Seven weights with italics and broad multilingual support make it workable across branding, editorial and signage.",
+    "foundry_blurb": "Regular Lines describe it as a modern typeface paying homage to the timeless aesthetics of Swiss modernist typography, rooted in the legacy of Helvetica and Univers, balancing rigidity and warmth with subtle variations in stroke weight and character proportions."
+  },
+  {
+    "name": "RL Zeta",
+    "foundry": "Regular Lines Type Foundry",
+    "url": "https://www.regularlines.com/rl-zeta/",
+    "designer": "Matej Vojtuš",
+    "year": 2024,
+    "category": "mono",
+    "subcategory": "typewriter-revival monospace",
+    "classification_notes": "The foundry classifies it as Monospace, built on the history of the Czechoslovak Zetotype and Consul typewriters.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "RL Zeta"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "typewriter",
+      "archival",
+      "coding",
+      "historical"
+    ],
+    "summary": "A monospaced typeface built on the history of the Zeta and Consul typewriters that came out of Cold War-era Czechoslovakia.",
+    "description": "RL Zeta traces the failed Zetotype Linotype project and the Zeta and Consul typewriters that followed it, folding that mechanical-typesetting history into a modern monospace. Its uniform width suits coding and tabular work while carrying more character than a typical utility mono.",
+    "foundry_blurb": "Regular Lines call it a monospaced typeface that pays homage to the rich history of metal type printing, bridging mechanical typesetting precision with the versatility needed in modern digital contexts, adding nuances that reflect the sophistication of historical typefaces."
+  },
+  {
+    "name": "RL Refusit",
+    "foundry": "Regular Lines Type Foundry",
+    "url": "https://www.regularlines.com/rl-refusit-copy/",
+    "designer": "Matej Vojtuš",
+    "year": 2024,
+    "category": "mono",
+    "subcategory": "stencil-influenced monospace",
+    "classification_notes": "The foundry classifies it as Monospace; the letterforms carry the ink-spread texture of stamped shipping-box lettering rather than clean digital strokes.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "RL Refusit"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "stencil",
+      "industrial",
+      "stamped",
+      "heavy"
+    ],
+    "summary": "A heavy, single-weight monospace styled after ink-stamped lettering on shipping crates.",
+    "description": "RL Refusit borrows its texture from engineered letters stamped onto shipping boxes and metal type printing history, using the visual gesture of ink spreading under pressure. It reads as blunter and more industrial than most clean digital monospaces.",
+    "foundry_blurb": "Regular Lines describe it as inspired by metal type printing history as well as engineered letters stamped onto shipping boxes, using the visual gesture of ink spreading under pressure as a stylistic device, an alternative to more spindly digital-age typefaces."
+  },
+  {
+    "name": "RL Slack",
+    "foundry": "Regular Lines Type Foundry",
+    "url": "https://www.regularlines.com/rl-slack/",
+    "designer": "Jozef Ondrik",
+    "year": 2024,
+    "category": "mono",
+    "subcategory": "monospaced display",
+    "classification_notes": "The foundry classifies it as Monospace; its specimen material draws on monolithic architecture, concrete-block units and 1990s PlayStation-era graphic design rather than metal type.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "RL Slack"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "retro-tech",
+      "architectural",
+      "blocky",
+      "display"
+    ],
+    "summary": "A blocky monospaced display face pitched somewhere between monolithic architecture and 1990s PlayStation-era graphic design.",
+    "description": "RL Slack takes its cues from rock-cut monolithic architecture and modular concrete-block units, filtered through the chunky, high-tech graphic language of 1990s console gaming (its specimen name-checks the Designers Republic's Wipeout typeface). The result is a single-weight monospace built for blunt, graphic display use.",
+    "foundry_blurb": "Regular Lines set its specimen around monolithic architecture, modular concrete-block sizing and PlayStation-era interface graphics, positioning RL Slack as a blocky, structural monospace."
+  },
+  {
+    "name": "RL Unno",
+    "foundry": "Regular Lines Type Foundry",
+    "url": "https://www.regularlines.com/rl-unno/",
+    "designer": "Jozef Ondrik",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "editorial display serif",
+    "classification_notes": "The foundry classifies it as Serif; its specimen material draws on mid-century magazine mastheads and editorial illustration, pointing to an editorial display use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "RL Unno"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "magazine",
+      "vintage",
+      "display"
+    ],
+    "summary": "A serif built around mid-century magazine culture, from Harper's Magazine to J.C. Leyendecker illustration.",
+    "description": "RL Unno's specimen leans on decades of magazine history, from Harper's Magazine and Variety to GQ Korea and Criterion Collection reissue covers, positioning it as a serif for editorial mastheads and display use rather than dense body text.",
+    "foundry_blurb": "Regular Lines set RL Unno's specimen among magazine mastheads and editorial illustration spanning Harper's Magazine, Variety and GQ Korea, pitching it as a serif suited to that same editorial world."
+  }
+]

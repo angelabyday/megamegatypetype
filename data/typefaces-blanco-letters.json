@@ -1,0 +1,663 @@
+[
+  {
+    "name": "Harri",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/harri/",
+    "designer": "Juan Luis Blanco",
+    "year": 2016,
+    "category": "display",
+    "subcategory": "flared Basque display",
+    "classification_notes": "Flared serifs drawn from Basque gravestone inscriptions place this as a display face rather than a workhorse text serif.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Harri",
+      "Harri Sans",
+      "Harri Condensed",
+      "Harri Sans Condensed",
+      "Harri Variable",
+      "Harri Text"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Basque",
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "basque",
+      "display",
+      "flared",
+      "editorial",
+      "branding"
+    ],
+    "summary": "A flared display face drawing on Basque gravestone lettering, blending Romanesque and Roman capital influences.",
+    "description": "Harri, Basque for 'stone', draws on distinctive letterforms found on signs and fascias across the Basque Country, particularly ancient gravestone inscriptions, blending Romanesque and Roman capital influences with exaggerated contemporary shapes.",
+    "foundry_blurb": "Blancoletters describe Harri as drawing on distinctive letterforms found in signs and fascias across the Basque Country, inspired by ancient gravestone inscriptions and blending Romanesque and Roman capital influences with contemporary exaggerated shapes."
+  },
+  {
+    "name": "Harri Sans",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/harri-sans/",
+    "designer": "Juan Luis Blanco",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "humanist Basque sans",
+    "classification_notes": "A clean, minimalist sans distillation of Harri's flared forms into humanist proportions.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Harri",
+      "Harri Sans",
+      "Harri Condensed",
+      "Harri Sans Condensed",
+      "Harri Variable",
+      "Harri Text"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Basque",
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "basque",
+      "sans-serif",
+      "humanist",
+      "branding",
+      "editorial"
+    ],
+    "summary": "A modern sans distillation of Harri's Basque forms into clean, humanist proportions.",
+    "description": "Harri Sans redefines traditional Basque lettering through contemporary minimalism, distilling the original Harri font's iconic forms into clean, humanist proportions while retaining organic qualities suited to modern branding.",
+    "foundry_blurb": "Blancoletters describe Harri Sans as a modern sans-serif that redefines traditional Basque lettering through contemporary minimalism, distilling the iconic forms of the original Harri font into clean, humanist proportions."
+  },
+  {
+    "name": "Harri Condensed",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/harri-condensed/",
+    "designer": "Juan Luis Blanco",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "condensed flared Basque display",
+    "classification_notes": "The narrow evolution of Harri's flared gravestone-inspired forms, built for tight, high-impact layouts.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Harri",
+      "Harri Sans",
+      "Harri Condensed",
+      "Harri Sans Condensed",
+      "Harri Variable",
+      "Harri Text"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Basque",
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "basque",
+      "display",
+      "condensed",
+      "flared",
+      "branding"
+    ],
+    "summary": "A narrow, high-impact evolution of Harri built for layouts where horizontal space is limited.",
+    "description": "Harri Condensed narrows the Harri family for high-impact layouts, inspired by the rhythmic, powerful carvings of traditional Basque gravestones and engineered to keep its historical character in tighter proportions.",
+    "foundry_blurb": "Blancoletters describe Harri Condensed as a narrow evolution of the Harri family inspired by the rhythmic and powerful carvings of traditional Basque gravestones, engineered for high-impact layouts where horizontal space is limited."
+  },
+  {
+    "name": "Harri Sans Condensed",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/harri-sans-condensed/",
+    "designer": "Juan Luis Blanco",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "condensed humanist Basque sans",
+    "classification_notes": "The condensed counterpart to Harri Sans, sharing structure and metrics with Harri Condensed for style-swapping.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Harri",
+      "Harri Sans",
+      "Harri Condensed",
+      "Harri Sans Condensed",
+      "Harri Variable",
+      "Harri Text"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Basque",
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "basque",
+      "sans-serif",
+      "condensed",
+      "branding",
+      "editorial"
+    ],
+    "summary": "A condensed, terminal-free Basque sans sharing metrics with Harri Condensed for seamless style-swapping.",
+    "description": "Harri Sans Condensed offers a tighter form of Harri Sans for efficiency and space-saving in editorial and branding systems, sharing structure and metrics with Harri Condensed so the two can be swapped without reflow.",
+    "foundry_blurb": "Blancoletters describe Harri Sans Condensed as maintaining the terminal-free look of Harri Sans while offering a tighter form that shares identical structure and metrics with Harri Condensed, enabling seamless style swaps."
+  },
+  {
+    "name": "Harri Variable",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/harri-variable/",
+    "designer": "Juan Luis Blanco",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "variable flared Basque system",
+    "classification_notes": "A single variable file spanning weight, width and a flare axis across the whole Harri system, kept in display for its flared-serif core.",
+    "weights": [
+      "Variable"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Harri",
+      "Harri Sans",
+      "Harri Condensed",
+      "Harri Sans Condensed",
+      "Harri Variable",
+      "Harri Text"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Basque",
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "basque",
+      "variable",
+      "display",
+      "branding",
+      "flare-axis"
+    ],
+    "summary": "A three-axis variable font consolidating the whole Harri family, from linear sans stems to stone-carved flares.",
+    "description": "Harri Variable consolidates the Basque-inspired Harri family into one file with Weight, Width and a unique Flare axis, letting a single font move from minimalist linear stems to iconic stone-carved flares, with packs of Harri, Harri Sans, Harri Condensed and Harri Sans Condensed included.",
+    "foundry_blurb": "Blancoletters describe Harri Variable as featuring three customisable axes, Weight, Width and a unique Flare Axis that allows modulation from minimalist linear stems to iconic stone-carved flares."
+  },
+  {
+    "name": "Harri Text",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/harri-text/",
+    "designer": "Juan Luis Blanco",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "Basque text serif",
+    "classification_notes": "A professional text serif built for long-form reading, keeping Basque vernacular character at body-copy sizes rather than display.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Harri",
+      "Harri Sans",
+      "Harri Condensed",
+      "Harri Sans Condensed",
+      "Harri Variable",
+      "Harri Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Basque",
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "basque",
+      "serif",
+      "text",
+      "editorial",
+      "small-caps"
+    ],
+    "summary": "A professional text serif rooted in vernacular Basque lettering, built for long-form reading.",
+    "description": "Harri Text brings Basque lettering's local character to long-form reading while keeping the neutrality modern publications need, with six weights, matching italics, small caps and customisable stylistic sets.",
+    "foundry_blurb": "Blancoletters describe Harri Text as a professional text font rooted in vernacular Basque lettering, bringing a distinctive local character to long-form reading while maintaining the neutrality required for modern publications."
+  },
+  {
+    "name": "Basati",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/basati/",
+    "designer": "Juan Luis Blanco",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "experimental Basque display",
+    "classification_notes": "Sharp, heavy strokes with deliberately unconventional weight placement, inspired by 17th-century Basque stone inscriptions, place this firmly as experimental display.",
+    "weights": [
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Basati",
+      "Basati Rounded"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Basque",
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "basque",
+      "display",
+      "experimental",
+      "branding",
+      "packaging"
+    ],
+    "summary": "A wild, sharp-stroked experimental Basque display face inspired by 17th-century stone-carved lettering.",
+    "description": "Basati is an experimental Basque display typeface inspired by traditional stone-carved lettering, with sharp, heavy strokes that defy both logic and gravity. The concept emerged during a period of chronic pain, reflecting restless energy through provocative anatomy and unconventional weight placement.",
+    "foundry_blurb": "Blancoletters describe Basati as a wild temperament in modern Basque lettering, with sharp, heavy strokes that defy both logic and gravity, inspired by 17th-century Basque inscriptions with audacious interlacing."
+  },
+  {
+    "name": "Basati Rounded",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/basati_rounded/",
+    "designer": "Juan Luis Blanco",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "soft brutalist Basque display",
+    "classification_notes": "A rounded companion to Basati that keeps the same 17th-century Basque inscription roots, still classed as display.",
+    "weights": [
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Basati",
+      "Basati Rounded"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Basque",
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "basque",
+      "display",
+      "soft-brutalism",
+      "branding",
+      "packaging"
+    ],
+    "summary": "A friendly, rounded sibling to Basati blending sharp Basque forms with soft, welcoming curves.",
+    "description": "Basati Rounded is described as the welcoming sibling of Basati, transforming its chisel-sharp terminals into warm, organic curves while keeping the strong personality of its 17th-century Basque inscription roots.",
+    "foundry_blurb": "Blancoletters describe Basati Rounded as soft brutalism, blending sharp, bold forms with smooth, welcoming curves, the welcoming sibling of Basati that stays approachable yet forceful."
+  },
+  {
+    "name": "Ingeo",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/ingeo/",
+    "designer": "Juan Luis Blanco",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A geometric sans integrating calligraphic gestures into a strictly geometric framework, across nine weights and italics.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ingeo",
+      "Ingeo Tifinagh"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "editorial",
+      "branding",
+      "variable"
+    ],
+    "summary": "A geometric sans sitting at the intersection of mathematical structure and expressive, calligraphic rhythm.",
+    "description": "Ingeo integrates calligraphic gestures into a strictly geometric framework, running nine weights from Thin to Black with matching italics, five stylistic sets and a variable font, alongside a dedicated Tifinagh companion.",
+    "foundry_blurb": "Blancoletters describe Ingeo as existing at the precise intersection of mathematical structure and expressive rhythm, integrating calligraphic gestures into a strictly geometric framework."
+  },
+  {
+    "name": "Ingeo Tifinagh",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/ingeo/ingeo-tifinagh-font/",
+    "designer": "Juan Luis Blanco",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "variable Tifinagh geometric sans",
+    "classification_notes": "A Tifinagh-script companion to Ingeo, claimed as the first variable Tifinagh font with a continuous weight axis.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ingeo",
+      "Ingeo Tifinagh"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Tifinagh"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "tifinagh",
+      "amazigh",
+      "geometric",
+      "variable",
+      "free"
+    ],
+    "summary": "A free, Unicode-compliant variable Tifinagh font, described as the first with a continuous weight axis.",
+    "description": "Ingeo Tifinagh is a contemporary, Unicode-compliant font for the Tifinagh script used to write Tamazight and other Amazigh languages, offered as nine static weights plus what the foundry calls the world's first variable Tifinagh font with a continuous weight axis.",
+    "foundry_blurb": "Blancoletters describe Ingeo Tifinagh as a technical milestone, likely the world's first variable Tifinagh font featuring a continuous weight axis, released free with optional donations."
+  },
+  {
+    "name": "Karela",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/karela/",
+    "designer": "Juan Luis Blanco",
+    "year": 2020,
+    "category": "slab",
+    "subcategory": "humanist uni-width slab",
+    "classification_notes": "A sturdy slab serif softened by humanist proportions and calligraphic detail, with a uni-width system across weights and grades.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Karela"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "humanist",
+      "uni-width",
+      "editorial",
+      "maritime"
+    ],
+    "summary": "A sturdy, uni-width humanist slab serif inspired by maritime engineering, named for a ship's reinforced hull edge.",
+    "description": "Karela takes its name from the Basque word for a ship's gunwale, combining the precision of modern engineering with the organic warmth of handcrafted wood. Every character keeps the exact same width across all weights and grades, so switching weight never reflows the text.",
+    "foundry_blurb": "Blancoletters describe Karela as combining the precision of modern engineering and the organic warmth of handcrafted wood, with humanist proportions and subtle calligraphic elements softening its otherwise robust slab serifs."
+  },
+  {
+    "name": "Tubqal Pro Multiscript",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/tubqal-pro-multiscript/",
+    "designer": "Andreu Balius and Juan Luis Blanco",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "multiscript Maghribi/Latin/Tifinagh",
+    "classification_notes": "A low-contrast multiscript family translating the Maghribi Mabsout Arabic hand into Latin and Tifinagh, read as sans-serif for its Latin cut.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tubqal Pro Multiscript",
+      "Tubqal Tifinagh"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Tifinagh",
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "multiscript",
+      "arabic",
+      "tifinagh",
+      "maghribi",
+      "editorial"
+    ],
+    "summary": "A multiscript family translating the Maghribi Mabsout Arabic reading hand into matched Latin and Tifinagh forms.",
+    "description": "Tubqal Pro is a modern multiscript type family inspired by the Maghribi Mabsout style, a low-contrast hand traditionally used for extended reading, translating its formal qualities into Latin and Tifinagh while respecting each script's own idiosyncrasies.",
+    "foundry_blurb": "Blancoletters describe Tubqal Pro as translating the Maghribi Mabsout style's formal qualities and spirit into Latin and Tifinagh scripts while respecting each one's idiosyncrasy and peculiarities."
+  },
+  {
+    "name": "Tubqal Tifinagh",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/tubqal-pro-multiscript/tubqal-tifinagh/",
+    "designer": "Juan Luis Blanco",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "Tifinagh/Latin pairing",
+    "classification_notes": "A dedicated Tifinagh cut of Tubqal addressing the scarcity of quality fonts for Tamazight and Tuareg scripts, with Latin transliteration support.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tubqal Pro Multiscript",
+      "Tubqal Tifinagh"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Tifinagh",
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "tifinagh",
+      "amazigh",
+      "tuareg",
+      "free",
+      "multiscript"
+    ],
+    "summary": "A free professional Tifinagh font addressing the scarcity of quality Tamazight and Tuareg typography.",
+    "description": "Tubqal Tifinagh was built to address the scarcity of high-quality fonts for the Tamazight and Tuareg scripts, with Latin transliteration support and small caps for harmonious pairing, plus localisation stylistic sets for Algerian and Tuareg character variants.",
+    "foundry_blurb": "Blancoletters describe Tubqal Tifinagh as part of a commitment to providing accessible, well-engineered tools for the Tamazight script, released free with optional donations."
+  },
+  {
+    "name": "Akaya",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/akaya-multiscript/",
+    "designer": "Juan Luis Blanco with Vaishnavi Murthy",
+    "year": 2016,
+    "category": "display",
+    "subcategory": "cross-script Indic-Latin display",
+    "classification_notes": "A Latin display cut translating Indic ductus and contrast rules into the Latin alphabet, built to harmonise with Kannada and Telugu.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Akaya"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Kannada",
+      "Telugu"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "multiscript",
+      "indic",
+      "display",
+      "free",
+      "google-fonts"
+    ],
+    "summary": "A free display face translating Indic ductus and contrast rules into Latin, designed to pair with Kannada and Telugu.",
+    "description": "Akaya was created through a specialised commission to harmonise Latin characters with Kannada and Telugu scripts, translating Indic ductus and contrast rules into the Latin alphabet. The Latin cut is a single free weight, distributed under an open licence via Google Fonts.",
+    "foundry_blurb": "Blancoletters describe Akaya as exploring cross-cultural typography principles, translating Indic ductus and contrast rules into the Latin alphabet as part of the wider Akaya Multiscript family."
+  },
+  {
+    "name": "Amaikha Tifinagh",
+    "foundry": "Blanco Letters",
+    "url": "https://www.blancoletters.com/typefaces/amaikha-multiscript/amaikha-tifinagh/",
+    "designer": "Juan Luis Blanco",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "Tifinagh editorial type",
+    "classification_notes": "A dedicated professional Tifinagh cut for editorial and web use, part of a planned five-script Amaikha family.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Amaikha Tifinagh"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Tifinagh"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "tifinagh",
+      "amazigh",
+      "free",
+      "editorial",
+      "research"
+    ],
+    "summary": "A free Tifinagh cut for Tamazight readers, developed as part of an MA research project into the script.",
+    "description": "Amaikha Tifinagh is a high-quality Tifinagh typeface for editorial and web projects aimed at Tamazight readers, developed during the designer's MA research at the University of Reading into a script the foundry calls remarkably under-served by professional type design. Further weights are planned.",
+    "foundry_blurb": "Blancoletters describe Amaikha Tifinagh as created for editorial and web projects targeting Tamazight readers, noting that the scarcity of professional Tifinagh typography is remarkable."
+  }
+]

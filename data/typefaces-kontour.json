@@ -1,0 +1,543 @@
+[
+  {
+    "name": "Riant",
+    "foundry": "Kontour",
+    "url": "https://kontour.com/typefaces/riant",
+    "designer": "Sibylle Hagmann",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Draws on early twentieth-century geometric sans construction but adds optical adjustments for sustained reading, so it reads as a text-friendly geometric rather than a strict mathematical one.",
+    "weights": [
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Bold",
+      "Bold Italic",
+      "Extrabold",
+      "Extrabold Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Riant",
+      "Riant Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric sans",
+      "text",
+      "editorial",
+      "variable",
+      "rounded alternates"
+    ],
+    "summary": "A geometric sans that keeps the clarity of early twentieth-century construction while adding the optical tweaks a text face needs.",
+    "description": "Riant takes the geometric sans tradition and pulls it back from pure mathematics toward comfortable reading, with rounded alternate lowercase forms and traditional text-type junctions on offer through OpenType. Six weights with italics cover body text through to headline use, alongside its display companion Riant Display.",
+    "foundry_blurb": "Kontour positions Riant as balancing the clarity and rigour of geometric design with the optical adjustments necessary for sustained reading across print and digital media."
+  },
+  {
+    "name": "Riant Display",
+    "foundry": "Kontour",
+    "url": "https://kontour.com/typefaces/riant-display",
+    "designer": "Sibylle Hagmann",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "geometric display sans",
+    "classification_notes": "The display companion to Riant, built from the same geometric sans roots but pushed toward playful, headline-scale character with high-waisted forms and folded finials.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Inline"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Riant",
+      "Riant Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric sans",
+      "display",
+      "headlines",
+      "editorial",
+      "branding"
+    ],
+    "summary": "The headline-scale companion to Riant, with high-waisted s forms and folded finials for a livelier display presence.",
+    "description": "Riant Display takes the same early twentieth-century geometric starting point as its text companion and pushes it toward the unexpected, with dynamic curves, rhythmic contrasts, and randomised OpenType alternates for stemmed or rounded lowercase. It is built for striking headlines and branding rather than body copy.",
+    "foundry_blurb": "Kontour describes Riant Display as built around dynamic curves and rhythmic contrasts, celebrating the unexpected wherever typography takes centre stage."
+  },
+  {
+    "name": "Datei Grotesk",
+    "foundry": "Kontour",
+    "url": "https://kontour.com/typefaces/datei-grotesk",
+    "designer": "Sibylle Hagmann",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A grotesque and neo-grotesque hybrid referencing Akzidenz, DIN 1451, Folio and Haas Unica, with slightly straight-sided letterforms for an understated industrial edge.",
+    "weights": [
+      "Thin",
+      "Thin Italic",
+      "Extralight",
+      "Extralight Italic",
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Bold",
+      "Bold Italic",
+      "Extrabold",
+      "Extrabold Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Datei Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "neo-grotesque",
+      "editorial",
+      "branding",
+      "workhorse"
+    ],
+    "summary": "An eight-weight grotesque that studies Akzidenz, DIN 1451, Folio and Haas Unica before settling on a restrained, faintly industrial voice.",
+    "description": "Datei Grotesk grew out of an extended survey of grotesque and neo-grotesque history, aiming for clear shapes and effortless readability rather than novelty. Slightly straight-sided letterforms give it a subtle industrial flair without tipping into cold rigidity, across eight weights with matching italics.",
+    "foundry_blurb": "Kontour says Datei Grotesk strikes a balance between restraint and warmth, blending rationality with friendliness through clear shapes and uniform, no-nonsense features."
+  },
+  {
+    "name": "Marlide Display",
+    "foundry": "Kontour",
+    "url": "https://kontour.com/typefaces/marlide-display",
+    "designer": "Sibylle Hagmann",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "high-contrast display serif",
+    "classification_notes": "A condensed, high-contrast serif drawing on late nineteenth-century Latin forms and Art Nouveau ornament, built for large-scale display rather than text.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extrabold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "condensed"
+    ],
+    "subfamilies": [
+      "Marlide Display"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "high contrast",
+      "display serif",
+      "condensed",
+      "art nouveau",
+      "logotypes"
+    ],
+    "summary": "A condensed, high-contrast display serif that borrows the flamboyance of Belle Époque and Art Nouveau lettering.",
+    "description": "Marlide Display roots its elegant, roundly bracketed serifs and considerable thick-to-thin contrast in Roman inscriptions and neo-Renaissance forms, then filters them through the ornamental spirit of the Belle Époque. Condensed proportions make it a natural fit for logotypes and large-scale headlines.",
+    "foundry_blurb": "Kontour calls Marlide Display a flamboyant and vibrant typeface designed to shine at large sizes, in logotypes, headlines and other prominent messaging."
+  },
+  {
+    "name": "Utile",
+    "foundry": "Kontour",
+    "url": "https://kontour.com/typefaces/utile",
+    "designer": "Sibylle Hagmann",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "flared grotesque",
+    "classification_notes": "A mid-century-inspired grotesque with lightly swelled terminals and asymmetrical incised stem details, offered in a standard width and a narrow companion cut.",
+    "weights": [
+      "Light",
+      "Light Italic",
+      "Book",
+      "Book Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "narrow"
+    ],
+    "subfamilies": [
+      "Utile",
+      "Utile Narrow",
+      "Utile Display"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "editorial",
+      "branding",
+      "narrow width",
+      "text"
+    ],
+    "summary": "A mid-century grotesque with lightly flared terminals, offered in standard and narrow widths for editorial and branding text.",
+    "description": "Utile draws on mid-twentieth-century sans-serif design, with rhythmically animated letterforms built from lightly swelled terminals and asymmetrical incised stems. A Narrow cut sits alongside the standard width, and a Display companion extends the family to larger sizes.",
+    "foundry_blurb": "Kontour describes Utile as elegantly flared, aiming for superb legibility and optical balance across identity, editorial and advertising work in print and screen."
+  },
+  {
+    "name": "Utile Display",
+    "foundry": "Kontour",
+    "url": "https://kontour.com/typefaces/utile-display",
+    "designer": "Sibylle Hagmann",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "flared grotesque display",
+    "classification_notes": "The display-weighted counterpart to Utile, sharing its asymmetrical stem modulation and swelled terminals but tuned for headline rather than text sizes.",
+    "weights": [
+      "Light",
+      "Light Italic",
+      "Book",
+      "Book Italic",
+      "Regular",
+      "Italic",
+      "Medium",
+      "Medium Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Utile",
+      "Utile Narrow",
+      "Utile Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "display",
+      "editorial",
+      "branding",
+      "headlines"
+    ],
+    "summary": "The headline-scale finish of Utile, keeping its flared, asymmetrical stem detailing at larger sizes.",
+    "description": "Utile Display carries the same lightly curved stem modulation and swelled terminals as its text counterpart into headline territory, with a classical letter heritage running through an otherwise contemporary grotesque structure.",
+    "foundry_blurb": "Kontour calls Utile and Utile Display elegantly flared sans faces in two finishes, one for continuous smaller-sized text and one for corresponding display typography."
+  },
+  {
+    "name": "Axia",
+    "foundry": "Kontour",
+    "url": "https://kontour.com/typefaces/axia",
+    "designer": "Sibylle Hagmann",
+    "year": 2012,
+    "category": "sans-serif",
+    "subcategory": "uniwidth grotesque",
+    "classification_notes": "A uniform-width sans built so roman and italic keep identical line length across weights, with a stencil variant that fragments the letterforms into floating parts.",
+    "weights": [
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Axia",
+      "Axia Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "uniwidth",
+      "stencil",
+      "architecture",
+      "identity"
+    ],
+    "summary": "A uniform-width sans, originally commissioned for an architecture school, with inner arched strokes and a fragmented stencil companion.",
+    "description": "Axia was originally commissioned for Rice University's School of Architecture and traces back to Hagmann's earlier TwinCities design for the University of Minnesota. Inner arched strokes on letters like b and d progressively open the letterforms, while Axia Stencil fragments the same shapes into distinct floating parts.",
+    "foundry_blurb": "Kontour describes Axia as a sans of uniform-width, concise letterforms engineered so roman and italic weights maintain identical line length from Light to Black."
+  },
+  {
+    "name": "Cholla",
+    "foundry": "Kontour",
+    "url": "https://kontour.com/typefaces/cholla",
+    "designer": "Sibylle Hagmann",
+    "year": 1999,
+    "category": "slab",
+    "subcategory": "slab serif superfamily",
+    "classification_notes": "A superfamily spanning sans, slab, unicase and wide cuts, unified by a tapered curve visible in details like the lowercase a rather than by a single weight structure.",
+    "weights": [
+      "Thin",
+      "Thin Italic",
+      "Regular",
+      "Regular Italic",
+      "Bold",
+      "Bold Italic",
+      "Ultra Bold",
+      "Ultra Bold Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "wide"
+    ],
+    "subfamilies": [
+      "Cholla Sans",
+      "Cholla Slab",
+      "Cholla Unicase",
+      "Cholla Wide"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab serif",
+      "superfamily",
+      "unicase",
+      "editorial",
+      "identity"
+    ],
+    "summary": "A four-way slab serif superfamily, originally commissioned for Art Center College of Design and named after a desert cactus.",
+    "description": "Cholla spans twelve cuts across Sans, Slab, Unicase and Wide, each treated as its own personality rather than a simple weight change. A tapered curve, most visible in the lowercase a, ties the cuts together despite their differences in structure.",
+    "foundry_blurb": "Kontour quotes Hagmann on Cholla's twelve cuts, each with slightly different personalities and different ideas applied, rather than mere variations of weight."
+  },
+  {
+    "name": "Kopius",
+    "foundry": "Kontour",
+    "url": "https://kontour.com/typefaces/kopius",
+    "designer": "Sibylle Hagmann",
+    "year": 2016,
+    "category": "serif",
+    "subcategory": "contemporary serif",
+    "classification_notes": "A contemporary serif with round, open counters and brush-inflected serif shapes, offered in a standard and condensed width.",
+    "weights": [
+      "Light",
+      "Light Italic",
+      "Book",
+      "Book Italic",
+      "Regular",
+      "Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Bold",
+      "Bold Italic",
+      "Extrabold",
+      "Extrabold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "condensed"
+    ],
+    "subfamilies": [
+      "Kopius",
+      "Kopius Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "contemporary serif",
+      "editorial",
+      "packaging",
+      "condensed",
+      "friendly"
+    ],
+    "summary": "A friendly contemporary serif with open, round counters, drawing on a 1950s East German Antiqua by Herbert Thannhaeuser.",
+    "description": "Kopius takes Herbert Thannhaeuser's Liberta, an Antiqua cut for East Germany's VEB Typoart, as a starting point and updates its proportions for contemporary use. Slightly curved stems and brush-like serif shapes keep the relaxed, open character across a full weight range and a Condensed companion.",
+    "foundry_blurb": "Kontour describes Kopius as a contemporary serif with friendly characteristics, round open counters conveying a relaxed ambiance, and an affable yet serious demeanour."
+  },
+  {
+    "name": "Odile",
+    "foundry": "Kontour",
+    "url": "https://kontour.com/typefaces/odile",
+    "designer": "Sibylle Hagmann",
+    "year": 2010,
+    "category": "serif",
+    "subcategory": "contemporary text serif",
+    "classification_notes": "A text serif with bracketed head serifs but bracket-free lowercase feet, softening the rigidity of a conventional slab while keeping a calligraphic upstroke.",
+    "weights": [
+      "Light",
+      "Light Italic",
+      "Book",
+      "Book Italic",
+      "Regular",
+      "Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Odile",
+      "Odile Deco Initials",
+      "Odile Initials",
+      "Odile Upright Italic",
+      "Elido"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "text serif",
+      "editorial",
+      "display",
+      "ornamental initials",
+      "superfamily"
+    ],
+    "summary": "A text serif that counters the rigidity of a conventional slab, drawing on W. A. Dwiggins' experimental Charter typeface.",
+    "description": "Odile pairs bracketed head serifs with bracket-free feet, and a steep calligraphic upstroke that gradually lessens across the weight range from Light to Black. Deco and plain Initials plus an Upright Italic extend it into display and ornamental use, and it forms a superfamily with the sans-serif Elido.",
+    "foundry_blurb": "Kontour traces Odile to William Addison Dwiggins' experimental Charter typeface, offering a palette running from strict to playful across text and display use."
+  },
+  {
+    "name": "Elido",
+    "foundry": "Kontour",
+    "url": "https://kontour.com/typefaces/elido",
+    "designer": "Sibylle Hagmann",
+    "year": 2010,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "The sans-serif half of a superfamily with the serif Odile, keeping classical proportions and a script-like arched stroke most visible in its upright italic.",
+    "weights": [
+      "Light",
+      "Light Italic",
+      "Book",
+      "Book Italic",
+      "Regular",
+      "Italic",
+      "Semibold",
+      "Semibold Italic",
+      "Bold",
+      "Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Elido",
+      "Elido Deco Initials",
+      "Elido Initials",
+      "Elido Upright Italic",
+      "Odile"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist sans",
+      "superfamily",
+      "editorial",
+      "ornamental initials",
+      "script-inflected"
+    ],
+    "summary": "The sans-serif companion to Odile, with classical proportions and a script-like upright italic.",
+    "description": "Elido carries Odile's classical proportions into sans-serif territory, with an arched stroke low off the stem that shows through most clearly as a script characteristic in its Upright Italic. Six weights from Light to Black are joined by Deco and plain Initials for display and ornamental work.",
+    "foundry_blurb": "Kontour describes Elido as a sans with classical proportions, six balanced weights from an elegant Light to a pronounced Black, plus display variants and ornaments."
+  }
+]

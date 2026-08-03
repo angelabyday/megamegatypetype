@@ -1,0 +1,428 @@
+[
+  {
+    "name": "EK Baumer",
+    "foundry": "Erkin Karamemet",
+    "url": "https://erkinkaramemet.com/baumer-uniwidth/",
+    "designer": "Erkin Karamemet",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque system",
+    "classification_notes": "A neo-grotesque system sans classified here under its Uniwidth cut, which gives text and structured information an even rhythm; the wider Baumer system also covers a tighter Headline cut and a Mono companion.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Baumer Headline",
+      "Baumer Uniwidth",
+      "Baumer Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "system",
+      "branding",
+      "editorial",
+      "variable"
+    ],
+    "summary": "A contemporary sans-serif system in four weights, its Uniwidth cut built for an even rhythm across text and structured information.",
+    "description": "EK Baumer is structured as a three-part system: a tight Headline cut for expressive large-scale use, this even-spaced Uniwidth cut for text and data, and a Mono cut for technical work. Each part carries four weights with matching italics, stylistic alternates, biform characters and optical size mapping across the family.",
+    "foundry_blurb": "Erkin Karamemet describes EK Baumer as a disciplined yet versatile typeface system supporting clear hierarchy, controlled variation and contemporary visual communication, with Uniwidth giving a more even rhythm for text and structured information."
+  },
+  {
+    "name": "EK Baumer Mono",
+    "foundry": "Erkin Karamemet",
+    "url": "https://erkinkaramemet.com/baumer-mono/",
+    "designer": "Erkin Karamemet",
+    "year": null,
+    "category": "mono",
+    "subcategory": "grotesque monospace",
+    "classification_notes": "The fixed-width cut of the Baumer system, built for coding, tabular data and other operational typography rather than general text.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "monospace"
+    ],
+    "subfamilies": [
+      "Baumer Headline",
+      "Baumer Uniwidth",
+      "Baumer Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "grotesque",
+      "code",
+      "data",
+      "system"
+    ],
+    "summary": "The monospaced cut of the EK Baumer system, built for coding, tabular data and other technical typography.",
+    "description": "Baumer Mono shares the system's visual foundation with the Headline and Uniwidth cuts, adapted to a fixed pitch for technical and functional environments. Four weights ship with matching italics, stylistic alternates and circled figures.",
+    "foundry_blurb": "Erkin Karamemet describes Baumer Mono as extending the system into technical and functional environments, supporting coding structures, tabular data and operational typography."
+  },
+  {
+    "name": "EK Modena",
+    "foundry": "Erkin Karamemet",
+    "url": "https://erkinkaramemet.com/modena-superfamily/",
+    "designer": "Erkin Karamemet",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "variable superellipse superfamily",
+    "classification_notes": "A wide variable superfamily built around fitting an oval shape into a square frame; classified as sans-serif for its proportional cut, with six widths giving it a strong condensed range.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Super Compressed",
+      "Compressed",
+      "Condensed",
+      "Regular",
+      "Extended",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "EK Modena",
+      "EK Modena Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "superfamily",
+      "variable",
+      "geometric",
+      "branding",
+      "editorial"
+    ],
+    "summary": "A variable superellipse-inspired superfamily spanning eight weights and six widths, from compressed headlines to sturdy text setting.",
+    "description": "EK Modena takes the geometry of a superellipse, an oval fitted into a square frame, as its starting shape, then stretches that logic across six widths and eight weights with selected italics. A Mono companion adapts the same design language to a fixed pitch.",
+    "foundry_blurb": "Erkin Karamemet describes EK Modena as a variable superfamily inspired by the shape of a superellipse, ranging from compressed headline styles to proper widths for long copy with a wide, colourful design space."
+  },
+  {
+    "name": "EK Modena Mono",
+    "foundry": "Erkin Karamemet",
+    "url": "https://erkinkaramemet.com/modena-mono/",
+    "designer": "Erkin Karamemet",
+    "year": null,
+    "category": "mono",
+    "subcategory": "geometric monospace",
+    "classification_notes": "The monospaced cut of the Modena superfamily, carrying the same superellipse-derived geometry into a fixed-pitch setting.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "monospace"
+    ],
+    "subfamilies": [
+      "EK Modena",
+      "EK Modena Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "geometric",
+      "code",
+      "system",
+      "variable"
+    ],
+    "summary": "The fixed-pitch cut of the EK Modena superfamily, keeping its superellipse geometry at a consistent character width.",
+    "description": "Modena Mono inherits the parent superfamily's eight-weight range and superellipse-derived curves, adapted to monospace for code and tabular use where the proportional cuts wouldn't fit.",
+    "foundry_blurb": "Erkin Karamemet positions Modena Mono within the EK Modena superfamily, inspired by the shape of a superellipse fitted into a square frame."
+  },
+  {
+    "name": "EK Notice Sans",
+    "foundry": "Erkin Karamemet",
+    "url": "https://erkinkaramemet.com/notice-sans/",
+    "designer": "Erkin Karamemet",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "Florentine-influenced sans",
+    "classification_notes": "Inspired by fifteenth-century Florentine sans-serif lettering, classified as sans-serif for its stroke construction despite the historical serif-era reference.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "EK Notice Sans",
+      "EK Notice Classic",
+      "EK Notice Decor"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "florentine",
+      "editorial",
+      "branding",
+      "opentype",
+      "system"
+    ],
+    "summary": "The plainest of the three Notice styles, drawing on fifteenth-century Florentine sans-serif lettering with a five-weight range.",
+    "description": "EK Notice Sans is the restrained member of the Notice trio, sharing its Florentine reference and five-weight range with Notice Classic and Notice Decor but keeping contrast and detailing to a minimum. Vietnamese support extends its reach beyond standard Latin Extended.",
+    "foundry_blurb": "Erkin Karamemet describes EK Notice as inspired by the Florentine sans-serif style of the fifteenth century combined with an exploration of contrast, with OpenType features letting alternate characters shift between upright and italic forms."
+  },
+  {
+    "name": "EK Notice Classic",
+    "foundry": "Erkin Karamemet",
+    "url": "https://erkinkaramemet.com/notice-classic/",
+    "designer": "Erkin Karamemet",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "Florentine-influenced sans",
+    "classification_notes": "The mid-contrast member of the Notice trio, still classified sans-serif but carrying more calligraphic width variation than Notice Sans.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "EK Notice Sans",
+      "EK Notice Classic",
+      "EK Notice Decor"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "florentine",
+      "editorial",
+      "branding",
+      "opentype",
+      "system"
+    ],
+    "summary": "The middle style in the Notice trio, adding calligraphic contrast in stroke width to the family's Florentine-influenced structure.",
+    "description": "Notice Classic sits between the plain Sans cut and the heavier Decor style, carrying more width variation in its strokes while keeping the five-weight range and Vietnamese-inclusive Latin support common to the trio.",
+    "foundry_blurb": "Erkin Karamemet describes the Notice family as inspired by the Florentine sans-serif style of the fifteenth century, with varying contrast in character width and stroke thickness across its three styles."
+  },
+  {
+    "name": "EK Notice Decor",
+    "foundry": "Erkin Karamemet",
+    "url": "https://erkinkaramemet.com/notice-decor/",
+    "designer": "Erkin Karamemet",
+    "year": null,
+    "category": "display",
+    "subcategory": "Florentine-influenced display sans",
+    "classification_notes": "The most decorative member of the Notice trio, pushed far enough in contrast and detailing to read as a display face rather than a working text sans.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "EK Notice Sans",
+      "EK Notice Classic",
+      "EK Notice Decor"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "florentine",
+      "display",
+      "branding",
+      "opentype",
+      "decorative"
+    ],
+    "summary": "The most decorative cut in the Notice trio, taking the family's Florentine reference into display territory.",
+    "description": "Notice Decor pushes the trio's shared Florentine-influenced structure furthest into contrast and ornament, best suited to headline and display use rather than running text.",
+    "foundry_blurb": "Erkin Karamemet presents Notice Decor as the most expressive of the three Notice styles, sharing the family's Florentine reference and OpenType-driven alternation between upright and italic forms."
+  },
+  {
+    "name": "EK Roumald",
+    "foundry": "Erkin Karamemet",
+    "url": "https://erkinkaramemet.com/roumald/",
+    "designer": "Erkin Karamemet",
+    "year": null,
+    "category": "display",
+    "subcategory": "19th-century neo-classical display serif",
+    "classification_notes": "A display serif in the Scotch Roman and Century Extended tradition, drawn using a CNC router as a virtual pantograph, which is classified as display given its stated headline use rather than text setting.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "EK Roumald",
+      "EK Roumald Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display serif",
+      "neo-classical",
+      "editorial",
+      "mechanical revival"
+    ],
+    "summary": "A display serif drawing on Scotch Roman and Century Extended, its rounded counters traced from ink slurs in old metal type rather than a clean historical revival.",
+    "description": "Roumald sits in the tradition of early and late nineteenth-century American display serifs from Linn Boyd Benton and Morris Fuller Benton, but a CNC router stood in for the Benton pantograph during development, and its softened counters borrow from the ink slurs common to small metal type. A Mono companion carries the same references into a fixed pitch.",
+    "foundry_blurb": "Erkin Karamemet describes Roumald as a display face in the tradition of Scotch and its relative Century Extended, its mechanical reference lending the design a slightly technical look while freeing it from its ancestors' expression."
+  },
+  {
+    "name": "EK Roumald Mono",
+    "foundry": "Erkin Karamemet",
+    "url": "https://erkinkaramemet.com/roumald-mono/",
+    "designer": "Erkin Karamemet",
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced display serif",
+    "classification_notes": "The fixed-pitch cut of Roumald, carrying its nineteenth-century display serif references into a monospaced setting.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "monospace"
+    ],
+    "subfamilies": [
+      "EK Roumald",
+      "EK Roumald Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "display serif",
+      "neo-classical",
+      "editorial"
+    ],
+    "summary": "The monospaced companion to Roumald, keeping its neo-classical display serif character at a fixed character width.",
+    "description": "Roumald Mono shares its parent's Benton-era reference points and CNC-router-drawn counters, adapted to a consistent pitch for tabular or technical use where the proportional cut wouldn't fit.",
+    "foundry_blurb": "Erkin Karamemet positions Roumald Mono alongside Roumald as a display face in the tradition of Scotch and Century Extended, with the same mechanically-derived, rounded counter forms."
+  },
+  {
+    "name": "EK Ultimo",
+    "foundry": "Erkin Karamemet",
+    "url": "https://erkinkaramemet.com/ultimo/",
+    "designer": "Erkin Karamemet",
+    "year": null,
+    "category": "display",
+    "subcategory": "experimental antiqua-inspired display",
+    "classification_notes": "A serif-less reinterpretation of an Antiqua structure, classified as display given its stated genre-blending, playful intent rather than any text-setting role.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "EK Ultimo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "experimental",
+      "antiqua",
+      "playful",
+      "branding"
+    ],
+    "summary": "An experimental display face blending a futuristic feel with classic Antiqua structure, reworked from Minoru Morita's Rain Drops.",
+    "description": "EK Ultimo takes its raindrop-like curves and strong contrast from a contemporary reinterpretation of Minoru Morita's Rain Drops, stripping away serifs from the Antiqua structure to land somewhere between genres. It ships in three weights, Regular through Black.",
+    "foundry_blurb": "Erkin Karamemet describes EK Ultimo as blending a futuristic vibe with classic Antiqua traditions, inspired by its raindrop-like appearance and offering a playful, genre-blending choice for dynamic, expressive projects."
+  }
+]

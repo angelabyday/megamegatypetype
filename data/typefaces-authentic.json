@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Authentic Sans Pro",
+    "foundry": "AUTHENTIC",
+    "url": "https://authentic.website/",
+    "designer": "Christina Janus and Desmond Wong",
+    "year": 2015,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A plain, systematic grotesque distributed in four numeric weights and two widths, functioning as a neutral workhorse sans rather than a display face.",
+    "weights": [
+      "60",
+      "90",
+      "130",
+      "150"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Authentic Sans Pro"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "neutral",
+      "branding",
+      "editorial",
+      "variable"
+    ],
+    "summary": "A neutral grotesque in four numeric weights and two widths, built as a plain, systematic workhorse sans.",
+    "description": "Authentic Sans Pro is the commercial counterpart to the studio's open-source Authentic Sans, extending it with extra characters and a two-axis variable font. It runs in four weights, labelled 60 to 150, each available in normal and condensed widths.",
+    "foundry_blurb": "AUTHENTIC recommend Authentic Sans Pro for commercial work, web fonts and projects requiring additional special or accented characters beyond the open-source release."
+  },
+  {
+    "name": "Untitled",
+    "foundry": "AUTHENTIC",
+    "url": "https://authentic.website/untitled",
+    "designer": "Desmond Wong",
+    "year": 2016,
+    "category": "serif",
+    "subcategory": "revival serif",
+    "classification_notes": "Archived alongside historicist type revivals in third-party type references, indicating a serif built in that tradition rather than a grotesque or slab.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Untitled"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "editorial",
+      "available-on-request"
+    ],
+    "summary": "A serif typeface available on request since 2016, used in poster work for Prague's National Theatre.",
+    "description": "Untitled has been available directly from AUTHENTIC on request since 2016. It has seen limited public documentation, with its clearest outing in poster design for Národní divadlo, Prague's National Theatre.",
+    "foundry_blurb": "AUTHENTIC list Untitled among their licensable typefaces, available on request since 2016."
+  }
+]

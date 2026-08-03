@@ -1,0 +1,2578 @@
+[
+  {
+    "name": "Race",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/race",
+    "designer": "Ken Barber",
+    "year": 2017,
+    "category": "script",
+    "subcategory": "brush script",
+    "classification_notes": "A single-stroke knockout brush script modelled on hot-rod pinstripers and hand-lettered sign painters, built for speed and confidence rather than formal calligraphy.",
+    "weights": [
+      "Race Stock",
+      "Race Modified"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Race Stock",
+      "Race Modified"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "brush script",
+      "pinstriping",
+      "automotive",
+      "hand-lettered",
+      "display"
+    ],
+    "summary": "A single-stroke brush script built on the confident, fast hand of hot-rod pinstripers and sign painters.",
+    "description": "Race captures the loose, knockout energy of a pinstriper's brush, with a Stock cut and a rowdier Modified companion plus hand-lettered quotation marks that keep the whole thing feeling drawn rather than typed.",
+    "foundry_blurb": "House Industries pitches Race at anyone after the speed and swagger of hand-painted automotive lettering, in Stock and Modified trims."
+  },
+  {
+    "name": "Municipal",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/municipal-family",
+    "designer": "Ken Barber",
+    "year": null,
+    "category": "slab",
+    "subcategory": "utility-cover slab serif",
+    "classification_notes": "A family built on the cast lettering of street utility covers, with crisp light weights and sturdy slab-serif bolds, extended with Stencil, Shadow and Patterns cuts.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Municipal",
+      "Municipal Stencil",
+      "Municipal Shadow",
+      "Municipal Patterns",
+      "Municipal Cast"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab serif",
+      "utility lettering",
+      "stencil",
+      "signage",
+      "editorial"
+    ],
+    "summary": "A slab-serif family built from the cast lettering found on street utility covers, running crisp and light through sturdy and bold.",
+    "description": "Municipal spans six weights with italics, plus Stencil, Shadow and Patterns cuts, moving from a crisp, smart lighter end to slab-serif bolds with real sturdiness. It sits alongside the original cast-iron release, Municipal Cast.",
+    "foundry_blurb": "House Industries describes Municipal's light weights as crisp and smart and its bolder cuts as a sturdy slab serif, all rooted in cast utility-cover lettering."
+  },
+  {
+    "name": "Municipal Cast",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/municipal",
+    "designer": "Ken Barber",
+    "year": null,
+    "category": "slab",
+    "subcategory": "cast-iron slab serif",
+    "classification_notes": "The original cast-iron utility-cover release that the wider Municipal family grew from, built for headline and logo weight and punch.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Municipal Cast",
+      "Municipal"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab serif",
+      "utility lettering",
+      "headlines",
+      "logos",
+      "cast iron"
+    ],
+    "summary": "The cast-iron original that the wider Municipal slab-serif family later grew from.",
+    "description": "Municipal Cast keeps the weight and punch of the manhole-cover lettering it started from, built for headlines and logos rather than running text.",
+    "foundry_blurb": "House Industries says Municipal Cast delivers clarity, punch and weight for headlines and logos, drawn directly from cast utility-cover lettering."
+  },
+  {
+    "name": "Cooper Nouveau",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/cooper-nouveau",
+    "designer": "Dave West",
+    "year": 1966,
+    "category": "serif",
+    "subcategory": "playful display serif",
+    "classification_notes": "A modernised take on Oswald Cooper's italic, with plump, playful curves and swash detailing built for packaging and poster work rather than text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cooper Nouveau"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display serif",
+      "swash",
+      "packaging",
+      "posters",
+      "revival"
+    ],
+    "summary": "A 1966 revival that reworks Oswald Cooper's italic into something plumper and more playful.",
+    "description": "Cooper Nouveau takes swash caps and ligatures from a 1966 Dave West original and updates them for contemporary packaging and poster design, keeping the rounded warmth of the original Cooper style.",
+    "foundry_blurb": "House Industries frames Cooper Nouveau as a modern take on Oswald Cooper's italic, full of plump, playful curves for packaging and posters."
+  },
+  {
+    "name": "Neutraface Slab",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/neutraface_slab",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "architectural geometric slab",
+    "classification_notes": "The slab-serif companion to Neutraface, keeping the same open, geometric architectural bones across a wide range from thin and delicate to bold and bombastic.",
+    "weights": [
+      "Stencil",
+      "Thin",
+      "Light",
+      "Medium",
+      "Bold",
+      "Titling"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Neutraface Slab",
+      "Neutraface",
+      "Neutraface No. 2",
+      "Neutraface Condensed"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab serif",
+      "architecture",
+      "geometric",
+      "branding",
+      "signage"
+    ],
+    "summary": "The slab-serif companion to Neutraface, running from thin and delicate to bold and bombastic on the same architectural frame.",
+    "description": "Neutraface Slab pairs a Display range of Stencil through Titling cuts with a separate Text range including italics, translating Richard Neutra's architectural lettering into a full serifed system.",
+    "foundry_blurb": "House Industries describes Neutraface Slab as running from thin and delicate to bold and bombastic within the same geometric family."
+  },
+  {
+    "name": "Neutraface",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/neutraface",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "An open, geometric sans based directly on architect Richard Neutra's own lettering, warmer and more human than a strict mathematical geometric.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Medium",
+      "Bold",
+      "Titling",
+      "Drafting"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Neutraface",
+      "Neutraface Slab",
+      "Neutraface No. 2",
+      "Neutraface Condensed"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric sans",
+      "architecture",
+      "mid-century",
+      "branding",
+      "signage"
+    ],
+    "summary": "A geometric sans built directly on the hand-lettering of architect Richard Neutra, warm rather than coldly mathematical.",
+    "description": "Neutraface takes Neutra's own architectural lettering as its source, keeping an open, geometric structure across Display and Text ranges with italics, a Titling cut and a Drafting style built for technical drawing contexts.",
+    "foundry_blurb": "House Industries describes Neutraface as based on Richard Neutra's architectural lettering, open and geometric yet warm and human."
+  },
+  {
+    "name": "Neutraface No. 2",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/neutraface_no2",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A reworking of Neutraface with a larger x-height and refined ink traps, aimed at broader use across smaller sizes than the original.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Medium",
+      "Bold",
+      "Titling",
+      "Inline"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Neutraface No. 2",
+      "Neutraface",
+      "Neutra No. 2 Condensed"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric sans",
+      "architecture",
+      "text",
+      "branding",
+      "refined"
+    ],
+    "summary": "A refined update of Neutraface with a larger x-height, built to hold up at smaller sizes than the original.",
+    "description": "Neutraface No. 2 keeps the architectural geometric bones of the original but adjusts proportions and ink traps for wider use, adding an Inline cut alongside its Display and Text ranges.",
+    "foundry_blurb": "House Industries positions Neutraface No. 2 as a reworking of the original with a larger x-height and refined ink traps suited to broader use."
+  },
+  {
+    "name": "Neutra No. 2 Condensed",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/neutrafaceno2_condensed",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric condensed sans",
+    "classification_notes": "The condensed expansion of the Neutraface No. 2 concept, narrowing its geometric structure for tighter headline and signage settings.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Medium",
+      "Bold",
+      "Titling"
+    ],
+    "optical_sizes_or_widths": [
+      "condensed"
+    ],
+    "subfamilies": [
+      "Neutra No. 2 Condensed",
+      "Neutraface No. 2"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric sans",
+      "condensed",
+      "architecture",
+      "signage",
+      "branding"
+    ],
+    "summary": "A condensed expansion of Neutraface No. 2, narrowing the same geometric architectural structure.",
+    "description": "Neutra No. 2 Condensed compresses the refined Neutraface No. 2 skeleton for tighter settings, keeping the family's five core weights and a Titling cut.",
+    "foundry_blurb": "House Industries presents Neutra No. 2 Condensed as the condensed extension of the Neutraface No. 2 concept."
+  },
+  {
+    "name": "Neutraface Condensed",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/neutraface-condensed",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric condensed sans",
+    "classification_notes": "The condensed cut of the original Neutraface, narrowing its architectural geometric structure for tighter settings.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Medium",
+      "Bold",
+      "Titling"
+    ],
+    "optical_sizes_or_widths": [
+      "condensed"
+    ],
+    "subfamilies": [
+      "Neutraface Condensed",
+      "Neutraface"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric sans",
+      "condensed",
+      "architecture",
+      "signage",
+      "branding"
+    ],
+    "summary": "The condensed cut of the original Neutraface, for tighter architectural signage and headline settings.",
+    "description": "Neutraface Condensed narrows the original family's geometric structure across five weights and a Titling cut, keeping the same architectural warmth in a tighter footprint.",
+    "foundry_blurb": "House Industries offers Neutraface Condensed as the narrow companion to the original Neutraface family."
+  },
+  {
+    "name": "Sign Painter",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/signpainter",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "hand-lettered sign script",
+    "classification_notes": "A revival of hand-painted commercial sign lettering, spanning brush, casual and showcard scripts alongside upright and slanted styles rather than a single consistent hand.",
+    "weights": [
+      "Brush",
+      "Casual",
+      "Showcard",
+      "Showcard Stunt",
+      "Script",
+      "Informal",
+      "Upright",
+      "Slant",
+      "House Ad Art"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sign Painter",
+      "House Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "hand-lettered",
+      "signage",
+      "vintage",
+      "ligatures"
+    ],
+    "summary": "A revival of hand-painted commercial sign lettering, spanning brush, casual and showcard scripts.",
+    "description": "Sign Painter gathers nine related hand-lettered styles, from loose brush scripts to formal showcard lettering with stunt swashes, all rooted in the sign-painting trade rather than formal calligraphy.",
+    "foundry_blurb": "House Industries built Sign Painter to revive the hand-lettered commercial sign scripts once painted by working sign artists, ligatures and all."
+  },
+  {
+    "name": "House Script",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/sign-painter-house-script",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "hand-lettered script",
+    "classification_notes": "A companion hand-lettered script to the Sign Painter set, offered in two weights rather than the full showcard range.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "House Script",
+      "Sign Painter"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "hand-lettered",
+      "signage",
+      "vintage",
+      "branding"
+    ],
+    "summary": "A two-weight hand-lettered script that keeps the Sign Painter family's brush-painted character.",
+    "description": "House Script offers a more compact pairing than the full Sign Painter set, two weights of hand-lettered script suited to labelling and short branding lines.",
+    "foundry_blurb": "House Industries pairs House Script with the wider Sign Painter set as a companion hand-lettered script."
+  },
+  {
+    "name": "Benguiat Caslon",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/benguiat-caslon",
+    "designer": "Ed Benguiat",
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast tight-set display serif",
+    "classification_notes": "A tight-not-touching high-contrast display serif from the Photo-Lettering archive, built for bold headline settings rather than text.",
+    "weights": [
+      "Regular",
+      "Drop Shadow",
+      "Outline"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Benguiat Caslon"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display serif",
+      "high contrast",
+      "photo-lettering",
+      "headlines",
+      "revival"
+    ],
+    "summary": "A high-contrast Photo-Lettering revival built for big, tight headline settings.",
+    "description": "Benguiat Caslon takes a tight-not-touching approach to letterspacing, letting its high-contrast strokes carry the weight in Regular, Drop Shadow and Outline cuts drawn from the Ed Benguiat era of Photo-Lettering.",
+    "foundry_blurb": "House Industries revived Benguiat Caslon from Ed Benguiat's Photo-Lettering archive as a big, bold display setting face."
+  },
+  {
+    "name": "Eames Century Modern",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/eames-century-modern",
+    "designer": "Erik van Blokland",
+    "year": null,
+    "category": "serif",
+    "subcategory": "mid-century serif",
+    "classification_notes": "An eighteen-style serif family developed in collaboration with the Eames estate, balancing pragmatic clarity with ornamental extras like stencil cuts and dedicated numeral sets.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Eames Century Modern",
+      "Eames Century Modern Stencil",
+      "Eames Century Modern Stencil Cameo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "mid-century",
+      "stencil",
+      "editorial",
+      "ornaments"
+    ],
+    "summary": "An eighteen-style serif family developed with the Eames estate, balancing pragmatism with ornamental extras.",
+    "description": "Eames Century Modern runs eight weights with italics, plus Stencil and Stencil Cameo cuts, dedicated numeral fonts and ornaments, aiming to reflect Charles and Ray Eames' own mix of function and delight.",
+    "foundry_blurb": "House Industries built Eames Century Modern with the Eames estate to balance pragmatism and ornament across a full serif system."
+  },
+  {
+    "name": "Montage",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/montage",
+    "designer": "Ed Benguiat",
+    "year": null,
+    "category": "serif",
+    "subcategory": "bold display serif",
+    "classification_notes": "A powerful bold serif from the mid-1960s Photo-Lettering archive, widely seen on book jackets and album covers, offered across a condensed-to-wide width range.",
+    "weights": [
+      "Extra Condensed",
+      "Condensed",
+      "Semi Condensed",
+      "Regular",
+      "Wide"
+    ],
+    "optical_sizes_or_widths": [
+      "Extra Condensed",
+      "Condensed",
+      "Semi Condensed",
+      "Regular",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Montage"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display serif",
+      "photo-lettering",
+      "book jackets",
+      "album covers",
+      "revival"
+    ],
+    "summary": "A powerful bold serif seen widely on book jackets and album covers from the 1960s through the 1980s.",
+    "description": "Montage runs from Extra Condensed through Wide, keeping its punchy, bold serif character across every width. It comes from Ed Benguiat's mid-1960s work for Photo-Lettering, revised for contemporary use.",
+    "foundry_blurb": "House Industries notes Montage was widely used on book jackets, album covers and logos through the 1960s to 1980s, revived from the Photo-Lettering archive."
+  },
+  {
+    "name": "Chalet",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/chalet",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "art deco geometric sans",
+    "classification_notes": "A geometric sans styled after mid-century French fashion-house branding, presented across decade-and-city-themed cuts rather than a conventional weight ladder.",
+    "weights": [
+      "Paris 1960",
+      "Paris 1970",
+      "Paris 1980",
+      "London 1960",
+      "London 1970",
+      "London 1980",
+      "New York 1960",
+      "New York 1970",
+      "New York 1980",
+      "Tokyo"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Chalet",
+      "Chalet Comprimé",
+      "Chalet Book"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "art deco",
+      "geometric sans",
+      "fashion",
+      "branding",
+      "vintage"
+    ],
+    "summary": "An art deco geometric sans styled after mid-century French fashion-house branding, sold as city and decade-themed cuts.",
+    "description": "Chalet presents its geometric sans forms as a set of city-and-decade cuts, Paris, London and New York each across 1960, 1970 and 1980, plus a Tokyo variant, with oblique styles standing in for italics.",
+    "foundry_blurb": "House Industries frames Chalet around a fictionalised mid-century French clothier story, with the type styled after that era's fashion-house branding."
+  },
+  {
+    "name": "Chalet Comprimé",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/chalet-comprime",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "art deco compressed geometric sans",
+    "classification_notes": "The compressed continuation of the Chalet concept, keeping its city-and-decade naming convention in a narrower, more condensed structure.",
+    "weights": [
+      "Milan 1960",
+      "Milan 1970",
+      "Milan 1980",
+      "Cologne 1960",
+      "Cologne 1970",
+      "Cologne 1980",
+      "Hong Kong 1960",
+      "Hong Kong 1970",
+      "Hong Kong 1980",
+      "Los Angeles Titling"
+    ],
+    "optical_sizes_or_widths": [
+      "compressed"
+    ],
+    "subfamilies": [
+      "Chalet Comprimé",
+      "Chalet",
+      "Chalet Book"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "art deco",
+      "geometric sans",
+      "compressed",
+      "fashion",
+      "branding"
+    ],
+    "summary": "The compressed continuation of Chalet, keeping its city-and-decade naming across a narrower geometric structure.",
+    "description": "Chalet Comprimé extends the Chalet concept into Milan, Cologne and Hong Kong cuts across the same three decades, plus a Los Angeles titling style, all narrowed for tighter settings.",
+    "foundry_blurb": "House Industries continues the Chalet fashion-house conceit in Chalet Comprimé, compressed for tighter, more condensed use."
+  },
+  {
+    "name": "Chalet Book",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/chaletbook",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "art deco text sans",
+    "classification_notes": "A text-optimised Chalet cut made more compact and legible at small sizes, dropping the city-and-decade naming for a conventional Regular, Italic, Bold and Bold Italic set.",
+    "weights": [
+      "Regular",
+      "Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Chalet Book",
+      "Chalet",
+      "Chalet Comprimé"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "art deco",
+      "geometric sans",
+      "text",
+      "editorial",
+      "branding"
+    ],
+    "summary": "A text-optimised Chalet cut, made more compact and legible at small sizes for a House Industries book project.",
+    "description": "Chalet Book strips away the wider family's city-and-decade cuts in favour of a straightforward Regular, Italic, Bold and Bold Italic set built to stay legible in body copy.",
+    "foundry_blurb": "House Industries developed Chalet Book for its own book project, a more compact and legible Chalet cut for small text sizes."
+  },
+  {
+    "name": "Yorklyn Stencil",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/yorklyn_stencil",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "size-specific stencil",
+    "classification_notes": "A stencil family drawn as three size-specific cuts rather than one design scaled up and down, each tuned for the contrast and robustness a given size needs.",
+    "weights": [
+      "Grande",
+      "Medium",
+      "Petite"
+    ],
+    "optical_sizes_or_widths": [
+      "Grande",
+      "Medium",
+      "Petite"
+    ],
+    "subfamilies": [
+      "Yorklyn Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "display",
+      "size-specific",
+      "signage",
+      "branding"
+    ],
+    "summary": "A stencil family drawn separately at three sizes rather than mechanically scaled from one master.",
+    "description": "Yorklyn Stencil offers Grande, Medium and Petite cuts, with Grande carrying higher contrast for large sizes and the smaller two built more robustly to hold up when shrunk down.",
+    "foundry_blurb": "House Industries drew Yorklyn Stencil at three distinct sizes, Grande for large-scale impact and Medium and Petite for smaller, sturdier settings."
+  },
+  {
+    "name": "United Sans",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/united_sans",
+    "designer": "Tal Leming",
+    "year": 2003,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "A large geometric sans system spanning five widths and seven weights, grown from a single clothing-logo commission into one of House Industries' biggest families.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Semi Condensed",
+      "Regular",
+      "Semi Extended",
+      "Extended"
+    ],
+    "subfamilies": [
+      "United Sans",
+      "United Italic",
+      "United Serif"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric sans",
+      "grotesque",
+      "branding",
+      "editorial",
+      "award-winning"
+    ],
+    "summary": "A sprawling geometric sans system that grew from a single clothing-logo commission into a five-width, seven-weight family.",
+    "description": "United Sans covers Condensed through Extended widths across seven weights, giving it enough range to move from billboard headlines to editorial text. It was featured in the Smithsonian Cooper-Hewitt Triennial in 2003.",
+    "foundry_blurb": "House Industries traces United Sans back to a single commission that grew into a huge geometric sans system, versatile from billboard to editorial use."
+  },
+  {
+    "name": "United Italic",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/united_italic",
+    "designer": "Tal Leming",
+    "year": 2003,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque italic",
+    "classification_notes": "The italic member of the United system, sharing its condensed-to-extended width range and seven-weight ladder including a Stencil cut.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Stencil"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Regular",
+      "Semi-Extended",
+      "Extended"
+    ],
+    "subfamilies": [
+      "United Italic",
+      "United Sans",
+      "United Serif"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric sans",
+      "italic",
+      "branding",
+      "editorial",
+      "award-winning"
+    ],
+    "summary": "The italic companion to United Sans, carrying its width and weight range plus a dedicated Stencil cut.",
+    "description": "United Italic mirrors United Sans' Condensed-to-Extended range across seven weights, adding a Stencil style, and shares in the family's 2003 Smithsonian Cooper-Hewitt Triennial feature.",
+    "foundry_blurb": "House Industries describes United Italic as the versatile italic partner to United Sans, spanning the same broad range of widths and weights."
+  },
+  {
+    "name": "United Serif",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/united_serif",
+    "designer": "Tal Leming",
+    "year": 2003,
+    "category": "serif",
+    "subcategory": "geometric slab-serif companion",
+    "classification_notes": "The serif member of the United system, matching its sans and italic siblings' width and weight matrix in a serifed structure.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Semi Condensed",
+      "Regular",
+      "Semi Extended",
+      "Extended"
+    ],
+    "subfamilies": [
+      "United Serif",
+      "United Sans",
+      "United Italic"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric serif",
+      "branding",
+      "editorial",
+      "system family",
+      "award-winning"
+    ],
+    "summary": "The serif member of the United system, sharing its sans and italic siblings' full width and weight matrix.",
+    "description": "United Serif completes the United system with a serifed cut across the same five widths and seven weights as United Sans, giving the whole family a matched serif option for mixed-use branding.",
+    "foundry_blurb": "House Industries positions United Serif as the serif partner within the wider United system, matching its sans and italic companions weight for weight."
+  },
+  {
+    "name": "Coryn Didot",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/coryn-didot",
+    "designer": "C.E. Coryn",
+    "year": 1965,
+    "category": "serif",
+    "subcategory": "high-contrast didone",
+    "classification_notes": "A high-contrast Didone revival built from a 1965 film-lettering face originally called Galax, keeping the sharp hairlines and thick stems of the didone tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Coryn Didot"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "high contrast",
+      "revival",
+      "editorial",
+      "fashion"
+    ],
+    "summary": "A high-contrast Didone revival of a 1965 film-lettering face originally known as Galax.",
+    "description": "Coryn Didot revives C.E. Coryn's 1965 Galax lettering, keeping its sharp Didone contrast between hairline and stem for fashion and editorial headline work.",
+    "foundry_blurb": "House Industries traces Coryn Didot back to a 1965 film-lettering face called Galax, digitised decades later for contemporary use."
+  },
+  {
+    "name": "Carlyle Quaint",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/carlyle-quaint",
+    "designer": "Paul Carlyle",
+    "year": 1943,
+    "category": "display",
+    "subcategory": "vintage quaint display",
+    "classification_notes": "A quaintly styled display face drawn from a 1943 lettering manual, later folded into the Photo-Lettering archive rather than developed as an original type family.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Carlyle Quaint"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "vintage",
+      "quaint",
+      "revival",
+      "historical"
+    ],
+    "summary": "A quaintly styled display face drawn from Paul Carlyle and Guy Oring's 1943 lettering manual.",
+    "description": "Carlyle Quaint revives a design from Carlyle and Oring's 1943 book New Letters and Lettering, which later entered the Photo-Lettering catalogue and from there House Industries' own archive.",
+    "foundry_blurb": "House Industries traces Carlyle Quaint to Paul Carlyle and Guy Oring's 1943 lettering manual, New Letters and Lettering."
+  },
+  {
+    "name": "Paperback",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/paperback",
+    "designer": "John Downer",
+    "year": null,
+    "category": "serif",
+    "subcategory": "size-specific text serif",
+    "classification_notes": "A serif revival of the old practice of drawing a distinct design for each size range rather than scaling a single master, with dedicated cuts at five point sizes.",
+    "weights": [
+      "Roman",
+      "Italic",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "6pt",
+      "9pt",
+      "12pt",
+      "24pt",
+      "48pt",
+      "96pt"
+    ],
+    "subfamilies": [
+      "Paperback"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "optical sizes",
+      "text",
+      "editorial",
+      "revival"
+    ],
+    "summary": "A serif family drawn separately at six point sizes, reviving the old practice of size-specific type design.",
+    "description": "Paperback rejects the idea of one master scaled up and down, instead giving each of six size ranges from 6pt to 96pt its own Roman, Italic and Bold, tuned to how type actually behaves at that size.",
+    "foundry_blurb": "House Industries built Paperback around John Downer's revival of drawing distinct type per size range, rather than scaling a single design."
+  },
+  {
+    "name": "Smidgen",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/smidgen",
+    "designer": "Ken Barber",
+    "year": null,
+    "category": "script",
+    "subcategory": "pinstripe display script",
+    "classification_notes": "A hot-rod and custom-car pinstriping-flavoured display script, closer to sign-painted lettering than formal calligraphy.",
+    "weights": [
+      "Regular",
+      "Drop Shadow"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Smidgen"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "pinstriping",
+      "automotive",
+      "display",
+      "hand-lettered"
+    ],
+    "summary": "A pinstriping-flavoured display script pulled from custom-car and hot-rod lettering traditions.",
+    "description": "Smidgen leans on the loose, confident hand of pinstripers and custom-car letterers, offered in a plain Regular and a Drop Shadow cut for extra dimension.",
+    "foundry_blurb": "House Industries describes Smidgen in its characteristically florid house copy as pulled straight from hot-rod and custom-car pinstriping culture."
+  },
+  {
+    "name": "Carnival",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/carnival",
+    "designer": "Harold Horman",
+    "year": null,
+    "category": "display",
+    "subcategory": "reverse-contrast advertising display",
+    "classification_notes": "A reverse-contrast advertising display face rooted in 1800s poster type, with horizontal strokes carrying more weight than verticals.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Carnival"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "reverse contrast",
+      "poster",
+      "revival",
+      "advertising"
+    ],
+    "summary": "A reverse-contrast advertising display face with roots in nineteenth-century poster type.",
+    "description": "Carnival carries more weight in its horizontal strokes than its verticals, in the reverse-contrast tradition of 1800s poster faces, revived from an early-1940s Harold Horman original.",
+    "foundry_blurb": "House Industries traces Carnival's reverse-contrast structure to 1800s poster type, via a Harold Horman original from the early 1940s."
+  },
+  {
+    "name": "Worthe Numerals",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/worthe",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "didot numeral set",
+    "classification_notes": "An extreme Didot-style numeral set originally intended for carved wood blocks, pushing contrast further than a typical Didone family rather than offering a full alphabet.",
+    "weights": [
+      "Regular",
+      "Drop Shadow"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Worthe Numerals"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "numerals",
+      "didot",
+      "display",
+      "high contrast",
+      "novelty"
+    ],
+    "summary": "An extreme, high-contrast Didot-style numeral set originally cut for wood blocks.",
+    "description": "Worthe Numerals pushes Didone contrast just a little further than usual, in keeping with its origins as a design meant for carved wood display numbers rather than metal type.",
+    "foundry_blurb": "House Industries describes Worthe Numerals as taking the Didot style just a little more, originally applied to wood blocks."
+  },
+  {
+    "name": "Davison Spencerian",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/davison_spencerian",
+    "designer": "Meyer Davison",
+    "year": 1946,
+    "category": "script",
+    "subcategory": "ornamental spencerian script",
+    "classification_notes": "An ornamental Spencerian script, the connected, looping hand associated with nineteenth-century American penmanship, revived from a 1946 Photo-Lettering original.",
+    "weights": [
+      "Regular",
+      "Drop Shadow"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Davison Spencerian"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "spencerian",
+      "script",
+      "ornamental",
+      "revival",
+      "historical"
+    ],
+    "summary": "An ornamental Spencerian script, a benchmark of the genre since its 1946 debut.",
+    "description": "Davison Spencerian revives Meyer Davison's 1946 Photo-Lettering original, keeping the connected loops and flourishes of classic Spencerian penmanship in both a plain and Drop Shadow cut.",
+    "foundry_blurb": "House Industries calls Davison Spencerian a benchmark of the Spencerian script genre since its 1946 debut for Photo-Lettering."
+  },
+  {
+    "name": "D'Amico Gothic",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/damico-gothic",
+    "designer": "James D'Amico",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "mid-century gothic",
+    "classification_notes": "A condensed-to-extended gothic sans system distilled from dozens of separate 1950s film-lettering designs by James D'Amico into one coherent family.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Standard",
+      "Extended"
+    ],
+    "subfamilies": [
+      "D'Amico Gothic"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "gothic sans",
+      "mid-century",
+      "condensed",
+      "extended",
+      "revival"
+    ],
+    "summary": "A condensed-to-extended gothic sans distilled from dozens of James D'Amico's 1950s film-lettering designs.",
+    "description": "D'Amico Gothic pulls together a scattered set of 1950s film-title lettering into one coherent system spanning Condensed, Standard and Extended widths across five weights.",
+    "foundry_blurb": "House Industries built D'Amico Gothic by distilling dozens of James D'Amico's 1950s film-lettering gothics into a single coherent system."
+  },
+  {
+    "name": "Shag Lounge MH",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/shag-lounge-mh",
+    "designer": "Josh Agle",
+    "year": null,
+    "category": "script",
+    "subcategory": "mid-century cocktail script",
+    "classification_notes": "A mid-century cocktail-culture script tied to artist Josh Shag Agle's illustration style, sold on its own rather than as part of the wider Shag bundle.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Shag Lounge MH"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "mid-century",
+      "cocktail",
+      "illustration",
+      "branding"
+    ],
+    "summary": "A mid-century cocktail-lounge script tied to illustrator Josh Shag Agle's retro visual world.",
+    "description": "Shag Lounge MH carries the loose, boozy charm of Josh Agle's Shag illustrations into a two-weight script, sold as its own product distinct from the wider Shag font bundle.",
+    "foundry_blurb": "House Industries ties Shag Lounge MH to artist Josh Shag Agle's mid-century cocktail-culture aesthetic."
+  },
+  {
+    "name": "Blaktur",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/blaktur",
+    "designer": null,
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "novelty blackletter",
+    "classification_notes": "An archaic-flavoured blackletter-adjacent face built around OpenType stylistic sets rather than conventional weights, including a novelty umlaut-randomising feature.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blaktur"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "novelty",
+      "opentype alternates",
+      "display",
+      "playful"
+    ],
+    "summary": "An archaic-leaning blackletter-adjacent display face with a novelty OpenType feature that randomises umlauts.",
+    "description": "Blaktur leans into blackletter's dark, archaic mood but keeps a playful streak with a built-in feature that randomises umlaut placement, controlled through OpenType stylistic sets rather than a normal weight range.",
+    "foundry_blurb": "House Industries built Blaktur with a novelty umlaut-randomiser feature layered onto its archaic, blackletter-adjacent letterforms."
+  },
+  {
+    "name": "Benguiat Buffalo",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/buffalo",
+    "designer": "Ed Benguiat",
+    "year": null,
+    "category": "display",
+    "subcategory": "broad rounded display",
+    "classification_notes": "A broad, rounded display face from the Photo-Lettering archive, sturdy enough that it has also been produced as real carved wood type.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Benguiat Buffalo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "photo-lettering",
+      "wood type",
+      "revival",
+      "headlines"
+    ],
+    "summary": "A broad, rounded Ed Benguiat display face, sturdy enough to have been cut as real wood type.",
+    "description": "Benguiat Buffalo carries the broad, confident rounding typical of Ed Benguiat's Photo-Lettering work, and has since been produced as genuine carved wood type by Virgin Wood Type.",
+    "foundry_blurb": "House Industries notes that Benguiat Buffalo has also been produced as real wood type by Virgin Wood Type, alongside its digital release."
+  },
+  {
+    "name": "Velo Serif",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/veloserif",
+    "designer": "Christian Schwartz",
+    "year": null,
+    "category": "serif",
+    "subcategory": "superelliptical serif",
+    "classification_notes": "A serif system built on superelliptical curve construction, sporty in feeling but developed with a Text range specifically for longer-form reading.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Velo Serif",
+      "Velo Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "superellipse",
+      "sporty",
+      "editorial",
+      "text"
+    ],
+    "summary": "A sporty superelliptical serif system built with a proper Text range for longer reading, not just headlines.",
+    "description": "Velo Serif runs a Display range from Thin to Black with italics, plus a dedicated Regular and Bold Text range, keeping its rounded superelliptical construction legible at smaller sizes.",
+    "foundry_blurb": "House Industries describes Velo Serif as a superelliptical serif system that is sporty but built for long text too."
+  },
+  {
+    "name": "Velo Sans",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/velosans",
+    "designer": "Christian Schwartz",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "superelliptical sans",
+    "classification_notes": "The sans companion to Velo Serif, sharing its superelliptical curve construction across matching Display and Text ranges.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Velo Sans",
+      "Velo Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "superellipse",
+      "sporty",
+      "editorial",
+      "text"
+    ],
+    "summary": "The sans companion to Velo Serif, sharing its rounded superelliptical construction across Display and Text ranges.",
+    "description": "Velo Sans mirrors Velo Serif's Display and Text structure in a sans-serif cut, published in 2024 to complete the same superelliptical system.",
+    "foundry_blurb": "House Industries released Velo Sans as the sans companion to Velo Serif, built on the same superelliptical construction."
+  },
+  {
+    "name": "Latino!",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/latino",
+    "designer": "Christian Schwartz",
+    "year": null,
+    "category": "display",
+    "subcategory": "wedge-serif display pair",
+    "classification_notes": "A 1960s Afro-Cuban-inspired display pair with wedge serifs, echoing the graphic language of Xavier Cugat-era album covers.",
+    "weights": [
+      "Rumba",
+      "Samba"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Latino! Rumba",
+      "Latino! Samba"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "wedge serif",
+      "album covers",
+      "retro",
+      "illustration"
+    ],
+    "summary": "A wedge-serif display pair echoing 1960s Afro-Cuban album cover lettering.",
+    "description": "Latino! pairs coordinated Rumba and Samba cuts, both built around wedge serifs in the spirit of Xavier Cugat-era record sleeves, and ships with fifteen period illustrations.",
+    "foundry_blurb": "House Industries built Latino! around the graphic language of 1960s Afro-Cuban album covers, ships with fifteen illustrations."
+  },
+  {
+    "name": "House Gothic 23",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/housegothic23",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grid-based gothic",
+    "classification_notes": "A grid-based gothic system with four alternate lowercase sets per weight, spanning condensed and extended widths for varied headline texture within one family.",
+    "weights": [
+      "Condensed Light 1",
+      "Condensed Light 2",
+      "Condensed Light 3",
+      "Condensed Light 4",
+      "Condensed Bold 1",
+      "Condensed Bold 2",
+      "Condensed Bold 3",
+      "Condensed Bold 4",
+      "Condensed Black",
+      "Condensed 3D"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Extended",
+      "Text"
+    ],
+    "subfamilies": [
+      "House Gothic 23"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "gothic sans",
+      "grid-based",
+      "condensed",
+      "extended",
+      "headlines"
+    ],
+    "summary": "A grid-based gothic system offering four alternate lowercase sets per weight, across condensed and extended widths.",
+    "description": "House Gothic 23 gives every weight four alternate lowercase sets for varied headline texture, spanning Condensed through Extended widths plus a Text range with Light, Bold and Italic.",
+    "foundry_blurb": "House Industries built House Gothic 23 as a grid-based system with four alternate lowercase sets per weight, pairing well with the display face Plinc Elephant."
+  },
+  {
+    "name": "Trillium",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/trillium",
+    "designer": "L. Harl Copeland",
+    "year": 1960,
+    "category": "display",
+    "subcategory": "layerable dimensional display",
+    "classification_notes": "A layerable display face built from Solid, Outline, Inline and directional shadow cuts that combine to create dimensional effects, originating in a 1960s advertising-letterer's design.",
+    "weights": [
+      "Solid",
+      "Outline",
+      "Inline",
+      "Right",
+      "Left",
+      "Outline Right",
+      "Outline Left"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trillium"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "layerable",
+      "dimensional",
+      "advertising",
+      "revival"
+    ],
+    "summary": "A layerable dimensional display face expanded from a 1960 advertising-letterer's original into a full effects suite.",
+    "description": "Trillium began as L. Harl Copeland's 1960 contribution to Photo-Lettering's Alphabet Thesaurus, and was expanded in 2011 into a full layerable system of Solid, Outline, Inline and directional shadow cuts that stack to build dimensional effects.",
+    "foundry_blurb": "House Industries traces Trillium to L. Harl Copeland's 1960 original for Photo-Lettering's Alphabet Thesaurus, expanded into a full family in 2011."
+  },
+  {
+    "name": "Burbank",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/burbank",
+    "designer": "Tal Leming",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "coordinated grotesque system",
+    "classification_notes": "A coordinated twenty-font grotesque system spanning big and small optical sizes and condensed-to-wide widths, with italics reserved for the small-size range.",
+    "weights": [
+      "Light",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Big Condensed",
+      "Big Regular",
+      "Big Wide",
+      "Small"
+    ],
+    "subfamilies": [
+      "Burbank"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "condensed",
+      "wide",
+      "optical sizes",
+      "branding"
+    ],
+    "summary": "A twenty-font coordinated grotesque system spanning big and small optical sizes and condensed-to-wide widths.",
+    "description": "Burbank runs Big Condensed, Big Regular and Big Wide alongside a Small range with its own italics, four weights across each, giving a single coherent grotesque system enough range to cover headline and caption use together.",
+    "foundry_blurb": "House Industries built Burbank as a coordinated twenty-font system spanning big-to-small optical sizes and condensed-to-wide widths."
+  },
+  {
+    "name": "Bullet",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/bullet",
+    "designer": "Tal Leming",
+    "year": null,
+    "category": "script",
+    "subcategory": "connecting nameplate script",
+    "classification_notes": "A connecting script based on metal nameplate lettering from early twentieth-century industrial products, with dedicated speed-caps and small-caps variants rather than a conventional weight range.",
+    "weights": [
+      "Regular",
+      "Regular Script",
+      "Speed Caps",
+      "Small Caps",
+      "Small Caps Alt",
+      "Small Caps Script"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bullet"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "industrial",
+      "nameplate lettering",
+      "branding",
+      "vintage"
+    ],
+    "summary": "A connecting script based on metal nameplate lettering from early twentieth-century industrial products.",
+    "description": "Bullet, Tal Leming's first commission for House Industries, draws its connected forms from the stamped nameplates once bolted to machinery and appliances, with Speed Caps and Small Caps variants for different registers.",
+    "foundry_blurb": "House Industries notes Bullet was Tal Leming's first commission, based on metal nameplate lettering from early twentieth-century industrial products."
+  },
+  {
+    "name": "Plinc Behemoth",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-behemoth",
+    "designer": "Dave West",
+    "year": null,
+    "category": "serif",
+    "subcategory": "heavyweight display serif",
+    "classification_notes": "A brawny, heavyweight serif from the Photo-Lettering archive, revived from an early-1960s Dave West original for maximum display presence.",
+    "weights": [
+      "Regular",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Behemoth"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "heavyweight serif",
+      "display",
+      "revival",
+      "headlines"
+    ],
+    "summary": "The brawny embodiment of the heavyweight serif style, revived from an early-1960s Photo-Lettering original.",
+    "description": "Plinc Behemoth commits fully to weight and impact, a Dave West design from the early 1960s digitised for contemporary headline use with a matching italic.",
+    "foundry_blurb": "House Industries calls Plinc Behemoth the brawny embodiment of the heavyweight serif style, drawn from its Photo-Lettering archive."
+  },
+  {
+    "name": "Plinc Milo",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-milo",
+    "designer": "L. Harl Copeland",
+    "year": null,
+    "category": "script",
+    "subcategory": "casual script-brush hybrid",
+    "classification_notes": "A casual script and brush-lettering hybrid from the early 1940s, revived as a single-weight display face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Milo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "script",
+      "casual",
+      "display",
+      "revival"
+    ],
+    "summary": "A casual script and brush-lettering hybrid revived from an early-1940s Photo-Lettering original.",
+    "description": "Plinc Milo sits between a script and a brush face, keeping the loose, informal energy of L. Harl Copeland's early-1940s design.",
+    "foundry_blurb": "House Industries revived Plinc Milo from L. Harl Copeland's early-1940s Photo-Lettering original."
+  },
+  {
+    "name": "Plinc Aztek",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-aztek",
+    "designer": "Anthony Sini",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric tessellating display",
+    "classification_notes": "A geometric display face built around tessellating patterns rather than conventional letter construction, revived from a late-1960s Photo-Lettering original.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Aztek"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "geometric",
+      "pattern",
+      "display",
+      "revival"
+    ],
+    "summary": "A geometric display face built from tessellating patterns, revived from a late-1960s Photo-Lettering original.",
+    "description": "Plinc Aztek interlocks its letterforms into a tessellating geometric pattern, keeping Anthony Sini's late-1960s design intact for contemporary display use.",
+    "foundry_blurb": "House Industries revived Plinc Aztek from Anthony Sini's late-1960s Photo-Lettering original."
+  },
+  {
+    "name": "Plinc Tuggle",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-tuggle",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "rounded slab with swashes",
+    "classification_notes": "A rounded slab serif with swash detailing aimed at kids' and packaging use, revived from an uncredited Photo-Lettering staff design with a Highlight companion cut.",
+    "weights": [
+      "Regular",
+      "Highlight"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Tuggle"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "slab serif",
+      "rounded",
+      "packaging",
+      "revival"
+    ],
+    "summary": "A rounded slab serif with swash detailing, aimed at kids' and packaging use.",
+    "description": "Plinc Tuggle softens a slab-serif structure with rounded terminals and swashes, revived from Photo-Lettering's in-house archive with a Highlight cut for extra dimension.",
+    "foundry_blurb": "House Industries revived Plinc Tuggle from its Photo-Lettering archive, pairing a Regular cut with a Highlight companion."
+  },
+  {
+    "name": "Plinc Banjo",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-banjo",
+    "designer": "Dave West",
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast psychedelic serif",
+    "classification_notes": "A high-contrast display serif revived from a late-1960s Photo-Lettering original, landing somewhere between Wild West and psychedelic poster lettering.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Banjo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "high contrast",
+      "display",
+      "psychedelic",
+      "revival"
+    ],
+    "summary": "A high-contrast display serif that reads as Wild West lettering filtered through 1960s psychedelia.",
+    "description": "Plinc Banjo revives a late-1960s Dave West design, keeping its high-contrast strokes and slightly wild, poster-ready character intact.",
+    "foundry_blurb": "House Industries describes Plinc Banjo's mood as wild west meets psychedelic, revived from Dave West's late-1960s Photo-Lettering original."
+  },
+  {
+    "name": "Plinc Goliath",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-goliath",
+    "designer": "Vincent Pacella",
+    "year": 1970,
+    "category": "slab",
+    "subcategory": "display slab serif",
+    "classification_notes": "A bold display slab serif from 1970, notable for its use on Herb Lubalin's American-flag cover design for Print magazine.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Goliath"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "slab serif",
+      "display",
+      "revival",
+      "editorial history"
+    ],
+    "summary": "A bold 1970 display slab serif, notable for appearing on Herb Lubalin's American-flag Print magazine cover.",
+    "description": "Plinc Goliath carries genuine editorial history, having been used on Herb Lubalin's celebrated American-flag cover for Print magazine, revived here as a bold single-weight slab serif.",
+    "foundry_blurb": "House Industries notes Plinc Goliath was used by Herb Lubalin on his American-flag cover for Print magazine."
+  },
+  {
+    "name": "Plinc Henrion",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-henrion",
+    "designer": "Henri Kay Henrion",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "extended shaded sans",
+    "classification_notes": "An extended sans with shaded, dimensional capitals, originally released as British American in the early 1960s by designer Henri Kay Henrion.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "extended"
+    ],
+    "subfamilies": [
+      "Plinc Henrion"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "extended",
+      "shaded",
+      "display",
+      "revival"
+    ],
+    "summary": "An extended sans with shaded, dimensional capitals, originally released in the early 1960s as British American.",
+    "description": "Plinc Henrion revives Henri Kay Henrion's early-1960s British American design, keeping its extended proportions and shaded capital treatment for display use.",
+    "foundry_blurb": "House Industries revived Plinc Henrion from Henri Kay Henrion's early-1960s design, originally released as British American."
+  },
+  {
+    "name": "Plinc Emperor",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-emperor",
+    "designer": "Dave West",
+    "year": null,
+    "category": "script",
+    "subcategory": "heavyweight formal script",
+    "classification_notes": "A heavyweight formal script from the Photo-Lettering archive, built for a grand, ceremonial register rather than casual use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Emperor"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "script",
+      "formal",
+      "display",
+      "revival"
+    ],
+    "summary": "A heavyweight, ceremonial formal script revived from the Photo-Lettering archive.",
+    "description": "Plinc Emperor keeps a grand, formal bearing, a Dave West script revived for certificates, titling and other occasions that call for weight and dignity.",
+    "foundry_blurb": "House Industries revived Plinc Emperor from Dave West's original Photo-Lettering design."
+  },
+  {
+    "name": "Plinc Superstar",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-superstar",
+    "designer": "Dave West",
+    "year": null,
+    "category": "script",
+    "subcategory": "full-bodied display script",
+    "classification_notes": "A full-bodied display script from the 1970s, offered in a plain cut and a Shiny variant with added dimensional highlighting.",
+    "weights": [
+      "Superstar",
+      "Superstar Shiny"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Superstar"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "script",
+      "display",
+      "revival",
+      "1970s"
+    ],
+    "summary": "A full-bodied 1970s display script, offered plain or with a Shiny dimensional highlight cut.",
+    "description": "Plinc Superstar keeps its rounded, confident script forms from a 1970s Dave West original, with a Shiny companion adding a glossy highlight effect.",
+    "foundry_blurb": "House Industries revived Plinc Superstar from Dave West's 1970s Photo-Lettering original, with an added Shiny cut."
+  },
+  {
+    "name": "Plinc Inline",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-inline",
+    "designer": "Craig Mierop",
+    "year": null,
+    "category": "display",
+    "subcategory": "art deco geometric inline",
+    "classification_notes": "An Art Deco-influenced geometric inline face built for layering, revived from a 1960s Photo-Lettering original.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Inline"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "art deco",
+      "inline",
+      "display",
+      "revival"
+    ],
+    "summary": "An Art Deco-influenced geometric inline face built for layered display use.",
+    "description": "Plinc Inline revives Craig Mierop's 1960s design, keeping its Art Deco geometry and inline structure intact for multi-layer display settings.",
+    "foundry_blurb": "House Industries revived Plinc Inline from Craig Mierop's 1960s Photo-Lettering original."
+  },
+  {
+    "name": "Plinc Italiano",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-italiano",
+    "designer": "Dave West",
+    "year": null,
+    "category": "serif",
+    "subcategory": "engraved italic and italian modern hybrid",
+    "classification_notes": "A semi-serif blending eighteenth-century engraved italic conventions with nineteenth-century Italian Modern display serif structure, revived from a late-1960s original.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Italiano"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "serif",
+      "engraved",
+      "display",
+      "revival"
+    ],
+    "summary": "A hybrid display serif blending eighteenth-century engraved italic conventions with nineteenth-century Italian Modern structure.",
+    "description": "Plinc Italiano revives a late-1960s Dave West design that bridges two historical registers, engraved italic calligraphy and Italian Modern display serif construction, into one semi-serif display face.",
+    "foundry_blurb": "House Industries revived Plinc Italiano from Dave West's late-1960s Photo-Lettering original."
+  },
+  {
+    "name": "Plinc Quicksilver",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-quicksilver",
+    "designer": "Vincent Pacella",
+    "year": null,
+    "category": "serif",
+    "subcategory": "flared display serif",
+    "classification_notes": "A flared display serif from the early 1960s, revived intact from the Photo-Lettering archive as a single-weight design.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Quicksilver"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "flared serif",
+      "display",
+      "revival",
+      "headlines"
+    ],
+    "summary": "A flared display serif revived from an early-1960s Photo-Lettering original.",
+    "description": "Plinc Quicksilver keeps its flared serif terminals and display-ready proportions from Vincent Pacella's early-1960s design.",
+    "foundry_blurb": "House Industries revived Plinc Quicksilver from Vincent Pacella's early-1960s Photo-Lettering original."
+  },
+  {
+    "name": "Plinc Swiss Interlock",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-swiss-interlock",
+    "designer": "Christian Schwartz",
+    "year": 2011,
+    "category": "display",
+    "subcategory": "international style interlock display",
+    "classification_notes": "A tightly woven interlocking display face mixing International Style structure with 1960s counterculture energy, with unexpected letter pairings built into its interlock logic.",
+    "weights": [
+      "Regular",
+      "Stencil"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Swiss Interlock"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "interlock",
+      "swiss style",
+      "display",
+      "stencil"
+    ],
+    "summary": "A tightly woven interlocking display face mixing International Style structure with 1960s counterculture energy.",
+    "description": "Plinc Swiss Interlock ties adjoining letters together in unexpected pairings, built by Christian Schwartz and Adam Cruz in 2011 from Photo-Lettering source material, with a Stencil cut alongside the Regular.",
+    "foundry_blurb": "House Industries describes Plinc Swiss Interlock as a tightly woven face with unexpected letter pairings, mixing International Style with 1960s counterculture."
+  },
+  {
+    "name": "Plinc Beaux Arts Didot",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-beaux-arts-didot",
+    "designer": "Firmin Didot",
+    "year": 2014,
+    "category": "serif",
+    "subcategory": "modern didone revival",
+    "classification_notes": "A Didone serif digitised in 2014 directly from a Photo-Lettering film matrix tracing back to Firmin Didot's original modern-face construction.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Beaux Arts Didot"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "didone",
+      "high contrast",
+      "revival",
+      "editorial"
+    ],
+    "summary": "A Didone serif digitised directly from a Photo-Lettering film matrix tracing back to Firmin Didot's original modern-face construction.",
+    "description": "Plinc Beaux Arts Didot was digitised in 2014 by Jean-Baptiste Levée straight from Photo-Lettering's film matrix, keeping the sharp hairline-to-stem contrast of Firmin Didot's original modern-face design.",
+    "foundry_blurb": "House Industries digitised Plinc Beaux Arts Didot from a Photo-Lettering film matrix tracing back to Firmin Didot's original design."
+  },
+  {
+    "name": "Plinc Atrax",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-atrax",
+    "designer": "Harold Horman",
+    "year": 1938,
+    "category": "display",
+    "subcategory": "art deco shaded caps",
+    "classification_notes": "An all-caps Art Deco shaded display face from Photo-Lettering's Pop Type set, dated to 1938 and offering no lowercase.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Atrax"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "art deco",
+      "uppercase only",
+      "shaded",
+      "revival"
+    ],
+    "summary": "An all-caps 1938 Art Deco shaded display face from Photo-Lettering's Pop Type set.",
+    "description": "Plinc Atrax offers capitals only, keeping the shaded, three-dimensional Art Deco treatment of Harold Horman's 1938 original from Photo-Lettering's Pop Type collection.",
+    "foundry_blurb": "House Industries traces Plinc Atrax to Harold Horman's 1938 design from Photo-Lettering's Pop Type set."
+  },
+  {
+    "name": "Plinc TwoTone",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-twotone",
+    "designer": "Christian Schwartz",
+    "year": 2011,
+    "category": "display",
+    "subcategory": "layered colour display",
+    "classification_notes": "A layered colour display system built from Solid and three Part cuts designed to stack for multi-colour effects rather than a single flat letterform.",
+    "weights": [
+      "Solid",
+      "Part 1",
+      "Part 2",
+      "Part 3"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc TwoTone"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "layered",
+      "colour",
+      "display",
+      "revival"
+    ],
+    "summary": "A layered colour display system built to stack a Solid base with three Part cuts for multi-colour effects.",
+    "description": "Plinc TwoTone splits its display letterforms into a Solid base and three layerable Part cuts, letting each be coloured separately to build up two-tone or multi-tone effects.",
+    "foundry_blurb": "House Industries built Plinc TwoTone as a layered colour system with Solid, Part 1, Part 2 and Part 3 cuts."
+  },
+  {
+    "name": "Plinc Times Square",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-times-square",
+    "designer": "Christian Schwartz",
+    "year": 1904,
+    "category": "display",
+    "subcategory": "vintage marquee lettering",
+    "classification_notes": "A single-weight display face digitised from an original 1904 marquee sign, keeping the era's theatrical signage character intact.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Times Square"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "signage",
+      "vintage",
+      "display",
+      "revival"
+    ],
+    "summary": "A display face digitised from an original 1904 marquee sign, keeping its theatrical signage character.",
+    "description": "Plinc Times Square was digitised in 2006 by Christian Schwartz directly from an original 1904 marquee sign, carrying that era's theatrical signage lettering into contemporary use.",
+    "foundry_blurb": "House Industries digitised Plinc Times Square from an original 1904 marquee sign."
+  },
+  {
+    "name": "Plinc Circle",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-circle",
+    "designer": "Harold Horman",
+    "year": 1938,
+    "category": "script",
+    "subcategory": "italic-script hybrid",
+    "classification_notes": "An italic and script hybrid dated to 1938, revived as a single-weight design retaining its original connected, slanted structure.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Circle"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "script",
+      "italic",
+      "display",
+      "revival"
+    ],
+    "summary": "A 1938 italic and script hybrid revived from the Photo-Lettering archive.",
+    "description": "Plinc Circle blends italic and script conventions into one connected, slanted display face, keeping Harold Horman's 1938 structure intact.",
+    "foundry_blurb": "House Industries traces Plinc Circle to Harold Horman's 1938 Photo-Lettering original."
+  },
+  {
+    "name": "Plinc Regatta",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-regatta",
+    "designer": "James D'Amico",
+    "year": null,
+    "category": "serif",
+    "subcategory": "relaxed old-style serif",
+    "classification_notes": "A relaxed old-style serif revived as a single weight, sitting closer to a text serif register than the more decorative Photo-Lettering revivals around it.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Regatta"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "old-style serif",
+      "editorial",
+      "revival",
+      "text"
+    ],
+    "summary": "A relaxed old-style serif revived from James D'Amico's Photo-Lettering archive.",
+    "description": "Plinc Regatta keeps a calmer, more classical old-style serif structure than many of its Photo-Lettering siblings, digitised by Kai Bernau from a James D'Amico original.",
+    "foundry_blurb": "House Industries revived Plinc Regatta from James D'Amico's Photo-Lettering original."
+  },
+  {
+    "name": "Plinc Flourish",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-flourish",
+    "designer": "William Millstein",
+    "year": null,
+    "category": "serif",
+    "subcategory": "italic-roman hybrid",
+    "classification_notes": "A semi-serif blending italic and roman construction, revived from a 1940s Photo-Lettering original as a single-weight display face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Flourish"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "italic",
+      "display",
+      "revival",
+      "1940s"
+    ],
+    "summary": "A semi-serif blending italic and roman construction, revived from a 1940s Photo-Lettering original.",
+    "description": "Plinc Flourish sits between italic flow and roman structure, keeping William Millstein's 1940s design intact for display use.",
+    "foundry_blurb": "House Industries revived Plinc Flourish from William Millstein's 1940s Photo-Lettering original."
+  },
+  {
+    "name": "Plinc Elephant",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-elephant",
+    "designer": "Dave West",
+    "year": null,
+    "category": "display",
+    "subcategory": "ultra-bold display",
+    "classification_notes": "An ultra-bold display face designed to pair with House Gothic 23 for text, revived from a Dave West Photo-Lettering original.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Elephant"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "ultra-bold",
+      "display",
+      "headlines",
+      "revival"
+    ],
+    "summary": "An ultra-bold display face built to pair with House Gothic 23 for supporting text.",
+    "description": "Plinc Elephant goes all in on weight and presence for headline use, designed as the loud counterpart to the more restrained House Gothic 23 in body copy.",
+    "foundry_blurb": "House Industries pairs Plinc Elephant with House Gothic 23 for text, the display half of a headline-and-body combination."
+  },
+  {
+    "name": "Plinc Hanover",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-hanover",
+    "designer": "Christian Schwartz",
+    "year": 2009,
+    "category": "blackletter",
+    "subcategory": "display blackletter",
+    "classification_notes": "A blackletter display face developed by Christian Schwartz for the Photo-Lettering revival series, keeping traditional broken-letter structure for headline use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Hanover"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "photo-lettering",
+      "display",
+      "headlines",
+      "historical"
+    ],
+    "summary": "A blackletter display face keeping traditional broken-letter structure for headline use.",
+    "description": "Plinc Hanover applies Christian Schwartz's 2009 design to the Photo-Lettering revival series, a straightforward blackletter built for display rather than dense text setting.",
+    "foundry_blurb": "House Industries credits Plinc Hanover to Christian Schwartz as part of its Photo-Lettering revival series."
+  },
+  {
+    "name": "Plinc Barnum",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-barnum",
+    "designer": "Dave West",
+    "year": null,
+    "category": "display",
+    "subcategory": "circus wood type",
+    "classification_notes": "A bold circus-style wood type revival with a modernised lowercase, keeping the poster energy of the original while making it more usable in mixed-case settings.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Barnum"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "wood type",
+      "circus",
+      "display",
+      "revival"
+    ],
+    "summary": "A bold circus-style wood type revival with a modernised lowercase for mixed-case display use.",
+    "description": "Plinc Barnum keeps the poster-scale bravado of nineteenth-century circus wood type while adding a modernised lowercase, making Dave West's original more usable in contemporary display settings.",
+    "foundry_blurb": "House Industries revived Plinc Barnum from Dave West's bold circus-style wood type design, with a modernised lowercase."
+  },
+  {
+    "name": "Plinc Slope",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-slope",
+    "designer": "Tony Stan",
+    "year": null,
+    "category": "serif",
+    "subcategory": "jaunty didone italic",
+    "classification_notes": "A jaunty Didone italic from designer Tony Stan's early career, revived to pair with the Holiday Script and Ed Gothic families.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Slope"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "didone",
+      "italic",
+      "display",
+      "revival"
+    ],
+    "summary": "A jaunty Didone italic from an early Tony Stan design, built to pair with the Holiday Script and Ed Gothic families.",
+    "description": "Plinc Slope leans its Didone contrast into a lively slant, drawn from Tony Stan's early career work and positioned as a companion to House Industries' Holiday Script and Ed Gothic faces.",
+    "foundry_blurb": "House Industries calls Plinc Slope jaunty, an early Tony Stan design meant to pair with Holiday Script and Ed Gothic."
+  },
+  {
+    "name": "Plinc Kerpow",
+    "foundry": "House Industries",
+    "url": "https://housefonts.com/hi/plinc-kerpow",
+    "designer": "Dave West",
+    "year": null,
+    "category": "display",
+    "subcategory": "comic sound-effect lettering",
+    "classification_notes": "A comic-book sound-effect display face from the late 1960s, offered in a plain and Drop Shadow cut for extra pop.",
+    "weights": [
+      "Regular",
+      "Drop Shadow"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plinc Kerpow"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "photo-lettering",
+      "comic",
+      "display",
+      "novelty",
+      "revival"
+    ],
+    "summary": "A comic-book sound-effect display face from the late 1960s, with a Drop Shadow cut for extra pop.",
+    "description": "Plinc Kerpow keeps the punchy, exclamatory energy of classic comic-book sound effects, revived from a late-1960s Dave West original with an added Drop Shadow style.",
+    "foundry_blurb": "House Industries revived Plinc Kerpow from Dave West's late-1960s comic-book sound-effect lettering."
+  }
+]

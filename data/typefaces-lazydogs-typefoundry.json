@@ -1,0 +1,660 @@
+[
+  {
+    "name": "LD Elly",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/23",
+    "designer": "Bente Baseler",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "A multi-script transitional serif with stable, baseline-anchored serifs and moderate contrast, built for continuous text across Latin, Arabic and Greek.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LD Elly"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Arabic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "multi-script",
+      "transitional serif",
+      "editorial",
+      "text-setting",
+      "arabic",
+      "greek"
+    ],
+    "summary": "A calm transitional serif built for continuous reading across Latin, Arabic and Greek text.",
+    "description": "LD Elly was developed by Bente Baseler during her MA studies at the University of Reading, and named after her great-grandmother Elisabeth. It pairs stable, baseline-anchored serifs with a quiet, even colour across four weights, tuned so the three scripts sit together without any one dominating. It reads as a text face first, built for literature and editorial pages rather than headlines.",
+    "foundry_blurb": "Lazydogs describe LD Elly as a friendly, calm and clean multi-script family for continuous text in literature and editorial contexts, its character drawn from designer Bente Baseler's great-grandmother Elisabeth, who lived in Bavaria."
+  },
+  {
+    "name": "LD Vela",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/2",
+    "designer": "Holger Königsdörfer",
+    "year": null,
+    "category": "slab",
+    "subcategory": "text slab serif",
+    "classification_notes": "Filed by the foundry under its own Slab class filter and tagged for text use; a four-style update of Königsdörfer's original graduate project.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LD Vela"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab serif",
+      "text",
+      "small caps",
+      "swash",
+      "european"
+    ],
+    "summary": "A four-style slab serif refined from a German design graduate's original thesis project.",
+    "description": "LD Vela started life as Holger Königsdörfer's final project at the University of Applied Sciences Augsburg and has since been reworked into a retail family of Regular and Bold weights with matching italics. Small caps ride along on the Regular and Bold, and the italic carries swash capitals, with an extended European character set and a scatter of ligatures and alternates.",
+    "foundry_blurb": "Lazydogs call Vela an updated, optimised version of Königsdörfer's graduate project, offering Regular and Bold with small caps plus an Italic and Bold Italic with swash capitals, extended for high-quality European typography."
+  },
+  {
+    "name": "LD Alena",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/8",
+    "designer": "Roland Stieger",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Rooted in Jost Hochuli's woodcut capitals after Roman monumental inscriptions, with minuscules from a late humanist hand, giving it a humanist structure rather than a geometric one.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LD Alena"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist sans",
+      "branding",
+      "editorial",
+      "alternates",
+      "all-rounder"
+    ],
+    "summary": "An eight-weight humanist sans built from Roman inscriptional capitals and a late humanist minuscule.",
+    "description": "Roland Stieger's first full type design took Jost Hochuli's 1980 woodcuts of Roman monumental capitals as its starting point, paired with lowercase forms from a late humanist hand. The result reads as a contemporary classic rather than a geometric sans, with alternate a and g forms and a full European character set across eight weights and italics.",
+    "foundry_blurb": "Lazydogs describe Alena as Swiss designer Roland Stieger's first full type design, its capitals based on Jost Hochuli's woodcuts after Roman inscriptions and its lowercase on a late humanist minuscule, making it a contemporary classic."
+  },
+  {
+    "name": "LD Moderne Antiqua",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/10",
+    "designer": "Kai Büschl",
+    "year": null,
+    "category": "serif",
+    "subcategory": "modern / didone",
+    "classification_notes": "A high-contrast modern-style serif in the didone tradition, with the first three weights built specifically as optical sizes rather than a single master.",
+    "weights": [
+      "Display",
+      "Subhead",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Subhead",
+      "Regular"
+    ],
+    "subfamilies": [
+      "LD Moderne Antiqua",
+      "LD Moderne Antiqua Fat"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "modern serif",
+      "optical sizes",
+      "editorial",
+      "display"
+    ],
+    "summary": "A high-contrast modern serif whose Display, Subhead and Regular weights double as dedicated optical sizes.",
+    "description": "Kai Büschl built LD Moderne Antiqua around an idea from his student years: rather than just adding a bold to a modern-style serif, he gave it a genuine slab-serif companion. Display, Subhead and Regular are cut as true optical sizes so the high-contrast forms hold up at different reading distances, while Medium, Bold and Heavy handle emphasis within running text.",
+    "foundry_blurb": "Lazydogs pitch Moderne Antiqua as a classic modern-style family in six weights with dedicated italics, where Display, Subhead and Regular function as true optical sizes and Medium, Bold and Heavy are built for emphasis in longer text."
+  },
+  {
+    "name": "LD Moderne Antiqua Fat",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/5",
+    "designer": "Kai Büschl",
+    "year": null,
+    "category": "serif",
+    "subcategory": "fat face",
+    "classification_notes": "A fat-face companion to Moderne Antiqua modelled on 1970s fat modern-style display faces, upright only.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LD Moderne Antiqua",
+      "LD Moderne Antiqua Fat"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "fat face",
+      "display",
+      "headline",
+      "modern serif",
+      "high-contrast"
+    ],
+    "summary": "A three-weight fat face pulled from the heavy end of 1970s modern-style display type.",
+    "description": "LD Moderne Antiqua Fat extends the Moderne Antiqua system into full fat-face territory, taking its cue from the heavy modern-style display faces of the 1970s rather than the original's text-weight structure. It ships as three upright weights, strictly for headline and display work rather than running text.",
+    "foundry_blurb": "Lazydogs describe Antiqua Fat as part of the Moderne Antiqua typeface, finding its model in fat modern-style faces of the seventies and completing the Moderne text face with three upright weights for headline and display use."
+  },
+  {
+    "name": "LD Moderne Slab",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/11",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "modern-style slab serif",
+    "classification_notes": "A slab-serif companion built to the same structural logic as Moderne Antiqua, completing the wider Moderne type system with an Egyptienne-style weight.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LD Moderne Slab"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab serif",
+      "modern serif",
+      "editorial",
+      "text",
+      "system family"
+    ],
+    "summary": "A five-weight slab serif built to match the structure of LD Moderne Antiqua.",
+    "description": "LD Moderne Slab takes the founding logic of Moderne Antiqua and rebuilds it as a proper slab, completing what Lazydogs calls the Moderne type system alongside the serif and sans versions. Five weights come with matching italics, small caps and an extended European character set.",
+    "foundry_blurb": "Lazydogs call Moderne Slab a classic slab serif that completes the Moderne Type System, matching the Antiqua's approach across five weights with dedicated italics, small caps and fractions."
+  },
+  {
+    "name": "LD Grotesk Regular",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/15",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "An industrial-era grotesque built to complete the Moderne type system alongside the Antiqua serif and slab; sold as three separate widths, this is the standard width.",
+    "weights": [
+      "Ultra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LD Grotesk Regular",
+      "LD Grotesk Condensed",
+      "LD Grotesk Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "system family",
+      "editorial",
+      "branding"
+    ],
+    "summary": "A six-weight grotesque completing the Moderne system's sans-serif width, drawn from early industrial-era type.",
+    "description": "LD Grotesk carries the structural thinking of Moderne Antiqua into a sans serif, referencing type from the era of industrialisation. It's sold as three separate width families, Condensed, Regular and Wide, each running six weights with matching obliques.",
+    "foundry_blurb": "Lazydogs frame Grotesk as a classic sans completing the Moderne type system, built across six weights and three widths, each with a dedicated oblique."
+  },
+  {
+    "name": "LD Grotesk Condensed",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/16",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "An industrial-era grotesque built to complete the Moderne type system alongside the Antiqua serif and slab; this is the condensed width of three.",
+    "weights": [
+      "Ultra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "condensed"
+    ],
+    "subfamilies": [
+      "LD Grotesk Regular",
+      "LD Grotesk Condensed",
+      "LD Grotesk Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "condensed",
+      "sans-serif",
+      "system family",
+      "editorial"
+    ],
+    "summary": "The condensed width of the six-weight LD Grotesk system, built for tighter setting.",
+    "description": "LD Grotesk Condensed carries the structural thinking of Moderne Antiqua into a tighter-set sans serif, referencing type from the era of industrialisation. It runs to six weights with matching obliques, and sits alongside the Regular and Wide widths in the same system.",
+    "foundry_blurb": "Lazydogs frame Grotesk as a classic sans completing the Moderne type system, built across six weights and three widths, each with a dedicated oblique."
+  },
+  {
+    "name": "LD Grotesk Wide",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/17",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "An industrial-era grotesque built to complete the Moderne type system alongside the Antiqua serif and slab; this is the wide width of three.",
+    "weights": [
+      "Ultra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "wide"
+    ],
+    "subfamilies": [
+      "LD Grotesk Regular",
+      "LD Grotesk Condensed",
+      "LD Grotesk Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "wide",
+      "sans-serif",
+      "system family",
+      "editorial"
+    ],
+    "summary": "The wide width of the six-weight LD Grotesk system, built for expanded, open-feeling setting.",
+    "description": "LD Grotesk Wide carries the structural thinking of Moderne Antiqua into an expanded sans serif, referencing type from the era of industrialisation. It runs to six weights with matching obliques, and sits alongside the Regular and Condensed widths in the same system.",
+    "foundry_blurb": "Lazydogs frame Grotesk as a classic sans completing the Moderne type system, built across six weights and three widths, each with a dedicated oblique."
+  },
+  {
+    "name": "LD Renommée",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/7",
+    "designer": "Holger Königsdörfer",
+    "year": null,
+    "category": "serif",
+    "subcategory": "renaissance-revival serif",
+    "classification_notes": "A contemporary interpretation of Jan van Krimpen's and Ludovico degli Arrighi's Renaissance letterforms, unified by matching upright and italic capitals rather than a facsimile revival.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LD Renommée"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "renaissance revival",
+      "old-style",
+      "editorial",
+      "swash",
+      "text"
+    ],
+    "summary": "A two-style Renaissance-revival serif built from research into Jan van Krimpen's type designs.",
+    "description": "LD Renommée began as Holger Königsdörfer's research into Jan van Krimpen's work during his master's studies at the KABK in The Hague. It shares uppercase letterforms between its Roman and Italic, a nod to Renaissance practice via Ludovico degli Arrighi, and reworks the historical forms for current typographic use rather than reproducing them as a facsimile.",
+    "foundry_blurb": "Lazydogs describe Renommée as a contemporary interpretation, not a facsimile, of van Krimpen's and Arrighi's historical letterforms, its Roman and Italic sharing uppercase characters and offering swashes, alternates and an extended European character set."
+  },
+  {
+    "name": "LD Elsnac",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/3",
+    "designer": "Kai Büschl",
+    "year": null,
+    "category": "serif",
+    "subcategory": "reductive text serif",
+    "classification_notes": "A modernist-leaning serif reduced to its most basic letterforms, developed from chalkboard teaching examples rather than a historical revival.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LD Elsnac"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "reductive",
+      "modernist",
+      "text serif",
+      "small caps",
+      "variable font"
+    ],
+    "summary": "A five-weight serif that strips letterforms down to their basic parts without losing character.",
+    "description": "LD Elsnac grew out of chalkboard examples Kai Büschl drew for first-year students at the Designschule München, reducing roman letterforms to their essential parts while keeping a distinct, contemporary look. It runs to five weights with italics, small caps and multiple figure sets, and Lazydogs also supply a beta variable-font version alongside the static family.",
+    "foundry_blurb": "Lazydogs call Elsnac a contemporary roman family that reduces letter parts to their basic forms without losing a distinct, modernist character, offering five weights, dedicated italics, small caps and OpenType variable fonts as a bonus."
+  },
+  {
+    "name": "Finn",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/9",
+    "designer": "Oliver Linke",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist text sans",
+    "classification_notes": "A humanist sans purpose-built as a body text face, prioritising spacing and kerning for long-form reading over display character.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Finn"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist sans",
+      "text",
+      "body copy",
+      "editorial",
+      "legibility"
+    ],
+    "summary": "A four-weight humanist sans engineered specifically for setting large amounts of body text.",
+    "description": "Finn was built by Oliver Linke as a body-copy face first, with spacing and kerning treated as the main design problem rather than an afterthought. The letterforms carry enough warmth to feel human without ever slowing down reading, across four upright weights and a single italic.",
+    "foundry_blurb": "Lazydogs pitch Finn as a body typeface tailored to increase readability at length, with charming details that give it a warm, human appearance without disturbing the reading process."
+  },
+  {
+    "name": "Pandera",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/12",
+    "designer": "Robert Strauch",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "extended grotesque",
+    "classification_notes": "A wide, even-toned grotesque tuned for legibility at small sizes and distance, with italics tracked to match their upright counterparts.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pandera"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "signage",
+      "wayfinding",
+      "small caps",
+      "legibility"
+    ],
+    "summary": "A wide four-weight grotesque designed to stay legible at small sizes and from a distance.",
+    "description": "Robert Strauch designed Pandera for signage and information-heavy contexts where legibility at small sizes or long distance matters more than display flourish. It carries a wide stance without eating up excessive space, and its italics run at exactly the same tracking as the matching uprights, an unusual bit of discipline for the format.",
+    "foundry_blurb": "Lazydogs describe Pandera as built to sustain legibility at small sizes and long distance while expressing a strong, non-pretentious personality, with italics tracked to match their upright styles and small caps on the upright weights."
+  },
+  {
+    "name": "LD Fabiol Pro",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/6",
+    "designer": "Robert Strauch",
+    "year": null,
+    "category": "serif",
+    "subcategory": "renaissance revival text serif",
+    "classification_notes": "A renaissance-inflected text serif expanded into a Pro version with ornament glyphs suited to period-style borders and patterns.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LD Fabiol Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "renaissance revival",
+      "ornaments",
+      "small caps",
+      "text serif",
+      "editorial"
+    ],
+    "summary": "A renaissance-styled text serif with a Regular, Italic and Bold, plus a set of ornament glyphs for period borders.",
+    "description": "LD Fabiol Pro is Robert Strauch's renaissance-styled text serif, rounded out in its Pro update with small caps and ornaments contributed by Oliver Linke for building period-style patterns and borders. The three-font bundle covers Regular, Italic and Bold with a heavily extended character set.",
+    "foundry_blurb": "Lazydogs describe Fabiol Pro as a bundle of Regular with small caps and ornaments for charming Renaissance patterns or borders, plus an Italic and Bold, all updated with a heavily extended character set."
+  },
+  {
+    "name": "Streets of London",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/14",
+    "designer": "Robert Strauch",
+    "year": null,
+    "category": "serif",
+    "subcategory": "signage-derived display serif",
+    "classification_notes": "A display serif digitised directly from David Kindersley's hand-cut London street signage lettering, expanded from majuscules-only into a full working font.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Streets of London"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "signage",
+      "display",
+      "revival",
+      "stonecutting",
+      "editorial"
+    ],
+    "summary": "A display serif digitised from stone-cutter David Kindersley's original London street signage letters.",
+    "description": "Streets of London began when Kochan & Partner spotted lettering on a Kensington street sign and worked it into their agency logo. Robert Strauch later digitised the full signage alphabet, tracing it back to stone-cutter David Kindersley's original design, and built out the missing lowercase and characters needed for a complete working font.",
+    "foundry_blurb": "Lazydogs tell the story of Streets of London as growing from a London street sign spotted by Boris Kochan, digitised by Robert Strauch from David Kindersley's original stone-cut lettering into a complete Regular, Italic and Bold family."
+  },
+  {
+    "name": "LD Genzsch Antiqua",
+    "foundry": "Lazydogs Typefoundry",
+    "url": "https://lazydogs.de/families/details/22",
+    "designer": "Michael Wörgötter",
+    "year": null,
+    "category": "serif",
+    "subcategory": "old-style revival serif",
+    "classification_notes": "A digital revival of Genzsch & Heyse's 1907 Nordische Antiqua, deliberately keeping the original lead type's irregularities rather than smoothing them into interpolated masters; includes narrow (condensed) cuts.",
+    "weights": [
+      "Normal",
+      "Halbfett",
+      "Fett",
+      "Schmalhalbfett",
+      "Schmalfett"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "LD Genzsch Antiqua"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "revival",
+      "old-style serif",
+      "condensed",
+      "editorial",
+      "text"
+    ],
+    "summary": "A digital revival of the 1907 Genzsch Antiqua that keeps the original lead type's irregular, hand-cut character.",
+    "description": "Michael Wörgötter researched Genzsch & Heyse's 1907 Nordische Antiqua during a study semester and built LD Genzsch Antiqua as a digital interpretation that keeps the original punchcutting's inconsistencies rather than tidying them into a uniform interpolated system. Original style names carry over from the metal type: Normal, Halbfett and Fett, plus the narrower Schmalhalbfett and Schmalfett, with Kursiv italics for Normal and Halbfett.",
+    "foundry_blurb": "Lazydogs frame Genzsch Antiqua as a contemporary revival celebrating the organic inconsistencies of the 1907 original, keeping its historic style names rather than a 'ticked boxes' interpolated system, recommending Normal for text and Schmalfett for display."
+  }
+]

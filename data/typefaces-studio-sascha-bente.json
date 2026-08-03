@@ -1,0 +1,349 @@
+[
+  {
+    "name": "SB Viadukt",
+    "foundry": "Studio Sascha Bente",
+    "url": "https://saschabente.com/viadukt/",
+    "designer": "Sascha Bente",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque with Art Nouveau ornament",
+    "classification_notes": "A classic grotesque skeleton with Art Nouveau flourishes worked into the details, described by the designer as bridging expressive ornament and modernist clarity.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "SB Viadukt"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "art-nouveau",
+      "ornamental",
+      "editorial",
+      "seven-weight"
+    ],
+    "summary": "A seven-weight grotesque that lets Art Nouveau flourishes work their way into an otherwise rational sans skeleton.",
+    "description": "Viadukt is not a revival of any single historical face. It takes the plain logic of a classic grotesque and lets ornamental, Art Nouveau-adjacent gestures creep into the details, most visibly in the tension of its lowercase a. A stylistic set converts the diagonals into curved strokes, and the seven weights cover both text and display use.",
+    "foundry_blurb": "Sascha Bente describes it as an experiment in letting expressive, Art Nouveau-associated flourishes find their way into the rational system of the classic grotesque genre, literally bridging expressive movement and modernist clarity, hence the name."
+  },
+  {
+    "name": "SB Obskur",
+    "foundry": "Studio Sascha Bente",
+    "url": "https://saschabente.com/obskur/",
+    "designer": "Sascha Bente",
+    "year": null,
+    "category": "display",
+    "subcategory": "grid-based stencil display",
+    "classification_notes": "A single-style grid-constructed display face built on a hole-punch-tool lettering method from a 1940 German handwriting manual, closer to a rough stencil face than a conventional sans.",
+    "weights": [
+      "Plakat"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "SB Obskur"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grid-based",
+      "stencil",
+      "rough",
+      "display",
+      "archival"
+    ],
+    "summary": "A grid-built, rough-edged display face derived from a hole-punch lettering method in a 1940 German handwriting manual.",
+    "description": "Obskur traces back to Fred Lullack's 1940 lettering and handwriting manual, which showed how letterforms could be drawn on a background grid using a hole-punch tool. Studio Sascha Bente carries that brutal, punched texture into the digital version, adding lowercase letters and a full working character set that the source material never had.",
+    "foundry_blurb": "Sascha Bente calls it grid-based, its lettershapes built around a hole-punch tool, transporting that brutality and roughness into the digital space with a work-ready character set."
+  },
+  {
+    "name": "SB Articulate",
+    "foundry": "Studio Sascha Bente",
+    "url": "https://saschabente.com/articulate/",
+    "designer": "Sascha Bente",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque, phototype revival",
+    "classification_notes": "A grotesque digitised from phototype-era printed samples of Berthold's AG Buch, keeping the small imperfections of the analogue original.",
+    "weights": [
+      "Light",
+      "Screen",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "SB Articulate"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "phototype",
+      "revival",
+      "editorial",
+      "eight-weight"
+    ],
+    "summary": "An eight-weight grotesque digitised from phototype-era printed samples of Berthold's AG Buch, keeping its analogue imperfections intact.",
+    "description": "Articulate follows the same reductive move Berthold made going from Akzidenz Grotesk to AG Buch: taking a metal-type design through the phototype era and simplifying it for the machine. Sascha Bente redrew it from printed AG Buch samples for the Diatronic phototypesetter, keeping the small proportional quirks of the original rather than ironing them flat.",
+    "foundry_blurb": "Sascha Bente describes it as a typographic reflection on reduction, transferring a metal-type design into the phototype dimension and simplifying it for the device, while keeping the tiny imperfections that give the original its analogue character."
+  },
+  {
+    "name": "SB Prophan",
+    "foundry": "Studio Sascha Bente",
+    "url": "https://saschabente.com/prophan/",
+    "designer": "Sascha Bente",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "revival display sans",
+    "classification_notes": "A display sans revival of the 19th-century Nebiolo face Etrusco Nero Moderno, mixing triangular and rectangular curves with deliberately inconsistent widths.",
+    "weights": [
+      "Plakat"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "SB Prophan"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "revival",
+      "display",
+      "nebiolo",
+      "19th-century",
+      "irregular-width"
+    ],
+    "summary": "A display sans revival of an 1878 Nebiolo face, deliberately mixing condensed and regular widths within the same alphabet.",
+    "description": "Prophan works from Etrusco Nero Moderno, a face Nebiolo took over from Turin's Società Augusta in 1878, translating its triangular-and-rectangular curve construction into digital form. Some letters run condensed and others regular within the same typeface, and a stylistic set removes descenders entirely for tighter, collision-free line spacing.",
+    "foundry_blurb": "Sascha Bente describes it as a display typeface that plays with systematic inconsistencies, based on Etrusco Nero Moderno and combining triangular and rectangular curves with slightly unusual, uneven widths."
+  },
+  {
+    "name": "SB Reimann Std",
+    "foundry": "Studio Sascha Bente",
+    "url": "https://saschabente.com/reimann/",
+    "designer": "Sascha Bente",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans, teaching-manual revival",
+    "classification_notes": "A geometric text sans redrawn from Ernst Reimann's 1969 lettering teaching manual, with proportions adjusted for comfortable running text rather than standalone display.",
+    "weights": [
+      "Thin",
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "SB Reimann Std"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "revival",
+      "teaching-manual",
+      "text",
+      "sans-serif"
+    ],
+    "summary": "A geometric text sans redrawn from a 1969 German lettering teaching manual, adjusted to sit comfortably in running text.",
+    "description": "Reimann Std follows the model alphabets in Ernst Reimann's 1969 Großer Schrift Atlas, a guide typesetters and sign painters once used for reference. Sascha Bente smoothed out the rough teaching-manual moments and adjusted the proportions so the letters read as a working text face rather than a set of isolated examples.",
+    "foundry_blurb": "Sascha Bente describes it as following drawings from Ernst Reimann's lettering guide, with raw moments removed and proportions adjusted so the letters fit comfortably into a text image instead of standing out on their own."
+  },
+  {
+    "name": "SB Penteks",
+    "foundry": "Studio Sascha Bente",
+    "url": "https://saschabente.com/penteks/",
+    "designer": "Sascha Bente",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "correction-pen inspired display",
+    "classification_notes": "A single-weight display face built around the bold dots a correction pen leaves when it rests too long, developed in a course led by Radim Peško at ECAL.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "SB Penteks"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "experimental",
+      "heavy",
+      "concept",
+      "poster"
+    ],
+    "summary": "A heavy display face built from the bold dots a correction pen leaves when it lingers too long on the page.",
+    "description": "Penteks started as an attempt at a full weight range but ended up working only in its medium-to-heavy cuts, so Sascha Bente let it settle as a pure display face. It came out of a course led by Radim Peško at ECAL in 2019, and its character comes directly from the blot a correction pen makes when it sits too long in one spot.",
+    "foundry_blurb": "Sascha Bente describes it as highlighting the moment a correction pen rests on a spot too long, the bold dots where the fluid collects becoming the design's defining feature."
+  },
+  {
+    "name": "SB Furnir",
+    "foundry": "Studio Sascha Bente",
+    "url": "https://saschabente.com/furnir/",
+    "designer": "Sascha Bente",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "architectural lettering revival",
+    "classification_notes": "A sans-serif redrawn from a hand-lettered 1984 book cover, keeping the curved, wood-like bend of its architectural source.",
+    "weights": [
+      "Thin"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "SB Furnir"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "architectural",
+      "revival",
+      "lettering",
+      "furniture"
+    ],
+    "summary": "A sans-serif redrawn from a 1984 hand-lettered book cover, keeping the wood-like curve of its architectural source.",
+    "description": "Furnir goes back to lettering architect Juhani Pallasmaa and his assistant Juha Ilonen drew by hand in 1984 for the cover of a book on Alvar Aalto's furniture. Sascha Bente kept the curved logic of letters like the lowercase a while adding constructed alternates for letters like n and t, so the typeface bends the way Aalto's bent-wood furniture does.",
+    "foundry_blurb": "Sascha Bente describes it as derived from a lettering originally drawn for the cover of a book on Alvar Aalto's furniture, keeping the curvature of Aalto's furniture in how the letters bend."
+  },
+  {
+    "name": "SB Ingerl Systemschrift",
+    "foundry": "Studio Sascha Bente",
+    "url": "https://saschabente.com/ingerl/",
+    "designer": "Sascha Bente",
+    "year": null,
+    "category": "display",
+    "subcategory": "grid-based geometric display",
+    "classification_notes": "A bezier redrawing of Austrian sculptor Kurt Ingerl's hand-built lettering system, constructed on a strict grid of right angles.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "SB Ingerl Systemschrift"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grid-based",
+      "geometric",
+      "display",
+      "archival",
+      "sculptural"
+    ],
+    "summary": "A digital redrawing of an Austrian sculptor's hand-built, grid-based lettering system, worked out entirely on paper until 1974.",
+    "description": "Ingerl Systemschrift is a bezier redrawing of a typographic system Kurt Ingerl, an Austrian sculptor who never owned a computer, worked out by hand until 1974. Surfaces and forms are either present or absent within a strict grid of right angles, with the odd deliberate exception in the diagonals.",
+    "foundry_blurb": "Sascha Bente describes it as a digital counterpart to Kurt Ingerl's analogue work, a bezier redrawing of a hand-constructed poster lettering system that follows a clear, simplified logic of surfaces being present or absent."
+  },
+  {
+    "name": "SB Architype",
+    "foundry": "Studio Sascha Bente",
+    "url": "https://saschabente.com/architype/",
+    "designer": "Sascha Bente",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "geometric stencil display",
+    "classification_notes": "A stencil-based geometric display face built from De Stijl right-angle and 45-degree letter construction, originally drawn as a physical stencil of twelve bars.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "SB Architype"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "de-stijl",
+      "geometric",
+      "display",
+      "workshop"
+    ],
+    "summary": "A stencil-built geometric display face drawn from De Stijl's right-angle and 45-degree letter construction.",
+    "description": "Architype 45/90 grew out of the De Stijl alphabets of Theo van Doesburg and Bart van der Leck, one built on strict right angles and the other opening that up to 45 degrees. The original was a physical stencil of twelve differently sized bars arranged to build each letter, drawn during a 2019 workshop on stencil typefaces with NORM at ECAL.",
+    "foundry_blurb": "Sascha Bente describes it as emerging from the visual heritage of De Stijl architypes, following a strict system of 90 and 45 degree angles built from a physical stencil of twelve bars."
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "name": "Grotext",
+    "foundry": "Karsten Lücke",
+    "url": "https://kltf.de/grotext",
+    "designer": "Karsten Lücke",
+    "year": null,
+    "category": "serif",
+    "subcategory": "text serif with blackletter and uncial influence",
+    "classification_notes": "Grotext pairs wide classical capitals with a narrow lowercase built from blackletter and uncial forms, giving it a historical serif character rather than a neutral grotesque despite the name.",
+    "weights": [
+      "Ultralight",
+      "Extralight",
+      "Light",
+      "Semilight",
+      "Regular",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grotext",
+      "Grotext No2"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "text serif",
+      "historical",
+      "editorial",
+      "fine typography",
+      "diacritics"
+    ],
+    "summary": "A text face that trades a neutral grotesque skeleton for wide classical capitals and a narrow, blackletter-inflected lowercase.",
+    "description": "Grotext looks like a sanserif at a glance but behaves like a historical text face: generous uppercase paired with a condensed, uncial-flavoured lowercase that saves space without losing warmth. Long ascenders and descenders and a compact Grotext No2 cut give it range across editorial and identity work. A DIN 91379-compliant version extends its diacritic support for official German-language use.",
+    "foundry_blurb": "Karsten Lücke describes Grotext as not one of the polished sanserifs, preserving a human touch and a sense of history through wide uppercase set against narrow lowercase drawn from blackletter and uncial forms."
+  },
+  {
+    "name": "Kerl",
+    "foundry": "Karsten Lücke",
+    "url": "https://kltf.de/kerl",
+    "designer": "Karsten Lücke",
+    "year": 2009,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A plain, unfussy sans with even weight distribution and no display flourishes, built for straightforward text setting rather than character.",
+    "weights": [
+      "Light",
+      "Semi-Light",
+      "Regular",
+      "Semi-Bold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kerl"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist sans",
+      "editorial",
+      "branding",
+      "no-nonsense",
+      "cyrillic"
+    ],
+    "summary": "A plain-spoken sans originally commissioned for a Chanel book project, since expanded into a full text family.",
+    "description": "Kerl keeps its ambitions modest: five honest weights with no italic, built to carry text rather than draw attention to itself. It began as custom lettering for Karl Lagerfeld's book on Chanel's Russian connections and was later developed into a full family with Cyrillic support and a set of historic alternate letterforms.",
+    "foundry_blurb": "Karsten Lücke calls Kerl simple, no-nonsense and honest, a typeface that transforms words into statements."
+  },
+  {
+    "name": "Litteratra",
+    "foundry": "Karsten Lücke",
+    "url": "https://kltf.de/litteratra",
+    "designer": "Karsten Lücke",
+    "year": 2001,
+    "category": "blackletter",
+    "subcategory": "bastarda",
+    "classification_notes": "A bastarda style that fuses fraktur and roman letter construction into a dark, dense text colour, with italic lowercase set against roman uppercase.",
+    "weights": [
+      "Regular",
+      "Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Litteratra"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "bastarda",
+      "historical",
+      "award-winning",
+      "dense text colour"
+    ],
+    "summary": "A bastarda text face, named for the Latin littera atra, or dark letter, that won a TDC competition in 2001.",
+    "description": "Litteratra combines fraktur's darkness with roman construction, using italic lowercase alongside roman uppercase in a nod to early italic printing conventions. It was among the first Latin OpenType fonts to lean heavily on contextual positioning, and packs small caps, spaced and titling uppercase, multiple figure sets and ligatures into what Lücke calls a family in one font.",
+    "foundry_blurb": "Karsten Lücke describes Litteratra as a family in one font, with italic lowercase, small caps, spaced and titling uppercase, ligatures, and old-style and lining figures all built in."
+  },
+  {
+    "name": "Tiptoe",
+    "foundry": "Karsten Lücke",
+    "url": "https://kltf.de/tiptoe",
+    "designer": "Karsten Lücke",
+    "year": 2006,
+    "category": "display",
+    "subcategory": "ultra-bold display",
+    "classification_notes": "An intentionally heavy, foot-footed display face built for headlines and short-form messaging rather than text, with weights running from Bold to UltraBlack.",
+    "weights": [
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "UltraBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tiptoe",
+      "Tiptoe Toy"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "ultra-bold",
+      "headlines",
+      "greeting cards",
+      "award-winning"
+    ],
+    "summary": "An unapologetically heavy display face for headlines, cards and titles, named a Typographica favourite in 2006.",
+    "description": "Tiptoe makes no apology for its weight: four cuts running Bold to UltraBlack, with rounded feet at the baseline giving it the sturdy stance its name implies. Alternate J and Q forms and an uncial E keep all-caps settings from feeling stiff.",
+    "foundry_blurb": "Karsten Lücke pitches Tiptoe at anyone bored by typefaces too skinny to touch: Bold, ExtraBold, Black, UltraBlack, with curves already broken and feet of its own."
+  },
+  {
+    "name": "Tiptoe Toy",
+    "foundry": "Karsten Lücke",
+    "url": "https://kltf.de/tiptoetoy",
+    "designer": "Karsten Lücke",
+    "year": null,
+    "category": "display",
+    "subcategory": "caps-only display",
+    "classification_notes": "A single caps-only font that packs all four Tiptoe weights into one file via OpenType stylistic sets, with randomised weight alternation for a hand-set look.",
+    "weights": [
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "UltraBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tiptoe",
+      "Tiptoe Toy"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "caps-only",
+      "ultra-bold",
+      "novelty",
+      "opentype alternates"
+    ],
+    "summary": "A caps-only companion to Tiptoe that shuffles its four weights automatically for a shouted, hand-set feel.",
+    "description": "Tiptoe Toy strips Tiptoe down to capitals only, then uses OpenType stylistic sets to alternate and pseudo-randomise the four weights within a single font. The approach was one of the first of its kind and has since been echoed by other type designers.",
+    "foundry_blurb": "Karsten Lücke frames Tiptoe Toy simply: one font, caps only, with all of Tiptoe's four weights built in for shouting out."
+  }
+]

@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Min Sans",
+    "foundry": "Typeji",
+    "url": "https://typeji.com/fonts/min-sans",
+    "designer": "Tien-Min Liao",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "humanist high-contrast sans",
+    "classification_notes": "Calligraphic undercurrents combined with pronounced thick-thin contrast place Min Sans as a high-contrast sans rather than a neutral grotesque.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Min Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "humanist",
+      "headlines",
+      "editorial",
+      "branding"
+    ],
+    "summary": "A humanist high-contrast sans in six weights, calligraphic in construction but sharp enough for confident headlines.",
+    "description": "Min Sans mixes contemporary sans-serif proportions with a calligraphic undercurrent, its sharp notches and clean contours reading as crisp rather than soft. Six weights run Light to Black, each with an italic. Designed primarily for titles, headlines and subheads rather than body text.",
+    "foundry_blurb": "Typeji describe Min Sans as a modern high-contrast sans-serif with a hint of calligraphic construction, its sharp notch and clean contour giving it a crisp yet warm personality."
+  },
+  {
+    "name": "Min Sans Stencil",
+    "foundry": "Typeji",
+    "url": "https://typeji.com/fonts/min-sans-stencil",
+    "designer": "Tien-Min Liao",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "stencil display sans",
+    "classification_notes": "Stencil gaps applied over a sans-serif skeleton keep this in the display category, distinct from the parent Min Sans family it's built from.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Min Sans Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "display",
+      "branding",
+      "signage",
+      "industrial"
+    ],
+    "summary": "A modular stencil reworking of Min Sans, trading its calligraphic warmth for an industrial, cut-up structure.",
+    "description": "Min Sans Stencil breaks Min Sans's letterforms with precisely placed stencil gaps, giving it an architectural, mechanical tone while keeping the parent family's clean contours underneath. Six weights run with italics, and it suits signage, branding and display work that wants a graphic, cut-open character. Released in 2023 as its own family rather than a simple stencil add-on.",
+    "foundry_blurb": "Typeji call Min Sans Stencil a more robust, industrial and urban transformation of Min Sans, its modular stencil framework introducing mechanical cuts while keeping the parent's sophistication."
+  },
+  {
+    "name": "Fig Grotesk",
+    "foundry": "Typeji",
+    "url": "https://typeji.com/fonts/fig-grotesk",
+    "designer": "Tien-Min Liao",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Modern grotesque proportions with softened, curvy terminals place Fig Grotesk in the grotesque subcategory with a warmer than usual tone.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fig Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "friendly",
+      "logos",
+      "headlines",
+      "branding"
+    ],
+    "summary": "A friendly grotesque sans in eight weights, its curvy terminals borrowed from a 19th-century Amsterdam type specimen.",
+    "description": "Fig Grotesk takes a curvy terminal detail from a late-19th-century Amsterdam Type Foundry specimen and rebuilds it in a geometric structure, giving an otherwise contemporary grotesque a warmer, more playful edge. Eight weights from Thin to Black run with italics, for 16 styles in total. Suited to logos, headlines and subheads where a grotesque needs a bit more personality.",
+    "foundry_blurb": "Typeji describe Fig Grotesk as a playful and approachable sans serif with a modern grotesque proportion, its curvy terminals adding warmth and an affable, friendly character."
+  },
+  {
+    "name": "Looklyn",
+    "foundry": "Typeji",
+    "url": "https://typeji.com/fonts/looklyn",
+    "designer": "Tien-Min Liao",
+    "year": null,
+    "category": "slab",
+    "subcategory": "humanist slab serif",
+    "classification_notes": "Serif construction with a slab-like weight distribution and geometric skeleton places Looklyn in the slab category, softened by humanist diagonals.",
+    "weights": [
+      "Light",
+      "Book",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Looklyn"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "humanist",
+      "editorial",
+      "branding",
+      "warm"
+    ],
+    "summary": "A slab serif with an unconventional serif-weight distribution, pairing a geometric skeleton with handwritten diagonals.",
+    "description": "Looklyn balances extra-thin vertical serifs against heavier body strokes for a thick-thin rhythm unusual in slab faces, while open diagonals on letters like A, K and Y draw on handwriting rather than geometry. Five weights run Light to Black with italics, for 10 styles. The result reads as structured but approachable rather than heavy-handed.",
+    "foundry_blurb": "Typeji call Looklyn an affable slab with a non-traditional serif weight distribution, its hybrid of architectural skeleton and humanist diagonal strokes giving it a contemporary yet approachable quality."
+  },
+  {
+    "name": "Method",
+    "foundry": "Typeji",
+    "url": "https://typeji.com/fonts/method",
+    "designer": "Tien-Min Liao",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Low contrast, geometric construction and high-waisted rounds place Method in the geometric sans subcategory.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Method"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grotesque",
+      "minimal",
+      "branding",
+      "editorial"
+    ],
+    "summary": "A geometric sans in seven weights, its high-waisted proportions traced back to a distinctive lowercase g from a 19th-century American specimen.",
+    "description": "Method reworks Lining Gothic No.82 with a high-waisted structure across rounds and horizontal-bar letters alike, its terminals cut flat rather than angled for a systematic, geometric read. Seven weights from Thin to Black run with italics, for 14 styles. Open counters keep it feeling airy rather than mechanical.",
+    "foundry_blurb": "Typeji describe Method as a geometric sans-serif inspired by Lining Gothic No.82, its high-waisted proportions and straight-cut terminals giving it a clean, minimal aesthetic with a systematic feel."
+  },
+  {
+    "name": "Eliptico",
+    "foundry": "Typeji",
+    "url": "https://typeji.com/fonts/eliptico",
+    "designer": "Tien-Min Liao",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "high-contrast display serif",
+    "classification_notes": "Pronounced thick-thin contrast and diagonal stress place Eliptico in the high-contrast serif category, built for display rather than text.",
+    "weights": [
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Eliptico"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "display",
+      "editorial",
+      "headlines",
+      "expressive"
+    ],
+    "summary": "A high-contrast display serif with diagonal stress and oval counters, built for headlines rather than text.",
+    "description": "Eliptico integrates angled, oval-shaped counters into letters like B, D, G, P and R, giving a playful repeating pattern across a typeface otherwise built on sharp cuts and dramatic contrast. Three weights, Bold to Black, run with italics, for six styles. It's aimed squarely at editorial headlines, branding and large-scale display type rather than body copy.",
+    "foundry_blurb": "Typeji describe Eliptico as a contemporary high-contrast serif with diagonal stress and angled oval counters, blending calligraphic energy with modern geometry for a refined, expressive tone."
+  },
+  {
+    "name": "Waverse",
+    "foundry": "Typeji",
+    "url": "https://typeji.com/fonts/waverse",
+    "designer": "Tien-Min Liao",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "reverse-contrast display sans",
+    "classification_notes": "Reverse-contrast structure, thick stems against fine curves, places Waverse outside standard sans-serif convention, in its own reverse-contrast display subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Waverse"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "reverse-contrast",
+      "display",
+      "branding",
+      "playful",
+      "variable"
+    ],
+    "summary": "A reverse-contrast display sans with a rounded, wave-like rhythm and two named italics, Breezy and Windy.",
+    "description": "Waverse inverts the usual thick-thin logic of reverse-contrast type, using filled-in a and e shapes and cut-off g and s to keep an airy, open feel rather than the cramped look common to the genre. It ships as Regular plus two italic angles, Breezy and Windy, alongside a variable font that lets the slant move between them. Built for branding at large and medium sizes rather than running text.",
+    "foundry_blurb": "Typeji describe Waverse as inspired by ocean waves and currents, its rounded corners and subtle slant giving a gentle wavy rhythm, with two italics, Breezy and Windy, reflecting different wind strengths."
+  },
+  {
+    "name": "Paragraf",
+    "foundry": "Typeji",
+    "url": "https://typeji.com/fonts/paragraf",
+    "designer": "Tien-Min Liao",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "geometric editorial serif",
+    "classification_notes": "Serif construction rendered through rectangular, geometric detailing places Paragraf as a geometric serif suited to editorial text.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Paragraf"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "geometric",
+      "text",
+      "narrow"
+    ],
+    "summary": "A narrow, high-waisted serif built for editorial text, its details rendered in crisp rectangles and parallelograms rather than traditional curves.",
+    "description": "Paragraf pairs a tall x-height and slightly narrow proportions with a geometric approach to serif details: rectangular terminals, parallelogram tails and 90-degree bracketed serifs throughout. Seven weights from Thin to Heavy run with italics, for 14 styles. The combination reads as rational and precise rather than warm, suited to editorial text that wants clarity over ornament.",
+    "foundry_blurb": "Typeji describe Paragraf as a serif with slightly narrow proportions and a high-waisted structure, its clean straight lines and sharp geometric cuts giving a clear, rational personality suited to editorial use."
+  },
+  {
+    "name": "Path Grotesk",
+    "foundry": "Typeji",
+    "url": "https://typeji.com/fonts/path-grotesk",
+    "designer": "Tien-Min Liao",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "condensed handwritten grotesque",
+    "classification_notes": "Narrow, condensed proportions with handwritten stroke cues place Path Grotesk in the condensed grotesque subcategory.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Path Grotesk"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "grotesque",
+      "handwritten",
+      "warm",
+      "branding"
+    ],
+    "summary": "A condensed grotesque with handwritten cues from a flat marker pen, built to stay warm in space-conscious layouts.",
+    "description": "Path Grotesk takes the natural motion of a flat marker as its starting point, with softly connected strokes and terminals angled in the direction of each stroke, softening the rigidity of narrow grotesques without losing legibility. It ships as a single weight with an italic. The design earned an Honorable Mention at the Morisawa Type Design Competition.",
+    "foundry_blurb": "Typeji describe Path Grotesk as a warm, condensed sans-serif incorporating casual, handwritten cues within a clean, controlled structure, its marker-inspired strokes bringing personality to space-conscious layouts."
+  },
+  {
+    "name": "Essent",
+    "foundry": "Typeji",
+    "url": "https://typeji.com/fonts/essent",
+    "designer": "Tien-Min Liao",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Neutral, low-contrast construction with softened stroke ends places Essent in the neo-grotesque subcategory, built for text rather than display.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Essent"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "text",
+      "editorial",
+      "neutral",
+      "variable"
+    ],
+    "summary": "A neo-grotesque built as Typeji's own system typeface, tuned for running text rather than display.",
+    "description": "Essent started life as Typeji's internal system typeface, under the working name Typeji Neue, before growing into a full eight-weight retail family with italics and a variable font. Its stroke-end cuts follow the direction of each stroke, softening a neo-grotesque's usual neutrality without losing it. Built for text, editorial layouts and everyday documents rather than headlines.",
+    "foundry_blurb": "Typeji describe Essent as a neo-grotesque sans serif bringing a subtle human touch and quiet warmth to the clarity and neutrality of the genre, designed for running text and everyday typography."
+  },
+  {
+    "name": "Stranger",
+    "foundry": "Typeji",
+    "url": "https://typeji.com/fonts/stranger",
+    "designer": "Tien-Min Liao",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "ultra-black display",
+    "classification_notes": "Extremely heavy weight with contrasting fine inner lines places Stranger in the ultra-black display subcategory, built for wordmarks rather than text.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Stranger"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "ultra-black",
+      "display",
+      "wordmark",
+      "playful",
+      "variable"
+    ],
+    "summary": "An ultra-black display face with a dense, chunky presence and a friendly rounded undercurrent.",
+    "description": "Stranger pairs heavy outer strokes with finer inner lines for texture, its rounded dots and counters, loosely inspired by Gill Kayo, softening what would otherwise be a blunt, solid weight. It comes in one weight with an italic, plus a variable font moving between them. Originally sketched in 2017, it was redrawn and expanded for release, and is also the typeface behind Typeji's own logo.",
+    "foundry_blurb": "Typeji describe Stranger as an ultra-black display presence that feels both dense and playful, its heavy outer strokes and finer inner lines giving it weight without making it feel blunt."
+  }
+]

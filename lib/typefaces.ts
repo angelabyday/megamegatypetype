@@ -453,6 +453,68 @@ import yasireknc from "@/data/typefaces-yasireknc.json";
 import yentyJapCo from "@/data/typefaces-yenty-jap-co.json";
 
 import { FOUNDRIES, getFoundryByName, type FoundryInfo } from "./foundry-map";
+import lt29 from "@/data/typefaces-29lt.json";
+import a from "@/data/typefaces-a.json";
+import aeiouTools from "@/data/typefaces-aeiou-tools.json";
+import alexandreCrequer from "@/data/typefaces-alexandre-crequer.json";
+import atelierReneKnip from "@/data/typefaces-atelier-rene-knip.json";
+import atypical from "@/data/typefaces-atypical.json";
+import authentic from "@/data/typefaces-authentic.json";
+import bbBureau from "@/data/typefaces-bb-bureau.json";
+import blancoLetters from "@/data/typefaces-blanco-letters.json";
+import blastFoundry from "@/data/typefaces-blast-foundry.json";
+import calameBureau from "@/data/typefaces-calame-bureau.json";
+import calderon from "@/data/typefaces-calderon.json";
+import claudeType from "@/data/typefaces-claude-type.json";
+import ditoTypo from "@/data/typefaces-dito-typo.json";
+import domicileFoundry from "@/data/typefaces-domicile-foundry.json";
+import elenaSchneider from "@/data/typefaces-elena-schneider.json";
+import erkinKaramemet from "@/data/typefaces-erkin-karamemet.json";
+import famiraFonts from "@/data/typefaces-famira-fonts.json";
+import ferCozzi from "@/data/typefaces-fer-cozzi.json";
+import flaviaZimbardi from "@/data/typefaces-flavia-zimbardi.json";
+import formulaType from "@/data/typefaces-formula-type.json";
+import freightCollection from "@/data/typefaces-freight-collection.json";
+import halTypefaces from "@/data/typefaces-hal-typefaces.json";
+import houseIndustries from "@/data/typefaces-house-industries.json";
+import inhouseType from "@/data/typefaces-inhouse-type.json";
+import karstenLucke from "@/data/typefaces-karsten-lucke.json";
+import kioskFonts from "@/data/typefaces-kiosk-fonts.json";
+import kirjatehnika from "@/data/typefaces-kirjatehnika.json";
+import kontour from "@/data/typefaces-kontour.json";
+import lazydogsTypefoundry from "@/data/typefaces-lazydogs-typefoundry.json";
+import lostTypeCoOp from "@/data/typefaces-lost-type-co-op.json";
+import lucasfonts from "@/data/typefaces-lucasfonts.json";
+import markSimonson from "@/data/typefaces-mark-simonson.json";
+import moretype from "@/data/typefaces-moretype.json";
+import netvarecType from "@/data/typefaces-netvarec-type.json";
+import neubau from "@/data/typefaces-neubau.json";
+import nguyenGobber from "@/data/typefaces-nguyen-gobber.json";
+import nodoTypeFoundry from "@/data/typefaces-nodo-type-foundry.json";
+import nonFoundry from "@/data/typefaces-non-foundry.json";
+import obrysy from "@/data/typefaces-obrysy.json";
+import opsType from "@/data/typefaces-ops-type.json";
+import paratype from "@/data/typefaces-paratype.json";
+import peregrinStudio from "@/data/typefaces-peregrin-studio.json";
+import philatype from "@/data/typefaces-philatype.json";
+import razziaType from "@/data/typefaces-razzia-type.json";
+import regularLinesTypeFoundry from "@/data/typefaces-regular-lines-type-foundry.json";
+import renegadefonts from "@/data/typefaces-renegadefonts.json";
+import slantedHall from "@/data/typefaces-slanted-hall.json";
+import stormType from "@/data/typefaces-storm-type.json";
+import studioSaschaBente from "@/data/typefaces-studio-sascha-bente.json";
+import sudtipos from "@/data/typefaces-sudtipos.json";
+import synthview from "@/data/typefaces-synthview.json";
+import terminalDesign from "@/data/typefaces-terminal-design.json";
+import theLeagueOfMoveableType from "@/data/typefaces-the-league-of-moveable-type.json";
+import typeji from "@/data/typefaces-typeji.json";
+import typethisStudio from "@/data/typefaces-typethis-studio.json";
+import typeverything from "@/data/typefaces-typeverything.json";
+import typofonderie from "@/data/typefaces-typofonderie.json";
+import usGraphicsCompany from "@/data/typefaces-u-s-graphics-company.json";
+import undercase from "@/data/typefaces-undercase.json";
+import ursaMinor from "@/data/typefaces-ursa-minor.json";
+import velvetyne from "@/data/typefaces-velvetyne.json";
 import foundryResellers from "@/data/foundry-resellers.json";
 
 export const CATEGORIES = [
@@ -996,6 +1058,68 @@ export function getAllTypefaces(): Typeface[] {
         unioDesigns,
         yasireknc,
         yentyJapCo,
+        lt29,
+        a,
+        aeiouTools,
+        alexandreCrequer,
+        atelierReneKnip,
+        atypical,
+        authentic,
+        bbBureau,
+        blancoLetters,
+        blastFoundry,
+        calameBureau,
+        calderon,
+        claudeType,
+        ditoTypo,
+        domicileFoundry,
+        elenaSchneider,
+        erkinKaramemet,
+        famiraFonts,
+        ferCozzi,
+        flaviaZimbardi,
+        formulaType,
+        freightCollection,
+        halTypefaces,
+        houseIndustries,
+        inhouseType,
+        karstenLucke,
+        kioskFonts,
+        kirjatehnika,
+        kontour,
+        lazydogsTypefoundry,
+        lostTypeCoOp,
+        lucasfonts,
+        markSimonson,
+        moretype,
+        netvarecType,
+        neubau,
+        nguyenGobber,
+        nodoTypeFoundry,
+        nonFoundry,
+        obrysy,
+        opsType,
+        paratype,
+        peregrinStudio,
+        philatype,
+        razziaType,
+        regularLinesTypeFoundry,
+        renegadefonts,
+        slantedHall,
+        stormType,
+        studioSaschaBente,
+        sudtipos,
+        synthview,
+        terminalDesign,
+        theLeagueOfMoveableType,
+        typeji,
+        typethisStudio,
+        typeverything,
+        typofonderie,
+        usGraphicsCompany,
+        undercase,
+        ursaMinor,
+        velvetyne,
       ] as RawTypeface[][]
     )
       .flat()

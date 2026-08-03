@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Shinka",
+    "foundry": "Aeiou Tools",
+    "url": "https://aeiou.tools/typeface/shinka",
+    "designer": "César Bourgeois & Caterina Santullo",
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "monospaced serif",
+    "classification_notes": "A monospaced serif with unicase-influenced Latin proportions matched to Japanese ideogram widths, placing it in the serif category despite its technical, display-derived brief.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Shinka"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospaced",
+      "serif",
+      "transport",
+      "unicase",
+      "editorial",
+      "technical"
+    ],
+    "summary": "A monospaced serif built from Japanese bullet-train information screens, with a true italic that bends hard to suggest speed.",
+    "description": "Shinka takes its structure from the display typeface used on Japanese bullet-train information screens, forcing Latin letters into unicase proportions to match Japanese ideograms. The result is a monospaced serif with exaggerated ink traps and a sharply slanted italic. Six weights run from Thin to Black, each with a matching italic.",
+    "foundry_blurb": "Aeiou Tools trace Shinka to a 2019 trip to Japan, where bullet-train information screens established the core of the typeface as a monospaced serif with unicase Latin letters, later taking liberties like exaggerated ink drops and a fast-leaning true italic."
+  },
+  {
+    "name": "Zetal",
+    "foundry": "Aeiou Tools",
+    "url": "https://aeiou.tools/typeface/zetal",
+    "designer": "Andrea Biggio",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "A grid-built geometric grotesque with expanded horizontal proportions and consistent vertical-to-horizontal metrics, sitting between European geometric precision and mid-century American industrial signage.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Zetal"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "grotesque",
+      "industrial",
+      "signage",
+      "branding",
+      "variable-width"
+    ],
+    "summary": "A geometric grotesque built on a rigid grid, taking its solidity from mid-century American water-tank and cargo-container signage.",
+    "description": "Zetal merges the typographic heritage of the Enschede foundry with mid-20th-century American industrial signage, run through a strict geometric grid. Expanded horizontal proportions and consistent metrics give it a mechanical, technical presence. It ships in eight weights across three widths, plus a variable font.",
+    "foundry_blurb": "Aeiou Tools call Zetal a geometric grotesk inspired by the industrial modernism of signage on water tanks and cargo containers, built on a rigorous grid that prioritises geometric clarity and a solid, mechanical presence."
+  },
+  {
+    "name": "Andret",
+    "foundry": "Aeiou Tools",
+    "url": "https://aeiou.tools/typeface/andret",
+    "designer": "César Bourgeois",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "humanist grotesque",
+    "classification_notes": "A workhorse grotesque with humanist detailing and low contrast, built for small-size legibility rather than display impact.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Andret"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "humanist",
+      "workhorse",
+      "text",
+      "editorial",
+      "branding"
+    ],
+    "summary": "A low-contrast workhorse grotesque with humanist detailing, built to hold up at small sizes.",
+    "description": "Andret is a general-purpose grotesque merging humanist detailing with a low-contrast, rigid structure. Six weights from Thin to Black come with matching italics. First sketched in 2018 and refined over several years, it reads as a considered rather than a quick release.",
+    "foundry_blurb": "Aeiou Tools describe Andret as a workhorse grotesque merging humanist details with a low-contrast appearance that works well at small sizes, developed over several years from first sketches in autumn 2018."
+  }
+]

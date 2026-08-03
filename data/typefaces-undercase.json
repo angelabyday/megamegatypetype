@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Mausoleum",
+    "foundry": "Undercase",
+    "url": "https://undercase.xyz/fonts/mausoleum",
+    "designer": "Phaedra Charles",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "flared serif / art deco display",
+    "classification_notes": "Flared serif terminals combined with uncial-influenced capitals and art deco proportions place Mausoleum in the display category rather than as a text serif.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mausoleum"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "flared-serif",
+      "art-deco",
+      "display",
+      "uncial",
+      "headlines"
+    ],
+    "summary": "A flared, art deco-inflected display serif in nine weights, its capitals rooted in a 1913 library plaque.",
+    "description": "Mausoleum grew out of an earlier typeface, Whittington, itself sparked by letter shapes spotted on a library plaque with Art Deco and Serif Gothic overtones. Revisited years later, it gained a considered lowercase and a full weight range from Thin to Black. Best suited to headlines and display work that wants an ornamental, period edge.",
+    "foundry_blurb": "Undercase describe Mausoleum as a flared serif with geometric proportions, its capitals drawing on Art Deco sensibilities and the influence of Herb Lubalin and Tony DeSpigna's Serif Gothic."
+  },
+  {
+    "name": "Regina Black",
+    "foundry": "Undercase",
+    "url": "https://undercase.xyz/fonts/regina-black",
+    "designer": "Phaedra Charles, Flavia Zimbardi, Kelly Thorn",
+    "year": 2016,
+    "category": "display",
+    "subcategory": "heavy display / hilite variable",
+    "classification_notes": "A single heavy display weight with an optional inline Hilite layer places Regina Black in the display category rather than as a text family.",
+    "weights": [
+      "Solid",
+      "Hilite"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Regina Black"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "art-nouveau",
+      "heavy",
+      "hilite",
+      "variable"
+    ],
+    "summary": "A heavy, Art Nouveau-influenced display face with a variable Hilite axis running from thin inline to fully solid.",
+    "description": "Regina Black combines early-1900s Art Nouveau motifs with the chunky, friendly display faces of the 1970s. Version 2.0 added small caps, stylistic alternates and broader language support, alongside a variable font that controls the weight of its Hilite inline. It ships as Solid and Hilite styles plus the variable version.",
+    "foundry_blurb": "Undercase describe Regina Black as a heavy typeface influenced in equal parts by Art Nouveau motifs from the early 1900s and the chunky, friendly typefaces popularised in the 1970s."
+  },
+  {
+    "name": "Fraunces",
+    "foundry": "Undercase",
+    "url": "https://undercase.xyz/fonts/fraunces",
+    "designer": "Phaedra Charles, Flavia Zimbardi",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "soft-serif display, wonky/variable",
+    "classification_notes": "Rounded, soft serif terminals with a dedicated Wonk axis place Fraunces in the display serif category despite its variable text-size range.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text (9pt)",
+      "Display (144pt)"
+    ],
+    "subfamilies": [
+      "Fraunces"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "soft-serif",
+      "display",
+      "variable",
+      "open-source",
+      "editorial"
+    ],
+    "summary": "An open-source variable soft-serif inspired by early-20th-century display faces, with weight, softness, wonk and optical-size axes.",
+    "description": "Fraunces takes its mannerisms from Windsor, Souvenir and the Cooper series, then rebuilds them as a four-axis variable font covering weight, softness, optical size and a dedicated wonk axis for its more eccentric, hand-inflected details. Commissioned by Google Fonts and released as fully open source, it comes with matching italics. Suited to both display headlines and, at its more restrained axis settings, running text.",
+    "foundry_blurb": "Undercase describe Fraunces as a display soft-serif typeface inspired by the mannerisms of early 20th century typefaces such as Windsor, Souvenir and the Cooper series, released as an open source variable font."
+  },
+  {
+    "name": "Mollydooker",
+    "foundry": "Undercase",
+    "url": "https://undercase.xyz/fonts/mollydooker",
+    "designer": "Phaedra Charles",
+    "year": null,
+    "category": "script",
+    "subcategory": "left-handed brush script, variable",
+    "classification_notes": "A pointed, back-slanting brush script places Mollydooker in the script category, distinguished by its deliberately left-handed construction.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mollydooker"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "brush",
+      "variable",
+      "left-handed",
+      "expressive"
+    ],
+    "summary": "A left-handed, back-slanting brush script with a quicker, less formal energy than a standard calligraphic hand.",
+    "description": "Mollydooker is built on the mechanics of left-handed lettering rather than the right-handed brush script convention, giving its strokes an unusual slant and rhythm. It ships as a variable font with slant and weight axes. Still in progress at v0.3 and licensed exclusively through Future Fonts, it's a working release rather than a finished retail product.",
+    "foundry_blurb": "Undercase describe Mollydooker as a left-handed, back-slanting, pointed brush script with a quicker energy than a formal calligraphic hand, based on principles from A Guide to Sinistral Hand."
+  },
+  {
+    "name": "Ritme",
+    "foundry": "Undercase",
+    "url": "https://undercase.xyz/fonts/ritme",
+    "designer": "Phaedra Charles",
+    "year": null,
+    "category": "display",
+    "subcategory": "connecting heavy display",
+    "classification_notes": "Angular, connecting strokes at a single heavy weight place Ritme in the display category rather than the blackletter or script traditions it loosely nods to.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ritme"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "connecting",
+      "bold",
+      "expressive",
+      "in-progress"
+    ],
+    "summary": "An angular, connecting display face at a single heavy weight, its wobble deliberate rather than accidental.",
+    "description": "Ritme, Dutch for rhythm, links its angular letterforms into a smashy, connecting structure lightly inspired by Lucian Bernhard's poster lettering. It's currently one Black weight, still listed as in progress, and licensed exclusively through Future Fonts. Built for display work that wants a chunky, hand-inflected wobble rather than mechanical precision.",
+    "foundry_blurb": "Undercase describe Ritme as an angular, connecting, smashy black letter with deliberately wobbly letterforms, lightly inspired by the work of Lucian Bernhard."
+  }
+]

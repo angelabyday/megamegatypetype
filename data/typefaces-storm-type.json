@@ -1,0 +1,5446 @@
+[
+  {
+    "name": "Academica",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/academica",
+    "designer": "Josef Týfa",
+    "year": 2004,
+    "category": "serif",
+    "subcategory": "scientific text serif",
+    "classification_notes": "An oldstyle-leaning text serif originally drawn by Josef Týfa in 1967-68 for scientific typesetting, refined by Storm in 2004, sitting firmly in classic book-serif territory.",
+    "weights": [
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Academica"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "scientific",
+      "academic",
+      "text serif",
+      "workhorse",
+      "czech revival"
+    ],
+    "summary": "A dependable text serif built for dense scientific and academic typesetting.",
+    "description": "Academica began as Josef Týfa's 1967 design for scholarly texts, and Storm refined it in 2004 without losing its quiet, working character. Five weights and matching italics cover everything from footnotes to full monographs. It reads the way a lab report should: clearly, and without fuss.",
+    "foundry_blurb": "Storm calls Academica a reliable workhorse for scientific text, built to survive equations, footnotes and long runs of dense type without complaint."
+  },
+  {
+    "name": "Amor Serif",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/amor-serif",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "old-style serif with sans companion",
+    "classification_notes": "A warm old-style book serif descended from the Mramor letterforms, paired with a matching sans-serif companion called Amor Sans.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Pro",
+      "Text Pro"
+    ],
+    "subfamilies": [
+      "Amor Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "old-style",
+      "book serif",
+      "editorial",
+      "warm",
+      "system"
+    ],
+    "summary": "A warm old-style serif built as one half of a matched serif-and-sans system.",
+    "description": "Amor Serif grew out of the Mramor letterforms and shares its character layout and OpenType set with its sibling, Amor Sans. Two optical sizes, Pro and Text Pro, keep it working from headline to footnote. It suits editorial work that wants warmth without sacrificing structure.",
+    "foundry_blurb": "Storm pitches Amor Serif as a typeface system built alongside Amor Sans, sharing layout and OpenType functions so both can be mixed freely."
+  },
+  {
+    "name": "Andulka",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/andulka-serif",
+    "designer": "František Štorm",
+    "year": 2004,
+    "category": "serif",
+    "subcategory": "condensed text serif",
+    "classification_notes": "A text serif with proportions quietly narrowed for economy, drawn for continuous reading in magazines and scientific volumes.",
+    "weights": [
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Andulka"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "economical",
+      "narrow",
+      "magazine",
+      "editorial",
+      "cyrillic"
+    ],
+    "summary": "A quietly narrowed text serif designed to read smoothly at length without looking condensed.",
+    "description": "Andulka was drawn in 2004 for publications and visual identity work, and its narrowed width is disguised by how smoothly it reads. It has a sans companion, Andulka Sans, so a whole publishing house can be typeset from one system. Cyrillic support widens its reach across Central and Eastern Europe.",
+    "foundry_blurb": "Storm built Andulka to read so smoothly you would not guess it is narrowed, calling it suitable for magazines, newspapers and the thickest scientific volumes."
+  },
+  {
+    "name": "Anselm Serif",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/anselm-serif",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "synthesis old-style serif",
+    "classification_notes": "A book serif that consciously draws on several earlier Storm designs, including Jannon and Serapion, unified into one contemporary family.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Ten"
+    ],
+    "subfamilies": [
+      "Anselm Serif",
+      "Anselm Ten",
+      "Anselm Serif Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "multilingual",
+      "greek",
+      "cyrillic",
+      "stencil",
+      "editorial"
+    ],
+    "summary": "A wide-ranging old-style serif that draws together several earlier Storm designs, with full Greek and Cyrillic support.",
+    "description": "Anselm Serif is Storm's synthesis of several older families, Jannon and Serapion among them, brought into one contemporary text face. It ships with a smaller Ten cut for footnotes and a stencil variant for display work. Greek and Cyrillic character sets make it genuinely pan-European.",
+    "foundry_blurb": "Storm describes Anselm Serif's reach in one line: Ukrainian, Greek, European diacritics, small caps and oldstyle figures, built to cover almost any European typesetting job."
+  },
+  {
+    "name": "Antique",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/antique",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "baroque revival display serif",
+    "classification_notes": "A deliberately imperfect revival of mid-18th-century baroque Roman types, kept for display and occasional lettering rather than long text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Antique Ancienne",
+      "Antique Moderne",
+      "Antique Regent"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "baroque",
+      "revival",
+      "letterpress",
+      "display",
+      "catalogue"
+    ],
+    "summary": "A deliberately rough baroque revival built for catalogue covers and posters rather than body text.",
+    "description": "Antique revives serious mid-18th-century text types but keeps their letterpress-era imperfections on purpose. Storm's own note calls Moderne suited to big lettering and the other two cuts, Ancienne and the jagged Regent, better at text sizes. All three carry an unruly, hand-set charm that modern grids tend to iron out.",
+    "foundry_blurb": "Storm calls Antique the result of early research into baroque typography, its obvious imperfections a deliberate nod to the letterpress period before design was locked to a strict grid."
+  },
+  {
+    "name": "Areplos",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/areplos",
+    "designer": "Jan Solpera",
+    "year": null,
+    "category": "serif",
+    "subcategory": "serif without foot serifs",
+    "classification_notes": "A serif face by Jan Solpera distinguished by dropping the lower serifs from most letters, giving it an unusually light footing on the baseline.",
+    "weights": [
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Areplos"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "no lower serifs",
+      "distinctive",
+      "book serif",
+      "designer face"
+    ],
+    "summary": "A serif designed by Jan Solpera that drops its lower serifs for an unusually light, open footing.",
+    "description": "Areplos is Jan Solpera's design for Storm, built around a simple structural quirk: no serifs at the foot of the letters. Five weights with italics keep it flexible for text and headline use alike. The effect is a serif that reads as crisp and grounded without the visual weight of a full serif set.",
+    "foundry_blurb": "Storm sums up Areplos with its own tagline, describing letters that land without lower serifs, a quiet structural signature across the whole family."
+  },
+  {
+    "name": "Baskerville Neo",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/baskerville-neo",
+    "designer": "John Baskerville",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif revival, variable",
+    "classification_notes": "A digital revival of John Baskerville's 18th-century transitional serif, rebuilt as a four-tier optical system with a variable font.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Subhead",
+      "Text",
+      "Small"
+    ],
+    "subfamilies": [
+      "Baskerville Neo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "revival",
+      "variable font",
+      "editorial",
+      "classic"
+    ],
+    "summary": "A four-tier optical revival of John Baskerville's transitional serif, built with a variable font at its core.",
+    "description": "Baskerville Neo takes John Baskerville's 18th-century transitional serif and re-engineers it across four optical sizes, Display down to Small, plus a variable font for anything in between. Storm's own line for it: so gentle to striking, so antique to modern. It sits as comfortably in a novel as on a title page.",
+    "foundry_blurb": "Storm describes Baskerville Neo as running from gentle to striking, antique to modern, transitional to timeless, all in one expanded optical system."
+  },
+  {
+    "name": "Baskerville Original",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/baskerville-original",
+    "designer": "John Baskerville",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "transitional serif revival",
+    "classification_notes": "A faithful two-size revival of John Baskerville's 18th-century transitional serif, revised in 2025 with a touch of letterpress character retained.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "120 Pro",
+      "10 Pro"
+    ],
+    "subfamilies": [
+      "Baskerville Original"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "transitional",
+      "revival",
+      "classic",
+      "letterpress",
+      "historical"
+    ],
+    "summary": "A faithful revival of Baskerville's transitional serif, cut for both display and text sizes.",
+    "description": "Baskerville Original stays close to the historical model, printed by Johannes Baskerville in Birmingham, keeping a touch of letterpress bite in its curves. The 120 Pro size handles headlines while 10 Pro is built for continuous text. It was revised in the summer of 2025 without losing that historical texture.",
+    "foundry_blurb": "Storm calls this cut a faithful revival with a touch of letterpress, revised in summer 2025 to keep it current without smoothing away its character."
+  },
+  {
+    "name": "Beletria",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/beletria",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "book serif, variable, three optical sizes",
+    "classification_notes": "A modern book serif built for fast reading, with three optical sizes and seven weights plus a variable font.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Subhead",
+      "Large"
+    ],
+    "subfamilies": [
+      "Beletria"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "book serif",
+      "variable font",
+      "fast reading",
+      "editorial",
+      "optical sizes"
+    ],
+    "summary": "A modern book serif built for fast, comfortable reading, with three optical sizes and a full variable font.",
+    "description": "Storm built Beletria, in his own words, as a typeface for his own book edits and for texts by friends and colleagues, tired of leaning on classic faces from the past. Three optical sizes, Text, Subhead and Large, and seven weights give it real range. It is built for speed of reading rather than decoration.",
+    "foundry_blurb": "Storm describes Beletria as a modern book typeface for fast reading, born from a need for a typeface fit for its own book editing and design work."
+  },
+  {
+    "name": "Biblon Neo",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/biblon",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "award-winning book serif",
+    "classification_notes": "A book serif that won a TDC Award for Excellence in Typography in 2000, rebuilt as Biblon Neo for its 25th anniversary.",
+    "weights": [
+      "Eco",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Biblon Neo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "award-winning",
+      "book serif",
+      "tdc award",
+      "text serif"
+    ],
+    "summary": "An award-winning book serif, rebuilt as Biblon Neo to mark 25 years since its original release.",
+    "description": "Biblon won a Type Directors Club Award for Excellence in Typography in 2000, and Biblon Neo is Storm's thorough technical and aesthetic overhaul of that original design. Five weights with italics keep it working across long-form text. It carries the quiet authority of a proven, decades-tested book face.",
+    "foundry_blurb": "Storm marks Biblon's twenty-fifth anniversary with Biblon Neo, calling the milestone reason enough for a thorough technical and aesthetic rebuild."
+  },
+  {
+    "name": "Bohemica Sans & Serif",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/bohemica",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "serif superfamily with sans companion",
+    "classification_notes": "A serif and sans superfamily sharing one structure, named for Bohemia and built with no stylistic boundary between its two halves.",
+    "weights": [
+      "Light",
+      "Eco",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bohemica",
+      "Bohemica Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "superfamily",
+      "sans and serif",
+      "bohemian",
+      "versatile",
+      "system"
+    ],
+    "summary": "A serif and sans superfamily built as one system, named for Bohemia and versatile enough for identity or text work.",
+    "description": "Bohemica pairs a serif and a sans cut under one name, sharing weights and character so the two sit together without clashing. Storm's own line for it: nature knows no boundaries. It runs happily across headlines, running text and multilingual settings alike.",
+    "foundry_blurb": "Storm describes Bohemica as a typeface inspired by bohemian culture, versatile enough to cross between its serif and sans halves without friction."
+  },
+  {
+    "name": "Carot Display",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/carot-display",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "display-size serif, Carot superfamily",
+    "classification_notes": "The large-size serif cut of the Carot superfamily, sharing letterforms with Carot Text and Carot Slab but scaled for headlines.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Carot Display"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display serif",
+      "superfamily",
+      "headline",
+      "wayfinding",
+      "carot"
+    ],
+    "summary": "The headline-scale serif cut of the Carot superfamily, built across eight weights.",
+    "description": "Carot Display is the large-size half of the Carot superfamily, sharing its structure with Carot Text and Carot Slab. Storm built the family around a simple problem: ageing eyes and the challenge of making reading easier. Eight weights with italics give it a long reach from a delicate Thin to a dense Black.",
+    "foundry_blurb": "Storm frames the whole Carot family around the moment everyone starts wearing glasses, and the challenge of building a typeface that makes reading genuinely easier."
+  },
+  {
+    "name": "Carot Slab",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/carot-slab",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "slab",
+    "subcategory": "classical Egyptienne slab serif",
+    "classification_notes": "A classical Egyptienne slab serif, the third cut of the Carot superfamily alongside Carot Display and Carot Text.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Carot Slab"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab serif",
+      "egyptienne",
+      "superfamily",
+      "wayfinding",
+      "versatile"
+    ],
+    "summary": "A classical Egyptienne slab serif and full member of the Carot superfamily.",
+    "description": "Carot Slab takes the Carot superfamily's structure and gives it proper slab feet, described by Storm as a classical Egyptienne. Arched details on the serifs keep it from feeling mechanical. Eight weights, small caps, multiple figure styles and a set of wayfinding symbols make it fit for signage as well as print.",
+    "foundry_blurb": "Storm calls Carot Slab a classical Egyptienne with eight weights and italics, built with small caps, oldstyle figures, swashes and wayfinding symbols as standard."
+  },
+  {
+    "name": "Carot Text",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/carot-text",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "text-size serif, Carot superfamily",
+    "classification_notes": "The text-optimised serif cut of the Carot superfamily, built for body copy alongside the larger Carot Display.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Carot Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "text serif",
+      "superfamily",
+      "readability",
+      "body copy",
+      "carot"
+    ],
+    "summary": "The body-text cut of the Carot superfamily, tuned for comfortable reading at small sizes.",
+    "description": "Carot Text carries the same eight-weight range as its Carot siblings but is drawn for continuous reading rather than headlines. Storm built the whole family around the challenge of keeping type legible as eyesight fades. It pairs naturally with Carot Display for headline work and Carot Slab for a heavier register.",
+    "foundry_blurb": "Storm frames Carot Text as part of a family built to make reading easier, a direct response to the moment everyone eventually reaches for glasses."
+  },
+  {
+    "name": "Clara Serif",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/clara-serif",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "book serif with sans companion",
+    "classification_notes": "A book serif built as one half of the Clara Sans & Serif system, spanning seven weights from Thin to Black.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Clara Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "book serif",
+      "system",
+      "wide weight range",
+      "editorial"
+    ],
+    "summary": "A wide-ranging book serif built as one half of the Clara Sans & Serif system.",
+    "description": "Clara Serif spans seven weights from a fine Thin to a dense Black, all with matching italics. It is designed to sit alongside Clara Sans as one coherent system, useful when a project needs both registers from a single family. The range makes it equally at home in body text or a bold headline.",
+    "foundry_blurb": "Storm positions Clara Serif as one half of the Clara Sans & Serif system, built to move between serif and sans without breaking a project's voice."
+  },
+  {
+    "name": "Comenia Serif Pro",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/comenia-serif-pro",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "legible text serif, alternative to Times",
+    "classification_notes": "A text serif explicitly designed as a more open, less tiring alternative to Times, with extra air between letters.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Comenia Serif Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "legibility",
+      "times alternative",
+      "text serif",
+      "open spacing"
+    ],
+    "summary": "A text serif built as an open, easier-reading alternative to the overused Times.",
+    "description": "Storm's own case for Comenia Serif Pro is direct: compared to the overused Times, it gives pages a healthy amount of air between letters so they can breathe. Its optical size sits deliberately larger than Times at the same point size, cutting eye strain over long reading sessions. A compact two-weight family keeps it simple to specify.",
+    "foundry_blurb": "Storm built Comenia Serif Pro against the overused Times, giving it more air between letters and smoother drawing to keep eyes comfortable over long reads."
+  },
+  {
+    "name": "Defender",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/defender",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "slab",
+    "subcategory": "geometric slab display, five widths",
+    "classification_notes": "A bold geometric slab display face across five widths from Condensed to Expanded, built for posters rather than text.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Narrow",
+      "Regular",
+      "Wide",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Defender"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab serif",
+      "poster",
+      "geometric",
+      "variable font",
+      "five widths"
+    ],
+    "summary": "A bold geometric slab built across five widths, from Condensed to Expanded, for poster and headline work.",
+    "description": "Defender is a chunky slab built for volume, five widths and five weights deep, with a variable font tying the whole grid together. Storm's own specimen puts it to work on offroad ads and vintage motoring posters. It has no italic; the whole design leans on width and weight instead.",
+    "foundry_blurb": "Storm shows Defender doing the job of loud, confident signage, built across a full grid of widths and weights for posters that need to shout."
+  },
+  {
+    "name": "Ermina",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/ermina",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "high-contrast decorative serif",
+    "classification_notes": "A high-contrast decorative serif with ornamental initials, built for exotic or fashion-adjacent display work rather than body text.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ermina"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "high contrast",
+      "decorative",
+      "display",
+      "ornamental",
+      "fashion"
+    ],
+    "summary": "A high-contrast decorative serif with ornamental capitals, built for fashion and exotic-themed display work.",
+    "description": "Ermina pairs sharp, high-contrast strokes with a set of decorative initials, styled by Storm as fonts for pictoresque exotic masquerade. Five weights with italics keep it flexible for editorial headlines and packaging. It is built to draw attention rather than disappear into a paragraph.",
+    "foundry_blurb": "Storm pitches Ermina as fonts for pictoresque exotic masquerade, its decorative initials built to add flourish to headline and identity work."
+  },
+  {
+    "name": "Etelka Slab",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/etelka-slab",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "slab",
+    "subcategory": "slab companion to Etelka Sans",
+    "classification_notes": "A slab-serif variation of Etelka Sans, with arched elements added to the serifs to sharpen its character.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Text",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Etelka Slab"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab serif",
+      "sharp",
+      "multilingual",
+      "system",
+      "versatile"
+    ],
+    "summary": "A slab-serif companion to Etelka Sans, sharpened with arched serif details for a louder voice.",
+    "description": "Etelka Slab takes the Etelka Sans structure and adds serifs with arched elements to emphasise its character. Storm positions it as a drop-in replacement for Etelka wherever a sharper, louder expression is needed. Seven weights and full multilingual support keep it flexible across long projects.",
+    "foundry_blurb": "Storm describes Etelka Slab as usable anywhere Etelka Sans would go, but with a sharper, louder expression thanks to its arched serif details."
+  },
+  {
+    "name": "Farao",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/farao",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "text serif with display companion",
+    "classification_notes": "A text serif with a separate Text optical size, built with a deep set of OpenType figure styles.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Text"
+    ],
+    "subfamilies": [
+      "Farao",
+      "Farao Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "text serif",
+      "opentype",
+      "figures",
+      "two optical sizes"
+    ],
+    "summary": "A compact text serif with a dedicated Text optical size and a deep OpenType figure set.",
+    "description": "Farao runs to just two weights but covers itself with detail: small caps, seven figure styles, superiors and inferiors, ligatures and arrows all built in. A separate Text cut adjusts the design for smaller reading sizes. It suits editorial work that leans on typographic detail rather than a wide weight range.",
+    "foundry_blurb": "Storm packs Farao with detail rather than width, offering seven figure styles and a full set of OpenType extras across just two weights."
+  },
+  {
+    "name": "Genre",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/genre",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "editorial news serif",
+    "classification_notes": "A text serif shown in newspaper-style layouts, suited to editorial and news typesetting.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Genre"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "editorial",
+      "news",
+      "text serif",
+      "journalism"
+    ],
+    "summary": "A no-nonsense text serif suited to news and editorial typesetting.",
+    "description": "Genre is a straightforward book serif, shown by Storm set into wire-service copy and broadsheet-style layouts. Three weights with italics cover headline, standfirst and body without complication. It is built to disappear into the page rather than draw attention to itself.",
+    "foundry_blurb": "Storm shows Genre doing the quiet work of a newsroom face, set into wire copy and headlines rather than decorative specimens."
+  },
+  {
+    "name": "Hercules",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/hercules",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "text serif with sans companion, five optical sizes",
+    "classification_notes": "A large text serif system spanning five optical sizes, sold with a matching sans companion as Hercules Sans & Serif.",
+    "weights": [
+      "Eco",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Subhead",
+      "Regular",
+      "Text",
+      "Small"
+    ],
+    "subfamilies": [
+      "Hercules"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif and sans system",
+      "optical sizes",
+      "variable font",
+      "versatile"
+    ],
+    "summary": "A five-tier text serif system built as the serif half of Hercules Sans & Serif.",
+    "description": "Hercules runs five optical sizes deep, from Display down to Small, each with five weights and italics, plus a variable font tying it together. Storm sells it alongside a matching sans cut as one combined system. Storm's own line for it: serif, sans in contrast and harmony.",
+    "foundry_blurb": "Storm calls the wider Hercules Neo ecosystem serif and sans in contrast and harmony, built as a matched pair across a full optical range."
+  },
+  {
+    "name": "Jannon Antiqua",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/jannon-antiqua",
+    "designer": "Jean Jannon",
+    "year": null,
+    "category": "serif",
+    "subcategory": "post-Garamond revival, two optical sizes",
+    "classification_notes": "A revival of Jean Jannon's 17th-century post-Garamond types, cut in two optical sizes with Greek and Cyrillic support.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Pro",
+      "10 Pro",
+      "Text"
+    ],
+    "subfamilies": [
+      "Jannon Antiqua",
+      "Jannon 10",
+      "Jannon Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "garamond revival",
+      "greek",
+      "cyrillic",
+      "historical",
+      "scholarly"
+    ],
+    "summary": "A scholarly revival of Jean Jannon's 17th-century types, built across two optical sizes with Greek and Cyrillic.",
+    "description": "Jannon Antiqua positions itself as an alternative to the many other post-Garamond revivals, suited to every genre of literature and able to make even the biggest novels digestible. Two optical sizes, thirteen cuts and over a thousand glyphs give it real depth, and it covers Greek and Cyrillic alongside Latin. It is built for long, demanding text rather than display.",
+    "foundry_blurb": "Storm pitches Jannon Antiqua as its alternative to the crowd of post-Garamond replicas, built to make even the longest novels digestible, with Greek and Cyrillic included."
+  },
+  {
+    "name": "Jannon Neo",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/jannon",
+    "designer": "Jean Jannon",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "post-Garamond revival, four optical sizes, variable",
+    "classification_notes": "A newer, optically-expanded take on Jean Jannon's 17th-century types, released in 2024 with a variable font across four sizes.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Subhead",
+      "Standard",
+      "Small"
+    ],
+    "subfamilies": [
+      "Jannon Neo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "garamond revival",
+      "variable font",
+      "optical sizes",
+      "historical"
+    ],
+    "summary": "A 2024 expansion of the Jannon revival into four optical sizes with a variable font.",
+    "description": "Jannon Neo released in May 2024, rebuilding the Jannon revival into a proper optical system running Display down to a dedicated readers'-comfort Small size. Storm sells it alongside a matching sans cut as Jannon Sans & Serif. It keeps the historical warmth of Jannon's originals while adding the range a modern brief needs.",
+    "foundry_blurb": "Storm launched Jannon Neo in May 2024, describing its range from readers' comfort in Small through type-gourmet Display Light to bold news headlines."
+  },
+  {
+    "name": "Juvenis",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/juvenis",
+    "designer": "Josef Týfa",
+    "year": 2002,
+    "category": "serif",
+    "subcategory": "children's-literature text serif",
+    "classification_notes": "A serif originally drawn by Josef Týfa for children's book typesetting, digitised and finished in 2002 with a more open lowercase.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Medium Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Text"
+    ],
+    "subfamilies": [
+      "Juvenis",
+      "Juvenis Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "children's literature",
+      "historical revival",
+      "open lowercase",
+      "text serif"
+    ],
+    "summary": "A serif for young readers, originally drawn by Josef Týfa and digitised by Storm in 2002.",
+    "description": "Juvenis started as Josef Týfa's original design for children's literature decades ago, revisited by Týfa in 1979 and finally digitised by Storm in 2002. The lowercase is more open and less complicated than the original, deliberately clearer for early readers. A separate Text cut adjusts it for smaller settings.",
+    "foundry_blurb": "Storm traces Juvenis back to Josef Týfa's original children's-book alphabet, kept practical across four decades and finished as a digital font in 2002."
+  },
+  {
+    "name": "Kingdom Come",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/kingdom",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "humanist blackletter, variable",
+    "classification_notes": "A blackletter revival built on a humanist skeleton rather than a strict Gothic one, with a variable font across weights and three optical sizes.",
+    "weights": [
+      "Thin",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Subhead",
+      "Standard"
+    ],
+    "subfamilies": [
+      "Kingdom Come"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "variable font",
+      "gothic revival",
+      "display"
+    ],
+    "summary": "A blackletter revival built on a humanist skeleton, described by Storm as typography for the battlefield.",
+    "description": "Kingdom Come wraps a humanist structure in broken, blackletter-style flesh, giving it more range than a strict Gothic revival. Storm's own line for it: humanist skeleton, mediaeval flesh, variable skin. Three optical sizes and a variable font make it usable well beyond ceremonial or heritage work.",
+    "foundry_blurb": "Storm calls Kingdom Come typography for the battlefield, built on a humanist skeleton dressed in mediaeval flesh across a full variable range."
+  },
+  {
+    "name": "Lexon",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/lexon",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "slab",
+    "subcategory": "fat-face slab inspired by woodcut printing",
+    "classification_notes": "A heavy fat-face slab styled after chiaroscuro woodcut printing, with a hatched Xylo variant echoing wood-block texture.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lexon",
+      "Lexon Headline",
+      "Lexon Xylo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "fat face",
+      "slab",
+      "woodcut",
+      "display",
+      "poster"
+    ],
+    "summary": "A heavy fat-face slab styled after chiaroscuro woodcut printing, with a hatched Xylo variant.",
+    "description": "Lexon takes its texture from old master woodcut prints, chiaroscuro blocks printed in layered colour, and turns that into a bold slab display face. The Xylo cut adds a hatched, wood-grain fill for extra texture. A Headline cut extends it to bigger display settings.",
+    "foundry_blurb": "Storm frames Lexon around chiaroscuro woodcuts, old master prints built from layered wood blocks, with its Xylo cut carrying that hatched texture into type."
+  },
+  {
+    "name": "Lido STF",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/lido-stf",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "economical newspaper serif, four widths",
+    "classification_notes": "An economical serif with serifs that face inward rather than outward, cut across four widths for space-saving newspaper and magazine work.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Narrow",
+      "Semi Condensed",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Lido STF"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "economical",
+      "newspaper",
+      "condensed",
+      "inward serifs"
+    ],
+    "summary": "An economical serif whose inward-facing serifs and four widths are built to save space in newspapers and magazines.",
+    "description": "Lido STF gets its economy from an unusual detail: the serifs face inward rather than outward, tightening the letters without shrinking the type. Four widths, from Regular down to Condensed, extend that space-saving further. It is built squarely for high-density news and directory typesetting.",
+    "foundry_blurb": "Storm explains Lido's economy through its inward-facing serifs, a small structural trick that lets the type run tighter without losing legibility."
+  },
+  {
+    "name": "Mediaeval",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/mediaeval",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "old-style serif for engraved signage",
+    "classification_notes": "An old-style Mediaeval-antiqua serif whose letterforms were adjusted with a regular inner radius to suit CNC milling for engraved plaques.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mediaeval"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "old-style",
+      "engraving",
+      "cnc milling",
+      "signage",
+      "historical"
+    ],
+    "summary": "An old-style serif whose letterforms were adjusted for CNC-milled engraving on memorial and signage plaques.",
+    "description": "Mediaeval takes its name from the old-style Antiqua tradition and was shaped with a practical constraint in mind: its letters carry a regular inner radius so they mill cleanly on CNC signage equipment. Storm shows it used on engraved plaques, including one marking Franz Kafka's birthplace in Prague. That physical discipline gives it a slightly firmer, more geometric edge than a typical old-style face.",
+    "foundry_blurb": "Storm designed Mediaeval's letters to respect CNC milling technology, giving them a regular inner radius so they carve cleanly into stone and metal signage."
+  },
+  {
+    "name": "Mramor",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/mramor-pro",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast luxury display serif",
+    "classification_notes": "A high-contrast transitional-style serif pitched at premium branding and luxury packaging, with Cyrillic support.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Medium Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mramor"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "luxury",
+      "high contrast",
+      "branding",
+      "packaging",
+      "cyrillic"
+    ],
+    "summary": "A high-contrast display serif built for premium branding and luxury packaging, with Cyrillic support.",
+    "description": "Mramor, Czech for marble, carries the polish its name suggests: high contrast strokes and elegant proportions suited to vintage-styled luxury branding. Storm's specimen sets it into wine labels and château names rather than running text. Cyrillic support extends its use into export and import branding across Central and Eastern Europe.",
+    "foundry_blurb": "Storm shows Mramor at work on vintage premium branding, from château labels to export packaging, letting its Cyrillic set carry the same polish further east."
+  },
+  {
+    "name": "Pentagraf",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/pentagraf",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "scholarly text serif",
+    "classification_notes": "A plain scholarly text serif, shown by Storm in use for academic and literary-studies publishing.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pentagraf"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "scholarly",
+      "academic",
+      "text serif",
+      "literary"
+    ],
+    "summary": "A plain, dependable text serif shown in use for academic and literary publishing.",
+    "description": "Pentagraf keeps its ambitions modest: two weights, matching italics, and a design built to disappear into long academic texts. Storm's own specimen shows it set for the Institute for Czech Literature. It is a sensible choice wherever the text needs to lead and the typeface needs to stay quiet.",
+    "foundry_blurb": "Storm shows Pentagraf at work for the Institute for Czech Literature, a plain scholarly serif built to carry long academic texts without getting in the way."
+  },
+  {
+    "name": "Pepone",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/pepone",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "retro bistro display serif with stencil variant",
+    "classification_notes": "A warm retro serif styled for cafe and delicatessen branding, with a full stencil variant across the same six weights.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pepone",
+      "Pepone Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "retro",
+      "bistro",
+      "stencil",
+      "branding",
+      "display"
+    ],
+    "summary": "A warm, retro-flavoured serif styled for cafe and delicatessen branding, with a matching stencil variant.",
+    "description": "Pepone leans into a vintage bistro mood, shown by Storm set as cafe signage and delicatessen packaging. Six weights with italics cover everything from a menu's fine print to its headline dish. A full stencil companion doubles the family for stamped or spray-painted looks.",
+    "foundry_blurb": "Storm sets Pepone into cafe and delicatessen branding, a warm retro serif that comes with a full stencil companion for a stamped, workshop feel."
+  },
+  {
+    "name": "Preissig Antikva",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/preissig-antikva",
+    "designer": "Vojtěch Preissig",
+    "year": null,
+    "category": "serif",
+    "subcategory": "Czech modernist revival",
+    "classification_notes": "A revival of painter and graphic artist Vojtěch Preissig's Antikva design, begun in 1912; the roman preserves his original drawings closely, while the italics are newly designed since none existed originally.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Text"
+    ],
+    "subfamilies": [
+      "Preissig Antikva",
+      "Preissig Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "czech modernist",
+      "revival",
+      "historical",
+      "text serif"
+    ],
+    "summary": "A revival of Vojtěch Preissig's 1912 Antikva, with newly designed italics that never existed in the original.",
+    "description": "Preissig Antikva preserves the shape nuances of Vojtěch Preissig's original drawings, a design he worked on from 1912 onward. Storm is upfront that the italics are an exception: since Preissig never drew any, these are entirely new. A separate Text cut adjusts the design for smaller reading sizes.",
+    "foundry_blurb": "Storm notes that Preissig devoted himself to this Antikva from 1912 onward, and that its shape nuances survive intact, except for the italics, which are completely new."
+  },
+  {
+    "name": "Preissig Poster",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/preissig-poster",
+    "designer": "Vojtěch Preissig",
+    "year": null,
+    "category": "display",
+    "subcategory": "propaganda-poster capitals revival",
+    "classification_notes": "An all-capitals revival of Vojtěch Preissig's poster lettering, built for the same bold, single-case display use as his original propaganda work.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Preissig Poster"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "propaganda poster",
+      "all caps",
+      "historical",
+      "display"
+    ],
+    "summary": "An all-capitals revival of Vojtěch Preissig's bold poster lettering.",
+    "description": "Preissig Poster is a single-weight, capitals-only face drawn from Vojtěch Preissig's poster and propaganda lettering. Storm's own note points out how contested Preissig's typefaces have often been, and how Czech typography's technical difficulties between the wars only sharpened his creative effort. It is built for headline force, not for setting a paragraph.",
+    "foundry_blurb": "Storm notes that many of Preissig's typefaces have been controversially received since their creation, a reminder of the ambition behind this bold poster revival."
+  },
+  {
+    "name": "Quercus Serif",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/quercus",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "wide-range book serif with Cyrillic",
+    "classification_notes": "A book serif with an unusually wide weight range from Hairline to Black, with full Cyrillic support and a deep OpenType feature set.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Quercus Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "wide weight range",
+      "cyrillic",
+      "opentype",
+      "book serif"
+    ],
+    "summary": "A book serif with eight weights from a fragile Hairline to a strong Black, and full Cyrillic support.",
+    "description": "Quercus Serif runs a genuinely wide range, Storm describing its weights as fragile, quiet and whispering at one end and strongest at the other. Small caps, seven figure styles, ligatures and Cyrillic are all built in. It suits projects that need one family to cover a full editorial hierarchy on its own.",
+    "foundry_blurb": "Storm walks Quercus Serif's weights from fragile Hairline through elegant Book to strongest Black, backed by Cyrillic and a full OpenType feature set."
+  },
+  {
+    "name": "Quercus Ten",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/quercus-10",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "text-size companion to Quercus Serif",
+    "classification_notes": "The small-size optical companion to Quercus Serif, with letterforms adjusted for clarity at text sizes.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Quercus Ten"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "text serif",
+      "optical companion",
+      "cyrillic",
+      "readability"
+    ],
+    "summary": "The small-size optical companion to Quercus Serif, tuned for clarity at text sizes.",
+    "description": "Quercus Ten adjusts the Quercus letterforms for reading at small sizes, sturdier and more open than the display-oriented Quercus Serif. Storm's own copy tracks the mood across weights, from a nearly monoline Thin through to a strong Black. It is the cut to reach for whenever Quercus needs to sit inside a paragraph rather than a headline.",
+    "foundry_blurb": "Storm positions Quercus Ten as the text-size half of the Quercus system, its letterforms opened up for the smaller sizes Quercus Serif was not built for."
+  },
+  {
+    "name": "Regent",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/regent",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "modernised rustic baroque revival",
+    "classification_notes": "A modernised, cooled-down paraphrase of an early 18th-century rustic baroque Roman face, built for demanding long-form text.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Regent"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "baroque revival",
+      "rustic",
+      "text serif",
+      "professional literature"
+    ],
+    "summary": "A modernised rustic baroque revival, cooled and cleaned up for demanding long-form text.",
+    "description": "Regent freely paraphrases a rustic baroque Roman face from the first half of the 18th century, clearing away unevenness while keeping its lively expression. Storm calls it deliberately cooler than a more reverent digital revival would be, adjusted for how contemporary readers actually see type. Small caps and aligning figures extend its use into professional, text-heavy publishing.",
+    "foundry_blurb": "Storm describes Regent as a modernised rustic baroque face, cleared of its original unevenness but kept deliberately cooler than a strict period revival."
+  },
+  {
+    "name": "Regula",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/regula",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "rustic old-face serif",
+    "classification_notes": "A rustic serif offered in two forms: a cleaner Regular cut and a rougher, jagged Old Face variant.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Regula",
+      "Regula Old Face"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "rustic",
+      "old face",
+      "text serif",
+      "distressed"
+    ],
+    "summary": "A rustic serif offered in a clean Regular cut and a rougher, jagged Old Face variant.",
+    "description": "Regula plays two versions of the same idea: a tidy Regular cut and an Old Face variant with a rustic, weathered edge. Three weights with italics keep both variants flexible for body text and headline use. It suits projects that want a period feel without committing to a full historical revival.",
+    "foundry_blurb": "Storm sets Regula's two faces side by side, rusty and rustic on one hand, clean Regular on the other, letting either carry the same OpenType feature set."
+  },
+  {
+    "name": "Serapion",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/serapion",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "old-style text serif",
+    "classification_notes": "A well-proportioned old-style to transitional text serif with a rich OpenType feature set.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Serapion"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "old-style",
+      "text serif",
+      "opentype",
+      "classic"
+    ],
+    "summary": "A well-proportioned old-style text serif with a deep OpenType feature set.",
+    "description": "Serapion keeps its ambitions classical: two weights, careful proportions, and a long list of OpenType extras including small caps, multiple figure sets and ligatures. It shares lineage with several other Storm text faces, including Anselm Serif. It is a solid choice for any long-form text project that wants quiet good manners.",
+    "foundry_blurb": "Storm gives Serapion a full OpenType kit, small caps, tabular and oldstyle figures, ligatures and alternates, on a calm, classical two-weight base."
+  },
+  {
+    "name": "Tenebra",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/tenebra",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "baroque inscriptional display capitals",
+    "classification_notes": "An all-capitals display face combining baroque inscriptional majuscule forms with calligraphic and alchemical decorative details.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tenebra",
+      "Tenebra Shaded",
+      "Tenebra Old Face"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display capitals",
+      "baroque",
+      "alchemical",
+      "decorative"
+    ],
+    "summary": "An all-capitals display face mixing baroque inscriptional letterforms with alchemical decorative detail.",
+    "description": "Tenebra combines a baroque inscriptional majuscule with calligraphic flourishes and alchemistic symbols, built as capitals only. Storm even folds the old German umlaut convention, a reduced e above the letter, into the design's decorative forms. Shaded and Old Face variants extend it for texture and a rougher historical mood.",
+    "foundry_blurb": "Storm describes Tenebra as a combination of baroque inscriptional capitals with calligraphic and alchemistic decoration, including an old-style German umlaut treatment."
+  },
+  {
+    "name": "Trivia Humanist",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/trivia-humanist",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans, companion to Trivia Serif",
+    "classification_notes": "The humanist sans-serif half of the Trivia superfamily, sharing character set and figure styles with Trivia Serif; despite the name, the letterforms are unbracketed sans, not serif.",
+    "weights": [
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trivia Humanist"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist sans",
+      "superfamily",
+      "cyrillic",
+      "greek",
+      "system"
+    ],
+    "summary": "A humanist sans-serif built as the companion to Trivia Serif, with full Greek and Cyrillic support.",
+    "description": "Trivia Humanist is the sans half of the Trivia superfamily, calm and even rather than geometric, built to sit comfortably next to Trivia Serif. Its italics keep a trace of Renaissance cancelleresca in their initial and terminal forms. Greek and Cyrillic figures round out a genuinely wide character set.",
+    "foundry_blurb": "Storm says Trivia Humanist stays away from any strong aesthetic statement, its italic forms confessing a debt to Renaissance cancelleresca handwriting."
+  },
+  {
+    "name": "Trivia Serif",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/trivia-serif",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast editorial serif with sans companion",
+    "classification_notes": "A high-contrast serif with ball terminals, the serif half of the Trivia superfamily, with full Greek and Cyrillic support.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trivia Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "high contrast",
+      "editorial",
+      "cyrillic",
+      "greek",
+      "superfamily"
+    ],
+    "summary": "A high-contrast editorial serif with ball terminals, the serif half of the Trivia superfamily.",
+    "description": "Trivia Serif runs seven weights of crisp, high-contrast letterforms, built as the serif counterpart to Trivia Humanist. It carries full Greek and Cyrillic character sets alongside its Latin range. The contrast and ball terminals give it a fashion-editorial edge that reads as confident rather than fragile.",
+    "foundry_blurb": "Storm builds Trivia Serif with the same reach as its sans sibling, seven weights deep and complete with Greek and Cyrillic support."
+  },
+  {
+    "name": "Trivia Serif 10",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/trivia-serif-10",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast display serif",
+    "classification_notes": "Named and sold as a serif cut with sharp modelled contrast, built as an addition to the wider Trivia system.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trivia Serif 10"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "high-contrast",
+      "display",
+      "editorial",
+      "headline"
+    ],
+    "summary": "A compact four-style serif built as a headline partner for Storm's larger Trivia system.",
+    "description": "Trivia Serif 10 strips the Trivia superfamily down to Regular and Bold, each with an italic. It carries the same sharp, high-contrast drawing as its siblings, so it slots straight into a Trivia-based identity wherever a smaller serif option is needed.",
+    "foundry_blurb": "One of the forty styles that make up the Trivia system, built to work alongside its wider family of serif, slab and sans companions."
+  },
+  {
+    "name": "Trivia Slab",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/trivia-slab",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "slab",
+    "subcategory": "contemporary slab serif",
+    "classification_notes": "Squared, even-weight serifs across a full weight run put this firmly in slab territory.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trivia Slab"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "poster",
+      "editorial",
+      "branding",
+      "superfamily"
+    ],
+    "summary": "A seven-weight slab that runs from a whisper of a Hairline to a solid Black.",
+    "description": "Trivia Slab takes the bones of the Trivia system and squares off the serifs. Seven weights with italics give it enough range for text and display work alike, and it shares proportions with the rest of the Trivia family for mixed-use branding.",
+    "foundry_blurb": "Built as the slab-serif member of the Trivia superfamily, sharing its structure with the system's serif and sans companions."
+  },
+  {
+    "name": "Tusar",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/tusar",
+    "designer": "Slavoboj Tusar",
+    "year": null,
+    "category": "serif",
+    "subcategory": "revival text serif",
+    "classification_notes": "A period Czech book face revived under its original designer's name, so it keeps a traditional serif structure.",
+    "weights": [
+      "Regular",
+      "Text",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tusar"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "revival",
+      "text",
+      "czech",
+      "editorial"
+    ],
+    "summary": "A Czech text serif named for its original designer, Slavoboj Tusar.",
+    "description": "Tusar is Storm's digital revival of a serif drawn by Slavoboj Tusar, brother of a Czech prime minister of the First Republic period. Regular, Text, Bold and Heavy weights with italics keep it useful for the kind of long-form setting the original was built for.",
+    "foundry_blurb": "A revival honouring Slavoboj Tusar, sibling of a First Republic prime minister, brought back for contemporary book and editorial use."
+  },
+  {
+    "name": "Týfa Antikva",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/tyfa-antikva",
+    "designer": "Josef Týfa",
+    "year": null,
+    "category": "serif",
+    "subcategory": "revival book antiqua",
+    "classification_notes": "A named historical antiqua revival, structurally a traditional book serif with a dedicated Text optical cut.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Text"
+    ],
+    "subfamilies": [
+      "Týfa Antikva",
+      "Týfa Text Antikva"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "revival",
+      "book",
+      "czech",
+      "antiqua"
+    ],
+    "summary": "A classic Czech antiqua by Josef Týfa, familiar to generations of local designers.",
+    "description": "Týfa Antikva and its italic have been a fixture for Czech graphic artists since their original release. Storm's digital cut adds a Medium weight and a dedicated Text optical size, keeping the design's character intact at smaller sizes.",
+    "foundry_blurb": "A design long recognised among Czech typographers, now available with an added Medium weight and a Text optical cut for smaller settings."
+  },
+  {
+    "name": "Walbaum 2010 Pro",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/walbaum",
+    "designer": "Justus Erich Walbaum",
+    "year": null,
+    "category": "serif",
+    "subcategory": "Didone revival",
+    "classification_notes": "A digital revival of Walbaum's 18th-century Didone design, kept as a serif with a full optical-size system.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "10",
+      "120",
+      "10 XL",
+      "120 XL"
+    ],
+    "subfamilies": [
+      "Walbaum 10 Pro",
+      "Walbaum 120 Pro",
+      "Walbaum 10 XL Pro",
+      "Walbaum 120 XL Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "didone",
+      "revival",
+      "book",
+      "classic"
+    ],
+    "summary": "Storm's optical-size revival of Justus Erich Walbaum's Romantic-era Didone.",
+    "description": "Walbaum 2010 Pro rebuilds Walbaum's early-19th-century design across four optical sizes, from tight text cuts to display-sized XL versions. Regular, Medium and Bold weights with italics cover book, editorial and display use.",
+    "foundry_blurb": "A design suited to romantic literature at the dawn of the industrial age, rebuilt here as a full optical-size system."
+  },
+  {
+    "name": "Academica Sans",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/academica-sans",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque text sans",
+    "classification_notes": "A plain, workmanlike sans built for dense scientific and academic text.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Academica Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "academic",
+      "text",
+      "workhorse",
+      "editorial"
+    ],
+    "summary": "The sans-serif companion to Academica, built as a reliable scientific workhorse.",
+    "description": "Academica Sans mirrors its serif sibling in purpose: dense, functional text for academic and scientific publishing. Five weights with italics give it enough range for footnotes, captions and running text alike.",
+    "foundry_blurb": "A dependable sans built to sit alongside Academica wherever a scientific or academic document needs a clean, no-nonsense text face."
+  },
+  {
+    "name": "Amor Sans Neo",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/amor-sans",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A rounded, approachable humanist sans, positioned as the sans companion to Amor Serif.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Amor Sans Neo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "humanist",
+      "branding",
+      "signage",
+      "office"
+    ],
+    "summary": "A friendly humanist sans built for office documents, signage and branding.",
+    "description": "Amor Sans Neo pairs five weights and italics with a variable-font option, giving it enough flexibility to move between everyday office use, signage and identity work without losing its warmth.",
+    "foundry_blurb": "A practical companion to Amor Serif, equally at home in office documents, signage and branding."
+  },
+  {
+    "name": "Amphibia",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/amphibia",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "hybrid serif-influenced humanist sans",
+    "classification_notes": "Built on a sans-serif base but carrying trapezoid ascenders and rounded ears that echo serif letterforms, so it reads as a hybrid sans.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Amphibia",
+      "Amphibia Stencil",
+      "Amphibia Inline",
+      "Amphibia Ghost"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "hybrid",
+      "display",
+      "branding",
+      "poetry"
+    ],
+    "summary": "A sans-serif with serif instincts, built for people who cannot pick a side.",
+    "description": "Amphibia sits on a sans-serif base but borrows trapezoid ascenders, ball terminals and rounded ears from serif design, giving it a serif-like feel at small sizes. Stencil, Inline and Ghost variants extend it into poster and branding work.",
+    "foundry_blurb": "A refreshing fusion of serif and sans-serif design principles, built for everything from poetry to branding and information systems."
+  },
+  {
+    "name": "Andulka Sans",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/andulka-sans",
+    "designer": "František Štorm",
+    "year": 2004,
+    "category": "sans-serif",
+    "subcategory": "humanist text sans",
+    "classification_notes": "A quiet, economical humanist sans drawn as the sans companion to the Andulka serif.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Andulka Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "humanist",
+      "text",
+      "publication",
+      "identity"
+    ],
+    "summary": "A quiet, economical sans drawn in 2004 for publication and identity work.",
+    "description": "Andulka Sans was drawn in 2004 to sit alongside the Andulka serif for publication and visual identity briefs. Six weights with italics keep it calm and legible without losing personality.",
+    "foundry_blurb": "Drawn in 2004 as an economical, quietly original sans for publication and identity projects."
+  },
+  {
+    "name": "Animono",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/animono",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "mono",
+    "subcategory": "variable monospace",
+    "classification_notes": "The name signals a monospace built for variable and animated use, and it ships as a full Condensed monospace system.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Eco",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Animono",
+      "Animono Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "mono",
+      "monospace",
+      "variable",
+      "condensed",
+      "ui"
+    ],
+    "summary": "A monospace built for variable use, with a full Condensed width alongside the Regular.",
+    "description": "Animono runs eight weights from Hairline to Black, each with italic and Condensed cuts, plus a variable-font version for animated and interface work. It steps quietly out of a crowded monospace market with an unusually wide weight range.",
+    "foundry_blurb": "A monospace built to step modestly into a busy field, offered as a variable font as well as a full static weight range."
+  },
+  {
+    "name": "Anselm Sans",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/anselm-sans",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A dynamic humanist sans built as the companion to Anselm Serif.",
+    "weights": [
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Anselm Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "humanist",
+      "book",
+      "text",
+      "branding"
+    ],
+    "summary": "A dynamic humanist sans built to pair with Anselm Serif.",
+    "description": "Anselm Sans carries the same modern humanist structure as its serif sibling, with five weights and italics. It is built for text and identity work that needs a sans option without abandoning the Anselm family's character.",
+    "foundry_blurb": "A dynamic modern humanist sans, drawn to work alongside Anselm Serif."
+  },
+  {
+    "name": "Bahnhof Neo",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/bahnhof",
+    "designer": "František Štorm",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "Art Deco grotesque",
+    "classification_notes": "A grotesque with Art Deco proportions, sold without italics as a display and identity sans.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bahnhof Neo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "art-deco",
+      "display",
+      "branding",
+      "grotesque"
+    ],
+    "summary": "An Art Deco grotesque given a new lowercase in 2023.",
+    "description": "Bahnhof Neo runs seven weights of Art Deco-flavoured grotesque, from Light to Ultra, and gained a redrawn lowercase in 2023. No italics here: it is built for confident, geometric display and branding work.",
+    "foundry_blurb": "An Art Deco grotesque brought forward with a freshly redrawn lowercase in 2023."
+  },
+  {
+    "name": "Baskerville Sans",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/baskerville-sans",
+    "designer": "John Baskerville",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "transitional-serif-derived grotesque",
+    "classification_notes": "Storm's digital cut turns John Baskerville's 18th-century transitional roman into a sans-serif, keeping his proportions across five widths.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Condensed",
+      "Regular",
+      "Open",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Baskerville Sans",
+      "Baskerville Sans Condensed",
+      "Baskerville Sans Narrow",
+      "Baskerville Sans Open",
+      "Baskerville Sans Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "revival",
+      "grotesque",
+      "branding",
+      "superfamily"
+    ],
+    "summary": "John Baskerville's proportions carried into a full sans-serif width system.",
+    "description": "Baskerville Sans takes the sober elegance of Baskerville's 18th-century roman and rebuilds it as a sans across Narrow, Condensed, Regular, Open and Wide widths, each in seven weights with italics. A large, flexible system for identity and editorial work.",
+    "foundry_blurb": "The sans-serif extension of a design considered by many the most trusted typeface in the world, now spanning five widths."
+  },
+  {
+    "name": "Beletrio",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/beletrio",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque text sans",
+    "classification_notes": "A grotesque companion sharing shapes with the Beletria serif, with a Condensed width added.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Beletrio",
+      "Beletrio Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "text",
+      "condensed",
+      "editorial",
+      "companion"
+    ],
+    "summary": "A grotesque built as the sans companion to Beletria, sharing many of its shapes.",
+    "description": "Beletrio was made to sit alongside the Beletria serif, carrying over many of its forms into a sans structure. Seven weights with italics, plus a Condensed width, make it a flexible text partner.",
+    "foundry_blurb": "Made as a companion to Beletria, carrying many of the same shapes across into a sans-serif structure."
+  },
+  {
+    "name": "Carot Mono",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/carot-mono",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "mono",
+    "subcategory": "text monospace",
+    "classification_notes": "The monospace member of the Carot family, built around fixed-width text setting.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Carot Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "mono",
+      "monospace",
+      "text",
+      "code",
+      "family-system"
+    ],
+    "summary": "The monospace branch of the Carot family, in eight weights with italics.",
+    "description": "Carot Mono began, like the rest of the Carot system, from Štorm's own need for reading glasses. It gives the family a proper fixed-width option across eight weights, useful for code, tables or any brief that calls for a monospace.",
+    "foundry_blurb": "Part of a family that began with a designer's own encounter with reading glasses, here rebuilt as a full monospace."
+  },
+  {
+    "name": "Carot Sans",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/carot-sans",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque text sans",
+    "classification_notes": "The grotesque branch of the Carot family, built for extended reading.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Carot Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "text",
+      "publishing",
+      "family-system",
+      "readable"
+    ],
+    "summary": "A grotesque originally drawn for tired eyes, now a favourite with publishers.",
+    "description": "Carot Sans was originally designed for a fading vision but has since become a go-to text sans for publishers. Eight weights with italics give it plenty of room to move between body copy and headline work.",
+    "foundry_blurb": "Originally drawn for a fading vision, Carot Sans has since become a favourite among publishers for its clarity."
+  },
+  {
+    "name": "Clara Sans",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/clara-sans",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque superfamily sans",
+    "classification_notes": "The sans branch of the Clara superfamily, built for magazine, identity and corporate design.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Clara Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "superfamily",
+      "corporate",
+      "magazine",
+      "identity"
+    ],
+    "summary": "The sans half of the Clara superfamily, built for magazine and corporate work.",
+    "description": "Clara Sans spans eight weights from Hairline to Black, each with an italic, and shares its structure with Clara Serif. Between them the pair covers magazine layout, identity and corporate design briefs.",
+    "foundry_blurb": "The sans-serif half of a superfamily built for magazine, identity and corporate design use."
+  },
+  {
+    "name": "DynaGrotesk",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/dyna-grotesk",
+    "designer": "František Štorm",
+    "year": 1995,
+    "category": "sans-serif",
+    "subcategory": "grotesque width system",
+    "classification_notes": "A grotesque built in 1995 with Multiple Master interpolation, so it comes as a full width system rather than a single cut.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Extra Condensed",
+      "Condensed",
+      "Semi Condensed",
+      "Regular",
+      "Expanded",
+      "Extra Expanded"
+    ],
+    "subfamilies": [
+      "Dyna Grotesk",
+      "Dyna Grotesk Extra Condensed",
+      "Dyna Grotesk Condensed",
+      "Dyna Grotesk Semi Condensed",
+      "Dyna Grotesk Expanded",
+      "Dyna Grotesk Extra Expanded"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "superfamily",
+      "corporate",
+      "condensed"
+    ],
+    "summary": "A 1995 grotesque system spanning six widths from Extra Condensed to Extra Expanded.",
+    "description": "DynaGrotesk was built in 1995 using Multiple Master interpolation and has been in wide use ever since, from small publishers to international corporate identity. Five weights with italics run across six widths, giving it real range for branding and text.",
+    "foundry_blurb": "Built in 1995 with Multiple Master interpolation, still in wide use across small publishers and global corporate identities alike."
+  },
+  {
+    "name": "Etelka Neo",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/etelka-neo",
+    "designer": "František Štorm",
+    "year": 2004,
+    "category": "sans-serif",
+    "subcategory": "grotesque width system",
+    "classification_notes": "Originally rejected for a Czech Television identity, this grotesque now spans five widths and seven weights.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Eco",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Narrow",
+      "Regular",
+      "Wide",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Etelka",
+      "Etelka Condensed",
+      "Etelka Narrow",
+      "Etelka Wide",
+      "Etelka Expanded"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "superfamily",
+      "condensed",
+      "wide"
+    ],
+    "summary": "A grotesque rejected in a 2004 pitch and reborn as a five-width superfamily.",
+    "description": "Etelka Neo started life in 2004 as a submission for a Czech Television identity competition that turned it down. It has since grown into a proper system, spanning Condensed, Narrow, Regular, Wide and Expanded widths across seven weights.",
+    "foundry_blurb": "First drawn in 2004 for a television identity pitch that passed it over, since grown into a full five-width grotesque system."
+  },
+  {
+    "name": "Header",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/header",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric headline display",
+    "classification_notes": "An eccentric, tall-x-height display face built for headlines rather than reading text, so it sits in display rather than a body-text category.",
+    "weights": [
+      "11",
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Header 11",
+      "Header 12",
+      "Header 13",
+      "Header 14",
+      "Header 15"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "headline",
+      "poster",
+      "geometric",
+      "eighties"
+    ],
+    "summary": "A tall, geometric headline face with the radicalism of 1980s display type.",
+    "description": "Header takes its tall x-height and geometric edge from 1980s display design. It ships as five numbered styles rather than named weights, with hybrid glyphs sitting where small caps would normally go, built for newspaper and magazine headlines and impact posters.",
+    "foundry_blurb": "A tall-x-height display face with the geometric nerve of the 1980s, built for headlines and posters that need to shout."
+  },
+  {
+    "name": "Hercules Sans",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/hercules-sans",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque text sans",
+    "classification_notes": "A grotesque drawn as the necessary sans companion to the Hercules serif.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Eco",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hercules Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "text",
+      "editorial",
+      "companion",
+      "grotesque"
+    ],
+    "summary": "The sans companion Štorm decided he could not do without after finishing Hercules Neo.",
+    "description": "Hercules Sans came about because, having finished the Hercules serif, Štorm found he needed a matching sans. Eight weights with italics give it the same broad range as its serif sibling.",
+    "foundry_blurb": "Drawn once its serif sibling was finished, on the realisation that a matching sans was needed after all."
+  },
+  {
+    "name": "Inicia",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/inicia",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque text sans",
+    "classification_notes": "A plain early sans design, described by the foundry as one of Štorm's own juvenile efforts.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Inicia"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "text",
+      "grotesque",
+      "early-work",
+      "simple"
+    ],
+    "summary": "An early, unpretentious sans that the foundry itself calls a juvenile design.",
+    "description": "Inicia is a straightforward grotesque across six weights with italics. Storm describes it plainly as an early, juvenile design, which makes it a good fit for briefs that want a sans without much fuss.",
+    "foundry_blurb": "Described by its own designer as a juvenile piece of work, and all the more useful for its lack of pretension."
+  },
+  {
+    "name": "Jannon Sans",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/jannon-sans",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque companion sans",
+    "classification_notes": "The sans companion to the Jannon serif revival, built as part of a wider font-system trend.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Jannon Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "companion",
+      "system",
+      "text",
+      "branding"
+    ],
+    "summary": "A sans built to keep Jean Jannon's revived serif company in a wider type system.",
+    "description": "Jannon Sans answers the fashion for designing complete font systems that took hold with digital typography. It sits alongside the Jannon serif revival, offering six weights with italics and a variable-font option.",
+    "foundry_blurb": "Designed to keep pace with a fashion for building complete font systems since the start of digital typography."
+  },
+  {
+    "name": "Jasan",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/jasan",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque width system",
+    "classification_notes": "Named after the ash tree, this grotesque comes in Regular, Condensed and Wide widths.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Condensed",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Jasan",
+      "Jasan Condensed",
+      "Jasan Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "condensed",
+      "wide",
+      "branding"
+    ],
+    "summary": "A grotesque named after the ash tree, built across Regular, Condensed and Wide widths.",
+    "description": "Jasan takes its name from the Czech word for ash, a wood valued for tools and furniture. Six weights with italics run across three widths, giving it a solid, dependable range for branding and editorial work.",
+    "foundry_blurb": "Named for the ash tree, a wood prized for its strength, and built with the same dependable character across three widths."
+  },
+  {
+    "name": "Melange",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/melange",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque width system",
+    "classification_notes": "A large grotesque system spanning five widths and nine weights, built with evident enjoyment on the designer's part.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Ultra Condensed",
+      "Condensed",
+      "Semi Condensed",
+      "Regular",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Melange",
+      "Melange Ultra Condensed",
+      "Melange Condensed",
+      "Melange Semi Condensed",
+      "Melange Expanded"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "superfamily",
+      "condensed",
+      "expanded"
+    ],
+    "summary": "A nine-weight, five-width grotesque system built on the idea that a designer's enjoyment shows through.",
+    "description": "Melange runs nine weights from Thin to Black across five widths, from Ultra Condensed to Expanded. It is one of Storm's largest sans systems, giving branding and editorial projects a huge amount of room to move.",
+    "foundry_blurb": "Built on the idea that when a designer enjoys the work, the reader feels it too, across a wide five-width system."
+  },
+  {
+    "name": "Metron",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/metron",
+    "designer": "Jiří Rathouský",
+    "year": 1970,
+    "category": "sans-serif",
+    "subcategory": "signage and information sans",
+    "classification_notes": "Originally commissioned in 1970 as the Prague Metro's signage typeface, so it is built for information design rather than book text.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Book Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Metron"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "signage",
+      "wayfinding",
+      "revival",
+      "czech"
+    ],
+    "summary": "The Prague Metro's original 1970 information typeface, revived by Štorm as a full text family.",
+    "description": "Metron was commissioned in 1970 by Prague's transport authority for the Metro's information system, designed by Jiří Rathouský and used on the network until the mid-1980s. Storm's revival adds Cyrillic, true small caps and extra weights while keeping the original's noticeable, at-a-glance clarity.",
+    "foundry_blurb": "Storm's most ambitious commission to date, reviving Jiří Rathouský's 1970 Prague Metro signage system with new Cyrillic and small caps."
+  },
+  {
+    "name": "Quercus C",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/quercus-c",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque with simplified alternates",
+    "classification_notes": "A grotesque variant of Quercus offering simplified default letterforms for use outside OpenType-aware applications.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Quercus C"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "system",
+      "alternates",
+      "information"
+    ],
+    "summary": "A Quercus variant with simplified g, k, l and K forms set as the default.",
+    "description": "Quercus C swaps in cleaner alternate forms of g, k, l and K as the default glyphs, so the design still reads correctly in applications without OpenType support. Eight weights with italics match the rest of the Quercus superfamily.",
+    "foundry_blurb": "A Quercus variant with cleaner default letterforms, built for applications that cannot take advantage of OpenType features."
+  },
+  {
+    "name": "Quercus Sans",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/quercus-sans",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "information grotesque",
+    "classification_notes": "Developed as an informational font system, so it sits with the rational, legible end of the sans-serif spectrum.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Quercus Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "information",
+      "signage",
+      "rational",
+      "system"
+    ],
+    "summary": "A rational information sans, built wherever legible, no-nonsense typography is needed.",
+    "description": "Quercus Sans was developed primarily as an informational font system, and its eight weights with italics work well anywhere clear, rational typography matters more than personality.",
+    "foundry_blurb": "Developed primarily as an information system, suited to any brief where rational, legible typography comes first."
+  },
+  {
+    "name": "Quercus Whiteline",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/quercus-whiteline",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "layered inline display system",
+    "classification_notes": "A three-font layering system for overlap and colour effects rather than a weight-based text family, so it belongs in display.",
+    "weights": [
+      "Whiteline",
+      "Wokolo",
+      "Wykroj"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Quercus Whiteline",
+      "Quercus Wokolo",
+      "Quercus Wykroj"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "layered",
+      "inline",
+      "poster",
+      "superfamily"
+    ],
+    "summary": "A three-layer overlay system built to sit on top of the Quercus superfamily.",
+    "description": "Quercus Whiteline splits its drawing across three separate fonts, Whiteline, Wokolo and Wykroj, that can be stacked for overlapping colour effects or used on their own. It shares its glyph set with the wider Quercus system.",
+    "foundry_blurb": "Split across three separate fonts for overlapping colour effects, though each works perfectly well on its own."
+  },
+  {
+    "name": "Sebastian",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/sebastian",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans with baroque modulation",
+    "classification_notes": "A sans-serif that borrows the softening stroke modulation of baroque roman typefaces to offset the plainness of a grotesque, so it reads as a humanist sans rather than a serif.",
+    "weights": [
+      "Light",
+      "Text",
+      "Medium",
+      "Text Bold",
+      "Medium Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sebastian",
+      "Sebastian Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "humanist",
+      "baroque",
+      "text",
+      "editorial"
+    ],
+    "summary": "A second confession of love for baroque typography, this time in sans-serif form.",
+    "description": "Sebastian takes the softening stroke modulation of baroque roman typefaces and applies it to a sans-serif structure, offsetting the usual bareness of a grotesque. Light, Text and Medium weights with italics keep it warm rather than clinical.",
+    "foundry_blurb": "Another confession of love for baroque typography, carried this time into sans-serif letterforms."
+  },
+  {
+    "name": "Shompen",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/shompen",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque display sans",
+    "classification_notes": "A bold, confident grotesque pitched at striking headline messages.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Shompen"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "display",
+      "headline",
+      "branding",
+      "bold"
+    ],
+    "summary": "A grotesque ready for action, built for striking headline messages.",
+    "description": "Shompen runs seven weights with italics and a variable-font option, giving it plenty of range for headline and branding work that needs to grab attention quickly.",
+    "foundry_blurb": "Ready for action and built for messages that need to land with impact."
+  },
+  {
+    "name": "Solpera",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/solpera",
+    "designer": "Jan Solpera",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "inscriptional humanist sans",
+    "classification_notes": "Named for and attributed to the Czech typographer Jan Solpera, listed among Storm's past collaborators, its capitals began as sculptural inscriptional letterforms later completed with a lower case.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Solpera"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "inscriptional",
+      "official",
+      "czech",
+      "identity"
+    ],
+    "summary": "A sans that began as sculptural inscriptional capitals, now the Czech National Bank's official font.",
+    "description": "Solpera fills the gap between Roman and linear alphabets. Its upper case came first, drawn originally for three-dimensional inscriptional use, before a lower case completed it into a working text family now serving as the Czech National Bank's official typeface.",
+    "foundry_blurb": "A typeface bridging Roman and linear alphabet traditions, now serving as the Czech National Bank's official font."
+  },
+  {
+    "name": "Splendid Sans",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/splendid-sans",
+    "designer": "František Štorm",
+    "year": 1998,
+    "category": "sans-serif",
+    "subcategory": "experimental hybrid sans",
+    "classification_notes": "Originally built as the sans-serif third of a hybrid Script, Serif and Sans quartet, so it carries an experimental edge for a sans.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Book",
+      "Text",
+      "Book Bold",
+      "Text Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Splendid Sans",
+      "Splendid Sans Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "experimental",
+      "hybrid",
+      "text",
+      "identity"
+    ],
+    "summary": "The sans third of a hybrid Script, Serif and Sans trio dating back to 1998.",
+    "description": "Splendid Sans has been part of the Splendid Quartett hybrid family since 1998, offering an experimental contrast to its Script and Serif partners. Seven weights with italics, including a dedicated Text cut, cover both body and display use.",
+    "foundry_blurb": "Part of a hybrid Script, Serif and Sans quartet since 1998, offering an experimental contrast to its two companions."
+  },
+  {
+    "name": "St Croce",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/st-croce",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "eroded inscriptional display serif",
+    "classification_notes": "Based on worn tombstone lettering rather than a working text design, this belongs with display and effect faces despite its serif letterforms.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "St Croce Text",
+      "St Croce Fading",
+      "St Croce Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "eroded",
+      "inscriptional",
+      "poster",
+      "distressed"
+    ],
+    "summary": "A typeface built on centuries of foot traffic across tombstones in Florence.",
+    "description": "St Croce is based on worn-out lettering on tombstones in the Santa Croce basilica in Florence, where centuries of visitors have slowly rubbed inscriptions towards illegibility. Text, Fading and Stencil variants capture different stages of that wear, suited to catalogue jackets, invitations and posters.",
+    "foundry_blurb": "Modelled on centuries of wear across tombstone inscriptions in Florence's Santa Croce basilica, caught at just the right moment of decay."
+  },
+  {
+    "name": "Superscience",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/superscience",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "rounded-rectangle grotesque width system",
+    "classification_notes": "A grotesque drawn around 1980s rounded-rectangle geometry, sold as an enormous seven-width system.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Regular",
+      "Ultra Condensed",
+      "Extra Condensed",
+      "Condensed",
+      "Expanded",
+      "Extra Expanded",
+      "Ultra Expanded"
+    ],
+    "subfamilies": [
+      "Superscience",
+      "Superscience Ultra Condensed",
+      "Superscience Extra Condensed",
+      "Superscience Condensed",
+      "Superscience Expanded",
+      "Superscience Extra Expanded",
+      "Superscience Ultra Expanded"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "superfamily",
+      "condensed",
+      "expanded"
+    ],
+    "summary": "A rounded-rectangle grotesque stretched across seven widths, from Ultra Condensed to Ultra Expanded.",
+    "description": "Superscience is drawn in a rounded rectangle, the way display sans faces often were in the 1980s. Seven weights with italics span an unusually wide set of widths, from Ultra Condensed through to Ultra Expanded, for branding systems that need real range.",
+    "foundry_blurb": "A font drawn in a rounded rectangle, in the manner of the 1980s, stretched here into a very wide family of widths."
+  },
+  {
+    "name": "Teuton",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/teuton",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque with German weight naming",
+    "classification_notes": "A grotesque whose weight names, Weiss, Hell, Mager and Fett, borrow German typographic convention for a sharp, identity-driven sans.",
+    "weights": [
+      "Weiss",
+      "Hell",
+      "Mager",
+      "Regular",
+      "Fett",
+      "Bold",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Teuton"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "identity",
+      "german",
+      "display"
+    ],
+    "summary": "A sharp grotesque with German weight names, built for distinctive identity work.",
+    "description": "Teuton keeps to a rigorous, sharply expressive grotesque structure, with weight names borrowed from German type tradition. Seven weights and a variable-font option give it enough range to carry a distinctive identity system.",
+    "foundry_blurb": "Sharp expression and rigour, dressed in German weight names, for identity work that needs to stand apart."
+  },
+  {
+    "name": "Trivia Gothic",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/trivia-gothic",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque width system",
+    "classification_notes": "Despite the name, Gothic here follows the American usage for a grotesque sans, and it is built as a huge width system for posters and identity.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Ultra Condensed",
+      "Condensed",
+      "Semi Condensed",
+      "Regular",
+      "Semi Expanded",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Trivia Gothic",
+      "Trivia Gothic Ultra Condensed",
+      "Trivia Gothic Condensed",
+      "Trivia Gothic Semi Condensed",
+      "Trivia Gothic Semi Expanded",
+      "Trivia Gothic Expanded"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "poster",
+      "identity",
+      "superfamily"
+    ],
+    "summary": "A striking grotesque built across six widths for posters, identity and book jackets.",
+    "description": "Trivia Gothic runs six weights with italics across six widths, from Ultra Condensed to Expanded, as part of the wider Trivia system. It is built for striking posters, identity work, web design and book jackets.",
+    "foundry_blurb": "Built for striking posters, identity systems, web design and book jackets, spanning six widths within the Trivia system."
+  },
+  {
+    "name": "Trivia Grotesk",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/trivia-grotesk",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "playful grotesque width system",
+    "classification_notes": "The foundry describes this explicitly as a playful, non-neutral sans-serif, placing it firmly in the grotesque camp.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Ultra Condensed",
+      "Condensed",
+      "Semi Condensed",
+      "Regular",
+      "Semi Expanded"
+    ],
+    "subfamilies": [
+      "Trivia Grotesk",
+      "Trivia Grotesk Ultra Condensed",
+      "Trivia Grotesk Condensed",
+      "Trivia Grotesk Semi Condensed",
+      "Trivia Grotesk Semi Expanded"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "poster",
+      "magazine",
+      "superfamily"
+    ],
+    "summary": "A playful, non-neutral grotesque, built as a magazine headline and poster superfamily.",
+    "description": "Trivia Grotesk leans into the theatrical side of grotesque design, warm and inviting rather than neutral. Six weights with italics run across five widths, backed by a variable-font option, for magazine headlines and poster work.",
+    "foundry_blurb": "A playful, juicy, non-neutral sans-serif built as a magazine headline and poster superfamily."
+  },
+  {
+    "name": "Trivia Sans",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/trivia-sans",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "neutral grotesque text sans",
+    "classification_notes": "Described by the foundry as neutral and without historical reminiscence, this is the plain-spoken text sans of the Trivia system.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trivia Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "neutral",
+      "text",
+      "system",
+      "editorial"
+    ],
+    "summary": "A deliberately neutral text sans, the plain-spoken member of the Trivia system.",
+    "description": "Trivia Sans is built for briefs that want no artistic flourish and no historical reference, just a clear, neutral sans. Seven weights with italics and a variable-font option sit alongside the Trivia Grotesk and Trivia Gothic display faces.",
+    "foundry_blurb": "For anyone after something neutral, free of artistic emotion or historical reminiscence, this is the answer."
+  },
+  {
+    "name": "Vida",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/vida",
+    "designer": "František Štorm",
+    "year": 2006,
+    "category": "sans-serif",
+    "subcategory": "monolinear text sans system",
+    "classification_notes": "A monolinear humanist sans drawn in 2006, sold under Storm's internal numbered optical-style coding rather than named weights.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "21",
+      "22",
+      "23",
+      "31",
+      "32",
+      "33",
+      "41",
+      "42",
+      "43"
+    ],
+    "subfamilies": [
+      "Vida 21",
+      "Vida 22",
+      "Vida 23",
+      "Vida 31",
+      "Vida 32",
+      "Vida 33",
+      "Vida 41",
+      "Vida 42",
+      "Vida 43"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "text",
+      "monolinear",
+      "system",
+      "editorial"
+    ],
+    "summary": "A monolinear text sans from 2006, sold across nine numbered optical variants.",
+    "description": "Vida was designed in the summer of 2006 on a purist, monolinear base that still allows for the natural quirks of the Latin alphabet, such as differently shaped tops on n and r. Its nine numbered variants behave consistently across print and screen at any size.",
+    "foundry_blurb": "Designed in the summer of 2006 to behave consistently across print and screen, its lightest weight never fading and its darkest never blurring."
+  },
+  {
+    "name": "Walbaum Grotesk",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/walbaum-grotesk",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque revival companion",
+    "classification_notes": "A modern grotesque companion to the Walbaum revival rather than a literal Walbaum design, since Walbaum himself never drew a sans.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Walbaum Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "companion",
+      "revival-partner",
+      "editorial"
+    ],
+    "summary": "A modern grotesque built to keep the Walbaum revival company, since Walbaum himself never drew a sans.",
+    "description": "Justus Erich Walbaum almost certainly never intended to design a sans-serif, so Walbaum Grotesk is Storm's own invention: six weights with italics built to sit comfortably alongside the Walbaum serif revival in mixed-use projects.",
+    "foundry_blurb": "A sans-serif companion for a designer who, as far as anyone can tell, never meant to draw one."
+  },
+  {
+    "name": "Zeppelin Grotesk",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/zeppelin-grotesk",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque width system",
+    "classification_notes": "A solid grotesque built across six widths, with enough customisable detail for identity work.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Narrow",
+      "Regular",
+      "Wide",
+      "Semi Expanded",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Zeppelin Grotesk",
+      "Zeppelin Grotesk Condensed",
+      "Zeppelin Grotesk Narrow",
+      "Zeppelin Grotesk Wide",
+      "Zeppelin Grotesk Semi Expanded",
+      "Zeppelin Grotesk Expanded"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "branding",
+      "condensed",
+      "wide"
+    ],
+    "summary": "A solid, customisable grotesque built across six widths for branding work.",
+    "description": "Zeppelin Grotesk offers five weights with italics across six widths, from Condensed to Expanded, plus a variable-font option. Its customisable characters make it a practical choice for individual branding and identity styles.",
+    "foundry_blurb": "An essential, solid sans-serif with characters built to be customised for individual style and branding."
+  },
+  {
+    "name": "Abalda",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/a8",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric poster display",
+    "classification_notes": "A single-cut, all-caps geometric poster face with angular counters, an eccentric one-off rather than a working text system.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Abalda"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "poster",
+      "geometric",
+      "caps-only",
+      "one-off"
+    ],
+    "summary": "A bold, angular one-off built for poster type that reads clearly from a distance.",
+    "description": "Abalda is a single-weight, all-caps poster face with rectangular counters and a strong geometric edge. It follows the requirement that a poster typeface stay legible from far away and still hold up at small sizes on the same sheet.",
+    "foundry_blurb": "A poster face built for a wave of renewed interest in the form, designed to stay legible from a distance and readable even when set small."
+  },
+  {
+    "name": "Etelka",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/etelka",
+    "designer": "František Štorm",
+    "year": 2004,
+    "category": "sans-serif",
+    "subcategory": "grotesque superfamily",
+    "classification_notes": "Clean grotesque letterforms with no serifs, built out into one of Storm's largest superfamilies of weights and widths.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Text",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Condensed",
+      "Standard",
+      "Expanded",
+      "Monospace"
+    ],
+    "subfamilies": [
+      "Etelka"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "superfamily",
+      "grotesque",
+      "wayfinding",
+      "corporate identity",
+      "monospace",
+      "variable"
+    ],
+    "summary": "A sprawling grotesque superfamily built from a Czech Television identity pitch that got rejected in 2004.",
+    "description": "Etelka started life as a losing entry for a national broadcaster's identity brief, then grew into one of Storm's biggest sans families. It runs from a whisper-thin Hairline to a solid Black, across narrow, standard, expanded and even monospaced cuts.",
+    "foundry_blurb": "The first sketch of what became Etelka was drawn up in 2004 for a Czech Television identity pitch, and the jury turned it down."
+  },
+  {
+    "name": "Aichel",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/aichel",
+    "designer": "František Štorm",
+    "year": 1999,
+    "category": "serif",
+    "subcategory": "inscriptional monumental serif",
+    "classification_notes": "Genuine serif construction cut for monumental inscriptions and headlines, not for running text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Aichel"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "inscriptional",
+      "monumental",
+      "serif",
+      "display",
+      "architecture"
+    ],
+    "summary": "A serif built for carving in stone, named after the architect it was designed to honour.",
+    "description": "Aichel takes its name from Jan Blažej Santini-Aichel, the Czech Baroque architect, and was drawn in 1999 for an inscription on one of his buildings. Its lower case has a playful, almost childlike energy against the gravity of the capitals, which is why Storm points it at headings and invitations rather than long paragraphs.",
+    "foundry_blurb": "The lower-case letters ring with a playful energy against the solemnity of the capitals, striking a balance fit for stone carving as much as a children's book cover."
+  },
+  {
+    "name": "Alcoholica",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/alcoholica",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "wobbly novelty serif",
+    "classification_notes": "An irregular, wobbling serif built as a novelty display face, not for continuous reading.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Alcoholica"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "novelty",
+      "wobbly",
+      "poster",
+      "theatre"
+    ],
+    "summary": "A tipsy, wobbling serif that wears its inspiration on its sleeve.",
+    "description": "Alcoholica staggers along an uneven baseline, suiting texts about drunkards and dubious characters exactly as advertised. Storm cut it in just three styles, aimed squarely at theatre posters and other work with a sense of humour.",
+    "foundry_blurb": "The idea behind this one is obvious from the name: it suits texts about drunkards and dubious people, and posters for theatre pieces by contemporary playwrights."
+  },
+  {
+    "name": "Alebrijes",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/alebrijes",
+    "designer": "František Štorm",
+    "year": 2015,
+    "category": "serif",
+    "subcategory": "editorial serif superfamily",
+    "classification_notes": "A properly weighted serif text and display superfamily, not a one-off decorative face.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Standard",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Alebrije"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "superfamily",
+      "editorial",
+      "folk art",
+      "condensed"
+    ],
+    "summary": "A big, good-natured serif superfamily named after Mexico's carved folk-art creatures.",
+    "description": "Storm named this one after a trip to Oaxaca in 2015, and it shows: the italics carry the same wonky charm as the alebrije carvings that inspired them. Seven weights across three widths make it flexible enough for editorial work as well as display.",
+    "foundry_blurb": "The name Alebrije was picked while designing the italics, after a stretch of time in Oaxaca, Mexico surrounded by the region's wonderful crafts."
+  },
+  {
+    "name": "Andaluz",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/andaluz",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "arched display serif",
+    "classification_notes": "A display serif built around a distinctive curved arch motif rather than a plain text face.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Slim",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Andaluz"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "arch",
+      "ornamental",
+      "superfamily"
+    ],
+    "summary": "A curved, arch-inspired display face named for the region that inspired it.",
+    "description": "Andaluz builds its letterforms around the curved arch, a nod to the architecture of Andalusia and the cultures it has connected. Eight weights, from Hairline to Black, give it a wide range for packaging and headline work.",
+    "foundry_blurb": "Andalusia, land of beautiful arches, ties different cultures together through a single curved form, and that idea sits at the heart of this typeface."
+  },
+  {
+    "name": "Bhang",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/bhang",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "playful street-sign display sans",
+    "classification_notes": "A bold, rounded display sans with a hand-painted signage feel.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bhang"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sans",
+      "rounded",
+      "street sign",
+      "playful"
+    ],
+    "summary": "A bouncy, rounded display sans modelled on hand-painted Indian street signage.",
+    "description": "Bhang takes its cue from the cheerful, chunky lettering seen on shopfronts and street signs across India, right down to the name of a well-known local intoxicant. Six weights carry it from light signage work to heavy poster use.",
+    "foundry_blurb": "Anyone who has travelled in India will already know Bhang, and this typeface borrows the same cheerful energy for its letterforms."
+  },
+  {
+    "name": "Brauer",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/brauer",
+    "designer": "František Štorm",
+    "year": 2015,
+    "category": "display",
+    "subcategory": "condensed poster slab",
+    "classification_notes": "A condensed slab-leaning display face aimed at bottle labels and posters, with lighter weights running notably narrow.",
+    "weights": [
+      "Weiss",
+      "Hell",
+      "Lager",
+      "Bock",
+      "Dunkel",
+      "Schwarz"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brauer"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "slab",
+      "condensed",
+      "brewery",
+      "poster"
+    ],
+    "summary": "A condensed poster slab named after the German word for brewer.",
+    "description": "Brauer began in 2015 as a branding study for a small brewery in northern Bohemia, and its six weights run from a slim style tight enough for bottle labels to a solid, sentimental heavyweight. Small caps, ligatures and oldstyle figures make it equally at home on posters and catalogues.",
+    "foundry_blurb": "Brauer is the German word for brewer, and it first appeared as part of a branding study for a small Bohemian brewery with German design roots."
+  },
+  {
+    "name": "Briefmarken",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/briefmarken",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "perforated stamp-effect display",
+    "classification_notes": "A textured novelty display face built from a perforated, stamp-like dot pattern.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Briefmarken"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "stencil",
+      "perforated",
+      "novelty",
+      "logo"
+    ],
+    "summary": "A display face perforated like a sheet of postage stamps.",
+    "description": "Briefmarken, German for postage stamps, is built from dotted, perforated strokes, styled to sit alongside a normal text face rather than replace it. Storm designed it to show how a distinctive custom font can do a logo's job.",
+    "foundry_blurb": "This one shows how a custom font can take over all of a logo's work, meant to be used next to a normal text face on posters, headlines and adverts."
+  },
+  {
+    "name": "Clichee",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/clichee",
+    "designer": "František Štorm",
+    "year": 1993,
+    "category": "display",
+    "subcategory": "hand-drawn outline slab",
+    "classification_notes": "A hand-drawn outline slab with an intentionally rough, juvenile character.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Clichee"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "slab",
+      "hand drawn",
+      "outline",
+      "novelty"
+    ],
+    "summary": "A wavy, hand-drawn outline slab left over from an early experiment with Fontographer.",
+    "description": "Clichee dates back to 1993, when Storm was still finding its feet with the first version of Fontographer, and its jagged outline drawing keeps that juvenile energy intact. It comes in four styles, including a proper italic and bold.",
+    "foundry_blurb": "Clichee is the result of some youthful messing about with the first version of Fontographer, back in 1993."
+  },
+  {
+    "name": "Cobra",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/cobra",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "blurred display serif",
+    "classification_notes": "A softened, blurred display serif rather than a face meant for continuous reading.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cobra"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "blurred",
+      "poster",
+      "experimental"
+    ],
+    "summary": "A soft, blurred display serif named after a snake hidden in one of its letters.",
+    "description": "Cobra takes a classical humanist skeleton and blurs its edges until the letters look softened, almost smudged. Storm says it holds up at any size, working equally well on big posters and in small, experimental books.",
+    "foundry_blurb": "It is a cross between a font and a slug, named after a tropical snake tucked into the letter g, or perhaps just an attempt to invent something properly new."
+  },
+  {
+    "name": "Compur",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/cuper",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "hand-drawn rounded display sans",
+    "classification_notes": "A loose, rounded hand-drawn display sans rather than a precision text face.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Compur"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sans",
+      "hand drawn",
+      "rounded",
+      "photography"
+    ],
+    "summary": "A rounded, hand-drawn display sans named after a famous camera shutter.",
+    "description": "Compur takes its name from one of the best-known photographic shutters of all time, and its loose, marker-drawn letterforms suit the darkroom nostalgia of its own specimen text. It comes in three weights, from Light to Bold.",
+    "foundry_blurb": "Compur takes its name from one of history's most famous photographic shutter mechanisms."
+  },
+  {
+    "name": "Enamelplate",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/enamelplate",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "vintage enamel-sign display lettering",
+    "classification_notes": "A condensed vintage advertising display face styled after painted enamel signage.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Enamelplate A",
+      "Enamelplate A Ghost",
+      "Enamelplate A Left Slanted",
+      "Enamelplate B",
+      "Enamelplate C",
+      "Enamelplate D"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "vintage",
+      "sign painting",
+      "condensed",
+      "advertising"
+    ],
+    "summary": "A bold vintage sign-painter's face modelled on enamel advertising plates.",
+    "description": "Enamelplate borrows its condensed capitals and slanted companion style from mid-century enamel shop signs, complete with a Ghost variant for that worn, weathered look. Storm built it in four core cuts plus the slanted and ghost extras.",
+    "foundry_blurb": "Repetition is what makes a poster face work, and this one is built to be read at a glance on adverts that people claim not to trust yet always end up reading."
+  },
+  {
+    "name": "Excelsor Script",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/excelsor-script",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "script",
+    "subcategory": "lithographic connecting script",
+    "classification_notes": "A connecting calligraphic script, distinct from the blackletter and display faces in the rest of this batch.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "10",
+      "120"
+    ],
+    "subfamilies": [
+      "Excelsor Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "calligraphic",
+      "lithographic",
+      "elegant",
+      "two optical sizes"
+    ],
+    "summary": "A flowing, lithographic script cut in two optical sizes for labels and headlines alike.",
+    "description": "Excelsor Script takes its cue from scripts produced by lithography rather than engraving, giving it a softer, simpler feel than Storm's own engraved Splendid Script. Its letters narrow slightly to save space on a line, and two optical grades cover everything from small labels to large display.",
+    "foundry_blurb": "Inspired by lithographically produced scripts, it reads softer and simpler than an engraved script, with narrowed letters that lend a quiet elegance without wasting space on the line."
+  },
+  {
+    "name": "Fenix",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/f",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "retro geometric display",
+    "classification_notes": "A rounded geometric display face with a deliberately retro, nostalgic character.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "21",
+      "22",
+      "23"
+    ],
+    "subfamilies": [
+      "Fenix 21",
+      "Fenix 22",
+      "Fenix 23"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "slab",
+      "retro",
+      "geometric",
+      "nostalgic"
+    ],
+    "summary": "A rounded, retro display face with a nostalgic seventies and eighties feel.",
+    "description": "Fenix leans on chunky, rounded geometric forms that recall late-seventies electronics and signage, drawn out across three related cuts (21, 22 and 23) with bold and italic companions. It suits headline work chasing a warm, analogue kind of retro-futurism.",
+    "foundry_blurb": "Fenix draws freely on the nostalgia of the late seventies and early eighties."
+  },
+  {
+    "name": "Friedhof",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/friedhof",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "narrow spooky display caps",
+    "classification_notes": "A narrow display face with a gravestone-lettering theme, not a true blackletter despite the graveyard subject.",
+    "weights": [
+      "Schmal",
+      "Text",
+      "Medium",
+      "Deko",
+      "Geist"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Friedhof Schmal",
+      "Friedhof Text",
+      "Friedhof Text Special",
+      "Friedhof Medium",
+      "Friedhof Deko",
+      "Friedhof Geist"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "narrow",
+      "spooky",
+      "gravestone",
+      "condensed"
+    ],
+    "summary": "A narrow, faintly spooky display face named after the German word for graveyard.",
+    "description": "Friedhof takes its cue from gravestone lettering, which Storm calls a fascinating record of the people it commemorates. Six styles run from a proper narrow Schmal cut through to the decorative Deko and Geist extras.",
+    "foundry_blurb": "Graveyards hold some of the most fascinating lettering around, each stone reflecting something of the person it remembers."
+  },
+  {
+    "name": "Gallus Konzept",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/gallus-konzept",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "script",
+    "subcategory": "Carolingian and uncial revival script",
+    "classification_notes": "Rounded uncial-style letterforms place this with the scripts, not the blackletters, despite its medieval sources.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gallus Konzept",
+      "Gallus Alt"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "uncial",
+      "carolingian",
+      "calligraphic",
+      "alternate letters"
+    ],
+    "summary": "An uncial-inspired script built on a Carolingian and Gaelic letterform concept.",
+    "description": "Gallus Konzept mixes Roman, Carolingian and Gaelic uncial letterforms into a single calligraphic concept, with a second Alt cut offering a more overtly uncial set of alternate letters. Three weights cover both the Konzept and Alt versions.",
+    "foundry_blurb": "This one works through a Carolingian, Roman and Gaelic uncial concept, built as a proper calligraphic script rather than a blackletter."
+  },
+  {
+    "name": "Hammertone",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/hammertone",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "industrial machine-label display slab",
+    "classification_notes": "An industrial, condensed slab-style display face rather than a text serif or sans.",
+    "weights": [
+      "Hairline",
+      "Light",
+      "Book",
+      "Text",
+      "Book Bold",
+      "Text Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hammertone"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "slab",
+      "industrial",
+      "poster",
+      "condensed"
+    ],
+    "summary": "A bold industrial slab modelled on fifties machine-label lettering.",
+    "description": "Hammertone borrows its texture and weight from the labels once stamped onto machinery in the 1950s, complete with initial and terminal forms that link up cleanly across a word. Seven weights with italics make it a properly flexible poster face.",
+    "foundry_blurb": "Hammertone takes its cue from the kind of typeface once used to label machinery back in the fifties."
+  },
+  {
+    "name": "Ideal Gothic",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/ideal-gothic",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "Victorian Gothic-revival grotesque",
+    "classification_notes": "Despite the name, this reads as a sans-serif grotesque in the old American sense of Gothic, not a blackletter, and its faint curved serifs confirm it.",
+    "weights": [
+      "Book",
+      "Regular",
+      "Book Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ideal Gothic"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "victorian",
+      "gothic revival",
+      "corporate"
+    ],
+    "summary": "A Victorian-style grotesque with just enough hidden serif to escape dullness.",
+    "description": "Ideal Gothic answers a very old complaint about monolinear alphabets being dull, adding subtle stroke contrast and quietly curved, hidden serifs instead of stripping decoration away altogether. Five weights with italics suit brochures, calendars, maps and corporate identity work.",
+    "foundry_blurb": "Turn-of-the-century typographers thought plain monolinear alphabets were dull, so they worked individuality into the strokes and added a little decoration, and Ideal Gothic carries on that habit with a correct, slightly bourgeois stiffness."
+  },
+  {
+    "name": "Libcziowes",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/libcziowes",
+    "designer": "František Štorm",
+    "year": 1591,
+    "category": "display",
+    "subcategory": "carved inscriptional display serif",
+    "classification_notes": "A flared, angular carved-inscription display serif rather than a blackletter or plain text face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Libcziowes"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "inscriptional",
+      "carved",
+      "serif",
+      "monumental"
+    ],
+    "summary": "An angular carved-lettering face named after a Bohemian gravestone covered edge to edge in text.",
+    "description": "Libcziowes takes its name and its flared, sharp-terminal letterforms from a spectacular 1591 gravestone in Libceves that is inscribed from top to bottom. It comes in a single weight, built for the same kind of monumental, attention-grabbing use.",
+    "foundry_blurb": "The remarkable Libceves gravestone of 1591 is covered from top to bottom, side to side, in lettering, and this typeface carries that same density of carved detail."
+  },
+  {
+    "name": "Lokal Script",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/lokal-script",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "script",
+    "subcategory": "playful connecting handwritten script",
+    "classification_notes": "A connecting handwritten script, not a blackletter or plain display face.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lokal Script"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "handwritten",
+      "playful",
+      "superfamily",
+      "variable"
+    ],
+    "summary": "A bold, bouncy handwritten script built as a full nine-weight superfamily.",
+    "description": "Lokal Script leans into the current appetite for handwriting styles, giving that chattiness and playfulness a proper weight range from Thin to Black, each with its own italic. It works equally well as a friendly headline face or a menu and packaging script.",
+    "foundry_blurb": "Handwritten typefaces are hugely popular for their chatty, playful character, and Lokal Script builds a full weight range around that appeal."
+  },
+  {
+    "name": "Modell",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/modell",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "industrial outline display sans",
+    "classification_notes": "A thin-stroke industrial outline display sans rather than a text face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Modell",
+      "Modell 2",
+      "Modell Envelo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sans",
+      "outline",
+      "industrial",
+      "brutalist"
+    ],
+    "summary": "A thin-lined industrial outline face drawn from childhood sketches of strange machines.",
+    "description": "Modell grew out of the designer's habit, as a boy, of drawing bizarre machinery, and its outline strokes carry an industrial, technical-drawing quality. Three related styles, Modell, Modell 2 and Modell Envelo, cover slightly different takes on the idea.",
+    "foundry_blurb": "As a boy, the designer used to draw bizarre machines, and Modell keeps something of that technical, sketchbook energy."
+  },
+  {
+    "name": "Mortal",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/mortal",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric brutalist experimental caps",
+    "classification_notes": "A stark, caps-only geometric display face in the brutalist mould.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mortal Whiteline",
+      "Mortal Ghost",
+      "Mortal Solid",
+      "Mortal Bold"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "brutalist",
+      "experimental",
+      "caps"
+    ],
+    "summary": "A geometric, brutalist caps-only experiment in four related finishes.",
+    "description": "Mortal strips its letterforms down to a stark geometric skeleton, then offers that same skeleton in four finishes: Whiteline, Ghost, Solid and Bold. It reads as a deliberately raw, experimental display face rather than a working text font.",
+    "foundry_blurb": "This one is a straightforward geometric brutalist experiment, built for effect rather than for setting text."
+  },
+  {
+    "name": "Negro",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/negro",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "fat-face display serif",
+    "classification_notes": "A heavyweight fat-face display serif in the nineteenth-century tradition, built for headlines rather than text.",
+    "weights": [
+      "Slim",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Negro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "fat face",
+      "bold",
+      "19th century"
+    ],
+    "summary": "A dark, heavyweight fat-face serif named after the Spanish word for black.",
+    "description": "Negro takes its inspiration from the dark, spicy display faces of the nineteenth century, built with an unusually generous set of ligatures, ampersands and figure styles. Five weights, from Slim to Black, keep it flexible for packaging and headline work.",
+    "foundry_blurb": "Dark, spicy and distinctive nineteenth-century display faces were the starting point for this one."
+  },
+  {
+    "name": "Patzcuaro",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/patzcuaro",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "serif",
+    "subcategory": "vintage travel-poster display serif",
+    "classification_notes": "A genuine serif structure built for display and travel-branding use, with a companion narrow cut.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Estrecho"
+    ],
+    "subfamilies": [
+      "Patzcuaro",
+      "Patzcuaro Estrecho"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "travel",
+      "vintage",
+      "condensed"
+    ],
+    "summary": "A vintage travel-poster serif named after a lakeside town in Michoacán.",
+    "description": "Patzcuaro takes its elegant capitals from the roadside and travel signage of Mexico, with an Estrecho cut narrowing the letters for tighter spaces. It suits packaging and headline work chasing a warm, well-travelled feel.",
+    "foundry_blurb": "Patzcuaro is a summer resort by a lake of the same name, and this typeface carries some of that place's warmth into its lettering."
+  },
+  {
+    "name": "Pivo",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/pivo",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "script",
+    "subcategory": "brush script for beverage branding",
+    "classification_notes": "A connected brush script rather than a blackletter or plain display face, despite the German-beer-adjacent batch it sits in.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pivo",
+      "Pivo Shadowed"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "brush",
+      "beverage",
+      "branding",
+      "playful"
+    ],
+    "summary": "A brush script named after the Czech word for beer.",
+    "description": "Pivo offers official-looking flourish for beer labels and menus, in a flowing connected script with a separate Shadowed version for extra depth. It is built specifically with drinks branding in mind.",
+    "foundry_blurb": "Pivo exists to give official-looking flourish to bottle labels, menus and anything else that needs a bit of beverage charm."
+  },
+  {
+    "name": "Politic",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/politic",
+    "designer": "František Štorm",
+    "year": 2004,
+    "category": "display",
+    "subcategory": "condensed campaign-poster display sans",
+    "classification_notes": "A bold condensed campaign-poster display sans rather than a text face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Politic A",
+      "Politic B",
+      "Politic C",
+      "Politic D"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sans",
+      "condensed",
+      "campaign",
+      "poster"
+    ],
+    "summary": "A bold condensed poster sans first cut for a Czech political campaign.",
+    "description": "Politic was drawn for the Green Party's 2004 regional election campaign in South Bohemia, and its condensed capitals still carry that campaign-poster urgency. Four related cuts, A through D, give it some stylistic range.",
+    "foundry_blurb": "The Politic ABCD font was created for a 2004 regional election campaign, and it still reads like a poster shouting from a lamp post."
+  },
+  {
+    "name": "Populus",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/populus",
+    "designer": "František Štorm, with Jan Solpera",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans superfamily",
+    "classification_notes": "A geometric sans superfamily rather than a decorative face, built on a classical Roman capital skeleton.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Display"
+    ],
+    "subfamilies": [
+      "Populus"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "geometric",
+      "superfamily",
+      "variable",
+      "playful"
+    ],
+    "summary": "A playful geometric sans built on the skeleton of Roman capitals.",
+    "description": "Populus arrived after an update to Storm's serif Areplos, conceived as a more robust, monolinear sans counterpart with input from designer Jan Solpera. Nine weights across text and display optical sizes give it real range, plus a generous set of alternate characters.",
+    "foundry_blurb": "Described as a variation on a Solpera-esque theme, Populus followed an update to Areplos as an attempt at a sturdier, monolinear sans companion, built with advice from Jan Solpera himself."
+  },
+  {
+    "name": "Rondka",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/rondka",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "script",
+    "subcategory": "round-nib calligraphic script",
+    "classification_notes": "A calligraphic round-nib script rather than a blackletter, built around flowing pen strokes.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rondka",
+      "Rondka Bold",
+      "Rondka Urtyp"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "calligraphic",
+      "round nib",
+      "elegant",
+      "nostalgic"
+    ],
+    "summary": "A round-nib calligraphic script built as a reminder of pen-and-ink lettering.",
+    "description": "Rondka brings back the flat, rounded nib pen that most people have forgotten how to use, pairing a flowing capital R with an equally elegant ampersand. It comes in Regular, Bold and an original Urtyp cut.",
+    "foundry_blurb": "Rondka is a sentimental nod to anyone who has forgotten what a rounded, flat-nib pen actually is."
+  },
+  {
+    "name": "Rooftiles",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/rooftiles",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "3D-shadow vintage label display serif",
+    "classification_notes": "A shadowed, dimensional display serif built for vintage label and signage work.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Medium Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rooftile"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "serif",
+      "3d shadow",
+      "vintage",
+      "label"
+    ],
+    "summary": "A shadowed vintage label serif dreamed up while staring at a ceiling in Goa.",
+    "description": "Rooftiles adds a dimensional drop shadow to a small-caps serif structure, giving it the look of an embossed tavern or distillery label. Five weights cover everything from light text to bold headline use.",
+    "foundry_blurb": "The idea for Rooftiles came from staring at the ceiling during siesta time in Goa."
+  },
+  {
+    "name": "Splendid Quartett",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/splendid-quartett",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "script",
+    "subcategory": "engraved-style script, serif and sans branding quartet",
+    "classification_notes": "A coordinated four-style branding superfamily led by its script; the serif and sans companions share the same coordinated design language.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Splendid Script",
+      "Splendid Serif",
+      "Splendid Serif Bold",
+      "Splendid Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "superfamily",
+      "branding",
+      "perfume",
+      "packaging"
+    ],
+    "summary": "A coordinated script, serif and sans quartet built for fragrance and wine branding.",
+    "description": "Splendid Quartett bundles a flowing script with matching serif, bold serif and sans companions, blended, as Storm puts it, from the best typographic ingredients on hand for perfume and wine packaging. The elegant Splendid Script leads the set, with the other three styles built to sit alongside it.",
+    "foundry_blurb": "Fonts for fragrance and wine, blended from the finest typographic ingredients Storm had on hand, with a little love thrown in."
+  },
+  {
+    "name": "Stencilul",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/stencilul",
+    "designer": "František Štorm",
+    "year": 2007,
+    "category": "display",
+    "subcategory": "chunky stencil display",
+    "classification_notes": "A chunky single-weight stencil display face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Stencilul"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "stencil",
+      "chunky",
+      "romanian",
+      "poster"
+    ],
+    "summary": "A chunky stencil display face spotted on the streets of Bucharest.",
+    "description": "Stencilul takes its name from the Romanian word for stencil, after its designer noticed an unusual stencil face in Bucharest in 2007 with a distinctive horizontal double strikethrough. It comes in a single heavyweight style, built for posters and signage.",
+    "foundry_blurb": "Storm's designer spotted an unusual stencil typeface in Bucharest in 2007, one with a distinctive horizontal double strikethrough, and Stencilul is the result."
+  },
+  {
+    "name": "Technomat",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/technomat",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "mono",
+    "subcategory": "pixel dot-matrix display mono",
+    "classification_notes": "A genuine monospaced pixel and dot-matrix face, hence the mono category rather than plain display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Technomat"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "mono",
+      "pixel",
+      "dot matrix",
+      "display",
+      "retro"
+    ],
+    "summary": "A rounded dot-matrix face modelled on fifties-style printer output.",
+    "description": "Technomat rebuilds the look of matrix dot printer output with softened, rounded edges, working just as well at tiny sizes as it does blown up on a poster. Its fixed-width pixel structure makes it a genuine monospace novelty face.",
+    "foundry_blurb": "Technomat is a matrix dot printer font with rounded edges, equally at home at extremely small sizes and blown up large on posters."
+  },
+  {
+    "name": "Traktoretka",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/traktoretka",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "slab",
+    "subcategory": "geometric experimental slab display",
+    "classification_notes": "A genuine geometric slab serif construction, distinguishing it from the purely decorative display faces around it.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Traktoretka",
+      "Traktoretka Grad",
+      "Traktoretka Outline"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "geometric",
+      "experimental",
+      "outline",
+      "gradient"
+    ],
+    "summary": "An experimental geometric slab serif with outline and gradient finishes.",
+    "description": "Traktoretka offers a bold geometric slab structure alongside Grad and Outline variants that create striking overlap effects when layered. Storm built it as a capital-lettering specialist, exactly as its own specimen text claims.",
+    "foundry_blurb": "This experimental geometric slab serif comes with outline and gradient styles that create interesting effects when overlapped."
+  },
+  {
+    "name": "Coroner",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/coroner",
+    "designer": "František Štorm",
+    "year": 1988,
+    "category": "blackletter",
+    "subcategory": "fraktur blackletter revival",
+    "classification_notes": "True broken, angular fraktur letterforms confirm this as a genuine blackletter revival, not a horror-display face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Coroner"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "fraktur",
+      "gothic",
+      "display",
+      "horror"
+    ],
+    "summary": "A classic fraktur blackletter that never needed digitising until now.",
+    "description": "Coroner started life as an early design from 1988 that Storm never got round to putting into digital form, later associated with the Czech band Master's Hammer's Fascinatour project. It comes in a single weight, dense with fraktur ligatures and swashes.",
+    "foundry_blurb": "This early design from 1988 sat undigitised for decades before finally becoming Coroner."
+  },
+  {
+    "name": "Dracula",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/dracula",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "fraktur blackletter with swashes",
+    "classification_notes": "Genuine fraktur blackletter construction with heavy swash and ligature detailing.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dracula",
+      "Dracula Inline"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "fraktur",
+      "gothic",
+      "horror",
+      "swashes"
+    ],
+    "summary": "A swash-heavy fraktur blackletter named after the most famous vampire in fiction.",
+    "description": "Dracula leans hard into blackletter drama, with a huge set of ligatures and swashes and a separate Inline companion cut. Five weights, plus a variable font version, run from Light to Black.",
+    "foundry_blurb": "Blackletter remains the sharpest way to radicalise a piece of typographic expression, and Dracula takes that idea to its most theatrical extreme."
+  },
+  {
+    "name": "Dream Within A Dream",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/dream-within-a-dream",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "ornamental art nouveau blackletter",
+    "classification_notes": "Broken, angular strokes place this with the blackletters, even though its curling flourishes give it a strong ornamental, Art Nouveau character.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dream Within A Dream"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "ornamental",
+      "art nouveau",
+      "decorative",
+      "poetic"
+    ],
+    "summary": "An ornamental blackletter built for decadent artists and named after Poe's poem.",
+    "description": "Dream Within A Dream mixes broken gothic strokes with curling Art Nouveau flourishes, styled for exhibition catalogues and other decadent-minded printed matter. It comes in a single, elaborate weight.",
+    "foundry_blurb": "Decadent artists need a special typeface for their exhibitions and catalogues, and this one was built with exactly that crowd in mind."
+  },
+  {
+    "name": "Hexenrunen",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/hexenrunen",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "display",
+    "subcategory": "geometric runic display",
+    "classification_notes": "The letterforms are monolinear and geometric rather than broken fraktur strokes, so this sits with the display faces despite its witchy, blackletter-adjacent name and Storm's own blackletter tag.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hexenrunen",
+      "Hexenrunen Reverb"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "runic",
+      "electronic music",
+      "experimental"
+    ],
+    "summary": "A geometric, runic-looking display face named after German witch runes.",
+    "description": "Hexenrunen was originally intended for an obscure electronic music project that never saw the light of day, and its monolinear, angular caps read more like invented runes than true blackletter. It comes in a Regular and a mirrored Reverb cut.",
+    "foundry_blurb": "This one was originally meant for a certain obscure electronic music project that, in the end, never got released."
+  },
+  {
+    "name": "Julinka",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/julinka",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "fraktur blackletter with careful diacritics",
+    "classification_notes": "True broken fraktur blackletter construction, with unusually thorough diacritic support for the genre.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Julinka"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "fraktur",
+      "diacritics",
+      "gothic",
+      "calligraphic"
+    ],
+    "summary": "A fraktur blackletter designed for the type designer's own daughter.",
+    "description": "Julinka was made for Storm's daughter, with particular care given to how diacritics behave within a blackletter structure. Five weights, from Light to Black, plus a variable font, give it real range for a genre that is often single-weight only.",
+    "foundry_blurb": "Made for the designer's daughter, with the instruction to enjoy her own gothic style, and font use in the real world remains the most interesting stage of a typeface's life."
+  },
+  {
+    "name": "Monarchia",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/monarchia",
+    "designer": "František Štorm, after Rudolf Koch",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "fraktur blackletter revival",
+    "classification_notes": "A true fraktur blackletter revival of a historical Rudolf Koch design, elegantly calligraphic in structure.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Text"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Monarchia"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "fraktur",
+      "revival",
+      "swashes",
+      "historical"
+    ],
+    "summary": "A digital revival of Rudolf Koch's Frühling, dressed with modern OpenType swashes.",
+    "description": "Monarchia is Storm's digital rendering of Frühling, the historic blackletter originally drawn by German designer Rudolf Koch, brought up to date with swashes, alternates and ligatures as proper OpenType features. It comes in Regular, Bold and a Text cut for smaller sizes.",
+    "foundry_blurb": "This digital rendering of Rudolf Koch's Frühling adds swashes, alternates and ligatures as OpenType features."
+  },
+  {
+    "name": "Moyenage",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/moyenage",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "gothic blackletter superfamily",
+    "classification_notes": "True broken blackletter construction, built out into a full weight and width superfamily.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Ultra Condensed",
+      "Condensed",
+      "Regular",
+      "Expanded",
+      "Extra Expanded",
+      "Ultra Expanded"
+    ],
+    "subfamilies": [
+      "Moyenage"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "gothic",
+      "superfamily",
+      "variable",
+      "medieval"
+    ],
+    "summary": "A broken gothic superfamily named after the French for the Middle Ages.",
+    "description": "Moyenage takes its name from the French moyen-âge, and by 2026 has grown into a proper superfamily: six weights across six widths, from Ultra Condensed to Ultra Expanded. It carries a stylised, angular medieval character throughout.",
+    "foundry_blurb": "Moyenage has just turned eighteen this spring, a fully grown medieval bachelor of a typeface by now."
+  },
+  {
+    "name": "Moyenage Sans",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/moyenage-sans",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "blackletter-inspired experimental sans superfamily",
+    "classification_notes": "Explicitly the sans-serif companion to the blackletter Moyenage family, so classified as sans-serif despite the shared name and medieval concept.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Ultra Condensed",
+      "Extra Condensed",
+      "Condensed",
+      "Semi Condensed",
+      "Regular",
+      "Semi Expanded",
+      "Expanded",
+      "Extra Expanded",
+      "Ultra Expanded"
+    ],
+    "subfamilies": [
+      "Moyen"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "superfamily",
+      "variable",
+      "gothic-inspired",
+      "cyrillic"
+    ],
+    "summary": "The sans-serif companion to Moyenage, keeping its medieval flavour without the broken strokes.",
+    "description": "Moyenage Sans reinterprets its blackletter sibling as a clean sans, described by Storm as an experimental project suited to music packaging, invitations and offbeat lettering. Nine weights across nine widths make it one of the foundry's largest sans releases, with genuine Cyrillic support built in.",
+    "foundry_blurb": "Where the calligraphic Moyenage family suits shorter texts and posters, this sans-serif variant is more experimental, built for record covers, odd inscriptions and invitations."
+  },
+  {
+    "name": "Plagwitz",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/plagwitz",
+    "designer": "František Štorm",
+    "year": 2000,
+    "category": "blackletter",
+    "subcategory": "fraktur blackletter",
+    "classification_notes": "Full fraktur blackletter alphabet in a single dense weight.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Plagwitz"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "fraktur",
+      "gothic",
+      "historical",
+      "display"
+    ],
+    "summary": "A dense fraktur blackletter named after Leipzig's book-craft quarter.",
+    "description": "Plagwitz takes its name from the Leipzig district that hosted the 2000 ATypI Congress at its book-craft museum and workshops, a fitting home for a proper fraktur revival. It comes in a single, richly detailed weight.",
+    "foundry_blurb": "Plagwitz is named after the part of Leipzig where the Werkstätten and Museum für Buchkunst are found, once host to the 2000 ATypI Congress."
+  },
+  {
+    "name": "Spiritist",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/spiritist",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "monolinear blackletter",
+    "classification_notes": "Storm's own description confirms this as a monolinear blackletter, stripped of the usual stroke contrast but still built on calligraphic bones.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Spiritist"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "monolinear",
+      "geometric",
+      "calligraphic",
+      "legible"
+    ],
+    "summary": "A monolinear blackletter reduced to its pure geometric skeleton.",
+    "description": "Spiritist keeps blackletter's calligraphic, round-nib pen structure but strips away the usual contrast, leaving naive, simplified forms that stay legible at almost any size. Five weights, from Thin to Black, add swashes and decorative endings for festive use.",
+    "foundry_blurb": "Blackletter is usually known for contrasty, sharp-edged shapes with a certain emotional weight, but here the aim was to follow its pure schematic skeleton instead, landing on naive, simplified forms that read clearly at any size."
+  },
+  {
+    "name": "Wittingau",
+    "foundry": "Storm Type Foundry",
+    "url": "https://www.stormtype.com/families/wittingau",
+    "designer": "František Štorm",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "ornamental gothic blackletter",
+    "classification_notes": "True gothic blackletter construction, accompanied by a matching ornamental symbols font.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Wittingau",
+      "Wittingau Symbols"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "ornamental",
+      "gothic",
+      "historical",
+      "symbols"
+    ],
+    "summary": "A blackletter named after the German name for the South Bohemian town of Třeboň.",
+    "description": "Wittingau pairs a proper gothic text structure with a companion Symbols font of floral ornaments, evoking the monastic and herbal history of the region around Storm's own studio. Three weights, Regular, Medium and Bold, cover the main alphabet.",
+    "foundry_blurb": "Wittingau is the old German name for Třeboň, the beautiful South Bohemian town near the designer's own studio."
+  }
+]

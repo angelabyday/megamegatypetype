@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Beltram",
+    "foundry": "Domicile Foundry",
+    "url": "https://domicilefoundry.com/typefaces/beltram",
+    "designer": "Joona Louhi",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A bold, versatile grotesque sans built across six weights with italics, placing it in the standard grotesque category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Beltram",
+      "Beltram Mono",
+      "Dolph"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "versatile",
+      "editorial",
+      "branding"
+    ],
+    "summary": "A confident grotesque sans in six weights with italics, anchoring the wider Beltram type system.",
+    "description": "Beltram is a bold grotesque sans developed over five years, running Light through Black with matching italics for a full 12 styles. It anchors a wider family that includes a monospaced cut and the display variant Dolph.",
+    "foundry_blurb": "Domicile Foundry list Beltram as a 12-style family, priced from single styles to a full family licence, designed by Joona Louhi between 2018 and 2023."
+  },
+  {
+    "name": "Beltram Mono",
+    "foundry": "Domicile Foundry",
+    "url": "https://domicilefoundry.com/typefaces/beltram-mono",
+    "designer": "Joona Louhi",
+    "year": 2023,
+    "category": "mono",
+    "subcategory": "monospaced grotesque",
+    "classification_notes": "The fixed-width companion to Beltram, sharing its grotesque structure but built for tabular and code use, placing it in the mono category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Beltram",
+      "Beltram Mono",
+      "Dolph"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "grotesque",
+      "code",
+      "tabular"
+    ],
+    "summary": "The monospaced companion to Beltram, in six weights with italics.",
+    "description": "Beltram Mono carries the parent family's grotesque structure into a fixed-width form, running Light through Black with italics for 12 styles in total.",
+    "foundry_blurb": "Domicile Foundry list Beltram Mono as a 12-style family designed by Joona Louhi between 2018 and 2023, priced from single styles to a full family licence."
+  },
+  {
+    "name": "Chauffeur",
+    "foundry": "Domicile Foundry",
+    "url": "https://domicilefoundry.com/typefaces/chauffeur",
+    "designer": "Joona Louhi",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "compressed grotesque",
+    "classification_notes": "A compressed grotesque sans available only in a narrow width, placing it in the condensed grotesque category.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Chauffeur Compressed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "condensed",
+      "grotesque",
+      "variable",
+      "headline"
+    ],
+    "summary": "A compressed grotesque sans built as a variable font, running five weights with italics.",
+    "description": "Chauffeur is a tightly compressed grotesque, developed over eight years and shipped as ten static styles plus a variable font covering weight and slant. Its narrow width makes it suited to tight headline space and editorial packaging.",
+    "foundry_blurb": "Domicile Foundry describe Chauffeur as a 2016-2024 family with 10 styles plus a variable font, designed by Joona Louhi."
+  },
+  {
+    "name": "Dolph",
+    "foundry": "Domicile Foundry",
+    "url": "https://domicilefoundry.com/typefaces/dolph",
+    "designer": "Joona Louhi",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "grotesque display (multi-width)",
+    "classification_notes": "A display variant of the Beltram grotesque system running across three experimental width groups, placing it in the grotesque display category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "KOO",
+      "KAA",
+      "YY"
+    ],
+    "subfamilies": [
+      "Dolph KOO",
+      "Dolph KAA",
+      "Dolph YY"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "display",
+      "experimental",
+      "multi-width"
+    ],
+    "summary": "A display offshoot of the Beltram system, split into three differently-proportioned width groups.",
+    "description": "Dolph takes the Beltram family into more experimental territory, split into three width groups named KOO, KAA and YY, each running four weights with italics for 24 styles in total.",
+    "foundry_blurb": "Domicile Foundry list Dolph as part of the Beltram family, a 24-style release from 2020 to 2024 designed by Joona Louhi, sold as three separate width groups."
+  },
+  {
+    "name": "Larsen",
+    "foundry": "Domicile Foundry",
+    "url": "https://domicilefoundry.com/typefaces/larsen",
+    "designer": "Joona Louhi",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "grotesque display (multi-width, bold only)",
+    "classification_notes": "A single-weight grotesque offered across four widths from condensed to extended, placing it in the grotesque display category.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Narrow",
+      "Standard",
+      "Extended"
+    ],
+    "subfamilies": [
+      "Larsen",
+      "Larsen Narrow",
+      "Larsen Condensed",
+      "Larsen Extended"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "condensed",
+      "extended",
+      "display",
+      "headline"
+    ],
+    "summary": "A single-weight grotesque display face spanning four widths from condensed to extended.",
+    "description": "Larsen keeps a single Bold weight but runs it across Condensed, Narrow, Standard and Extended widths, giving four distinct headline styles from one grotesque skeleton.",
+    "foundry_blurb": "Domicile Foundry list Larsen as a 2019-2022 release with 4 styles, designed by Joona Louhi and covering Bold Condensed through Bold Extended."
+  },
+  {
+    "name": "Louche",
+    "foundry": "Domicile Foundry",
+    "url": "https://domicilefoundry.com/typefaces/louche",
+    "designer": "Joona Louhi",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "high-contrast fashion display sans",
+    "classification_notes": "An extremely condensed, high-contrast sans with fashion-magazine styling, placing it in the display category despite its sans construction.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Louche"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "condensed",
+      "fashion"
+    ],
+    "summary": "An ultra-condensed, high-contrast display sans with a fashion-magazine sensibility, in five weights.",
+    "description": "Louche is a tightly condensed display sans with extreme stroke contrast, closer to a fashion masthead face than a working text sans. Five weights run Regular through Black.",
+    "foundry_blurb": "Domicile Foundry list Louche as a 2019-2024 release with 5 styles, designed by Joona Louhi, running Regular through Black."
+  },
+  {
+    "name": "Rondeau",
+    "foundry": "Domicile Foundry",
+    "url": "https://domicilefoundry.com/typefaces/rondeau",
+    "designer": "Joona Louhi",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A wide-ranging grotesque sans spanning Thin to Black with italics, placing it in the standard grotesque category with unusually broad range.",
+    "weights": [
+      "Thin",
+      "Extralight",
+      "Light",
+      "Regular",
+      "Bold",
+      "Extrabold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rondeau"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "versatile",
+      "text",
+      "editorial"
+    ],
+    "summary": "A wide-ranging grotesque sans running from Thin to Black with matching italics.",
+    "description": "Rondeau is Domicile Foundry's broadest grotesque, developed over eight years to cover seven weights with italics for 14 styles, giving it enough range for both text and display use.",
+    "foundry_blurb": "Domicile Foundry list Rondeau as a 2017-2025 release with 14 styles, designed by Joona Louhi, running Thin through Black."
+  }
+]

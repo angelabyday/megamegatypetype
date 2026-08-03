@@ -1,0 +1,1424 @@
+[
+  {
+    "name": "29LT Idris Sharp",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-idris-sharp/",
+    "designer": "Pascal Zoghbi (Arabic), Linda Hintz (Latin)",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "Naskh / Latin serif-sans hybrid",
+    "classification_notes": "Blends a contemporary Arabic Naskh style with both Latin serif and sans forms, classed as serif for its calligraphic baseline slant and contrast.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Idris Sharp",
+      "29LT Idris Flat",
+      "29LT Idris Round",
+      "29LT Idris Pure AL"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "naskh",
+      "bi-scriptual",
+      "display",
+      "editorial",
+      "variable"
+    ],
+    "summary": "A bi-scriptual Naskh system pairing sharp, high-contrast Arabic calligraphy with a matching Latin serif and sans.",
+    "description": "29LT Idris Sharp is a contemporary Arabic Naskh design inspired by a 1950s typeface, skilfully blending Naskh styles with Latin serif and sans forms. The Sharp cut favours display text, with calligraphic baseline slant, contextual alternates and a three-axis variable font across five weights.",
+    "foundry_blurb": "29LT describe Idris Sharp as blending Arabic Naskh styles with Latin serif and sans serif styles, built for display text with advanced OpenType capabilities including contextual alternates and a calligraphic baseline slant."
+  },
+  {
+    "name": "29LT Idris Flat",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-idris-flat/",
+    "designer": "Pascal Zoghbi (Arabic), Linda Hintz (Latin)",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "Naskh / Latin serif-sans hybrid",
+    "classification_notes": "The blunt, neutral-cut member of the Idris system, still classed as serif for its Latin serif companion and calligraphic Arabic baseline.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Idris Sharp",
+      "29LT Idris Flat",
+      "29LT Idris Round",
+      "29LT Idris Pure AL"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "naskh",
+      "bi-scriptual",
+      "display",
+      "editorial",
+      "variable"
+    ],
+    "summary": "The blunt, low-contrast cut of the Idris Naskh system, with straight terminals across Arabic and Latin.",
+    "description": "29LT Idris Flat takes the Idris system's Naskh-meets-Latin structure and flattens it into a blunt, neutral-cut Neo-Ruqʿah-adjacent style with straight terminals and low contrast, keeping the calligraphic baseline slant and contextual OpenType features of the family.",
+    "foundry_blurb": "29LT describe Idris Flat as merging Arabic Naskh styles with Latin serif and sans serif styles, emphasising high legibility through modern design and advanced OpenType features."
+  },
+  {
+    "name": "29LT Idris Round",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-idris-round/",
+    "designer": "Pascal Zoghbi (Arabic), Linda Hintz (Latin), Krista Radoeva (Latin)",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "Naskh / Latin serif-sans hybrid",
+    "classification_notes": "The rounded, casual cut of the Idris system, still classed as serif given its Latin serif companion and Naskh-derived Arabic.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Idris Sharp",
+      "29LT Idris Flat",
+      "29LT Idris Round",
+      "29LT Idris Pure AL"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "naskh",
+      "bi-scriptual",
+      "display",
+      "casual",
+      "variable"
+    ],
+    "summary": "A rounded, casual-set member of the Idris Naskh system with a Swash and Kashida-equipped variable font.",
+    "description": "29LT Idris Round softens the Idris system into rounded letterforms suited to casual typesetting, one of four stylistic versions of a contemporary Arabic Naskh design blending Naskh and Latin serif and sans forms. Its variable font carries Weight, Swash and Kashida axes.",
+    "foundry_blurb": "29LT describe Idris Round as part of a larger Idris system with four stylistic versions, this variant featuring rounded letterforms suited to casual typesetting with advanced OpenType features."
+  },
+  {
+    "name": "29LT Idris Pure AL",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-idris-pure-al/",
+    "designer": "Pascal Zoghbi (Arabic), Linda Hintz (Latin), Krista Radoeva (Latin)",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "Naskh / Latin humanist sans",
+    "classification_notes": "The plainest member of the Idris system pairs its Naskh Arabic with a Latin humanist sans rather than a serif, so it sits in the sans-serif category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Idris Sharp",
+      "29LT Idris Flat",
+      "29LT Idris Round",
+      "29LT Idris Pure AL"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "naskh",
+      "bi-scriptual",
+      "humanist",
+      "variable"
+    ],
+    "summary": "The humanist-sans cut of the Idris Naskh system, pairing plain Latin sans letterforms with calligraphic Arabic.",
+    "description": "29LT Idris Pure AL pairs a Latin humanist sans with the Idris system's Naskh-derived Arabic, carrying the same calligraphic baseline slant and Weight, Swash and Kashida variable axes as its siblings.",
+    "foundry_blurb": "29LT describe Idris Pure AL as blending Arabic Naskh styles with Latin serif and sans serif styles, with advanced OpenType capabilities including contextual alternates and variable font axes for weight, swash and kashida."
+  },
+  {
+    "name": "29LT Ada Sharp",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-ada-sharp/",
+    "designer": "Pascal Zoghbi (Arabic), Toshi Omagari (Latin)",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "Ruqʿah calligraphic display",
+    "classification_notes": "Steep cuts and pointy, high-contrast terminals modelled on Ruqʿah calligraphy place this firmly as a headline-only display face.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Ada Sharp",
+      "29LT Ada Flat",
+      "29LT Ada Round"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "ruqah",
+      "display",
+      "calligraphic",
+      "headline",
+      "award-winning"
+    ],
+    "summary": "A steep, high-contrast display system based on Ruqʿah calligraphy, winner of a TDC69 Typographic Excellence award.",
+    "description": "29LT Ada Sharp is a contemporary type design based on the Ruqʿah Arabic calligraphic style, with steep cuts, pointy terminals and high contrast mirroring traditional calligraphic aesthetics. It runs to six weights plus a variable font and picked up a TDC69 Typographic Excellence award in 2023.",
+    "foundry_blurb": "29LT describe Ada as a contemporary type design based on the Ruqʿah Arabic calligraphic style, with the Sharp cut functioning as a display face with steep cuts, pointy terminals and high contrast closely mirroring traditional calligraphy."
+  },
+  {
+    "name": "29LT Ada Flat",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-ada-flat/",
+    "designer": "Pascal Zoghbi (Arabic), Toshi Omagari (Latin)",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "Ruqʿah calligraphic display",
+    "classification_notes": "A blunt, low-contrast Neo-Ruqʿah cut for display and body text, kept in the display category alongside its Ada siblings for its calligraphic Arabic basis.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Ada Sharp",
+      "29LT Ada Flat",
+      "29LT Ada Round"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "ruqah",
+      "display",
+      "neo-calligraphic",
+      "headline"
+    ],
+    "summary": "The blunt, low-contrast Neo-Ruqʿah cut of the Ada system, straight terminals in place of Ada Sharp's pointed calligraphy.",
+    "description": "29LT Ada Flat takes the Ada system's Ruqʿah-derived structure and blunts it into a Neo-Ruqʿah style, with neutral cuts, straight terminals and low contrast that still emphasises pen-stroke flow across six weights and a variable font.",
+    "foundry_blurb": "29LT describe Ada Flat as a blunt typeface with neutral cuts, straight terminals and low contrast, representing a Neo-Ruqʿah approach that emphasises pen stroke flow while minimising calligraphic embellishment."
+  },
+  {
+    "name": "29LT Ada Round",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-ada-round/",
+    "designer": "Pascal Zoghbi (Arabic), Toshi Omagari (Latin)",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "Ruqʿah-derived rounded sans",
+    "classification_notes": "Smooth, homogeneous rounded weight distribution suited to smaller sizes moves this cut of Ada into sans-serif rather than pure display.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Ada Sharp",
+      "29LT Ada Flat",
+      "29LT Ada Round"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "ruqah",
+      "rounded",
+      "text",
+      "cursive"
+    ],
+    "summary": "A rounded, ballpoint-pen-flavoured cut of the Ada system built for smaller, text-level sizes.",
+    "description": "29LT Ada Round softens the Ada system's Ruqʿah basis into smooth cuts closer to handwriting with a ballpoint pen, with homogeneous weight distribution across six weights that makes it workable at smaller point sizes rather than headline-only.",
+    "foundry_blurb": "29LT describe Ada Round as featuring smooth cuts approaching handwriting style with a ballpoint pen, functioning as a text or body typeface with homogeneous weight distribution suitable for smaller point sizes."
+  },
+  {
+    "name": "29LT Bukra",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-bukra/",
+    "designer": "Pascal Zoghbi (Arabic), Swiss Typefaces (Latin)",
+    "year": 2007,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque",
+    "classification_notes": "A mono-linear geometric sans pairing Kufic-structured Arabic with a Latin grotesque, the normal width of a five-width, ten-weight system.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Bukra",
+      "29LT Bukra Cond",
+      "29LT Bukra Semi Cond",
+      "29LT Bukra Semi Wide",
+      "29LT Bukra Wide"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "geometric",
+      "grotesque",
+      "bi-scriptual",
+      "variable",
+      "branding"
+    ],
+    "summary": "A mono-linear geometric sans meaning 'tomorrow' in Arabic, with Kufic-structured Arabic and a minimalist Latin grotesque across ten weights and five widths.",
+    "description": "29LT Bukra pairs Kufic-structured Arabic letterforms with a minimalist Latin sans-serif, in an extremely refined, sleek mono-linear structure. The normal width runs to ten weights from Hairline to Black, each with a slanted companion, across a 94-style, five-width system with variable fonts included.",
+    "foundry_blurb": "29LT describe Bukra as a contemporary geometric typeface with extreme refinement and a sleek mono-linear structure, its name meaning tomorrow in Arabic, merging Arabic Kufic structure with a large-body-height Latin sans."
+  },
+  {
+    "name": "29LT Bukra Cond",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-bukra-cond/",
+    "designer": "Pascal Zoghbi (Arabic), Swiss Typefaces (Latin)",
+    "year": 2007,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque, condensed",
+    "classification_notes": "The narrow, tall-proportioned condensed cut of the Bukra system.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Bukra",
+      "29LT Bukra Cond",
+      "29LT Bukra Semi Cond",
+      "29LT Bukra Semi Wide",
+      "29LT Bukra Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "geometric",
+      "grotesque",
+      "condensed",
+      "bi-scriptual",
+      "variable"
+    ],
+    "summary": "The narrow, tall-proportioned condensed cut of the Bukra geometric sans system.",
+    "description": "29LT Bukra Cond narrows the Bukra system's mono-linear geometric structure into tall, condensed proportions, keeping the Kufic-derived Arabic and minimalist Latin sans pairing across eight weights plus slanted and variable versions.",
+    "foundry_blurb": "29LT describe Bukra Cond as presenting narrow, tall proportions within the same extremely refined, mono-linear Bukra structure, merging Arabic Kufic-based letterforms with minimalist Latin sans characters."
+  },
+  {
+    "name": "29LT Bukra Semi Cond",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-bukra-semi-cond/",
+    "designer": "Pascal Zoghbi (Arabic), Swiss Typefaces (Latin)",
+    "year": 2007,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque, semi-condensed",
+    "classification_notes": "The semi-condensed width step between Bukra Cond and the normal width.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Bukra",
+      "29LT Bukra Cond",
+      "29LT Bukra Semi Cond",
+      "29LT Bukra Semi Wide",
+      "29LT Bukra Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "geometric",
+      "grotesque",
+      "semi-condensed",
+      "bi-scriptual",
+      "variable"
+    ],
+    "summary": "The semi-condensed step of the Bukra geometric sans system, sitting between Bukra Cond and the normal width.",
+    "description": "29LT Bukra Semi Cond fills the width step between Bukra Cond and the normal cut, keeping the system's large open proportions and short ascenders and descenders across nine weights plus slanted and variable versions.",
+    "foundry_blurb": "29LT describe the Bukra system as comprising 94 styles across five widths from Hairline to Black, with large open proportions and short ascenders and descenders shared across every width including Semi Cond."
+  },
+  {
+    "name": "29LT Bukra Semi Wide",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-bukra-semi-wide/",
+    "designer": "Pascal Zoghbi (Arabic), Swiss Typefaces (Latin)",
+    "year": 2007,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque, semi-wide",
+    "classification_notes": "The semi-wide width step of the Bukra system, sitting between the normal width and Bukra Wide.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Bukra",
+      "29LT Bukra Cond",
+      "29LT Bukra Semi Cond",
+      "29LT Bukra Semi Wide",
+      "29LT Bukra Wide"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "geometric",
+      "grotesque",
+      "wide",
+      "bi-scriptual",
+      "variable"
+    ],
+    "summary": "The semi-wide step of the Bukra geometric sans system, futuristic and clean across ten weights.",
+    "description": "29LT Bukra Semi Wide widens the Bukra system's mono-linear geometric structure a step beyond normal, keeping its futuristic, clean impression across ten weights, slanted companions and a variable font.",
+    "foundry_blurb": "29LT describe Bukra Semi Wide as giving a futuristic and clean impression through its mono-linear structure, with Arabic letterforms derived from Kufic structure and minimalist Latin sans characters."
+  },
+  {
+    "name": "29LT Bukra Wide",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-bukra-wide/",
+    "designer": "Pascal Zoghbi (Arabic), Swiss Typefaces (Latin)",
+    "year": 2007,
+    "category": "sans-serif",
+    "subcategory": "geometric grotesque, wide",
+    "classification_notes": "The widest cut of the Bukra system, completing its five-width geometric sans range.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Bukra",
+      "29LT Bukra Cond",
+      "29LT Bukra Semi Cond",
+      "29LT Bukra Semi Wide",
+      "29LT Bukra Wide"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "geometric",
+      "grotesque",
+      "wide",
+      "bi-scriptual",
+      "variable"
+    ],
+    "summary": "The widest cut of the Bukra geometric sans system, its large open Kufic-derived proportions pushed furthest.",
+    "description": "29LT Bukra Wide is the widest member of the Bukra system, keeping the same Kufic-derived Arabic and minimalist Latin sans pairing across ten weights, slanted companions and a variable font.",
+    "foundry_blurb": "29LT describe Bukra Wide as unveiling a futuristic, clean impression through its mono-linear structure, with Arabic letterforms derived from Kufic structure and Latin characters built on minimalist sans-serif design."
+  },
+  {
+    "name": "29LT Azer",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-azer/",
+    "designer": "Jan Fromm (Latin), Pascal Zoghbi (Arabic), Swiss Typefaces (Latin), Wael Morcos (Arabic)",
+    "year": 2008,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Calligraphic angular cuts on a humanist Latin sans, balancing simple lines with careful detailing for a serious but personable look.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Azer"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "humanist",
+      "sans-serif",
+      "editorial",
+      "award-winning",
+      "bi-scriptual"
+    ],
+    "summary": "A humanist bi-scriptual sans with calligraphic angular cuts, winner of a 2014 TDC Typographic Excellence award.",
+    "description": "29LT Azer balances simple lines with careful detailing across Arabic and Latin, giving it a serious but personable character with strong cuts and edges. Seven weights each carry an upright and slanted style, and the design won a TDC Typographic Excellence award in 2014.",
+    "foundry_blurb": "29LT describe Azer as balancing simple lines with careful detailing to create a serious but personable look and feel, with calligraphic angular cuts and unadorned construction giving the font a crisp, robust attitude."
+  },
+  {
+    "name": "29LT Baseet",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-baseet/",
+    "designer": "Ben Wittner (Arabic), Pascal Zoghbi (Arabic), Swiss Typefaces (Latin)",
+    "year": 2009,
+    "category": "sans-serif",
+    "subcategory": "geometric monoline",
+    "classification_notes": "A monoline, rounded-terminal sans whose Latin recalls early-1900s monospaced typewriter faces, read as sans-serif and geometric.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Baseet"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "geometric",
+      "monoline",
+      "corporate",
+      "bi-scriptual"
+    ],
+    "summary": "A friendly, monoline geometric sans whose Latin recalls early-1900s monospaced typewriter faces.",
+    "description": "29LT Baseet combines straight and curved elements with rounded terminals in a present-day, simplified monoline structure. Arabic connects to traditional calligraphy while Latin nods to early typewriter faces, across eight weights each with a slanted companion and a variable font.",
+    "foundry_blurb": "29LT describe Baseet as a present-day simplified typeface with monoline structure, dynamic and energetic, combining straight and curved elements with rounded terminals for a friendly aesthetic across Arabic and Latin."
+  },
+  {
+    "name": "29LT Makina",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-makina/",
+    "designer": "Pascal Zoghbi (Arabic & Latin)",
+    "year": 2014,
+    "category": "slab",
+    "subcategory": "typewriter revival",
+    "classification_notes": "A faithful multilingual typewriter revival with rough ink-print texture, placed as slab for its mechanical, fixed-stroke letterforms.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Makina"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "typewriter",
+      "revival",
+      "experimental",
+      "bi-scriptual",
+      "editorial"
+    ],
+    "summary": "A multilingual typewriter revival that faithfully reproduces the rough ink-print effect and randomness of typed text.",
+    "description": "29LT Makina replicates the rough ink prints and randomness of typed text, with three glyph alternates per letterform mimicking typewriter mechanics. Arabic and Latin share open counters and consistent weight across three styles, Light, Regular and Bold.",
+    "foundry_blurb": "29LT describe Makina as faithfully replicating the original typewriter effect, mimicking the rough ink prints and randomness of typed text with three glyph alternates per letterform to mirror typewriter mechanics."
+  },
+  {
+    "name": "29LT Massira",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-massira/",
+    "designer": "Pascal Zoghbi",
+    "year": 2013,
+    "category": "script",
+    "subcategory": "Arabic freehand calligraphy",
+    "classification_notes": "A handwriting-derived Arabic script named for a protest march, with styles based on different writing instruments rather than weights.",
+    "weights": [
+      "Pen",
+      "TippEx",
+      "Lipstick",
+      "Spray"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Massira"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "freehand",
+      "script",
+      "experimental",
+      "protest",
+      "graffiti"
+    ],
+    "summary": "A simplified handwriting typeface in four instrument-based styles, inspired by casual Ruqaa calligraphy used in demonstrations and graffiti.",
+    "description": "29LT Massira takes its name from a protest march, offering four styles, Pen, TippEx, Lipstick and Spray, based on the writing instruments used in demonstrations and urban graffiti rather than conventional weights. It draws on casual Ruqaa calligraphic style.",
+    "foundry_blurb": "29LT describe Massira as a simplified handwriting typeface inspired by casual Ruqaa calligraphic style, its name referring to a march, a journey walked by a group of people for a cause, with styles based on different writing instruments."
+  },
+  {
+    "name": "29LT Okaso",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-okaso/",
+    "designer": "Linda Hintz (Latin), Pascal Zoghbi (Arabic), Adélle Gallé (Arabic, design intern)",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Distinctively brave, low-contrast geometric letterforms inspired by Aljamiado manuscripts, placed as sans-serif for its Latin geometric structure.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Okaso",
+      "29LT Oskura"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "geometric",
+      "sans-serif",
+      "bi-scriptual",
+      "branding"
+    ],
+    "summary": "A geometric sans inspired by Aljamiado manuscripts, with distinctively brave, low-contrast letterforms across Arabic and Latin.",
+    "description": "29LT Okaso merges Arabic and Latin through uncommon contextual alternates and stylistic sets, its low-contrast, energetic structure drawing on Aljamiado manuscripts. Seven weights each carry an upright and slanted style plus a variable font.",
+    "foundry_blurb": "29LT describe Okaso as a geometric typeface inspired by Aljamiado manuscripts, featuring distinctively brave letterforms with low contrast and energetic structures merging Arabic and Latin scripts."
+  },
+  {
+    "name": "29LT Oskura",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-oskura/",
+    "designer": "Linda Hintz (Latin), Pascal Zoghbi (Arabic), Adélle Gallé (Arabic, design intern)",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "humanist cursive sans",
+    "classification_notes": "A fluid, handwriting-based alternate to Okaso, still classed as sans-serif with cursive Arabic detailing.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Okaso",
+      "29LT Oskura"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "humanist",
+      "cursive",
+      "sans-serif",
+      "bi-scriptual"
+    ],
+    "summary": "A fluid, handwriting-influenced alternate to Okaso, also drawing on Aljamiado manuscripts.",
+    "description": "29LT Oskura serves as a fluid alternate to 29LT Okaso, its humanist design based on handwriting principles while keeping clean letterforms. Unique ligatures absent from traditional Arabic calligraphy add legibility and visual intensity across seven weights, upright and slanted, plus variable fonts.",
+    "foundry_blurb": "29LT describe Oskura as drawing on Aljamiado manuscripts to serve as a fluid alternate to Okaso, employing a humanistic design based on handwriting principles while maintaining clean, legible letterforms."
+  },
+  {
+    "name": "29LT Riwaya",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-riwaya/",
+    "designer": "Katharina Seidl (Arabic & Latin)",
+    "year": 2017,
+    "category": "serif",
+    "subcategory": "literary text serif",
+    "classification_notes": "A delicate, classic text serif built for long-form reading, balancing elegance and stability across Arabic and Latin.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Informal",
+      "Regular Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Riwaya"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "serif",
+      "editorial",
+      "literary",
+      "text",
+      "bi-scriptual"
+    ],
+    "summary": "A classic literary text serif balancing delicate elegance and reliable stability across Arabic and Latin.",
+    "description": "29LT Riwaya is built for comfortable reading of lengthy texts, its Arabic cursive freehand and Latin serif brought into visual harmony. Rich ligatures, contextual alternates and full vocalisation marks make it well suited to literature and storytelling.",
+    "foundry_blurb": "29LT describe Riwaya as a contemporary multiscript family designed for comfortable reading of lengthy texts, balancing delicate elegance and reliable stability, ideal for literature and storytelling."
+  },
+  {
+    "name": "29LT UA Neo B",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-unified-arabic-neo-b/",
+    "designer": "Nasri Khattar (Arabic), Pascal Zoghbi (Arabic)",
+    "year": 2013,
+    "category": "sans-serif",
+    "subcategory": "geometric Arabic revival",
+    "classification_notes": "A mono-linear, geometric revival of Nasri Khattar's 1950s Unified Arabic system, classed as sans-serif for its shared-skeleton geometric construction.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT UA Neo B",
+      "29LT UA Neo N"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "geometric",
+      "revival",
+      "experimental",
+      "unified-arabic"
+    ],
+    "summary": "A geometric revival of Nasri Khattar's 1950s Unified Arabic system, with most glyphs sharing a single skeleton.",
+    "description": "29LT UA Neo B revives Nasri Khattar's revolutionary 1950s Unified Arabic type system, most glyphs sharing the same skeleton with outline modifications for a mono-linear, geometric structure across three weights.",
+    "foundry_blurb": "29LT describe UA Neo B as a revival of the revolutionary Unified Arabic type system introduced by Nasri Khattar in the 1950s, featuring a unique contemporary structure where most glyphs share the same skeleton."
+  },
+  {
+    "name": "29LT UA Neo N",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-ua-neo-n/",
+    "designer": "Nasri Khattar (Arabic), Pascal Zoghbi (Arabic)",
+    "year": 2013,
+    "category": "sans-serif",
+    "subcategory": "calligraphic Arabic revival",
+    "classification_notes": "The calligraphic, cursive-structured member of the Unified Arabic revival, kept in sans-serif alongside its UA Neo B sibling.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT UA Neo B",
+      "29LT UA Neo N"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "calligraphic",
+      "revival",
+      "experimental",
+      "unified-arabic"
+    ],
+    "summary": "The calligraphic, cursive-structured cut of the Unified Arabic revival, expanded with extra Farsi and Urdu letters.",
+    "description": "29LT UA Neo N revives Nasri Khattar's Unified Arabic system in a calligraphic, cursive structure, its glyphs sharing a base skeleton with outline changes, and adds punctuation, symbols and extra Farsi and Urdu letters beyond the 1950s original.",
+    "foundry_blurb": "29LT describe UA Neo N as featuring a calligraphic and cursive structure with glyphs based on the same skeleton with outline modifications, including expanded punctuation, symbols and support for additional Farsi and Urdu letters."
+  },
+  {
+    "name": "29LT Zarid Display",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-zarid-display/",
+    "designer": "Ramiro Espinoza (Latin), Pascal Zoghbi (Arabic)",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "high-contrast calligraphic display",
+    "classification_notes": "Bold, extreme contrast between thick and thin strokes for headline use places this as display rather than the Zarid system's text cuts.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Zarid Display",
+      "29LT Zarid Sans AL",
+      "29LT Zarid Serif",
+      "29LT Zarid Slab",
+      "29LT Zarid Stencil",
+      "29LT Zarid Text"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "display",
+      "high-contrast",
+      "headline",
+      "award-winning"
+    ],
+    "summary": "The bold, extreme-contrast display member of the Zarid system, awarded at GRANSHAN and the TDC in 2019 and 2020.",
+    "description": "29LT Zarid Display is bold by nature and extreme in character, its evident strong contrast between thick and thin pen strokes built for headlines and titles. It balances calligraphic inspiration with a contemporary interpretation, and won 2nd Prize at GRANSHAN 2019 and recognition at TDC 2020.",
+    "foundry_blurb": "29LT describe Zarid Display as bold by nature and extreme in character, with evident strong contrast between thick and thin pen strokes, balancing calligraphic inspiration with a contemporary interpretation for headlines and titles."
+  },
+  {
+    "name": "29LT Zarid Sans AL",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-zarid-sans/",
+    "designer": "Jan Fromm (Latin), Pascal Zoghbi (Arabic)",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Clean outlines with humanist flair, the Zarid system's sans-serif cut for Naskh-inflected Arabic paired with Latin humanist sans.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Zarid Display",
+      "29LT Zarid Sans AL",
+      "29LT Zarid Serif",
+      "29LT Zarid Slab",
+      "29LT Zarid Stencil",
+      "29LT Zarid Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "humanist",
+      "sans-serif",
+      "award-winning",
+      "bi-scriptual"
+    ],
+    "summary": "The humanist sans-serif cut of the Zarid system, winner of first prize at the 2019 GRANSHAN competition.",
+    "description": "29LT Zarid Sans AL combines clean outlines with humanistic flair for freshness and smoothness, its Arabic drawing on Naskh style modernised for contemporary proportions. Eight weights each carry an upright and slanted style, and the design won 1st Prize at GRANSHAN 2019.",
+    "foundry_blurb": "29LT describe Zarid Sans AL as combining clean outlines balanced by humanistic flair, creating freshness and smoothness, with Arabic letterforms drawing inspiration from Naskh style while modernising traditional proportions."
+  },
+  {
+    "name": "29LT Zarid Serif",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-zarid-serif/",
+    "designer": "Khajag Apelian (Latin), Ramiro Espinoza (Latin), Pascal Zoghbi (Arabic)",
+    "year": 2016,
+    "category": "serif",
+    "subcategory": "high-contrast humanist serif",
+    "classification_notes": "Delicate varying contrast bridging Arabic Naskh Mastari and Latin wedged-serif scripts places the core Zarid cut in the serif category.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Zarid Display",
+      "29LT Zarid Sans AL",
+      "29LT Zarid Serif",
+      "29LT Zarid Slab",
+      "29LT Zarid Stencil",
+      "29LT Zarid Text"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "serif",
+      "humanist",
+      "high-contrast",
+      "bi-scriptual"
+    ],
+    "summary": "The founding serif cut of the Zarid system, bridging Arabic Naskh Mastari and Latin wedge-serif scripts.",
+    "description": "29LT Zarid Serif bridges Arabic Naskh Mastari and Latin wedged scripts, with delicate varying contrast between light and heavy weights, open counters and clean terminals. Eight weights balance calligraphic angular cuts with modern construction, low contrast in lighter weights and crisper cuts in heavier ones.",
+    "foundry_blurb": "29LT describe Zarid Serif as bridging Arabic Naskh Mastari and Latin wedged scripts, with delicate varying contrast between light and heavy weights, open counters, and clean terminals and finials."
+  },
+  {
+    "name": "29LT Zarid Slab",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-zarid-slab/",
+    "designer": "Jan Fromm (Latin), Pascal Zoghbi (Arabic)",
+    "year": 2019,
+    "category": "slab",
+    "subcategory": "low-contrast slab serif",
+    "classification_notes": "Strong Latin slab serifs countered by a sturdy Arabic baseline place this cut of the Zarid system in the slab category.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Zarid Display",
+      "29LT Zarid Sans AL",
+      "29LT Zarid Serif",
+      "29LT Zarid Slab",
+      "29LT Zarid Stencil",
+      "29LT Zarid Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "slab",
+      "humanist",
+      "low-contrast",
+      "bi-scriptual"
+    ],
+    "summary": "The slab-serif cut of the Zarid system, its strong Latin slabs countered by a sturdy Arabic baseline.",
+    "description": "29LT Zarid Slab pairs strong Latin slab serifs with a sturdy Arabic baseline and straight letter structures, balancing geometric and cursive elements drawn from Naskh and Kufic calligraphy across eight weights, upright and slanted, plus variable fonts.",
+    "foundry_blurb": "29LT describe Zarid Slab as featuring strong slabs in the Latin countered by a sturdy Arabic baseline and straight letter structures, balancing geometric and cursive elements from Naskh and Kufic calligraphy."
+  },
+  {
+    "name": "29LT Zarid Stencil",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-zarid-stencil/",
+    "designer": "Pascal Zoghbi (Arabic & Latin), Jan Fromm (Latin)",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "stencil",
+    "classification_notes": "A stencil cut keeping the pen movement of the Zarid system uninterrupted across both scripts, classed as sans-serif for its low-contrast stencil structure.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Zarid Display",
+      "29LT Zarid Sans AL",
+      "29LT Zarid Serif",
+      "29LT Zarid Slab",
+      "29LT Zarid Stencil",
+      "29LT Zarid Text"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "stencil",
+      "sans-serif",
+      "corporate",
+      "bi-scriptual"
+    ],
+    "summary": "The stencil cut of the Zarid system, keeping the pen movement uninterrupted across Arabic and Latin for a stylish stencil effect.",
+    "description": "29LT Zarid Stencil combines corporate elegance with contemporary flair, its cuts implemented without interrupting the pen movement so glyph integrity holds across both scripts. Eight weights plus a variable font deliver a stylish stencil effect for impactful messaging.",
+    "foundry_blurb": "29LT describe Zarid Stencil as combining corporate elegance with contemporary flair, implementing cuts without any interruption in the pen movement to maintain glyph integrity and deliver a stylish stencil effect."
+  },
+  {
+    "name": "29LT Zarid Text",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-zarid-text/",
+    "designer": "Ramiro Espinoza (Latin), Pascal Zoghbi (Arabic)",
+    "year": 2018,
+    "category": "serif",
+    "subcategory": "neo-calligraphic text serif",
+    "classification_notes": "Softened serifs and improved interlinear spacing built for legible, fluid reading place this cut of Zarid in the serif category as its text-optimised member.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Zarid Display",
+      "29LT Zarid Sans AL",
+      "29LT Zarid Serif",
+      "29LT Zarid Slab",
+      "29LT Zarid Stencil",
+      "29LT Zarid Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "serif",
+      "editorial",
+      "text",
+      "bi-scriptual"
+    ],
+    "summary": "The lucid, text-optimised counterpart to Zarid Serif, designed for legible, fluid reading.",
+    "description": "29LT Zarid Text serves as the lucid counterpart to Zarid Serif, emphasising legibility with softened serifs that complement the natural flow of reading. Four weights, upright and slanted, carry calligraphic variation in line width and improved interlinear spacing.",
+    "foundry_blurb": "29LT describe Zarid Text as the lucid counterpart to Zarid Serif, emphasising legibility and fluid reading with softened serifs that complement the natural flow of reading."
+  },
+  {
+    "name": "29LT Azahar Display AL",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-azahar-display-al/",
+    "designer": "Naïma Ben Ayed (Arabic), Jose Carratalá (Latin)",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "high-contrast Didone display",
+    "classification_notes": "Sharp and flared serifs on a high-contrast Didone structure place this as a display serif built for headlines.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Azahar Display AL",
+      "29LT Azahar Text AL"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "didone",
+      "serif",
+      "display",
+      "headline",
+      "bi-scriptual"
+    ],
+    "summary": "A sharp, high-contrast Didone display serif inspired by the orange blossom, with a modern twist on flared serifs.",
+    "description": "29LT Azahar Display AL takes its name and inspiration from the orange blossom, offering a sharp and graceful display cut with high-contrast Didone-style letterforms and sharp, flared serifs. Five weights each carry a matching italic plus a variable font with weight and optical size axes.",
+    "foundry_blurb": "29LT describe Azahar Display AL as a sharp and graceful display version featuring high-contrast Didone style letterforms with sharp and flared serifs adding a modern twist suitable for headlines."
+  },
+  {
+    "name": "29LT Azahar Text AL",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-azahar-text-al/",
+    "designer": "Naïma Ben Ayed (Arabic), Jose Carratalá (Latin)",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "transitional text serif",
+    "classification_notes": "Medium-contrast transitional letterforms with thicker serifs than its display sibling place this as a body-text serif.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Azahar Display AL",
+      "29LT Azahar Text AL"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "serif",
+      "editorial",
+      "text",
+      "bi-scriptual"
+    ],
+    "summary": "A pleasant, medium-contrast transitional text serif, the body-text companion to Azahar Display.",
+    "description": "29LT Azahar Text AL balances pleasant, reader-friendly qualities with classical proportions, its medium-contrast transitional letterforms and thicker serifs built for body text. Five weights each carry a matching italic plus a variable font with weight and optical size axes.",
+    "foundry_blurb": "29LT describe Azahar Text AL as pleasant and reader-friendly with classical proportions, its medium-contrast transitional letterforms designed for body text with thicker serifs than its display counterpart."
+  },
+  {
+    "name": "29LT Arapix",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-arapix/",
+    "designer": "Sylvain Mazas (Arabic & Latin)",
+    "year": 2013,
+    "category": "mono",
+    "subcategory": "pixel",
+    "classification_notes": "A 12-pixel-height bitmap face for screen and print at small sizes, classed as mono for its fixed pixel-grid construction.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Arapix"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "pixel",
+      "screen",
+      "experimental",
+      "bi-scriptual"
+    ],
+    "summary": "A 12-pixel-height bitmap face legible at small sizes on screen and in print, with a Naskh-styled Arabic set and humanist Latin.",
+    "description": "29LT Arapix is a 12-pixel-height pixel font combining primitive pixel aesthetics with contemporary design, remaining legible at both low and high-resolution displays. Its Arabic follows Naskh styling while the Latin carries a humanist quality, in a single regular style.",
+    "foundry_blurb": "29LT describe Arapix as incredibly legible in small sizes on screen and in print, its Arabic character set following traditional Naskh styling while the Latin counterpart carries a humanistic quality."
+  },
+  {
+    "name": "29LT Zawi",
+    "foundry": "29LT",
+    "url": "https://www.29lt.com/product/29lt-zawi/",
+    "designer": "Pascal Zoghbi (Arabic & Latin)",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "geometric monoline",
+    "classification_notes": "A mono-linear, sharp-cornered sans whose Latin draws on early-1900s monospaced typesetting machines, placed as sans-serif and geometric.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "29LT Zawi"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Arabic",
+      "Latin"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "geometric",
+      "monoline",
+      "bi-scriptual",
+      "branding"
+    ],
+    "summary": "A streamlined mono-linear sans with sharp corners, its Latin drawing on early-1900s monospaced typesetting machines.",
+    "description": "29LT Zawi combines straight vertical, horizontal and diagonal letter structures for a dynamic, contemporary feel. Arabic keeps a connection to traditional calligraphy while Latin nods to early monospaced typesetting faces, across eight weights each with a slanted companion and a variable font.",
+    "foundry_blurb": "29LT describe Zawi as a contemporary streamlined typeface featuring mono-linear structure with sharp corners and edges, combining straight vertical, horizontal and diagonal letter structures for a dynamic feel."
+  }
+]

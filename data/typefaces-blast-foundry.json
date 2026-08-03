@@ -1,0 +1,527 @@
+[
+  {
+    "name": "Bay Grotesque",
+    "foundry": "Blast Foundry",
+    "url": "https://blast-foundry.com/typefaces/bay-grotesque",
+    "designer": "Barbara Bigosińska",
+    "year": 2026,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A contemporary grotesque sans with swash capitals, small capitals and alternate lowercase forms, placing it in the expressive end of the grotesque category.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bay Grotesque"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "swash",
+      "variable",
+      "editorial",
+      "contemporary"
+    ],
+    "summary": "A nine-weight grotesque with swash capitals and softened alternate lowercase letters for a touch of personality.",
+    "description": "Bay Grotesque pairs a clean grotesque structure with unexpected extras: two sets of swash capitals, small capitals, oldstyle numerals and alternate a, k, v, w, x and y forms. Nine weights from Thin to Black run as both static fonts and a single variable font, giving it real range for print and screen hierarchy.",
+    "foundry_blurb": "Blast Foundry call Bay Grotesque a contemporary grotesque with an understated edge, refined in structure yet quietly expressive, pairing clarity with nuanced calligraphic detail."
+  },
+  {
+    "name": "Vanilla Sans",
+    "foundry": "Blast Foundry",
+    "url": "https://blast-foundry.com/typefaces/vanilla-sans",
+    "designer": "Rafał Buchner, Barbara Bigosińska",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Built as a deliberately neutral geometric workhorse, it sits with the geometric sans family despite the foundry's playful claim of being unopinionated.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vanilla Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "neutral",
+      "workhorse",
+      "ui",
+      "branding"
+    ],
+    "summary": "A deliberately neutral geometric sans built to be a dependable workhorse across brand and UI work.",
+    "description": "Vanilla Sans started as an attempt to design the most generic font possible and ended up quietly expressive instead. Eight weights with matching italics come loaded with stylistic alternates, arrows, circled numerals and a full set of pattern glyphs, giving a plain-looking family real range underneath.",
+    "foundry_blurb": "Blast Foundry describe it as a geometric workhorse family for designers who need range without excess, blending in when it should and holding its own when it counts."
+  },
+  {
+    "name": "Vanilla Mono",
+    "foundry": "Blast Foundry",
+    "url": "https://blast-foundry.com/typefaces/vanilla-mono",
+    "designer": "Barbara Bigosińska",
+    "year": 2025,
+    "category": "mono",
+    "subcategory": "monospaced sans",
+    "classification_notes": "An upright monospaced companion to Vanilla Sans, built for code and technical layout so it sits in the mono category.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vanilla Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "code",
+      "technical",
+      "ui"
+    ],
+    "summary": "The monospaced companion to Vanilla Sans, built for code and data-heavy interfaces.",
+    "description": "Vanilla Mono carries the same clean geometry and open rhythm as its sans sibling into eight upright weights. Smart alternates, arrows, circled numerals and a full set of pattern glyphs sit alongside the basics, making it as useful for wayfinding as for a terminal window.",
+    "foundry_blurb": "Blast Foundry position Vanilla Mono as built for coding environments, terminal interfaces and data-heavy layouts where alignment and consistency matter."
+  },
+  {
+    "name": "Vanilla X",
+    "foundry": "Blast Foundry",
+    "url": "https://blast-foundry.com/typefaces/vanilla-x",
+    "designer": "Barbara Bigosińska",
+    "year": 2025,
+    "category": "mono",
+    "subcategory": "semi-monospaced hybrid sans",
+    "classification_notes": "A semi-monospaced hybrid that keeps monospace alignment with proportional spacing rhythm, placing it alongside the mono family despite not being a strict fixed-width design.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Vanilla X"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "semi-mono",
+      "technical",
+      "ui",
+      "dashboards"
+    ],
+    "summary": "A semi-monospaced hybrid sans that keeps code-like structure without the rigidity of a true fixed-width font.",
+    "description": "Vanilla X blends the alignment of a monospaced font with the ease of proportional spacing. Eight weights work well for UI components, app typography and dashboards, and it carries the same alternates, arrows and pattern glyphs as the rest of the Vanilla collection.",
+    "foundry_blurb": "Blast Foundry call it a semi-monospaced hybrid that feels technical but never rigid, giving designers freedom within structured layouts."
+  },
+  {
+    "name": "Big Issue",
+    "foundry": "Blast Foundry",
+    "url": "https://blast-foundry.com/typefaces/big-issue",
+    "designer": "Barbara Bigosińska, Diana Ovezea",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "grotesque superfamily",
+    "classification_notes": "A British grotesque superfamily across four widths and six weights, rooted in historical British grotesque forms.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Narrow",
+      "Standard",
+      "Wide",
+      "XWide"
+    ],
+    "subfamilies": [
+      "Big Issue Narrow",
+      "Big Issue",
+      "Big Issue Wide",
+      "Big Issue XWide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "superfamily",
+      "editorial",
+      "charity",
+      "headline"
+    ],
+    "summary": "A British grotesque superfamily in four widths, developed with The Big Issue magazine and Pentagram.",
+    "description": "Big Issue grew out of a single bold weight cut for The Big Issue's 30th-anniversary cover with Pentagram into a full superfamily across Narrow, Standard, Wide and XWide widths. Six weights with italics in each width give it range from bold headlines to flexible print and digital layouts, and 10% of sales go to the magazine.",
+    "foundry_blurb": "Blast Foundry describe the Big Issue superfamily as rooted in historical British grotesque typography, blending classic influences with modern functionality across print and digital formats."
+  },
+  {
+    "name": "Big Issue Text",
+    "foundry": "Blast Foundry",
+    "url": "https://blast-foundry.com/typefaces/big-issue-text",
+    "designer": "Barbara Bigosińska, Diana Ovezea",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "grotesque text",
+    "classification_notes": "The running-text companion to Big Issue, with wider spacing and taller ascenders for legibility at small sizes, keeping it in the grotesque text category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Big Issue Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "editorial",
+      "text",
+      "legible",
+      "charity"
+    ],
+    "summary": "The text-optimised companion to Big Issue, built for comfortable long-form reading.",
+    "description": "Big Issue Text takes the same British grotesque roots as the display superfamily and reworks them for smaller sizes, with wider spacing and taller ascenders for extended reading. Six weights with italics cover publications, websites and body-heavy layouts, with 10% of proceeds going to The Big Issue.",
+    "foundry_blurb": "Blast Foundry position it for comfortable, extended reading, optimised for smaller sizes while keeping the same British grotesque heritage."
+  },
+  {
+    "name": "Cosmic Sans",
+    "foundry": "Blast Foundry",
+    "url": "https://blast-foundry.com/typefaces/cosmic-sans",
+    "designer": "Diana Ovezea, Barbara Bigosińska",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "uniwidth typewriter-inspired sans",
+    "classification_notes": "A uniwidth sans with typewriter-inspired curly italics and rounded low-contrast forms, sitting in the friendly UI-sans category.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cosmic Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "uniwidth",
+      "ui",
+      "friendly",
+      "typewriter",
+      "rounded"
+    ],
+    "summary": "A uniwidth sans with typewriter-inspired curly italics, built so words hold their width across weight changes.",
+    "description": "Cosmic Sans keeps every weight duplexed to the same width, so labels and buttons stay put as they switch from thin to bold. Rounded edges and a high x-height keep it friendly and legible at small sizes, while the italics lean into curly, typewriter-derived detail.",
+    "foundry_blurb": "Blast Foundry describe it as blending geometry with a soft heart, suited to buttons, toggles and dynamic labels as much as space-themed posters."
+  },
+  {
+    "name": "Sharf",
+    "foundry": "Blast Foundry",
+    "url": "https://blast-foundry.com/typefaces/sharf",
+    "designer": "Barbara Bigosińska",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "editorial serif",
+    "classification_notes": "A high-contrast editorial serif split into calmer text and eccentric headline optical sizes, placing it in the serif category despite its experimental headline cuts.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Headline"
+    ],
+    "subfamilies": [
+      "Sharf VF Text",
+      "Sharf VF Headline"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "editorial",
+      "serif",
+      "variable",
+      "experimental",
+      "headline"
+    ],
+    "summary": "An editorial serif that stays calm in its text cut and turns eccentric at headline size.",
+    "description": "Sharf runs two optical sizes with a deliberate mismatch in temperament: the Text cut is conventional and elegant, while the Headline cut leans into unpredictable contrast changes and surprising detail. Eight weights with italics run across both, as static fonts or a single variable font.",
+    "foundry_blurb": "Blast Foundry say Sharf marries ideas that perhaps shouldn't sit together in harmony, letting different narrations and shapes co-exist at different extremes of the design spectrum."
+  },
+  {
+    "name": "Bay Sans",
+    "foundry": "Blast Foundry",
+    "url": "https://blast-foundry.com/typefaces/bay-sans",
+    "designer": "Barbara Bigosińska",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A versatile grotesque sans with swash capitals and alternates, following the same design language as its sibling Bay Grotesque.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bay Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "swash",
+      "versatile",
+      "branding"
+    ],
+    "summary": "A versatile contemporary sans with swash capitals, small capitals and alternate lowercase forms across nine weights.",
+    "description": "Bay Sans runs thin to black with matching italics, adding capital swashes, small capitals and oldstyle numerals that are unusual for the genre. Alternate a, k, v, w and x forms give it a friendlier edge without losing its usefulness as a working sans.",
+    "foundry_blurb": "Blast Foundry call it a versatile contemporary sans serif with several twists, giving designers unbound room to build typographic hierarchies from thin to black."
+  },
+  {
+    "name": "Granblue",
+    "foundry": "Blast Foundry",
+    "url": "https://blast-foundry.com/typefaces/granblue",
+    "designer": "Diana Ovezea",
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "decorative display serif",
+    "classification_notes": "A decorative boxed serif built around three contrast levels rather than conventional weights, placing it in the display serif category.",
+    "weights": [
+      "High",
+      "Mid",
+      "Low"
+    ],
+    "optical_sizes_or_widths": [
+      "High",
+      "Mid",
+      "Low"
+    ],
+    "subfamilies": [
+      "Granblue"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "decorative",
+      "boxed",
+      "serif",
+      "beta"
+    ],
+    "summary": "A decorative boxed serif built for boxing-style titles, with three contrast levels standing in for weights.",
+    "description": "Granblue trades conventional weights for three contrast levels, High, Mid and Low, treated as optical sizes. It is still officially in beta but has a largely complete character set, and remains available through Future Fonts as it develops further.",
+    "foundry_blurb": "Blast Foundry describe Granblue as a type family for boxing titles, still officially in beta mode but already quite complete in terms of character set."
+  },
+  {
+    "name": "Bizzarri",
+    "foundry": "Blast Foundry",
+    "url": "https://blast-foundry.com/typefaces/bizzarri",
+    "designer": "Diana Ovezea",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "high-contrast display serif",
+    "classification_notes": "A racing-inspired serif with angular serifs and high contrast split into text and headline optical sizes, placing it in the display serif category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Text",
+      "Headline"
+    ],
+    "subfamilies": [
+      "Bizzarri Text",
+      "Bizzarri Headline"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "editorial",
+      "high-contrast",
+      "racing",
+      "serif"
+    ],
+    "summary": "A racing-inspired serif with angular serifs, tall ascenders and a dedicated headline cut for impact.",
+    "description": "Bizzarri draws on the sleek lines of racing cars, with tall ascenders and angular serifs giving its Headline cut a bold presence at large sizes while the Text cut softens those features for extended reading. Six weights with italics run across both optical sizes.",
+    "foundry_blurb": "Blast Foundry describe Bizzarri as bridging impactful display work and legible body text, with italics that strike a balance between elegance and sharpness."
+  },
+  {
+    "name": "Silverspoon",
+    "foundry": "Blast Foundry",
+    "url": "https://blast-foundry.com/typefaces/silverspoon",
+    "designer": "Diana Ovezea",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "flared serif",
+    "classification_notes": "A flared-serif headliner with compact proportions and optional curly alternates, sitting in the flared serif category alongside faces like Present or Bookman.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Standard",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Silverspoon",
+      "Silverspoon Condensed"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "flared-serif",
+      "headline",
+      "display",
+      "curly",
+      "condensed"
+    ],
+    "summary": "A flared-serif headliner with tight spacing and optional curly alternates, digitised from San Francisco street signage.",
+    "description": "Silverspoon started as a digitisation of the letters on the Albert S. Samuels Clock in San Francisco, later completed as a multi-width family. Flared serifs and compact vertical proportions make it stable at medium sizes, with curlier alternates and flamboyant italics available for more personality, plus a Condensed cut for headlines and packaging.",
+    "foundry_blurb": "Blast Foundry describe it as performing well at medium sizes, with flared serifs and tight spacing that make it look very stable, plus curly alternates for a touch of panache."
+  }
+]

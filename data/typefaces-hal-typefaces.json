@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Timezone",
+    "foundry": "HAL Typefaces",
+    "url": "https://type.hanli.eu/timezone/",
+    "designer": "HAL Typefaces",
+    "year": 2021,
+    "category": "serif",
+    "subcategory": "low-contrast digital-era serif",
+    "classification_notes": "A low-contrast text serif referencing the transition from photo-type to early digital fonts, with a monospaced subfamily extending the design to fixed pitch.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "monospace"
+    ],
+    "subfamilies": [
+      "Timezone",
+      "Timezone Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin",
+      "Vietnamese",
+      "Cyrillic Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "editorial",
+      "cyrillic",
+      "digital-era"
+    ],
+    "summary": "A low-contrast serif aesthetically inspired by early digital fonts, freshly transitioned from the photo-type era.",
+    "description": "Timezone runs six weights with matching italics plus a monospaced subfamily, giving it eighteen styles in total. Its uprights are sturdy and durable while the italics turn more playful, reminiscent of classical antique serif faces, and it carries small caps with numeral support across Latin, Vietnamese and extended Cyrillic.",
+    "foundry_blurb": "HAL Typefaces describes Timezone as a low-contrast serif typeface, aesthetically inspired by early digital fonts, freshly transitioned from the photo-type era, a robust text font with high visibility and slightly rounded edges."
+  },
+  {
+    "name": "Vincent",
+    "foundry": "HAL Typefaces",
+    "url": "https://type.hanli.eu/vincent/",
+    "designer": "HAL Typefaces, based on Dr. Allen Vincent Hershey",
+    "year": 2019,
+    "category": "script",
+    "subcategory": "monoline continuous-line script",
+    "classification_notes": "A monoline script built from continuous-line closed shapes, revived from Dr. Hershey's 1967 script font for computer calligraphy.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "Full",
+      "Empty"
+    ],
+    "subfamilies": [
+      "Vincent Full",
+      "Vincent Empty"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "monoline",
+      "revival",
+      "historical",
+      "experimental"
+    ],
+    "summary": "A monoline script revived from Dr. Allen Vincent Hershey's 1967 computer-calligraphy font, in filled and outlined states.",
+    "description": "Vincent exists in two states, Full and Empty, each character a single continuous-line closed shape. The letterforms come from Hershey's report Calligraphy for Computers, one of the earliest attempts at script forms for machine plotting.",
+    "foundry_blurb": "HAL Typefaces describes Vincent as a monoline script font which exists in two states, filled and empty, each character a closed shape composed of one continuous line drawing."
+  },
+  {
+    "name": "Magic",
+    "foundry": "HAL Typefaces",
+    "url": "https://type.hanli.eu/magic/",
+    "designer": "HAL Typefaces, with Alex Lescieux",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "grotesque with variant x-heights",
+    "classification_notes": "A performative grotesque offered across three x-height subfamilies, loosely inspired by Joseph Churchward's Tranquility.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Low",
+      "Mid",
+      "High"
+    ],
+    "subfamilies": [
+      "Magic Low",
+      "Magic Mid",
+      "Magic High"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "variable",
+      "display",
+      "branding",
+      "editorial"
+    ],
+    "summary": "A performative grotesque loosely inspired by Joseph Churchward's Tranquility, offered across Low, Mid and High x-height subfamilies.",
+    "description": "Magic ships as a variable font with fluid transitions across six weights and oblique companions, its three x-height subfamilies giving it very different characters at the same point size, from a workhorse Low cut to a taller, more theatrical High.",
+    "foundry_blurb": "HAL Typefaces describes Magic as a true performer, an athlete and a keen entertainer, ready to run the show on the big stage, loosely inspired by Joseph Churchward's Tranquility."
+  },
+  {
+    "name": "Gap",
+    "foundry": "HAL Typefaces",
+    "url": "https://type.hanli.eu/gap/",
+    "designer": "HAL Typefaces",
+    "year": 2025,
+    "category": "display",
+    "subcategory": "chopped-terminal display sans",
+    "classification_notes": "A display sans with round characters sliced flat at their ends for tight spacing, inspired by Friedrich Poppl's 1977 Leporello for Berthold.",
+    "weights": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gap"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "headline",
+      "branding",
+      "variable",
+      "sharp"
+    ],
+    "summary": "A powerful display sans that chops the ends off round characters for tight spacing and a sharp headline presence.",
+    "description": "Gap runs seven named styles from an extremely thin, compressed XXS to a wide, heavy XXL, available as a variable font covering the full range. Its sliced terminals draw on Friedrich Poppl's 1977 Leporello for Berthold.",
+    "foundry_blurb": "HAL Typefaces describes Gap as a powerful display sans, the keen gesture of slicing and chopping the ends off round characters allowing tight spacing and a sharp appearance, perfect for mighty headlines."
+  },
+  {
+    "name": "Colant",
+    "foundry": "HAL Typefaces",
+    "url": "https://type.hanli.eu/colant/",
+    "designer": "HAL Typefaces",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "Scotch Roman revival",
+    "classification_notes": "A Scotch/Modern-style serif revival based on Columbia Antiqua, originally cut by the Bauer'sche Giesserei for the 1893 Chicago World's Fair, split into Display and Text optical variants.",
+    "weights": [
+      "Display",
+      "Text"
+    ],
+    "optical_sizes_or_widths": [
+      "Display",
+      "Text"
+    ],
+    "subfamilies": [
+      "Colant Display",
+      "Colant Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "scotch roman",
+      "revival",
+      "editorial",
+      "headline"
+    ],
+    "summary": "A Scotch Roman revival based on Columbia Antiqua, first cut for the 1893 Chicago World's Fair, split into Display and Text optical cuts.",
+    "description": "Colant Display follows its nineteenth-century source closely for headline use, while Colant Text extends the design with less contrast for comfortable setting at smaller sizes, including a dedicated italic.",
+    "foundry_blurb": "HAL Typefaces describes Colant as based on Columbia Antiqua, a Scotch/Modern-style serif with distinct angular details, originally produced by the Bauer'sche Giesserei for the 1893 World Exposition in Chicago."
+  },
+  {
+    "name": "Four Grotesk",
+    "foundry": "HAL Typefaces",
+    "url": "https://type.hanli.eu/four-grotesk/",
+    "designer": "HAL Typefaces",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "A neo-grotesque drawing on early twentieth-century grotesques, notably Empire Gothic of 1912, built to feel both neutral and individually recognisable.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Book",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Four Grotesk"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "editorial",
+      "branding",
+      "workhorse",
+      "variable"
+    ],
+    "summary": "An elegant, reliable neo-grotesque drawing on Empire Gothic from 1912, across eight weights with full italics.",
+    "description": "Four Grotesk aims to combine neutral and friendly shapes with an individual personality, an addition to the crowded neo-grotesque field rather than a plain workhorse copy of it. It spans Thin to Ultra with matching italics.",
+    "foundry_blurb": "HAL Typefaces describes Four Grotesk as an elegant yet reliable addition to the vast, undying sans-serif genre, drawing inspiration from early twentieth-century grotesques such as Empire Gothic."
+  },
+  {
+    "name": "Matex",
+    "foundry": "HAL Typefaces",
+    "url": "https://type.hanli.eu/matex/",
+    "designer": "HAL Typefaces",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "schoolbook grotesque",
+    "classification_notes": "A grotesque referencing schoolbook and textbook typefaces alongside Bauhaus-era geometric lettering, taking cues from Herbert Bayer's Universal and related historical designs.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Matex"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "schoolbook",
+      "editorial"
+    ],
+    "summary": "A schoolbook-influenced grotesque referencing Herbert Bayer's Universal and Bauhaus-era geometric lettering.",
+    "description": "Matex takes its numerous spurless characters and stylistic alternates from a lineage running through Herbert Bayer's 1920s Universal, AG Schoolbook, ITC Ronda and Helvetica Textbook, landing on a plain, legible six-weight grotesque.",
+    "foundry_blurb": "HAL Typefaces describes Matex as inspired by schoolbook and textbook grotesques as well as geometric Bauhaus aesthetics, apparent in references such as Herbert Bayer's mid-1920s lowercase Universal."
+  },
+  {
+    "name": "Repost",
+    "foundry": "HAL Typefaces",
+    "url": "https://type.hanli.eu/repost/",
+    "designer": "HAL Typefaces",
+    "year": 2024,
+    "category": "slab",
+    "subcategory": "monolinear typewriter slab",
+    "classification_notes": "A friendly, monolinear slab serif with rounded terminals, inspired by ATF's Post Monotone No. 2, a condensed cut of the original Saturday Evening Post typeface, with a companion monospaced cut.",
+    "weights": [
+      "Regular",
+      "Mono"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "monospace"
+    ],
+    "subfamilies": [
+      "Repost",
+      "Repost Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "typewriter",
+      "monospace",
+      "friendly",
+      "editorial"
+    ],
+    "summary": "A friendly, monolinear slab serif with rounded terminals, revived from ATF's 1903 Post Monotone No. 2 for the Saturday Evening Post.",
+    "description": "Repost carries a winsome, dependable character across Regular and Mono cuts with matching italics, staying close to its 1903 newspaper-type source while rounding off the terminals for warmth.",
+    "foundry_blurb": "HAL Typefaces describes Repost as a friendly, monolinear slab serif with rounded terminal endings, inspired by ATF's Post Monotone No. 2, as dependable as a stable typewriter font."
+  },
+  {
+    "name": "Twins",
+    "foundry": "HAL Typefaces",
+    "url": "https://type.hanli.eu/twins/",
+    "designer": "HAL Typefaces",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "machine-readable numeral display",
+    "classification_notes": "A geometric display face continuing Franco Grignani's 1960s Gemini, adopting the stark contrast of machine-readable magnetic-ink numeral styling for full letterforms.",
+    "weights": [
+      "Light",
+      "Semi-Light",
+      "Semi-Bold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Twins"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "industrial",
+      "variable",
+      "experimental"
+    ],
+    "summary": "A geometric display face continuing where Franco Grignani's 1960s Gemini left off, built on the stark contrast of machine-readable numerals.",
+    "description": "Twins shifts variably between binary states, its basic rounded shapes playing on the industrial quirkiness of magnetic-ink character recognition typefaces rather than any humanist reference.",
+    "foundry_blurb": "HAL Typefaces describes Twins as continuing spiritually and methodically where Gemini left off, Franco Grignani's 1960s design being one of the first typefaces to adopt the style of machine-readable magnetic ink numerals to letterforms."
+  }
+]

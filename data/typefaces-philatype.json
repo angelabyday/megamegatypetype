@@ -1,0 +1,695 @@
+[
+  {
+    "name": "TabFont",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/tabfont",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "novelty dingbat",
+    "classification_notes": "A functional novelty face that swaps typed chord shorthand for rendered guitar tab diagrams, so it sits under display/novelty rather than any conventional text category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TabFont"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "novelty",
+      "guitar",
+      "dingbat",
+      "music",
+      "niche"
+    ],
+    "summary": "A one-trick novelty font that turns typed chord names into rendered guitar tab diagrams.",
+    "description": "TabFont is Philatype's gimmick font: type a chord name like Cmaj or F#m and it draws the fret diagram instead of setting the letters. It covers majors, minors, sevenths and more across the fretboard. Free for personal use, licensed separately for commercial jobs.",
+    "foundry_blurb": "Philatype call it the only font that renders guitar tabs as you type, covering sixths, add9s and more beyond the basic picker shown on the page."
+  },
+  {
+    "name": "Colinoosh",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/colinoosh",
+    "designer": null,
+    "year": null,
+    "category": "display",
+    "subcategory": "bubble display",
+    "classification_notes": "Chunky, soft, rounded bubble letterforms built for informal display use rather than running text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Colinoosh"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "bubble",
+      "playful",
+      "rounded",
+      "display",
+      "novelty"
+    ],
+    "summary": "A pudgy, marshmallow-soft bubble display face built for informal, high-personality use.",
+    "description": "Colinoosh takes the bubble-letter idea and pushes it toward maximum squish, every stroke rounded and inflated. It reads as friendly rather than corporate, which suits party invites and flyers better than anything serious.",
+    "foundry_blurb": "Philatype describe it as pudgy, soft and squishy as a marshmallow pillow fort, each letter like a hug from a chubby-cheeked doodle."
+  },
+  {
+    "name": "Mastodon",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/mastodon",
+    "designer": "John Langdon",
+    "year": null,
+    "category": "slab",
+    "subcategory": "chunky slab serif",
+    "classification_notes": "A heavy slab serif with soft, rounded detailing, described by the foundry itself as a slab.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mastodon"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "chunky",
+      "heavy",
+      "display",
+      "friendly"
+    ],
+    "summary": "A chunky, heavyweight slab serif drawn by letterer John Langdon, with soft rounded details that keep it friendly rather than brutal.",
+    "description": "Mastodon commands the room through sheer weight, but curved details on letters like the lowercase b and e keep it approachable. Drawn by ambigram artist John Langdon, it works best as a display face where its bulk can register.",
+    "foundry_blurb": "Philatype call it a slab from chunkytown, originally drawn by master letterer John Langdon, friendly and approachable despite its chunky weight."
+  },
+  {
+    "name": "Philadelphia",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/philadelphia",
+    "designer": "John Langdon",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "display sans",
+    "classification_notes": "Clean, humanist sans-serif letterforms with no serifs, built for headline and cover use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Philadelphia"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "editorial",
+      "display",
+      "clean"
+    ],
+    "summary": "A clean display sans by John Langdon, first used on the cover of his own book on ambigrams.",
+    "description": "Philadelphia is a straightforward, legible sans built for headline and cover use rather than body text. It debuted on the cover of Langdon's Wordplay, a book on ambigram design, and carries some of the same precision in its letterforms.",
+    "foundry_blurb": "Philatype note it was designed by John Langdon and first featured on the cover of his book Wordplay: The Philosophy, Art, and Science of Ambigrams."
+  },
+  {
+    "name": "Lansen",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/lansen",
+    "designer": "John Langdon",
+    "year": null,
+    "category": "display",
+    "subcategory": "angular geometric display",
+    "classification_notes": "An all-caps display face of invented, angular letterforms that don't map to a traditional serif or sans construction.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lansen"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "all-caps",
+      "angular",
+      "futuristic",
+      "experimental"
+    ],
+    "summary": "An all-caps display face of angular, invented letterforms from ambigram artist John Langdon, built for sci-fi or mysterious moods.",
+    "description": "Lansen sets aside familiar letter construction for something more geometric and alien, which is the point. It comes in three weights and reads as mysterious, militant or extraterrestrial depending on the setting, and it isn't intended for body copy.",
+    "foundry_blurb": "Philatype call it ornate and angular, from ambigram inventor John Langdon, flexible enough to evoke the extraterrestrial, the ethereal, or the militant."
+  },
+  {
+    "name": "Brothers Circus",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/brothers_circus",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "vintage circus display",
+    "classification_notes": "A bold, rounded vintage circus-poster face, grouped under slab for its heavy, blocky terminals.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brothers Circus"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "circus",
+      "vintage",
+      "western",
+      "display",
+      "badge"
+    ],
+    "summary": "A bold vintage circus-poster display face built for badges, arches and novelty branding rather than restraint.",
+    "description": "Brothers Circus leans into carnival and western poster tradition, all bold curves suited to arched badge lettering or sticker design. Philatype are upfront that it's a niche, situational face rather than an all-purpose one.",
+    "foundry_blurb": "Philatype say it's perfect for t-shirt designs with a giant romanesque arch shape, or nature-inspired badges and stickers, calling it the perfect, safe choice for that kind of thing."
+  },
+  {
+    "name": "Tylerwolf",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/tylerwolf",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "handwritten marker caps",
+    "classification_notes": "An all-caps handwritten/marker hand grouped under script for its rough, hand-drawn construction despite being caps only.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tylerwolf"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "handwritten",
+      "marker",
+      "caps",
+      "rough",
+      "poster"
+    ],
+    "summary": "A rough, confident all-caps marker hand named after Tyler, the Creator, built for posters and apparel rather than clean-set text.",
+    "description": "Tylerwolf reads like an impatient architect's capitals, quick strokes that stay legible but keep their informal texture. It suits poster and apparel work where a hand-drawn edge matters more than polish.",
+    "foundry_blurb": "Philatype describe it as a quick hand, penned with confident and swift strokes, informal yet highly structured, named after Tyler Gregory Okonma (Wolf Haley)."
+  },
+  {
+    "name": "Bourse",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/bourse",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "inscriptional display sans",
+    "classification_notes": "Bold, squarish all-caps letterforms with no serifs, based on carved building lettering rather than a text-serif model.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Chiseled"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bourse"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "all-caps",
+      "inscriptional",
+      "bold",
+      "display",
+      "architectural"
+    ],
+    "summary": "A bold, squarish all-caps face modelled on the carved lettering above Philadelphia's historic Bourse building.",
+    "description": "Bourse takes its cue from the inscription on the Bourse building's entrance and tightens it into something more contemporary: symmetrical, squarish, consistently stroked. It comes in Regular, Bold and a Chiseled cut for extra texture.",
+    "foundry_blurb": "Philatype say it's modelled after the Bourse, tuned to a more contemporary aesthetic than the building's own inscription, with consistently squarish strokes and symmetrical proportions."
+  },
+  {
+    "name": "Philly Sans",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/philly_sans",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "handwritten marker sans",
+    "classification_notes": "A rough, marker-drawn sans with a deliberately limited character set, closer to handwriting than a constructed sans.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Philly Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "handwritten",
+      "marker",
+      "urban",
+      "limited-charset",
+      "display"
+    ],
+    "summary": "A rough marker-hand sans with attitude and a deliberately limited character set of plain Latin only.",
+    "description": "Philly Sans is a chiseled-marker hand rather than a built sans, all attitude and no diacritics. Philatype are upfront that the character set is limited, so treat it as a display face for short, punchy lines rather than general setting.",
+    "foundry_blurb": "Philatype call it a Philly attitude combined with a chiseled marker, noting it lacks accents, diacritics and special characters."
+  },
+  {
+    "name": "Sen",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/sen",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric humanist sans",
+    "classification_notes": "A geometric sans with humanist warmth, positioned by the foundry as a neutral alternative to Avenir or Futura.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Extra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sen"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "geometric",
+      "humanist",
+      "free",
+      "open-font-license",
+      "all-rounder"
+    ],
+    "summary": "A free, geometric humanist sans pitched as a more neutral alternative to Avenir or Futura.",
+    "description": "Sen is Philatype's first OFL release, a geometrically built sans with enough humanist warmth to stay easy to read at text sizes. It comes in three weights and works fine for general branding or interface use, not just display.",
+    "foundry_blurb": "Philatype describe it as a Geohumanist sans, a more neutral version of geometric classics such as Avenir or Futura with a humanist touch, unassuming and easy to read."
+  },
+  {
+    "name": "Lovato",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/lovato",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "geometric serif",
+    "classification_notes": "A geometric-construction serif with inscriptional detailing, spanning light to black weights.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Demi",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lovato"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "serif",
+      "branding",
+      "editorial",
+      "contemporary"
+    ],
+    "summary": "A five-weight geometric serif running from a delicate light to a commanding black, with inscriptional detailing throughout.",
+    "description": "Lovato is built on geometric skeletons with a few inscriptional flourishes worked in, giving it a contemporary rather than revivalist feel. Five weights make it flexible for branding, book or poster work that needs a sharp, stylish serif.",
+    "foundry_blurb": "Philatype call it a family of five fonts for branding, books or posters that require a clear, sharp, stylish tone, primarily geometric with hints of inscriptional detail."
+  },
+  {
+    "name": "Tryst",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/tryst",
+    "designer": null,
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "A transitional serif inspired by 18th-century models, with fairly high stroke contrast.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tryst"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "transitional",
+      "serif",
+      "free",
+      "editorial",
+      "text"
+    ],
+    "summary": "A free transitional text serif inspired by 18th-century types, crisp enough in setting to double as a display face.",
+    "description": "Tryst softens 18th-century transitional serif models into something friendlier, individual letters organic but crisp once set together. Its stroke contrast is high enough that it holds up at display sizes as well as text.",
+    "foundry_blurb": "Philatype describe it as a friendly and elegant contemporary text face inspired by 18th century transitional types, refreshingly crisp when set, and it works well as a display face given its fairly high stroke contrast."
+  },
+  {
+    "name": "Merge Pro",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/merge_pro",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "rounded sans",
+    "classification_notes": "A soft, rounded sans with condensed cuts and extended Cyrillic and Greek support, the extended sibling of Merge.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Condensed Regular",
+      "Condensed Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Merge Pro"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "sans-serif",
+      "condensed",
+      "multilingual",
+      "friendly"
+    ],
+    "summary": "The extended, five-weight edition of Merge, adding condensed cuts and Cyrillic and Greek support to its soft rounded sans.",
+    "description": "Merge Pro keeps the soft, open character of Merge but adds a condensed pair of weights and coverage for Cyrillic and Greek. It reads friendlier than most rounded sans at display sizes while staying legible small.",
+    "foundry_blurb": "Philatype describe it as a soft family of sans in 5 weights with Cyrillic and Greek character sets, readable at small sizes and friendlier than other rounded sans at display sizes."
+  },
+  {
+    "name": "Merge",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/merge",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "rounded sans",
+    "classification_notes": "The base, Latin-only edition of Merge Pro, without condensed cuts or extended language coverage.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Merge"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "sans-serif",
+      "casual",
+      "friendly",
+      "branding"
+    ],
+    "summary": "A soft, casual rounded sans in four weights, the standard edition of Philatype's Merge family.",
+    "description": "Merge is the leaner sibling of Merge Pro: the same soft, open rounded-sans character across four weights, Latin only, with no condensed cut. It suits friendly branding work that doesn't need the Pro version's extra range.",
+    "foundry_blurb": "Philatype call it the non-pro version of Merge Pro, a soft family of sans in 4 weights, readable at small sizes and friendlier than other rounded sans at display sizes."
+  },
+  {
+    "name": "Olney",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/olney",
+    "designer": null,
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric square sans",
+    "classification_notes": "A stripped-back geometric sans with square, modular construction and a full italic range.",
+    "weights": [
+      "Light",
+      "Medium",
+      "Bold",
+      "Black",
+      "Light Italic",
+      "Medium Italic",
+      "Bold Italic",
+      "Black Italic"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Olney"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "square",
+      "minimal",
+      "sans-serif",
+      "technical"
+    ],
+    "summary": "A stripped-back square sans built from modular, neutral shapes, with a full weight and italic range.",
+    "description": "Olney reduces geometric sans construction to its basic square forms, aiming for a consistent, technical, timeless feel rather than a futuristic one. Four weights each come with an italic, and the diacritic set covers Western and Central European languages.",
+    "foundry_blurb": "Philatype call it minimalism squared: a square sans stripped down to basic, neutral shapes, sturdy and technical, avoiding a contemporary or futuristic look in favour of something timeless."
+  },
+  {
+    "name": "Ryno Slab",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/ryno_slab",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "superslab display",
+    "classification_notes": "An extra-heavy geometric slab serif built specifically for tight, aggressive display setting.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ryno Slab"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "heavy",
+      "geometric",
+      "poster",
+      "display"
+    ],
+    "summary": "An aggressive, extra-heavy geometric slab built for tight display setting on posters and apparel.",
+    "description": "Ryno Slab pushes slab-serif weight to its heaviest point without turning clunky, its squarish geometric forms holding together in tight setting. It's built for posters, t-shirts and artwork rather than text.",
+    "foundry_blurb": "Philatype describe it as a superslab born from a need for an aggressive, heavy, geometric display face that doesn't appear clunky, suited to tight setting in posters, t-shirts and artwork."
+  },
+  {
+    "name": "Gravity",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/gravity",
+    "designer": null,
+    "year": null,
+    "category": "slab",
+    "subcategory": "heavy square slab serif",
+    "classification_notes": "A three-weight family of extremely dense, square slab serifs intended purely for display use.",
+    "weights": [
+      "Normal",
+      "Nova",
+      "Supernova"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gravity"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "heavy",
+      "square",
+      "display",
+      "mechanical"
+    ],
+    "summary": "A three-weight heavy square slab serif family running from impactful to mechanically dense.",
+    "description": "Gravity's three cuts move from Normal's straightforward impact through Nova's showier brawn to Supernova's extremely dense, mechanical weight. All three are tightly spaced for maximum impact at display sizes, with diacritics for Western and Central European languages.",
+    "foundry_blurb": "Philatype call it a unique series of heavy square slab serifs for display usage, tightly spaced for maximum impact, with Supernova commanding attention through its extremely dense, mechanical design."
+  },
+  {
+    "name": "Markup",
+    "foundry": "Philatype",
+    "url": "https://philatype.com/markup",
+    "designer": null,
+    "year": null,
+    "category": "script",
+    "subcategory": "casual handwriting",
+    "classification_notes": "A clean handwriting-style script with smooth natural curves at large sizes and legible rhythm at text sizes.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Markup"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "handwriting",
+      "casual",
+      "script",
+      "legible",
+      "personal"
+    ],
+    "summary": "A clean, casual handwriting face pitched as a step up from Comic Sans.",
+    "description": "Markup keeps its handwriting energy smooth rather than scrappy, with natural curves that read well at large sizes and a sharp enough rhythm to stay legible in text. Its own foundry copy jokes that it looks like Comic Sans, but it is considerably more refined.",
+    "foundry_blurb": "Philatype pitch it as a fresh, clean handwriting font showcasing smooth, natural curves at large sizes and a casual, legible rhythm at text sizes."
+  }
+]

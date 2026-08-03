@@ -1,0 +1,1066 @@
+[
+  {
+    "name": "TheSans",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/the-sans/normal",
+    "designer": "Luc(as) de Groot",
+    "year": 1994,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "TheSans blends grotesque neutrality with humanist proportions across an eight-weight ladder built for corporate and editorial use, the sans anchor of de Groot's 1994 Thesis superfamily.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Plain",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "SemiCondensed",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "TheSans",
+      "TheSans Hair",
+      "TheSansMono",
+      "TheSans Typewriter"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Cyrillic Extended",
+      "Greek",
+      "Arabic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist sans",
+      "corporate",
+      "editorial",
+      "variable",
+      "multiscript",
+      "workhorse"
+    ],
+    "summary": "The sans-serif anchor of the Thesis superfamily, an eight-weight workhorse built for corporate and editorial systems with real italics throughout.",
+    "description": "TheSans is the sans half of Luc(as) de Groot's Thesis system, first published in 1994 and still one of the most widely licensed European typefaces. Eight weights run from a hairline hint through to Black across three widths, each with genuinely drawn italics rather than sloped romans. Later OpenType updates pushed language support out to Cyrillic, Greek and Arabic, which is why it turns up everywhere from annual reports to airline signage.",
+    "foundry_blurb": "LucasFonts calls TheSans a modern classic and a favourite for corporate design, editorial design and new media, prized for its astonishing range of widths and weights, including a large set of hairline fonts."
+  },
+  {
+    "name": "TheSerif",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/the-serif/normal",
+    "designer": "Luc(as) de Groot",
+    "year": 1994,
+    "category": "serif",
+    "subcategory": "slab-influenced text serif",
+    "classification_notes": "Designed as the Thesis system's secondary face, TheSerif carries moderate contrast and squared serifs that sit between an oldstyle text serif and a slab.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Plain",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "SemiCondensed",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "TheSerif",
+      "TheSans",
+      "TheMix"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Cyrillic Extended",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "corporate",
+      "headline",
+      "multiscript"
+    ],
+    "summary": "The serif member of the Thesis superfamily, drawn as a headline and pull-quote companion to TheSans but sturdy enough to carry running text on its own.",
+    "description": "TheSerif shares TheSans' eight-weight ladder and three widths, giving art directors a matched serif to pair against the sans without hunting for a stylistic fit elsewhere. It was conceived for headlines, subheads and pull quotes but has since been used as a standalone text face in longer-form editorial work.",
+    "foundry_blurb": "LucasFonts describes TheSerif as conceived to be the perfect secondary font within the Thesis system, for headlines, subheads and pull quotes, though it has also proved itself as a text font in its own right."
+  },
+  {
+    "name": "TheMix",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/the-mix/normal",
+    "designer": "Luc(as) de Groot",
+    "year": 1994,
+    "category": "sans-serif",
+    "subcategory": "semi-serif humanist sans",
+    "classification_notes": "TheMix has no serifs but keeps a broad-nib calligraphic stress and diagonal flow, which the foundry itself labels semi-serif rather than a plain grotesque.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Plain",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "SemiCondensed",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "TheMix",
+      "TheMix Hair",
+      "TheMixMono",
+      "TheSans",
+      "TheSerif"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Cyrillic Extended",
+      "Greek",
+      "Arabic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist sans",
+      "calligraphic",
+      "corporate",
+      "editorial",
+      "multiscript"
+    ],
+    "summary": "A low-contrast, pen-inflected sans that completes the Thesis trio alongside TheSans and TheSerif.",
+    "description": "TheMix keeps the diagonal stress of broad-nib handwriting inside otherwise sans letterforms, giving it a warmer rhythm than TheSans at the same weight. It shares the Thesis system's eight weights and three widths, so it slots into the same corporate identity kits as its siblings.",
+    "foundry_blurb": "LucasFonts calls TheMix a semi-serif typeface with low contrast, where the reference to writing with a broad-nibbed pen is still present, giving the letters a diagonal stress and forward flow that aids reading."
+  },
+  {
+    "name": "TheSansMono",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/the-sans-mono/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced grotesque",
+    "classification_notes": "A fixed-width cut of TheSans built for tabular and code-adjacent settings, kept to Latin Extended coverage rather than the parent family's full script range.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "SemiCondensed",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "TheSans",
+      "TheSansMono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "code",
+      "corporate",
+      "tabular"
+    ],
+    "summary": "The monospaced cut of TheSans, carrying the same eight-weight range into a fixed-width grid for code and tabular work.",
+    "description": "TheSansMono takes TheSans' letterforms and fits them to uniform character widths across eight weights and three widths, useful anywhere columns need to line up: spec sheets, code samples, data tables. Italics are drawn rather than slanted, matching the rest of the Thesis system's approach.",
+    "foundry_blurb": "LucasFonts positions TheSansMono as the monospaced companion to TheSans, carrying its astonishing range of weights into a fixed-width grid."
+  },
+  {
+    "name": "TheMixMono",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/the-mix-mono/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced humanist",
+    "classification_notes": "Fixed-width version of TheMix, keeping its pen-derived diagonal stress within a monospaced grid.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "SemiCondensed",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "TheMix",
+      "TheMixMono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "code",
+      "humanist",
+      "tabular"
+    ],
+    "summary": "TheMix rebuilt to a fixed-width grid, keeping its calligraphic warmth for code and tabular contexts.",
+    "description": "TheMixMono carries TheMix's broad-nib diagonal stress into a monospaced structure across eight weights and three widths. It reads slightly warmer than a typical code font while still lining up cleanly in columns.",
+    "foundry_blurb": "LucasFonts describes TheMixMono as sharing TheMix's low-contrast, pen-influenced character while adding the fixed-width discipline needed for tabular and code settings."
+  },
+  {
+    "name": "TheAntiqua",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/the-antiqua/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "serif",
+    "subcategory": "old-style serif",
+    "classification_notes": "A medium-contrast oldstyle built for long-form reading, named after the Dutch and German word for the oldstyle serif tradition.",
+    "weights": [
+      "Light",
+      "SemiLight",
+      "Plain",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TheAntiqua",
+      "TheAntiqua Sun"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "old-style serif",
+      "text serif",
+      "editorial",
+      "book",
+      "multiscript"
+    ],
+    "summary": "A seven-weight oldstyle serif built for comfortable long-form reading rather than headline work.",
+    "description": "TheAntiqua fills a gap the rest of the Thesis system leaves open: a proper text serif with medium contrast for immersive reading. Seven weights from Light to Black each carry real italics, and the character set stretches to Cyrillic and Greek.",
+    "foundry_blurb": "LucasFonts says nothing beats a medium-contrast oldstyle for comfortable immersive reading, which is why TheAntiqua exists as an all-purpose text face named after the traditional word for oldstyle."
+  },
+  {
+    "name": "TheAntiqua Sun",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/the-antiqua-sun/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "serif",
+    "subcategory": "old-style serif",
+    "classification_notes": "A two-weight corporate cut of TheAntiqua made for Sun Microsystems, simplified and sharpened compared with the main family.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TheAntiqua",
+      "TheAntiqua Sun"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "old-style serif",
+      "corporate",
+      "branding"
+    ],
+    "summary": "A stripped-back, two-weight corporate serif built as a bespoke variant of TheAntiqua for Sun Microsystems.",
+    "description": "TheAntiqua Sun trims the wider family down to Regular and Bold, sharpening the details and simplifying the structure for a corporate brief. It began as client work for Sun Microsystems and now sits in the catalogue as its own product.",
+    "foundry_blurb": "LucasFonts explains that TheAntiqua Sun was originally made as a corporate typeface for Sun Microsystems, with sharper details and a simpler structure than the rest of the TheAntiqua family, limited to Regular and Bold."
+  },
+  {
+    "name": "QuaText",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/qua-text/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "serif",
+    "subcategory": "newspaper text serif",
+    "classification_notes": "A newsprint-optimised cut of TheAntiqua developed with a German newspaper for durability at small sizes on cheap stock.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TheAntiqua",
+      "QuaText"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "newspaper",
+      "text serif",
+      "editorial"
+    ],
+    "summary": "A sturdy newsprint cut of TheAntiqua developed with the Berlin newspaper taz for reliable small-size reproduction.",
+    "description": "QuaText reworks TheAntiqua for newspaper stock, thickening thin strokes and closing counters so the letterforms hold together when printed small and fast. It was built in collaboration with Die Tageszeitung and remains a niche, purpose-built member of the catalogue.",
+    "foundry_blurb": "LucasFonts describes QuaText as a newstext version of TheAntiqua developed in close collaboration with the Berlin newspaper taz, its sturdy forms optimised for newspaper stock."
+  },
+  {
+    "name": "Corpid",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/corpid/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "corporate grotesque",
+    "classification_notes": "A low-contrast corporate sans built for identity systems, named directly for its purpose.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "SemiCondensed",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Corpid",
+      "CorpidMono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "corporate",
+      "grotesque",
+      "branding",
+      "identity",
+      "multiscript"
+    ],
+    "summary": "A five-weight corporate sans, built specifically for corporate identity work across three widths.",
+    "description": "Corpid takes its name straight from Corporate Identity and does exactly what it says: a low-contrast grotesque in five weights and three widths, with a script range that stretches to Cyrillic and Greek for international brand rollouts.",
+    "foundry_blurb": "LucasFonts says the name Corpid derives from Corporate Identity, which is what this family of low-contrast sans-serifs was made for."
+  },
+  {
+    "name": "CorpidMono",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/corpid-mono/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced grotesque",
+    "classification_notes": "The fixed-width cut of Corpid, keeping its humanist warmth inside a monospaced grid.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Corpid",
+      "CorpidMono"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "corporate",
+      "code",
+      "tabular"
+    ],
+    "summary": "The monospaced companion to Corpid, for identity systems that need code or tabular settings to match.",
+    "description": "CorpidMono keeps Corpid's humanist character but fits it to a fixed-width grid, useful wherever a corporate identity system needs to set data tables or code alongside its main sans. Five weights each carry an italic.",
+    "foundry_blurb": "LucasFonts says CorpidMono retains the same humanistic nature as Corpid but adds the mechanical quirks, or charm, of monospaced fonts."
+  },
+  {
+    "name": "Taz",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/taz/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "newspaper grotesque",
+    "classification_notes": "A newspaper sans spanning fifteen named weights from hairline headline cuts to UltraBlack, built across five widths for everything from body text to giant headlines.",
+    "weights": [
+      "H04",
+      "H06",
+      "H09",
+      "H14",
+      "H21",
+      "UltraLight",
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "UltraBlack"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Normal",
+      "Wide",
+      "Extended",
+      "Text"
+    ],
+    "subfamilies": [
+      "Taz"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "newspaper",
+      "grotesque",
+      "headline",
+      "editorial"
+    ],
+    "summary": "A newspaper sans built for the German paper taz, running fifteen weights across five widths from body text to full-bleed headlines.",
+    "description": "Taz was designed for newspaper production and still carries the marks of that brief: a Text width for small-size body copy, a Condensed and Wide for headline flexibility, and a run of named headline weights (H04 through H21) alongside a standard weight ladder up to UltraBlack. It has since spread well beyond newspapers into magazines and corporate brochures.",
+    "foundry_blurb": "LucasFonts notes that although Taz was designed for newspapers, it works equally well in glossy magazines, sales catalogues and corporate brochures, prized for its readability in longer texts at medium sizes."
+  },
+  {
+    "name": "Sun",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/sun/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "compact display sans",
+    "classification_notes": "Compact, high-density letterforms modelled on old American industrial newspaper headlines, sturdy enough to also work as a text face.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Sun"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "newspaper",
+      "headline",
+      "industrial"
+    ],
+    "summary": "A compact sans closer to old industrial American newspaper headlines than to the rest of the LucasFonts catalogue, in seven weights across two widths.",
+    "description": "Sun sits apart from Luc(as) de Groot's other, more systematic families: tighter, blunter, built for density. It has been in active corporate identity and editorial use for over two decades, holding up in both headline and text roles.",
+    "foundry_blurb": "LucasFonts calls Sun a family of compact typefaces closer to old industrial-style American newspaper headlines than to Luc(as)'s other designs, noting the fonts also work in text and have served corporate identity and editorial projects for more than two decades."
+  },
+  {
+    "name": "Spiegel Sans",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/spiegel-sans/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "American gothic grotesque",
+    "classification_notes": "An industrial American gothic structure softened with subtle diagonal stress and near-invisible handwriting traces.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Spiegel Sans",
+      "Spiegel Slab"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "gothic",
+      "editorial",
+      "publication"
+    ],
+    "summary": "An American gothic grotesque with a faint calligraphic undertow, in eight weights across two widths.",
+    "description": "Spiegel Sans takes the shapes and proportions of a classic industrial American gothic and adds a subtle diagonal stress that keeps it from feeling mechanical. Eight weights and a condensed width make it flexible enough for both magazine text and headline work.",
+    "foundry_blurb": "LucasFonts describes Spiegel Sans as combining the shapes and proportions of an American-style gothic, the ultimate industrial typeface, with subtle diagonal stress and almost imperceptible traces of handwriting."
+  },
+  {
+    "name": "Spiegel Slab",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/spiegel-slab/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "slab",
+    "subcategory": "low-contrast slab serif",
+    "classification_notes": "A slab-serif sibling to Spiegel Sans, sharing its industrial gothic proportions but with low-contrast, robust serifs bolted on.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Normal",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Spiegel Slab",
+      "Spiegel Sans"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab serif",
+      "gothic",
+      "editorial",
+      "publication"
+    ],
+    "summary": "The slab-serif sibling to Spiegel Sans, sturdy enough for subheads in light weights and striking in the heaviest.",
+    "description": "Spiegel Slab shares Spiegel Sans' industrial gothic bones but bolts on low-contrast, robust serifs, in the same eight weights and two widths. It reads well as a subhead face at lighter weights and turns properly heavy-handed at Black.",
+    "foundry_blurb": "LucasFonts says Spiegel Slab shares Spiegel Sans' features but adds low contrast and robust serifs, holding its ground for subheads in lighter weights and striking in the heaviest."
+  },
+  {
+    "name": "Koning",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/koning/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "high-contrast display sans",
+    "classification_notes": "A high-contrast sans pushed into a display-only optical range, named after the Dutch word for king.",
+    "weights": [
+      "UltraLight",
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Display"
+    ],
+    "subfamilies": [
+      "Koning"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "high-contrast",
+      "headline",
+      "editorial"
+    ],
+    "summary": "A high-contrast display sans in ten weights, built to bring the drama of high-contrast letterforms into a sans structure.",
+    "description": "Koning takes the thick-thin contrast usually reserved for didone serifs and applies it to a sans skeleton, at display sizes only. Ten weights from UltraLight to Black give it a wide dynamic range for headline and cover work.",
+    "foundry_blurb": "LucasFonts says Koning transports high-contrast sans serifs into the present, noting that Koning is Dutch for king, a name that suits the design's elegance."
+  },
+  {
+    "name": "TheStencil",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/thestencil/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "display",
+    "subcategory": "stencil display",
+    "classification_notes": "A stencil-constructed display face built for physical reproduction rather than screen or print text, with gaps designed into the letterforms.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Plain",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TheStencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "stencil",
+      "display",
+      "industrial",
+      "signage"
+    ],
+    "summary": "A stencil display face built for physical reproduction, in eight weights from ExtraLight to Black.",
+    "description": "TheStencil is built around the constraint that gives stencils their character: connective gaps that let the letterforms be cut, sprayed or laser-cut without floating islands. Eight weights cover everything from a light outline to a solid Black.",
+    "foundry_blurb": "LucasFonts introduces TheStencil as a typeface made for physical reproduction, addressing the specific needs of stencilled and cut lettering."
+  },
+  {
+    "name": "Tao",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/tao/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "display",
+    "subcategory": "mathematical display",
+    "classification_notes": "A playful display face grown out of double-struck mathematical letterforms originally drawn for TheAntiqua.",
+    "weights": [
+      "Light",
+      "SemiLight",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tao"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "playful",
+      "decorative"
+    ],
+    "summary": "A playful display face that grew out of the double-struck mathematical letterforms Luc(as) de Groot drew for TheAntiqua.",
+    "description": "Tao started as a side project: the Unicode double-struck mathematical letters de Groot drew for TheAntiqua worked so well on their own that he built them out into a full display family. Seven weights with italics give it more range than the novelty of its origin suggests.",
+    "foundry_blurb": "LucasFonts explains that the Unicode consortium defined code points for mathematical double-struck letters, and when Luc(as) designed some for TheAntiqua he liked the result enough to turn it into a new family."
+  },
+  {
+    "name": "TheSans Typewriter",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/the-sans-typewriter/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "mono",
+    "subcategory": "monospaced typewriter",
+    "classification_notes": "A monospaced typewriter face with deliberately imperfect outlines, distinct from the usual distressed 'dirty typewriter' genre.",
+    "weights": [
+      "Plain",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "TheSans",
+      "TheSans Typewriter"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Arabic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "typewriter",
+      "code",
+      "retro"
+    ],
+    "summary": "A friendly monospaced typewriter face with slightly distorted outlines, avoiding the usual heavy-handed distressed typewriter look.",
+    "description": "TheSans Typewriter takes the typewriter genre and softens it: slightly irregular outlines suggest mechanical typing without tipping into the scratched, ink-blotted look most typewriter fonts default to. Two weights with italics cover the format's usual range.",
+    "foundry_blurb": "LucasFonts bills TheSans Typewriter as a friendly monospaced typewriter font with slightly distorted outlines, not another dirty typewriter font."
+  },
+  {
+    "name": "Consolas",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/consolas/normal",
+    "designer": "Luc(as) de Groot",
+    "year": 2007,
+    "category": "mono",
+    "subcategory": "monospaced grotesque",
+    "classification_notes": "A monospaced coding and terminal font commissioned by Microsoft for ClearType screen rendering, released alongside Calibri.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Consolas",
+      "Calibri"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "code",
+      "microsoft",
+      "screen"
+    ],
+    "summary": "The monospaced half of Microsoft's ClearType font pair, designed for code and console use and shipped on practically every Windows machine since Vista.",
+    "description": "Consolas was commissioned as Microsoft's ClearType-optimised monospace font, tuned for legibility on LCD screens at the small sizes coding and terminal work demand. It shipped alongside Calibri from Windows Vista onward and remains a default fixed-width choice in code editors.",
+    "foundry_blurb": "LucasFonts credits Consolas to Luc(as) de Groot as part of Microsoft's ClearType Font Collection, designed to enhance on-screen readability."
+  },
+  {
+    "name": "Calibri",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/calibri/normal",
+    "designer": "Luc(as) de Groot",
+    "year": 2007,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A rounded humanist sans commissioned by Microsoft as the ClearType-era default UI and document typeface, replacing Times New Roman as Office's standard.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Calibri",
+      "Consolas"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Greek",
+      "Cyrillic",
+      "Hebrew",
+      "Arabic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "humanist sans",
+      "corporate",
+      "ui",
+      "microsoft"
+    ],
+    "summary": "The rounded humanist sans that replaced Times New Roman as Microsoft Office's default, likely the most-seen typeface Luc(as) de Groot has ever drawn.",
+    "description": "Calibri was built for Microsoft's ClearType Font Collection, with softly rounded terminals designed to read well on screen at small sizes. It became the default in Word, Excel and PowerPoint in 2007 and has stayed there for most users since, making it one of the most-printed typefaces in the world by sheer volume.",
+    "foundry_blurb": "LucasFonts calls Calibri the reader-friendly typeface that replaced Times New Roman as the default in Microsoft Office, developed for the ClearType Font Collection to improve on-screen readability."
+  },
+  {
+    "name": "Floris",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/floris/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "parametric multi-axis sans",
+    "classification_notes": "Built on a four-axis design grid (weight, width, x-height, ascender/descender height) rather than a fixed style ladder, aimed at fast bespoke customisation.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Floris SP",
+      "Floris Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "parametric",
+      "corporate",
+      "variable",
+      "custom"
+    ],
+    "summary": "A sans built on a four-axis parametric grid rather than fixed styles, designed for fast, bespoke customisation.",
+    "description": "Floris treats weight, width, x-height and ascender/descender height as adjustable axes rather than baking them into named styles, so a client brief can be tuned rather than picked from a shortlist. The standard Floris SP range covers seven weights with italics, alongside a leaner four-style Floris Text.",
+    "foundry_blurb": "LucasFonts explains that Floris was developed on a four-dimensional grid of weight, width, x-height and ascender/descender height, making fast customisation possible."
+  },
+  {
+    "name": "Nebulae",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/nebulae/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "display",
+    "subcategory": "bubble dissolve display",
+    "classification_notes": "A display face built on TheSans' proportions where the letterforms visibly dissolve into clusters of circles, five named stages rather than conventional weights.",
+    "weights": [
+      "One",
+      "Two",
+      "Three",
+      "ThreeDee",
+      "Four"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nebulae"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "decorative",
+      "playful",
+      "novelty"
+    ],
+    "summary": "A small display family where TheSans' proportions dissolve into clouds of bubbles, in five progressively looser stages.",
+    "description": "Nebulae takes TheSans as a structural starting point and lets it come apart: each of its five styles pushes the letterforms further into clusters of circles, ending in the fully dissolved Four. It reads best at large display sizes where the effect stays legible.",
+    "foundry_blurb": "LucasFonts describes Nebulae as a small family of display fonts whose proportions are based on TheSans, with letterforms that dissolve into clouds of bubbles."
+  },
+  {
+    "name": "JesusLovesYouAll",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/jesus-loves-you-all/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "display",
+    "subcategory": "distressed display",
+    "classification_notes": "A deliberately damaged variant of TheSans, with thorns, drips and random distortion built into the outlines.",
+    "weights": [
+      "JesusLovesYou",
+      "JesusLovesYourBrother",
+      "JesusLovesYourSister"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "JesusLovesYouAll"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "distressed",
+      "grunge",
+      "novelty"
+    ],
+    "summary": "A distressed reworking of TheSans, with thorns, drips and random damage built directly into the letterforms.",
+    "description": "JesusLovesYouAll takes TheSans' smooth proportions and deliberately wrecks them, adding thorn-like spikes, drips and irregular damage across three variant styles. It is a novelty side project rather than a text face, best kept to headlines and display work.",
+    "foundry_blurb": "LucasFonts describes JesusLovesYouAll as a destructive revision of TheSans's smooth proportions, with letter shapes distorted by thorns, drops or random damage."
+  },
+  {
+    "name": "Punten",
+    "foundry": "LucasFonts",
+    "url": "https://www.lucasfonts.com/fonts/punten/normal",
+    "designer": "Luc(as) de Groot",
+    "year": null,
+    "category": "display",
+    "subcategory": "dot-construction display",
+    "classification_notes": "A display face built from dot and point-based construction, designed as a playful break from complex text-type systems.",
+    "weights": [
+      "Straight",
+      "Extremo",
+      "Rondom"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Punten"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "playful",
+      "decorative",
+      "geometric"
+    ],
+    "summary": "A playful dot-built display face in three styles, a deliberate break from de Groot's more complex text-type systems.",
+    "description": "Punten (Dutch for points, or dots) is built from a construction of dots and points across three styles: Straight, Extremo and Rondom. It exists as a lighter, more playful counterpart to the demanding, systematic work behind families like Thesis.",
+    "foundry_blurb": "LucasFonts frames Punten as growing out of the near-universal need every type designer feels to interrupt serious text-type design work with something more playful."
+  }
+]

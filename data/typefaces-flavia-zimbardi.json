@@ -1,0 +1,390 @@
+[
+  {
+    "name": "Lygia",
+    "foundry": "Flavia Zimbardi",
+    "url": "https://flaviazim.com/typefaces/lygia",
+    "designer": "Flavia Zimbardi",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A geometric sans balancing sharp and round forms, drawing on both Robert Granjon's sixteenth-century work and W.A. Dwiggins' geometric approach.",
+    "weights": [
+      "Hairline",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lygia",
+      "Lygia Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "editorial",
+      "branding",
+      "variable",
+      "brazilian design"
+    ],
+    "summary": "A geometric sans exploring sharp and round forms, named as homage to Brazilian Neo-Concrete artist Lygia Clark.",
+    "description": "Lygia emerged from Flavia Zimbardi's degree project at Type@Cooper, pulling references from Robert Granjon's sixteenth-century letterforms through to W.A. Dwiggins' geometric sensibility. Eight styles plus a variable font cover Hairline to Black, and it earned a TDC Certificate of Typographic Excellence in 2018.",
+    "foundry_blurb": "Flavia Zimbardi describes Lygia as exploring the duality of sharp and round forms, an homage to Brazilian Neo-Concrete artist Lygia Clark."
+  },
+  {
+    "name": "Lygia Sans",
+    "foundry": "Flavia Zimbardi",
+    "url": "https://flaviazim.com/typefaces/lygia-sans",
+    "designer": "Flavia Zimbardi",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "calligraphic sans",
+    "classification_notes": "The sans-serif companion to Lygia, built to match its serif partner's colour and rhythm while adding a more calligraphic personality.",
+    "weights": [
+      "Thin",
+      "Regular",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lygia",
+      "Lygia Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "calligraphic",
+      "editorial",
+      "brazilian design"
+    ],
+    "summary": "The sans-serif partner to Lygia, matching its colour and rhythm while leaning into a more calligraphic personality.",
+    "description": "Lygia Sans takes its cues from Rio de Janeiro's geography and architecture and the Neo-Concrete movement, echoing the warmth of Warren Chappell's Lydian rather than a plain geometric grotesque. It's in progress and distributed exclusively through Future Fonts.",
+    "foundry_blurb": "Flavia Zimbardi describes Lygia Sans as designed to match its serif companion in colour and rhythm while embracing a more calligraphic personality, ideal for editorial systems and cultural projects."
+  },
+  {
+    "name": "Melindrosa",
+    "foundry": "Flavia Zimbardi",
+    "url": "https://flaviazim.com/typefaces/melindrosa",
+    "designer": "Flavia Zimbardi",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "art deco lettering revival",
+    "classification_notes": "A display face referencing the lettering of Brazilian Art Deco artist J. Carlos, classified as display for its decorative, headline-scale intent.",
+    "weights": [
+      "Giga"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Melindrosa"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "art deco",
+      "brazilian design",
+      "decorative",
+      "vintage"
+    ],
+    "summary": "A display face referencing Brazilian Art Deco master J. Carlos, named after his recurring 1920s feminist 'Melindrosa' character.",
+    "description": "Melindrosa draws on early twentieth-century Brazilian magazine lettering, with a geometric lowercase, dotted O variants and multiple cap styles from narrow to wide. It's in progress and sold exclusively through Future Fonts.",
+    "foundry_blurb": "Flavia Zimbardi describes Melindrosa as a display typeface referencing the lettering work of Brazilian Art Deco master J. Carlos, representing the Melindrosa persona of the 1920s Brazilian feminist movement."
+  },
+  {
+    "name": "ZC Casual",
+    "foundry": "Flavia Zimbardi",
+    "url": "https://flaviazim.com/typefaces/zc-casual",
+    "designer": "Flavia Zimbardi and Caetano Calomino",
+    "year": 2026,
+    "category": "script",
+    "subcategory": "sign-painting casual script",
+    "classification_notes": "A brush-based casual script drawing on Brazilian hand-painted sign traditions and North American speed-stroke lettering.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "ZC Casual"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "brush lettering",
+      "casual",
+      "brazilian design",
+      "signage"
+    ],
+    "summary": "A brush-based casual script mixing Brazilian hand-painted sign traditions with North American speed-stroke lettering.",
+    "description": "ZC Casual carries Caetano Calomino's brushwork through five weights, built for show cards and comics as much as continuous text. The variable font is included with the family licence.",
+    "foundry_blurb": "Flavia Zimbardi and Caetano Calomino describe ZC Casual as a dynamic design full of mannerisms, authentic to Calomino's brushwork, stunning for show cards and oddly delightful in continuous text."
+  },
+  {
+    "name": "Jobim",
+    "foundry": "Flavia Zimbardi",
+    "url": "https://flaviazim.com/women-in-type/jobim",
+    "designer": "Flavia Zimbardi and Inga Plönnigs",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "vernacular headline serif",
+    "classification_notes": "A headline serif drawing on the French classic Vendome, deliberately trading Vendome's dynamic flow for a more orthogonal, vernacular structure taken from film poster lettering.",
+    "weights": [
+      "Compressed Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Jobim"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "headline serif",
+      "brazilian design",
+      "editorial",
+      "vernacular"
+    ],
+    "summary": "A brutal yet elegant headline serif reworking Vendome through the vernacular lettering of the Orfeu Negro poster.",
+    "description": "Jobim takes Vendome as its primary reference, then swaps that revival's dynamic flow for a plainer, more orthogonal axis based on the poster lettering for Orfeu Negro. Currently released as a single Compressed Black style, with a 48-style family planned.",
+    "foundry_blurb": "Flavia Zimbardi and Inga Plönnigs describe Jobim as drifting from a historical Vendome revival toward a vernacular approach based on the Orfeu Negro poster, both brutal and elegant."
+  },
+  {
+    "name": "Hanae",
+    "foundry": "Flavia Zimbardi",
+    "url": "https://flaviazim.com/women-in-type/hanae",
+    "designer": "Flavia Zimbardi and Ayaka B. Ito",
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "contemporary editorial serif",
+    "classification_notes": "A contemporary serif drawing on Caslon's Old Style Antique structure, Bookman's x-height and width, and Baskerville's quirks, named for fashion designer Hanae Mori.",
+    "weights": [
+      "Hairline",
+      "Regular",
+      "Bold",
+      "Super"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hanae"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "fashion",
+      "brazilian design"
+    ],
+    "summary": "An editorial-fashion serif blending Caslon's Old Style Antique bones with Bookman's width and Baskerville's quirks, named for Hanae Mori.",
+    "description": "Hanae ties familiarity to elegance, evolving from Old Style Antique with a large x-height and wide proportions borrowed from Bookman and the classic feel of Times New Roman. It's in progress across four weights, Hairline to Super.",
+    "foundry_blurb": "Flavia Zimbardi and Ayaka B. Ito describe Hanae as editorial in its heart and fashion in its soul, tying familiarity and beauty, elegance and fluidity, named after trailblazing designer Hanae Mori."
+  },
+  {
+    "name": "Octavia",
+    "foundry": "Flavia Zimbardi",
+    "url": "https://flaviazim.com/women-in-type/octavia",
+    "designer": "Flavia Zimbardi and Tida Tep",
+    "year": 2023,
+    "category": "serif",
+    "subcategory": "film noir low-contrast serif",
+    "classification_notes": "A low-contrast serif modelled on 1940s and 1950s film noir title and end-credit lettering, built for legibility at small sizes against dark backgrounds.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Octavia"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "low-contrast",
+      "film",
+      "vintage",
+      "editorial"
+    ],
+    "summary": "A low-contrast serif in the spirit of 1940s and 1950s film noir titles, built to hold up in reverse at small sizes.",
+    "description": "Octavia takes its nostalgic charm from film noir title and end-credit lettering, with an open colour designed for optimal readability against dark backgrounds. A single Regular style is out now, with a full sixteen-style family from Hairline to Black planned.",
+    "foundry_blurb": "Flavia Zimbardi and Tida Tep describe Octavia as a low contrast type family inspired by film noir titles and end credits from the 1940s to 50s, shining with a nostalgic charm and open colour."
+  },
+  {
+    "name": "Profane",
+    "foundry": "Flavia Zimbardi",
+    "url": "https://flaviazim.com/women-in-type/profane",
+    "designer": "Tassiana Nuñez Costa",
+    "year": 2024,
+    "category": "blackletter",
+    "subcategory": "medieval-inscription blackletter",
+    "classification_notes": "A modern take on fourteenth-century Metz Cathedral inscriptions, keeping enough of blackletter's broken structure and gargoyle-like terminals to sit in that category despite its contemporary rounded serifs.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Profane"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "medieval",
+      "display",
+      "experimental"
+    ],
+    "summary": "A modern take on fourteenth-century Metz Cathedral inscriptions, mixing gargoyle-like terminals with rounded serifs and gooey ligatures.",
+    "description": "Profane merges angularity and softness, keeping enough of its medieval inscription source in diamond-shaped counterforms and sharp terminals while softening the overall texture with contemporary details. Published on Flavia Zimbardi's Women In Type imprint with collaborator Fátima Lázaro.",
+    "foundry_blurb": "Tassiana Nuñez Costa describes Profane as a modern interpretation of fourteenth-century inscriptions found in the Metz Cathedral, merging angularity and softness for a striking graphic tension."
+  },
+  {
+    "name": "Corax",
+    "foundry": "Flavia Zimbardi",
+    "url": "https://flaviazim.com/women-in-type/corax",
+    "designer": "Júlia Lago",
+    "year": 2024,
+    "category": "serif",
+    "subcategory": "high-contrast calligraphic serif",
+    "classification_notes": "A high-contrast serif exploring italic construction within upright letterforms, with calligraphic influence and a gothic edge.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Corax"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "high-contrast",
+      "calligraphic",
+      "gothic",
+      "editorial"
+    ],
+    "summary": "A high-contrast serif that builds italic-style construction into upright letterforms, with a calligraphic touch and a gothic edge.",
+    "description": "Corax explores what happens when italic letter construction is forced into an upright stance, producing what its designer calls 'a beautiful Frankenstein.' It won silver at the Brazil Design Award 2025 and was selected for the 10th Bienal de Tipografía Latinoamericana.",
+    "foundry_blurb": "Júlia Lago describes Corax as a sophisticated, high contrast serif typeface exploring italic construction in upright letterforms, with calligraphic influences and an unexpected gothic twist."
+  },
+  {
+    "name": "Gigio",
+    "foundry": "Flavia Zimbardi",
+    "url": "https://flaviazim.com/women-in-type/gigio",
+    "designer": "Ana Laydner",
+    "year": 2024,
+    "category": "slab",
+    "subcategory": "comic-influenced slab serif",
+    "classification_notes": "A condensed slab serif combining mechanical structure with calligraphic strokes, developed for comic-book style narrative use.",
+    "weights": [
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gigio"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "comic",
+      "condensed",
+      "editorial",
+      "brazilian design"
+    ],
+    "summary": "A friendly, condensed slab serif inspired by comic books, mixing mechanical structure with calligraphic strokes across five weights.",
+    "description": "Gigio came out of Ana Laydner's graduation project at CDT-UBA in Buenos Aires, offering rather condensed proportions that work in text while uncovering quirky details at larger sizes. It's published on Flavia Zimbardi's Women In Type imprint.",
+    "foundry_blurb": "Ana Laydner describes Gigio as a friendly yet strong slab serif inspired by comic books, combining a mechanical structure with calligraphic strokes and rather condensed proportions."
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "name": "Asphodel",
+    "foundry": "Alexandre Créquer",
+    "url": "https://www.alex-creq.com/typefaces/asphodel",
+    "designer": "Alexandre Créquer",
+    "year": null,
+    "category": "script",
+    "subcategory": "connected display script",
+    "classification_notes": "Letters link into a single continuous line rather than sitting as independent glyphs, closer to a logotype system than a conventional text script, which places it in the script category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Asphodel"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "display",
+      "connected",
+      "logotype",
+      "free",
+      "experimental"
+    ],
+    "summary": "A free connected display face where letters link into a single flowing line, built for logotype-style compositions.",
+    "description": "Asphodel joins its letters into a single continuous line, closer to a logotype system than a conventional script. It ships as one free style with discretionary ligatures, case-sensitive forms and swash variants for the initial, capital and terminal positions.",
+    "foundry_blurb": "Alexandre Créquer lists Asphodel's features as discretionary ligatures, case-sensitive forms, initial, capital and terminal swashes, and a standard ampersand variant."
+  },
+  {
+    "name": "Ring",
+    "foundry": "Alexandre Créquer",
+    "url": "https://www.alex-creq.com/typefaces/Ring",
+    "designer": "Alexandre Créquer",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "rounded grotesque",
+    "classification_notes": "A bold, rounded grotesque with squared dots and alternate R and K forms, read as sans-serif rather than display given its full seven-weight text-style range.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ring"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "rounded",
+      "grotesque",
+      "display",
+      "branding",
+      "alternates"
+    ],
+    "summary": "A rounded grotesque in seven weights with matching italics, built with squared dots and a handful of playful alternates.",
+    "description": "Ring is a bold, rounded sans running from Thin to Black with a matching italic at every weight. Alternate R and K forms and squared dots give it a bit of personality without disturbing its general-purpose grotesque structure.",
+    "foundry_blurb": "Alexandre Créquer lists Ring's features as discretionary ligatures, case-sensitive forms, alternate R, alternate K and k, and squared dots, across 14 styles."
+  },
+  {
+    "name": "Mosa",
+    "foundry": "Alexandre Créquer",
+    "url": "https://www.alex-creq.com/typefaces/mosa",
+    "designer": "Alexandre Créquer",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "Wide circular letterforms and sharply cut diagonals built for caps-forward display use, in the geometric sans tradition.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mosa"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "sans-serif",
+      "display",
+      "caps",
+      "branding"
+    ],
+    "summary": "A geometric caps-forward sans in five weights, with a diagonal-cut M and A that give its wordmarks a distinct silhouette.",
+    "description": "Mosa is a geometric sans running from Thin to Black, built around wide circular letterforms and sharply cut diagonals. Alternate A, E and F forms plus thin punctuation and diacritics round out the set.",
+    "foundry_blurb": "Alexandre Créquer notes Mosa's discretionary ligatures, thin punctuation and diacritics, and alternate A, and E and F forms."
+  },
+  {
+    "name": "Large",
+    "foundry": "Alexandre Créquer",
+    "url": "https://www.alex-creq.com/typefaces/large",
+    "designer": "Alexandre Créquer",
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast display serif",
+    "classification_notes": "Pronounced thick-thin stroke contrast and old style figures place it as an elegant high-contrast display serif rather than a text face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Large"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "high-contrast",
+      "elegant",
+      "editorial"
+    ],
+    "summary": "A high-contrast display serif with old style figures, built for elegant headline and logotype work.",
+    "description": "Large is a single-weight display serif with pronounced contrast between thick and thin strokes, paired with a companion italic. Old style figures, case-sensitive forms and an alternate Q add refinement to what is otherwise a spare, elegant letter.",
+    "foundry_blurb": "Alexandre Créquer lists Large's features as discretionary ligatures, old style figures, case-sensitive forms and an alternate Q, across regular and italic."
+  },
+  {
+    "name": "Sagace",
+    "foundry": "Alexandre Créquer",
+    "url": "https://www.alex-creq.com/typefaces/sagace",
+    "designer": "Alexandre Créquer",
+    "year": null,
+    "category": "serif",
+    "subcategory": "flared wedge-serif display",
+    "classification_notes": "Heavy flared wedge serifs across a full weight range place it as a bold display serif built for confident headline use.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sagace"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "wedge-serif",
+      "bold",
+      "editorial",
+      "branding"
+    ],
+    "summary": "A bold wedge-serif display face in five weights with matching italics, built for confident headline work.",
+    "description": "Sagace is a display serif with heavy, flared wedge serifs, running from Thin to Bold with a matching italic at every weight. Alternate a, g, r and Q forms and case-sensitive figures give it room for customisation in logotype use.",
+    "foundry_blurb": "Alexandre Créquer notes Sagace's discretionary ligatures, case-sensitive forms and alternate glyphs for a, g, r and Q, across 10 styles."
+  },
+  {
+    "name": "Pouler",
+    "foundry": "Alexandre Créquer",
+    "url": "https://www.alex-creq.com/typefaces/pouler",
+    "designer": "Alexandre Créquer",
+    "year": null,
+    "category": "display",
+    "subcategory": "playful slab/stencil caps",
+    "classification_notes": "Thick, faintly irregular strokes and quirky curved terminals on an all-caps single style place it as a playful display face rather than a workhorse text font.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Pouler"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "slab",
+      "caps",
+      "playful",
+      "free",
+      "poster"
+    ],
+    "summary": "A free, bold all-caps display face with chunky, slightly irregular strokes built for posters and short headlines.",
+    "description": "Pouler is a single-weight, all-caps display face with thick, faintly wobbly strokes and quirky curved terminals. It ships free, with discretionary ligatures as its one OpenType feature.",
+    "foundry_blurb": "Alexandre Créquer notes Pouler for its discretionary ligatures."
+  },
+  {
+    "name": "Aukera",
+    "foundry": "Alexandre Créquer",
+    "url": "https://www.alex-creq.com/typefaces/aukera",
+    "designer": "Alexandre Créquer",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric display",
+    "classification_notes": "A single-weight geometric display face offering alternate characters rather than a weight range, placed as sans-serif given no serif detailing is described.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Aukera"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "sans-serif",
+      "geometric",
+      "free",
+      "alternates"
+    ],
+    "summary": "A free single-weight display face with alternate A, C, E, F and Q forms for quick customisation.",
+    "description": "Aukera is a free, single-weight display face offering discretionary ligatures and alternate characters for A, C, E, F and Q, giving it some flexibility in logotype and short-text settings.",
+    "foundry_blurb": "Alexandre Créquer notes Aukera as a free font with discretionary ligatures and alternate characters for A, C, E, F and Q."
+  }
+]

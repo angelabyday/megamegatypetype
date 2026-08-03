@@ -1,0 +1,2058 @@
+[
+  {
+    "name": "Acme Gothic",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/acme-gothic/",
+    "designer": "Mark Simonson",
+    "year": 2018,
+    "category": "sans-serif",
+    "subcategory": "thick-and-thin gothic",
+    "classification_notes": "A thick-and-thin American gothic revival; the strong stroke contrast puts it with the gothic/grotesque family rather than a plain grotesque.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Compressed",
+      "Condensed",
+      "standard",
+      "Wide",
+      "Extra Wide"
+    ],
+    "subfamilies": [
+      "Acme Gothic"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "gothic",
+      "vintage",
+      "display",
+      "branding",
+      "vernacular",
+      "wide-family"
+    ],
+    "summary": "A five-width, five-weight American gothic revival built to cover the plain, workman-like lettering style other revivals overdo or under-do.",
+    "description": "Acme Gothic revives the thick-and-thin gothic lettering common in the US in the early twentieth century, a style Mark Simonson felt existing revivals always pushed too far in one direction or another. Twenty-five styles across five widths and five weights give it a lot of range for a single design idea.",
+    "foundry_blurb": "Simonson describes Acme Gothic as capturing the plain, workman-like, vernacular gothic style that earlier attempts got wrong by being too quirky, too English, too art deco, too modern or too art nouveau. Five widths (Compressed, Condensed, normal, Wide, Extrawide) each come in five weights (Light, Regular, Semibold, Bold, Black) for twenty-five styles total."
+  },
+  {
+    "name": "Anonymous Pro",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/anonymous/",
+    "designer": "Mark Simonson",
+    "year": 2009,
+    "category": "mono",
+    "subcategory": "monospaced coding font",
+    "classification_notes": "A fixed-width family built for code, so it sits squarely in mono rather than any text or display category.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Anonymous Pro",
+      "Anonymous Pro Minus"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "code",
+      "programming",
+      "free",
+      "open-source",
+      "technical"
+    ],
+    "summary": "A free, open-source fixed-width family for code, descended from Mark Simonson's own 1990s bitmap font Anonymous.",
+    "description": "Anonymous Pro is a four-style monospaced family aimed squarely at programming use, with an international Unicode character set covering Western and Central European Latin, Greek and Cyrillic. It traces back to Anonymous, Simonson's TrueType version of a mid-90s Macintosh bitmap font by Susan Lesch and David Lamkins. It ships in two versions, with and without embedded bitmaps for small sizes, and is released under the Open Font License.",
+    "foundry_blurb": "Simonson calls Anonymous Pro a family of four fixed-width fonts designed with coding in mind, with an international Unicode-based character set supporting most Western and Central European Latin-based languages plus Greek and Cyrillic. Anonymous Pro Minus drops the embedded bitmaps used for small sizes in the standard version. Both are distributed under the Open Font License."
+  },
+  {
+    "name": "Blakely",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/blakely/",
+    "designer": "Mark Simonson",
+    "year": 2000,
+    "category": "sans-serif",
+    "subcategory": "art deco geometric sans (caps-only)",
+    "classification_notes": "A caps-only geometric sans with condensed, near letter-spaced proportions in its lightest weight, close kin to Kabel Condensed and other 1930s deco faces.",
+    "weights": [
+      "Light",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blakely"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "art-deco",
+      "condensed",
+      "caps-only",
+      "branding",
+      "vintage",
+      "logotype"
+    ],
+    "summary": "A caps-only condensed art deco sans that started life as a custom logo design for a 1990s mail-order gift catalogue.",
+    "description": "Blakely began as a logo Mark Simonson drew in the early 90s for the Signals gift catalogue, later developed into a full caps-only font. It sits close to Kabel Condensed and Newport, both circa 1930, and its spacing is tuned specifically for all-caps setting. Bold and Black weights were added a few years after the original Light.",
+    "foundry_blurb": "Simonson describes Blakely as a condensed, sans serif art deco design similar in some ways to Kabel Condensed and Newport, both from around 1930. It's a caps-only design with spacing optimised for all-caps settings, nearly letter-spaced in the Light weight. Bold and Black were added in 2003, having been in mind from the start."
+  },
+  {
+    "name": "Bookmania",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/bookmania/",
+    "designer": "Mark Simonson",
+    "year": 2011,
+    "category": "serif",
+    "subcategory": "Bookman-style old-style serif with swash italics",
+    "classification_notes": "A Bookman revival with old-style serif structure, classed as serif rather than slab since it keeps traditional bracketed serifs and a classic sloped italic.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bookmania"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "bookman",
+      "swash",
+      "editorial",
+      "display",
+      "warm",
+      "versatile"
+    ],
+    "summary": "A five-weight Bookman revival with over 680 swash characters, keeping the classic sloped roman italic that some other revivals drop.",
+    "description": "Bookmania combines the sturdy build of the original 1901 Bookman Oldstyle with the swashier Bookmans that followed in the 1960s. With more swash characters than any earlier Bookman, it covers a wide range from display to reasonably comfortable text use, and its italic stays true to the old sloped-roman style rather than a redrawn cursive.",
+    "foundry_blurb": "Simonson says Bookmania combines the sturdy elegance of the original Bookman Oldstyle (1901) with the swashy exuberance of the Bookmans of the 1960s, with over 680 swash characters, more than any previous Bookman. The broad range of weights suits display use but also works for text, and unlike some Bookman revivals it retains the original classic sloped roman for the italic."
+  },
+  {
+    "name": "Changeling Neo",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/changeling-neo/",
+    "designer": "Mark Simonson",
+    "year": 2008,
+    "category": "display",
+    "subcategory": "unicase display sans, Photo-Typositor revival",
+    "classification_notes": "A caps-plus-lowercase-variant unicase display face; grouped as display rather than plain sans given its novelty unicase mixing and stencil/inline extras.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Changeling Neo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "unicase",
+      "retro",
+      "display",
+      "stencil",
+      "inline",
+      "branding"
+    ],
+    "summary": "A redesign of a single-weight 1975 Photo-Typositor face, expanded into a unicase family with stencil and inline extras.",
+    "description": "Changeling Neo redraws China, a 1975 VGC Photo-Typositor face that only existed in one all-caps weight with a handful of alternates. Simonson reworked the letter shapes for better colour and added a full set of lowercase-style variants, so the family can be set in endless unicase combinations, then added Light, Regular, Stencil and Inline styles on top of the original Bold-equivalent weight.",
+    "foundry_blurb": "Simonson describes Changeling Neo as his redesign and expansion of China, a VGC Photo-Typositor face released in 1975 that had only one weight in all-caps with a few alternate characters. He redesigned many characters for better type colour, added a complete set of lowercase-style variants for unicase combinations, and added four more styles: Light, Regular, Stencil and Inline."
+  },
+  {
+    "name": "Cheesecake",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/cheesecake/",
+    "designer": "Mark Simonson",
+    "year": 2024,
+    "category": "script",
+    "subcategory": "ultra-bold 1960s-70s script",
+    "classification_notes": "A connected, ultra-bold script drawn in one weight, so it belongs with the script faces rather than any structured text category.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cheesecake"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "bold",
+      "retro",
+      "branding",
+      "packaging",
+      "poster"
+    ],
+    "summary": "An ultra-bold single-weight script that plays sixties and seventies lettering as a broader, more exaggerated caricature of itself.",
+    "description": "Cheesecake grew out of sketches Simonson kept making while developing Dreamboat. It takes the same ultra-bold script territory but simplifies it, with a bigger x-height and more extreme letterforms, plus an alternate cursive lowercase s and a set of matching dingbats. It's built for branding, advertising, posters, book covers and packaging rather than text.",
+    "foundry_blurb": "Simonson calls Cheesecake an ultra-bold script inspired by lettering of the sixties and seventies, a design he found himself compulsively drawing while developing Dreamboat. Cheesecake is simpler and less formal, almost a caricature of the style, with a larger x-height and more extreme forms, an alternate cursive-style lowercase s, and a full set of dingbats."
+  },
+  {
+    "name": "Coquette",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/coquette/",
+    "designer": "Mark Simonson",
+    "year": 2001,
+    "category": "script",
+    "subcategory": "unconnected upright script",
+    "classification_notes": "An unconnected upright script blending French script models with 1930s geometric sans proportions, so it's classed script rather than sans-serif.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Coquette"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "upright-script",
+      "geometric",
+      "elegant",
+      "branding",
+      "editorial",
+      "versatile"
+    ],
+    "summary": "An unconnected upright script hybridising French scripts like Typo Upright with 1930s geometric sans faces like Kabel, expanded from three weights to six.",
+    "description": "Coquette came from an idea Simonson had in the early 90s while designing a logo, taking several years and attempts to get right, a process he says taught him a lot about type design. It became one of his most popular releases and, by his own account, his favourite of everything he's designed. The original three weights (Light, Regular, Bold) grew to six in 2017 with the addition of Thin, Extrabold and Black, along with alternate characters, fractions, superscript and a full set of f-ligatures.",
+    "foundry_blurb": "Simonson describes Coquette as an unconnected upright script, a sort of hybrid between French scripts, such as Typo Upright, and 1930s-era geometric sans serifs, such as Kabel. The idea came to him in the early 90s while designing a logo, taking several tries over several years to get right, a process that taught him a lot about type design and drawing letters. Since release it's become one of his more popular fonts, which he says is gratifying since it's his favourite of all the fonts he's designed. In 2017 he expanded the original three weights (Light, Regular, and Bold) to six with the addition of Thin, Extrabold, and Black, plus several alternate characters, arbitrary fractions, superscript, a full set of f-ligatures, and math characters not included in earlier versions."
+  },
+  {
+    "name": "Diane Script & Diane Script Première",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/diane-script/",
+    "designer": "Mark Simonson",
+    "year": 2008,
+    "category": "script",
+    "subcategory": "1950s connecting script revival",
+    "classification_notes": "A connected calligraphic script revival, placed in script rather than serif or display given its joining lowercase and swirly capital forms.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Diane Script",
+      "Diane Script Première"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "revival",
+      "elegant",
+      "vintage",
+      "connecting-script",
+      "ligatures"
+    ],
+    "summary": "A revival of Roger Excoffon's 1956 script Diane, preserving both his elaborate original capitals and the simplified caps of the later release.",
+    "description": "Diane Script and its companion Diane Script Première revive Roger Excoffon's 1956 design in both the forms it was originally released in: the elaborate swirly-cap first version and the simplified-cap version that followed. Simonson added characters missing from the original, including an ampersand, drawing two versions, a plain one and a fancy one, both bundled into the Première cut. The typeface is owned by Grosse Pointe Group and sold under their licence rather than Simonson's own.",
+    "foundry_blurb": "Simonson describes Diane Script and Diane Script Première, made for FontHaus, as a revival of Diane, designed by Roger Excoffon in 1956. The initial version had elaborate, swirly caps; a second, simplified-cap version came later, and both are preserved in the revival, with Diane Script Première carrying the original caps. He added characters missing from the original, including an ampersand, in a plain and a fancy version, both included in Première."
+  },
+  {
+    "name": "Dreamboat",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/dreamboat/",
+    "designer": "Mark Simonson",
+    "year": 2022,
+    "category": "script",
+    "subcategory": "bold mid-century trademark script",
+    "classification_notes": "A bold connected script in the mid-century trademark-lettering tradition, so it sits with script rather than plain display.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Dreamboat"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "bold",
+      "retro",
+      "branding",
+      "logotype",
+      "variable-font"
+    ],
+    "summary": "A six-weight bold script nearly twenty years in the making, in the trademark-lettering tradition of Coca-Cola and Ford.",
+    "description": "Dreamboat takes on the bold script style popular in the early twentieth century and revived from the 1960s onward in custom lettering and logos, the kind still visible in trademarks like Ford, Coca-Cola and Schlitz. What started as a single style grew into six weights from Light to Black, with small caps, tails and an alternate lowercase t among its features. A variable font is included with the full family purchase.",
+    "foundry_blurb": "Simonson calls Dreamboat his take on the bold script style popular during the first few decades of the twentieth century and revived later in custom lettering and logos from the 1960s, sometimes evolving into psychedelic or pop-art forms. Numerous familiar trademarks still use this lettering style. The single original style became the Bold weight, expanding into six weights from Light to Black, with small caps, tails and an alternate lowercase t with a high crossbar."
+  },
+  {
+    "name": "Etna",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/etna/",
+    "designer": "Mark Simonson",
+    "year": 2020,
+    "category": "slab",
+    "subcategory": "Victorian wood type slab serif revival",
+    "classification_notes": "A revival of the Aetna wood type genre, a nineteenth-century slab serif style, so it's classed as slab rather than display despite its condensed display widths.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed",
+      "X Condensed",
+      "XX Condensed"
+    ],
+    "subfamilies": [
+      "Etna"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "wood-type",
+      "victorian",
+      "slab",
+      "display",
+      "condensed",
+      "variable-font"
+    ],
+    "summary": "A six-weight, four-width revival of the quirky Victorian Aetna wood type style, built to work as both text and display.",
+    "description": "Etna takes the Aetna wood type style of the late nineteenth century and turns its Victorian eccentricities into a complete modern family: six weights with matching italics, plus three condensed widths meant for display use. Old style and lining figures, alternates, true small caps and a set of dingbats round it out. Two variable fonts are included with the full purchase.",
+    "foundry_blurb": "Simonson says Etna was inspired by the Aetna wood type style of the late nineteenth century, taming this quirky Victorian design into a complete family suitable for modern use, with a full range of six weights and italics so it works for both text and display. It includes three condensed widths across all six weights, four figure styles, alternate characters, true small caps and a set of dingbats including arrows, stars, asterisks and manicules."
+  },
+  {
+    "name": "Felt Tip Roman",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/felt-tip-roman/",
+    "designer": "Mark Simonson",
+    "year": 1992,
+    "category": "script",
+    "subcategory": "handwriting facsimile",
+    "classification_notes": "A digitised facsimile of personal handwriting, placed in script since it reproduces a continuous handwritten letterform rather than a constructed text face.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Felt Tip Roman"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "handwriting",
+      "casual",
+      "personal",
+      "display",
+      "script"
+    ],
+    "summary": "Mark Simonson's own handwriting, hand-digitised rather than auto-traced, and one of his most popular releases.",
+    "description": "Felt Tip Roman was Simonson's first font release, a careful hand-digitisation of his own handwriting from 1989, well before handwriting fonts became common. Bold and Heavy weights were added later to give it a fuller range for display and casual text use.",
+    "foundry_blurb": "Simonson calls Felt Tip Roman one of his most popular fonts and the first he ever released. It's his own handwriting, carefully digitised by hand rather than auto-traced. Handwriting fonts are common now but weren't in 1989 when he started on it. Bold and Heavy weights followed later, added to create a more versatile set."
+  },
+  {
+    "name": "Felt Tip Senior",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/felt-tip-senior/",
+    "designer": "Mark Simonson",
+    "year": 2000,
+    "category": "script",
+    "subcategory": "handwriting facsimile",
+    "classification_notes": "A digitised facsimile of a family member's handwriting, kept in script for the same reason as Felt Tip Roman.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Felt Tip Senior"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "handwriting",
+      "casual",
+      "personal",
+      "quirky"
+    ],
+    "summary": "A facsimile of Mark Simonson's father's handwriting, originally made as a personal gift before its public release.",
+    "description": "Felt Tip Senior reproduces the handwriting of Simonson's father, an influence on his own hand seen in Felt Tip Roman. The mostly-capitals writing style leaves the lowercase with some unusual, idiosyncratic forms. It began life as a private gift in 1995 under the name Leroy Lettering, renamed before release to avoid confusion with an existing lettering-tool brand.",
+    "foundry_blurb": "Simonson describes Felt Tip Senior as a facsimile of his dad's handwriting, which had a big influence on his own. His dad almost always writes in caps, so the lowercase has some surprising and idiosyncratic forms. Simonson made the font as a gift for his dad in 1995 under the name Leroy Lettering, releasing it publicly as Felt Tip Senior with his dad's permission."
+  },
+  {
+    "name": "Felt Tip Woman",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/felt-tip-woman/",
+    "designer": "Mark Simonson",
+    "year": 2003,
+    "category": "script",
+    "subcategory": "handwriting facsimile",
+    "classification_notes": "A digitised facsimile of a named designer's handwriting, kept in script alongside the other Felt Tip fonts.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Felt Tip Woman"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "handwriting",
+      "casual",
+      "personal",
+      "editorial"
+    ],
+    "summary": "A handwriting facsimile based on graphic designer Pat Thompson's own hand, named after a misheard remark about Felt Tip Roman.",
+    "description": "Felt Tip Woman digitises the handwriting of graphic designer Pat Thompson. The name comes from a mix-up: an editor mistook a book set in Felt Tip Roman for handwriting by Thompson and called it 'Felt Tip Woman', which stuck as the name once Thompson's own writing became the basis for a new font.",
+    "foundry_blurb": "Simonson explains that Felt Tip Woman is based on the handwriting of graphic designer Pat Thompson. The name came from a misunderstanding: Thompson noticed a children's book journal reviewing a book set in Felt Tip Roman, and when she pointed this out, the editor asked, 'Did you say Felt Tip Woman? What a strange name for a typeface!' They decided it would be the perfect name for a font based on her own handwriting."
+  },
+  {
+    "name": "Filmotype Gay",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/filmotype-gay/",
+    "designer": "Mark Simonson",
+    "year": 2011,
+    "category": "sans-serif",
+    "subcategory": "compact geometric sans, Filmotype revival",
+    "classification_notes": "A Futura-adjacent compact geometric sans with a one-story a and simplified t and u, so it sits in sans-serif rather than script or display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Filmotype Gay"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "retro",
+      "1950s",
+      "compact",
+      "revival",
+      "display"
+    ],
+    "summary": "A revival of a 1950s Filmotype headline face, one of a compact-sans family with names starting with G, close in spirit to Futura Compressed.",
+    "description": "Filmotype Gay belongs to a run of compact geometric sans faces Filmotype originally named with a G, sharing Futura's one-story a, round dots and simplified t and u. Simonson's revival keeps the whip-lash spine on the S and the subtly hand-lettered feel of the original 1950s design. It's owned by Font Diner and licensed under their terms.",
+    "foundry_blurb": "Simonson says Filmotype Gay was originally designed and released in the 1950s, a member of a range of compact sans serif fonts whose names begin with G, a Filmotype convention, sharing much with Futura: the one-story a, round dots and simplified t and u. If Futura Compressed existed, it would look a lot like this. Gay has its own traits too, like the prominent whip-lash spine on the S and a subtle hand-lettered feel."
+  },
+  {
+    "name": "Filmotype Gem",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/filmotype-gem/",
+    "designer": "Mark Simonson",
+    "year": 2011,
+    "category": "sans-serif",
+    "subcategory": "compact all-caps geometric sans, Filmotype revival",
+    "classification_notes": "An all-caps Futura-adjacent compact sans, kept in sans-serif alongside its Filmotype G-series siblings.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Filmotype Gem"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "retro",
+      "all-caps",
+      "compact",
+      "revival"
+    ],
+    "summary": "An all-caps revival of a 1950s Filmotype face, part of the same compact geometric-sans G-series as Filmotype Gay and Ginger.",
+    "description": "Filmotype Gem is the all-caps member of Filmotype's G-named family of compact geometric sans faces, sharing their Futura-like one-story a, round dots and simplified t and u. Simonson's revival keeps the whiplash S spine and hand-lettered feel of the 1950s original. It's owned by Font Diner and licensed under their terms.",
+    "foundry_blurb": "Simonson describes Filmotype Gem as originally designed and released in the 1950s, an all-caps design and part of a range of compact sans serif fonts whose names begin with G, a Filmotype convention, with much in common with Futura. Gem has its own characteristics too, such as the prominent whiplash spine on the S and a subtle hand-lettered feel."
+  },
+  {
+    "name": "Filmotype Ginger",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/filmotype-ginger/",
+    "designer": "Mark Simonson",
+    "year": 2008,
+    "category": "sans-serif",
+    "subcategory": "compact geometric sans, Filmotype revival",
+    "classification_notes": "Another Futura-adjacent compact sans from the Filmotype G-series, classed as sans-serif for the same reasons as its siblings.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Filmotype Ginger"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "retro",
+      "1950s",
+      "compact",
+      "revival"
+    ],
+    "summary": "A revival of a 1950s Filmotype face from the same compact geometric-sans G-series as Gay and Gem.",
+    "description": "Filmotype Ginger shares its G-series siblings' Futura-like DNA: one-story a, round dots, simplified t and u. Simonson's digitisation keeps the whip-lash S spine and hand-lettered warmth of the 1950s original. It's owned by Font Diner and licensed under their terms, and has a dedicated outline/shadow companion in Filmotype Vanity.",
+    "foundry_blurb": "Simonson says Filmotype Ginger was originally designed and released in the 1950s, a member of the G-named range of compact sans serif fonts sharing traits with Futura: the one-story a, round dots and simplified t and u. If Futura Compressed existed, it would look a lot like this. Ginger has its own unique characteristics too, including the prominent whip-lash spine on the S and a subtle hand-lettered feel."
+  },
+  {
+    "name": "Filmotype Glenlake",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/filmotype-glenlake/",
+    "designer": "Mark Simonson",
+    "year": 2007,
+    "category": "sans-serif",
+    "subcategory": "rectangular gothic, Filmotype revival",
+    "classification_notes": "A rectangular, Futura-constructed gothic revival, classed sans-serif alongside the rest of the Filmotype G-series.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Filmotype Glenlake"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "gothic",
+      "rectangular",
+      "retro",
+      "revival",
+      "compact"
+    ],
+    "summary": "A revival of a 1955 Filmotype face with an unusually rectangular look among its G-series siblings, close in spirit to Compacta.",
+    "description": "Filmotype Glenlake is part of the same G-named Filmotype series as Gay, Gem and Ginger but stands out for its rectangular proportions, which Simonson sees as a forerunner to faces like Compacta. It keeps the whiplash S spine and Futura-like construction of the other revivals in the series, along with a subtle hand-lettered feel. Owned by Font Diner and licensed under their terms.",
+    "foundry_blurb": "Simonson describes Filmotype Glenlake as a classic American gothic originally designed and released in 1955. It's part of the G-named Filmotype series but unique in having a very rectangular look, which to his eye looks like a forerunner to faces like Compacta, with its own traits such as the prominent whiplash spine on the S, Futura-like construction and a subtle hand-lettered feel."
+  },
+  {
+    "name": "Filmotype Honey",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/filmotype-honey/",
+    "designer": "Mark Simonson",
+    "year": 2010,
+    "category": "script",
+    "subcategory": "1950s casual connecting brush script",
+    "classification_notes": "A connected brush script with automatic contextual joins, so it belongs with the script faces rather than sans or display.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Filmotype Honey"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "brush-script",
+      "casual",
+      "retro",
+      "revival",
+      "connecting"
+    ],
+    "summary": "A casual 1950s brush script revival with contextual alternates that automatically join letters, replacing what Filmotype operators once did by hand.",
+    "description": "Filmotype Honey is a typical casual brush script of its era, described by Simonson as urbane and energetic. Its lowercase letters have multiple variants designed to connect properly with whatever comes before and after them, a job originally done manually on the Filmotype machine but now automatic through OpenType contextual alternates.",
+    "foundry_blurb": "Simonson calls Filmotype Honey a casual brush script typical of the 1950s, urbane, energetic and casual all at once, the kind of face you half expect to offer you a cigarette and a drink. The lowercase letters have multiple variations designed to link up properly with whatever is around them, work the original Filmotype operator did manually but which now happens automatically in an OpenType-savvy program."
+  },
+  {
+    "name": "Filmotype Vanity",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/filmotype-vanity/",
+    "designer": "Mark Simonson",
+    "year": 2008,
+    "category": "sans-serif",
+    "subcategory": "outline/shadow companion, Filmotype revival",
+    "classification_notes": "An outline and shadow companion face to a sans-serif design, classed sans-serif to match the base face it layers with.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Filmotype Vanity"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "outline",
+      "shadow",
+      "retro",
+      "layered",
+      "revival"
+    ],
+    "summary": "The outline/shadow companion to Filmotype Ginger, designed to be layered underneath it for a filled-shadow effect.",
+    "description": "Filmotype Vanity is Filmotype Ginger's shadow partner, named under Filmotype's convention of giving outline and shadow effects names starting with V rather than a more obvious 'Ginger Shadow'. Tracked and layered correctly, Ginger can sit on top of Vanity to create a filled shadow effect.",
+    "foundry_blurb": "Simonson explains that Filmotype Vanity was originally designed and released in the 1950s as the outline/shadow companion to Filmotype Ginger. Filmotype had its own peculiar way of naming fonts, so outline or shadow effects got names starting with V, hence Vanity. His tip: track Filmotype Ginger to 20 units and place it on a lower layer, and it can be used as a fill for Vanity."
+  },
+  {
+    "name": "Filmotype Zanzibar",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/filmotype-zanzibar/",
+    "designer": "Mark Simonson",
+    "year": 2008,
+    "category": "script",
+    "subcategory": "ornate semi-script italic revival",
+    "classification_notes": "A highly stylised italic that reads as a script, so it's classed script even though Simonson describes it as a semi-script.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Filmotype Zanzibar"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "semi-script",
+      "ornate",
+      "retro",
+      "revival",
+      "display"
+    ],
+    "summary": "An ornate 1950s semi-script pairing spiralling capitals with a condensed, Bodoni-like italic lowercase.",
+    "description": "Filmotype Zanzibar combines outlandishly ornate capitals, seemingly inspired by musical notation, with a condensed Bodoni-like italic lowercase. Simonson describes it as really a highly stylised italic rather than a true script, though the overall effect reads as one. His revival expands the character set well beyond the original film font.",
+    "foundry_blurb": "Simonson calls Filmotype Zanzibar a classic semi-script originally designed and released in the 1950s, as quirky as it is elegant, combining outlandishly ornate caps with a condensed, Bodoni-like italic lowercase. The overall impression is that of a script, but it's really a highly stylised italic. The capitals are a riot of spirals and abrupt turns, seemingly inspired by musical notation."
+  },
+  {
+    "name": "Gertie",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/gertie/",
+    "designer": "Mark Simonson",
+    "year": 2024,
+    "category": "slab",
+    "subcategory": "ultra-bold spur-serif display",
+    "classification_notes": "An ultra-bold all-caps face with spur-serif details, closer to a decorated slab than a plain sans or a text serif.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gertie"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "spur-serif",
+      "ultra-bold",
+      "display",
+      "vintage",
+      "comic-lettering"
+    ],
+    "summary": "An ultra-bold all-caps display face inspired by Winsor McCay's title lettering for Little Nemo, named after his 1914 animated short.",
+    "description": "Gertie takes its cue from the title lettering Winsor McCay used on his newspaper comic strip Little Nemo, which ran from 1905 to 1927. Named after McCay's 1914 short Gertie the Dinosaur, generally considered the first animated character with personality, the font is an ultra-bold all-caps spur-serif design for display use, complete with a set of matching dingbats.",
+    "foundry_blurb": "Simonson says Gertie was inspired by the lettering of comic artist and animation pioneer Winsor McCay, specifically the title lettering in his Little Nemo comic strip, which ran in Sunday newspapers from 1905 to 1927. The name comes from his 1914 animated short Gertie the Dinosaur, considered the first to portray a character with personality. Gertie the font is an ultra-bold all-caps spur-serif design for display use with a set of matching dingbats."
+  },
+  {
+    "name": "Goldenbook",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/goldenbook/",
+    "designer": "Mark Simonson",
+    "year": 2003,
+    "category": "serif",
+    "subcategory": "art deco inscriptional roman",
+    "classification_notes": "An art deco take on classic inscriptional roman capitals with an added lowercase, closer to serif than display given its Trajan-style letter construction.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Extra Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Goldenbook"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "art-deco",
+      "inscriptional",
+      "display",
+      "elegant",
+      "book-cover"
+    ],
+    "summary": "An art deco reinterpretation of a late-1920s magazine logotype, built out from just a handful of surviving letters into a full six-weight family.",
+    "description": "Goldenbook started from the logotype of The Golden Book Magazine, a literary title from the late 1920s. Simonson describes it as an art deco take on classic roman letterforms, something like an art deco Trajan with a lowercase added. Since only the logotype letters existed to work from, the rest was drawn to feel period-accurate rather than as a straightforward lettering-artist's invention.",
+    "foundry_blurb": "Simonson says Goldenbook is based on the logotype of The Golden Book Magazine, a literary magazine from the late 1920s. It's an art deco take on classic roman letterforms, kind of an art deco Trajan but with lowercase. Only the logotype letters existed to work from, so he used his imagination for the rest, trying to stay true to the period as if it had been an actual font rather than a lettering artist's one-off. With its fine features it's best used large, and he sees it used often on book covers."
+  },
+  {
+    "name": "Grad",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/grad/",
+    "designer": "Phil Martin",
+    "year": 2004,
+    "category": "serif",
+    "subcategory": "old-style schoolbook serif",
+    "classification_notes": "A Century Schoolbook redesign with old-style serif structure and small caps and old-style figures, so it sits with serif text faces.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grad"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "schoolbook",
+      "old-style",
+      "swash",
+      "text",
+      "small-caps"
+    ],
+    "summary": "A Century Schoolbook redesign by veteran type designer Phil Martin, brought into OpenType by Mark Simonson with small caps, old-style figures and swash capitals.",
+    "description": "Grad started as Phil Martin's early-90s reworking of Century Schoolbook, done by hand-editing bitmapped fonts on a DOS PC and adding features like small caps, old-style figures, ligatures and swash capitals. Simonson later worked with Martin to bring the design into a modern three-style OpenType family.",
+    "foundry_blurb": "Simonson explains that Grad was designed in the early 90s by Phil Martin, creator of over 400 typefaces in the 60s and 70s and founder of Alphabet Innovations and Typespectra. Phil conceived Grad as a redesign of Century Schoolbook, editing bitmapped fonts on a DOS PC and making design changes, some subtle and some obvious, plus adding features like small caps, old style figures, ligatures and swash capitals. Working with Phil, Simonson brought Grad into the 21st century as a family of three feature-rich OpenType fonts."
+  },
+  {
+    "name": "Hardcover",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/hardcover/",
+    "designer": "Mark Simonson",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "display roman with simplified modern forms",
+    "classification_notes": "A serif built on a classic roman capital model with simplified, modern lowercase, intended for display rather than small text.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Hardcover"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "roman",
+      "book-cover",
+      "elegant",
+      "variable-font"
+    ],
+    "summary": "A display serif dating back to a 1978 sketch of mass-market book-cover lettering, since built out into seven weights with matching italics and small caps.",
+    "description": "Hardcover began as one of Simonson's earliest typeface ideas, a sketch from 1978 inspired by slick lettering he'd seen on mass-market book covers. The capitals follow a classic roman model reminiscent of Times New Roman but simplified for modern use, and the lowercase and figures echo that same construction, skipping ball terminals and angled serifs. It's built for large display use rather than dense text, with matching italics and small caps across all weights, plus two variable fonts bundled with the full family.",
+    "foundry_blurb": "Simonson calls Hardcover an elegant serif typeface intended for display use, one of his earliest typeface ideas, dating back to a sketch from 1978 while working one of his first design jobs, inspired by the slick lettering he'd seen on mass-market book covers. The capitals follow a classic roman model reminiscent of Times New Roman but with more modern, simplified forms, and the lowercase and figures are built the same way, avoiding ball terminals and angled serifs. Although it can be used in short blocks of text, it's designed to be used large, with matching italics and small caps for all weights and a set of dingbats."
+  },
+  {
+    "name": "Heckle",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/heckle/",
+    "designer": "Mark Simonson",
+    "year": 2026,
+    "category": "script",
+    "subcategory": "heavy 1940s-50s brush script",
+    "classification_notes": "A heavy brush script with sharp inner corners, kept in script for its connected, hand-lettered brush construction.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Heckle"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "brush-script",
+      "vintage",
+      "display",
+      "branding",
+      "variable-font"
+    ],
+    "summary": "A six-weight heavy brush script that began as a scrap-paper sketch of the word 'Heh' back in 2005.",
+    "description": "Heckle traces back to a tiny 2005 sketch with a 1940s/50s brush-script feel, drawn from memory rather than any specific source. Simonson committed to developing it properly in 2025, expanding the original sketch to six weights from Light to Black. Sharp inner corners on the curves give it a crisp, energetic look, alongside an alternate lowercase e, contextual all-caps alternates, automatic fractions and a set of dingbats.",
+    "foundry_blurb": "Simonson describes Heckle as a family of display fonts that began as a tiny sketch of the word 'Heh' on a scrap of paper back in 2005, a heavy brush script style with a 1940s/50s feel, not based on any particular source but purely from memory. After a draft of the upper- and lowercase in 2017 he committed to developing it in October 2025, expanding it to six weights. It uses sharp corners on the insides of curves for a crisp, energetic appearance, with an alternate lowercase e, contextual alternates for all-caps settings, automatic fractions and a set of dingbats."
+  },
+  {
+    "name": "HWT Konop",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/hwt-konop/",
+    "designer": "Mark Simonson",
+    "year": 2018,
+    "category": "mono",
+    "subcategory": "square monospaced wood type",
+    "classification_notes": "A fixed-width design on a square body so characters read the same in any orientation, which puts it with mono rather than display despite its wood type origins.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "12 Line",
+      "8 Line",
+      "6 Line"
+    ],
+    "subfamilies": [
+      "HWT Konop"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "wood-type",
+      "monospace",
+      "geometric",
+      "letterpress",
+      "rotatable"
+    ],
+    "summary": "A square monospaced wood type design made for the Hamilton Wood Type Legacy Project, built so characters can be set and rotated in any direction.",
+    "description": "HWT Konop is an original design Simonson made for the Hamilton Wood Type & Printing Museum, named after retired Hamilton employee Don Konop. Its bold, geometric gothic letters sit on a square monospaced body, so they can be arranged horizontally or vertically in any orientation, with OpenType stylistic sets to rotate characters 90 or 180 degrees. Three size designs echo the wood type versions, and all of Simonson's royalties from it go to the museum.",
+    "foundry_blurb": "Simonson calls HWT Konop an original wood type design he created for the Hamilton Wood Type & Printing Museum as part of the Hamilton Wood Type Legacy Project. It's a monospaced, square typeface so characters can be arranged in any orientation, with a bold gothic style similar to traditional gothic wood types but more geometric. The digital version includes three size designs (12 Line, 8 Line and 6 Line) set proportionally so their edges stay aligned, plus stylistic sets that rotate characters in place. All his royalties from Konop go to the museum."
+  },
+  {
+    "name": "Kandal",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/kandal/",
+    "designer": "Mark Simonson",
+    "year": 1994,
+    "category": "slab",
+    "subcategory": "narrow wedge serif with old-style traits",
+    "classification_notes": "A wedge-serif design following a slab-serif weight scheme where stroke contrast stays fairly constant, so it's classed slab rather than plain old-style serif.",
+    "weights": [
+      "Book",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kandal"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "wedge-serif",
+      "narrow",
+      "old-style",
+      "text",
+      "slab"
+    ],
+    "summary": "A narrow wedge-serif text face with old-style leanings, named after a small Norwegian town Simonson's ancestors came from.",
+    "description": "Kandal follows the weight scheme typical of slab-serif faces, where the contrast between thick and thin strokes stays roughly constant as the weight increases, while its proportions, especially in the capitals, run narrower than most serif text faces. The italic uses a modern cursive construction rather than a sloped roman.",
+    "foundry_blurb": "Simonson describes Kandal as a wedge serif design with some old style characteristics, following the weight scheme typically used for slab-serif typefaces, where the contrast between thick and thin strokes remains relatively constant as they get thicker. Its proportions are narrower than other serif typefaces, especially the caps, and the italic follows a modern cursive style of construction. The name comes from a small town in Norway where some of his ancestors were from."
+  },
+  {
+    "name": "Kinescope",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/kinescope/",
+    "designer": "Mark Simonson",
+    "year": 2007,
+    "category": "script",
+    "subcategory": "1940s brush script (cartoon lettering)",
+    "classification_notes": "A connected brush script with automatic letterform switching, kept in script alongside its Snicker sibling.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kinescope"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "brush-script",
+      "retro",
+      "cartoon",
+      "display",
+      "opentype-magic"
+    ],
+    "summary": "A dashing 1940s-style brush script inspired by hand-lettered titles from the Fleischer Brothers' Superman cartoons.",
+    "description": "Kinescope takes hand-lettered Superman cartoon titles as a jumping-off point, though much of it had to be invented rather than copied directly. OpenType contextual features automatically pick the best character shape for its position in a word, mimicking hand lettering. It was designed and released alongside a sister face, Snicker.",
+    "foundry_blurb": "Simonson calls Kinescope a dashing 1940s-style brush script, inspired by hand-lettered titles in Fleischer Brothers' Superman cartoon series. Although he used that as a starting point, there was much room for interpretation, and many characters had to be invented. Kinescope uses OpenType magic to mimic hand lettering, automatically choosing the best character shape based on its position in a word. It was designed alongside and released with another Fleischer Brothers-inspired design, Snicker."
+  },
+  {
+    "name": "Lakeside",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/lakeside/",
+    "designer": "Mark Simonson",
+    "year": 2008,
+    "category": "script",
+    "subcategory": "1940s flowing film-noir brush script",
+    "classification_notes": "A flowing connected brush script with automatic joining behaviour, classed script for the same reasons as Simonson's other brush faces.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lakeside"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "brush-script",
+      "film-noir",
+      "elegant",
+      "opentype-magic",
+      "display"
+    ],
+    "summary": "A flowing 1940s brush script inspired by the hand-lettered titles of Otto Preminger's 1944 film noir 'Laura', with three sizes of capitals.",
+    "description": "Lakeside uses OpenType logic to automatically mimic real script lettering, picking the best letterform based on neighbouring characters. It includes three capital heights: normal caps, taller elegant caps, and a small plain set for all-caps setting, something scripts don't usually allow for.",
+    "foundry_blurb": "Simonson describes Lakeside as a flowing 1940s-style brush script, inspired by hand-lettered titles in Otto Preminger's classic 1944 film noir movie 'Laura'. It uses OpenType magic to automatically mimic real script lettering, choosing the best letter shapes based on where they fall in a word and what letters are nearby. It also includes three sizes of capitals: normal capitals for typical settings, tall capitals for a more elegant effect, plus a small, plain set of capitals for setting in all caps, something not usually possible with script faces."
+  },
+  {
+    "name": "Madcap",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/madcap/",
+    "designer": "Mark Simonson",
+    "year": 2024,
+    "category": "display",
+    "subcategory": "novelty skewed all-caps lettering",
+    "classification_notes": "A skewed, all-caps novelty lettering style rooted in comic and greeting-card lettering, so it sits in display rather than script since the letters don't connect.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Madcap"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "novelty",
+      "comic",
+      "all-caps",
+      "branding",
+      "retro"
+    ],
+    "summary": "An all-caps novelty face built on skewed, off-grid geometry, rooted in the lettering style Simonson used as a teenager in the early seventies.",
+    "description": "Madcap revives a lettering habit Simonson picked up in high school, itself inspired by sixties comic book and greeting card lettering. Its liveliness comes from letters that avoid squaring off to any grid while keeping a consistent rhythmic logic, plus an alternate lowercase-style E and a full set of dingbats.",
+    "foundry_blurb": "Simonson says Madcap has its roots in a style of lettering he used frequently in high school in the early seventies, inspired by comic book and greeting card lettering from the sixties. Its lively appearance comes from skewed geometry that avoids anything aligning to a square axis or grid, yet does so with a rhythmic and consistent logic. It's an all-caps design, featuring an alternate lowercase-style E and a full set of dingbats."
+  },
+  {
+    "name": "Metallophile Sp8",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/metallophile-sp8/",
+    "designer": "Mark Simonson",
+    "year": 2003,
+    "category": "sans-serif",
+    "subcategory": "hot metal geometric sans facsimile",
+    "classification_notes": "A facsimile of an 8-point hot metal geometric sans, kept sans-serif given its Futura-adjacent construction despite its unusual production story.",
+    "weights": [
+      "Light",
+      "Medium"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Metallophile Sp8"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "hot-metal",
+      "text",
+      "warm",
+      "futura-adjacent"
+    ],
+    "summary": "A facsimile of 8-point hot metal type, capturing the warmth of point-size-specific metal casting in a Futura-like geometric sans.",
+    "description": "Metallophile Sp8 reproduces how a geometric sans face, close kin to Futura, actually looked when cast at 8 points on a hot metal typesetting machine. Because metal faces were cut for specific sizes rather than scaled from one master, they carried a warmth modern digital fonts usually iron out, which this facsimile deliberately keeps.",
+    "foundry_blurb": "Simonson describes Metallophile Sp8 as a facsimile of 8-point sans serif type as set on a hot metal typesetting machine. The effect is very different from modern digital renditions of its cousin, Futura, which are coldly precise and look quite different at text sizes. Hot metal faces were designed for specific point sizes, while modern digital faces take a one-font-for-all-sizes approach; Metallophile Sp8 captures much of the characteristic warmth of hot metal, which is particularly refreshing in such a geometric design."
+  },
+  {
+    "name": "Mostra Nuova",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/mostra-nuova/",
+    "designer": "Mark Simonson",
+    "year": 2009,
+    "category": "display",
+    "subcategory": "art deco geometric caps-and-lowercase",
+    "classification_notes": "A geometric art deco display face with dozens of alternates, classed display since it's built around poster lettering rather than text setting.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Heavy",
+      "Extra Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mostra Nuova"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "art-deco",
+      "geometric",
+      "display",
+      "poster",
+      "alternates"
+    ],
+    "summary": "A nine-weight expansion of Simonson's earlier caps-only Mostra, adding lowercase and dozens of alternates to a geometric Italian art deco poster style.",
+    "description": "Mostra Nuova is based on lettering seen on Italian art deco posters and advertising of the 1930s, tempered with optical adjustments so the geometry doesn't read as too mechanical. Simonson first released a caps-only version as Mostra in 2001; Mostra Nuova adds more weights, better language support and a lowercase, plus dozens of alternate characters ranging from plain to heavily stylised.",
+    "foundry_blurb": "Simonson says Mostra Nuova is based on a style of lettering seen on Italian art deco posters and advertising of the 1930s. Although it's very geometric, subtle optical adjustments keep it from looking too severely mechanical. He first released it in 2001 as Mostra, a caps-only design; Mostra Nuova has more weights, better language support and lowercase letters, with dozens of alternate characters providing stylistic possibilities from fairly plain to quite stylised."
+  },
+  {
+    "name": "Parkside",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/parkside/",
+    "designer": "Mark Simonson",
+    "year": 2018,
+    "category": "script",
+    "subcategory": "1930s-40s connecting script",
+    "classification_notes": "A connecting script that automatically links letterforms, so it belongs with the script faces rather than any structured serif or sans.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Parkside"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "vintage",
+      "connecting",
+      "opentype-magic",
+      "elegant"
+    ],
+    "summary": "A six-weight script in the style of 1930s and 40s lettering, using OpenType logic to join letters the way metal type from that era never could.",
+    "description": "Parkside borrows its look from script typefaces and lettering of the 1930s and 40s, but goes further than the metal originals thanks to digital typography: letters overlap and automatically shift shape to flow with their neighbours. Six weights run from Hairline to Black, and language support is broad across Latin-based writing systems.",
+    "foundry_blurb": "Simonson describes Parkside as a script typeface inspired by typefaces and lettering of the 1930s and 1940s. Unlike metal typefaces from that era, it takes advantage of modern digital typography, where letters may overlap and automatically change shape to better flow with surrounding letters. There are six weights (Hairline, Thin, Light, Regular, Bold, and Black), with extensive language support covering most Latin-based writing systems, using OpenType magic to automatically select letter variations that connect seamlessly to the letters before and after."
+  },
+  {
+    "name": "Proxima Nova",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/proxima-nova/",
+    "designer": "Mark Simonson",
+    "year": 2005,
+    "category": "sans-serif",
+    "subcategory": "grotesque/geometric hybrid workhorse sans",
+    "classification_notes": "A hybrid blending Futura's geometric proportions with Akzidenz Grotesk's practicality, so it's classed as a grotesque-leaning sans rather than purely geometric.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Extra Condensed",
+      "Condensed",
+      "Wide",
+      "Extra Wide"
+    ],
+    "subfamilies": [
+      "Proxima Nova",
+      "Proxima Nova Condensed",
+      "Proxima Nova Extra Condensed",
+      "Proxima Nova Wide",
+      "Proxima Nova Extra Wide",
+      "Proxima Nova Arabic",
+      "Proxima Nova Devanagari",
+      "Proxima Nova Hangeul",
+      "Proxima Nova Hebrew",
+      "Proxima Nova Tamil",
+      "Proxima Nova Thai",
+      "Proxima Sera",
+      "Proxima Soft",
+      "Proxima Vara"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Greek",
+      "Cyrillic",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "geometric",
+      "workhorse",
+      "ubiquitous",
+      "web",
+      "branding"
+    ],
+    "summary": "An eighty-style workhorse sans blending Futura's geometry with Akzidenz Grotesk's versatility, one of the most widely used commercial web fonts since 2010.",
+    "description": "Proxima Nova grew out of Proxima Sans, a six-font family Simonson launched in 1994, reimagined a decade later with broader proportions and a cleaner geometric feel across eight weights, five widths and matching italics. Its combination of geometric bones and grotesque practicality made it one of the most licensed fonts on the web through the 2010s, and it now anchors a superfamily of script companions and stylistic siblings.",
+    "foundry_blurb": "Simonson describes Proxima Nova, released in 2005, as a modern typeface that blends the geometric style of Futura with the versatility of Akzidenz Grotesk. Originally launched as Proxima Sans in 1994 with just six fonts, it was reimagined into a much broader family with modern proportions and a clean, geometric aesthetic. Today the family includes 80 fonts supporting a wide range of languages and scripts, including Greek, Cyrillic and Vietnamese, alongside separately sold Arabic, Thai, Devanagari, Hangeul, Hebrew and Tamil companions. Since 2010, Proxima Nova has been among the most widely used commercial fonts on the web."
+  },
+  {
+    "name": "Proxima Nova Arabic",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/proxima-nova-arabic/",
+    "designer": "Khajag Apelian, Wael Morcos",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "Arabic companion to Proxima Nova",
+    "classification_notes": "An Arabic script companion built to sit alongside a Latin grotesque sans, so it's classed sans-serif to match its Proxima Nova pairing.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Proxima Nova Arabic"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Arabic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "arabic",
+      "multiscript",
+      "companion",
+      "sans-serif",
+      "branding"
+    ],
+    "summary": "An eight-weight Arabic companion to Proxima Nova by Khajag Apelian and Wael Morcos, balancing calligraphic warmth with geometric sans structure.",
+    "description": "Proxima Nova Arabic was commissioned to give Proxima Nova a genuine Arabic counterpart rather than a mechanically Latinised one. Apelian and Morcos worked to balance the calligraphic and geometric, producing a script with the look and feel of a modern sans that still reads as properly Arabic, across the same eight weights from Thin to Black.",
+    "foundry_blurb": "Simonson's site describes Proxima Nova Arabic as designed by Khajag Apelian and Wael Morcos to complement his ever-popular Proxima Nova. Using a sculptural approach, a balance was reached between the calligraphic and geometric, giving designers an Arabic script with the look and utility of a modern sans serif suited to print and screen use, available in eight weights from Thin to Black."
+  },
+  {
+    "name": "Proxima Nova Devanagari",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/proxima-nova-devanagari/",
+    "designer": "Vaibhav Singh, Alessia Mazzarella",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "Devanagari companion to Proxima Nova",
+    "classification_notes": "A Devanagari script companion designed to pair with a Latin grotesque sans, classed sans-serif to match Proxima Nova.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Proxima Nova Devanagari"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Devanagari"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "devanagari",
+      "multiscript",
+      "companion",
+      "sans-serif",
+      "indian-scripts"
+    ],
+    "summary": "An eight-weight Devanagari companion to Proxima Nova by Typeland's Vaibhav Singh and Alessia Mazzarella, with Marathi and Nepali stylistic sets.",
+    "description": "Proxima Nova Devanagari was designed to give Proxima Nova a proper Devanagari partner rather than a Latin-derived approximation, keeping the script's own character while still working as a visual pair. It includes stylistic sets for Marathi and Nepali alongside the extended Latin set, across eight weights matching the rest of the Proxima Nova family.",
+    "foundry_blurb": "Simonson's site says Proxima Nova Devanagari was designed by Vaibhav Singh and Alessia Mazzarella of Typeland for his ever-popular Proxima Nova. The script was created with subtleties of flavour, making it distinctly its own without Latinisation, as a partner for use with Proxima Nova, featuring an extended Latin and Devanagari character set with Marathi and Nepali stylistic sets in eight weights from Thin to Black."
+  },
+  {
+    "name": "Proxima Nova Hangeul",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/proxima-nova-hangeul/",
+    "designer": "lo-ol Type Studio",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "Hangeul companion to Proxima Nova",
+    "classification_notes": "A Korean Hangeul companion sized and weighted to sit alongside a Latin grotesque sans, classed sans-serif to match Proxima Nova.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Proxima Nova Hangeul"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Hangeul"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "hangeul",
+      "korean",
+      "multiscript",
+      "companion",
+      "sans-serif"
+    ],
+    "summary": "An eight-weight Hangeul companion to Proxima Nova by lo-ol Type Studio, adjusted for Hangeul's larger structural scale relative to Latin.",
+    "description": "Proxima Nova Hangeul was made for what Simonson's site calls the Proxima Super Nova collection, requiring adjustments since Hangeul characters are structurally larger than Latin ones and need visual balancing to align with the original family. The design also balances grotesque and geometric details to keep Proxima Nova's essential character intact.",
+    "foundry_blurb": "Simonson's site describes Proxima Nova Hangeul as designed by lo-ol Type Studio for the Proxima Super Nova collection. Hangeul, the alphabet used for Korean, is structurally larger than Latin, requiring adjustments to align visually with the original while maintaining the distinctive script's integrity. It also balances grotesque and geometric sans details to capture the essence of Proxima Nova, available in eight weights from Thin to Black."
+  },
+  {
+    "name": "Proxima Nova Hebrew",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/proxima-nova-hebrew/",
+    "designer": "Pilar Cano, Ferran Milan",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "Hebrew companion to Proxima Nova",
+    "classification_notes": "A Hebrew script companion balanced against a Latin grotesque sans, classed sans-serif to match Proxima Nova.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Proxima Nova Hebrew"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Hebrew"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "hebrew",
+      "multiscript",
+      "companion",
+      "sans-serif"
+    ],
+    "summary": "An eight-weight Hebrew companion to Proxima Nova by Letterjuice's Pilar Cano and Ferran Milan, tuned for consistent typographic colour against the Latin.",
+    "description": "Proxima Nova Hebrew accounts for the fact that Hebrew letterforms are naturally more open and square than Latin ones, which would otherwise make the script look lighter without compensation. Cano and Milan balanced the design to keep Proxima Nova's personality intact while giving Hebrew text a consistent weight alongside the Latin.",
+    "foundry_blurb": "Simonson's site says Proxima Nova Hebrew was designed by Pilar Cano and Ferran Milan of Letterjuice for his well-regarded Proxima Nova. Hebrew is more open and square than Latin, which means it can appear lighter without compensation; a balance was made to maintain uniformity and consistent typographic colour while respecting Proxima Nova's personality. Available in eight weights from Thin to Black."
+  },
+  {
+    "name": "Proxima Nova Tamil",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/proxima-nova-tamil/",
+    "designer": "Vaibhav Singh, Alessia Mazzarella",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "Tamil companion to Proxima Nova",
+    "classification_notes": "A Tamil script companion designed to complement a Latin grotesque sans, classed sans-serif to match Proxima Nova.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Proxima Nova Tamil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Tamil"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "tamil",
+      "multiscript",
+      "companion",
+      "sans-serif",
+      "indian-scripts"
+    ],
+    "summary": "An eight-weight Tamil companion to Proxima Nova by Typeland's Vaibhav Singh and Alessia Mazzarella, low-contrast and well-proportioned against the Latin.",
+    "description": "Proxima Nova Tamil covers one of the official scripts of the Indian Republic, offering a sturdy, well-proportioned, low-contrast Tamil design that complements the Latin Proxima Nova while keeping the script's own character intact, across the same eight-weight range as the rest of the family.",
+    "foundry_blurb": "Simonson's site describes Proxima Nova Tamil as designed by Vaibhav Singh and Alessia Mazzarella of Typeland for his well-regarded Proxima Nova. One of the official scripts of the Indian Republic, this sturdy Tamil script family offers a well-proportioned, low-contrast option that complements the original Latin while preserving the script's distinctive integrity, available in eight weights from Thin to Black."
+  },
+  {
+    "name": "Proxima Nova Thai",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/proxima-nova-thai/",
+    "designer": "Cadson Demak",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "Thai companion to Proxima Nova",
+    "classification_notes": "A Thai script companion offered in looped and loopless styles alongside a Latin grotesque sans, classed sans-serif to match Proxima Nova.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Proxima Nova Thai",
+      "Proxima Nova Thai Looped"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Thai",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "thai",
+      "multiscript",
+      "companion",
+      "sans-serif"
+    ],
+    "summary": "An eight-weight Thai companion to Proxima Nova by Cadson Demak, offered in a display-ready loopless style and a traditional looped style for text and UI.",
+    "description": "Proxima Nova Thai gives Proxima Nova a proper Thai partner without losing the script's own texture, offered in two constructions: a practical loopless style suited to display settings and a traditional looped style for text and UI use. It also extends coverage to Vietnamese alongside the Latin set, and includes matching italics.",
+    "foundry_blurb": "Simonson's site says Proxima Nova Thai was designed by Cadson Demak for his ever-popular Proxima Nova. Available in a practical loopless style for display settings and a traditional looped style for text and UI, it works seamlessly with the original Latin without losing the script's texture or cultural significance, featuring an extended Latin and Vietnamese character set in eight weights plus matching italics."
+  },
+  {
+    "name": "Proxima Sera",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/proxima-sera/",
+    "designer": "Mark Simonson",
+    "year": 2022,
+    "category": "serif",
+    "subcategory": "hybrid old-style/modern text serif",
+    "classification_notes": "A serif designed as Proxima Nova's text-serif pairing, blending old-style and modern serif traits, so it's classed serif rather than slab or display.",
+    "weights": [
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Proxima Sera"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "text",
+      "companion",
+      "readable",
+      "editorial"
+    ],
+    "summary": "A nine-weight serif built to answer fifteen years of designers asking what serif pairs with Proxima Nova, standing on its own as well as alongside it.",
+    "description": "Proxima Sera blends old-style and modern serif characteristics into a clean, highly readable design, matched in proportion and weight range to Proxima Nova but capable of standing alone. Its even colour and large x-height suit it to text, while the Thin and Black ends of its range carry enough warmth for headlines and posters.",
+    "foundry_blurb": "Simonson describes Proxima Sera as answering the question designers and typographers have asked for more than fifteen years: what serif typeface should I pair with Proxima Nova? It's a hybrid design combining old style and modern serif characteristics into something clean and highly readable. Its proportions and weight range are designed to harmonise with Proxima Nova but it stands alone just as well; its even colour and large x-height make it a natural choice for text, while Thin and Black carry enough warmth for headlines and posters."
+  },
+  {
+    "name": "Proxima Soft",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/proxima-soft/",
+    "designer": "Mark Simonson",
+    "year": 2017,
+    "category": "sans-serif",
+    "subcategory": "rounded grotesque/geometric hybrid sans",
+    "classification_notes": "A rounded-terminal version of Proxima Nova, kept in the same grotesque/geometric hybrid sans-serif category as its parent.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Extra Condensed",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Proxima Soft"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "rounded",
+      "grotesque",
+      "geometric",
+      "warm",
+      "playful",
+      "web"
+    ],
+    "summary": "A rounded version of Proxima Nova across the same forty-eight styles, warmer and more playful than its older sibling.",
+    "description": "Proxima Soft takes Proxima Nova's full structure, eight weights across three widths plus italics, and rounds off the terminals for a softer, friendlier feel. Language support matches the parent family, including Greek and Cyrillic, and alternate characters such as a single-story lowercase a let users tune its personality further.",
+    "foundry_blurb": "Simonson describes Proxima Soft as a rounded version of Proxima Nova. With the same forty-eight styles (eight weights in three widths, plus italics), it fits the bill when you want something a bit warmer and more playful than its older sibling. It features the same extensive language support, including Greek and Cyrillic, plus several alternate characters, such as a single-story lowercase a, for customising its appearance."
+  },
+  {
+    "name": "Proxima Vara",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/proxima-vara/",
+    "designer": "Mark Simonson",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "variable grotesque/geometric hybrid sans",
+    "classification_notes": "A single variable font spanning all of Proxima Nova's weight, width and slant range, kept sans-serif to match its parent family.",
+    "weights": [
+      "Variable (Thin to Black)"
+    ],
+    "optical_sizes_or_widths": [
+      "Variable (Extra Condensed to Extra Wide)"
+    ],
+    "subfamilies": [
+      "Proxima Vara"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "variable-font",
+      "grotesque",
+      "geometric",
+      "web",
+      "performance",
+      "flexible"
+    ],
+    "summary": "A variable-font version of Proxima Nova packing every weight, width and slant, plus everything in between, into a single file.",
+    "description": "Proxima Vara contains the full range of Proxima Nova's weight, width and slant axes in one variable font file, so any intermediate style is available without the distortion of artificially squeezing, stretching or slanting a static font. It carries all the same characters and features as Proxima Nova, including alternates, true small caps, old-style figures and arbitrary fractions, and loads in browsers about as fast as four static Proxima Nova styles.",
+    "foundry_blurb": "Simonson calls Proxima Vara a variable version of his popular Proxima Nova family. In a single font file it contains all the weights and styles of Proxima Nova, plus any style between them along weight, width and slant, without the distortion that comes from artificial manipulation. It contains all of the characters and features in Proxima Nova, such as alternate characters, true small caps, old style figures, arbitrary fractions and support for most Latin-based languages, Greek and Cyrillic, and loads about as quickly as four styles of Proxima Nova thanks to the whole family living in one file."
+  },
+  {
+    "name": "Raster Gothic",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/raster-gothic/",
+    "designer": "Mark Simonson",
+    "year": 1986,
+    "category": "sans-serif",
+    "subcategory": "aliased bitmap-style gothic for screen display",
+    "classification_notes": "A gothic sans deliberately kept aliased and blocky like its bitmap-font origin, classed sans-serif for its underlying grotesque letter construction.",
+    "weights": [
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Fourteen",
+      "Eighteen"
+    ],
+    "subfamilies": [
+      "Raster Gothic Fourteen",
+      "Raster Gothic Eighteen"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "bitmap",
+      "pixel",
+      "gothic",
+      "retro-screen",
+      "condensed"
+    ],
+    "summary": "A retooled version of a 1986 bitmap gothic, kept deliberately aliased for on-screen and Flash-era use where anti-aliasing isn't wanted.",
+    "description": "Raster Gothic Condensed started life as a bitmap font in 1986, loosely based on Alternate Gothic, and this outline version keeps the jagged, aliased look of the original rather than smoothing it out. It comes in two named sizes, Fourteen and Eighteen, each with Regular and Bold, retooled for more consistent proportions across sizes, with small caps achievable by borrowing capitals from the size below.",
+    "foundry_blurb": "Simonson describes Raster Gothic Condensed as originally designed as a bitmap font in 1986, loosely based on Alternate Gothic, a series of outline fonts that retain the aliased look of a bitmap font. The original was retooled for better consistency across sizes and expanded to include two more sizes and bold for all sizes. Small caps can be made using caps from the next size down. It's suited to on-screen use, including Flash animations, or any time anti-aliasing isn't wanted."
+  },
+  {
+    "name": "Refrigerator Deluxe",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/refrigerator-deluxe/",
+    "designer": "Mark Simonson",
+    "year": 2000,
+    "category": "sans-serif",
+    "subcategory": "generic block-letter gothic",
+    "classification_notes": "A generic mid-century block-letter style, classed sans-serif as a plain gothic construction rather than a display novelty.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Extra Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Refrigerator Deluxe"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "block-letter",
+      "vintage",
+      "versatile",
+      "alternates",
+      "display"
+    ],
+    "summary": "A five-weight expansion of a block-lettering style drawn from memory of old American lettering manuals, with alternates for common letter variants.",
+    "description": "Refrigerator Deluxe takes its cue from generic block-style lettering typical of the mid-twentieth century, the kind found in old American lettering manuals, though Simonson drew it purely from memory rather than tracing a source. It began as a single Bold weight in 2000, gained Light and Heavy a few years later, then added a Regular weight and a large set of alternate characters for building common block-letter variants.",
+    "foundry_blurb": "Simonson says Refrigerator Deluxe was inspired by generic block-style lettering typical of the mid-20th century, following the typical American model seen in old lettering manuals, designed purely from memory. He originally released it in 2000 as Refrigerator, with just the Bold weight; in 2003 he added Light and Heavy. Refrigerator Deluxe adds a new Regular weight and loads of alternate characters that can be used to create common variations of the block letter style it's based on."
+  },
+  {
+    "name": "Sharktooth",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/sharktooth/",
+    "designer": "Mark Simonson",
+    "year": 2000,
+    "category": "serif",
+    "subcategory": "text serif derived from rationalised hand lettering",
+    "classification_notes": "A text face rationalised from a handwriting font into regular typographic forms, closer to serif construction than to script.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sharktooth"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "text",
+      "legible",
+      "warm",
+      "editorial",
+      "rationalized"
+    ],
+    "summary": "A text face grown out of an attempt to rationalise Simonson's own handwriting font Felt Tip Roman into regular typographic forms.",
+    "description": "Sharktooth began as an experiment in turning Felt Tip Roman into a proper typeface, taking its essential underlying shapes and simplifying them into regular, structured letterforms. By the end only glimpses of Felt Tip Roman remained, leaving a distinctly different, legible text face with a lively texture, named for the sharp, angular shapes in many of its letters.",
+    "foundry_blurb": "Simonson explains that Sharktooth began as an attempt to turn Felt Tip Roman into a 'real' typeface, taking the essential underlying forms of Felt Tip Roman and rationalising them into regular typographic forms, simplifying and stylising a subset of the existing shapes. In the end only glimpses of Felt Tip Roman remained, and Sharktooth turned out distinctly different from its source. As a text face it has a lively texture and is quite legible; the name comes from the sharp, angular shapes seen in many of the letters."
+  },
+  {
+    "name": "Skin & Bones",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/skin-bones/",
+    "designer": "Douglas F. Jones",
+    "year": 1972,
+    "category": "display",
+    "subcategory": "geometric inline display (Bauhaus-inspired)",
+    "classification_notes": "A geometric alphabet with an inline treatment, classed display given its Bauhaus-derived headline-setting origins on the Photo Typositor.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Skin & Bones"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "inline",
+      "geometric",
+      "bauhaus",
+      "display",
+      "revival"
+    ],
+    "summary": "A faithful digitisation of Douglas F. Jones' 1972 inline geometric alphabet, originally cut for the Visual Graphics Corporation's Photo Typositor headline machine.",
+    "description": "Skin & Bones started as Douglas F. Jones' design for the Visual Graphics Corporation's Photo Typositor, a headline-setting machine, drawing on Herbert Bayer's Bauhaus geometric alphabets and adding an inline treatment Jones thought would look good. In 2017 Jones gave Simonson permission to make an official digital version, faithful to the 1972 original but with a larger character set.",
+    "foundry_blurb": "Simonson explains that Skin & Bones was originally designed by Douglas F. Jones for the Visual Graphics Corporation, which made the Photo Typositor, a headline-setting machine. Jones was inspired by Herbert Bayer's geometric alphabets from the Bauhaus movement and thought an inline treatment would be visually appealing. In 2017 Jones gave Simonson permission to create an official version, resulting in a faithful digitisation of Jones' 1972 design but with a larger character set."
+  },
+  {
+    "name": "Snicker",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/snicker/",
+    "designer": "Mark Simonson",
+    "year": 2007,
+    "category": "script",
+    "subcategory": "playful 1940s brush-lettered sans",
+    "classification_notes": "A brush-lettered face Simonson himself calls a brush-lettered sans, classed here as script given its connected, hand-lettered brush construction.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Snicker"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "brush-lettering",
+      "cartoon",
+      "playful",
+      "display",
+      "retro"
+    ],
+    "summary": "A single-weight playful brush-lettered face inspired by hand-lettered titles from the Fleischer Brothers' Superman cartoons, released alongside Kinescope.",
+    "description": "Snicker shares its starting point with Kinescope, both drawing on Fleischer Brothers Superman cartoon titles, though much of the letter design had to be invented rather than sourced directly. It currently exists only in a single Bold weight, with Simonson noting hope for a fuller family down the line.",
+    "foundry_blurb": "Simonson calls Snicker a playful 1940s-style brush-lettered sans serif, inspired by hand-lettered titles in Fleischer Brothers' Superman cartoon series. Although he used that as a starting point, there was much room for interpretation, and many characters had to be invented. Currently Snicker has only one weight, Bold, but he hopes one day to add more weights and create a more versatile family. It was designed alongside and released with another Fleischer Brothers-inspired design, Kinescope."
+  },
+  {
+    "name": "Synergy",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/synergy/",
+    "designer": "Mark Simonson",
+    "year": 2025,
+    "category": "sans-serif",
+    "subcategory": "clean simplified grotesque",
+    "classification_notes": "A clean, rectilinear grotesque in the Univers tradition, classed sans-serif with a two-story g as its one point of character.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black",
+      "Ultra"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Synergy"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "clean",
+      "variable-font",
+      "text",
+      "display",
+      "univers-adjacent"
+    ],
+    "summary": "A nine-weight clean grotesque built from a 1981 idea for a friendly, rectilinear sans, with a two-story g as its main point of character.",
+    "description": "Synergy revives an idea Simonson had in 1981 for a friendly sans with rectilinear forms and very few angles, a design he compares to Univers. Fairly even stroke widths give it a uniform look, broken up mainly by a two-story lowercase g, and its weight range runs from Hairline to Ultra with matching italics and small caps, comfortable enough for text and versatile enough for display.",
+    "foundry_blurb": "Simonson describes Synergy as a clean, simplified grotesque that came out of an idea he had in 1981 for a 'friendly' sans serif with somewhat rectilinear forms and very few angles. Some might say it's similar to Univers. It has fairly even widths for a uniform appearance but features a two-story g to relieve the monotony. It's comfortable to read in text, and the range of weights, from Hairline to Ultra, also make it suitable for display use. It's available in two variable fonts and features matching italics, small caps for all weights, and a set of dingbats."
+  },
+  {
+    "name": "Viroqua",
+    "foundry": "Mark Simonson",
+    "url": "https://www.marksimonson.com/fonts/view/viroqua/",
+    "designer": "Mark Simonson",
+    "year": 2024,
+    "category": "slab",
+    "subcategory": "low-contrast wedge slab serif (old-style hybrid)",
+    "classification_notes": "A low-contrast wedge-serif redesign of an earlier slab-leaning face, classed slab for its consistent stroke weight and wedge serifs.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Semi Bold",
+      "Bold",
+      "Extra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Viroqua"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "wedge-serif",
+      "old-style",
+      "slab",
+      "text",
+      "display"
+    ],
+    "summary": "A ground-up redesign of Kandal, one of Simonson's first typefaces, done thirty years on with a full weight range and figure options.",
+    "description": "Viroqua reworks Kandal, one of Simonson's earliest typefaces, applying three decades of extra type-design experience. It keeps a hybrid of old-style detailing and modern proportions, with low contrast and wedge-shaped slab serifs, comfortable enough for text while its boldest weights carry real display impact. Small caps, old-style and lining figures in both proportional and tabular forms, superscript and subscript figures, fractions and dingbats round it out.",
+    "foundry_blurb": "Simonson describes Viroqua as a redesign of Kandal (1994), one of his first typefaces, after 30 years more practice at type design. It's a hybrid, combining old style details with modern proportions. It has fairly low contrast, with wedge-shaped slab serifs. Viroqua is very comfortable to read in text, and the boldest weights provide a lot of impact at display sizes. It features small caps, old style and lining figures (both proportional and tabular), superscript and subscript figures, fractions, and dingbats."
+  }
+]

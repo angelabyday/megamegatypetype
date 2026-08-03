@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Macklin",
+    "foundry": "Monotype",
+    "url": "https://www.monotype.com/fonts/macklin",
+    "designer": "Malou Verlomme",
+    "year": 2020,
+    "category": "serif",
+    "subcategory": "serif superfamily (with sans and slab companions)",
+    "classification_notes": "Built around 19th-century serif display letterforms with Text and Display cuts at its core, though the family also ships matched Sans and Slab versions drawn from the same skeleton.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Macklin Text",
+      "Macklin Display",
+      "Macklin Sans",
+      "Macklin Slab"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "superfamily",
+      "serif",
+      "branding",
+      "display",
+      "editorial"
+    ],
+    "summary": "A high-contrast serif superfamily from the Monotype Studio, with matched sans and slab companions sharing the same skeleton.",
+    "description": "Macklin takes its cue from Vincent Figgins's 19th-century display serifs and turns them into a full branding system. The Text and Display cuts anchor the serif, while Sans and Slab companions let one identity hold across very different contexts. Nine weights per sub-family run from hairline poster work to solid black headlines.",
+    "foundry_blurb": "Monotype describes Macklin as an elegant, high-contrast typeface designed to help brands appeal more emotionally to modern consumers, with each sub-family drawn from the same skeleton for a broad, coherent palette."
+  },
+  {
+    "name": "Neue Haas Unica",
+    "foundry": "Monotype",
+    "url": "https://www.monotype.com/fonts/neue-haas-unica",
+    "designer": "Toshi Omagari (revival of the 1980 original by Team '77: André Gürtler, Christian Mengelt and Erich Gschwind)",
+    "year": 2015,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque",
+    "classification_notes": "Designed explicitly as a hybrid of Helvetica, Univers and Akzidenz Grotesk, which places it firmly with the Swiss neo-grotesques despite the 2015 rebuild.",
+    "weights": [
+      "Ultra Light",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Extrablack"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Neue Haas Unica",
+      "Neue Haas Unica Paneuropean"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "neo-grotesque",
+      "revival",
+      "corporate",
+      "branding",
+      "swiss"
+    ],
+    "summary": "Toshi Omagari's 2015 rebuild of a 1980 Haas grotesque that set out to sit between Helvetica, Univers and Akzidenz Grotesk.",
+    "description": "The original Unica tried to be the ultimate sans by borrowing structure from three of the biggest names in Swiss type, then barely got released. Omagari's revival keeps that ambition and adds nine weights, matching italics and a far larger character set than the 1980 design had. A separate Paneuropean version extends coverage to Greek and Cyrillic.",
+    "foundry_blurb": "Monotype calls it sharper than Helvetica, warmer than Univers and cleaner than Akzidenz Grotesk: a full digital revival of a design that never had a proper release the first time round."
+  },
+  {
+    "name": "Gill Sans Nova",
+    "foundry": "Monotype",
+    "url": "https://www.monotype.com/fonts/gill-sans-nova",
+    "designer": "George Ryan (Monotype Studio), based on the 1928 original by Eric Gill",
+    "year": 2015,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Inherits its humanist calligraphic structure from Eric Gill's 1928 original, which separates it from the harder-edged grotesques designed in the same period.",
+    "weights": [
+      "UltraLight",
+      "Light",
+      "Book",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy",
+      "ExtraBold",
+      "UltraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gill Sans Nova",
+      "Gill Sans Nova Condensed",
+      "Gill Sans Nova Deco"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "british",
+      "editorial",
+      "branding",
+      "classic"
+    ],
+    "summary": "George Ryan's 2015 expansion of Eric Gill's 1928 humanist sans, growing 18 fonts into 43.",
+    "description": "Gill Sans Nova keeps the warmth of Gill's original letterforms but fills in the gaps the old family never had: a proper condensed range, inline display weights and shadowed outline styles drawn decades ago but never digitised. Roman weights support Latin, Greek and Cyrillic; the display-only styles stay Latin.",
+    "foundry_blurb": "Part of Monotype's Eric Gill Series, expanding the much-loved Gill Sans family from 18 to 43 fonts with a coordinated range of roman and condensed designs."
+  },
+  {
+    "name": "Joanna Sans Nova",
+    "foundry": "Monotype",
+    "url": "https://www.monotype.com/fonts/joanna-sans-nova",
+    "designer": "Terrance Weinzierl (Monotype Studio), based on Eric Gill's 1930s Joanna",
+    "year": 2015,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "Derived from a serif book face rather than drawn as a grotesque, which is why it reads as humanist rather than geometric despite carrying no serifs.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Joanna Sans Nova"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin",
+      "Greek",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist",
+      "screen-legible",
+      "editorial",
+      "ui",
+      "versatile"
+    ],
+    "summary": "Terrance Weinzierl's sans-serif companion to Eric Gill's Joanna, built for screens rather than metal type.",
+    "description": "Joanna Sans Nova takes the humanist proportions of Gill's 1930s book face and strips out the serifs, with an enlarged x-height that holds up at small sizes on screen. Six weights run from thin to black, each with its own italic, and the character set covers more than fifty languages including Greek and Cyrillic.",
+    "foundry_blurb": "Monotype positions it as a humanist sans built with digital applications in mind, keeping Joanna's reading comfort while working just as well in display use."
+  },
+  {
+    "name": "Ariata",
+    "foundry": "Monotype",
+    "url": "https://www.monotype.com/fonts/ariata",
+    "designer": "Malou Verlomme",
+    "year": 2019,
+    "category": "sans-serif",
+    "subcategory": "geometric sans (with stencil companion)",
+    "classification_notes": "Built on circular bowls and consistent stroke widths typical of geometric sans construction, with a stencil cut that breaks the letterforms into segments for a cut-metal look.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ariata Text",
+      "Ariata Display",
+      "Ariata Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "stencil",
+      "branding",
+      "display",
+      "versatile"
+    ],
+    "summary": "Malou Verlomme's 2019 geometric sans for the Monotype Studio, sold as text, display and stencil versions of one skeleton.",
+    "description": "Ariata splits one geometric skeleton into three jobs: a text cut sturdy enough for body copy, a lighter display cut for headlines, and a stencil version for anything that needs to look cut rather than printed. Each version runs four weights from regular to black.",
+    "foundry_blurb": "Monotype describes the text weights as sturdy enough for both body copy and headlines, the display weights as delicate yet confident at large sizes, and the stencil as an eye-catching alternative to the standard cuts."
+  }
+]

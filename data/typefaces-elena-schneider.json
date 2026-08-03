@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Birra Bruin",
+    "foundry": "Elena Schneider",
+    "url": "https://elenaschneider.com/Birra-Bruin",
+    "designer": "Elena Schneider",
+    "year": 2019,
+    "category": "blackletter",
+    "subcategory": "contemporary blackletter",
+    "classification_notes": "A blackletter face built for a beer-branding project, keeping the broken-stroke logic of the genre but straightened out for a more contemporary display use.",
+    "weights": [
+      "Medium"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Birra Bruin"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "blackletter",
+      "display",
+      "packaging",
+      "beer branding",
+      "collaboration"
+    ],
+    "summary": "A vibrant single-weight blackletter drawn for beer packaging, part of a multi-designer project pairing weight to beer colour.",
+    "description": "Birra Bruin reinterprets blackletter's old-world associations for an Oud Bruin style beer, straightening the traditional broken forms for a more contemporary structure. It was one style in a larger collaborative project where several designers each contributed a weight tied to a different beer colour, and it ships free through Darden Studio.",
+    "foundry_blurb": "Elena Schneider describes Birra Bruin as reinterpreting familiar associations with the beer name Oud Bruin, adapting Blackletter as a traditional signifier of 'old' in beer packaging, with a vibrant, contemporary take built from straight lines."
+  },
+  {
+    "name": "Konsole",
+    "foundry": "Elena Schneider",
+    "url": "https://elenaschneider.com/Konsole",
+    "designer": "Elena Schneider",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A neutral five-weight, five-width grotesque built as a system for text and structured information rather than a single expressive cut.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Compact",
+      "Regular",
+      "Expanded",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Konsole"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "variable",
+      "workhorse",
+      "branding",
+      "editorial"
+    ],
+    "summary": "A work-in-progress grotesque spanning five widths and five weights, built as a flexible system rather than one fixed cut.",
+    "description": "Konsole runs from Condensed to Wide across five widths, each in five weights from Thin to Bold, with italics currently limited to the regular width. It reads as a plain, neutral grotesque built for systems work, distributed through Future Fonts while still in development.",
+    "foundry_blurb": "Elena Schneider lists Konsole as a work in progress typeface family spanning five widths and five weights, plus italics for the regular width, thirty styles in total."
+  },
+  {
+    "name": "Halunke",
+    "foundry": "Elena Schneider",
+    "url": "https://elenaschneider.com/Halunke",
+    "designer": "Elena Schneider",
+    "year": 2019,
+    "category": "display",
+    "subcategory": "geometric curveless display",
+    "classification_notes": "Built entirely from straight segments with no curves anywhere in its construction, grown out of experiments with geometric Arabic pattern-making rather than any Latin type tradition.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Halunke"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "geometric",
+      "experimental",
+      "angular",
+      "branding"
+    ],
+    "summary": "A curve-free display face built entirely from straight segments, grown out of experiments with geometric Arabic pattern-making.",
+    "description": "Halunke has no curves anywhere in its construction, an unusual constraint that gives it a sharp, faceted look distinct from most geometric display faces. It shipped through Future Fonts in upright and italic, with stencil versions following.",
+    "foundry_blurb": "Elena Schneider describes Halunke as an expressive display typeface with two styles and no curves, its origin tracing back to experiments with geometrical Arabic pattern designs."
+  },
+  {
+    "name": "Paroli",
+    "foundry": "Elena Schneider",
+    "url": "https://elenaschneider.com/Paroli",
+    "designer": "Elena Schneider",
+    "year": 2014,
+    "category": "display",
+    "subcategory": "brush display with blackletter touch",
+    "classification_notes": "A playful counterpart to Eskorte with a brushy, hand-drawn character and a hint of blackletter, closer to display lettering than a working text face.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Paroli"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "brush lettering",
+      "free",
+      "experimental"
+    ],
+    "summary": "A free brush-inflected display face with a blackletter touch, drawn as a playful counterpart to Eskorte.",
+    "description": "Paroli started as the ludic opposite number to Eskorte, trading that serif's businesslike restraint for sharp, pared-down brush marks with a hint of blackletter. It made Typographica's Best of 2014 list and remains free through Fontspring and Type Network.",
+    "foundry_blurb": "Elena Schneider shows Paroli through sample text spanning Icelandic and German legal copy, noting its place on Typographica's Best of 2014 list."
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Trax",
+    "foundry": "dito-typo",
+    "url": "https://dito-typo.com/trax.html",
+    "designer": "Simon Gerstner, Samuel Götschin",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "bold rounded display sans",
+    "classification_notes": "A chunky, rounded-terminal display sans referencing vinyl-label and disco-era lettering, placing it in the display sans category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Trax"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "rounded",
+      "retro",
+      "music",
+      "variable"
+    ],
+    "summary": "A chunky, rounded display sans built as a variable font, styled after disco and house-era record labels.",
+    "description": "Trax is a bold, rounded sans-serif with a variable weight axis and matching italic, its thick strokes and soft terminals recalling vintage vinyl label and record-sleeve lettering.",
+    "foundry_blurb": "dito-typo present Trax through a live specimen built around house and disco music references, offered as a variable font with a matching italic."
+  },
+  {
+    "name": "Gutach",
+    "foundry": "dito-typo",
+    "url": "https://dito-typo.com/gutach.html",
+    "designer": "Simon Gerstner, Samuel Götschin",
+    "year": null,
+    "category": "serif",
+    "subcategory": "slab / fat-face heritage serif",
+    "classification_notes": "A heavy serif with rounded ball terminals evoking German heritage signage, placing it in the slab-leaning serif category.",
+    "weights": [
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gutach"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "heritage",
+      "signage",
+      "variable",
+      "bold"
+    ],
+    "summary": "A heavy, ball-terminal serif named after a Black Forest valley, styled after German heritage signage.",
+    "description": "Gutach is a bold serif with rounded ball terminals and a variable weight axis running from Book to Black, its specimen copy leaning into Black Forest place names and heritage engraving.",
+    "foundry_blurb": "dito-typo present Gutach as a variable serif family named for the Gutach valley in the Black Forest, running from Book through to Black."
+  },
+  {
+    "name": "Rutor Steel",
+    "foundry": "dito-typo",
+    "url": "https://dito-typo.com/rutorsteel.html",
+    "designer": "Simon Gerstner, Samuel Götschin",
+    "year": null,
+    "category": "display",
+    "subcategory": "industrial chiseled display",
+    "classification_notes": "Slotted, geometric letterforms inspired by CNC milling precision place Rutor Steel in the display category rather than a conventional text serif or sans.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rutor Steel"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "industrial",
+      "geometric",
+      "variable"
+    ],
+    "summary": "A slotted, geometric display face inspired by the precision of a CNC milling machine, in three weights and a variable cut.",
+    "description": "Rutor Steel is one half of the two-part Rutor project, built around interrupted, slotted strokes that read as precision-machined rather than drawn. Three weights run from Regular to Black, with a variable font available alongside.",
+    "foundry_blurb": "dito-typo describe the two Rutor families, Steel and Stone, as inspired by the chiseled Art Nouveau inscriptions of Darmstadt's Mathildenhöhe and by the precision and aesthetics of a CNC milling machine."
+  },
+  {
+    "name": "Rutor Stone",
+    "foundry": "dito-typo",
+    "url": "https://dito-typo.com/rutorstone.html",
+    "designer": "Simon Gerstner, Samuel Götschin",
+    "year": null,
+    "category": "display",
+    "subcategory": "Art Nouveau display",
+    "classification_notes": "Organic, whiplash curves cut into blocky letterforms reference Art Nouveau inscriptions, placing Rutor Stone in the display category.",
+    "weights": [
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rutor Stone"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "art-nouveau",
+      "decorative",
+      "heritage"
+    ],
+    "summary": "An Art Nouveau-inspired display face with organic, whiplash curves cut into solid letterforms, referencing Darmstadt's Mathildenhöhe.",
+    "description": "Rutor Stone is the organic-curved sibling to Rutor Steel, drawing on the chiseled Art Nouveau inscriptions of Darmstadt's Mathildenhöhe artist colony. Three weights run from Regular to Black.",
+    "foundry_blurb": "dito-typo describe the two Rutor families, Steel and Stone, as inspired by the chiseled Art Nouveau inscriptions of Darmstadt's Mathildenhöhe and by the precision and aesthetics of a CNC milling machine."
+  }
+]

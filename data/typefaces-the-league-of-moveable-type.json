@@ -1,0 +1,708 @@
+[
+  {
+    "name": "The Neue Black",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/the-neue-black",
+    "designer": "Tré Seals",
+    "year": 2020,
+    "category": "sans-serif",
+    "subcategory": "display sans",
+    "classification_notes": "A single-weight display sans built from Chicago Freedom Movement protest signage, with heavy inktrap detailing rather than a geometric or grotesque structure.",
+    "weights": [
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "The Neue Black"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "protest",
+      "signage",
+      "social history",
+      "activism"
+    ],
+    "summary": "A single-weight display sans drawn from the hand-lettered signage of the 1966 Chicago Freedom Movement.",
+    "description": "Tré Seals of Vocal Type built The Neue Black around signage from the Chicago Freedom Movement, the 1966 campaign led by Martin Luther King Jr. and the Southern Christian Leadership Conference. It carries a heavy, ink-trapped structure and a generous set of ligatures and alternates, released through the League as an open-source partnership with Vocal Type.",
+    "foundry_blurb": "The League describe The Neue Black as a display sans with a large character set, over 25 ligatures and various inktrap alternates, based on the signage from the Chicago Freedom Movement."
+  },
+  {
+    "name": "Blackout",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/blackout",
+    "designer": "Tyler Finck",
+    "year": 2012,
+    "category": "display",
+    "subcategory": "fill/inline/outline display family",
+    "classification_notes": "A three-style novelty display face built to fill in bold sans-serif headline shapes rather than a conventional weight ladder.",
+    "weights": [
+      "Midnight",
+      "TwoAM",
+      "Sunrise"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blackout"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "headline",
+      "novelty",
+      "stroked",
+      "inline"
+    ],
+    "summary": "A three-style headline face for filling in bold sans-serif shapes, solid, reversed or stroked.",
+    "description": "Blackout was built by Tyler Finck to fill in the gaps of bold sans-serif newspaper headlines, and comes in three distinct styles: Midnight, a solid fill; TwoAM, a reversed cut; and Sunrise, a stroked outline. It's a display-only novelty face rather than a text system.",
+    "foundry_blurb": "The League call Blackout a face that eats holes for breakfast, lunch and dinner, inspired by filling in sans-serif newspaper headlines, coming in three styles: Midnight (solid), 2AM (reversed) and Sunrise (stroked)."
+  },
+  {
+    "name": "Chunk",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/chunk",
+    "designer": "Meredith Mandel",
+    "year": 2009,
+    "category": "slab",
+    "subcategory": "ultra-bold display slab",
+    "classification_notes": "An ultra-bold slab serif referencing old American Western woodcut lettering, built purely for display use rather than text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Chunk"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "slab serif",
+      "display",
+      "western",
+      "woodcut",
+      "headline"
+    ],
+    "summary": "An ultra-bold slab serif built for headlines, styled after old American Western woodcut lettering.",
+    "description": "Chunk takes its fat block letterforms from old American Western woodcuts, broadsides and newspaper headlines, refining that heavy, unreserved character for contemporary display use. It's a single-weight face, unapologetically bold rather than a full text system.",
+    "foundry_blurb": "The League describe Chunk as an ultra-bold slab serif reminiscent of old American Western woodcuts, broadsides and newspaper headlines, its fat block lettering unreserved yet refined for contemporary use."
+  },
+  {
+    "name": "Fanwood",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/fanwood",
+    "designer": "Barry Schwartz",
+    "year": 2011,
+    "category": "serif",
+    "subcategory": "old-style revival serif",
+    "classification_notes": "An old-style text serif revival with a companion Text cut, drawing on early 20th-century Czech-American type design rather than a specific named historical face.",
+    "weights": [
+      "Fanwood",
+      "Fanwood Text"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fanwood"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "old-style serif",
+      "revival",
+      "text",
+      "editorial",
+      "book"
+    ],
+    "summary": "An old-style text serif revival based on the work of an early 20th-century Czech-American type designer.",
+    "description": "Fanwood revives the work of an early 20th-century Czech-American type designer for contemporary text setting, and ships with a companion Fanwood Text cut alongside the main family. Both come with roman and italic.",
+    "foundry_blurb": "The League describe Fanwood as based on the work of a famous Czech-American type designer of yesteryear, with the package including roman and italic."
+  },
+  {
+    "name": "Goudy Bookletter 1911",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/goudy-bookletter-1911",
+    "designer": "Barry Schwartz",
+    "year": 2009,
+    "category": "serif",
+    "subcategory": "old-style revival serif",
+    "classification_notes": "A single-style old-style serif revival of Frederic Goudy's Kennerley Oldstyle, built for book and text settings.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Goudy Bookletter 1911"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "old-style serif",
+      "revival",
+      "book",
+      "text",
+      "public domain"
+    ],
+    "summary": "A single-weight revival of Frederic Goudy's Kennerley Oldstyle, built for book and text setting.",
+    "description": "Goudy Bookletter 1911 reworks Frederic Goudy's Kennerley Oldstyle as a free digital text face, keeping the warmth of the original book-trade serif without adding a full weight range. It's a single-style face aimed squarely at long-form reading.",
+    "foundry_blurb": "The League describe Goudy Bookletter 1911 simply as based on Frederic Goudy's Kennerley Oldstyle."
+  },
+  {
+    "name": "Junction",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/junction",
+    "designer": "Caroline Hadilaksono & Tyler Finck",
+    "year": 2014,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A humanist sans-serif built as the League's first open-source type project, later expanded with extra weights and wider language coverage.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Junction"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "humanist sans",
+      "text",
+      "branding",
+      "editorial",
+      "all-rounder"
+    ],
+    "summary": "A three-weight humanist sans and the League's founding open-source type project.",
+    "description": "Junction was the League of Moveable Type's first open-source type project, a humanist sans built for general text and display use. A 2014 update added Light and Bold weights alongside the original Regular, plus expanded international character coverage.",
+    "foundry_blurb": "The League call Junction a humanist sans-serif and the first open-source type project they started, updated in 2014 to include additional light and bold weights and expanded international support."
+  },
+  {
+    "name": "Knewave",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/knewave",
+    "designer": "Tyler Finck",
+    "year": 2011,
+    "category": "display",
+    "subcategory": "hand-painted display face",
+    "classification_notes": "A bold, hand-painted-style display face with a companion outline cut, built for headline rather than text use.",
+    "weights": [
+      "Regular",
+      "Outline"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Knewave"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "hand-lettered",
+      "headline",
+      "novelty",
+      "poster"
+    ],
+    "summary": "A bold, hand-painted display face with a matching outline companion.",
+    "description": "Knewave is a chunky, hand-painted-feeling display face built for posters and headlines rather than running text, and ships with an Outline companion alongside the solid Regular cut.",
+    "foundry_blurb": "The League describe Knewave simply as a bold, painted face."
+  },
+  {
+    "name": "League Gothic",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/league-gothic",
+    "designer": "Caroline Hadilaksono, Micah Rich, Tyler Finck and Dannci",
+    "year": 2012,
+    "category": "sans-serif",
+    "subcategory": "condensed grotesque",
+    "classification_notes": "A revival of Morris Fuller Benton's 1903 Alternate Gothic No.1 for American Type Founders, released as a public-domain-based open-source condensed grotesque with its own Condensed width.",
+    "weights": [
+      "Regular",
+      "Condensed"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "League Gothic"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "grotesque",
+      "condensed",
+      "revival",
+      "headline",
+      "editorial"
+    ],
+    "summary": "A revival of Morris Fuller Benton's 1903 Alternate Gothic No.1, in Regular and Condensed widths.",
+    "description": "League Gothic revives Morris Fuller Benton's 1903 Alternate Gothic No.1, originally cut for American Type Founders and now in the public domain. The League's version adds a Condensed width alongside the Regular, both with italics, keeping the tall, tight-set character of the original.",
+    "foundry_blurb": "The League describe League Gothic as a revival of one of their favourite typefaces, Alternate Gothic #1, originally designed by Morris Fuller Benton for American Type Founders in 1903 and now in the public domain."
+  },
+  {
+    "name": "League Mono",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/league-mono",
+    "designer": "Tyler Finck",
+    "year": 2017,
+    "category": "mono",
+    "subcategory": "monospace",
+    "classification_notes": "A monospace family across eight weights, drawing on forms from Fira Mono, Libertinus Mono and Courier.",
+    "weights": [
+      "Thin",
+      "UltraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "League Mono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "monospace",
+      "code",
+      "text",
+      "interface",
+      "all-rounder"
+    ],
+    "summary": "An eight-weight monospace family blending influences from Fira Mono, Libertinus Mono and Courier.",
+    "description": "League Mono mixes forms borrowed from Fira Mono, Libertinus Mono and, half-jokingly, Courier into an eight-weight monospace system. Three weights (UltraLight, Regular and Bold) were drawn as masters, with Light and SemiBold interpolated between them.",
+    "foundry_blurb": "The League call League Mono five weights of monospace fun, a mashup inspired by forms found in Fira Mono, Libertinus Mono and Courier."
+  },
+  {
+    "name": "League Script",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/league-script",
+    "designer": "Haley Fiege",
+    "year": 2010,
+    "category": "script",
+    "subcategory": "casual script",
+    "classification_notes": "A casual, coquettish connecting script designed specifically for the League rather than adapted from an existing hand.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "League Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "script",
+      "casual",
+      "logotype",
+      "ligatures",
+      "display"
+    ],
+    "summary": "A casual, connecting script somewhere between a love note and a 1920s handwritten letter.",
+    "description": "League Script #1 was designed exclusively for the League of Moveable Type as a modern, informal script, pitched between teenage love notes and handwritten letters from the 1920s. It includes ligatures and is intended as the first of a future family of script designs.",
+    "foundry_blurb": "The League describe League Script #1 as a modern, coquettish script font that sits somewhere between a high-school love note and a handwritten 1920s letter, including ligatures and acting as the framework for future script designs."
+  },
+  {
+    "name": "League Spartan",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/league-spartan",
+    "designer": "Caroline Hadilaksono, Micah Rich, Tyler Finck and Matt Bailey",
+    "year": 2014,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A bold geometric sans-serif influenced by ATF's classic Spartan family, released as a single strong weight with an extensive character set ahead of further weights.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "League Spartan"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "geometric sans",
+      "grotesque",
+      "branding",
+      "headline",
+      "all-rounder"
+    ],
+    "summary": "A bold geometric sans-serif built from ATF's classic Spartan family, since expanded across a full weight range.",
+    "description": "League Spartan takes a strong influence from ATF's historic Spartan family, starting life as a single bold weight with an unusually large character set before expanding under its open-source licence into the full range of weights it runs today.",
+    "foundry_blurb": "The League call League Spartan a new classic: a bold, modern, geometric sans-serif taking strong influence from ATF's classic Spartan family, starting with a single strong weight and an extensive character set of over 300 glyphs before expanding into a full family."
+  },
+  {
+    "name": "Linden Hill",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/linden-hill",
+    "designer": "Barry Schwartz",
+    "year": 2010,
+    "category": "serif",
+    "subcategory": "old-style revival serif",
+    "classification_notes": "A digital revival of Frederic Goudy's Deepdene, an old-style book serif, with roman and italic.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Linden Hill"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "old-style serif",
+      "revival",
+      "book",
+      "text",
+      "editorial"
+    ],
+    "summary": "A digital revival of Frederic Goudy's Deepdene, built with roman and italic for book text.",
+    "description": "Linden Hill digitises Frederic Goudy's Deepdene, an old-style serif originally cut for book printing, keeping the warmth of the original across a roman and italic pairing.",
+    "foundry_blurb": "The League describe Linden Hill as a digital version of Frederic Goudy's Deepdene, with the package including roman and italic."
+  },
+  {
+    "name": "Orbitron",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/orbitron",
+    "designer": "Matt McInerney",
+    "year": 2009,
+    "category": "sans-serif",
+    "subcategory": "geometric display sans",
+    "classification_notes": "A geometric sci-fi display sans in four weights, built as an alternative to faces like Eurostile or Bank Gothic rather than for text use.",
+    "weights": [
+      "Light",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Orbitron"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "geometric sans",
+      "display",
+      "sci-fi",
+      "futuristic",
+      "branding"
+    ],
+    "summary": "A four-weight geometric display sans built as a free alternative to sci-fi standbys like Eurostile.",
+    "description": "Orbitron was designed as an open alternative to the handful of geometric sans faces, Eurostile and Bank Gothic among them, that dominate futuristic and sci-fi branding. It runs to four weights with a stylistic alternate, small caps and a wide set of alternate glyphs, aimed squarely at display use.",
+    "foundry_blurb": "The League describe Orbitron as a geometric sans-serif typeface intended for display purposes, featuring four weights, a stylistic alternative, small caps and a ton of alternate glyphs, designed as an alternative to typefaces like Eurostile or Bank Gothic."
+  },
+  {
+    "name": "Ostrich Sans",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/ostrich-sans",
+    "designer": "Tyler Finck",
+    "year": 2014,
+    "category": "sans-serif",
+    "subcategory": "condensed display sans",
+    "classification_notes": "A tall, condensed display sans across nine styles and weights, including inline, rounded and dashed variants.",
+    "weights": [
+      "Light",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black",
+      "Rounded",
+      "Dashed",
+      "Inline"
+    ],
+    "optical_sizes_or_widths": [
+      "condensed"
+    ],
+    "subfamilies": [
+      "Ostrich Sans"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "condensed",
+      "display",
+      "sans-serif",
+      "headline",
+      "novelty"
+    ],
+    "summary": "A tall, condensed display sans with nine styles including rounded, dashed and inline variants.",
+    "description": "Ostrich Sans is built long and narrow, a condensed display sans that spans nine styles and weights from Light through Black, plus novelty variants like Rounded, Dashed and an Inline cut with its own italic.",
+    "foundry_blurb": "The League describe Ostrich Sans as a gorgeous modern sans-serif with a very long neck, with a whole slew of styles and weights."
+  },
+  {
+    "name": "Prociono",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/prociono",
+    "designer": "Barry Schwartz",
+    "year": 2010,
+    "category": "serif",
+    "subcategory": "blackletter-influenced text serif",
+    "classification_notes": "A roman text serif carrying blackletter details, named after the Esperanto word for the star Procyon or the raccoon.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Prociono"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "text serif",
+      "blackletter",
+      "revival",
+      "editorial",
+      "book"
+    ],
+    "summary": "A roman text serif that folds in blackletter details, named after the Esperanto word for Procyon.",
+    "description": "Prociono is a roman serif that borrows structural details from blackletter, giving an otherwise conventional text face an unusual, slightly gothic undertone. Its name is Esperanto for either the star Procyon or the raccoon.",
+    "foundry_blurb": "The League describe Prociono, an Esperanto word for either the star Procyon or the raccoon, as a roman serif with blackletter elements."
+  },
+  {
+    "name": "Raleway",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/raleway",
+    "designer": "Matt McInerney, Pablo Impallari and Rodrigo Fuenzalida",
+    "year": 2010,
+    "category": "sans-serif",
+    "subcategory": "neo-grotesque-influenced sans",
+    "classification_notes": "An elegant sans-serif that began as a single thin display weight and was expanded by the open-source community into a full nine-weight family with a geometric-leaning stylistic alternate.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Raleway"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "sans-serif",
+      "editorial",
+      "branding",
+      "all-rounder",
+      "variable font"
+    ],
+    "summary": "A nine-weight elegant sans that grew from a single thin display weight into one of the most widely used open-source families around.",
+    "description": "Raleway began life as a single thin display weight and was expanded, community-by-community, into the nine-weight family in circulation today. It carries both old-style and lining numerals, standard and discretionary ligatures, a fairly complete diacritic set and a more geometric stylistic alternate alongside its neo-grotesque-influenced default character set.",
+    "foundry_blurb": "The League describe Raleway as an elegant sans-serif typeface, originally designed in a single thin weight and expanded by the community over time, featuring old style and lining numerals, ligatures, a complete set of diacritics and a geometric-leaning stylistic alternate."
+  },
+  {
+    "name": "Sniglet",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/sniglet",
+    "designer": "Haley Fiege",
+    "year": 2009,
+    "category": "display",
+    "subcategory": "rounded display sans",
+    "classification_notes": "A rounded, bubbly display sans built for headlines, with a full character set covering several European languages.",
+    "weights": [
+      "Regular",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sniglet"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "display",
+      "rounded",
+      "headline",
+      "playful",
+      "friendly"
+    ],
+    "summary": "A rounded, bubbly display sans in two weights, built for playful headlines.",
+    "description": "Sniglet is a soft, rounded display face built for headlines that want some warmth, running to a Regular and an ExtraBold weight with a full character set that stretches to cover several European languages.",
+    "foundry_blurb": "The League describe Sniglet as a rounded display face that's great for headlines, with a full character set so it can be typeset in languages like Icelandic or French."
+  },
+  {
+    "name": "Sorts Mill Goudy",
+    "foundry": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/sorts-mill-goudy",
+    "designer": "Barry Schwartz",
+    "year": 2009,
+    "category": "serif",
+    "subcategory": "old-style revival serif",
+    "classification_notes": "A revival of Goudy Oldstyle and its italic, built out with small capitals, multiple figure sets and case-sensitive forms for serious text use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sorts Mill Goudy"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "free",
+    "tags": [
+      "old-style serif",
+      "revival",
+      "book",
+      "text",
+      "small caps"
+    ],
+    "summary": "A well-equipped revival of Goudy Oldstyle, with small caps, multiple figure sets and case-sensitive forms.",
+    "description": "Sorts Mill Goudy revives Goudy Oldstyle and its italic with a fuller feature set than the original: small capitals on the roman, old-style and lining figures, superscripts and subscripts, fractions, ligatures, class-based kerning and case-sensitive forms, across several Latin-script languages.",
+    "foundry_blurb": "The League describe Sorts Mill Goudy as a revival of Goudy Oldstyle and Italic, with small capitals in the roman, oldstyle and lining figures, superscripts and subscripts, fractions, ligatures, class-based kerning, case-sensitive forms and capital spacing, with support for many Latin-script languages."
+  }
+]

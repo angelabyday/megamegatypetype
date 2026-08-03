@@ -1,0 +1,3527 @@
+[
+  {
+    "name": "Thyme",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/thyme",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "serif",
+    "subcategory": "flare serif",
+    "classification_notes": "A humanist serif that swaps traditional serifs for gently flared terminals, following Caslon's proportions but softened. The large x-height and moderate contrast keep it working at both text and display sizes.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Thyme"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "flare-serif",
+      "humanist",
+      "editorial",
+      "branding",
+      "packaging",
+      "variable",
+      "warm"
+    ],
+    "summary": "A seven-weight flare serif that trades sharp serifs for soft, rounded terminals, giving Caslon's proportions a friendlier voice.",
+    "description": "Thyme takes Caslon's timeless proportions and reworks the serifs into gentle flares, producing a warmer, more approachable text face without losing its structure. Seven weights from Light to Heavy come with a variable font, and the moderate contrast holds up in both long-form text and packaging or brand work.",
+    "foundry_blurb": "Typeverything position Thyme as a humanist flare serif meant to bring warmth and personality to contemporary typography, citing Caslon as its structural reference. They recommend it for packaging, editorial design and full brand systems, praising its readability at both display and text sizes."
+  },
+  {
+    "name": "Truly",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/truly",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "retro display sans",
+    "classification_notes": "A chunky, soft-curved display sans drawing on 1968 flower-power advertising lettering. Rounded, playful forms and a full italic pairing put it in the retro-display bracket rather than a neutral text sans.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Truly"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "display",
+      "retro",
+      "playful",
+      "packaging",
+      "branding",
+      "variable",
+      "italic"
+    ],
+    "summary": "A seven-weight retro display sans with soft curves and chunky forms, built to carry the optimism of late-1960s advertising lettering.",
+    "description": "Truly borrows its bold, rounded rhythm from a 1968 advertising campaign, giving it a nostalgic yet clearly contemporary character. Soft curves and generous chunky forms suit children's branding, food packaging and playful logotypes. Seven weights come in both upright and italic, bundled into a single variable font.",
+    "foundry_blurb": "Typeverything describe Truly as inspired by bold 1968 display lettering, aiming to capture flower-power optimism with a modern twist. They pitch it at children's brands, food packaging, toys and any project wanting a friendly, retro-charged voice."
+  },
+  {
+    "name": "Catch",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/catch",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "reverse-contrast sans",
+    "classification_notes": "A playful reverse-contrast sans with unconventional weight distribution across strokes. The quirky proportions place it in display use rather than neutral text setting.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Catch"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "reverse-contrast",
+      "display",
+      "playful",
+      "packaging",
+      "branding",
+      "variable"
+    ],
+    "summary": "A six-weight reverse-contrast sans with exaggerated, quirky proportions built for cheerful, attention-grabbing branding.",
+    "description": "Catch flips the usual stroke logic of a sans, giving it unconventional proportions and a lively, energetic texture. It suits kids' branding, food packaging and playful identity work where personality matters more than restraint. Six weights ship alongside a variable font for flexible display use.",
+    "foundry_blurb": "Typeverything call Catch a playful reverse-contrast sans built for warmth and fun, aimed at kids' branding, food packaging and vibrant visual systems that need an energetic, approachable voice."
+  },
+  {
+    "name": "Wrangler",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/wrangler",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "script",
+    "subcategory": "signage script",
+    "classification_notes": "A bold single-weight script inspired by vintage neon shop signage rather than classic brush calligraphy. Swashy capitals and stylistic alternates support logotype and signage use.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Wrangler"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "signage",
+      "bold",
+      "branding",
+      "packaging",
+      "logotype",
+      "swashes"
+    ],
+    "summary": "A bold signage-style script inspired by vintage German neon shop signs, with swashy capitals for confident wordmarks.",
+    "description": "Wrangler channels the flowing, hand-painted lettering found on old neon shop signage rather than classic baseball script, though it shares some of that same confidence. Expressive curves and a generous set of swash alternates make it well suited to logos, beer labels and storefront branding. It ships as a single bold weight with full Latin Extended support.",
+    "foundry_blurb": "Typeverything describe Wrangler as a bold script rooted in vintage German neon signage, built for logos, packaging, sports graphics and storefront branding, with stylistic alternates and swashy uppercase letters for distinctive wordmarks."
+  },
+  {
+    "name": "Tuffo",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/tuffo",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "script",
+    "subcategory": "brush script",
+    "classification_notes": "A warm brush script referencing vintage Italian bodega and shop signage, offered across six weights with a variable font. Swashy uppercase alternates support logotype work.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tuffo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "brush",
+      "vintage",
+      "packaging",
+      "food",
+      "branding",
+      "variable"
+    ],
+    "summary": "A six-weight brush script inspired by vintage Italian bodega signs, running from light and delicate to heavy and juicy.",
+    "description": "Tuffo takes its rhythm from the expressive brush lettering of old Italian bodega signage and packaging, named after the Italian word for dive. Six weights interpolate through a variable font, from spirited lighter cuts to dense display weights, with swashy uppercase alternates adding extra flair.",
+    "foundry_blurb": "Typeverything present Tuffo as a fun display script drawing on vintage Italian bodega signs and packaging, pitched at food brands, restaurants and playful identities that want nostalgic charm with modern usability."
+  },
+  {
+    "name": "Odiseo",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/odiseo",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "serif",
+    "subcategory": "sharp angular display serif",
+    "classification_notes": "A high-impact serif built around sharp angular cuts and pointed terminals, referencing Greek mythology and classical inscriptions. Heavy proportions push it toward display and headline use.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Odiseo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "angular",
+      "sports",
+      "editorial",
+      "branding",
+      "variable"
+    ],
+    "summary": "A seven-style angular serif with pointed terminals and heavy proportions, built for headline and sports-adjacent display work.",
+    "description": "Odiseo channels classical inscription and Greek myth through sharp, angular cuts and pointed terminals rather than soft classical curves. Heavy proportions and a sculpted silhouette give it presence in branding, sports graphics, film titling and posters. It comes in seven styles and a variable font, with Latin Extended support for multilingual projects.",
+    "foundry_blurb": "Typeverything describe Odiseo as a powerful serif built for impact, drawing on ancient heroism and classical inscriptions while staying contemporary. They position it for branding, sports graphics, movie titles and large-scale campaigns."
+  },
+  {
+    "name": "Bronco",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/bronco",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "comic display sans",
+    "classification_notes": "A bold comic-inspired sans referencing 'Kapow' and 'Bang' style lettering, with a second cursive-leaning alternate set built into the same system.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bronco"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "display",
+      "comic",
+      "playful",
+      "branding",
+      "variable",
+      "alternates"
+    ],
+    "summary": "A five-weight comic-inspired sans with a built-in cursive alternate set that shifts the tone from punchy to playful.",
+    "description": "Bronco takes the punchy, expressive energy of comic-book sound effects and refines it into a working sans system. A set of loose, almost-connected alternate characters sits alongside the core style, letting designers dial the tone from bold impact toward softer, quirkier compositions. Five weights and a variable font cover the range, with full Latin Extended support.",
+    "foundry_blurb": "Typeverything describe Bronco as comic-book energy refined into a type system, inspired by classic 'Kapow' and 'Bang' lettering, and recommend it for food, kids and entertainment branding that wants character and movement."
+  },
+  {
+    "name": "Serva",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/serva",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "serif",
+    "subcategory": "reductive old-style serif",
+    "classification_notes": "Takes Caslon's old-style structure and simplifies the details, tightening terminals and moderating contrast for a cleaner, more contemporary serif suited to both branding and editorial text.",
+    "weights": [
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Serva"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "old-style",
+      "editorial",
+      "branding",
+      "variable",
+      "reductive"
+    ],
+    "summary": "A seven-weight old-style serif that reduces Caslon's details to a sharper, more deliberate contemporary structure.",
+    "description": "Serva reworks Caslon's old-style foundations through reduction: simplified details, tightened terminals and carefully managed contrast produce a familiar but more controlled texture. Seven weights and a variable axis adapt it from spacious display use to denser editorial settings, aimed at modern branding and editorial systems that value consistency over flourish.",
+    "foundry_blurb": "Typeverything describe Serva as Caslon's foundations refined through reduction and control, built for modern branding and editorial systems where clarity and tone matter more than stylistic excess."
+  },
+  {
+    "name": "Atera",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/atera",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A geometric sans rooted in Futura's modernist clarity, softened with rounded forms and ball terminals. A parallel Art Nouveau alternate set adds an expressive second voice within the same family.",
+    "weights": [
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Atera"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "geometric",
+      "variable",
+      "branding",
+      "editorial",
+      "alternates",
+      "art-nouveau"
+    ],
+    "summary": "A seven-weight geometric sans that softens Futura's clarity with rounded ball terminals, plus a full Art Nouveau alternate set for a more ornamental voice.",
+    "description": "Atera reinterprets early modernist geometric sans design through a warmer, more human lens, using gently rounded forms and ball terminals to soften strict geometry. Seven weights and a variable font cover confident headline and editorial use, while an extensive Art Nouveau-inflected alternate set lets the same family shift from structured to fluid and ornamental.",
+    "foundry_blurb": "Typeverything describe Atera as a geometric sans with a soft voice, rooted in the clarity of early modernist typefaces but reinterpreted through a more approachable, contemporary lens with rich alternates."
+  },
+  {
+    "name": "Graphics",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/graphics",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "modular display sans",
+    "classification_notes": "A single heavy-weight monolinear display sans rooted in 1970s graphic culture, with tightly packed, modular letterforms and small cut-in details.",
+    "weights": [
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Graphics"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "display",
+      "modular",
+      "seventies",
+      "posters",
+      "branding"
+    ],
+    "summary": "A single heavyweight modular display sans built from tightly packed, monolinear letterforms with a strong 1970s poster feel.",
+    "description": "Graphics leans on the visual culture of 1970s design magazines and disco posters, built as one confident heavy weight with a minimal, modular structure. Small cut-in details add rhythm without breaking the solid, dense letterforms, giving it real presence in posters, logotypes and bold headline work.",
+    "foundry_blurb": "Typeverything describe Graphics as a bold, high-impact display typeface rooted in 1970s visual culture, built as a single heavy style for posters, logotypes and book covers, with a modular, monolinear structure."
+  },
+  {
+    "name": "Groto",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/groto",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "woodtype-inspired grotesque",
+    "classification_notes": "A grotesque sans drawing on early American woodtype and Franklin-style display grotesques, with an extensive vintage-leaning alternate set alongside a cleaner default character set.",
+    "weights": [
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Groto"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "vintage",
+      "display",
+      "branding",
+      "packaging",
+      "variable",
+      "alternates"
+    ],
+    "summary": "An eight-weight grotesque sans with roots in early American woodtype, offering a clean default alongside a full set of vintage-leaning alternates.",
+    "description": "Groto draws its bold, slightly mischievous character from Franklin-style grotesques and nineteenth-century woodtype display faces. The default character set is a clean contemporary read, while an extensive alternate collection unlocks a more classical, vintage-inspired look. Eight weights and a variable font cover branding, packaging and editorial headline use.",
+    "foundry_blurb": "Typeverything describe Groto as a characterful sans inspired by the energy of early woodtype grotesques, refined for modern use while keeping its bold impact and open, slightly playful shapes."
+  },
+  {
+    "name": "Athos",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/athos",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque UI/text sans",
+    "classification_notes": "A workhorse grotesque built for screens and interfaces rather than headline display: tabular figures, math support and a Text weight tuned for dark backgrounds all point to UI and product use.",
+    "weights": [
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Athos"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "ui",
+      "text",
+      "interface",
+      "variable",
+      "tabular-figures"
+    ],
+    "summary": "A seven-weight screen-first grotesque with icon support and a dark-mode-tuned Text weight, built for interfaces and dense data over headline display.",
+    "description": "Athos is built as a practical tool for interfaces and communication design rather than a display statement. Seven weights and a variable font include a dedicated Text weight tuned for dark backgrounds, alongside a small icon set for packaging, transport and UI use. Full Latin Extended coverage, tabular figures and math support suit dashboards and long-form paragraphs alike.",
+    "foundry_blurb": "Typeverything pitch Athos as a practical tool typeface built for screens and real work, combining full language coverage, ligatures, tabular numerals and math support with an icon set for interface and packaging use."
+  },
+  {
+    "name": "Edite",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/edite",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "serif",
+    "subcategory": "transitional serif",
+    "classification_notes": "A contemporary take on De Vinne, the 1890s transitional serif, refined for sharper geometry and modern clarity. Nine weights each with true italics push it toward branding and editorial use.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Edite"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "transitional",
+      "editorial",
+      "branding",
+      "packaging",
+      "variable",
+      "italic"
+    ],
+    "summary": "An eighteen-style transitional serif reworking the 1890s De Vinne model with sharper cuts and a full set of true italics.",
+    "description": "Edite began as a search for a contemporary De Vinne, keeping that 1890s serif's spirit while adding the geometry and clarity modern use demands. Nine weights in upright and italic, both with variable files, give it real range, and a friendlier alternate set on the uprights adds versatility for branding and editorial work. Sharp cuts and subtle angular geometry keep its tone confident.",
+    "foundry_blurb": "Typeverything describe Edite as their take on a contemporary De Vinne, a classic 1890s serif, refined with sharp cuts and confident geometry for print, packaging and visual identity work, with a particularly well-regarded italic."
+  },
+  {
+    "name": "Brave",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/brave",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans revival",
+    "classification_notes": "A revival of Bernhard Black (1928), a preliminary design that preceded Bernhard Block, reworked into a full contemporary sans system with ten weights, italics and an extra Poster weight.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy",
+      "Poster"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brave"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "geometric",
+      "revival",
+      "editorial",
+      "branding",
+      "packaging",
+      "variable",
+      "italic"
+    ],
+    "summary": "A twenty-style sans reviving the little-known 1928 Bernhard Black, with ten weights, full italics and an extra Poster cut for headline use.",
+    "description": "Brave rebuilds Bernhard Black, a 1928 design that preceded the better-known Bernhard Block, keeping the bold stance and subtly angled stems that gave it warmth. Ten weights from Thin to Poster, each with a matching italic, balance early-twentieth-century strength with contemporary polish, suited to branding, packaging, editorial layouts and extended text alike.",
+    "foundry_blurb": "Typeverything describe Brave as a contemporary reinterpretation of Bernhard Black, an overlooked 1928 design whose bold, angled stems felt worth reviving. They built it into a full sans family for branding, packaging and editorial use."
+  },
+  {
+    "name": "Crunch",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/crunch",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "chunky display sans",
+    "classification_notes": "A cheerful, dense display sans drawing on mid-century British grotesques Gill Kayo and Antique Olive, with a heavy master built for packaging shelf presence and a set of decorative alternates.",
+    "weights": [
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Crunch"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "display",
+      "packaging",
+      "playful",
+      "variable",
+      "alternates",
+      "seventies"
+    ],
+    "summary": "An eight-style display sans built from mid-century British grotesque roots, with a heavy master designed to pop off a shelf and a playful set of decorative alternates.",
+    "description": "Crunch draws its density from Gill Kayo and its warmth from Antique Olive, reinterpreting both through a joyful, contemporary lens. Eight styles and a variable font move from light and expressive to the compact, powerful heavy master that anchors the family. A generous alternate set swaps in flowers, smileys and stars for playful packaging and kids' branding.",
+    "foundry_blurb": "Typeverything describe Crunch as a cheerful, high-impact display family inspired by mid-century British grotesques, built for fun packaging, kids' products and creative campaigns, with a set of playful alternate glyphs."
+  },
+  {
+    "name": "Deia",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/deia",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "serif",
+    "subcategory": "bracketed serif",
+    "classification_notes": "A bracketed serif sitting between traditional and modern models, now in its 2.0 revision with true italics designed as companions rather than simple slants.",
+    "weights": [
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Deia"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "bracketed",
+      "editorial",
+      "branding",
+      "packaging",
+      "fashion",
+      "variable",
+      "italic"
+    ],
+    "summary": "An eight-weight bracketed serif with true companion italics, calm in structure but confident enough for fashion and beverage branding.",
+    "description": "Deia sits between traditional and modern serif models, its softly shaped serifs giving it a calm authority rather than either strict classicism or hard modernity. Now updated to version 2.0, it gains fluid true italics designed as genuine companions to the uprights. Eight weights with matching italics, plus a variable font in the full desktop family, suit packaging and branding in fashion, lifestyle and beverage projects.",
+    "foundry_blurb": "Typeverything describe Deia as a contemporary bracketed serif reworked for improved rhythm and screen performance in its 2.0 release, with new true italics designed as companions rather than slanted counterparts."
+  },
+  {
+    "name": "Berry",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/berry",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "serif",
+    "subcategory": "flare serif",
+    "classification_notes": "A friendly flare serif with soft curves and open shapes, sharing its structural family with Ready but marketed and described separately by the foundry.",
+    "weights": [
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Berry"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "flare-serif",
+      "branding",
+      "packaging",
+      "fashion",
+      "food",
+      "variable"
+    ],
+    "summary": "An eight-style flare serif with soft curves and generous proportions, built for fashion, food and lifestyle branding that wants warmth with confidence.",
+    "description": "Berry pairs soft curves and gently flared details with generous proportions, sitting between classic charm and contemporary clarity. Its strong presence suits fashion, food, lifestyle and pet brands looking for a distinctive, human voice. Eight styles and a variable font cover everything from logotypes and headlines to packaging and short-form copy.",
+    "foundry_blurb": "Typeverything describe Berry as a friendly flare serif built for brands wanting warmth and confidence, recommending it across fashion, food, lifestyle and pet branding for its soft edge and generous presence."
+  },
+  {
+    "name": "Archie Brackett",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/archie-brackett",
+    "designer": "Simon Walker",
+    "year": null,
+    "category": "serif",
+    "subcategory": "fixed-width semi-serif display",
+    "classification_notes": "A bold, fixed-width semi-serif in the Copperplate tradition, offered as a single confident weight with an extensive swash alternate system rather than a weight range.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Archie Brackett"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "fixed-width",
+      "swashes",
+      "posters",
+      "branding",
+      "copperplate"
+    ],
+    "summary": "A single-weight fixed-width semi-serif with Copperplate-adjacent proportions and an extensive swash alternate system for posters and headline work.",
+    "description": "Archie Brackett balances formality with a willingness to bend the rules, built as one confident fixed-width weight rather than a full range. Swashy uppercase and lowercase alternates open up dozens of visual directions from a single style, giving it real range in posters, campaigns and large-scale typography where character matters as much as clarity.",
+    "foundry_blurb": "Typeverything describe Archie Brackett as a bold, fixed-width semi-serif sitting in the same typographic neighbourhood as Copperplate, built as a single weight with an extensive swash alternate system for expressive display work."
+  },
+  {
+    "name": "Mapamond",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/mapamond",
+    "designer": "Andrei Robu & Cristi Bordeianu",
+    "year": null,
+    "category": "serif",
+    "subcategory": "narrow old-style serif",
+    "classification_notes": "A narrow, contemporary interpretation of the Garamond tradition redesigned for screen use, with matching romans and richly equipped italics.",
+    "weights": [
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mapamond"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "old-style",
+      "narrow",
+      "editorial",
+      "branding",
+      "logotype",
+      "variable",
+      "italic"
+    ],
+    "summary": "A fourteen-style narrow serif reworking the Garamond tradition for screen use, with an especially richly equipped italic.",
+    "description": "Mapamond narrows the classical Garamond model into a crisp, efficient texture built to perform on screen as well as in print. Seven weights with matching romans and italics, all available as variable fonts, cover branding and communication systems. The italic in particular carries an extensive set of alternates, ligatures and swashes for logos and editorial headlines.",
+    "foundry_blurb": "Typeverything describe Mapamond as a contemporary, narrow interpretation of the Garamond tradition redesigned for modern screen use, balancing classical proportions with a crisp, efficient texture for branding and editorial work."
+  },
+  {
+    "name": "Olivo",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/olivo",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "reverse-contrast sans",
+    "classification_notes": "A contemporary reinterpretation of Antique Olive, adjusting the original's reverse-contrast logic and proportions for digital use rather than print.",
+    "weights": [
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Olivo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "reverse-contrast",
+      "branding",
+      "display",
+      "text",
+      "variable",
+      "italic"
+    ],
+    "summary": "A sixteen-style reworking of Antique Olive, adjusting its distinctive reverse-contrast logic for confident performance on screen.",
+    "description": "Olivo revisits Antique Olive's contrast logic, which read well in print but needed adjustment for digital environments, retuning proportions and rhythm for contemporary media. Sixteen styles and a variable font bridge mid-century character with modern clarity, suited to branding, display and text use alike.",
+    "foundry_blurb": "Typeverything describe Olivo as a contemporary reinterpretation of the iconic Antique Olive, revisited with today's visual language in mind and reworked so its once print-specific contrast performs well across contemporary media."
+  },
+  {
+    "name": "Delwe Serif",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/delwe",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "serif",
+    "subcategory": "modern serif",
+    "classification_notes": "One of two families sold under the Delwe tile: a modern serif revival of Letraset's Belwe, stripped of its Venetian detailing for a cleaner, more functional structure. Bundled with a separate Slab family; split here as the two are genuinely different categories.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Delwe Serif"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "revival",
+      "editorial",
+      "branding",
+      "packaging",
+      "variable"
+    ],
+    "summary": "A nine-weight modern serif reviving Letraset's Belwe, with the original's Venetian detailing removed for a cleaner, more functional structure.",
+    "description": "Delwe Serif takes Belwe as its starting point and streamlines it, dropping the Venetian details in favour of clean, sturdy letterforms optimised for screens. Balanced proportions keep it reliable across both display headlines and extended text, with a friendly tone suited to editorial content and confident branding. Nine weights from Thin to Heavy come with a variable font.",
+    "foundry_blurb": "Typeverything describe Delwe as a modern slab and serif revival of Letraset's Belwe. The Serif family keeps the original's spirit while removing its Venetian detailing for a more streamlined, functional design built for both display and extended text."
+  },
+  {
+    "name": "Delwe Slab",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/delwe",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "slab",
+    "subcategory": "modern slab serif",
+    "classification_notes": "The slab counterpart bundled with Delwe's Serif family, sharing the same nine-weight structure but built with slab-serif proportions and stylistic alternates that nod to Belwe's historical origins.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Delwe Slab"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab",
+      "revival",
+      "editorial",
+      "branding",
+      "packaging",
+      "variable"
+    ],
+    "summary": "A nine-weight slab serif companion to Delwe Serif, adding stylistic alternates that nod back to its Belwe origins.",
+    "description": "Delwe Slab shares its structure and weight range with the Serif family but shifts into slab-serif proportions, sturdy and clean enough for both headlines and longer text. A set of stylistic alternates nods to Belwe's historical detailing, giving designers extra flexibility for distinctive branding or editorial layouts. Nine weights ship with a variable font.",
+    "foundry_blurb": "Typeverything describe the Slab half of Delwe as carrying stylistic alternates that nod to its historical Belwe origins, giving it extra flexibility for distinctive visual identities and editorial layouts alongside its Serif sibling."
+  },
+  {
+    "name": "Forta",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/forta",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A humanist workhorse sans built across three widths (Condensed, Normal, Wide), each with a full weight and italic range, positioning it as a general-purpose system rather than a display face.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Normal",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Forta Condensed",
+      "Forta Normal",
+      "Forta Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "humanist",
+      "condensed",
+      "branding",
+      "packaging",
+      "editorial",
+      "variable",
+      "italic"
+    ],
+    "summary": "A humanist workhorse sans spanning three widths and a full weight-and-italic range, built as a flexible general-purpose system.",
+    "description": "Forta is designed as a versatile workhorse rather than a display statement, offered across Condensed, Normal and Wide widths with matching weights and italics in each. Finely tuned letterforms balance personality with clarity, suited to branding, packaging, titling, editorial design and web use.",
+    "foundry_blurb": "Typeverything describe Forta as a new humanist sans-serif designed to excel as a versatile workhorse, offering unmatched flexibility across its widths and styles for branding, packaging, titles and editorial design."
+  },
+  {
+    "name": "Raporte",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/raporte",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "script",
+    "subcategory": "brush script",
+    "classification_notes": "A brush script referencing the 1938 metal typeface Reporter, rebuilt from a stripped-back neon-sign version with blunter, more monoline endings and heavy use of automatic OpenType alternation.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Raporte"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "brush",
+      "vintage",
+      "logotype",
+      "packaging",
+      "posters"
+    ],
+    "summary": "A single-weight brush script rebuilding the 1938 classic Reporter from a stripped-back neon-sign reading, with hundreds of automatic alternates so repeated letters never look cloned.",
+    "description": "Raporte traces back to Reporter, a 1938 brush script cast by Norddeutsche Schriftgiesserei, but takes its cue from a German neon sign where the texture had worn down to blunt, near-monoline strokes. Rebuilt with contemporary tools, it leans on OpenType alternation so repeated letters vary automatically, with hundreds of possible ligature connections. It suits logos, book and magazine titling, posters and packaging.",
+    "foundry_blurb": "Typeverything describe Raporte as inspired by the classic 1938 script Reporter, rebuilt from a weathered neon-sign version of the design with blunter, more contemporary strokes and extensive automatic alternates."
+  },
+  {
+    "name": "Claro",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/claro",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "wide grotesque sans",
+    "classification_notes": "A wide, bold grotesque drawing on 1890s New York truck lettering, with humanist details softening its otherwise rugged, sporty proportions. Two families cover upright and italic.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Claro"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "wide",
+      "branding",
+      "editorial",
+      "variable",
+      "italic"
+    ],
+    "summary": "An eighteen-style wide grotesque with a rugged, sporty edge, drawn from 1890s New York truck lettering and softened with humanist detailing.",
+    "description": "Claro takes its bold, masculine stance from the rugged grotesque lettering seen on New York trucks in the 1890s, blending that historical grit with modern precision. Wider-than-usual proportions give it strength, while subtle humanist details keep it approachable. Nine weights across upright and italic families, plus a single variable font, move it from powerful headlines to clean readable text.",
+    "foundry_blurb": "Typeverything describe Claro as a versatile sans-serif with a bold, masculine presence, drawing on rugged 1890s New York truck lettering and blending historical grit with modern precision across its full weight range."
+  },
+  {
+    "name": "Mr Banks",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/mr-banks",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "serif",
+    "subcategory": "rounded display serif",
+    "classification_notes": "The main Serif family within the Mr Banks release: angular terminals paired with round shapes for a display serif that reads as both classic and current. A separate single-style Stencil cut is bundled in the same release and split out as its own entry given the different construction.",
+    "weights": [
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mr Banks"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "rounded",
+      "sports",
+      "branding",
+      "packaging",
+      "variable"
+    ],
+    "summary": "A seven-style display serif mixing angular terminals with round shapes, built for bold headlines and sports or packaging branding.",
+    "description": "Mr Banks balances classic serif structure with modern rounding, its angular terminals and round shapes giving it timeless appeal without feeling dated. Numerous alternates suit sports branding and packaging as much as elegant headline or text use. Seven styles come with a variable font for the full family pack.",
+    "foundry_blurb": "Typeverything describe Mr Banks as balancing classic design with modern aesthetics through angular terminals and round shapes, recommending it for sports, branding and packaging projects wanting timeless appeal with contemporary style."
+  },
+  {
+    "name": "Mr Banks Stencil",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/mr-banks",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "display",
+    "subcategory": "stencil serif",
+    "classification_notes": "A single-style stencil cut bundled into the Mr Banks release, sharing its serif skeleton but broken into open, disconnected stencil forms. Split out here as a stencil face is a genuinely different construction to the main Serif family it ships alongside.",
+    "weights": [
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mr Banks Stencil"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "stencil",
+      "serif-based",
+      "branding",
+      "packaging",
+      "posters"
+    ],
+    "summary": "A single heavyweight stencil cut of Mr Banks, breaking its serif skeleton into open, disconnected stencil forms for posters and branding.",
+    "description": "Mr Banks Stencil takes the heaviest weight of the Mr Banks serif family and reworks it into a stencil structure, keeping the parent design's angular character while opening up the counters. It suits posters, packaging and branding work that wants a stencilled, industrial edge without leaving the Mr Banks family entirely.",
+    "foundry_blurb": "Bundled within the Mr Banks release, the Stencil cut takes the family's heaviest weight and reworks it as a stencil, giving designers a bolder, more industrial option alongside the main serif styles."
+  },
+  {
+    "name": "Champ",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/champ",
+    "designer": "Cristi Bordeianu & Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "friendly grotesque",
+    "classification_notes": "A cheerful, approachable grotesque with a straightforward weight range, built for general branding and text use rather than a specific historical reference.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Champ"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "friendly",
+      "branding",
+      "logotype",
+      "variable"
+    ],
+    "summary": "A nine-weight friendly grotesque built for brand materials and logotypes, running from bold headline weights to more subtle text use.",
+    "description": "Champ is a general-purpose grotesque built around a cheerful, approachable personality rather than a specific historical model. Nine weights cover everything from bold, impactful headlines to more restrained body text, with a variable font included in the full family pack for branding, logotype and website use.",
+    "foundry_blurb": "Typeverything describe Champ as a versatile sans serif bringing fun and friendliness to branding, logotypes and websites, offering nine weights suited to both headline and text use."
+  },
+  {
+    "name": "Globo",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/globo",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "inclined titling sans",
+    "classification_notes": "An inclined titling sans built from brush-lettering research, developed as a more contemporary alternative to brush-script classics like Balloon or Banco while keeping the sturdy structure of a sans.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Globo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "titling",
+      "brush-inspired",
+      "sports",
+      "packaging",
+      "streetwear"
+    ],
+    "summary": "An energetic inclined titling sans inspired by 1960s poster brush lettering, positioned as a modern alternative to classics like Balloon or Banco.",
+    "description": "Globo grew from a single sketch of bold uppercase poster lettering found in a 1960 handbook for commercial artists. Though its roots are in brush lettering, the letterforms were given a solid, sturdy structure that reads as a proper sans rather than a script, making it a contemporary counterpart to brush-lettering classics. It suits sports, kids' products, food branding, music and streetwear work.",
+    "foundry_blurb": "Typeverything describe Globo as an energetic inclined titling typeface developed from a 1960s handbook sketch of bold poster lettering, positioned as a modern alternative to brush-energy classics like Balloon or Banco."
+  },
+  {
+    "name": "Avena",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/avena",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans",
+    "classification_notes": "A contemporary humanist sans with classic humanist proportions modernised for branding and editorial use, offered in matching upright and italic families.",
+    "weights": [
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Avena"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "humanist",
+      "branding",
+      "editorial",
+      "variable",
+      "italic"
+    ],
+    "summary": "A seven-weight humanist sans blending elegance with an approachable personality, in matching upright and italic families.",
+    "description": "Avena brings a modern touch to classic humanist proportions, aiming for elegance without losing warmth. Seven weights across Upright and Italic families come with extensive alternate characters, and full Latin Extended coverage keeps it usable across a wide range of branding and editorial applications.",
+    "foundry_blurb": "Typeverything describe Avena as a contemporary humanist sans-serif blending elegance with a friendly personality, drawing on classic humanist proportions and offering extensive alternates for branding and editorial projects."
+  },
+  {
+    "name": "Cleric",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/cleric",
+    "designer": "Simon Walker",
+    "year": null,
+    "category": "serif",
+    "subcategory": "art nouveau display serif",
+    "classification_notes": "An Art Nouveau-influenced serif drawing on early twentieth-century book cover lettering, spanning three widths (Condensed, Normal, Wide) each with a full weight range and variable font.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Normal",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Cleric Condensed",
+      "Cleric Normal",
+      "Cleric Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "art-nouveau",
+      "condensed",
+      "packaging",
+      "fashion",
+      "editorial",
+      "variable"
+    ],
+    "summary": "An eighteen-style Art Nouveau serif across three widths, with elegant curves and graceful contrast drawn from early twentieth-century book covers.",
+    "description": "Cleric takes its expressive curves and sense of movement from lettering found on early twentieth-century book covers, carrying real Art Nouveau spirit. Three widths, Condensed, Normal and Wide, each in six styles with a variable font, give it useful range for packaging, fashion and editorial design. Detailed letterforms and a flowing rhythm keep it warm without losing sophistication.",
+    "foundry_blurb": "Typeverything describe Cleric as drawing on the expressive lettering of early twentieth-century book covers, carrying Art Nouveau spirit across three widths for packaging, fashion, editorial design and refined branding."
+  },
+  {
+    "name": "Figura",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/figura",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque sans",
+    "classification_notes": "A rigorous grotesque sans built across three widths (Condensed, Normal, Wide), each in nine weights and interpolating across both axes in the full variable release.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "Normal",
+      "Wide"
+    ],
+    "subfamilies": [
+      "Figura Condensed",
+      "Figura Normal",
+      "Figura Wide"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "condensed",
+      "branding",
+      "variable"
+    ],
+    "summary": "A twenty-seven-style rigorous grotesque spanning three widths and nine weights, built to interpolate freely across both axes.",
+    "description": "Figura is a straightforward, rigorous grotesque sans offered across Condensed, Normal and Wide widths, each in nine weights. Owners of the full family can interpolate between both width and weight axes, making it a flexible, no-nonsense system for branding projects that need range without changing typeface.",
+    "foundry_blurb": "Typeverything describe Figura as a brand new, rigorous sans serif built across three widths, each in nine weights, with full interpolation between axes for branding projects."
+  },
+  {
+    "name": "Friend",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/friend",
+    "designer": "Simon Walker",
+    "year": null,
+    "category": "serif",
+    "subcategory": "condensed serif",
+    "classification_notes": "A condensed reworking of the classic Windsor typeface, offered as a single weight with a matching italic rather than a full weight range.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Friend"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "condensed",
+      "packaging",
+      "branding",
+      "revival"
+    ],
+    "summary": "A condensed serif reworking the classic Windsor design into a single weight with a matching italic, built for tight, space-conscious layouts.",
+    "description": "Friend compacts the warm, approachable character of Windsor into a condensed form that fits space-conscious packaging and branding layouts without losing personality. It ships as a single weight with a corresponding italic, offering a compact alternative for bold headlines or tight spaces.",
+    "foundry_blurb": "Typeverything describe Friend as a modern interpretation of the classic Windsor typeface, condensed to fit space-conscious layouts while keeping Windsor's warm, approachable nature for packaging and branding."
+  },
+  {
+    "name": "Grano",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/grano",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric block sans",
+    "classification_notes": "A geometric sans referencing Hermann Hoffmann's 1908 Block and Berthold's 1920 Schwere Block, offered in matching upright and italic families with a full weight range.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Grano"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "geometric",
+      "block",
+      "branding",
+      "logotype",
+      "packaging",
+      "italic"
+    ],
+    "summary": "An eighteen-style geometric block sans reworking two early twentieth-century Block typefaces, in matching upright and italic families.",
+    "description": "Grano reimagines the classic Block typeface by Hermann Hoffmann and Berthold's Schwere Block with a contemporary twist, keeping the bold, well-defined character of both sources. Nine weights across upright and italic families give it a strong, confident presence suited to headlines, logotypes, packaging and other display applications where clarity matters.",
+    "foundry_blurb": "Typeverything describe Grano as a modern geometric sans-serif inspired by Hermann Hoffmann's 1908 Block and Berthold's 1920 Schwere Block, reimagined with a contemporary twist for headlines, logotypes and packaging."
+  },
+  {
+    "name": "Talkie",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/talkie",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "friendly grotesque",
+    "classification_notes": "Marketing copy does not name a specific historical reference or explicit category, but the weight structure and branding-first positioning match the foundry's other friendly grotesque sans faces such as Champ and Frizbee.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Talkie"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "friendly",
+      "branding",
+      "packaging",
+      "variable",
+      "italic"
+    ],
+    "summary": "An eighteen-style friendly grotesque in upright and italic families, built to bring contemporary flair to branding and packaging.",
+    "description": "Talkie is a dynamic, general-purpose sans built to inject personality into branding and packaging work. Nine weights across upright and italic families come with a variable font for the full family pack, offering a versatile, approachable option in the same territory as the foundry's other friendly grotesques.",
+    "foundry_blurb": "Typeverything describe Talkie as a fresh, dynamic typeface offering endless creative possibilities, recommending it for branding materials and packaging projects that want contemporary flair."
+  },
+  {
+    "name": "Niven",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/niven",
+    "designer": "Simon Walker",
+    "year": null,
+    "category": "serif",
+    "subcategory": "elegant display serif",
+    "classification_notes": "An elegant display serif named after actor David Niven, offered in matching upright and italic families with a particularly rich italic feature set.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Niven"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "elegant",
+      "editorial",
+      "branding",
+      "variable",
+      "italic"
+    ],
+    "summary": "A ten-style elegant display serif named for David Niven, with an especially richly equipped italic full of ligatures and swash variants.",
+    "description": "Niven takes its poise from the film presence of David Niven, built as an elegant display serif in matching Normal and Italic families across five weights each. The italic in particular carries dozens of ligatures and swash variants, giving it real range for editorial and branding use across a wide set of languages.",
+    "foundry_blurb": "Typeverything describe Niven as a new elegant display serif inspired by the movies of David Niven, offered as upright and italic families with an italic rich in ligatures and swash variants."
+  },
+  {
+    "name": "Getty",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/getty",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "serif",
+    "subcategory": "rounded display serif",
+    "classification_notes": "A playful serif inspired by Cooper Black and 1970s serif conventions, with distinctly unconventional letterforms. Offered in matching upright and italic families.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Getty"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "rounded",
+      "seventies",
+      "packaging",
+      "logotype",
+      "variable",
+      "italic"
+    ],
+    "summary": "An eighteen-style rounded display serif inspired by Cooper Black, with playful, unconventional letterforms across upright and italic families.",
+    "description": "Getty channels Cooper Black and the charm of 1970s serif design, but pushes into more unconventional letterform territory for a modern twist on the style. Nine weights across upright and italic families, plus variable files, give it a playful, warm personality well suited to logotypes and packaging.",
+    "foundry_blurb": "Typeverything describe Getty as a fun, friendly typeface inspired by the iconic Cooper Black, with playful, rounded forms recommended for logotypes and packaging while echoing the charm of 1970s serif design."
+  },
+  {
+    "name": "Marques",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/marques",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "serif",
+    "subcategory": "high-contrast luxury display serif",
+    "classification_notes": "A high-contrast display face with an atypical curve balance aimed at luxury packaging and branding; the marketing copy does not use the word serif but the described contrast and curve treatment sit in that tradition.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Marques"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "high-contrast",
+      "luxury",
+      "packaging",
+      "branding",
+      "variable"
+    ],
+    "summary": "A seven-weight high-contrast display face with an atypical curve balance, built for luxury packaging and branding work.",
+    "description": "Marques is built for projects where elegance is the priority, using careful high contrast and an unusual curve balance to create a luxurious, exquisite personality. Seven weights come with a variable font in the full family pack, keeping it flexible for premium packaging and branding.",
+    "foundry_blurb": "Typeverything describe Marques as a new display typeface built for packaging or branding projects where elegance is key, citing its careful high contrast and atypical curve balance as the source of its luxurious personality."
+  },
+  {
+    "name": "Frizbee",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/frizbee",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "playful grotesque",
+    "classification_notes": "A fun, friendly grotesque explicitly described by the foundry as a sans, built with food packaging and kids' branding in mind.",
+    "weights": [
+      "Thin",
+      "Light",
+      "ExtraLight",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Frizbee"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "friendly",
+      "food",
+      "packaging",
+      "kids",
+      "variable"
+    ],
+    "summary": "An eleven-weight friendly sans built to stand out in food packaging and to carry playful, kids'-focused branding.",
+    "description": "Frizbee is a fun, friendly sans designed to bring joy to packaging and branding projects, with eleven weights covering a wide tonal range. A variable font is available in the full family pack, and the foundry positions it specifically for food packaging and children's branding that wants to feel different from the shelf norm.",
+    "foundry_blurb": "Typeverything describe Frizbee as a new, fun and friendly sans built to bring joy to projects, calling it the secret sauce for food packaging that wants to stand out and the top pick for kids' branding."
+  },
+  {
+    "name": "Roast",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/roast",
+    "designer": "Andrei Robu",
+    "year": 2022,
+    "category": "sans-serif",
+    "subcategory": "friendly display sans",
+    "classification_notes": "Marketing copy keeps the description brief and does not name a specific category, but the weight structure and packaging-first positioning match the foundry's other friendly sans faces.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Roast"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "friendly",
+      "packaging",
+      "posters",
+      "branding",
+      "variable"
+    ],
+    "summary": "A nine-weight friendly display sans with a summery, upbeat character, built for packshots and poster work.",
+    "description": "Roast brings a summery, friendly vibe to display projects such as packaging, posters and branding. Nine weights are available for desktop or web use, with a variable font included in the full family pack, keeping it flexible across a range of display applications.",
+    "foundry_blurb": "Typeverything describe Roast as a friendly typeface bringing summery fun vibes, recommending it for display projects such as packaging, posters and branding."
+  },
+  {
+    "name": "Atico",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/atico",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A geometric sans built on a precise geometric foundation, offered in matching upright and italic families with a connecting variable file across both.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Atico"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "geometric",
+      "branding",
+      "logotype",
+      "variable",
+      "italic"
+    ],
+    "summary": "A twenty-style geometric sans with a precise construction, offered in matching upright and italic families with a connecting variable font.",
+    "description": "Atico is built on a geometric foundation with precise, controlled construction, spanning ten styles each in Normal and Italic families. A connecting variable file ensures smooth transitions between upright and italic, making it suited to refined text as well as impactful branding and logotype work.",
+    "foundry_blurb": "Typeverything describe Atico as their newest sans-serif, built on a geometric foundation with precise construction, positioned for refined text through to impactful branding materials and logotypes."
+  },
+  {
+    "name": "Faroe",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/faroe",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "display",
+    "subcategory": "art nouveau display",
+    "classification_notes": "An ornamental Art Nouveau-inspired face offered in Normal and Display optical masters; the marketing copy does not commit to serif or sans terminology, so it is filed under the broader display category given its swash-heavy, ornamental construction.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "Faroe Normal",
+      "Faroe Display"
+    ],
+    "subfamilies": [
+      "Faroe Normal",
+      "Faroe Display"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "art-nouveau",
+      "ornamental",
+      "branding",
+      "variable",
+      "alternates"
+    ],
+    "summary": "An art-nouveau-inspired display face with parallel Normal and Display masters, built for sophisticated brand materials with a wealth of alternates and ligatures.",
+    "description": "Faroe brings a modern twist to Art Nouveau elegance, built with a wealth of alternates and ligatures for sophisticated display work. It ships as two parallel optical masters, Normal and Display, each in eight weights, with a variable font included in the full desktop pack for extra flexibility.",
+    "foundry_blurb": "Typeverything describe Faroe as a captivating typeface offering a modern twist on Art Nouveau elegance, recommending it for display projects and sophisticated brand materials thanks to its wealth of alternates and ligatures."
+  },
+  {
+    "name": "Moto",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/moto",
+    "designer": "Andrei Robu",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "friendly grotesque",
+    "classification_notes": "Described only in general terms as a friendly typeface; the nine-weight structure and branding-first framing match the foundry's other friendly sans faces.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Moto"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "friendly",
+      "branding",
+      "packaging",
+      "variable"
+    ],
+    "summary": "A nine-weight friendly sans built to make designs feel lively and inviting, aimed at branding and packaging work.",
+    "description": "Moto is a friendly, wide-ranging sans built to turn designs into lively, inviting experiences. Nine styles come with a variable font for the full family option, offering flexibility for branding and packaging work that wants to match a specific brand personality.",
+    "foundry_blurb": "Typeverything describe Moto as a brand new friendly typeface designed to turn designs into lively and inviting experiences, positioning it for branding and packaging projects."
+  },
+  {
+    "name": "Brule",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/brule",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "display",
+    "subcategory": "seventies display",
+    "classification_notes": "A juicy, iconic display face tied explicitly to 1970s graphic design, packed with icons and special glyphs rather than following a strict serif or sans structure.",
+    "weights": [
+      "Light",
+      "Text",
+      "Normal",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Brule"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "seventies",
+      "packaging",
+      "branding",
+      "variable",
+      "icons"
+    ],
+    "summary": "A nine-weight display face channelling 1970s graphic design, packed with opentype icons and special glyphs for packaging and big display work.",
+    "description": "Brule is a tribute to 1970s graphic design, built as a juicy, iconic display face rather than a neutral text style. It ships packed with OpenType features, icons and special glyphs, adding excitement to packaging and large-format visual communication. Nine weights and a variable font in the full family pack give it flexibility across the range.",
+    "foundry_blurb": "Typeverything describe Brule as a tribute to 1970s graphic design, a nostalgic display face packed with opentype features, icons and special glyphs for packaging and big displays."
+  },
+  {
+    "name": "Totally",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/totally",
+    "designer": "Andrei Robu",
+    "year": 2023,
+    "category": "display",
+    "subcategory": "hand-painted display",
+    "classification_notes": "A hand-painted-style display face inspired by 1950s book covers and superhero magazines, deliberately keeping asymmetric angles for a human feel. Offered in matching upright and italic families.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Totally"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "hand-painted",
+      "packaging",
+      "posters",
+      "branding",
+      "variable",
+      "italic"
+    ],
+    "summary": "An eighteen-style hand-painted display face inspired by 1950s book covers and superhero magazines, with deliberately asymmetric, human angles.",
+    "description": "Totally draws on the hand-painting techniques seen on 1950s book covers and superhero magazines, keeping its asymmetric angles intentionally rather than smoothing them out, for a friendlier, more human feel. Available in upright and italic across nine weights, with a variable font in the full family packs, it suits packaging, posters and branding.",
+    "foundry_blurb": "Typeverything describe Totally as inspired by 1950s book covers and superhero magazines, designed using hand-painting techniques that keep asymmetric angles for a friendlier, more human feel."
+  },
+  {
+    "name": "Newsagent",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/newsagent",
+    "designer": "Simon Walker",
+    "year": null,
+    "category": "serif",
+    "subcategory": "condensed display serif",
+    "classification_notes": "A bold, condensed serif blending traditional serif structure with contemporary flourishes, sold as a single style with tightly kerned ornate swash caps.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Newsagent"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "condensed",
+      "display",
+      "swashes",
+      "branding",
+      "editorial"
+    ],
+    "summary": "A single-weight bold condensed serif mixing traditional structure with contemporary flourishes, built around a set of tightly kerned ornate swash caps.",
+    "description": "Newsagent blends traditional serif elements with contemporary stylistic flourishes in a bold, condensed structure that reads as both formal and current. Highly ornate swash caps are kerned tightly for a cohesive, confident visual impact, giving it authority for headline and branding use.",
+    "foundry_blurb": "Typeverything describe Newsagent as a sophisticated typeface blending traditional serif elements with contemporary flourishes, built bold and condensed with a set of tightly kerned, highly ornate swash capitals."
+  },
+  {
+    "name": "Ready",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/ready",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "friendly grotesque",
+    "classification_notes": "A grotesque built to bring a classic-yet-modern feel back to display and poster work, sharing its weight structure with Berry but marketed as a distinct sans product.",
+    "weights": [
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Ready"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "friendly",
+      "posters",
+      "packaging",
+      "variable"
+    ],
+    "summary": "An eight-weight grotesque built to bring the fun back into grotesque type, aimed at posters and packshots that need to pop.",
+    "description": "Ready is a classic-yet-modern grotesque built to make packshots and posters stand out, with eight weights available for desktop or web use. A variable font is included in the full family desktop packs, keeping it flexible across display applications.",
+    "foundry_blurb": "Typeverything describe Ready as bringing back the fun in grotesque fonts, with a classic yet modern feel built to make packshots and posters pop."
+  },
+  {
+    "name": "Doughy",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/doughy",
+    "designer": "Teddy Derkert",
+    "year": null,
+    "category": "display",
+    "subcategory": "inktrap display sans",
+    "classification_notes": "A soft, rounded display face with deep inktraps and forced-high descenders, sold as a single style with optional conventional alternates for a less quirky read.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Doughy"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "rounded",
+      "packaging",
+      "branding",
+      "playful",
+      "cyrillic"
+    ],
+    "summary": "A single-style soft display face with deep inktraps and descenders pushed above the baseline, giving it an endearing, quirky look.",
+    "description": "Doughy pairs deep inktraps and tight spacing with round corners and descenders deliberately forced above the baseline, producing a distinctly quirky, endearing character. Alternate glyphs are included for a more conventional look where needed, and support extends to wide Latin and Cyrillic, suited to youthful packaging and branding.",
+    "foundry_blurb": "Typeverything describe Doughy as a soft and friendly display typeface with deep inktraps and tight spacing, perfect for packaging or branding projects wanting a modern, youthful feel."
+  },
+  {
+    "name": "New Forest",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/new-forest",
+    "designer": "Simon Walker",
+    "year": null,
+    "category": "serif",
+    "subcategory": "art nouveau serif",
+    "classification_notes": "An elegant Art Nouveau-influenced serif with small caps and small numbers, offered as Regular and Italic styles rather than a weight range.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "New Forest"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "art-nouveau",
+      "elegant",
+      "editorial",
+      "branding",
+      "logotype",
+      "italic"
+    ],
+    "summary": "An elegant art-nouveau serif in Regular and Italic, with small caps, small numbers and a wide set of ligatures and alternates.",
+    "description": "New Forest captures Art Nouveau sophistication in a serif built around Regular and Italic styles with a combined 853 glyphs. Small caps, small numbers, multiple ligatures and alternates give it real versatility, from display projects through to books and logotypes.",
+    "foundry_blurb": "Typeverything describe New Forest as a modern and elegant font with art nouveau influences, offering small caps, small numbers and a wide set of ligatures and alternates for display, books and logotypes."
+  },
+  {
+    "name": "Mochi",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/mochi",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "friendly grotesque",
+    "classification_notes": "Shares its 'bringing the fun back to grotesk fonts' positioning almost verbatim with Ready, suggesting a shared underlying structure sold under a separate name.",
+    "weights": [
+      "Ultra Light",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mochi"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "friendly",
+      "posters",
+      "packaging",
+      "variable"
+    ],
+    "summary": "An eight-weight grotesque built to bring the fun back into display type, aimed at packshots and posters that need impact.",
+    "description": "Mochi is a classic-yet-modern grotesque built to make packshots and posters pop, with eight weights for desktop or web use. A variable font is included in the full family desktop packs, giving it the same practical flexibility as the foundry's other display grotesques.",
+    "foundry_blurb": "Typeverything describe Mochi as bringing back the fun in grotesque fonts, with a classic yet modern feel built to make packshots and posters pop."
+  },
+  {
+    "name": "Goji",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/goji",
+    "designer": "Andrei Robu",
+    "year": 2022,
+    "category": "display",
+    "subcategory": "art nouveau display",
+    "classification_notes": "An Art Nouveau-styled display face with a full swash capital alternate set; the marketing copy does not specify serif or sans construction, so it is filed under the broader display category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Goji"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "art-nouveau",
+      "swashes",
+      "packaging",
+      "posters",
+      "branding",
+      "variable"
+    ],
+    "summary": "A nine-weight art-nouveau display face with a full set of swash capital alternates, built for eye-catching packaging and posters.",
+    "description": "Goji brings Art Nouveau style into a fun, summery display face aimed at packaging, posters and branding. A full set of swash capital alternates adds extra personality, and nine weights come with a variable font in the full family packs.",
+    "foundry_blurb": "Typeverything describe Goji as inspired by the iconic Art Nouveau style, a fun and friendly font for eye-catching display projects with a full set of swash capital alternates."
+  },
+  {
+    "name": "Bunch",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/bunch",
+    "designer": "Cristi Bordeianu & Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "A general-purpose grotesque spanning ten weights from Hairline to Heavy; marketing copy stresses versatility over a specific historical reference.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bunch"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "grotesque",
+      "branding",
+      "display",
+      "variable"
+    ],
+    "summary": "A ten-weight grotesque running from Hairline to Heavy, built for a warm, character-driven presence across display and general use.",
+    "description": "Bunch combines functionality with personality across ten weights from Hairline to Heavy, with a variable font included in the full family packs. It works equally well for display purposes or general application, bringing a touch of character wherever it is used.",
+    "foundry_blurb": "Typeverything describe Bunch as embodying a harmonious combination of functionality and personality, offering ten weights from Hairline to Heavy for versatile display and general design use."
+  },
+  {
+    "name": "Talu",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/talu",
+    "designer": "Simon Walker",
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "condensed blackletter",
+    "classification_notes": "A warm, condensed blackletter built for storybook and folk-tale contexts, simple enough for general use but with enough stylistic alternates for heavier ornamentation.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Talu"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "condensed",
+      "storytelling",
+      "packaging",
+      "branding"
+    ],
+    "summary": "A single-style warm, condensed blackletter inspired by old English folk myth, simple enough for everyday use with room for heavy ornamentation.",
+    "description": "Talu is a condensed blackletter built to feel warm rather than severe, inspired by the folk myths and legends of Old England. It stays simple enough for general use but carries enough stylistic alternates to add near-limitless flavour, well suited to storybook and folklore-themed branding.",
+    "foundry_blurb": "Typeverything describe Talu as a warm, condensed blackletter font inspired by the folk myths and legends of Old England, simple enough for wide use but rich in stylistic alternates."
+  },
+  {
+    "name": "Taxi",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/taxi",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "rounded grotesque",
+    "classification_notes": "A friendly sans offered in Normal and Rounded builds sharing the same nine-weight structure; the Rounded cut is a corner treatment rather than a different category, so it is kept as a subfamily rather than a separate entry.",
+    "weights": [
+      "Light",
+      "Thin",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Taxi",
+      "Taxi Rounded"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "rounded",
+      "grotesque",
+      "branding",
+      "packaging",
+      "variable"
+    ],
+    "summary": "A nine-weight friendly sans available in Normal and Rounded builds, offering a playful, approachable presence for branding and packaging.",
+    "description": "Taxi brings a friendly, fun vibe across nine weights from Thin to Heavy, with Normal and Rounded versions covering slightly different moods within the same system. Variable fonts are included in the full family packs, making it a versatile choice for branding and eye-catching packaging.",
+    "foundry_blurb": "Typeverything describe Taxi as a delightful and versatile typeface bringing a friendly, fun vibe to projects, offering Normal and Rounded styles across nine weights for branding and packaging."
+  },
+  {
+    "name": "Acorn",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/acorn",
+    "designer": "Simon Walker",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "art nouveau-inflected display sans",
+    "classification_notes": "A display sans explicitly described by the foundry as such, with an organic flow and Art Nouveau inflections drawn from 1980s poster design.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Acorn"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "display",
+      "art-nouveau",
+      "packaging",
+      "branding",
+      "variable"
+    ],
+    "summary": "A seven-weight display sans with organic flow and art-nouveau inflections, reminiscent of the vibrant 1980s poster era.",
+    "description": "Acorn blends elegance and modernity with a touch of organic flow, its typographic rhythm reminiscent of the vibrant 1980s poster era. Art Nouveau inflections add character throughout. Seven weights come with a variable font option in the full family pack, suited to packaging, branding and other display projects.",
+    "foundry_blurb": "Typeverything describe Acorn as a display sans serif blending elegance and modernity with organic flow, reminiscent of the vibrant 1980s poster era with art nouveau inflections adding charm."
+  },
+  {
+    "name": "Lovechild",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/lovechild",
+    "designer": "Simon Walker",
+    "year": null,
+    "category": "serif",
+    "subcategory": "display serif",
+    "classification_notes": "A bold serif merging two of the foundry's own faces, New Forest and Room 205, blending 1960s counterculture with classic Disney-style lettering.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Lovechild"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "display",
+      "vintage",
+      "posters",
+      "packaging",
+      "branding"
+    ],
+    "summary": "A single-style bold serif born from combining New Forest and Room 205, merging 1960s counterculture with classic Disney-style lettering.",
+    "description": "Lovechild merges the free-spirited energy of 1960s counterculture with the timeless charm of classic Disney lettering, built from the union of the foundry's own New Forest and Room 205. The result is a versatile serif suited to posters, packaging and branding that wants both vintage character and modern polish.",
+    "foundry_blurb": "Typeverything describe Lovechild as merging 1960s hippy culture with classic Disney lettering, born from the union of their own New Forest and Room 205 designs for posters, packaging and branding."
+  },
+  {
+    "name": "Zufo",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/zufo",
+    "designer": null,
+    "year": 2015,
+    "category": "display",
+    "subcategory": "paper-cut display",
+    "classification_notes": "A decorative paper-cut-style display face across eight styles; marketing copy does not commit to a serif or sans structure, consistent with its craft-paper visual concept.",
+    "weights": [
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Zufo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "decorative",
+      "packaging",
+      "events",
+      "playful",
+      "variable"
+    ],
+    "summary": "An eight-style paper-cut display face built to bring playful, happy energy to events and packaging work.",
+    "description": "Zufo takes a paper-cut visual concept and turns it into a happy, playful display face suited to events, packaging and fun-focused branding. Eight styles come with a variable font in the full family packs, all built to radiate a positive, joyful character.",
+    "foundry_blurb": "Typeverything describe Zufo as a happy paper-cut typeface bringing playfulness to designs, positioned as a perfect choice for fun, events and packaging projects."
+  },
+  {
+    "name": "Alder Road",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/alder-road",
+    "designer": "Simon Walker",
+    "year": null,
+    "category": "serif",
+    "subcategory": "ultra-condensed didone serif",
+    "classification_notes": "An ultra-condensed serif in the Didone tradition with Art Nouveau detailing, sold as a single style rather than a weight range.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Alder Road"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "didone",
+      "condensed",
+      "display",
+      "posters",
+      "branding"
+    ],
+    "summary": "A single-style ultra-condensed Didone serif with playful art-nouveau detailing, built for elegant display and book cover work.",
+    "description": "Alder Road draws on the classic Didone tradition, compressed into an ultra-condensed structure and given playful Art Nouveau detailing for extra character. Refined curves and precise strokes give it a sense of timeless, serious elegance, suited to book covers, posters and other display projects.",
+    "foundry_blurb": "Typeverything describe Alder Road as a stunning ultra-condensed serif drawing on the classic Didone tradition, with playful art nouveau details giving it a unique, sophisticated character for display work."
+  },
+  {
+    "name": "Palace",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/palace",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "display",
+    "subcategory": "belle époque display",
+    "classification_notes": "A decorative single-weight face styled after Belle Époque luggage labels, built for rich alternate glyph coverage rather than a weight range.",
+    "weights": [
+      "Palace"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Palace"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "vintage",
+      "luxury",
+      "posters",
+      "logotype",
+      "packaging"
+    ],
+    "summary": "A single-weight decorative display face styled after Belle Époque luggage labels, with 535 glyphs of alternates for posters and logotypes.",
+    "description": "Palace reaches back to vintage luggage labels from the Belle Époque period between 1890 and 1910, translating that timeless, elegant charm into a single-weight display face. Multilingual support and a rich set of ligatures and alternates, 535 glyphs in total, make it flexible for posters, logotypes and other display projects.",
+    "foundry_blurb": "Typeverything describe Palace as reminiscent of vintage Belle Époque luggage labels, with rich OpenType alternates adding a touch of sophistication to posters, logotypes and display projects."
+  },
+  {
+    "name": "Brice",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/brice",
+    "designer": "Cahya Sofian",
+    "year": null,
+    "category": "display",
+    "subcategory": "flared retro display",
+    "classification_notes": "An 1980s-pop-culture display face spanning five widths and six weights each; the marketing copy describes flared stroke endings and curvy letterforms without committing to a serif or sans structure.",
+    "weights": [
+      "ExtraLight",
+      "Light",
+      "Regular",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Condensed",
+      "SemiCondensed",
+      "Normal",
+      "SemiExpanded",
+      "Expanded"
+    ],
+    "subfamilies": [
+      "Brice Condensed",
+      "Brice SemiCondensed",
+      "Brice Normal",
+      "Brice SemiExpanded",
+      "Brice Expanded"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "retro",
+      "condensed",
+      "variable",
+      "packaging",
+      "branding"
+    ],
+    "summary": "A thirty-style display face across five widths, combining slightly flared stroke endings with curvy 1980s-inspired letterforms.",
+    "description": "Brice takes its cues from 1980s pop culture, mixing slightly flared stroke endings with curvy letterforms for a distinctly retro character. Five widths, each in six weights from ExtraLight to Black, give it real range for branding and display work needing a period-specific personality.",
+    "foundry_blurb": "Typeverything describe Brice as inspired by 1980s pop culture, featuring slightly flared stroke endings combined with curvy letterforms across five widths and six weights."
+  },
+  {
+    "name": "Oakley",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/oakley",
+    "designer": "Mark van Leeuwen",
+    "year": null,
+    "category": "serif",
+    "subcategory": "rounded old-style serif",
+    "classification_notes": "An expressive old-style serif in the spirit of 1960s and 1970s rounded serifs like Cooper, offered as Bold and Black weights each with a true italic.",
+    "weights": [
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Oakley"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "old-style",
+      "rounded",
+      "packaging",
+      "branding",
+      "italic"
+    ],
+    "summary": "A four-style rounded old-style serif in Bold and Black, each with a true italic, hinting at Cooper-style warmth from the sixties and seventies.",
+    "description": "Oakley pays homage to the soft, rounded old-style serifs of the 1960s and 1970s, its gentle, juicy serifs giving it warmth and nostalgia. While it hints at classic Cooper-like proportions, several unconventional letterforms keep both roman and italic dynamic. Bold and Black weights, each with a true italic, come with an extended Latin character set supporting over 75 languages.",
+    "foundry_blurb": "Typeverything describe Oakley as an homage to the expressive, soft and rounded old-style serifs of the sixties and seventies, hinting at Cooper-like warmth while introducing unconventional, dynamic letterforms."
+  },
+  {
+    "name": "Writer",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/writer",
+    "designer": "Andrei Robu",
+    "year": 2022,
+    "category": "script",
+    "subcategory": "graffiti marker script",
+    "classification_notes": "A graffiti-style script drawn with a flat marker, built around an extensive uppercase alternate system for varied, unique letter compositions.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Writer"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "graffiti",
+      "marker",
+      "apparel",
+      "branding",
+      "alternates"
+    ],
+    "summary": "A single-style graffiti marker script with an extensive uppercase alternate system for unique, varied letter compositions.",
+    "description": "Writer is drawn with a flat marker in a graffiti-script style, leaning heavily on OpenType alternates for the uppercase to produce distinctive, varied compositions. It suits branding, apparel and other display projects that want a hand-drawn, street-lettering feel.",
+    "foundry_blurb": "Typeverything describe Writer as a new graffiti script drawn with a flat marker, taking full advantage of OpenType alternates for the uppercase to create unique letter compositions for branding and apparel."
+  },
+  {
+    "name": "Sharpie",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/sharpie",
+    "designer": "Andrei Robu",
+    "year": 2020,
+    "category": "script",
+    "subcategory": "hand-drawn script",
+    "classification_notes": "A classic hand-drawn marker script with a large set of contextual alternates that shift its personality between kid-friendly and street-graffiti depending on use.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sharpie"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "hand-drawn",
+      "packaging",
+      "logotype",
+      "branding"
+    ],
+    "summary": "A single-style hand-drawn script with heavy contextual alternates, able to read as kid-friendly or street-graffiti depending on how it is set.",
+    "description": "Sharpie is a classic hand-drawn script built with a wide range of contextual alternates for a distinct, varied personality. It works well for packaging or hand-drawn logotype branding, with its character shifting between playful and streetwise depending on the composition.",
+    "foundry_blurb": "Typeverything describe Sharpie as a classic hand-drawn script with a plethora of contextual alternates, perfect for packaging or hand-drawn logotype branding, changing personality depending on how it is set."
+  },
+  {
+    "name": "Loto",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/loto",
+    "designer": "Andrei Robu & Alexandru Darie",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A friendly geometric sans positioned as an alternative to more common geometric faces, with tabular and old-style figure support.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Loto"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "geometric",
+      "branding",
+      "logotype",
+      "variable"
+    ],
+    "summary": "A nine-weight geometric sans built as a friendlier alternative to the usual geometric suspects, for logotypes and brand materials.",
+    "description": "Loto offers a friendlier take on the geometric sans, designed as an alternative to more familiar names in the category. Nine weights suit logotypes, brand materials and websites, with tabular and old-style figures adding practical range, plus a variable font in the full family pack.",
+    "foundry_blurb": "Typeverything describe Loto as a new geometric sans with super friendly features, designed as an alternative to the usual suspects for logotypes, brand materials and websites."
+  },
+  {
+    "name": "Roa",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/roa",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "display",
+    "subcategory": "angular experimental display",
+    "classification_notes": "An experimental display face with angular shapes and unusual cuts inspired by Greek mythology, not committed to a specific serif or sans structure.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Roa"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "experimental",
+      "angular",
+      "branding",
+      "mythology"
+    ],
+    "summary": "A single-style experimental display face with angular shapes and unexpected cuts, drawing on Greek mythology for a confident, unconventional character.",
+    "description": "Roa takes Greek mythology as its starting point, building an expressive, confident face from experimental angular shapes and unexpected cuts. It works well for branding or display projects that want an unconventional edge.",
+    "foundry_blurb": "Typeverything describe Roa as a new expressive typeface inspired by Greek mythology, with experimental angular shapes and unexpected cuts for confident branding or display work."
+  },
+  {
+    "name": "Magalie",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/magalie",
+    "designer": "Mark van Leeuwen",
+    "year": null,
+    "category": "serif",
+    "subcategory": "elegant display serif",
+    "classification_notes": "A versatile serif explicitly described as such by the foundry, spanning a wide weight range from thin to bold with an extensive Latin character set.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "SemiBold",
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Magalie"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "elegant",
+      "display",
+      "branding",
+      "variable"
+    ],
+    "summary": "A five-weight elegant serif running from delicate thin to commanding bold, with an extensive character set of ligatures, swashes and alternates.",
+    "description": "Magalie is a versatile serif built to bring a fresh touch to display projects, its five weights ranging from delicate thin through to commanding bold. An extensive Latin character set includes expressive ligatures, creative swashes and stylish alternates, with a variable font available in the complete family.",
+    "foundry_blurb": "Typeverything describe Magalie as a versatile serif typeface bringing a fresh touch to display projects, with an extensive Latin character set including expressive ligatures, swashes and stylish alternates."
+  },
+  {
+    "name": "Boldoni",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/boldoni",
+    "designer": "Andrei Robu",
+    "year": 2020,
+    "category": "display",
+    "subcategory": "bold display",
+    "classification_notes": "A dynamic display face whose name nods to Bodoni, though the foundry's own copy describes it purely as a display typeface rather than a Didone serif revival.",
+    "weights": [
+      "Light",
+      "Text",
+      "Regular",
+      "Normal",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Boldoni"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "bold",
+      "branding",
+      "logotype",
+      "packaging",
+      "variable"
+    ],
+    "summary": "An eight-weight dynamic display face with a large alternate set, built to make brand materials stand out from bold statements to refined logo work.",
+    "description": "Boldoni is a dynamic, versatile display typeface with a large selection of alternates for extra character and impact. Eight weights cover everything from bold packaging statements to more refined logo and website use, with a variable font included in the full family desktop pack.",
+    "foundry_blurb": "Typeverything describe Boldoni as a new dynamic and versatile display typeface crafted to make brand materials stand out, with a large selection of alternates bringing character to every project."
+  },
+  {
+    "name": "Misfits",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/misfits",
+    "designer": null,
+    "year": null,
+    "category": "blackletter",
+    "subcategory": "contemporary blackletter",
+    "classification_notes": "A contemporary blackletter explicitly described as such by the foundry, blending traditional blackletter structure with a modern edge and numerous alternates.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Misfits"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "blackletter",
+      "contemporary",
+      "apparel",
+      "posters",
+      "vintage",
+      "packaging"
+    ],
+    "summary": "A single-style contemporary blackletter combining traditional structure with a modern edge, built for clothing lines and vintage-styled packaging.",
+    "description": "Misfits combines blackletter tradition with a contemporary twist, its numerous alternates giving designers room to customise and personalise projects. It suits clothing lines, posters and vintage-styled packaging, striking a balance between old and new that keeps it versatile.",
+    "foundry_blurb": "Typeverything describe Misfits as a stunning contemporary blackletter font combining tradition with a modern twist, offering numerous alternates for clothing lines, posters and vintage packaging projects."
+  },
+  {
+    "name": "Saveloy",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/saveloy",
+    "designer": "Simon Walker",
+    "year": null,
+    "category": "script",
+    "subcategory": "brush script",
+    "classification_notes": "A chunky, slanted brush-style script with dozens of ligatures and swash-cap variants, sold as a single style.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Saveloy"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "brush",
+      "packaging",
+      "branding",
+      "logotype"
+    ],
+    "summary": "A single-style chunky, slanted brush script with dozens of ligatures and swash-cap variants for wide-ranging language support.",
+    "description": "Saveloy is a chunky, slanted brush-style script with real personality, carrying dozens of ligatures and swash-cap variants. It suits packaging and branding work looking for a confident, informal handwritten voice, with wide-ranging language support.",
+    "foundry_blurb": "Typeverything describe Saveloy as a chunky, slanted brush-style font with dozens of ligatures and swash-cap variants, capable of a wide range of language options."
+  },
+  {
+    "name": "Graf",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/graf",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "ink-trap display sans",
+    "classification_notes": "A display sans with smiling ink-traps that can read as strong or friendly depending on use, offered in a straight Graf style and a rounded Bubble style.",
+    "weights": [
+      "Rounded",
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Graf"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "display",
+      "ink-trap",
+      "rounded",
+      "sports",
+      "tech",
+      "branding"
+    ],
+    "summary": "A two-style ink-trap display sans, straight or rounded, that shifts between strength and friendliness depending on the context.",
+    "description": "Graf combines a classic look with a modern twist, its smiling ink-traps conveying either strength or friendliness depending on how it is used. Two styles, Graf and a rounded Bubble variant, come packed with alternates for sports, tech, editorial and fun branding projects.",
+    "foundry_blurb": "Typeverything describe Graf as a new display typeface designed to make an impact, combining classic design elements with a modern twist and smiling ink-traps that convey either strength or friendliness."
+  },
+  {
+    "name": "Blackbike",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/blackbike",
+    "designer": "Simon Walker",
+    "year": null,
+    "category": "script",
+    "subcategory": "display script",
+    "classification_notes": "A versatile display script with a large glyph set of alternates and ligatures, sold as a single style.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Blackbike"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "display",
+      "posters",
+      "packaging",
+      "alternates"
+    ],
+    "summary": "A single-style versatile display script with 279 glyphs including 32 alternate characters, built for posters and packaging with a bold, dynamic rhythm.",
+    "description": "Blackbike brings a unique, dynamic rhythm to posters and packaging, its 279 glyphs including 32 alternate characters and ligatures for real creative range. Its bold, energetic personality suits display work that wants a script with genuine attitude.",
+    "foundry_blurb": "Typeverything describe Blackbike as a versatile display script bringing a unique, dynamic rhythm to designs, with 279 carefully crafted glyphs offering unparalleled creative possibilities for posters and packaging."
+  },
+  {
+    "name": "Bourbon St",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/bourbon-st",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "display",
+    "subcategory": "luxury display",
+    "classification_notes": "An experimental display face mixing semi-condensed and wide uppercase letterforms within the same style, aimed at high-end and luxury branding.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Bourbon St"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "luxury",
+      "condensed",
+      "posters",
+      "packaging",
+      "branding"
+    ],
+    "summary": "A single-style experimental display face mixing semi-condensed and wide uppercase letterforms, built for luxury branding and alcohol labels.",
+    "description": "Bourbon St stands out for its mix of semi-condensed and wide uppercase letters within a single style, creating distinct typographic compositions. A wealth of alternates and special ligatures add further versatility, and its high-end aesthetic suits luxury brands and alcohol-related labelling in particular.",
+    "foundry_blurb": "Typeverything describe Bourbon St as a novel experimental typeface standing out for its mix of semi-condensed and wide uppercase letters, well suited to luxury brands or alcohol-related labels."
+  },
+  {
+    "name": "Room 205",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/room205",
+    "designer": "Simon Walker",
+    "year": null,
+    "category": "serif",
+    "subcategory": "neoclassical high-contrast serif",
+    "classification_notes": "A bold, high-contrast neoclassical serif combining old-style letterforms with modern digital finishing, sold as a single style.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Room 205"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "neoclassical",
+      "high-contrast",
+      "branding",
+      "display",
+      "logotype"
+    ],
+    "summary": "A single-style bold neoclassical serif with rich texture and high contrast, combining old-style letterforms with modern digital polish.",
+    "description": "Room 205 combines old-style letterforms with modern digital aesthetics in a bold, expressive neoclassical serif. Rich texture and high contrast give it real presence, with 274 glyphs including over 30 alternate characters and ligatures for logo and display work that wants to make a statement.",
+    "foundry_blurb": "Typeverything describe Room 205 as a bold and expressive neoclassical font combining old-style letterforms with modern digital aesthetics, optimised for display design and making a statement."
+  },
+  {
+    "name": "Motorino",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/motorino",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "script",
+    "subcategory": "vintage hand-lettered script",
+    "classification_notes": "A vintage European hand-lettering revival with 1960s influences, sold as a single bold style aimed squarely at logotype use.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Motorino"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "vintage",
+      "logotype",
+      "packaging",
+      "branding"
+    ],
+    "summary": "A single bold-style vintage hand-lettered script reviving old European shop-sign lettering with a 1960s twist, built for logotypes and packaging.",
+    "description": "Motorino reimagines vintage European hand lettering seen on old shop signs, folding in subtle 1960s influences for a period-specific but usable result. It is built primarily for logotypes and packaging work that wants that hand-lettered, shop-sign character.",
+    "foundry_blurb": "Typeverything describe Motorino as encapsulating vintage European hand lettering seen on old shop signs, reimagined with subtle 60s influences and perfect for logotypes and packaging projects."
+  },
+  {
+    "name": "Loggia",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/loggia",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "display",
+    "subcategory": "luxury display",
+    "classification_notes": "A sophisticated display face built for premium and luxury applications, with an extensive ligature and alternate set; marketing copy does not specify a serif or sans construction.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Loggia"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "luxury",
+      "branding",
+      "logotype",
+      "posters",
+      "variable"
+    ],
+    "summary": "An eight-weight sophisticated display face built for premium and luxury branding, with a wide set of ligatures and alternates.",
+    "description": "Loggia is designed for premium and luxury applications, its wide ligature and alternate set offering plenty of ways to dress up brand materials. Eight distinct weights suit projects demanding sophistication and glamour, with a variable font in the full family pack for stylish logos, posters and websites.",
+    "foundry_blurb": "Typeverything describe Loggia as a sophisticated display typeface designed for premium and luxury applications, offering a wide set of ligatures and alternates for elegant brand communication."
+  },
+  {
+    "name": "Sisteron",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/sisteron",
+    "designer": "Simon Walker",
+    "year": null,
+    "category": "display",
+    "subcategory": "art nouveau display",
+    "classification_notes": "A Jugendstil-styled display face with a complete set of swashed capitals, sold as a single style built for branding and poster design.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Sisteron"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display",
+      "art-nouveau",
+      "swashes",
+      "posters",
+      "branding"
+    ],
+    "summary": "A single-style Jugendstil display face with a complete set of swashed capitals, built for elegant branding and poster design.",
+    "description": "Sisteron embodies the timeless charm of Jugendstil style, its impeccable sense of period detail complemented by a complete set of swashed capitals. A wide array of alternates and foreign characters keep it flexible for branding and poster design that wants a classic yet contemporary statement.",
+    "foundry_blurb": "Typeverything describe Sisteron as a new display typeface embodying the timeless charm of the Jugendstil style, offering a complete set of swashed capitals ideal for branding and poster design."
+  },
+  {
+    "name": "Aespira",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/aespira",
+    "designer": "Mark van Leeuwen",
+    "year": null,
+    "category": "serif",
+    "subcategory": "titling serif",
+    "classification_notes": "A roman titling face with a true, serif-like italic and an oblique contrast system, sold as a single thin weight with its italic companion.",
+    "weights": [
+      "Thin"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Aespira"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "titling",
+      "elegant",
+      "branding",
+      "editorial",
+      "italic"
+    ],
+    "summary": "A two-style titling serif with a distinguishable oblique contrast system, pairing a thin roman with a serif-like true italic.",
+    "description": "Aespira nods to classic roman titling typefaces while introducing novel, dynamic shapes into its construction. An oblique contrast system and gently flared strokes give it liveliness, most fully expressed in its serif-like true italic, which adds calligraphic alternates and a swash capital alphabet. The extended Latin character set supports over 75 languages.",
+    "foundry_blurb": "Typeverything describe Aespira as a gracious nod to classic roman titling typefaces, blending historic letterforms with novel, dynamic shapes and a distinguishable liveliness across its Roman and Italic styles."
+  },
+  {
+    "name": "Cottonhouse",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/cottonhouse",
+    "designer": "Kevin Cantrell and Andrei Robu",
+    "year": null,
+    "category": "serif",
+    "subcategory": "neoclassical serif",
+    "classification_notes": "A neoclassical serif developed for a hotel branding project, drawing on guilloche currency patterns and Spanish archival ephemera.",
+    "weights": [
+      "Text",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Cottonhouse"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "neoclassical",
+      "luxury",
+      "branding",
+      "retail",
+      "variable"
+    ],
+    "summary": "A six-style neoclassical serif born from a hotel branding project, drawing on historic Spanish currency and guilloche patterns.",
+    "description": "Cottonhouse grew out of branding for a Barcelona hotel built from a former neoclassical cotton house, pulling reference from Spanish archival currency and ephemera. Guilloche patterns, echoing cotton spools, feed into characters carrying the regality of regional coinage. Six styles with a variable font suit luxury, retail and boutique branding at any scale.",
+    "foundry_blurb": "Typeverything describe Cottonhouse as suffused with sophistication and personality, developed from a neoclassical Barcelona hotel branding project and its historic currency and guilloche pattern references, ideal for luxury, retail and boutique brands."
+  },
+  {
+    "name": "Robu Bold",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/robu-bold",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "script",
+    "subcategory": "baseball script",
+    "classification_notes": "A classic baseball script with a large glyph set of swashy alternates, sold as a single bold style aimed at logotype and display use.",
+    "weights": [
+      "Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Robu Bold"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "baseball",
+      "logotype",
+      "display",
+      "alternates"
+    ],
+    "summary": "A single-style classic baseball script with over 460 glyphs of swashy alternates, built for logotypes and display work.",
+    "description": "Robu Bold is a classic baseball script refined over more than two years of development, carrying over 460 glyphs of swashy alternates and unique letters. It is well suited to logotypes and display projects wanting that confident, sporty script character.",
+    "foundry_blurb": "Typeverything describe Robu Bold as a classic baseball script more than two years and 460-plus glyphs in the making, a spectacle of swashy alternates and unique letters for logotypes and display projects."
+  },
+  {
+    "name": "Kitsune",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/kitsune",
+    "designer": "Andrei Robu",
+    "year": null,
+    "category": "script",
+    "subcategory": "geometric script",
+    "classification_notes": "A modern script display face with geometric shoulders and flowing capital forms, sold as a single weight aimed at fashion and invitation work.",
+    "weights": [
+      "Light"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Kitsune"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "geometric",
+      "fashion",
+      "invitations",
+      "display"
+    ],
+    "summary": "A single-weight modern geometric script with flowing capital forms, built for fashion magazines and wedding invitations.",
+    "description": "Kitsune, the Japanese word for fox, is a modern script display face packed with OpenType alternates and graphic glyphs. Subtle, well-considered geometric shoulders combine with beautifully flowing capital forms, suited to fashion magazines, wedding invitations and similar refined display work.",
+    "foundry_blurb": "Typeverything describe Kitsune as a modern script display typeface packed with OpenType alternates and graphic glyphs, well suited for fashion magazines, wedding invitations and more."
+  },
+  {
+    "name": "Nero Alto",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/nero-alto",
+    "designer": "Mateo Broillet",
+    "year": null,
+    "category": "serif",
+    "subcategory": "geometric roman titling",
+    "classification_notes": "A titling face referencing Pompeian graffiti and Trajan Column letterforms, structured around sharp geometric construction with a slightly vernacular, odd character.",
+    "weights": [
+      "Light"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nero Alto"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "titling",
+      "geometric",
+      "display",
+      "alternates"
+    ],
+    "summary": "A single-style geometric titling face referencing Trajan Column letterforms and Pompeian graffiti, sharp in construction but slightly vernacular in character.",
+    "description": "Nero Alto takes its calligraphic movement from Pompeian graffiti and its structure from Trajan Column letterforms, built around a sharp, geometric construction that stays slightly vernacular and odd rather than purely classical. A vast array of alternates and ligatures suit unique display projects.",
+    "foundry_blurb": "Typeverything describe Nero Alto as inspired by the calligraphic move of Pompeian graffiti and Trajan Column letterforms, structured around a sharp and geometric construction that stays vernacular and slightly odd."
+  },
+  {
+    "name": "Botanist",
+    "foundry": "Typeverything",
+    "url": "https://typeverything.com/botanist",
+    "designer": "Jason Carne",
+    "year": null,
+    "category": "serif",
+    "subcategory": "victorian display serif",
+    "classification_notes": "A Victorian-inspired serif blending sharp serifs with delicate curves, sold as a single style with decorative capital alternates.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Botanist"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "victorian",
+      "decorative",
+      "branding",
+      "packaging"
+    ],
+    "summary": "A single-style Victorian-inspired serif blending sharp serifs with delicate curves, with decorative capitals adding period elegance.",
+    "description": "Botanist blends sharp serifs with delicate curves for a Victorian-inspired aesthetic that feels both classic and delightful. Standard capitals carry class and tradition, while thoughtfully crafted decorative capitals add sophistication, suited to branding, packaging and any project wanting Victorian charm.",
+    "foundry_blurb": "Typeverything describe Botanist as a Victorian-inspired typeface blending sharp serifs with delicate curves, with decorative capitals adding a touch of elegance and sophistication to branding and packaging projects."
+  }
+]

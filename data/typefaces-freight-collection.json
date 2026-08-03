@@ -1,0 +1,403 @@
+[
+  {
+    "name": "Freight Big",
+    "foundry": "Freight Collection",
+    "url": "https://freightcollection.com/freight-big/",
+    "designer": "Joshua Darden",
+    "year": null,
+    "category": "serif",
+    "subcategory": "Dutch old-style text serif",
+    "classification_notes": "The large-scale optical cut of the Freight serif system, inspired by eighteenth-century Dutch typefaces, sized for headline and big display use.",
+    "weights": [
+      "Light",
+      "Book",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Freight Big",
+      "Freight Display",
+      "Freight Text",
+      "Freight Micro",
+      "Freight Macro",
+      "Freight Neo",
+      "Freight Round",
+      "Freight Sans"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "optical sizes",
+      "workhorse",
+      "big display"
+    ],
+    "summary": "The large-format optical cut of the Freight system, drawn from the same eighteenth-century Dutch reference points as the rest of the collection.",
+    "description": "Freight Big is one of eight optical-size and width variants that grew out of Joshua Darden's original Freight serif, each covering six weights with companion italics and a Compressed width. It's built for big, confident display settings rather than running text.",
+    "foundry_blurb": "The Freight Collection describes itself as what Joshua Darden started as a serif family inspired by the warmth and pragmatism found in eighteenth-century Dutch typefaces, now ranging across weights, widths and optical sizes."
+  },
+  {
+    "name": "Freight Display",
+    "foundry": "Freight Collection",
+    "url": "https://freightcollection.com/freight-display/",
+    "designer": "Joshua Darden",
+    "year": null,
+    "category": "serif",
+    "subcategory": "Dutch old-style text serif",
+    "classification_notes": "The display-scale optical cut of the Freight system, sitting between Freight Big and Freight Text in intended size.",
+    "weights": [
+      "Light",
+      "Book",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Freight Big",
+      "Freight Display",
+      "Freight Text",
+      "Freight Micro",
+      "Freight Macro",
+      "Freight Neo",
+      "Freight Round",
+      "Freight Sans"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "optical sizes",
+      "workhorse",
+      "display"
+    ],
+    "summary": "The display-scale cut of the Freight system, bridging the gap between the big headline sizes and the text-optimised cuts.",
+    "description": "Freight Display carries the same six weights and Compressed width option as its siblings, tuned for headline and subhead sizes rather than the extremes of Big or the fine detail of Text.",
+    "foundry_blurb": "The Freight Collection describes Freight Display as part of a family that is unique, rare and expansive, inspired by the warmth and pragmatism found in eighteenth-century Dutch typefaces."
+  },
+  {
+    "name": "Freight Text",
+    "foundry": "Freight Collection",
+    "url": "https://freightcollection.com/freight-text/",
+    "designer": "Joshua Darden",
+    "year": null,
+    "category": "serif",
+    "subcategory": "Dutch old-style text serif",
+    "classification_notes": "The text-optimised optical cut of the Freight system, the core reading size in the collection's range.",
+    "weights": [
+      "Light",
+      "Book",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Compressed"
+    ],
+    "subfamilies": [
+      "Freight Big",
+      "Freight Display",
+      "Freight Text",
+      "Freight Micro",
+      "Freight Macro",
+      "Freight Neo",
+      "Freight Round",
+      "Freight Sans"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "text",
+      "workhorse",
+      "optical sizes"
+    ],
+    "summary": "The core text-setting cut of the Freight system, built for long-form reading at book and editorial sizes.",
+    "description": "Freight Text is the reading-size anchor of the collection, carrying the warmth and pragmatism of Joshua Darden's original eighteenth-century Dutch reference across six weights with companion italics.",
+    "foundry_blurb": "The Freight Collection describes Freight Text as a serif family inspired by the warmth and pragmatism found in eighteenth-century Dutch typefaces, part of a system that can be bold and daring or quiet and unassuming."
+  },
+  {
+    "name": "Freight Micro",
+    "foundry": "Freight Collection",
+    "url": "https://freightcollection.com/freight-micro/",
+    "designer": "Joshua Darden",
+    "year": null,
+    "category": "serif",
+    "subcategory": "Dutch old-style text serif",
+    "classification_notes": "The smallest optical cut in the Freight system, built to hold up at fine print and caption sizes where the Text cut would start to break down.",
+    "weights": [
+      "Light",
+      "Book",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Freight Big",
+      "Freight Display",
+      "Freight Text",
+      "Freight Micro",
+      "Freight Macro",
+      "Freight Neo",
+      "Freight Round",
+      "Freight Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "small sizes",
+      "editorial",
+      "workhorse",
+      "captions"
+    ],
+    "summary": "The smallest optical cut in the Freight system, built to stay legible at fine print and caption sizes.",
+    "description": "Freight Micro takes the collection's shared Dutch reference points and opens up the letterforms for the smallest sizes in the range, six weights deep with companion italics.",
+    "foundry_blurb": "The Freight Collection describes Freight Micro as part of a serif family inspired by the warmth and pragmatism found in eighteenth-century Dutch typefaces, ranging across weights, widths and optical sizes."
+  },
+  {
+    "name": "Freight Macro",
+    "foundry": "Freight Collection",
+    "url": "https://freightcollection.com/freight-macro/",
+    "designer": "Joshua Darden",
+    "year": null,
+    "category": "serif",
+    "subcategory": "Dutch old-style text serif",
+    "classification_notes": "An intermediate optical cut in the Freight system, sitting between the small-size Micro cut and the larger display cuts.",
+    "weights": [
+      "Light",
+      "Book",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Freight Big",
+      "Freight Display",
+      "Freight Text",
+      "Freight Micro",
+      "Freight Macro",
+      "Freight Neo",
+      "Freight Round",
+      "Freight Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "editorial",
+      "workhorse",
+      "optical sizes"
+    ],
+    "summary": "An intermediate optical cut in the Freight system, filling the gap between fine-print and full display sizes.",
+    "description": "Freight Macro shares the collection's six-weight range and companion italics, tuned for the middle ground between Freight Micro's small-size work and the larger display cuts.",
+    "foundry_blurb": "The Freight Collection describes Freight Macro as part of a collection of integrated typefaces ready to add unique style to any design project, bold and daring or quiet and unassuming as needed."
+  },
+  {
+    "name": "Freight Neo",
+    "foundry": "Freight Collection",
+    "url": "https://freightcollection.com/freight-neo/",
+    "designer": "Joshua Darden",
+    "year": null,
+    "category": "serif",
+    "subcategory": "Dutch old-style text serif",
+    "classification_notes": "A redrawn cut within the Freight system offered in standard and Condensed widths, extending the collection's range beyond straight optical sizing.",
+    "weights": [
+      "Light",
+      "Book",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Freight Big",
+      "Freight Display",
+      "Freight Text",
+      "Freight Micro",
+      "Freight Macro",
+      "Freight Neo",
+      "Freight Round",
+      "Freight Sans"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "condensed",
+      "editorial",
+      "workhorse",
+      "superfamily"
+    ],
+    "summary": "A Condensed-capable cut within the Freight system, adding width variation on top of the collection's shared weight range.",
+    "description": "Freight Neo runs to twenty-four styles across standard and Condensed widths, giving the Freight system a way to tighten measures without leaving the family.",
+    "foundry_blurb": "The Freight Collection describes Freight Neo as part of a serif family inspired by the warmth and pragmatism found in eighteenth-century Dutch typefaces, spanning multiple weights, widths and optical sizes."
+  },
+  {
+    "name": "Freight Round",
+    "foundry": "Freight Collection",
+    "url": "https://freightcollection.com/freight-round/",
+    "designer": "Joshua Darden",
+    "year": null,
+    "category": "serif",
+    "subcategory": "rounded Dutch old-style serif",
+    "classification_notes": "A softened, rounded-terminal cut of the Freight serif system, keeping the family's Dutch old-style structure with gentler stroke endings.",
+    "weights": [
+      "Light",
+      "Book",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Freight Big",
+      "Freight Display",
+      "Freight Text",
+      "Freight Micro",
+      "Freight Macro",
+      "Freight Neo",
+      "Freight Round",
+      "Freight Sans"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "rounded",
+      "editorial",
+      "friendly",
+      "workhorse"
+    ],
+    "summary": "A rounded-terminal cut of the Freight serif system, softening the family's Dutch old-style structure.",
+    "description": "Freight Round keeps the six-weight range and companion italics common to the collection, easing the stroke endings for a friendlier, less severe finish than the standard cuts.",
+    "foundry_blurb": "The Freight Collection describes Freight Round as part of a family that started as a serif inspired by the warmth and pragmatism found in eighteenth-century Dutch typefaces, now spanning weights, widths and optical sizes."
+  },
+  {
+    "name": "Freight Sans",
+    "foundry": "Freight Collection",
+    "url": "https://freightcollection.com/freight-sans/",
+    "designer": "Joshua Darden",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "humanist sans companion",
+    "classification_notes": "The sans-serif member of the Freight system, built as a humanist companion to the serif cuts with the collection's widest weight range.",
+    "weights": [
+      "Hairline",
+      "Thin",
+      "Extra Light",
+      "Light",
+      "Book",
+      "Medium",
+      "Semi Bold",
+      "Bold",
+      "Black",
+      "Ultra Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard",
+      "Compressed",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Freight Big",
+      "Freight Display",
+      "Freight Text",
+      "Freight Micro",
+      "Freight Macro",
+      "Freight Neo",
+      "Freight Round",
+      "Freight Sans"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "sans-serif",
+      "humanist",
+      "editorial",
+      "workhorse",
+      "system"
+    ],
+    "summary": "The sans-serif companion within the Freight system, spanning ten weights across standard, Compressed and Condensed widths.",
+    "description": "Freight Sans is the widest-ranging member of the collection, running from Hairline to Ultra Black across three widths, giving the serif-rooted Freight system a full humanist sans partner for pairing or standalone use.",
+    "foundry_blurb": "The Freight Collection describes Freight Sans as part of a collection of integrated typefaces ready to add unique style to any design project, spanning multiple weights, widths and optical sizes."
+  }
+]

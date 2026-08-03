@@ -1,0 +1,79 @@
+[
+  {
+    "name": "1403 Vintage Mono Pro",
+    "foundry": "Slanted Hall",
+    "url": "https://slantedhall.com/fonts/1403",
+    "designer": "Jeff Kellem",
+    "year": 2013,
+    "category": "mono",
+    "subcategory": "vintage line-printer monospace",
+    "classification_notes": "An all-uppercase monospace built on the print-chain glyph shapes of the IBM 1403 mainframe line printer, with small capitals standing in for lowercase.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "1403 Vintage Mono Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended",
+      "Cyrillic",
+      "Greek",
+      "Hebrew"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "vintage",
+      "all-caps",
+      "multilingual",
+      "retro-tech"
+    ],
+    "summary": "An all-caps monospace revival of the IBM 1403 line printer's print-chain glyphs, expanded to over 2,300 characters across four scripts.",
+    "description": "1403 Vintage Mono Pro started as a weekend attempt to recreate the 52 characters of the IBM 1403 printer's A and H print chains, and grew into a full multiscript monospace covering Latin (including Vietnamese), Cyrillic, Greek and Hebrew. It carries real technical depth for a novelty-sounding premise, with extensive OpenType support for fractions, superscripts and locale variants.",
+    "foundry_blurb": "Slanted Hall describe it as inspired by the IBM 1403 mainframe line printer, expanded from an initial 52 characters to over 2,300 glyphs supporting most Latin-alphabet languages plus Cyrillic, Greek and Hebrew."
+  },
+  {
+    "name": "1403 Vintage Mono Limited",
+    "foundry": "Slanted Hall",
+    "url": "https://slantedhall.com/fonts/1403-limited",
+    "designer": "Jeff Kellem",
+    "year": 2013,
+    "category": "mono",
+    "subcategory": "vintage line-printer monospace",
+    "classification_notes": "A pared-back Latin-only subset of 1403 Vintage Mono Pro, keeping the same all-uppercase line-printer construction.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "1403 Vintage Mono Limited"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "vintage",
+      "all-caps",
+      "retro-tech",
+      "budget"
+    ],
+    "summary": "The budget, Latin-only edition of 1403 Vintage Mono Pro, keeping its line-printer character at a fraction of the glyph count.",
+    "description": "1403 Vintage Mono Limited strips the Pro version back to the original A and H print-chain characters plus a basic Latin set, small capitals still standing in for lowercase. It's the entry point into the same IBM 1403-inspired design for buyers who don't need the multiscript Pro version.",
+    "foundry_blurb": "Slanted Hall describe it as including the original 52 characters making up the A and H chains, along with the basic complement of Latin characters, pointing to the Pro version for broader language support."
+  }
+]

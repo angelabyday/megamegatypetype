@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Nerissimo",
+    "foundry": "Synthview",
+    "url": "https://typography.synthview.com/nerissimo-font.php",
+    "designer": "Jan Tonellato",
+    "year": 2026,
+    "category": "display",
+    "subcategory": "brutalist display sans",
+    "classification_notes": "Nerissimo's angular, brutalist-inspired construction with rounded counters places it as a display sans rather than a grotesque built for text.",
+    "weights": [
+      "Light",
+      "Book",
+      "Regular",
+      "Demibold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Nerissimo"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "brutalist",
+      "display",
+      "headlines",
+      "bold",
+      "branding"
+    ],
+    "summary": "A compact brutalist display sans in six weights, built for dense, high-impact all-caps headlines.",
+    "description": "Nerissimo pairs angular, brutalist construction with softened counters across six weights, each with an italic and a steeper super-italic. Distinctive M, N, S and W shapes give it a recognisable house identity even set tight with little leading. It reads best as a headline and branding face rather than for running text.",
+    "foundry_blurb": "Synthview call Nerissimo a compact display font for bold, eye-catching headlines, blending angular brutalist construction with softened countershapes; the name plays on the Italian nero, meaning black or bold, taken to its superlative."
+  },
+  {
+    "name": "Contralto",
+    "foundry": "Synthview",
+    "url": "https://typography.synthview.com/contralto-font.php",
+    "designer": "Jan Tonellato",
+    "year": 2021,
+    "category": "sans-serif",
+    "subcategory": "high-contrast sans-serif",
+    "classification_notes": "The combination of pronounced thick-thin contrast with sans-serif letterforms is unusual enough to warrant its own high-contrast sans subcategory, distinct from standard grotesques.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Demi Bold",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "Xsmall",
+      "Small",
+      "Medium",
+      "Big"
+    ],
+    "subfamilies": [
+      "Contralto"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "high-contrast",
+      "sans-serif",
+      "elegant",
+      "editorial",
+      "branding"
+    ],
+    "summary": "A high-contrast sans-serif in five weights across four optical sizes, mixing humanist warmth with sharp geometric detail.",
+    "description": "Contralto pairs soft, humanist letterforms with sharp geometric detailing across five weights and four optical sizes, giving 40 styles in total with matching italics. The optical-size range lets it move between display headlines and closer text settings without losing its contrast. A broad OpenType feature set covers stylistic alternates, fractions and case-sensitive forms.",
+    "foundry_blurb": "Synthview position Contralto as an elegant, contemporary high-contrast sans, built across five weights, italics and four optical sizes to fine-tune both readability and mood."
+  },
+  {
+    "name": "Operetta",
+    "foundry": "Synthview",
+    "url": "https://typography.synthview.com/operetta-font.php",
+    "designer": "Jan Tonellato",
+    "year": null,
+    "category": "serif",
+    "subcategory": "didone / modern serif",
+    "classification_notes": "Classic didone stroke contrast and hairline serifs place Operetta firmly in the didone tradition, alongside Bodoni and Didot.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Regular",
+      "Medium",
+      "Demi Bold",
+      "Bold",
+      "Ultra Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "8pt",
+      "12pt",
+      "18pt",
+      "32pt",
+      "52pt"
+    ],
+    "subfamilies": [
+      "Operetta"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "didone",
+      "serif",
+      "editorial",
+      "display",
+      "classical"
+    ],
+    "summary": "A neo-didone display serif in eight weights and five optical sizes, reworking Bodoni and Didot for contemporary use.",
+    "description": "Operetta takes its stroke contrast from Bodoni, Didot and Walbaum but recalibrates it across five optical sizes, from an 8pt text cut to a 52pt display size, so contrast eases off at smaller sizes rather than collapsing. Eight weights from Extra Light to Black, each with an italic, are backed by a large glyph set with swashes and stylistic alternates. Built for editorial and branding work that wants classical didone character without the fragility.",
+    "foundry_blurb": "Synthview describe Operetta as a neo-didone family inspired by Bodoni, Didot and Walbaum, calibrated across five optical sizes to balance contrast and legibility from display to text settings."
+  },
+  {
+    "name": "Artford",
+    "foundry": "Synthview",
+    "url": "https://typography.synthview.com/artford-font.php",
+    "designer": "Jan Tonellato",
+    "year": 2024,
+    "category": "sans-serif",
+    "subcategory": "grotesque",
+    "classification_notes": "Artford's grotesque proportions, moderate contrast and wide sans-serif letterforms put it in the grotesque subcategory rather than a geometric or humanist sans.",
+    "weights": [
+      "Extra Light",
+      "Light",
+      "Book",
+      "Regular",
+      "Bold",
+      "Ultra Bold"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Artford"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "sans-serif",
+      "branding",
+      "all-rounder",
+      "free-weight"
+    ],
+    "summary": "A wide, big x-height grotesque sans with a North American accent, built to work as comfortably in headlines as in small text.",
+    "description": "Artford runs six weights from Extra Light to Ultra Bold with italics, its generous x-height and gentle rounding at larger sizes giving it a friendlier read than a strict grotesque. Automatic collision-avoidance for lowercase f and j, and a www ligature, are built into the OpenType feature set. One weight, Regular, is available free.",
+    "foundry_blurb": "Synthview call Artford a cool, adaptable sans with a touch of North American grotesque style; subtle thickness contrasts and generous counters keep it working from big headlines down to small type."
+  },
+  {
+    "name": "Novecento Sans",
+    "foundry": "Synthview",
+    "url": "https://typography.synthview.com/novecento-sans-font-family.php",
+    "designer": "Jan Tonellato",
+    "year": null,
+    "category": "sans-serif",
+    "subcategory": "geometric sans, uppercase-only",
+    "classification_notes": "Uppercase-only construction with rationalist, geometric letterforms marks Novecento Sans as a display sans rather than a text face.",
+    "weights": [
+      "UltraLight",
+      "Light",
+      "Book",
+      "Normal",
+      "Medium",
+      "DemiBold",
+      "Bold",
+      "UltraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "Wide",
+      "Regular",
+      "Narrow",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Novecento Sans",
+      "Novecento Carved",
+      "Novecento Slab",
+      "Novecento Slab Rough"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "geometric",
+      "uppercase-only",
+      "display",
+      "modernist",
+      "branding"
+    ],
+    "summary": "An uppercase-only geometric sans in eight weights across four widths, drawn from early-20th-century European modernist display faces.",
+    "description": "Novecento Sans takes its bold, rationalist forms from the poster and signage lettering of early European modernism, refined into a 32-style family: eight weights from UltraLight to UltraBold across wide, regular, narrow and condensed widths. It has no lowercase, so it reads as a headline and branding face rather than a text one. Six of the wide styles are free for commercial use.",
+    "foundry_blurb": "Synthview describe Novecento Sans as a rationalist display sans inspired by early-20th-century European modernism, spanning 32 styles across four widths, with six free styles available."
+  },
+  {
+    "name": "Novecento Carved",
+    "foundry": "Synthview",
+    "url": "https://typography.synthview.com/novecento-carved-font-family.php",
+    "designer": "Jan Tonellato",
+    "year": null,
+    "category": "display",
+    "subcategory": "layered / engraved display, uppercase-only",
+    "classification_notes": "A dimensional layer designed to sit over Novecento Sans places Novecento Carved in the layered decorative-display category rather than as a stand-alone typeface.",
+    "weights": [
+      "UltraLight",
+      "Light",
+      "Book",
+      "Normal",
+      "Medium",
+      "DemiBold",
+      "Bold",
+      "UltraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "Wide",
+      "Regular",
+      "Narrow",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Novecento Sans",
+      "Novecento Carved",
+      "Novecento Slab",
+      "Novecento Slab Rough"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "layered",
+      "engraved",
+      "display",
+      "decorative",
+      "uppercase-only"
+    ],
+    "summary": "The layered, engraved-effect companion to Novecento Sans, built to sit over its base weights for a bas-relief look.",
+    "description": "Novecento Carved shares Novecento Sans's 32 styles and metrics but adds a carved, three-dimensional layer over each glyph, designed to stack directly on the base family for an engraved or bas-relief effect. Around 18,000 glyphs were hand-adjusted after interpolation to keep the layering clean. Novecento Sans is sold separately and is required as the base layer.",
+    "foundry_blurb": "Synthview describe Novecento Carved as a minimalist layered font built to pair with Novecento Sans as its base, giving a bas-relief or engraving effect when the two layers are set in different tones."
+  },
+  {
+    "name": "Novecento Slab",
+    "foundry": "Synthview",
+    "url": "https://typography.synthview.com/novecento-slab-font-family.php",
+    "designer": "Jan Tonellato",
+    "year": null,
+    "category": "slab",
+    "subcategory": "geometric slab serif, uppercase-only",
+    "classification_notes": "Heavy rectangular serifs and geometric letter construction place Novecento Slab in the geometric slab serif category.",
+    "weights": [
+      "UltraLight",
+      "Light",
+      "Book",
+      "Normal",
+      "Medium",
+      "DemiBold",
+      "Bold",
+      "UltraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "Wide",
+      "Regular",
+      "Narrow",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Novecento Sans",
+      "Novecento Carved",
+      "Novecento Slab",
+      "Novecento Slab Rough"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "display",
+      "geometric",
+      "headlines",
+      "uppercase-only"
+    ],
+    "summary": "The slab-serif companion to Novecento Sans, blocky and optically corrected for headlines and short-form identity work.",
+    "description": "Novecento Slab carries the same eight weights and four widths as Novecento Sans into a slab-serif structure, its heavy, squared-off forms optically corrected so they don't look crude at small sizes. It reads as a companion family rather than a stand-alone release, sharing Novecento's OpenType feature set. Two of its styles are free for commercial use.",
+    "foundry_blurb": "Synthview call Novecento Slab the slab-serif companion of Novecento Sans, its blocky forms optically corrected and balanced despite the heavy first impression, and best suited to headlines and short sentences."
+  },
+  {
+    "name": "Novecento Slab Rough",
+    "foundry": "Synthview",
+    "url": "https://typography.synthview.com/novecento-slab-rough-font.php",
+    "designer": "Jan Tonellato",
+    "year": null,
+    "category": "slab",
+    "subcategory": "textured / distressed geometric slab serif, uppercase-only",
+    "classification_notes": "The letterpress-style texture applied over Novecento Slab's geometric structure keeps it in the slab serif category, with a distressed treatment on top.",
+    "weights": [
+      "UltraLight",
+      "Light",
+      "Book",
+      "Normal",
+      "Medium",
+      "DemiBold",
+      "Bold",
+      "UltraBold"
+    ],
+    "optical_sizes_or_widths": [
+      "Wide",
+      "Regular",
+      "Narrow",
+      "Condensed"
+    ],
+    "subfamilies": [
+      "Novecento Sans",
+      "Novecento Carved",
+      "Novecento Slab",
+      "Novecento Slab Rough"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "textured",
+      "letterpress",
+      "display",
+      "uppercase-only"
+    ],
+    "summary": "A distressed, letterpress-textured cut of Novecento Slab, with per-letter texture variation for an analogue print effect.",
+    "description": "Novecento Slab Rough takes Novecento Slab's structure and adds a rough, letterpress-style texture to every glyph, varying the texture automatically when a letter repeats nearby so doubled letters don't look mechanically identical. It carries the same 32-style range as the rest of the Novecento family, with the full set of alternate glyphs and OpenType features. Built for design work that wants a printed, slightly worn finish rather than a clean digital one.",
+    "foundry_blurb": "Synthview describe Novecento Slab Rough as a letterpress-style, textured take on its slab-serif parent, with automatic texture variation so repeated letters never look identical."
+  }
+]

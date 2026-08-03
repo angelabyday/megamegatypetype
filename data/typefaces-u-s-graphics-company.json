@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Berkeley Mono",
+    "foundry": "U.S. Graphics Company",
+    "url": "https://usgraphics.com/products/berkeley-mono",
+    "designer": "Neil Panchal",
+    "year": 2022,
+    "category": "mono",
+    "subcategory": "humanist monospace, coding",
+    "classification_notes": "Purpose-built as a monospaced coding typeface with humanist sans-serif undertones, Berkeley Mono sits squarely in the mono category rather than a general-purpose sans.",
+    "weights": [
+      "Thin",
+      "ExtraLight",
+      "Light",
+      "SemiLight",
+      "Book",
+      "Regular",
+      "Retina",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "UltraCondensed",
+      "ExtraCondensed",
+      "Condensed",
+      "SemiCondensed",
+      "Normal"
+    ],
+    "subfamilies": [
+      "Berkeley Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": true,
+    "has_mono": true,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace",
+      "coding",
+      "terminal",
+      "technical",
+      "variable"
+    ],
+    "summary": "A humanist monospace built by a software engineer for software engineers, tuned for code rather than adapted from a text face.",
+    "description": "Berkeley Mono treats the machine-readable typefaces of 1970s computing as a design brief rather than a nostalgia trip, pairing that objectivity with humanist sans-serif proportions for genuine legibility. Version 2 runs 12 weights across 5 widths and 2 slants, with variable fonts covering all three axes, plus over 150 ligatures for those who want them. Built and tested against real production code throughout its development.",
+    "foundry_blurb": "U.S. Graphics Company describe Berkeley Mono as a love letter to the golden era of computing, engineered for reading and writing code with excellent legibility and glyphs that are distinct without being distracting."
+  }
+]
