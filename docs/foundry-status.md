@@ -208,7 +208,7 @@
 | General Type Studio | best | 8 | https://www.generaltypestudio.com/ | ok |
 | Giulia Boggio | okay | 9 | https://giulia-boggio.fonts.xyz/ | 9 missing |
 | Glyphminds Studios | okay | 43 | https://supply.family/ | 43 missing |
-| Glyphonic | okay | 94 | https://supply.family/ | 94 missing |
+| Glyphonic | okay | 94 | https://supply.family/ | 1 missing |
 | God Control | okay | 8 | https://supply.family/ | 8 missing |
 | Good Type Foundry | okay | 23 | https://goodtypefoundry.com/ | ok |
 | Google Fonts | okay | 1945 | https://fonts.google.com/ | 4 bad |
