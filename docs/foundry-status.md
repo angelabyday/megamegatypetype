@@ -230,7 +230,7 @@
 | HolisFonts | okay | 3 | https://supply.family/ | 3 missing |
 | Hora Nocte | okay | 2 | https://supply.family/ | 2 missing |
 | Hot Type | best | 9 | https://hottype.co/ | ok |
-| House Industries | best | 64 | https://housefonts.com/ | 64 missing |
+| House Industries | best | 64 | https://housefonts.com/ | ok |
 | Hungarumlaut | okay | 8 | https://hungarumlaut.com | ok |
 | Hurme Design | okay | 31 | https://hurmedesign.com/ | ok |
 | HvD Fonts | okay | 76 | https://www.hvdfonts.com/ | ok |
