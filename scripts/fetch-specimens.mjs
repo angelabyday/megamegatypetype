@@ -18,6 +18,7 @@
 // Run locally: node scripts/fetch-specimens.mjs
 //   --no-vision            skip the Claude check (heuristics only)
 //   --model <id>           vision model (default claude-opus-4-8; claude-haiku-4-5 for cheap sweeps)
+//   --foundries a,b,c      only these foundry slugs (comma-separated, no spaces)
 // Never runs on Vercel.
 
 import { readdirSync, readFileSync, mkdirSync, writeFileSync, existsSync, statSync, unlinkSync as _unlinkSync } from "node:fs";
@@ -508,6 +509,8 @@ async function runPerDomain(groups, worker) {
 async function main() {
   const foundryFlag = process.argv.indexOf("--foundry");
   const onlyFoundry = foundryFlag > -1 ? process.argv[foundryFlag + 1] : null;
+  const foundriesFlag = process.argv.indexOf("--foundries");
+  const onlyFoundries = foundriesFlag > -1 ? new Set(process.argv[foundriesFlag + 1].split(",")) : null;
   const slugsFlag = process.argv.indexOf("--slugs");
   const onlySlugs = slugsFlag > -1 ? new Set(process.argv[slugsFlag + 1].split(",")) : null;
   const force = process.argv.includes("--force");
@@ -519,6 +522,7 @@ async function main() {
       return false;
     }
     if (onlyFoundry && t.foundrySlug !== onlyFoundry) return false;
+    if (onlyFoundries && !onlyFoundries.has(t.foundrySlug)) return false;
     if (onlySlugs && !onlySlugs.has(t.slug)) return false;
     return true;
   });

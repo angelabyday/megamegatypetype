@@ -34,6 +34,8 @@ When indexing a foundry, only add entries that are actual typefaces. Never index
 
 Specimen screenshots must show the typeface. Reject screenshots of cookie banners, consent walls, Cloudflare checks, error pages, blank pages, language-coverage maps or unrendered canvases, and rescrape.
 
+**No typeface goes to production without a specimen image.** When indexing new foundries, run the specimen pipeline (`scripts/fetch-specimens.mjs`) and confirm images exist before committing and pushing. If images can't be fetched yet, hold the data on disk unregistered rather than push a foundry with blank cards.
+
 Schema (per entry):
 
 ```ts
