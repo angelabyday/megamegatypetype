@@ -95,7 +95,7 @@
 | Cape Arcona | okay | 50 | https://www.cape-arcona.com | 5 bad |
 | Capitalics | best | 63 | https://capitalics.wtf/ | ok |
 | Carmel Type Co. | okay | 7 | https://carmeltype.co | ok |
-| Casloop Studio | okay | 97 | https://supply.family/ | 97 missing |
+| Casloop Studio | okay | 97 | https://supply.family/ | ok |
 | CAST | best | 85 | https://www.c-a-s-t.com/ | ok |
 | Central Type | okay | 12 | https://centraltype.com/ | ok |
 | Character Type | okay | 23 | https://charactertype.com | ok |
