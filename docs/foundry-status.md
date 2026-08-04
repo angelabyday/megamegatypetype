@@ -455,7 +455,7 @@
 | Studio Rene Bieder | best | 28 | https://www.renebieder.com/ | ok |
 | Studio Sascha Bente | okay | 9 | https://saschabente.com/ | 9 missing |
 | Studio Triple | okay | 16 | https://studiotriple.fr/ | ok |
-| Sudtipos | best | 280 | https://sudtipos.com/ | 280 missing |
+| Sudtipos | best | 280 | https://sudtipos.com/ | 3 missing |
 | Suitcase Type Foundry | okay | 51 | https://www.suitcasetype.com/ | ok |
 | Supercontinente | okay | – | https://supercontinente.com/ | ok |
 | Superior Type | okay | 34 | https://superiortype.com/ | ok |
@@ -633,9 +633,7 @@
 | SilverStag (old domain) | redirects to silverstagtype.com which is already registered |
 | Space Type Co | lifestyle/goods shop (zines, prints, blankets), no fonts for sale |
 | Stefán Kjartansson | domain is an unconfigured Cargo placeholder |
-| Storm Type Foundry | notgood tier |
 | Studio 2AM | multi-vendor marketplace, not a foundry itself |
-| Sudtipos | notgood tier |
 | Sun | notgood tier |
 | Supply.Family | reseller marketplace — 49 creators indexed individually from supply.family/product-category/fonts/ |
 | T.26 | sells individual font weight packs rather than typeface families; structure too granular |
