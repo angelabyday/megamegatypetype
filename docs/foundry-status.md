@@ -436,7 +436,7 @@
 | Signal | best | 18 | https://signalfoundry.com/ | ok |
 | SilverStag Type | okay | 17 | https://silverstagtype.com/ | ok |
 | Simple Bits | okay | 18 | https://simplebits.shop | ok |
-| Skilline Fonts Co. | okay | 58 | https://supply.family/ | 58 missing |
+| Skilline Fonts Co. | okay | 58 | https://supply.family/ | 1 missing |
 | Slanted Hall | okay | 2 | https://slantedhall.com/ | 2 missing |
 | SM | okay | 8 | https://s-m.nu/ | 1 bad |
 | Smeltery | okay | 21 | https://www.smeltery.net | 21 bad |
