@@ -422,7 +422,7 @@
 | Riptype | okay | 4 | https://www.riptype.xyz | ok |
 | RNDI TYPE FOUNDRY | okay | 11 | https://supply.family/ | 11 missing |
 | Road to Venice Type | okay | 8 | https://www.r-vtype.com | ok |
-| rooomspace creative lab | okay | 216 | https://supply.family/ | 216 missing |
+| rooomspace creative lab | okay | 216 | https://supply.family/ | 8 missing |
 | Rosetta | okay | 38 | https://rosettatype.com/ | ok |
 | Rüdiger | best | 2 | https://rudiger.fonts.xyz/ | 2 missing |
 | S6 Foundry | okay | 35 | https://www.s6foundry.com/ | 35 bad |
