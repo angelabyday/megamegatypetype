@@ -277,7 +277,7 @@
 | La Police | okay | – | https://lapolice.ch | ok |
 | Labor and Wait | okay | 10 | https://www.laborandwait.xyz/ | ok |
 | Laïc | okay | 17 | https://laic.pl | ok |
-| Latinotype | okay | 285 | https://latinotype.com/ | 285 missing |
+| Latinotype | okay | 285 | https://latinotype.com/ | 22 missing |
 | Laura Worthington Design | okay | 55 | https://lauraworthingtondesign.com | ok |
 | Lazydogs Typefoundry | okay | 16 | https://lazydogs.de/ | 16 missing |
 | Leinster Type | best | 7 | https://www.leinstertype.com/ | ok |
