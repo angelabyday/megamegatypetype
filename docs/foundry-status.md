@@ -297,7 +297,7 @@
 | Linotype | okay | 12 | https://www.linotype.com/ | 12 missing |
 | lo-ol Type | okay | 10 | https://www.lo-ol.design/ | 9 bad |
 | London Type Foundry | okay | – | https://londontype.co.uk | ok |
-| Lost Type Co-op | okay | 69 | http://www.losttype.com/ | 69 missing |
+| Lost Type Co-op | okay | 69 | http://www.losttype.com/ | 3 missing |
 | Love Letters | okay | 1 | https://love-letters.fonts.xyz/ | 1 missing |
 | LucasFonts | best | 24 | https://www.lucasfonts.com/ | 24 missing |
 | Ludwig | okay | 32 | https://www.ludwigtype.de | ok |
@@ -614,7 +614,6 @@
 | Letterhead Fonts | notgood tier |
 | LIBRE FONTS BY WOMXN | curated resource list, not a foundry |
 | Limitype | JS-rendered, no crawlable listing |
-| Lost Type Co-op | notgood tier — co-op with mixed quality |
 | LucasFonts | notgood tier |
 | Luuse | foundry disbanded 2025; catalogue mirrors third-party open-source fonts |
 | Margot Lévêque Studio | notgood tier |
