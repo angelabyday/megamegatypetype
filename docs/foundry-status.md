@@ -449,7 +449,7 @@
 | Spaghetype | okay | 1 | https://www.spaghetype.com | 1 missing |
 | Standard Type Foundry | okay | – | https://www.standardtypefoundry.com | ok |
 | Store Norske Skriftkompani | okay | 37 | https://skriftkompani.no/ | ok |
-| Storm Type Foundry | best | 129 | https://www.stormtype.com/ | 129 missing |
+| Storm Type Foundry | best | 129 | https://www.stormtype.com/ | ok |
 | Studio Feixen Fonts | okay | 7 | https://fonts.studiofeixen.ch/ | ok |
 | Studio Few | okay | 10 | https://supply.family/ | 10 missing |
 | Studio Rene Bieder | best | 28 | https://www.renebieder.com/ | ok |
@@ -1080,6 +1080,7 @@
 | TypeThis!Studio | type.lol | Via type.lol · Hamburg, Germany · Not yet scouted |
 | Typetr | type.lol | Via type.lol · Netherlands · Not yet scouted |
 | TypeTrust | type.lol | Via type.lol · Pasadena, CA, United States · Not yet scouted |
+| TYPO72TYPO | t72t.com | Experimental display type foundry, 14 typefaces, working shop. Not yet scouted |
 | Typogama | type.lol | Via type.lol · Switzerland · Not yet scouted |
 | Typografische | type.lol | Via type.lol · Istanbul, Turkey · Trial fonts available · Not yet scouted |
 | Typolar | type.lol | Via type.lol · Helsinki, Finland · Not yet scouted |

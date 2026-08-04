@@ -121,6 +121,7 @@ const FOUNDRY_SLUGS = {
   "Darden Studio": "darden-studio",
   "Colt Type": "colt-type",
   "Dharma Type": "dharma-type",
+  "Storm Type Foundry": "storm-type",
   "XYZ Type": "xyz-type",
   Kilotype: "kilotype",
   "KOMETA Typefaces": "kometa-typefaces",
