@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Gieo Text",
+    "foundry": "ÁccentiaType",
+    "url": "https://accentiatype.com/",
+    "designer": "Linh Nguyễn",
+    "year": 2025,
+    "category": "serif",
+    "subcategory": "humanist old-style serif",
+    "classification_notes": "Drawing on late 15th to 16th century Venetian humanist models with calligraphic, asymmetrical serifs and a right-leaning stem, Gieo Text sits in the old-style serif category built for extended reading.",
+    "weights": [
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Gieo Text"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "humanist serif",
+      "text type",
+      "editorial",
+      "calligraphic",
+      "reading",
+      "vietnamese-support"
+    ],
+    "summary": "A humanist text serif with calligraphic, asymmetrical serifs and a quiet, unobtrusive character built for long-form reading.",
+    "description": "Gieo Text draws on Venetian humanist models from the late 15th and 16th centuries, pairing gentle curves with sharp asymmetrical serifs and a right-leaning stem. Six weights from Regular to Black each carry a matching italic, and the design covers an extensive Latin character set including Vietnamese. It is built to stay out of the way of the reader rather than announce itself.",
+    "foundry_blurb": "ÁccentiaType describe Gieo as meaning 'to sow a seed' in Vietnamese, a type family for immersive reading on screens and in print. They say its letters carry prominent calligraphic features that echo the rhythmic gesture of a confident writing hand, designed to be subtle and unobtrusive so the reading experience stays undisturbed."
+  }
+]

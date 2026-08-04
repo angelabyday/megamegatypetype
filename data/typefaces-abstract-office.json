@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Rascal Script",
+    "foundry": "Abstract Office",
+    "url": "https://abstractoffice.xyz/rascal-script",
+    "designer": "Benjamin Woodlock",
+    "year": 2024,
+    "category": "script",
+    "subcategory": "broad-brush connected script",
+    "classification_notes": "A connected brush script built from wood-type-inspired metal-script forms rather than a large alternate set, so it reads as an economical, old-school script rather than a modern calligraphic one.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rascal Script"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "script",
+      "brush-script",
+      "display",
+      "playful",
+      "packaging",
+      "wordmark"
+    ],
+    "summary": "A one-weight brush script that trades a huge alternate set for three ligatures and a spare, old-school rhythm.",
+    "description": "Rascal Script is an exuberant broad-brush connected script built for display settings, with wild calligraphic strokes and a deliberately reckless feel. Rather than leaning on a large suite of alternates, it works from an economy of forms borrowed from metal-type scripts, using just three ligatures and one alternate lowercase s to keep its rhythm. It ships in a single style with an extensive Latin character set, Vietnamese included.",
+    "foundry_blurb": "Abstract Office describe Rascal Script as an exuberant broad-brush connected script with wild calligraphic strokes and reckless speed, bringing an irreverent voice to display settings. Its architecture is old-school, inspired by metal-type scripts, using an economy of forms rather than a huge suite of alternates: just three ligatures (fr, fs, tt) and an alternate lowercase s."
+  },
+  {
+    "name": "Safety Gothic",
+    "foundry": "Abstract Office",
+    "url": "https://abstractoffice.xyz/safety-gothic",
+    "designer": "Benjamin Woodlock",
+    "year": 2023,
+    "category": "sans-serif",
+    "subcategory": "industrial grotesque",
+    "classification_notes": "Angular geometric caps derived from 19th-century wood-type capitals, paired with a lower case cut at the same angle; no serifs, so it sits in sans-serif despite its industrial, signage-derived character.",
+    "weights": [
+      "Light",
+      "Medium",
+      "Bold",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Safety Gothic"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended",
+      "Vietnamese"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "grotesque",
+      "industrial",
+      "signage",
+      "display",
+      "wood-type",
+      "geometric"
+    ],
+    "summary": "A five-weight geometric sans with an angular, safety-signage exterior wrapped around softer curved counters.",
+    "description": "Safety Gothic takes its cue from a genre of 19th-century wood-type capitals, building a typeface with a sharp, angular exterior around curved interior counters. It runs authoritative and stable in all-caps across five weights from Light to Black, with a lower case whose apertures are cut at the same angle to keep the voice accessible. Every style carries OpenType fractions, case-sensitive punctuation and an extensive Latin character set including Vietnamese.",
+    "foundry_blurb": "Abstract Office describe Safety Gothic as a typeface built like a flight case: sharp and secure, with an angular exterior that protects its curved interiors. Its lineage is traced to a genre of capitals with similar contours from 19th-century wood-type foundries. Authoritative and stable in all-caps, Safety adds a lower case with apertures cut at the angle for an accessible voice."
+  },
+  {
+    "name": "Reynaldo",
+    "foundry": "Abstract Office",
+    "url": "https://abstractoffice.xyz/reynaldo",
+    "designer": "Benjamin Woodlock",
+    "year": 2026,
+    "category": "slab",
+    "subcategory": "Clarendon-inspired slab serif",
+    "classification_notes": "An athletic slab serif built on 19th-century Clarendon proportions with industrial-signage details, offered in upright serif, italic and a reverse-slant 'Lefty' cut across four weights.",
+    "weights": [
+      "Lean",
+      "Medium",
+      "Bold",
+      "Heavy"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Reynaldo Serif",
+      "Reynaldo Italic",
+      "Reynaldo Lefty"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "clarendon",
+      "display",
+      "text",
+      "industrial",
+      "ligatures"
+    ],
+    "summary": "A twelve-style Clarendon-inspired slab serif that pairs upright and reverse-slanted 'Lefty' cuts across four weights.",
+    "description": "Reynaldo is an athletic slab serif inspired by 19th-century Clarendons, with traces of industrial signage from wrought-iron details to layered brush strokes. Its twelve styles split across upright serif, italic and an unusual reverse-slant 'Lefty' cut, each in four weights from Lean to Heavy, so the family reads equally well in display and text settings. Every style carries lining and old-style figures, small caps, ordinals, fractions and discretionary ligatures.",
+    "foundry_blurb": "Abstract Office describe Reynaldo as an athletic slab-serif inspired by the antics of 19th-century Clarendons, with traces of industrial signage from wrought-iron details to layered brush-strokes. Its ambidextrous forms are equally striking in display and text uses, with extensive Latin support, lining and oldstyle figures, small caps, ordinals, fractions and discretionary ligatures throughout."
+  },
+  {
+    "name": "McBean",
+    "foundry": "Abstract Office",
+    "url": "https://abstractoffice.xyz/mcbean",
+    "designer": "Benjamin Woodlock",
+    "year": 2017,
+    "category": "slab",
+    "subcategory": "eclectic superfamily (sans / slab / italic)",
+    "classification_notes": "A sixteen-style superfamily built around parallel sans, slab and italic cuts plus a display 'Beast' weight; classified here as slab for its most distinctive cut, though the family also ships full sans and italic ranges.",
+    "weights": [
+      "Book",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "McBean Sans",
+      "McBean Slab",
+      "McBean Italic",
+      "McBean Beast"
+    ],
+    "has_condensed": false,
+    "has_italic": true,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "slab-serif",
+      "superfamily",
+      "identity",
+      "display",
+      "eclectic",
+      "education"
+    ],
+    "summary": "A sixteen-style superfamily commissioned by CalArts, running parallel sans, slab and italic cuts plus an oddball 'Beast' display weight.",
+    "description": "McBean began as a commission from California Institute of the Arts to extend the school's identity into a multi-style typeface. Built across sans, slab and italic cuts in five weights each, plus a standalone display weight called Beast, it leans into an eclectic voice in keeping with CalArts' quirky design history. An OpenType 'switchcase' feature swaps in an alternate capital A and E, nodding to a logo originally drawn by Scott Taylor.",
+    "foundry_blurb": "Abstract Office describe McBean as the result of a commission from California Institute of the Arts to create a multi-style typeface as an extension to the school's identity. Inspired by a logo created by Scott Taylor, McBean includes an OpenType 'switchcase' which features an alternate capital A and E, developed in line with CalArts' history of quirky, bizarre type design."
+  },
+  {
+    "name": "Anomique",
+    "foundry": "Abstract Office",
+    "url": "https://abstractoffice.xyz/anomique",
+    "designer": "Benjamin Woodlock (after Enric Crous-Vidal)",
+    "year": 2018,
+    "category": "serif",
+    "subcategory": "mid-century Grafia Latina revival",
+    "classification_notes": "A revival of Crous-Vidal's 1960s Ile-de-France, a serif built on calligraphic, hand-drawn logic rather than geometric construction, placing it in serif despite its unconventional mid-century proportions.",
+    "weights": [
+      "Maigre",
+      "Demi",
+      "Gras"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Anomique"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin Extended"
+    ],
+    "tier": "best",
+    "type": "foundry",
+    "tags": [
+      "serif",
+      "revival",
+      "mid-century",
+      "display",
+      "spanish-heritage",
+      "alternates"
+    ],
+    "summary": "A revival of Enric Crous-Vidal's 1960s Ile-de-France, bringing back a mid-century Mediterranean serif built on calligraphic instinct rather than geometry.",
+    "description": "Anomique revives Ile-de-France, a typeface Crous-Vidal drew in the early 1960s after fleeing Franco's Spain for Paris, where he railed against modernist coldness in favour of what he called la Grafia Latina, the hand and heart before the compass. Expanded for wider Latin support across three weights, Anomique keeps the original's reclining O alternates and its wide-set commas and quotes.",
+    "foundry_blurb": "Abstract Office describe Anomique as a revival of Ile-de-France, a mid-century Mediterranean curiosity designed by Enric Crous-Vidal in the early 1960s. Crous-Vidal, exiled by the Spanish Civil War, forged documents for the French Resistance before his typographic talents flourished in Paris, where he lamented the reductive tendencies of European modernist typography and sought instead to celebrate 'la Grafia Latina' - the hand and heart before a compass and mathematics."
+  }
+]

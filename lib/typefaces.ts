@@ -515,6 +515,12 @@ import usGraphicsCompany from "@/data/typefaces-u-s-graphics-company.json";
 import undercase from "@/data/typefaces-undercase.json";
 import ursaMinor from "@/data/typefaces-ursa-minor.json";
 import velvetyne from "@/data/typefaces-velvetyne.json";
+import abhijitMenon from "@/data/typefaces-abhijit-menon.json";
+import abstractOffice from "@/data/typefaces-abstract-office.json";
+import accentiatype from "@/data/typefaces-accentiatype.json";
+import adamLaddDesign from "@/data/typefaces-adam-ladd-design.json";
+import ainsifont from "@/data/typefaces-ainsifont.json";
+import aiyariStudio from "@/data/typefaces-aiyari-studio.json";
 import foundryResellers from "@/data/foundry-resellers.json";
 
 export const CATEGORIES = [
@@ -1120,6 +1126,12 @@ export function getAllTypefaces(): Typeface[] {
         undercase,
         ursaMinor,
         velvetyne,
+        abhijitMenon,
+        abstractOffice,
+        accentiatype,
+        adamLaddDesign,
+        ainsifont,
+        aiyariStudio,
       ] as RawTypeface[][]
     )
       .flat()

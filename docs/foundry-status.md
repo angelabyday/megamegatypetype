@@ -13,11 +13,17 @@
 | A+ | okay | 2 | https://www.futurefonts.com/aplus/ | 2 missing |
 | A2-Type | best | 140 | https://a2-type.co.uk/ | 1 bad |
 | ABC Etc Inc | okay | – | http://www.abc-etc.com/ | ok |
+| Abhijit Menon | okay | 1 | https://www.futurefonts.com/abhijit/ | 1 missing |
 | About Type | okay | 1 | https://abouttype.com/ | 1 missing |
+| Abstract Office | best | 5 | https://abstractoffice.xyz/ | 5 missing |
 | Abyme | okay | 12 | https://www.abyme.net | ok |
+| ÁccentiaType | okay | 1 | https://accentiatype.com/ | 1 missing |
 | AcidType | okay | 2 | https://supply.family/ | 2 missing |
+| Adam Ladd Design | best | 41 | https://ladd-design.com/ | 41 missing |
 | Aeiou Tools | okay | 3 | https://aeiou.tools/ | 3 missing |
 | Aesthetic Type | okay | – | https://aesthetictype.com | ok |
+| AinsiFont | okay | 13 | https://www.ainsifont.com/ | 13 missing |
+| Aiyari Studio | okay | 36 | https://aiyaristudio.com/ | 36 missing |
 | Alexandre Créquer | okay | 7 | https://www.alex-creq.com/ | 7 missing |
 | AlfaType Fonts Foundry | okay | 2 | https://www.alfatypefonts.com/ | 2 missing |
 | Alias | okay | 14 | https://alias.fonts.xyz/ | 14 missing |
@@ -563,6 +569,7 @@
 
 | Foundry | Reason |
 |---|---|
+| Adobe Originals | corporate in-house type programme, not an independent foundry — scope question, same as Monotype |
 | Aeonik | redirects to CoType; CoType is JS-rendered |
 | ATK Studio | Gumroad store dead, 404 on all products |
 | ATYPICAL | loose tier |
@@ -649,21 +656,6 @@
 
 | Foundry | Domain | Notes |
 |---|---|---|
-| 29Letters | type.lol | Via type.lol · Madrid, Spain · Trial fonts available · Not yet scouted |
-| 3type | type.lol | Via type.lol · Shanghai, China · Not yet scouted |
-| Aayalolo | type.lol | Via type.lol · Accra, Ghana · Not yet scouted |
-| Abhijit Menon | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
-| Abstract Office | type.lol | Via type.lol · Los Angeles, CA, United States · Trial fonts available · Not yet scouted |
-| ÁccentiaType | type.lol | Via type.lol · Sài Gòn, Vietnam · Trial fonts available · Not yet scouted |
-| Acute Studio | type.lol | Via type.lol · Amsterdam, Netherlands · Not yet scouted |
-| Adam Ladd Design | type.lol | Via type.lol · Cincinnati, Ohio, United States · Not yet scouted |
-| Adobe Originals | type.lol | Via type.lol · San Jose, United States · Not yet scouted |
-| Adotbelow | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
-| Adriana Garcidueñas | type.lol | Via type.lol · Morelia, Mexico · Trial fonts available · Not yet scouted |
-| Afrotype | type.lol | Via type.lol · Lagos, Nigeria · Not yet scouted |
-| AinsiFont | type.lol | Via type.lol · Lille, France · Trial fonts available · Not yet scouted |
-| Aiyari Studio | type.lol | Via type.lol · Indonesia · Not yet scouted |
-| AKOFAType | type.lol | Via type.lol · Atlanta, United States · Not yet scouted |
 | Alanna Munro | type.lol | Via type.lol · Vancouver, Canada · Trial fonts available · Not yet scouted |
 | Alexis Boscariol | type.lol | Via type.lol · Paris, France · Not yet scouted |
 | Alice Savoie | type.lol | Via type.lol · France, France · Trial fonts available · Not yet scouted |

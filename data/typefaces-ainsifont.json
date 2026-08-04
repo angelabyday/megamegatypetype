@@ -1,0 +1,455 @@
+[
+  {
+    "name": "Mona Mono",
+    "foundry": "AinsiFont",
+    "url": "https://www.ainsifont.com/font/mona-mono",
+    "designer": "Sébastien Delobel",
+    "year": 2023,
+    "category": "mono",
+    "subcategory": "condensed monospace",
+    "classification_notes": "A monospaced condensed family first drawn for a Hangul animation-festival identity in 2018 and developed into Latin from 2020; its fixed-width construction places it squarely in the mono category.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mona Mono"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace","condensed","branding","editorial","technical"
+    ],
+    "summary": "A condensed monospaced family in five weights, originally drawn for a Korean animation festival before being reworked for Latin.",
+    "description": "Mona Mono started life in 2018 as a Hangul face for the RIFFY animation festival in Korea, then moved into Latin from 2020 onward. The condensed monospaced construction runs across five weights, including a Black cut exclusively distributed on Mecanorma transfer-lettering sheets.",
+    "foundry_blurb": "Developed since 2020 in its Latin version, the Mona Mono family comprises five weights across three different styles; the Black weight is distributed exclusively on Mecanorma-brand transfer lettering boards."
+  },
+  {
+    "name": "Stuce",
+    "foundry": "AinsiFont",
+    "url": "https://www.ainsifont.com/font/stuce",
+    "designer": "Xavier Meurice, Sébastien Delobel",
+    "year": 2004,
+    "category": "display",
+    "subcategory": "novelty display",
+    "classification_notes": "A single-weight fantasy display face originally built for an art exhibition identity, later extended for general release; its irregular, character-driven forms place it in display rather than any text category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Stuce"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display","novelty","exhibition","poster","quirky"
+    ],
+    "summary": "A single-weight novelty display face made for a Lille art-and-humour exhibition, later extended for general sale.",
+    "description": "Stuce was drawn in 2004 for the identity of a contemporary art exhibition on humour and art held during Lille's Capital of Culture year, then optimised and expanded in 2022 for standalone release. Its loose, playful forms suit posters and identity work rather than text.",
+    "foundry_blurb": "Created in 2004 for the visual identity of a contemporary art exhibition about humour and art in Lille, France, and optimised and expanded in 2022 for online distribution by AinsiFont."
+  },
+  {
+    "name": "Playtime",
+    "foundry": "AinsiFont",
+    "url": "https://www.ainsifont.com/font/playtime",
+    "designer": "Xavier Meurice, Sébastien Delobel",
+    "year": 2018,
+    "category": "display",
+    "subcategory": "condensed rounded display",
+    "classification_notes": "A condensed, rounded five-weight face originally designed for a primary school's signage system; its tight, friendly proportions sit it in display use for signage and titling.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Playtime"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display","condensed","rounded","signage","education"
+    ],
+    "summary": "A condensed, rounded five-weight display face designed for a French primary school's graphic identity and signage.",
+    "description": "Playtime was designed in 2012 for the graphic language and signage system of the Claude Dilain primary school in Clichy-sous-Bois, then published in five weights in 2018. Its rounded, condensed forms are also sold as Mecanorma transfer-lettering sheets for textile customisation.",
+    "foundry_blurb": "A condensed and rounded typeface designed in 2012 for the graphic language and signage system of the primary school Claude Dilain in Clichy-sous-Bois, France."
+  },
+  {
+    "name": "Unida",
+    "foundry": "AinsiFont",
+    "url": "https://www.ainsifont.com/font/unida",
+    "designer": "Sébastien Delobel",
+    "year": 2016,
+    "category": "sans-serif",
+    "subcategory": "signage grotesque",
+    "classification_notes": "A five-weight sans-serif built for a campus signage system, later extended for general release; its plain, even construction is a straightforward linear grotesque.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Unida"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif","signage","grotesque","wayfinding","branding"
+    ],
+    "summary": "A five-weight sans-serif designed for the signage of an international engineering-school campus in Lille.",
+    "description": "Unida was drawn in 2012 for the wayfinding and signage of the Hautes Écoles d'Ingénieurs international campus in Lille, then extended between 2014 and 2016 for standalone publication. It runs from Thin to Black with a plain, legible construction suited to signage and general branding work.",
+    "foundry_blurb": "A sans serif typeface designed in 2012 for the signage of the international Campus of Hautes Écoles d'Ingénieurs in Lille, France, with its character set optimised and extended between 2014 and 2016 for publication by AinsiFont."
+  },
+  {
+    "name": "Fluo",
+    "foundry": "AinsiFont",
+    "url": "https://www.ainsifont.com/font/fluo",
+    "designer": "Xavier Meurice, Sébastien Delobel",
+    "year": 2014,
+    "category": "display",
+    "subcategory": "stencil",
+    "classification_notes": "A single-weight rounded stencil face intended for titling and short text; the broken, stencilled counters place it in display rather than a general sans category.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Fluo"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display","stencil","rounded","titling","poster"
+    ],
+    "summary": "A single-weight rounded stencil face for titling and short text, in use online and in design press since 2012.",
+    "description": "Fluo is a rounded stencil titling face created in 2012 and extended for release in 2014. Its broken, stencilled counters and soft corners are built for headline and short-text use rather than running copy.",
+    "foundry_blurb": "Created in 2012, Fluo is a rounded stencil character for titling and short text, with its character set optimised and extended in 2014 for publication and distribution by AinsiFont."
+  },
+  {
+    "name": "Rijsel",
+    "foundry": "AinsiFont",
+    "url": "https://www.ainsifont.com/font/rijsel",
+    "designer": "Sébastien Delobel",
+    "year": 2013,
+    "category": "sans-serif",
+    "subcategory": "corporate grotesque",
+    "classification_notes": "A six-weight sans-serif originally designed for a corporate headquarters identity and signage; a plain linear grotesque built for wayfinding and branding.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "Heavy",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rijsel"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif","grotesque","corporate","signage","branding"
+    ],
+    "summary": "A six-weight corporate sans-serif designed for the headquarters signage of a large French industrial group.",
+    "description": "Rijsel (the Flemish name for Lille) was designed in 2011 for the signage and graphic identity of a large industrial company's international headquarters, then extended in 2013 for wider release. Six weights from Thin to Black, with specific capital ligatures, give it a fairly complete corporate-branding range.",
+    "foundry_blurb": "A sans serif typeface designed in 2011 for the graphic identity and signage of an international company headquarters, its glyph set optimised and extended in 2013 for publication by AinsiFont."
+  },
+  {
+    "name": "Tomica",
+    "foundry": "AinsiFont",
+    "url": "https://www.ainsifont.com/font/tomica",
+    "designer": "Sébastien Delobel",
+    "year": 2012,
+    "category": "sans-serif",
+    "subcategory": "geometric sans",
+    "classification_notes": "A five-weight geometric sans-serif explicitly described by its designer as a descendant of Futura, redesigned from an earlier television identity face.",
+    "weights": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Tomica"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif","geometric","branding","corporate","futura-influenced"
+    ],
+    "summary": "A five-weight geometric sans-serif, originally a digital television channel's identity face, that the designer describes as a Futura descendant.",
+    "description": "Tomica began in 2009 as the corporate identity face for a digital television channel and was completely redesigned in 2011 before wider release. Its geometric construction openly nods to Paul Renner's Futura, run across five weights from Thin to Black.",
+    "foundry_blurb": "Designed in 2009 for the corporate visual identity of a digital television channel and completely redesigned in 2011, Tomica is a geometric sans-serif that, despite its original design, is a descendant of Paul Renner's Futura (1927)."
+  },
+  {
+    "name": "Singolo",
+    "foundry": "AinsiFont",
+    "url": "https://www.ainsifont.com/font/singolo",
+    "designer": "Xavier Meurice, Sébastien Delobel",
+    "year": 2014,
+    "category": "display",
+    "subcategory": "condensed stencil display",
+    "classification_notes": "A single-weight extra-condensed, rounded stencil titling face created for a design-promotion association's identity; a display face built for tight-space titling rather than text.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Singolo"
+    ],
+    "has_condensed": true,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display","condensed","stencil","titling","branding"
+    ],
+    "summary": "An extra-condensed rounded stencil titling face created for the Lille design promotion association's graphic identity.",
+    "description": "Singolo is a titling font created in June 2014 for the new graphic identity of the Lille design promotion association, applied across print, web, signage and furniture. Its extra-condensed, rounded stencil forms are built for tight titling rather than body text.",
+    "foundry_blurb": "A titling font created for the new graphic identity of the association Lille design, applied in print, web, signage and furniture."
+  },
+  {
+    "name": "Rubal Pro",
+    "foundry": "AinsiFont",
+    "url": "https://www.ainsifont.com/font/rubal",
+    "designer": "Sébastien Delobel",
+    "year": 2011,
+    "category": "display",
+    "subcategory": "stencil",
+    "classification_notes": "A single-weight heavy stencil face commissioned for a secondary school's architecture-inspired signage and text setting, with award recognition; a display stencil built for both large and legible sizes.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Rubal Pro"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display","stencil","signage","award-winning","architecture"
+    ],
+    "summary": "An award-winning heavy stencil face commissioned by Tank Architects for a French secondary school's signage and surfaces, named Best Type 2011 by Creative Review.",
+    "description": "Rubal was designed by Atelier télescopique specifically for Collège Lévi-Strauss, a newly built secondary school in Lille, taking its curved-over-sharp stencil forms from the building's own architecture. It was built to work as both large-scale signage on walls, floors and glazing and as a legible text face, and was named Best Type 2011 by Creative Review.",
+    "foundry_blurb": "Designed specifically for Collège Lévi-Strauss, a freshly built secondary school in Lille, Rubal Stencil is a single-weight stencil face inspired by the school building itself, commissioned by architects Tank Architects to be highly legible in both large bodies of text and signage applications on walls, ground and glazed surfaces."
+  },
+  {
+    "name": "Screenex",
+    "foundry": "AinsiFont",
+    "url": "https://www.ainsifont.com/font/screenex",
+    "designer": "Sébastien Delobel",
+    "year": 2011,
+    "category": "display",
+    "subcategory": "pixel display",
+    "classification_notes": "A single-weight modular face built on an 8x5 pixel grid, commemorating the French Minitel terminal; a low-tech pixel display face rather than a text design.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Screenex"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display","pixel","retro","screen","low-tech"
+    ],
+    "summary": "A modular pixel face built on an 8x5 grid, created in memory of the French Minitel terminal.",
+    "description": "Screenex is built entirely from an 8x5 pixel matrix, created in 2011 to commemorate the Minitel, France's pre-web videotex terminal service that ran from 1980 to 2012. It reads as a low-tech screen face suited to retro-computing and signage graphics rather than print text.",
+    "foundry_blurb": "A modular character font built on an 8 x 5 pixel matrix, created in 2011 in memory of the famous French Minitel (1980-2012)."
+  },
+  {
+    "name": "Mento",
+    "foundry": "AinsiFont",
+    "url": "https://www.ainsifont.com/font/mento",
+    "designer": "Xavier Meurice, Sébastien Delobel",
+    "year": 2007,
+    "category": "sans-serif",
+    "subcategory": "rounded sans",
+    "classification_notes": "A single-weight rounded sans-serif reworked from an earlier alphabet for an urban signage project; a plain rounded grotesque built for signage and titling.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Mento"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "sans-serif","rounded","signage","wayfinding","branding"
+    ],
+    "summary": "A single-weight rounded sans-serif originally drawn in 2007 and reworked for an urban signage project.",
+    "description": "Mento was initially designed in 2007 and reworked in 2012 for use on an urban signage project, giving it a plain, rounded construction suited to wayfinding and general branding rather than long text.",
+    "foundry_blurb": "Initially designed in 2007, the Mento regular alphabet was reworked in 2012 for an urban signage project."
+  },
+  {
+    "name": "Raoul",
+    "foundry": "AinsiFont",
+    "url": "https://www.ainsifont.com/font/raoul",
+    "designer": "Xavier Meurice, Sébastien Delobel",
+    "year": 2007,
+    "category": "mono",
+    "subcategory": "modular monospace",
+    "classification_notes": "A four-weight modular monospaced family drawn for a car-park and forecourt signage project; its fixed-width, modular construction places it in the mono category.",
+    "weights": [
+      "Light",
+      "Regular",
+      "Bold",
+      "Black"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Raoul"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": true,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "monospace","modular","signage","wayfinding","retro"
+    ],
+    "summary": "A four-weight modular monospaced family designed for the signage of the Kursaal forecourt and car park in Dunkirk.",
+    "description": "Raoul was drawn specifically for the signage of the Kursaal forecourt and underground car park in Dunkirk, using one graphic vocabulary that reads as functional below ground and spectacular above it. Its name honours Lille-born singer Raoul de Godewarsvelde.",
+    "foundry_blurb": "A character family designed specifically for the signage project of the forecourt and car park of the Kursaal in Dunkirk, France, named in homage to Raoul de Godewarsvelde, a French singer born in Lille and star of the group Les Capenoules."
+  },
+  {
+    "name": "Stone Heure",
+    "foundry": "AinsiFont",
+    "url": "https://www.ainsifont.com/font/stone-heure",
+    "designer": "Xavier Meurice",
+    "year": 2001,
+    "category": "display",
+    "subcategory": "novelty headline",
+    "classification_notes": "A single-weight fantasy headline face meant only for very large sizes; a pure novelty display design with no text-setting ambitions.",
+    "weights": [
+      "Regular"
+    ],
+    "optical_sizes_or_widths": [
+      "standard"
+    ],
+    "subfamilies": [
+      "Stone Heure"
+    ],
+    "has_condensed": false,
+    "has_italic": false,
+    "has_mono": false,
+    "languages": [
+      "Latin"
+    ],
+    "tier": "okay",
+    "type": "foundry",
+    "tags": [
+      "display","novelty","headline","poster","fantasy"
+    ],
+    "summary": "A single-weight fantasy headline face from 2001, meant to be used only at the largest possible sizes.",
+    "description": "Stone Heure is a titling character intended for use at the biggest possible size, offering capitals and figures only rather than a full text character set.",
+    "foundry_blurb": "A fantasy font to use in the biggest size as possible."
+  }
+]
