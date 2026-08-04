@@ -415,7 +415,7 @@
 | Rellence | okay | 28 | https://rellence.com/ | 28 missing |
 | Renegadefonts | okay | 9 | https://www.renegadefonts.com/ | 9 missing |
 | Reset Type Studio | okay | 8 | https://reset-type.com/ | ok |
-| Resistenza Type | okay | 94 | https://www.resistenza.es/ | 94 missing |
+| Resistenza Type | okay | 94 | https://www.resistenza.es/ | 2 missing |
 | RetroSupply Co. | okay | 16 | https://www.retrosupply.co/ | 16 missing |
 | Retype | okay | 22 | https://www.re-type.com | ok |
 | Revolver Type Foundry | okay | 14 | https://www.revolvertype.com/ | ok |
