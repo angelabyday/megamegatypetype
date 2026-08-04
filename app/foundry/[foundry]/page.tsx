@@ -7,8 +7,12 @@ import { getTypefacesByFoundrySlug, toDirectoryEntry } from "@/lib/typefaces";
 
 type Params = { foundry: string };
 
+// See app/t/[foundry]/[typeface]/page.tsx for why this returns empty —
+// pre-building every foundry page overwhelms Vercel's deploy packaging
+// step at this catalogue size. dynamicParams defaults to true, so pages
+// still render on first visit and are cached after that.
 export function generateStaticParams(): Params[] {
-  return FOUNDRIES.map((f) => ({ foundry: f.slug }));
+  return [];
 }
 
 export async function generateMetadata({

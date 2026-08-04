@@ -17,11 +17,13 @@ import {
 
 type Params = { foundry: string; typeface: string };
 
+// Pre-building all typeface pages at build time overwhelms Vercel's deploy
+// packaging step once the catalogue gets large enough (confirmed: "Maximum
+// call stack size exceeded" in Vercel's own build-output processing, not in
+// this app). dynamicParams defaults to true, so pages still render on first
+// visit and are cached after that — same URLs, same content, just lazy.
 export function generateStaticParams(): Params[] {
-  return getAllTypefaces().map((t) => ({
-    foundry: t.foundrySlug,
-    typeface: t.slug,
-  }));
+  return [];
 }
 
 export async function generateMetadata({
