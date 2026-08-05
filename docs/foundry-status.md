@@ -42,7 +42,7 @@
 | Arillatype | best | 25 | https://arillatype.studio/ | ok |
 | Arkitype | best | 20 | https://www.arkitype.co/ | ok |
 | ArrowType | okay | 5 | https://www.arrowtype.com/ | 2 bad |
-| Atelier René Knip | okay | 25 | https://atelierreneknip.com/ | 25 missing |
+| Atelier René Knip | okay | 25 | https://atelierreneknip.com/ | ok |
 | Atipo Foundry | okay | 50 | https://www.atipofoundry.com/ | ok |
 | Atlas Fonts | okay | 15 | https://www.atlasfonts.com | ok |
 | Atypical | okay | 32 | https://atypical.gr/ | 32 missing |
