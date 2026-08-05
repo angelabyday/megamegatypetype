@@ -51,7 +51,7 @@
 | Avondale Type Co. | okay | – | https://avondaletypeco.com | ok |
 | b•v-h type | okay | 18 | https://bvhtype.com/ | 5 bad |
 | Badson Type | okay | 9 | https://badsontype.com | 2 bad |
-| Bagerich Type Foundry | okay | 21 | https://supply.family/ | 21 missing |
+| Bagerich Type Foundry | okay | 21 | https://supply.family/ | ok |
 | Bal Foundry | okay | 9 | https://www.bal-foundry.com | 2 bad |
 | Balto / Type Supply | okay | 11 | https://typesupply.com/ | ok |
 | Barnbrook | okay | 40 | https://barnbrook.net | ok |
