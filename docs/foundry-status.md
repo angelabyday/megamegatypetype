@@ -165,7 +165,7 @@
 | Family Type | best | 6 | https://familytype.co/ | ok |
 | Famira Fonts | okay | 10 | https://store.typenetwork.com/ | 10 missing |
 | Fantasia Type | okay | – | https://www.fantasia-type.com | ok |
-| Fateh.Lab | okay | 22 | https://supply.family/ | 22 missing |
+| Fateh.Lab | okay | 22 | https://supply.family/ | ok |
 | Fatype | best | 7 | https://fatype.com/ | ok |
 | FDI Type Foundry | okay | 24 | https://fdi-type.de | ok |
 | Febspace Studio | okay | 6 | https://supply.family/ | 6 missing |
