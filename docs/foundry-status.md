@@ -23,7 +23,7 @@
 | Aeiou Tools | okay | 3 | https://aeiou.tools/ | 3 missing |
 | Aesthetic Type | okay | – | https://aesthetictype.com | ok |
 | AinsiFont | okay | 13 | https://www.ainsifont.com/ | 13 missing |
-| Aiyari Studio | okay | 36 | https://aiyaristudio.com/ | 36 missing |
+| Aiyari Studio | okay | 36 | https://aiyaristudio.com/ | ok |
 | Alexandre Créquer | okay | 7 | https://www.alex-creq.com/ | 7 missing |
 | AlfaType Fonts Foundry | okay | 2 | https://www.alfatypefonts.com/ | 2 missing |
 | Alias | okay | 14 | https://alias.fonts.xyz/ | 14 missing |
