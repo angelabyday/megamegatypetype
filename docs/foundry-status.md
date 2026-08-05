@@ -407,7 +407,7 @@
 | R-Typography | okay | 24 | https://www.r-typography.com/ | ok |
 | Radim Pesko | okay | 21 | https://radimpesko.com/ | ok |
 | Radluka | okay | – | https://www.radluka.com | ok |
-| Ragamkata Studio | okay | 27 | https://supply.family/ | 27 missing |
+| Ragamkata Studio | okay | 27 | https://supply.family/ | ok |
 | Rasmus Andersson | best | 2 | https://rsms.me/ | 2 missing |
 | Razzia Type | okay | 5 | https://www.razziatype.com | 5 missing |
 | Regular Bold Italic | okay | 11 | https://regularbolditalic.com/ | ok |
