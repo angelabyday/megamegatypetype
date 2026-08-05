@@ -112,7 +112,7 @@
 | Contrast Foundry | okay | 16 | https://contrastfoundry.com | ok |
 | Coppers and Brasses | okay | 10 | https://coppersandbrasses.com/ | ok |
 | Corentin Noyer | okay | 5 | https://www.corentinoyer.fr | ok |
-| CoType Foundry | best | 19 | https://cotypefoundry.com/ | 3 missing |
+| CoType Foundry | best | 19 | https://cotypefoundry.com/ | 10 missing |
 | Counter Forms | okay | 5 | https://counter-forms.com/ | ok |
 | Crescenzi | best | 2 | https://crescenzi.co/ | ok |
 | Crown Type | okay | – | https://crowntype.com | ok |
