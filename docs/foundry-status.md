@@ -517,7 +517,7 @@
 | Typeparties | okay | 32 | https://supply.family/ | 1 missing |
 | Typerepublic | okay | 29 | https://typerepublic.com | ok |
 | Typespec | best | 13 | https://typespec.co.uk/ | ok |
-| TypeThis!Studio | okay | 19 | https://www.typethis.studio/ | 19 missing |
+| TypeThis!Studio | okay | 19 | https://www.typethis.studio/ | ok |
 | TypeTogether | best | 23 | https://www.type-together.com/ | ok |
 | TypeType | okay | 24 | https://typetype.org/ | ok |
 | Typeverything | okay | 82 | https://typeverything.com/ | ok |
@@ -1069,7 +1069,6 @@
 | Typerotation | type.lol | Via type.lol · Leipzig, Germany · Not yet scouted |
 | Typesenses | type.lol | Via type.lol · Argentina · Not yet scouted |
 | Typetanic | type.lol | Via type.lol · Chicago, United States · Not yet scouted |
-| TypeThis!Studio | type.lol | Via type.lol · Hamburg, Germany · Not yet scouted |
 | Typetr | type.lol | Via type.lol · Netherlands · Not yet scouted |
 | TypeTrust | type.lol | Via type.lol · Pasadena, CA, United States · Not yet scouted |
 | TYPO72TYPO | t72t.com | Experimental display type foundry, 14 typefaces, working shop. Not yet scouted |
