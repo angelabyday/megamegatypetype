@@ -475,7 +475,7 @@
 | The Foundry Types | okay | 40 | https://www.thefoundrytypes.com/ | ok |
 | The League of Moveable Type | okay | 18 | https://www.theleagueofmoveabletype.com/ | ok |
 | The Letters | okay | 8 | https://theletters.co/ | 1 bad |
-| The Native Saint Club | okay | 17 | https://supply.family/ | 17 missing |
+| The Native Saint Club | okay | 17 | https://supply.family/ | ok |
 | The Northern Block | best | 79 | https://www.thenorthernblock.co.uk/ | ok |
 | The Temporary State | okay | 9 | https://type.tmpstate.net/ | 9 bad |
 | Threedotstype | best | 14 | https://threedotstype.com/ | 2 bad |
