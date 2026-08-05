@@ -560,7 +560,7 @@
 | XYZ Type | okay | 9 | https://xyztype.com/ | ok |
 | yasireknc | okay | 2 | https://supply.family/ | 2 missing |
 | Yeahright Type | okay | 51 | https://yeahrighttype.com/ | ok |
-| Yenty Jap Co | okay | 16 | https://supply.family/ | 16 missing |
+| Yenty Jap Co | okay | 16 | https://supply.family/ | ok |
 | Yep! Type Foundry | okay | – | https://yeptype.com | ok |
 | Zarma Type | notgood | 39 | https://zarmatype.com/ | ok |
 | Zetafonts | okay | 154 | https://www.zetafonts.com/ | ok |
