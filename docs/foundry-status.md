@@ -469,7 +469,7 @@
 | Teaser | notgood | 1 | https://teaser.fonts.xyz/ | 1 missing |
 | Teeline Fonts | okay | – | https://teelinefonts.com | ok |
 | Tegamitype | okay | 9 | https://tegamitype.com | ok |
-| Terminal Design | okay | 33 | https://www.terminaldesign.com/ | 33 missing |
+| Terminal Design | okay | 33 | https://www.terminaldesign.com/ | ok |
 | That That Type | okay | 45 | https://thatthattype.com/ | ok |
 | The Designers Foundry | best | 64 | https://thedesignersfoundry.com/ | ok |
 | The Foundry Types | okay | 40 | https://www.thefoundrytypes.com/ | ok |
