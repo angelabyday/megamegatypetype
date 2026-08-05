@@ -19,7 +19,7 @@
 | Abyme | okay | 12 | https://www.abyme.net | ok |
 | ÁccentiaType | okay | 1 | https://accentiatype.com/ | 1 missing |
 | AcidType | okay | 2 | https://supply.family/ | 2 missing |
-| Adam Ladd Design | best | 41 | https://ladd-design.com/ | 41 missing |
+| Adam Ladd Design | best | 41 | https://ladd-design.com/ | ok |
 | Aeiou Tools | okay | 3 | https://aeiou.tools/ | 3 missing |
 | Aesthetic Type | okay | – | https://aesthetictype.com | ok |
 | AinsiFont | okay | 13 | https://www.ainsifont.com/ | 13 missing |
