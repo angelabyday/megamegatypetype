@@ -299,7 +299,7 @@
 | London Type Foundry | okay | – | https://londontype.co.uk | ok |
 | Lost Type Co-op | okay | 69 | http://www.losttype.com/ | 3 missing |
 | Love Letters | okay | 1 | https://love-letters.fonts.xyz/ | 1 missing |
-| LucasFonts | best | 24 | https://www.lucasfonts.com/ | 24 missing |
+| LucasFonts | best | 24 | https://www.lucasfonts.com/ | ok |
 | Ludwig | okay | 32 | https://www.ludwigtype.de | ok |
 | Lund Design Co. | okay | 6 | https://supply.family/ | 6 missing |
 | Luzi Type | best | 27 | https://www.luzi-type.ch/ | 2 bad |
@@ -613,7 +613,6 @@
 | Letterhead Fonts | notgood tier |
 | LIBRE FONTS BY WOMXN | curated resource list, not a foundry |
 | Limitype | JS-rendered, no crawlable listing |
-| LucasFonts | notgood tier |
 | Luuse | foundry disbanded 2025; catalogue mirrors third-party open-source fonts |
 | Margot Lévêque Studio | notgood tier |
 | Monolith Foundry | domain dead, redirects to designer's personal free-download page |
