@@ -321,7 +321,7 @@
 | Mojomox | okay | 2 | https://fonts.mojomox.com/ | ok |
 | Monkey Type | okay | 13 | https://mnkytype.com/ | 13 missing |
 | Monokrom | okay | 18 | https://monokrom.no/ | ok |
-| Moretype | okay | 16 | https://moretype.co.uk/ | 16 missing |
+| Moretype | okay | 16 | https://moretype.co.uk/ | ok |
 | Morning Type | okay | – | https://morningtype.com | ok |
 | Morula Type | best | 1 | https://morula-type.fonts.xyz/ | 1 missing |
 | Mota Italic | okay | 21 | https://www.motaitalic.com | ok |
