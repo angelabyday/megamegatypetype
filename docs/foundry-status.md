@@ -382,7 +382,7 @@
 | PFA Typefaces | okay | – | https://pfa-typefaces.com | ok |
 | Phantom Foundry | okay | 7 | http://phantom-foundry.com | ok |
 | Phil's Fonts | notgood | 1 | https://philsfonts.com/ | 1 missing |
-| Philatype | okay | 18 | https://philatype.com/ | 1 missing |
+| Philatype | okay | 18 | https://philatype.com/ | 17 missing |
 | Pixelbuddha | okay | 7 | https://supply.family/ | 7 missing |
 | Pizza Typefaces | okay | 27 | https://typefaces.pizza/ | ok |
 | Plain Form | okay | 8 | https://plain-form.com/ | ok |
