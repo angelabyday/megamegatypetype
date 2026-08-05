@@ -514,7 +514,7 @@
 | Typemanufactur | okay | 20 | https://www.typemanufactur.com/en | ok |
 | TypeMates | okay | 49 | https://www.typemates.com/ | 46 bad |
 | Typeóca | okay | – | https://typeoca.com/ | ok |
-| Typeparties | okay | 32 | https://supply.family/ | 32 missing |
+| Typeparties | okay | 32 | https://supply.family/ | 1 missing |
 | Typerepublic | okay | 29 | https://typerepublic.com | ok |
 | Typespec | best | 13 | https://typespec.co.uk/ | ok |
 | TypeThis!Studio | okay | 19 | https://www.typethis.studio/ | 19 missing |
