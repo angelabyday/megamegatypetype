@@ -34,7 +34,7 @@
 | Anton Koovit | best | 8 | https://antonkoovit.com/ | 8 missing |
 | Anton Koovit & Estonian Design Team | best | 1 | https://antonkoovit.com/ | 1 missing |
 | Antonin Bertrand | okay | 1 | https://antoninbertrand.com/ | 1 missing |
-| Any-Type® Foundry | okay | 18 | https://supply.family/ | 18 missing |
+| Any-Type® Foundry | okay | 18 | https://supply.family/ | ok |
 | Apex Foundry | okay | 10 | https://www.apextypefoundry.com/ | ok |
 | Approximate Type | okay | 7 | https://approxtype.com/ | ok |
 | Arcane Type Foundry | okay | 8 | https://www.arcanetype.com | ok |
