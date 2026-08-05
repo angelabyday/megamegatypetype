@@ -491,7 +491,7 @@
 | Tour de Force | okay | 14 | https://tourdefonts.com | ok |
 | Troisième Type | okay | 14 | https://troisieme-type.com/ | ok |
 | Tropical Type | okay | 32 | https://tropicaltype.com/ | 24 bad |
-| TrueType | okay | 30 | https://supply.family/ | 30 missing |
+| TrueType | okay | 30 | https://supply.family/ | ok |
 | Trulytype | okay | 13 | https://trulytype.com | ok |
 | Tunera | okay | 20 | https://www.tunera.xyz/ | ok |
 | Tüpokompanii | okay | 4 | https://tupokompanii.com/ | 4 missing |
