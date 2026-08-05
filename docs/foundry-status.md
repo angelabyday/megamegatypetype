@@ -305,7 +305,7 @@
 | Luzi Type | best | 27 | https://www.luzi-type.ch/ | 2 bad |
 | Mai Type | okay | 5 | https://www.maitype.xyz | ok |
 | Manic Type | okay | 7 | https://www.manictype.com | ok |
-| Mark Simonson | best | 50 | https://www.marksimonson.com/ | 50 missing |
+| Mark Simonson | best | 50 | https://www.marksimonson.com/ | ok |
 | Mark van Leeuwen | okay | 5 | https://markvanleeuwen.nl/ | 5 missing |
 | Marmite de Fontes | okay | – | https://marmitedefontes.com/ | ok |
 | Mass-Driver | okay | 8 | https://mass-driver.com/ | 1 bad |
@@ -617,7 +617,6 @@
 | LucasFonts | notgood tier |
 | Luuse | foundry disbanded 2025; catalogue mirrors third-party open-source fonts |
 | Margot Lévêque Studio | notgood tier |
-| Mark Simonson | notgood tier |
 | Monolith Foundry | domain dead, redirects to designer's personal free-download page |
 | Monotype | corporate conglomerate, not an independent foundry |
 | MoTyFo | notgood tier |
