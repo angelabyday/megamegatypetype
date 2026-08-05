@@ -328,7 +328,7 @@
 | Muccatypo | okay | 8 | https://muccatypo.com | ok |
 | Muirmcneil | okay | 51 | http://www.muirmcneil.com | 2 bad |
 | Multiocular Type | okay | – | https://www.multioculartype.co | ok |
-| MVB Fonts | best | 33 | https://www.mvbfonts.com/ | 33 missing |
+| MVB Fonts | best | 33 | https://www.mvbfonts.com/ | 1 missing |
 | Naipe Foundry | okay | 5 | https://store.naipefoundry.com | ok |
 | NaN | best | 26 | https://www.nan.xyz/ | ok |
 | Narrow Type | okay | 12 | https://www.narrowtype.com/ | 9 missing |
