@@ -132,7 +132,7 @@
 | Dharma Type | okay | 128 | https://dharmatype.com/ | ok |
 | Dinamo Typefaces | best | 85 | https://abcdinamo.com/ | ok |
 | Diorama Type Partners | okay | 4 | https://www.dioramatypepartners.com | ok |
-| Dirty Line Studio | okay | 45 | https://dirtylinestudio.com/ | 1 missing, 9 bad |
+| Dirty Line Studio | okay | 45 | https://dirtylinestudio.com/ | 1 missing |
 | Displaay Type Foundry | best | 37 | https://displaay.net/ | ok |
 | dito-typo | okay | 4 | https://dito-typo.com/ | 4 missing |
 | DK Type | best | 8 | https://dktype.com/ | ok |
