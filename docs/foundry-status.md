@@ -523,7 +523,7 @@
 | Typeverything | okay | 82 | https://typeverything.com/ | ok |
 | TypoBureau | okay | 3 | https://supply.family/ | 3 missing |
 | Typocalypse | okay | 7 | http://www.typocalypse.com | ok |
-| Typofonderie | best | 51 | https://typofonderie.com/ | 51 missing |
+| Typofonderie | best | 51 | https://typofonderie.com/ | ok |
 | Typographies.fr | okay | – | http://typographies.fr/ | ok |
 | Typotheque | best | 198 | https://www.typotheque.com/ | ok |
 | Typozon | okay | 6 | https://typozon.xyz/ | ok |
@@ -641,7 +641,6 @@
 | TYPE01 | editorial/blog site, not a type foundry storefront |
 | TypeNetwork | reseller platform, not a foundry |
 | Typocopter | domain does not resolve (NXDOMAIN) |
-| Typofonderie | notgood tier |
 | UI8 | design asset marketplace, not a type foundry |
 | Undercase Type | notgood tier |
 | Uxum | React SPA, single-product site — not a foundry catalogue |
