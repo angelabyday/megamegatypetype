@@ -473,7 +473,7 @@
 | That That Type | okay | 45 | https://thatthattype.com/ | ok |
 | The Designers Foundry | best | 64 | https://thedesignersfoundry.com/ | ok |
 | The Foundry Types | okay | 40 | https://www.thefoundrytypes.com/ | ok |
-| The League of Moveable Type | okay | 18 | https://www.theleagueofmoveabletype.com/ | 18 missing |
+| The League of Moveable Type | okay | 18 | https://www.theleagueofmoveabletype.com/ | ok |
 | The Letters | okay | 8 | https://theletters.co/ | 1 bad |
 | The Native Saint Club | okay | 17 | https://supply.family/ | 17 missing |
 | The Northern Block | best | 79 | https://www.thenorthernblock.co.uk/ | ok |
@@ -633,7 +633,6 @@
 | Sun | notgood tier |
 | Supply.Family | reseller marketplace — 49 creators indexed individually from supply.family/product-category/fonts/ |
 | T.26 | sells individual font weight packs rather than typeface families; structure too granular |
-| The League of Moveable Type | notgood tier — free open-source co-op |
 | The Temporary State (old domain) | foundry moved to type.tmpstate.net; already registered and indexed |
 | TYPE01 | editorial/blog site, not a type foundry storefront |
 | TypeNetwork | reseller platform, not a foundry |
