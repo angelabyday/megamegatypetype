@@ -56,7 +56,7 @@
 | Balto / Type Supply | okay | 11 | https://typesupply.com/ | ok |
 | Barnbrook | okay | 40 | https://barnbrook.net | ok |
 | Bastarda | best | 17 | https://bastardatype.com/ | ok |
-| bb-bureau | okay | 27 | https://bb-bureau.fr/ | 27 missing |
+| bb-bureau | okay | 27 | https://bb-bureau.fr/ | ok |
 | Beasts of England | okay | 23 | https://beastsofengland.co | ok |
 | Bentype Studio | okay | 1 | https://supply.family/ | 1 missing |
 | Big Fog Foundry | okay | 4 | https://foundry.bigfog.co/ | ok |
@@ -575,7 +575,6 @@
 | ATYPICAL | loose tier |
 | Authentic | shop closed |
 | Bad Type Club | loose tier |
-| bb-bureau | loose tier |
 | Beržulis | site down |
 | Blast Foundry | loose tier |
 | California Type Foundry | domain squatted, gambling-affiliate redirects |
