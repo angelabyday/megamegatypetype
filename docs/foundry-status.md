@@ -331,7 +331,7 @@
 | MVB Fonts | best | 33 | https://www.mvbfonts.com/ | 9 missing |
 | Naipe Foundry | okay | 5 | https://store.naipefoundry.com | ok |
 | NaN | best | 26 | https://www.nan.xyz/ | ok |
-| Narrow Type | okay | 12 | https://www.narrowtype.com/ | 9 missing |
+| Narrow Type | okay | 12 | https://www.narrowtype.com/ | ok |
 | Ndiscover | okay | – | https://ndiscover.com | ok |
 | Neoflix Studio | okay | 1 | https://supply.family/ | 1 missing |
 | Netvarec Type | okay | 3 | https://nctype.com/ | 3 missing |
