@@ -197,7 +197,7 @@
 | Foundry Five | okay | 10 | https://foundryfivetype.com | ok |
 | FredsFonts | okay | 1 | https://fredsfonts.fonts.xyz/ | 1 missing |
 | Free Faces | okay | 13 | https://www.freefaces.gallery/ | ok |
-| Freight Collection | best | 8 | https://freightcollection.com/ | 8 missing |
+| Freight Collection | best | 8 | https://freightcollection.com/ | ok |
 | Frere-Jones | best | 25 | https://frerejones.com | ok |
 | Frost | best | 14 | https://frostype.xyz/ | 6 bad |
 | Fuerte Type | okay | 5 | https://www.fuertetype.com/ | ok |
