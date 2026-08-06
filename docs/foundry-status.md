@@ -134,7 +134,7 @@
 | Diorama Type Partners | okay | 4 | https://www.dioramatypepartners.com | ok |
 | Dirty Line Studio | okay | 45 | https://dirtylinestudio.com/ | 1 missing |
 | Displaay Type Foundry | best | 37 | https://displaay.net/ | ok |
-| dito-typo | okay | 4 | https://dito-typo.com/ | 4 missing |
+| dito-typo | okay | 4 | https://dito-typo.com/ | ok |
 | DK Type | best | 8 | https://dktype.com/ | ok |
 | Domicile Foundry | okay | 7 | https://domicilefoundry.com | 1 missing |
 | Dot Colon | okay | 11 | https://dotcolon.net/ | ok |
