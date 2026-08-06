@@ -360,7 +360,7 @@
 | OGJ Type Design | okay | 13 | https://ogjtype.com/ | 4 missing |
 | OH no Type | best | 25 | https://ohnotype.co/ | ok |
 | Okay Type | okay | 5 | http://okaytype.com | ok |
-| Oktnum Type Foundry | okay | 5 | https://supply.family/ | 5 missing |
+| Oktnum Type Foundry | okay | 5 | https://supply.family/ | ok |
 | Old City Mailroom | okay | 5 | https://www.oldcitymailroom.com/ | 2 bad |
 | Omnibus-Type | okay | 29 | https://www.omnibus-type.com | ok |
 | Open Foundry | okay | 25 | https://open-foundry.com/ | ok |
