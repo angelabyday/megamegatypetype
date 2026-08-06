@@ -219,7 +219,7 @@
 | Gruppo Due | okay | 6 | https://gruppo-due.com | ok |
 | Güneş Muhittin | okay | 6 | https://www.gunesmuhittin.com/ | ok |
 | Hadrien Herzog | okay | 1 | https://hadrien-herzog.fonts.xyz/ | 1 missing |
-| HAL Typefaces | okay | 9 | https://type.hanli.eu/ | 9 missing |
+| HAL Typefaces | okay | 9 | https://type.hanli.eu/ | 8 missing |
 | Hard Type | okay | – | https://hardtype.xyz | ok |
 | Heavyweight | okay | 9 | https://heavyweight-type.com/ | ok |
 | Herzberg Design | okay | 16 | https://www.herzbergdesign.com | ok |
@@ -598,7 +598,6 @@
 | FontSquirrel | free fonts aggregator, not a foundry |
 | Future Fonts | beta marketplace aggregator, not a single foundry |
 | G마켓 | Korean e-commerce site, not a type foundry |
-| HAL Typefaces | loose tier |
 | Hard Type | bare landing page, no catalogue |
 | HB Type | loose tier |
 | Heritage Type Co. | notgood tier |
