@@ -485,7 +485,7 @@
 | Tipografies | okay | 13 | https://tipografies.com | ok |
 | Tipotype | okay | 42 | http://tipotype.com | ok |
 | Tiro Typeworks | best | 27 | https://www.tiro.com | ok |
-| TØ—Labs™ | okay | 3 | https://supply.family/ | 3 missing |
+| TØ—Labs™ | okay | 3 | https://supply.family/ | ok |
 | Tofu Type | best | 6 | https://tofutype.ca/ | ok |
 | Tokotype | okay | 9 | https://www.tokotype.com/ | ok |
 | Tour de Force | okay | 14 | https://tourdefonts.com | ok |
