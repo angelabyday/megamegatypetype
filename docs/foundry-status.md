@@ -335,7 +335,7 @@
 | Ndiscover | okay | – | https://ndiscover.com | ok |
 | Neoflix Studio | okay | 1 | https://supply.family/ | 1 missing |
 | Netvarec Type | okay | 3 | https://nctype.com/ | 3 missing |
-| Neubau | okay | 12 | https://neubauladen.com/ | 12 missing |
+| Neubau | okay | 12 | https://neubauladen.com/ | 1 missing |
 | Newglyph | okay | 25 | https://newglyph.com | 1 bad |
 | Newlyn | best | 42 | https://newlyn.com/ | 6 bad |
 | Nguyen Gobber | okay | 9 | https://nguyengobber.com/ | 9 missing |
@@ -618,8 +618,6 @@
 | Monolith Foundry | domain dead, redirects to designer's personal free-download page |
 | Monotype | corporate conglomerate, not an independent foundry |
 | MoTyFo | notgood tier |
-| NBL | notgood tier |
-| Neubau | notgood tier |
 | Overlap Type | notgood tier |
 | P22 Type Foundry | notgood tier |
 | Paratype | large catalogue, no structured listing page |
