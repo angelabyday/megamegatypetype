@@ -259,7 +259,7 @@
 | Just Another Foundry | okay | 12 | https://justanotherfoundry.com/ | ok |
 | K73 TF | okay | 3 | https://supply.family/ | 3 missing |
 | Kanon Foundry | okay | – | https://kanonfoundry.com | ok |
-| Karsten Lücke | best | 5 | https://kltf.de/ | 5 missing |
+| Karsten Lücke | best | 5 | https://kltf.de/ | ok |
 | Kerns & Cairns | okay | 3 | https://www.kernsandcairns.com | ok |
 | Keussel Studio | okay | 1 | https://keussel-studio.fonts.xyz/ | 1 missing |
 | Kilotype | okay | 12 | https://kilotype.de/ | ok |
