@@ -537,7 +537,7 @@
 | Undt | okay | 1 | https://undt.fonts.xyz/ | 1 missing |
 | Unio Designs | okay | 12 | https://supply.family/ | ok |
 | Ursa Minor | okay | 1 | https://ursaminor.xyz | 1 missing |
-| URW Type Foundry | okay | 12 | https://www.urwtype.com/ | 12 missing |
+| URW Type Foundry | okay | 12 | https://www.urwtype.com/ | 7 missing |
 | Vectro | okay | 8 | https://www.vectrotype.com/ | ok |
 | Velvetyne | okay | 42 | https://velvetyne.fr/ | 42 missing |
 | Very Cool Studio | okay | 1 | https://verycoolstudio.com/ | 1 bad |
