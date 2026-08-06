@@ -309,7 +309,7 @@
 | Mark van Leeuwen | okay | 5 | https://markvanleeuwen.nl/ | 5 missing |
 | Marmite de Fontes | okay | – | https://marmitedefontes.com/ | ok |
 | Mass-Driver | okay | 8 | https://mass-driver.com/ | 1 bad |
-| Maxitype | best | 12 | https://maxitype.com/ | 12 missing |
+| Maxitype | best | 12 | https://maxitype.com/ | 3 missing |
 | MB Type | best | 8 | https://mbtype.com | ok |
 | MCKL | best | 12 | https://mckltype.com | ok |
 | McLetters | best | 23 | https://mcletters.co/ | ok |
