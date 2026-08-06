@@ -204,7 +204,7 @@
 | Furniture | okay | – | https://www.furniture.xyz | ok |
 | G-Type | best | 32 | https://g-type.com | ok |
 | Gallery Type | okay | 2 | https://gallerytype.com/ | ok |
-| Garisman Studio | okay | 7 | https://supply.family/ | 7 missing |
+| Garisman Studio | okay | 7 | https://supply.family/ | ok |
 | General Type Studio | best | 8 | https://www.generaltypestudio.com/ | ok |
 | Giulia Boggio | okay | 9 | https://giulia-boggio.fonts.xyz/ | 6 missing |
 | Glyphminds Studios | okay | 43 | https://supply.family/ | ok |
