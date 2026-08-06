@@ -22,7 +22,7 @@
 | Adam Ladd Design | best | 41 | https://ladd-design.com/ | ok |
 | Aeiou Tools | okay | 3 | https://aeiou.tools/ | 3 missing |
 | Aesthetic Type | okay | – | https://aesthetictype.com | ok |
-| AinsiFont | okay | 13 | https://www.ainsifont.com/ | 13 missing |
+| AinsiFont | okay | 13 | https://www.ainsifont.com/ | 1 missing |
 | Aiyari Studio | okay | 36 | https://aiyaristudio.com/ | 3 missing |
 | Alexandre Créquer | okay | 7 | https://www.alex-creq.com/ | 7 missing |
 | AlfaType Fonts Foundry | okay | 2 | https://www.alfatypefonts.com/ | 2 missing |
