@@ -206,7 +206,7 @@
 | Gallery Type | okay | 2 | https://gallerytype.com/ | ok |
 | Garisman Studio | okay | 7 | https://supply.family/ | 7 missing |
 | General Type Studio | best | 8 | https://www.generaltypestudio.com/ | ok |
-| Giulia Boggio | okay | 9 | https://giulia-boggio.fonts.xyz/ | 9 missing |
+| Giulia Boggio | okay | 9 | https://giulia-boggio.fonts.xyz/ | 6 missing |
 | Glyphminds Studios | okay | 43 | https://supply.family/ | ok |
 | Glyphonic | okay | 94 | https://supply.family/ | 1 missing |
 | God Control | okay | 8 | https://supply.family/ | 8 missing |
