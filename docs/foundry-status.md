@@ -209,7 +209,7 @@
 | Giulia Boggio | okay | 9 | https://giulia-boggio.fonts.xyz/ | 6 missing |
 | Glyphminds Studios | okay | 43 | https://supply.family/ | ok |
 | Glyphonic | okay | 94 | https://supply.family/ | 1 missing |
-| God Control | okay | 8 | https://supply.family/ | 8 missing |
+| God Control | okay | 8 | https://supply.family/ | ok |
 | Good Type Foundry | okay | 23 | https://goodtypefoundry.com/ | ok |
 | Google Fonts | okay | 1945 | https://fonts.google.com/ | 4 bad |
 | Gradient | okay | 10 | https://wearegradient.net/ | ok |
