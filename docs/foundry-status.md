@@ -26,7 +26,7 @@
 | Aiyari Studio | okay | 36 | https://aiyaristudio.com/ | 3 missing |
 | Alexandre Créquer | okay | 7 | https://www.alex-creq.com/ | 7 missing |
 | AlfaType Fonts Foundry | okay | 2 | https://www.alfatypefonts.com/ | 2 missing |
-| Alias | okay | 14 | https://alias.fonts.xyz/ | 14 missing |
+| Alias | okay | 14 | https://alias.fonts.xyz/ | 1 missing |
 | AllCaps | best | 10 | https://www.allcapstype.com/ | ok |
 | Almarena | best | 9 | https://almarenafoundry.com/ | ok |
 | ALT.tf | okay | 11 | https://alt-tf.com/ | ok |
