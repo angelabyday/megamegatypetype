@@ -102,7 +102,7 @@
 | Charlotte Rohde | okay | 10 | https://www.charlotterohde.de | ok |
 | Chill Type | okay | 2 | https://chilltype.com/ | 2 missing |
 | CJ Type | okay | 4 | http://www.cjtype.com | ok |
-| Claude Type | best | 4 | https://claudetype.com/ | 4 missing |
+| Claude Type | best | 4 | https://claudetype.com/ | ok |
 | Collletttivo | okay | 16 | https://www.collletttivo.it/ | ok |
 | Colt Type | okay | 19 | https://wearecolt.com/ | ok |
 | Comma Type | okay | 3 | https://www.commatype.com | 1 bad |
@@ -578,7 +578,6 @@
 | Beržulis | site down |
 | California Type Foundry | domain squatted, gambling-affiliate redirects |
 | Castle Type | old static site, no structured listing |
-| Claude Type | loose tier |
 | Colophon | Redirects to MyFonts; original domain no longer has a catalogue |
 | Colophon Foundry | no catalogue on own domain, redirects to Monotype/MyFonts |
 | Contemporary Type | reseller, JS-rendered listing with no crawlable font links |
