@@ -355,7 +355,7 @@
 | Nymark Type | okay | – | https://www.nymarktype.co | ok |
 | Obrysy | best | 4 | https://obrysy.xyz/ | ok |
 | Occupant Fonts | best | 33 | https://occupantfonts.com | ok |
-| Off The Rack | okay | 3 | https://supply.family/ | 3 missing |
+| Off The Rack | okay | 3 | https://supply.family/ | ok |
 | Off Type | okay | 17 | https://off-type.com/ | ok |
 | OGJ Type Design | okay | 13 | https://ogjtype.com/ | 4 missing |
 | OH no Type | best | 25 | https://ohnotype.co/ | ok |
