@@ -429,7 +429,7 @@
 | Schick Toikka | best | 44 | https://www.schick-toikka.com/ | ok |
 | Schriftlabor | okay | – | https://schriftlabor.at | ok |
 | Scifipoetry | okay | 12 | https://scifipoetry.de | ok |
-| Sekyra Lab | okay | 12 | https://supply.family/ | 12 missing |
+| Sekyra Lab | okay | 12 | https://supply.family/ | 6 missing |
 | Serpentype | okay | 7 | https://www.serpentype.com | ok |
 | Setup Type | okay | 51 | https://www.setuptype.com | 46 bad |
 | Sharp Type | okay | 66 | https://www.sharptype.co/ | 66 missing |
