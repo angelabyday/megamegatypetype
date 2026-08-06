@@ -174,7 +174,7 @@
 | Fer Cozzi | okay | 8 | https://fercozzi.com/ | 8 missing |
 | Finaltype | okay | – | https://finaltype.de | ok |
 | Flatface Type | okay | 1 | https://supply.family/ | 1 missing |
-| Flavia Zimbardi | okay | 10 | https://flaviazim.com/ | 10 missing |
+| Flavia Zimbardi | okay | 10 | https://flaviazim.com/ | 1 missing |
 | Flood Fonts | okay | 14 | https://floodfonts.com/ | ok |
 | Florian Karsten | best | 9 | https://fonts.floriankarsten.com/ | ok |
 | Florian Runge | okay | 4 | https://florianrunge.com/ | 4 missing |
