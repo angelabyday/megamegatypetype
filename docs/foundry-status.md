@@ -451,7 +451,7 @@
 | Store Norske Skriftkompani | okay | 37 | https://skriftkompani.no/ | ok |
 | Storm Type Foundry | best | 129 | https://www.stormtype.com/ | ok |
 | Studio Feixen Fonts | okay | 7 | https://fonts.studiofeixen.ch/ | ok |
-| Studio Few | okay | 10 | https://supply.family/ | 10 missing |
+| Studio Few | okay | 10 | https://supply.family/ | 1 missing |
 | Studio Rene Bieder | best | 28 | https://www.renebieder.com/ | ok |
 | Studio Sascha Bente | okay | 9 | https://saschabente.com/ | 9 missing |
 | Studio Triple | okay | 16 | https://studiotriple.fr/ | ok |
