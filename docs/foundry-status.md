@@ -150,7 +150,7 @@
 | Edition Studio | okay | 5 | https://edition.studio | 1 bad |
 | EK Type | best | 12 | https://ektype.in | ok |
 | Element Type | best | 1 | https://elementtype.com/ | 1 missing |
-| Elena Schneider | okay | 4 | https://elenaschneider.com/ | 4 missing |
+| Elena Schneider | okay | 4 | https://elenaschneider.com/ | 1 missing |
 | Emtype Foundry | best | 36 | https://emtype.net | ok |
 | EPI | okay | 8 | https://epitype.xyz | ok |
 | Erkin Karamemet | okay | 10 | https://erkinkaramemet.com/ | ok |
