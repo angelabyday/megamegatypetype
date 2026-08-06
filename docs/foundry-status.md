@@ -549,7 +549,7 @@
 | W Type Foundry | okay | 63 | https://wtypefoundry.com | ok |
 | Wabi Sabi Type | okay | 21 | https://wabisabitypeshop.com/ | ok |
 | Walden Font Co. | okay | – | https://www.waldenfont.com | ok |
-| We Love Fonts | notgood | 7 | https://we-love-fonts.fonts.xyz/ | 7 missing |
+| We Love Fonts | notgood | 7 | https://we-love-fonts.fonts.xyz/ | 2 missing |
 | Weekend Type | okay | 9 | https://weekendtype.xyz/ | ok |
 | WELTKERN | okay | 8 | https://www.weltkern.com/ | ok |
 | WiseType | okay | 8 | https://wisetype.nl/ | ok |
