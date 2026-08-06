@@ -288,7 +288,7 @@
 | Lettermin | okay | 16 | https://lettermin.com/ | ok |
 | LettError | best | 18 | https://letterror.com/ | 16 bad |
 | Letters from Sweden | okay | 44 | https://lettersfromsweden.se/ | ok |
-| Lettersetal | okay | 8 | https://lettersetal.co.uk/ | 8 missing |
+| Lettersetal | okay | 8 | https://lettersetal.co.uk/ | ok |
 | Lettersoup | okay | – | https://www.lettersoup.de | ok |
 | Lewis McGuffie | okay | 2 | https://www.lewismcguffie.com/ | ok |
 | Lift Type | best | 18 | https://www.lift-type.fr/ | 1 bad |
