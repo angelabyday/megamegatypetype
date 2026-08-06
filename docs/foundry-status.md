@@ -15,7 +15,7 @@
 | ABC Etc Inc | okay | – | http://www.abc-etc.com/ | ok |
 | Abhijit Menon | okay | 1 | https://www.futurefonts.com/abhijit/ | 1 missing |
 | About Type | okay | 1 | https://abouttype.com/ | 1 missing |
-| Abstract Office | best | 5 | https://abstractoffice.xyz/ | 5 missing |
+| Abstract Office | best | 5 | https://abstractoffice.xyz/ | ok |
 | Abyme | okay | 12 | https://www.abyme.net | ok |
 | ÁccentiaType | okay | 1 | https://accentiatype.com/ | 1 missing |
 | AcidType | okay | 2 | https://supply.family/ | 2 missing |
