@@ -378,7 +378,7 @@
 | ParaType | best | 9 | https://www.paratype.com/ | 9 missing |
 | Patio Foundry | okay | 7 | https://patiofoundry.com/ | ok |
 | Peggo Fonts | okay | 15 | https://peggofonts.com | ok |
-| Peregrin Studio | okay | 3 | https://peregrinstudio.com/ | 3 missing |
+| Peregrin Studio | okay | 3 | https://peregrinstudio.com/ | ok |
 | PFA Typefaces | okay | – | https://pfa-typefaces.com | ok |
 | Phantom Foundry | okay | 7 | http://phantom-foundry.com | ok |
 | Phil's Fonts | notgood | 1 | https://philsfonts.com/ | 1 missing |
