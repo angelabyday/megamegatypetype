@@ -257,7 +257,7 @@
 | Jung-Lee Type Foundry | okay | 9 | https://j-ltf.com | 9 bad |
 | Juri Zæch | okay | 5 | https://www.juri-zaech.com/ | ok |
 | Just Another Foundry | okay | 12 | https://justanotherfoundry.com/ | ok |
-| K73 TF | okay | 3 | https://supply.family/ | 3 missing |
+| K73 TF | okay | 3 | https://supply.family/ | ok |
 | Kanon Foundry | okay | – | https://kanonfoundry.com | ok |
 | Karsten Lücke | best | 5 | https://kltf.de/ | ok |
 | Kerns & Cairns | okay | 3 | https://www.kernsandcairns.com | ok |
