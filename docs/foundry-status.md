@@ -245,7 +245,7 @@
 | Interval Type | best | 22 | https://intervaltype.com/ | 1 missing |
 | Itemzero | okay | – | https://shop.itemzero.com | ok |
 | Ivy Foundry | okay | 13 | https://ivyfoundry.com | ok |
-| J Foundry | okay | 11 | https://jfoundry.com | 11 missing |
+| J Foundry | okay | 11 | https://jfoundry.com | ok |
 | Jamie Clark Type | okay | – | https://www.jamieclarketype.com | ok |
 | Jeremy Tankard Typography | best | 2 | https://typography.net | 2 bad |
 | Jessica Hische | okay | 6 | https://jessicahische.shop/ | ok |
