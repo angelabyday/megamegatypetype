@@ -453,7 +453,7 @@
 | Studio Feixen Fonts | okay | 7 | https://fonts.studiofeixen.ch/ | ok |
 | Studio Few | okay | 10 | https://supply.family/ | 1 missing |
 | Studio Rene Bieder | best | 28 | https://www.renebieder.com/ | ok |
-| Studio Sascha Bente | okay | 9 | https://saschabente.com/ | 9 missing |
+| Studio Sascha Bente | okay | 9 | https://saschabente.com/ | ok |
 | Studio Triple | okay | 16 | https://studiotriple.fr/ | ok |
 | Sudtipos | best | 280 | https://sudtipos.com/ | 3 missing |
 | Suitcase Type Foundry | okay | 51 | https://www.suitcasetype.com/ | ok |
