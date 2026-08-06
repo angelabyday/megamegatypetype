@@ -343,7 +343,7 @@
 | Nicolas Desle | okay | 1 | https://supply.family/ | 1 missing |
 | Nikolas Type | okay | 4 | https://www.nikolastype.com/ | ok |
 | NM Type | okay | 4 | http://nmtype.com | ok |
-| Nodo Type Foundry | okay | 10 | https://nodotypefoundry.com/ | 10 missing |
+| Nodo Type Foundry | okay | 10 | https://nodotypefoundry.com/ | ok |
 | Non Foundry | best | 5 | https://nonfoundry.com/ | 5 missing |
 | Nootype | okay | 14 | https://nootype.com/ | ok |
 | Not Your Type | okay | 14 | https://notyourtype.nl | ok |
