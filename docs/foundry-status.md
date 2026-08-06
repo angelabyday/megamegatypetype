@@ -459,7 +459,7 @@
 | Suitcase Type Foundry | okay | 51 | https://www.suitcasetype.com/ | ok |
 | Supercontinente | okay | – | https://supercontinente.com/ | ok |
 | Superior Type | okay | 34 | https://superiortype.com/ | ok |
-| Supernulla | okay | 3 | https://supply.family/ | 3 missing |
+| Supernulla | okay | 3 | https://supply.family/ | 1 missing |
 | Supertype | okay | 33 | https://supertype.de/ | ok |
 | SWIM Type | okay | 1 | https://supply.family/ | 1 missing |
 | Swiss Typefaces | best | 19 | https://www.swisstypefaces.com/ | ok |
