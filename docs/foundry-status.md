@@ -349,7 +349,7 @@
 | Not Your Type | okay | 14 | https://notyourtype.nl | ok |
 | Nouvelle Noire | okay | 26 | https://nouvellenoire.ch/ | 9 bad |
 | Nova Type Foundry | okay | 11 | https://novatypefoundry.com | ok |
-| NovaraType | okay | 9 | https://supply.family/ | 9 missing |
+| NovaraType | okay | 9 | https://supply.family/ | ok |
 | November | okay | 7 | https://www.nvmbr.in/ | ok |
 | Nuform Type | okay | 7 | https://nuformtype.com/ | ok |
 | Nymark Type | okay | – | https://www.nymarktype.co | ok |
