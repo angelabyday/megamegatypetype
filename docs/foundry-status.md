@@ -87,7 +87,7 @@
 | BurnType | best | 2 | https://burntype.com/ | 2 missing |
 | Burrow Lab | okay | 2 | https://burrow-lab.fonts.xyz/ | 2 missing |
 | Cake Type | okay | – | https://www.caketype.com | ok |
-| Calame.Bureau | okay | 8 | https://arthurcalame.com/ | 8 missing |
+| Calame.Bureau | okay | 8 | https://arthurcalame.com/ | 3 missing |
 | Calderón | best | 11 | https://www.estudiocalderon.com/ | 1 missing |
 | Camelot | best | 9 | https://camelot-typefaces.com/ | ok |
 | Canada Type | best | 15 | https://canadatype.com/ | 15 missing |
