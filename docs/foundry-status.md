@@ -420,7 +420,7 @@
 | Retype | okay | 22 | https://www.re-type.com | ok |
 | Revolver Type Foundry | okay | 14 | https://www.revolvertype.com/ | ok |
 | Riptype | okay | 4 | https://www.riptype.xyz | ok |
-| RNDI TYPE FOUNDRY | okay | 11 | https://supply.family/ | 11 missing |
+| RNDI TYPE FOUNDRY | okay | 11 | https://supply.family/ | ok |
 | Road to Venice Type | okay | 8 | https://www.r-vtype.com | ok |
 | rooomspace creative lab | okay | 216 | https://supply.family/ | 8 missing |
 | Rosetta | okay | 38 | https://rosettatype.com/ | ok |
