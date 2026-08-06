@@ -301,7 +301,7 @@
 | Love Letters | okay | 1 | https://love-letters.fonts.xyz/ | 1 missing |
 | LucasFonts | best | 24 | https://www.lucasfonts.com/ | ok |
 | Ludwig | okay | 32 | https://www.ludwigtype.de | ok |
-| Lund Design Co. | okay | 6 | https://supply.family/ | 6 missing |
+| Lund Design Co. | okay | 6 | https://supply.family/ | ok |
 | Luzi Type | best | 27 | https://www.luzi-type.ch/ | 2 bad |
 | Mai Type | okay | 5 | https://www.maitype.xyz | ok |
 | Manic Type | okay | 7 | https://www.manictype.com | ok |
