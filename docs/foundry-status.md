@@ -521,7 +521,7 @@
 | TypeTogether | best | 23 | https://www.type-together.com/ | ok |
 | TypeType | okay | 24 | https://typetype.org/ | ok |
 | Typeverything | okay | 82 | https://typeverything.com/ | ok |
-| TypoBureau | okay | 3 | https://supply.family/ | 3 missing |
+| TypoBureau | okay | 3 | https://supply.family/ | ok |
 | Typocalypse | okay | 7 | http://www.typocalypse.com | ok |
 | Typofonderie | best | 51 | https://typofonderie.com/ | ok |
 | Typographies.fr | okay | – | http://typographies.fr/ | ok |
