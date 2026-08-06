@@ -409,7 +409,7 @@
 | Radluka | okay | – | https://www.radluka.com | ok |
 | Ragamkata Studio | okay | 27 | https://supply.family/ | ok |
 | Rasmus Andersson | best | 2 | https://rsms.me/ | 2 missing |
-| Razzia Type | okay | 5 | https://www.razziatype.com | 5 missing |
+| Razzia Type | okay | 5 | https://www.razziatype.com | ok |
 | Regular Bold Italic | okay | 11 | https://regularbolditalic.com/ | ok |
 | Regular Lines Type Foundry | okay | 5 | https://www.regularlines.com/ | ok |
 | Rellence | okay | 28 | https://rellence.com/ | 15 missing |
