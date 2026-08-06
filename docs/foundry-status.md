@@ -171,7 +171,7 @@
 | Febspace Studio | okay | 6 | https://supply.family/ | 6 missing |
 | Feedtype | okay | 14 | https://feedtype.ca | ok |
 | Feliciano Type | okay | 18 | https://felicianotype.com/ | ok |
-| Fer Cozzi | okay | 8 | https://fercozzi.com/ | 8 missing |
+| Fer Cozzi | okay | 8 | https://fercozzi.com/ | 1 missing |
 | Finaltype | okay | – | https://finaltype.de | ok |
 | Flatface Type | okay | 1 | https://supply.family/ | 1 missing |
 | Flavia Zimbardi | okay | 10 | https://flaviazim.com/ | 1 missing |
