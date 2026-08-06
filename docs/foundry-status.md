@@ -65,7 +65,7 @@
 | Bitstream | okay | 6 | https://www.monotype.com/ | 6 missing |
 | Black Foundry | okay | 41 | https://black-foundry.com/ | ok |
 | Blackletra | okay | 30 | https://blackletra.com | ok |
-| Blanco Letters | okay | 15 | https://www.blancoletters.com/ | 15 missing |
+| Blanco Letters | okay | 15 | https://www.blancoletters.com/ | 1 missing |
 | Blankids | okay | 10 | https://supply.family/ | 10 missing |
 | Blast Foundry | okay | 12 | https://blast-foundry.com/ | 12 missing |
 | Blaze Type | best | 110 | https://blazetype.eu/ | ok |
