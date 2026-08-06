@@ -508,7 +508,7 @@
 | Typearture | okay | 6 | https://www.typearture.com | ok |
 | Typeforward | okay | – | https://typeforward.com | ok |
 | Typeheist | okay | 25 | https://typeheist.co | ok |
-| Typeji | okay | 11 | https://typeji.com/ | 11 missing |
+| Typeji | okay | 11 | https://typeji.com/ | ok |
 | Typejockeys | okay | 11 | https://www.typejockeys.com | ok |
 | Typeland | okay | 6 | https://type.land | ok |
 | Typemanufactur | okay | 20 | https://www.typemanufactur.com/en | ok |
