@@ -142,7 +142,7 @@
 | Dreamtype | okay | – | https://dreamtype.xyz | ok |
 | Due Studio | best | 11 | https://www.due-studio.com/ | ok |
 | Dunwich Type | okay | 9 | https://dunwichtype.com | ok |
-| Duong Tran | okay | 3 | https://duong-tran.fonts.xyz/ | 3 missing |
+| Duong Tran | okay | 3 | https://duong-tran.fonts.xyz/ | ok |
 | E162 | okay | 26 | http://e162.eu | ok |
 | East of Rome | okay | 14 | https://eastofrome.com/ | 1 missing |
 | ECAL Typefaces | okay | 21 | https://ecal-typefaces.ch/ | ok |
