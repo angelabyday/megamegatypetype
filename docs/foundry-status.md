@@ -66,7 +66,7 @@
 | Black Foundry | okay | 41 | https://black-foundry.com/ | ok |
 | Blackletra | okay | 30 | https://blackletra.com | ok |
 | Blanco Letters | okay | 15 | https://www.blancoletters.com/ | 1 missing |
-| Blankids | okay | 10 | https://supply.family/ | 10 missing |
+| Blankids | okay | 10 | https://supply.family/ | ok |
 | Blast Foundry | okay | 12 | https://blast-foundry.com/ | ok |
 | Blaze Type | best | 110 | https://blazetype.eu/ | ok |
 | Bloom Type | okay | 12 | https://bloomtype.com | 12 bad |
