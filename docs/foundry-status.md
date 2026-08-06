@@ -443,7 +443,7 @@
 | Smuss Type Kiosk | okay | 7 | https://typekiosk.smuss.studio/ | ok |
 | Sociotype | best | 5 | https://socio-type.com/ | ok |
 | Softdrive Foundry | okay | – | https://www.softdrivefoundry.com/ | ok |
-| Softulka | okay | 9 | https://supply.family/ | 9 missing |
+| Softulka | okay | 9 | https://supply.family/ | ok |
 | Source Type | best | 1 | https://www.sourcetype.com/ | ok |
 | Souvenir Typefaces | best | 2 | https://souvenirtypefaces.xyz/ | ok |
 | Spaghetype | okay | 1 | https://www.spaghetype.com | 1 missing |
