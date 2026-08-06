@@ -413,7 +413,7 @@
 | Regular Bold Italic | okay | 11 | https://regularbolditalic.com/ | ok |
 | Regular Lines Type Foundry | okay | 5 | https://www.regularlines.com/ | 5 missing |
 | Rellence | okay | 28 | https://rellence.com/ | 15 missing |
-| Renegadefonts | okay | 9 | https://www.renegadefonts.com/ | 9 missing |
+| Renegadefonts | okay | 9 | https://www.renegadefonts.com/ | 7 missing |
 | Reset Type Studio | okay | 8 | https://reset-type.com/ | ok |
 | Resistenza Type | okay | 94 | https://www.resistenza.es/ | 2 missing |
 | RetroSupply Co. | okay | 16 | https://www.retrosupply.co/ | 16 missing |
