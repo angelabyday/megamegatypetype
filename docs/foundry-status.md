@@ -31,7 +31,7 @@
 | Almarena | best | 9 | https://almarenafoundry.com/ | ok |
 | ALT.tf | okay | 11 | https://alt-tf.com/ | ok |
 | Amorfa Type | okay | 37 | https://supply.family/ | ok |
-| Anton Koovit | best | 8 | https://antonkoovit.com/ | 8 missing |
+| Anton Koovit | best | 8 | https://antonkoovit.com/ | 3 missing |
 | Anton Koovit & Estonian Design Team | best | 1 | https://antonkoovit.com/ | 1 missing |
 | Antonin Bertrand | okay | 1 | https://antoninbertrand.com/ | 1 missing |
 | Any-Type® Foundry | okay | 18 | https://supply.family/ | ok |
