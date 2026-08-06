@@ -294,7 +294,7 @@
 | Lift Type | best | 18 | https://www.lift-type.fr/ | 1 bad |
 | limitype | notgood | 48 | https://limitype.com/ | 48 missing |
 | Lineto | best | 92 | https://lineto.com/ | ok |
-| Linotype | okay | 12 | https://www.linotype.com/ | 12 missing |
+| Linotype | okay | 12 | https://www.linotype.com/ | 5 missing |
 | lo-ol Type | okay | 10 | https://www.lo-ol.design/ | 9 bad |
 | London Type Foundry | okay | – | https://londontype.co.uk | ok |
 | Lost Type Co-op | okay | 69 | http://www.losttype.com/ | 3 missing |
