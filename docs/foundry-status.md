@@ -282,7 +282,7 @@
 | Lazydogs Typefoundry | okay | 16 | https://lazydogs.de/ | 1 missing |
 | Leinster Type | best | 7 | https://www.leinstertype.com/ | ok |
 | Lena Weber | notgood | 3 | https://www.monomodular.de/ | 3 missing |
-| Léon Hugues | okay | 10 | https://leon-hugues.fonts.xyz/ | 10 missing |
+| Léon Hugues | okay | 10 | https://leon-hugues.fonts.xyz/ | ok |
 | Letterjuice | okay | 7 | http://letterjuice.cat/ | ok |
 | Lettermatic | okay | 4 | https://lettermatic.com/ | ok |
 | Lettermin | okay | 16 | https://lettermin.com/ | ok |
