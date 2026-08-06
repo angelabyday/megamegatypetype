@@ -463,7 +463,7 @@
 | Supertype | okay | 33 | https://supertype.de/ | ok |
 | SWIM Type | okay | 1 | https://supply.family/ | 1 missing |
 | Swiss Typefaces | best | 19 | https://www.swisstypefaces.com/ | ok |
-| Synthview | okay | 8 | https://typography.synthview.com/ | 8 missing |
+| Synthview | okay | 8 | https://typography.synthview.com/ | 2 missing |
 | Tandem Type | okay | – | https://www.tandemtype.co | ok |
 | Taylor Penton | best | 65 | https://www.taylorpenton.com/ | ok |
 | Teaser | notgood | 1 | https://teaser.fonts.xyz/ | 1 missing |
