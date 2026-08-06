@@ -306,7 +306,7 @@
 | Mai Type | okay | 5 | https://www.maitype.xyz | ok |
 | Manic Type | okay | 7 | https://www.manictype.com | ok |
 | Mark Simonson | best | 50 | https://www.marksimonson.com/ | ok |
-| Mark van Leeuwen | okay | 5 | https://markvanleeuwen.nl/ | 5 missing |
+| Mark van Leeuwen | okay | 5 | https://markvanleeuwen.nl/ | 3 missing |
 | Marmite de Fontes | okay | – | https://marmitedefontes.com/ | ok |
 | Mass-Driver | okay | 8 | https://mass-driver.com/ | 1 bad |
 | Maxitype | best | 12 | https://maxitype.com/ | 3 missing |
