@@ -67,7 +67,7 @@
 | Blackletra | okay | 30 | https://blackletra.com | ok |
 | Blanco Letters | okay | 15 | https://www.blancoletters.com/ | 1 missing |
 | Blankids | okay | 10 | https://supply.family/ | 10 missing |
-| Blast Foundry | okay | 12 | https://blast-foundry.com/ | 12 missing |
+| Blast Foundry | okay | 12 | https://blast-foundry.com/ | ok |
 | Blaze Type | best | 110 | https://blazetype.eu/ | ok |
 | Bloom Type | okay | 12 | https://bloomtype.com | 12 bad |
 | Bold Decisions | okay | 17 | https://bold-decisions.biz | 1 bad |
@@ -576,7 +576,6 @@
 | Authentic | shop closed |
 | Bad Type Club | loose tier |
 | Beržulis | site down |
-| Blast Foundry | loose tier |
 | California Type Foundry | domain squatted, gambling-affiliate redirects |
 | Castle Type | old static site, no structured listing |
 | Claude Type | loose tier |
