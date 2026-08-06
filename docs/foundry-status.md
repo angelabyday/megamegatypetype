@@ -383,7 +383,7 @@
 | Phantom Foundry | okay | 7 | http://phantom-foundry.com | ok |
 | Phil's Fonts | notgood | 1 | https://philsfonts.com/ | 1 missing |
 | Philatype | okay | 18 | https://philatype.com/ | 17 missing |
-| Pixelbuddha | okay | 7 | https://supply.family/ | 7 missing |
+| Pixelbuddha | okay | 7 | https://supply.family/ | ok |
 | Pizza Typefaces | okay | 27 | https://typefaces.pizza/ | ok |
 | Plain Form | okay | 8 | https://plain-form.com/ | ok |
 | Plau | okay | 32 | https://plau.co/en/ | 31 bad |
