@@ -264,7 +264,7 @@
 | Keussel Studio | okay | 1 | https://keussel-studio.fonts.xyz/ | 1 missing |
 | Kilotype | okay | 12 | https://kilotype.de/ | ok |
 | Kimera | okay | – | https://kimeracorp.eu | ok |
-| Kind Type Foundry | okay | 3 | https://kindtype.co/ | 3 missing |
+| Kind Type Foundry | okay | 3 | https://kindtype.co/ | 1 missing |
 | Kiosk Fonts | okay | 7 | https://kiosk-fonts.de | 7 missing |
 | Kirjatehnika | okay | 7 | https://www.kirjatehnika.ee | 7 missing |
 | Klim Type Foundry | best | 56 | https://klim.co.nz/ | 1 missing, 1 bad |
