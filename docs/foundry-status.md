@@ -269,7 +269,7 @@
 | Kirjatehnika | okay | 7 | https://www.kirjatehnika.ee | 7 missing |
 | Klim Type Foundry | best | 56 | https://klim.co.nz/ | 1 missing, 1 bad |
 | KOMETA Typefaces | okay | 6 | https://www.kometa.xyz/ | ok |
-| Kontour | okay | 11 | https://kontour.com/ | 11 missing |
+| Kontour | okay | 11 | https://kontour.com/ | ok |
 | Kostic Type | okay | – | https://kostictype.com | ok |
 | Kurppa Hosk Type | okay | 6 | https://khtype.com/ | ok |
 | Kyiv Type Foundry | okay | – | https://kyivtypefoundry.com | ok |
