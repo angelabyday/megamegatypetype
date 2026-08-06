@@ -168,7 +168,7 @@
 | Fateh.Lab | okay | 22 | https://supply.family/ | ok |
 | Fatype | best | 7 | https://fatype.com/ | ok |
 | FDI Type Foundry | okay | 24 | https://fdi-type.de | ok |
-| Febspace Studio | okay | 6 | https://supply.family/ | 6 missing |
+| Febspace Studio | okay | 6 | https://supply.family/ | ok |
 | Feedtype | okay | 14 | https://feedtype.ca | ok |
 | Feliciano Type | okay | 18 | https://felicianotype.com/ | ok |
 | Fer Cozzi | okay | 8 | https://fercozzi.com/ | 1 missing |
