@@ -357,7 +357,7 @@
 | Occupant Fonts | best | 33 | https://occupantfonts.com | ok |
 | Off The Rack | okay | 3 | https://supply.family/ | 3 missing |
 | Off Type | okay | 17 | https://off-type.com/ | ok |
-| OGJ Type Design | okay | 13 | https://ogjtype.com/ | 13 missing |
+| OGJ Type Design | okay | 13 | https://ogjtype.com/ | 4 missing |
 | OH no Type | best | 25 | https://ohnotype.co/ | ok |
 | Okay Type | okay | 5 | http://okaytype.com | ok |
 | Oktnum Type Foundry | okay | 5 | https://supply.family/ | 5 missing |
