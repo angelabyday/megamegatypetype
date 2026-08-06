@@ -136,7 +136,7 @@
 | Displaay Type Foundry | best | 37 | https://displaay.net/ | ok |
 | dito-typo | okay | 4 | https://dito-typo.com/ | 4 missing |
 | DK Type | best | 8 | https://dktype.com/ | ok |
-| Domicile Foundry | okay | 7 | https://domicilefoundry.com | 7 missing |
+| Domicile Foundry | okay | 7 | https://domicilefoundry.com | 1 missing |
 | Dot Colon | okay | 11 | https://dotcolon.net/ | ok |
 | Double Dagger | okay | 14 | https://www.doubledagger.xyz/ | ok |
 | Dreamtype | okay | – | https://dreamtype.xyz | ok |
