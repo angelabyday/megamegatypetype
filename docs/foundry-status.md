@@ -364,7 +364,7 @@
 | Old City Mailroom | okay | 5 | https://www.oldcitymailroom.com/ | 2 bad |
 | Omnibus-Type | okay | 29 | https://www.omnibus-type.com | ok |
 | Open Foundry | okay | 25 | https://open-foundry.com/ | ok |
-| OPS Type | okay | 13 | https://ops-type.com/ | 13 missing |
+| OPS Type | okay | 13 | https://ops-type.com/ | 2 missing |
 | Optimo | best | 28 | https://optimo.ch/ | ok |
 | Or Type | best | 12 | https://ortype.is | 2 bad |
 | Order | okay | 9 | https://order.design/ | ok |
@@ -939,7 +939,6 @@
 | Omse Type | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
 | Op. Cit. Ibid. | type.lol | Via type.lol · Trial fonts available · Not yet scouted |
 | Open Source Publishing | type.lol | Via type.lol · Brussels, Belgium · Not yet scouted |
-| OPS Type | type.lol | Via type.lol · Not yet scouted |
 | OTT — Ornamental & Title Type | type.lol | Via type.lol · Paris, France · Trial fonts available · Not yet scouted |
 | Our House Graphics | type.lol | Via type.lol · Not yet scouted |
 | Out of Step Font Company | type.lol | Via type.lol · Toronto, Canada · Trial fonts available · Not yet scouted |
