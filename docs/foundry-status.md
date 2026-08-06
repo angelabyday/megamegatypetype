@@ -353,7 +353,7 @@
 | November | okay | 7 | https://www.nvmbr.in/ | ok |
 | Nuform Type | okay | 7 | https://nuformtype.com/ | ok |
 | Nymark Type | okay | – | https://www.nymarktype.co | ok |
-| Obrysy | best | 4 | https://obrysy.xyz/ | 4 missing |
+| Obrysy | best | 4 | https://obrysy.xyz/ | ok |
 | Occupant Fonts | best | 33 | https://occupantfonts.com | ok |
 | Off The Rack | okay | 3 | https://supply.family/ | 3 missing |
 | Off Type | okay | 17 | https://off-type.com/ | ok |
