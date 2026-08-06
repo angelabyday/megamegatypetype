@@ -153,7 +153,7 @@
 | Elena Schneider | okay | 4 | https://elenaschneider.com/ | 4 missing |
 | Emtype Foundry | best | 36 | https://emtype.net | ok |
 | EPI | okay | 8 | https://epitype.xyz | ok |
-| Erkin Karamemet | okay | 10 | https://erkinkaramemet.com/ | 10 missing |
+| Erkin Karamemet | okay | 10 | https://erkinkaramemet.com/ | ok |
 | ETC Typefaces | okay | 8 | https://etceteratype.co | 2 missing, 1 bad |
 | Extra Type | okay | 5 | https://extratype.com | ok |
 | Extraset | best | 15 | https://extraset.ch/ | ok |
