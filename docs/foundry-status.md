@@ -251,7 +251,7 @@
 | Jessica Hische | okay | 6 | https://jessicahische.shop/ | ok |
 | Jonas Pelzer | okay | – | http://typefaces.jonaspelzer.com | ok |
 | JP Flexner | okay | 9 | https://www.jpflexner.com/ | ok |
-| JS Type | okay | 3 | https://js-type.fonts.xyz/ | 3 missing |
+| JS Type | okay | 3 | https://js-type.fonts.xyz/ | 1 missing |
 | JTD Type | okay | 13 | https://jtdtype.com | ok |
 | July Type | okay | 8 | https://www.julytype.com | ok |
 | Jung-Lee Type Foundry | okay | 9 | https://j-ltf.com | 9 bad |
