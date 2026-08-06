@@ -611,7 +611,6 @@
 | LIBRE FONTS BY WOMXN | curated resource list, not a foundry |
 | Limitype | JS-rendered, no crawlable listing |
 | Luuse | foundry disbanded 2025; catalogue mirrors third-party open-source fonts |
-| Margot Lévêque Studio | notgood tier |
 | Monolith Foundry | domain dead, redirects to designer's personal free-download page |
 | Monotype | corporate conglomerate, not an independent foundry |
 | MoTyFo | notgood tier |
