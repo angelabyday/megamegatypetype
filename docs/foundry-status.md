@@ -177,7 +177,7 @@
 | Flavia Zimbardi | okay | 10 | https://flaviazim.com/ | 1 missing |
 | Flood Fonts | okay | 14 | https://floodfonts.com/ | ok |
 | Florian Karsten | best | 9 | https://fonts.floriankarsten.com/ | ok |
-| Florian Runge | okay | 4 | https://florianrunge.com/ | 4 missing |
+| Florian Runge | okay | 4 | https://florianrunge.com/ | ok |
 | FOLCH | okay | 7 | https://fontsfromfolch.com/ | 7 missing |
 | Fonderie Bretagne | okay | 23 | https://fonderiebretagne.fr/ | 23 bad |
 | Font Bureau | best | 13 | https://fontbureau.com/ | 13 missing |
