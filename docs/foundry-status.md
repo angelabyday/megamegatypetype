@@ -126,7 +126,7 @@
 | Death of Typography | okay | 7 | https://deathoftypography.com/ | ok |
 | Delta Bravo Type | okay | – | https://www.deltabravotype.com | ok |
 | Delve Fonts | okay | 31 | https://delvefonts.com/ | ok |
-| Denis Serebryakov | best | 5 | https://type.today/en/journal/serebryakov | 5 missing |
+| Denis Serebryakov | best | 5 | https://type.today/en/journal/serebryakov | 3 missing |
 | Dennis Grauel | okay | – | https://dennisgrauel.com | ok |
 | Department of Letters | okay | 4 | https://www.deptofletters.ca | ok |
 | Dharma Type | okay | 128 | https://dharmatype.com/ | ok |
