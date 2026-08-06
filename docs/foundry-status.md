@@ -191,7 +191,7 @@
 | Forgotten Shapes | okay | 9 | https://forgotten-shapes.com/ | ok |
 | Formagari | okay | 10 | https://formagari.com/ | ok |
 | Formerly Known | okay | 6 | https://formerly-known.com/ | ok |
-| Formula Type | okay | 7 | https://www.formulatype.com | 7 missing |
+| Formula Type | okay | 7 | https://www.formulatype.com | ok |
 | Fort Foundry | okay | 40 | https://fortfoundry.com | ok |
 | Foster Type | okay | – | https://www.fostertype.com | ok |
 | Foundry Five | okay | 10 | https://foundryfivetype.com | ok |
