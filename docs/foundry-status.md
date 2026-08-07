@@ -375,7 +375,7 @@
 | Paavola Type | okay | 16 | https://www.paavolatype.com | ok |
 | Pampatype | best | 25 | https://pampatype.com | ok |
 | Pangram Pangram Foundry | best | 110 | https://pangrampangram.com/ | 38 bad |
-| ParaType | best | 9 | https://www.paratype.com/ | 9 missing |
+| ParaType | best | 9 | https://www.paratype.com/ | ok |
 | Patio Foundry | okay | 7 | https://patiofoundry.com/ | ok |
 | Peggo Fonts | okay | 15 | https://peggofonts.com | ok |
 | Peregrin Studio | okay | 3 | https://peregrinstudio.com/ | ok |
