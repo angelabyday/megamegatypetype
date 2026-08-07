@@ -100,7 +100,7 @@
 | Central Type | okay | 12 | https://centraltype.com/ | ok |
 | Character Type | okay | 23 | https://charactertype.com | ok |
 | Charlotte Rohde | okay | 10 | https://www.charlotterohde.de | ok |
-| Chill Type | okay | 2 | https://chilltype.com/ | 2 missing |
+| Chill Type | okay | 2 | https://chilltype.com/ | 1 missing |
 | CJ Type | okay | 4 | http://www.cjtype.com | ok |
 | Claude Type | best | 4 | https://claudetype.com/ | ok |
 | Collletttivo | okay | 16 | https://www.collletttivo.it/ | ok |
