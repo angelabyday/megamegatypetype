@@ -424,7 +424,7 @@
 | Road to Venice Type | okay | 8 | https://www.r-vtype.com | ok |
 | rooomspace creative lab | okay | 216 | https://supply.family/ | 8 missing |
 | Rosetta | okay | 38 | https://rosettatype.com/ | ok |
-| Rüdiger | best | 2 | https://rudiger.fonts.xyz/ | 2 missing |
+| Rüdiger | best | 2 | https://rudiger.fonts.xyz/ | ok |
 | S6 Foundry | okay | 35 | https://www.s6foundry.com/ | 35 bad |
 | Schick Toikka | best | 44 | https://www.schick-toikka.com/ | ok |
 | Schriftlabor | okay | – | https://schriftlabor.at | ok |
