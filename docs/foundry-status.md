@@ -180,7 +180,7 @@
 | Florian Runge | okay | 4 | https://florianrunge.com/ | ok |
 | FOLCH | okay | 7 | https://fontsfromfolch.com/ | 7 missing |
 | Fonderie Bretagne | okay | 23 | https://fonderiebretagne.fr/ | 23 bad |
-| Font Bureau | best | 13 | https://fontbureau.com/ | 13 missing |
+| Font Bureau | best | 13 | https://fontbureau.com/ | 13 missing — site down ("Coming Soon" parked page), all URLs 404 |
 | Font Club Belgica | okay | 6 | https://fontclubbelgica.com | ok |
 | Fontfabric | okay | 55 | https://www.fontfabric.com/ | ok |
 | FontFont | okay | 7 | https://www.fontfont.com/ | 7 missing |
