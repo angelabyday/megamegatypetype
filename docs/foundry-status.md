@@ -10,7 +10,7 @@
 | A Practice for Everyday Life | okay | 6 | https://apracticeforeverydaylife.com/ | ok |
 | A Type of Amigo | best | 12 | https://atypeofamigo.com/ | 1 bad |
 | a.Foundry | best | 8 | https://a-foundry.com/ | ok |
-| A+ | okay | 2 | https://www.futurefonts.com/aplus/ | 2 missing |
+| A+ | okay | 2 | https://www.futurefonts.com/aplus/ | 1 missing |
 | A2-Type | best | 140 | https://a2-type.co.uk/ | 1 bad |
 | ABC Etc Inc | okay | – | http://www.abc-etc.com/ | ok |
 | Abhijit Menon | okay | 1 | https://www.futurefonts.com/abhijit/ | 1 missing |
