@@ -130,7 +130,7 @@
   },
   {
     "name": "DOSS Collection",
-    "url": "https://sharptype.co/typefaces/doss-collection",
+    "url": "https://sharptype.co/typefaces/doss-superfamily",
     "category": "display",
     "subcategory": "Geometric Display",
     "classification_notes": "Unicase display superfamily of four stylistically distinct faces; exaggerated geometric construction with unexpectedly round counterforms; no traditional weight axis — instead nine named stylistic variants across Exaflop (three widths), Acid, Plexus and Problem (four variants including outlined and rounded). Traced to an obscure Hollenstein phototypesetting face by Emeric Dorr, reworked to invert '70s and '80s futurist clichés.",
@@ -1028,7 +1028,7 @@
   },
   {
     "name": "Sharp Earth",
-    "url": "https://sharptype.co/typefaces/sharp-earth",
+    "url": "https://sharptype.co/typefaces/earth-omni-latin",
     "category": "sans-serif",
     "subcategory": "humanist grotesque",
     "classification_notes": "Contemporary sans serif that deliberately resists a single sub-genre; the foundry describes it as drawing on warmth, pragmatism and utility across geometric, grotesque and humanist traditions. Variable font with weight and slant axes. Extensive OpenType feature set including small caps, old-style figures and twelve stylistic sets (ss01–ss12).",
@@ -1138,7 +1138,7 @@
   },
   {
     "name": "Sharp Earth Arabic",
-    "url": "https://sharptype.co/typefaces/sharp-earth-arabic",
+    "url": "https://sharptype.co/typefaces/earth-arabic",
     "category": "sans-serif",
     "subcategory": "Contemporary Arabic Naskh",
     "classification_notes": "Low-contrast Arabic sans drawing on Thuluth calligraphy's boldness and Naskh's rounded legibility. Designed as the Arabic companion to Sharp Earth Latin, sharing its delicately flared terminals, uniform ascender height, and low-contrast construction. Available as a variable font with six named weight stations from Thin to ExtraBold; italics present on all weights except Bold. Rich OpenType feature set includes swash, stylistic sets (ss01–ss05), fractions, figure styles and localized forms. Part of the broader Sharp Earth multi-script superfamily.",
@@ -1233,7 +1233,7 @@
   },
   {
     "name": "Rotina Script",
-    "url": "https://sharptype.co/typefaces/rotina-script",
+    "url": "https://sharptype.co/typefaces/rotina",
     "category": "script",
     "subcategory": "display script",
     "classification_notes": "Rotina Script is the script companion sub-family within Sharp Type's Rotina superfamily, a neo-grotesque system built around a utilitarian base with expressive personality layers. The script letterforms draw from American sign-painting and sports lettering heritage, sharing structural proportions with the Roman and Swash variants but employing flowing, script-style letterforms with moderate contrast. The family sits alongside dozens of sports-themed specialty display styles, reflecting the overall Rotina concept of a workhorse with hidden personality. A Tight width variant provides condensed proportions for headline use.",
@@ -1329,7 +1329,7 @@
   },
   {
     "name": "Rotina Swash",
-    "url": "https://sharptype.co/typefaces/rotina-swash",
+    "url": "https://sharptype.co/typefaces/rotina",
     "category": "display",
     "subcategory": "swash serif",
     "classification_notes": "NOTE: sharptype.co was inaccessible throughout research — the site returns a Vercel Security Checkpoint page for all automated requests (including various browser and crawler user agents), and web search budget was exhausted before retrieval. No third-party databases (FontsInUse, Typewolf, MyFonts, Adobe Fonts, Fontspring, Type Network) carry this face. Details below are drawn from training-data knowledge (cutoff August 2025) and should be manually verified by visiting the live Sharp Type page. Classification as display/swash-serif is based on the typeface name; Sharp Type's known design aesthetic; and the absence of any body-text or grotesque associations. Weights, year, designer, and language support are stated with low confidence and require human review.",
@@ -1493,7 +1493,7 @@
   },
   {
     "name": "Sharp Earth Devanagari",
-    "url": "https://sharptype.co/typefaces/sharp-earth-devanagari",
+    "url": "https://sharptype.co/typefaces/earth-devanagari",
     "category": "sans-serif",
     "subcategory": "geometric sans",
     "classification_notes": "Devanagari companion to the Sharp Earth Latin sans-serif family, designed for cross-script multilingual typesetting. Specific weights, designer credit and release year could not be verified — sharptype.co returned HTTP 429 on all fetch attempts during research, and web search budget was exhausted. Data reflects training knowledge; foundry page should be consulted to confirm weights, designer and year before publication.",
@@ -1528,7 +1528,7 @@
   },
   {
     "name": "Sharp Serif Text",
-    "url": "https://sharptype.co/typefaces/sharp-serif-text",
+    "url": "https://sharptype.co/typefaces/sharp-serif-omni",
     "category": "serif",
     "subcategory": "text serif",
     "classification_notes": "A text-optimised serif from Sharp Type; the \"Text\" designation signals designs calibrated for smaller sizes, with open apertures and moderate contrast suited to sustained reading. Six weights from Thin to Extrabold, each with a companion italic, give it a full workhorse range. Released October 2025, expanding Sharp Type's catalogue beyond their established grotesque and display work.",
@@ -1771,7 +1771,7 @@
   },
   {
     "name": "Sharp Serif Text PanEuro",
-    "url": "https://sharptype.co/typefaces/sharp-serif-text-panEuro",
+    "url": "https://sharptype.co/typefaces/sharp-serif-pan-euro",
     "category": "serif",
     "subcategory": "text serif",
     "classification_notes": "Contemporary text serif drawing explicitly on 15th-century Italian humanist letterforms and French renaissance types – the Venetian and Garalde tradition. Moderate x-height, restrained contrast, optical sizing calibrated for running text. Six weights, Thin through ExtraBold, each with a matching italic. The PanEuro variant extends the character set to Latin (extensive), Cyrillic and Greek scripts.",
@@ -2097,7 +2097,7 @@
   },
   {
     "name": "Centra No.1",
-    "url": "https://sharptype.co/typefaces/centra-no1",
+    "url": "https://sharptype.co/typefaces/centra-no-1",
     "category": "sans-serif",
     "subcategory": "Geometric Sans",
     "classification_notes": "Geometric sans-serif built on optically corrected circular construction. The most formally precise of Sharp Type's three-part Centra system — No.1 prioritises geometric purity and neutral regularity, while No.2 and No.3 introduce progressively more humanist character. Near-monolinear stroke weight, closed apertures, and a restrained personality make it well-suited to branding and editorial work across all scales.",
@@ -2851,7 +2851,7 @@
   },
   {
     "name": "Centra No.2",
-    "url": "https://sharptype.co/typefaces/centra-no2",
+    "url": "https://sharptype.co/typefaces/centra-no-2",
     "category": "sans-serif",
     "subcategory": "geometric sans",
     "classification_notes": "Centra No.2 is a contemporary geometric sans that takes Futura as its formal reference point but resists strict geometric doctrine in favour of texture and readability. Its curvilinear terminals end in rationalist diagonal shears, distinguishing it from sibling Centra No.1's humanist vertical shears. The C letterforms are a deliberate nod to Renner's Futura. Eight weights from Hairline to Black, each with a true italic, totalling 16 styles.",
@@ -2896,7 +2896,7 @@
   },
   {
     "name": "Sharp Sans Display No.1",
-    "url": "https://sharptype.co/typefaces/sharp-sans-display-no1",
+    "url": "https://sharptype.co/typefaces/sharp-sans-display-no-1",
     "category": "sans-serif",
     "subcategory": "geometric",
     "classification_notes": "Geometric sans-serif optimised for display use at large sizes; features higher stroke contrast and more refined optical spacing than its text companion Sharp Sans No.1; draws on mid-century European geometric tradition (Futura lineage) while maintaining Sharp Type's characteristically clean, contemporary approach. The Display designation signals optical tuning for headline and large-format settings rather than body copy.",
@@ -3107,7 +3107,7 @@
   },
   {
     "name": "Sharp Sans Display No.2",
-    "url": "https://sharptype.co/typefaces/sharp-sans-display-no2",
+    "url": "https://sharptype.co/typefaces/sharp-sans-display-no-2",
     "category": "sans-serif",
     "subcategory": "geometric display sans-serif",
     "classification_notes": "One of two display sub-families preserved from the original Sharp Sans design when the family was redrawn in 2016. Geometric in structure with a humanist undertow. Specifically distinguished by drawn true italics rather than obliques, which set it apart from the redesigned Sharp Sans released the same year. Display-optimised spacing and proportions intended for headline and large-scale use.",
