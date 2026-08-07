@@ -437,7 +437,7 @@
 | SilverStag Type | okay | 17 | https://silverstagtype.com/ | ok |
 | Simple Bits | okay | 18 | https://simplebits.shop | ok |
 | Skilline Fonts Co. | okay | 58 | https://supply.family/ | 1 missing |
-| Slanted Hall | okay | 2 | https://slantedhall.com/ | 2 missing |
+| Slanted Hall | okay | 2 | https://slantedhall.com/ | ok |
 | SM | okay | 8 | https://s-m.nu/ | 1 bad |
 | Smeltery | okay | 21 | https://www.smeltery.net | 21 bad |
 | Smuss Type Kiosk | okay | 7 | https://typekiosk.smuss.studio/ | ok |
