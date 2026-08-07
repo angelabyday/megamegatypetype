@@ -2,7 +2,7 @@
 
 | Foundry | Tier | Typefaces | Homepage | Images |
 |---|---|---|---|---|
-| 205TF | okay | 9 | https://www.205.tf/ | 9 missing |
+| 205TF | okay | 9 | https://www.205.tf/ | 1 missing |
 | 29LT | best | 31 | https://www.29lt.com/ | ok |
 | 403TF | okay | 38 | https://supply.family/ | 1 missing |
 | 6TM Magazine | okay | 160 | https://shop.6tm-magazine.com/ | 7 missing |
