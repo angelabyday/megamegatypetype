@@ -314,7 +314,7 @@
 | MCKL | best | 12 | https://mckltype.com | ok |
 | McLetters | best | 23 | https://mcletters.co/ | ok |
 | Metis Foundry | okay | 9 | http://metis-foundry.com | 9 bad |
-| Milieu Grotesque | okay | 5 | https://www.myfonts.com/collections/milieu-grotesque | 5 missing |
+| Milieu Grotesque | okay | 5 | https://www.myfonts.com/collections/milieu-grotesque | ok |
 | Milk Type Foundry | okay | – | http://www.milktypefoundry.co.nz | ok |
 | Mint Type | okay | – | https://minttype.com | ok |
 | Modern Type | okay | 9 | https://www.modern-type.com | ok |
