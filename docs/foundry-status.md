@@ -146,7 +146,7 @@
 | E162 | okay | 26 | http://e162.eu | ok |
 | East of Rome | okay | 14 | https://eastofrome.com/ | ok |
 | ECAL Typefaces | okay | 21 | https://ecal-typefaces.ch/ | ok |
-| Edignwn Type | okay | 1 | https://supply.family/ | 1 missing |
+| Edignwn Type | okay | 1 | https://supply.family/ | ok |
 | Edition Studio | okay | 5 | https://edition.studio | 1 bad |
 | EK Type | best | 12 | https://ektype.in | ok |
 | Element Type | best | 1 | https://elementtype.com/ | 1 missing |
