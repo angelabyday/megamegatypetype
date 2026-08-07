@@ -195,7 +195,7 @@
 | Fort Foundry | okay | 40 | https://fortfoundry.com | ok |
 | Foster Type | okay | – | https://www.fostertype.com | ok |
 | Foundry Five | okay | 10 | https://foundryfivetype.com | ok |
-| FredsFonts | okay | 1 | https://fredsfonts.fonts.xyz/ | 1 missing |
+| FredsFonts | okay | 1 | https://fredsfonts.fonts.xyz/ | ok |
 | Free Faces | okay | 13 | https://www.freefaces.gallery/ | ok |
 | Freight Collection | best | 8 | https://freightcollection.com/ | ok |
 | Frere-Jones | best | 25 | https://frerejones.com | ok |
