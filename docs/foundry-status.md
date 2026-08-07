@@ -298,7 +298,7 @@
 | lo-ol Type | okay | 10 | https://www.lo-ol.design/ | 9 bad |
 | London Type Foundry | okay | – | https://londontype.co.uk | ok |
 | Lost Type Co-op | okay | 69 | http://www.losttype.com/ | 3 missing |
-| Love Letters | okay | 1 | https://love-letters.fonts.xyz/ | 1 missing |
+| Love Letters | okay | 1 | https://love-letters.fonts.xyz/ | ok |
 | LucasFonts | best | 24 | https://www.lucasfonts.com/ | ok |
 | Ludwig | okay | 32 | https://www.ludwigtype.de | ok |
 | Lund Design Co. | okay | 6 | https://supply.family/ | ok |
