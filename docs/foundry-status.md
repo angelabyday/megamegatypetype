@@ -47,7 +47,7 @@
 | Atlas Fonts | okay | 15 | https://www.atlasfonts.com | ok |
 | Atypical | okay | 32 | https://atypical.gr/ | 32 missing |
 | AUTHENTIC | okay | 2 | https://authentic.website/ | 2 missing |
-| Autograph | okay | 3 | https://supply.family/ | 3 missing |
+| Autograph | okay | 3 | https://supply.family/ | ok |
 | Avondale Type Co. | okay | – | https://avondaletypeco.com | ok |
 | b•v-h type | okay | 18 | https://bvhtype.com/ | 5 bad |
 | Badson Type | okay | 9 | https://badsontype.com | 2 bad |
