@@ -340,7 +340,7 @@
 | Newlyn | best | 42 | https://newlyn.com/ | 6 bad |
 | Nguyen Gobber | okay | 9 | https://nguyengobber.com/ | 3 missing |
 | Nice To Type | okay | 21 | https://nicetotype.de/ | 12 bad |
-| Nicolas Desle | okay | 1 | https://supply.family/ | 1 missing |
+| Nicolas Desle | okay | 1 | https://supply.family/ | ok |
 | Nikolas Type | okay | 4 | https://www.nikolastype.com/ | ok |
 | NM Type | okay | 4 | http://nmtype.com | ok |
 | Nodo Type Foundry | okay | 10 | https://nodotypefoundry.com/ | ok |
