@@ -392,7 +392,7 @@
 | Polytype | okay | 6 | https://polytype.co.uk/ | ok |
 | Positype | okay | 13 | https://positype.com | ok |
 | Power Type | best | 8 | https://power-type.com/ | ok |
-| Praktypes | okay | 2 | https://supply.family/ | 2 missing |
+| Praktypes | okay | 2 | https://supply.family/ | ok |
 | Pretend Foundry | okay | – | https://pretendfoundry.com | ok |
 | Primary Foundry | okay | 18 | http://primary-foundry.com | ok |
 | Prioritype | best | 31 | https://prioritypeco.com/ | ok |
