@@ -45,7 +45,7 @@
 | Atelier René Knip | okay | 25 | https://atelierreneknip.com/ | ok |
 | Atipo Foundry | okay | 50 | https://www.atipofoundry.com/ | ok |
 | Atlas Fonts | okay | 15 | https://www.atlasfonts.com | ok |
-| Atypical | okay | 32 | https://atypical.gr/ | 32 missing |
+| Atypical | okay | 32 | https://atypical.gr/ | 7 missing |
 | AUTHENTIC | okay | 2 | https://authentic.website/ | 2 missing |
 | Autograph | okay | 3 | https://supply.family/ | ok |
 | Avondale Type Co. | okay | – | https://avondaletypeco.com | ok |
