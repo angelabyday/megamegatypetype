@@ -527,7 +527,7 @@
 | Typographies.fr | okay | – | http://typographies.fr/ | ok |
 | Typotheque | best | 198 | https://www.typotheque.com/ | ok |
 | Typozon | okay | 6 | https://typozon.xyz/ | ok |
-| U.S. Graphics Company | okay | 1 | https://usgraphics.com/ | 1 missing |
+| U.S. Graphics Company | okay | 1 | https://usgraphics.com/ | ok |
 | U+270D | okay | 10 | https://u270d.eesab.fr/ | 2 bad |
 | Ultra Kuhl | best | – | https://ultra-kuhl.com/ | ok |
 | Uncut | okay | 163 | https://uncut.wtf/ | ok |
