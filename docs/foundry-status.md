@@ -461,7 +461,7 @@
 | Superior Type | okay | 34 | https://superiortype.com/ | ok |
 | Supernulla | okay | 3 | https://supply.family/ | 1 missing |
 | Supertype | okay | 33 | https://supertype.de/ | ok |
-| SWIM Type | okay | 1 | https://supply.family/ | 1 missing |
+| SWIM Type | okay | 1 | https://supply.family/ | ok |
 | Swiss Typefaces | best | 19 | https://www.swisstypefaces.com/ | ok |
 | Synthview | okay | 8 | https://typography.synthview.com/ | 2 missing |
 | Tandem Type | okay | – | https://www.tandemtype.co | ok |
