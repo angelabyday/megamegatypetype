@@ -531,7 +531,7 @@
 | U+270D | okay | 10 | https://u270d.eesab.fr/ | 2 bad |
 | Ultra Kuhl | best | – | https://ultra-kuhl.com/ | ok |
 | Uncut | okay | 163 | https://uncut.wtf/ | ok |
-| Undercase | okay | 5 | https://undercase.xyz/ | 5 missing |
+| Undercase | okay | 5 | https://undercase.xyz/ | ok |
 | Underscore Type | okay | 8 | https://underscoretype.com/ | ok |
 | Underware | best | 17 | https://www.underware.nl | ok |
 | Undt | okay | 1 | https://undt.fonts.xyz/ | ok |
@@ -630,7 +630,6 @@
 | TypeNetwork | reseller platform, not a foundry |
 | Typocopter | domain does not resolve (NXDOMAIN) |
 | UI8 | design asset marketplace, not a type foundry |
-| Undercase Type | notgood tier |
 | Uxum | React SPA, single-product site — not a foundry catalogue |
 | YouWorkForThem | reseller marketplace, not a foundry |
 

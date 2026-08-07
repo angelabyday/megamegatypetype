@@ -627,7 +627,6 @@ export const BLOCKED_FOUNDRIES: { domain: string; name: string; reason: string }
   { domain: "badtype.club", name: "Bad Type Club", reason: "loose tier" },
   { domain: "entravaux.framer.website", name: "En Travaux", reason: "notgood tier" },
   { domain: "overlaptype.com", name: "Overlap Type", reason: "notgood tier" },
-  { domain: "undercase.xyz", name: "Undercase Type", reason: "notgood tier" },
   { domain: "heritagetype.com", name: "Heritage Type Co.", reason: "notgood tier" },
   { domain: "psyops.com", name: "PSY/OPS Type Foundry", reason: "notgood tier" },
   { domain: "motyfo.com", name: "MoTyFo", reason: "notgood tier" },
