@@ -400,7 +400,7 @@
 | Production Type | best | 12 | https://www.productiontype.com/ | ok |
 | Prologue Type | okay | – | https://www.prologuetype.co | ok |
 | Proof of Words | okay | 7 | https://proof-of-words.com | ok |
-| ProtoType Labs | okay | 2 | https://supply.family/ | 2 missing |
+| ProtoType Labs | okay | 2 | https://supply.family/ | ok |
 | PS Type Lab | okay | 50 | https://pstypelab.com | ok |
 | Public Type | okay | – | https://www.publictype.us | ok |
 | Pyte Foundry | okay | 7 | https://thepytefoundry.net | ok |
