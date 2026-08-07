@@ -84,7 +84,7 @@
 | Brutal Types | okay | – | https://www.brutaltypes.com | ok |
 | BTYPE | okay | 6 | https://supply.family/ | ok |
 | Bureau Brut | best | 16 | https://bureaubrut.com/ | ok |
-| BurnType | best | 2 | https://burntype.com/ | 2 missing |
+| BurnType | best | 2 | https://burntype.com/ | ok |
 | Burrow Lab | okay | 2 | https://burrow-lab.fonts.xyz/ | 2 missing |
 | Cake Type | okay | – | https://www.caketype.com | ok |
 | Calame.Bureau | okay | 8 | https://arthurcalame.com/ | 3 missing |
