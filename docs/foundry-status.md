@@ -58,7 +58,7 @@
 | Bastarda | best | 17 | https://bastardatype.com/ | ok |
 | bb-bureau | okay | 27 | https://bb-bureau.fr/ | 26 missing |
 | Beasts of England | okay | 23 | https://beastsofengland.co | ok |
-| Bentype Studio | okay | 1 | https://supply.family/ | 1 missing |
+| Bentype Studio | okay | 1 | https://supply.family/ | ok |
 | Big Fog Foundry | okay | 4 | https://foundry.bigfog.co/ | ok |
 | Bijou Type | okay | 3 | https://bijoutype.com | ok |
 | Binnenland | best | 10 | https://www.binnenland.ch/ | 1 bad |
