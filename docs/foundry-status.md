@@ -178,7 +178,7 @@
 | Flood Fonts | okay | 14 | https://floodfonts.com/ | ok |
 | Florian Karsten | best | 9 | https://fonts.floriankarsten.com/ | ok |
 | Florian Runge | okay | 4 | https://florianrunge.com/ | ok |
-| FOLCH | okay | 7 | https://fontsfromfolch.com/ | 7 missing |
+| FOLCH | okay | 7 | https://fontsfromfolch.com/ | 3 missing |
 | Fonderie Bretagne | okay | 23 | https://fonderiebretagne.fr/ | 23 bad |
 | Font Bureau | best | 13 | https://fontbureau.com/ | 13 missing — site down ("Coming Soon" parked page), all URLs 404 |
 | Font Club Belgica | okay | 6 | https://fontclubbelgica.com | ok |
