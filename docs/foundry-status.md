@@ -432,7 +432,7 @@
 | Sekyra Lab | okay | 12 | https://supply.family/ | 6 missing |
 | Serpentype | okay | 7 | https://www.serpentype.com | ok |
 | Setup Type | okay | 51 | https://www.setuptype.com | 46 bad |
-| Sharp Type | okay | 66 | https://www.sharptype.co/ | 66 missing |
+| Sharp Type | best | 66 | https://www.sharptype.co/ | 66 missing |
 | Signal | best | 18 | https://signalfoundry.com/ | ok |
 | SilverStag Type | okay | 17 | https://silverstagtype.com/ | ok |
 | Simple Bits | okay | 18 | https://simplebits.shop | ok |
