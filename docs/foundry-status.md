@@ -62,7 +62,7 @@
 | Big Fog Foundry | okay | 4 | https://foundry.bigfog.co/ | ok |
 | Bijou Type | okay | 3 | https://bijoutype.com | ok |
 | Binnenland | best | 10 | https://www.binnenland.ch/ | 1 bad |
-| Bitstream | okay | 6 | https://www.monotype.com/ | 6 missing |
+| Bitstream | okay | 6 | https://www.monotype.com/ | 4 missing |
 | Black Foundry | okay | 41 | https://black-foundry.com/ | ok |
 | Blackletra | okay | 30 | https://blackletra.com | ok |
 | Blanco Letters | okay | 15 | https://www.blancoletters.com/ | 1 missing |
