@@ -13,7 +13,7 @@
 | A+ | okay | 2 | https://www.futurefonts.com/aplus/ | 1 missing |
 | A2-Type | best | 140 | https://a2-type.co.uk/ | 1 bad |
 | ABC Etc Inc | okay | – | http://www.abc-etc.com/ | ok |
-| Abhijit Menon | okay | 1 | https://www.futurefonts.com/abhijit/ | 1 missing |
+| Abhijit Menon | okay | 1 | https://www.futurefonts.com/abhijit/ | ok |
 | About Type | okay | 1 | https://abouttype.com/ | 1 missing |
 | Abstract Office | best | 5 | https://abstractoffice.xyz/ | ok |
 | Abyme | okay | 12 | https://www.abyme.net | ok |
