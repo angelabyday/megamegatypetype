@@ -121,7 +121,7 @@
 | Daria Cohen | best | 2 | https://contemporarytype.com/ | 2 missing |
 | David Einwaller | okay | – | https://shop.deinwaller.com | ok |
 | David Jonathan Ross | okay | 29 | https://djr.com/ | 3 bad |
-| Daytona Mess | notgood | 1 | https://daytona-mess.fonts.xyz/ | 1 missing |
+| Daytona Mess | notgood | 1 | https://daytona-mess.fonts.xyz/ | ok |
 | DDOTT | okay | 10 | https://ddott.net/ | ok |
 | Death of Typography | okay | 7 | https://deathoftypography.com/ | ok |
 | Delta Bravo Type | okay | – | https://www.deltabravotype.com | ok |
