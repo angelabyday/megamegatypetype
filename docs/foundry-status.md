@@ -500,7 +500,7 @@
 | Type Department | okay | 24 | https://type-department.com/ | ok |
 | Type Different | okay | 76 | https://www.typedifferent.com | ok |
 | Type Forward | okay | 9 | https://www.typeforward.com/ | 4 bad |
-| Type Mania | okay | 68 | https://supply.family/ | 4 missing |
+| Type Mania | okay | 68 | https://supply.family/ | 3 missing |
 | Type of Feeling | best | 13 | https://typeoffeeling.com/ | ok |
 | Type Salon | okay | 6 | https://type-salon.com | ok |
 | Type-ø-tones | okay | 78 | http://type-o-tones.com | ok |
