@@ -261,7 +261,7 @@
 | Kanon Foundry | okay | – | https://kanonfoundry.com | ok |
 | Karsten Lücke | best | 5 | https://kltf.de/ | ok |
 | Kerns & Cairns | okay | 3 | https://www.kernsandcairns.com | ok |
-| Keussel Studio | okay | 1 | https://keussel-studio.fonts.xyz/ | 1 missing |
+| Keussel Studio | okay | 1 | https://keussel-studio.fonts.xyz/ | ok |
 | Kilotype | okay | 12 | https://kilotype.de/ | ok |
 | Kimera | okay | – | https://kimeracorp.eu | ok |
 | Kind Type Foundry | okay | 3 | https://kindtype.co/ | 1 missing |
