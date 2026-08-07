@@ -333,7 +333,7 @@
 | NaN | best | 26 | https://www.nan.xyz/ | ok |
 | Narrow Type | okay | 12 | https://www.narrowtype.com/ | ok |
 | Ndiscover | okay | – | https://ndiscover.com | ok |
-| Neoflix Studio | okay | 1 | https://supply.family/ | 1 missing |
+| Neoflix Studio | okay | 1 | https://supply.family/ | ok |
 | Netvarec Type | okay | 3 | https://nctype.com/ | 3 missing |
 | Neubau | okay | 12 | https://neubauladen.com/ | 1 missing |
 | Newglyph | okay | 25 | https://newglyph.com | 1 bad |
