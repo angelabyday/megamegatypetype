@@ -558,7 +558,7 @@
 | X Cicéro | okay | 18 | https://xcicero.esad-gv.net/ | ok |
 | XO Type Co | okay | 9 | https://xotype.co | ok |
 | XYZ Type | okay | 9 | https://xyztype.com/ | ok |
-| yasireknc | okay | 2 | https://supply.family/ | 2 missing |
+| yasireknc | okay | 2 | https://supply.family/ | ok |
 | Yeahright Type | okay | 51 | https://yeahrighttype.com/ | ok |
 | Yenty Jap Co | okay | 16 | https://supply.family/ | ok |
 | Yep! Type Foundry | okay | – | https://yeptype.com | ok |
