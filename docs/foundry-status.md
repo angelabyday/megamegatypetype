@@ -235,7 +235,7 @@
 | Hurme Design | okay | 31 | https://hurmedesign.com/ | ok |
 | HvD Fonts | okay | 76 | https://www.hvdfonts.com/ | ok |
 | Hypertype | okay | – | http://hypertype.xyz | ok |
-| Ian Adjeidu | notgood | 5 | https://studioplums.com/ | 5 missing |
+| Ian Adjeidu | notgood | 5 | https://studioplums.com/ | 1 missing |
 | Identity Letters | okay | 36 | https://www.identity-letters.com | ok |
 | In-House Intl | okay | 13 | https://weareinhouse.com | 2 bad |
 | Inari Type | okay | – | https://inaritype.com | ok |
