@@ -319,7 +319,7 @@
 | Mint Type | okay | – | https://minttype.com | ok |
 | Modern Type | okay | 9 | https://www.modern-type.com | ok |
 | Mojomox | okay | 2 | https://fonts.mojomox.com/ | ok |
-| Monkey Type | okay | 13 | https://mnkytype.com/ | 13 missing |
+| Monkey Type | okay | 13 | https://mnkytype.com/ | ok |
 | Monokrom | okay | 18 | https://monokrom.no/ | ok |
 | Moretype | okay | 16 | https://moretype.co.uk/ | ok |
 | Morning Type | okay | – | https://morningtype.com | ok |
