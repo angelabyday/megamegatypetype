@@ -18,7 +18,7 @@
 | Abstract Office | best | 5 | https://abstractoffice.xyz/ | ok |
 | Abyme | okay | 12 | https://www.abyme.net | ok |
 | ÁccentiaType | okay | 1 | https://accentiatype.com/ | 1 missing |
-| AcidType | okay | 2 | https://supply.family/ | 2 missing |
+| AcidType | okay | 2 | https://supply.family/ | ok |
 | Adam Ladd Design | best | 41 | https://ladd-design.com/ | ok |
 | Aeiou Tools | okay | 3 | https://aeiou.tools/ | ok |
 | Aesthetic Type | okay | – | https://aesthetictype.com | ok |
