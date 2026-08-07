@@ -71,8 +71,16 @@ export function FoundriesToggle({
   const [query, setQuery] = useState("");
 
   const active = tab === "indexed" ? indexed : notIndexed;
-  const filtered = query.trim()
-    ? active.filter((f) => f.name.toLowerCase().includes(query.toLowerCase()))
+  const q = query.trim().toLowerCase();
+  const filtered = q
+    ? active
+        .filter((f) => f.name.toLowerCase().includes(q))
+        .sort((a, b) => {
+          const aIdx = a.name.toLowerCase().indexOf(q);
+          const bIdx = b.name.toLowerCase().indexOf(q);
+          if (aIdx !== bIdx) return aIdx - bIdx;
+          return a.name.localeCompare(b.name);
+        })
     : active;
 
   return (
