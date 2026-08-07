@@ -242,7 +242,7 @@
 | Increments | okay | 3 | https://www.increments.cc/ | ok |
 | Indian Type Foundry | okay | 28 | https://www.indiantypefoundry.com/ | ok |
 | Inhouse Type | okay | 32 | https://inhousetype.com/ | ok |
-| Interval Type | best | 22 | https://intervaltype.com/ | 1 missing |
+| Interval Type | best | 22 | https://intervaltype.com/ | ok |
 | Itemzero | okay | – | https://shop.itemzero.com | ok |
 | Ivy Foundry | okay | 13 | https://ivyfoundry.com | ok |
 | J Foundry | okay | 11 | https://jfoundry.com | ok |
