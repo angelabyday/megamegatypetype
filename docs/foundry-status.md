@@ -534,7 +534,7 @@
 | Undercase | okay | 5 | https://undercase.xyz/ | 5 missing |
 | Underscore Type | okay | 8 | https://underscoretype.com/ | ok |
 | Underware | best | 17 | https://www.underware.nl | ok |
-| Undt | okay | 1 | https://undt.fonts.xyz/ | 1 missing |
+| Undt | okay | 1 | https://undt.fonts.xyz/ | ok |
 | Unio Designs | okay | 12 | https://supply.family/ | ok |
 | Ursa Minor | okay | 1 | https://ursaminor.xyz | ok |
 | URW Type Foundry | okay | 12 | https://www.urwtype.com/ | 7 missing |
