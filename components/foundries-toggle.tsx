@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 export type FoundryEntry = {
   slug: string;
@@ -69,6 +69,20 @@ export function FoundriesToggle({
 }) {
   const [tab, setTab] = useState<"indexed" | "not-indexed">("indexed");
   const [query, setQuery] = useState("");
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  // The input is deliberately uncontrolled (defaultValue, not value): if a
+  // controlled input's `value` prop is still "" when React hydrates, React
+  // resets the DOM back to that "" during hydration, silently wiping out
+  // anything the user typed in the pre-hydration window - the box then
+  // looks like it has text but never filters. Reading .value in onChange
+  // (and once on mount, in case a keystroke landed with no event) sidesteps
+  // that entirely.
+  useEffect(() => {
+    const typed = inputRef.current?.value ?? "";
+    if (typed !== query) setQuery(typed);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const active = tab === "indexed" ? indexed : notIndexed;
   const q = query.trim().toLowerCase();
@@ -109,8 +123,9 @@ export function FoundriesToggle({
           </button>
         </div>
         <input
+          ref={inputRef}
           type="search"
-          value={query}
+          defaultValue=""
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Search foundries…"
           className="h-9 w-full sm:w-56 rounded-full border-[0.5px] border-border bg-background px-4 text-sm outline-none placeholder:text-muted-foreground focus:border-foreground/40"
