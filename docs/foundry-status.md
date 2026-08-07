@@ -161,7 +161,7 @@
 | Fable | best | 9 | https://fable.design/ | ok |
 | Facetype | okay | 1 | http://www.facetype.org | ok |
 | Faire Type | best | 6 | https://www.fairetype.com/ | ok |
-| Familiar Faces | okay | 1 | https://familiarfaces.xyz | 1 missing |
+| Familiar Faces | okay | 1 | https://familiarfaces.xyz | ok |
 | Family Type | best | 6 | https://familytype.co/ | ok |
 | Famira Fonts | okay | 10 | https://store.typenetwork.com/ | ok |
 | Fantasia Type | okay | – | https://www.fantasia-type.com | ok |
