@@ -292,7 +292,7 @@
 | Lettersoup | okay | – | https://www.lettersoup.de | ok |
 | Lewis McGuffie | okay | 2 | https://www.lewismcguffie.com/ | ok |
 | Lift Type | best | 18 | https://www.lift-type.fr/ | 1 bad |
-| limitype | notgood | 48 | https://limitype.com/ | 48 missing |
+| limitype | notgood | 48 | https://limitype.com/ | ok |
 | Lineto | best | 92 | https://lineto.com/ | ok |
 | Linotype | okay | 12 | https://www.linotype.com/ | 5 missing |
 | lo-ol Type | okay | 10 | https://www.lo-ol.design/ | 9 bad |
@@ -572,7 +572,6 @@
 | Adobe Originals | corporate in-house type programme, not an independent foundry — scope question, same as Monotype |
 | Aeonik | redirects to CoType; CoType is JS-rendered |
 | ATK Studio | Gumroad store dead, 404 on all products |
-| ATYPICAL | loose tier |
 | Authentic | shop closed |
 | Bad Type Club | loose tier |
 | Beržulis | site down |
@@ -609,7 +608,6 @@
 | Langustefonts | personal lettering portfolio, no catalogue or pricing |
 | Letterhead Fonts | notgood tier |
 | LIBRE FONTS BY WOMXN | curated resource list, not a foundry |
-| Limitype | JS-rendered, no crawlable listing |
 | Luuse | foundry disbanded 2025; catalogue mirrors third-party open-source fonts |
 | Monolith Foundry | domain dead, redirects to designer's personal free-download page |
 | Monotype | corporate conglomerate, not an independent foundry |
@@ -634,7 +632,6 @@
 | UI8 | design asset marketplace, not a type foundry |
 | Undercase Type | notgood tier |
 | Uxum | React SPA, single-product site — not a foundry catalogue |
-| VTF (Velvetyne) | notgood tier |
 | YouWorkForThem | reseller marketplace, not a foundry |
 
 ## To Do
