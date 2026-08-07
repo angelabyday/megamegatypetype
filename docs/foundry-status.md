@@ -226,7 +226,7 @@
 | HEX | okay | – | https://hex.xyz/ | ok |
 | Hipertipo | okay | 7 | https://www.hipertipo.com | ok |
 | Hoefler & Co | notgood | 45 | https://www.typography.com/ | ok |
-| Holdon Type | okay | 2 | https://www.holdontype.design/ | 2 missing |
+| Holdon Type | okay | 2 | https://www.holdontype.design/ | 1 missing |
 | HolisFonts | okay | 3 | https://supply.family/ | ok |
 | Hora Nocte | okay | 2 | https://supply.family/ | 2 missing |
 | Hot Type | best | 9 | https://hottype.co/ | ok |
