@@ -213,7 +213,7 @@
 | Good Type Foundry | okay | 23 | https://goodtypefoundry.com/ | ok |
 | Google Fonts | okay | 1945 | https://fonts.google.com/ | 4 bad |
 | Gradient | okay | 10 | https://wearegradient.net/ | ok |
-| Gridlounge Studio | okay | 2 | https://supply.family/ | 2 missing |
+| Gridlounge Studio | okay | 2 | https://supply.family/ | ok |
 | Grilli Type | best | 21 | https://www.grillitype.com/ | ok |
 | Groteskly Yours | best | 13 | https://groteskly.xyz/ | ok |
 | Gruppo Due | okay | 6 | https://gruppo-due.com | ok |
