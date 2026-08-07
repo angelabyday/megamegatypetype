@@ -539,7 +539,7 @@
 | Ursa Minor | okay | 1 | https://ursaminor.xyz | ok |
 | URW Type Foundry | okay | 12 | https://www.urwtype.com/ | 7 missing |
 | Vectro | okay | 8 | https://www.vectrotype.com/ | ok |
-| Velvetyne | okay | 42 | https://velvetyne.fr/ | 42 missing |
+| Velvetyne | okay | 42 | https://velvetyne.fr/ | 4 missing |
 | Very Cool Studio | okay | 1 | https://verycoolstudio.com/ | 1 bad |
 | Vibrant Types | okay | – | https://www.vibrant-types.com/ | ok |
 | Victoria Rushton | okay | – | https://victoriarushton.com | ok |
