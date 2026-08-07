@@ -446,7 +446,7 @@
 | Softulka | okay | 9 | https://supply.family/ | ok |
 | Source Type | best | 1 | https://www.sourcetype.com/ | ok |
 | Souvenir Typefaces | best | 2 | https://souvenirtypefaces.xyz/ | ok |
-| Spaghetype | okay | 1 | https://www.spaghetype.com | 1 missing |
+| Spaghetype | okay | 1 | https://www.spaghetype.com | ok |
 | Standard Type Foundry | okay | – | https://www.standardtypefoundry.com | ok |
 | Store Norske Skriftkompani | okay | 37 | https://skriftkompani.no/ | ok |
 | Storm Type Foundry | best | 129 | https://www.stormtype.com/ | ok |
