@@ -218,7 +218,7 @@
 | Groteskly Yours | best | 13 | https://groteskly.xyz/ | ok |
 | Gruppo Due | okay | 6 | https://gruppo-due.com | ok |
 | Güneş Muhittin | okay | 6 | https://www.gunesmuhittin.com/ | ok |
-| Hadrien Herzog | okay | 1 | https://hadrien-herzog.fonts.xyz/ | 1 missing |
+| Hadrien Herzog | okay | 1 | https://hadrien-herzog.fonts.xyz/ | ok |
 | HAL Typefaces | okay | 9 | https://type.hanli.eu/ | 8 missing |
 | Hard Type | okay | – | https://hardtype.xyz | ok |
 | Heavyweight | okay | 9 | https://heavyweight-type.com/ | ok |
