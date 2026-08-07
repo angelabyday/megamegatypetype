@@ -323,7 +323,7 @@
 | Monokrom | okay | 18 | https://monokrom.no/ | ok |
 | Moretype | okay | 16 | https://moretype.co.uk/ | ok |
 | Morning Type | okay | – | https://morningtype.com | ok |
-| Morula Type | best | 1 | https://morula-type.fonts.xyz/ | 1 missing |
+| Morula Type | best | 1 | https://morula-type.fonts.xyz/ | ok |
 | Mota Italic | okay | 21 | https://www.motaitalic.com | ok |
 | Muccatypo | okay | 8 | https://muccatypo.com | ok |
 | Muirmcneil | okay | 51 | http://www.muirmcneil.com | 2 bad |
