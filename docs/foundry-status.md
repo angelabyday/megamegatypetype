@@ -228,7 +228,7 @@
 | Hoefler & Co | notgood | 45 | https://www.typography.com/ | ok |
 | Holdon Type | okay | 2 | https://www.holdontype.design/ | 1 missing |
 | HolisFonts | okay | 3 | https://supply.family/ | ok |
-| Hora Nocte | okay | 2 | https://supply.family/ | 2 missing |
+| Hora Nocte | okay | 2 | https://supply.family/ | ok |
 | Hot Type | best | 9 | https://hottype.co/ | ok |
 | House Industries | best | 64 | https://housefonts.com/ | ok |
 | Hungarumlaut | okay | 8 | https://hungarumlaut.com | ok |
