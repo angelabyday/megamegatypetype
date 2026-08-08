@@ -10,20 +10,20 @@
 | A Practice for Everyday Life | okay | 6 | https://apracticeforeverydaylife.com/ | ok |
 | A Type of Amigo | best | 12 | https://atypeofamigo.com/ | 1 bad |
 | a.Foundry | best | 8 | https://a-foundry.com/ | ok |
-| A+ | okay | 2 | https://www.futurefonts.com/aplus/ | 1 missing |
+| A+ | okay | 2 | https://www.futurefonts.com/aplus/ | ok |
 | A2-Type | best | 140 | https://a2-type.co.uk/ | 1 bad |
 | ABC Etc Inc | okay | – | http://www.abc-etc.com/ | ok |
 | Abhijit Menon | okay | 1 | https://www.futurefonts.com/abhijit/ | ok |
 | About Type | okay | 1 | https://abouttype.com/ | ok |
 | Abstract Office | best | 5 | https://abstractoffice.xyz/ | ok |
 | Abyme | okay | 12 | https://www.abyme.net | ok |
-| ÁccentiaType | okay | 1 | https://accentiatype.com/ | 1 missing |
+| ÁccentiaType | okay | 1 | https://accentiatype.com/ | ok |
 | AcidType | okay | 2 | https://supply.family/ | ok |
 | Adam Ladd Design | best | 41 | https://ladd-design.com/ | ok |
 | Aeiou Tools | okay | 3 | https://aeiou.tools/ | ok |
 | Aesthetic Type | okay | – | https://aesthetictype.com | ok |
-| AinsiFont | okay | 13 | https://www.ainsifont.com/ | 1 missing |
-| Aiyari Studio | okay | 36 | https://aiyaristudio.com/ | 3 missing |
+| AinsiFont | okay | 13 | https://www.ainsifont.com/ | ok |
+| Aiyari Studio | okay | 36 | https://aiyaristudio.com/ | ok |
 | Alexandre Créquer | okay | 7 | https://www.alex-creq.com/ | ok |
 | AlfaType Fonts Foundry | okay | 2 | https://www.alfatypefonts.com/ | 2 missing |
 | Alias | okay | 14 | https://alias.fonts.xyz/ | ok |
@@ -31,7 +31,7 @@
 | Almarena | best | 9 | https://almarenafoundry.com/ | ok |
 | ALT.tf | okay | 11 | https://alt-tf.com/ | ok |
 | Amorfa Type | okay | 37 | https://supply.family/ | ok |
-| Anton Koovit | best | 9 | https://antonkoovit.com/ | 2 missing |
+| Anton Koovit | best | 9 | https://antonkoovit.com/ | 1 missing |
 | Antonin Bertrand | okay | 1 | https://antoninbertrand.com/ | 1 missing |
 | Any-Type® Foundry | okay | 18 | https://supply.family/ | ok |
 | Apex Foundry | okay | 10 | https://www.apextypefoundry.com/ | ok |
@@ -63,7 +63,7 @@
 | Binnenland | best | 10 | https://www.binnenland.ch/ | 1 bad |
 | Black Foundry | okay | 41 | https://black-foundry.com/ | ok |
 | Blackletra | okay | 30 | https://blackletra.com | ok |
-| Blanco Letters | okay | 15 | https://www.blancoletters.com/ | 1 missing |
+| Blanco Letters | okay | 15 | https://www.blancoletters.com/ | ok |
 | Blankids | okay | 10 | https://supply.family/ | ok |
 | Blast Foundry | okay | 12 | https://blast-foundry.com/ | ok |
 | Blaze Type | best | 110 | https://blazetype.eu/ | ok |
@@ -85,7 +85,7 @@
 | BurnType | best | 2 | https://burntype.com/ | ok |
 | Burrow Lab | okay | 2 | https://burrow-lab.fonts.xyz/ | 1 missing |
 | Cake Type | okay | – | https://www.caketype.com | ok |
-| Calame.Bureau | okay | 8 | https://arthurcalame.com/ | 3 missing |
+| Calame.Bureau | okay | 8 | https://arthurcalame.com/ | ok |
 | Calderón | best | 11 | https://www.estudiocalderon.com/ | ok |
 | Camelot | best | 9 | https://camelot-typefaces.com/ | ok |
 | Canada Type | best | 15 | https://canadatype.com/ | 15 missing |
@@ -98,7 +98,7 @@
 | Central Type | okay | 12 | https://centraltype.com/ | ok |
 | Character Type | okay | 23 | https://charactertype.com | ok |
 | Charlotte Rohde | okay | 10 | https://www.charlotterohde.de | ok |
-| Chill Type | okay | 2 | https://chilltype.com/ | 1 missing |
+| Chill Type | okay | 2 | https://chilltype.com/ | ok |
 | CJ Type | okay | 4 | http://www.cjtype.com | ok |
 | Claude Type | best | 4 | https://claudetype.com/ | ok |
 | Collletttivo | okay | 16 | https://www.collletttivo.it/ | ok |
@@ -134,7 +134,7 @@
 | Displaay Type Foundry | best | 37 | https://displaay.net/ | ok |
 | dito-typo | okay | 4 | https://dito-typo.com/ | ok |
 | DK Type | best | 8 | https://dktype.com/ | ok |
-| Domicile Foundry | okay | 7 | https://domicilefoundry.com | 1 missing |
+| Domicile Foundry | okay | 7 | https://domicilefoundry.com | ok |
 | Dot Colon | okay | 11 | https://dotcolon.net/ | ok |
 | Double Dagger | okay | 14 | https://www.doubledagger.xyz/ | ok |
 | Dreamtype | okay | – | https://dreamtype.xyz | ok |
@@ -148,7 +148,7 @@
 | Edition Studio | okay | 5 | https://edition.studio | 1 bad |
 | EK Type | best | 12 | https://ektype.in | ok |
 | Element Type | best | 1 | https://elementtype.com/ | 1 missing |
-| Elena Schneider | okay | 4 | https://elenaschneider.com/ | 1 missing |
+| Elena Schneider | okay | 4 | https://elenaschneider.com/ | ok |
 | Emtype Foundry | best | 36 | https://emtype.net | ok |
 | EPI | okay | 8 | https://epitype.xyz | ok |
 | Erkin Karamemet | okay | 10 | https://erkinkaramemet.com/ | ok |
@@ -172,7 +172,7 @@
 | Fer Cozzi | okay | 8 | https://fercozzi.com/ | 1 missing |
 | Finaltype | okay | – | https://finaltype.de | ok |
 | Flatface Type | okay | 1 | https://supply.family/ | ok |
-| Flavia Zimbardi | okay | 10 | https://flaviazim.com/ | 1 missing |
+| Flavia Zimbardi | okay | 10 | https://flaviazim.com/ | ok |
 | Flood Fonts | okay | 14 | https://floodfonts.com/ | ok |
 | Florian Karsten | best | 9 | https://fonts.floriankarsten.com/ | ok |
 | Florian Runge | okay | 4 | https://florianrunge.com/ | ok |
@@ -232,7 +232,7 @@
 | Hurme Design | okay | 31 | https://hurmedesign.com/ | ok |
 | HvD Fonts | okay | 76 | https://www.hvdfonts.com/ | ok |
 | Hypertype | okay | – | http://hypertype.xyz | ok |
-| Ian Adjeidu | notgood | 5 | https://studioplums.com/ | 1 missing |
+| Ian Adjeidu | notgood | 5 | https://studioplums.com/ | ok |
 | Identity Letters | okay | 36 | https://www.identity-letters.com | ok |
 | In-House Intl | okay | 13 | https://weareinhouse.com | 2 bad |
 | Inari Type | okay | – | https://inaritype.com | ok |
@@ -278,7 +278,7 @@
 | Laura Worthington Design | okay | 55 | https://lauraworthingtondesign.com | ok |
 | Lazydogs Typefoundry | okay | 16 | https://lazydogs.de/ | 1 missing |
 | Leinster Type | best | 7 | https://www.leinstertype.com/ | ok |
-| Lena Weber | notgood | 3 | https://www.monomodular.de/ | 1 missing |
+| Lena Weber | notgood | 3 | https://www.monomodular.de/ | ok |
 | Léon Hugues | okay | 10 | https://leon-hugues.fonts.xyz/ | ok |
 | Letterjuice | okay | 7 | http://letterjuice.cat/ | ok |
 | Lettermatic | okay | 4 | https://lettermatic.com/ | ok |
@@ -331,10 +331,10 @@
 | Narrow Type | okay | 12 | https://www.narrowtype.com/ | ok |
 | Ndiscover | okay | – | https://ndiscover.com | ok |
 | Neoflix Studio | okay | 1 | https://supply.family/ | ok |
-| Neubau | okay | 12 | https://neubauladen.com/ | 1 missing |
+| Neubau | okay | 12 | https://neubauladen.com/ | ok |
 | Newglyph | okay | 25 | https://newglyph.com | 1 bad |
 | Newlyn | best | 42 | https://newlyn.com/ | 6 bad |
-| Nguyen Gobber | okay | 9 | https://nguyengobber.com/ | 3 missing |
+| Nguyen Gobber | okay | 9 | https://nguyengobber.com/ | ok |
 | Nice To Type | okay | 21 | https://nicetotype.de/ | 12 bad |
 | Nicolas Desle | okay | 1 | https://supply.family/ | ok |
 | Nikolas Type | okay | 4 | https://www.nikolastype.com/ | ok |
@@ -360,7 +360,7 @@
 | Old City Mailroom | okay | 5 | https://www.oldcitymailroom.com/ | 2 bad |
 | Omnibus-Type | okay | 29 | https://www.omnibus-type.com | ok |
 | Open Foundry | okay | 25 | https://open-foundry.com/ | ok |
-| OPS Type | okay | 13 | https://ops-type.com/ | 2 missing |
+| OPS Type | okay | 13 | https://ops-type.com/ | ok |
 | Optimo | best | 28 | https://optimo.ch/ | ok |
 | Or Type | best | 12 | https://ortype.is | 2 bad |
 | Order | okay | 9 | https://order.design/ | ok |
@@ -403,14 +403,14 @@
 | Radim Pesko | okay | 21 | https://radimpesko.com/ | ok |
 | Radluka | okay | – | https://www.radluka.com | ok |
 | Ragamkata Studio | okay | 27 | https://supply.family/ | ok |
-| Rasmus Andersson | best | 2 | https://rsms.me/ | 2 missing |
+| Rasmus Andersson | best | 2 | https://rsms.me/ | ok |
 | Razzia Type | okay | 5 | https://www.razziatype.com | ok |
 | Regular Bold Italic | okay | 11 | https://regularbolditalic.com/ | ok |
 | Regular Lines Type Foundry | okay | 5 | https://www.regularlines.com/ | ok |
 | Rellence | okay | 28 | https://rellence.com/ | 15 missing |
 | Renegadefonts | okay | 9 | https://www.renegadefonts.com/ | 7 missing |
 | Reset Type Studio | okay | 8 | https://reset-type.com/ | ok |
-| Resistenza Type | okay | 94 | https://www.resistenza.es/ | 1 missing |
+| Resistenza Type | okay | 94 | https://www.resistenza.es/ | ok |
 | RetroSupply Co. | okay | 16 | https://www.retrosupply.co/ | 16 missing |
 | Retype | okay | 22 | https://www.re-type.com | ok |
 | Revolver Type Foundry | okay | 14 | https://www.revolvertype.com/ | ok |
@@ -446,7 +446,7 @@
 | Store Norske Skriftkompani | okay | 37 | https://skriftkompani.no/ | ok |
 | Storm Type Foundry | best | 129 | https://www.stormtype.com/ | ok |
 | Studio Feixen Fonts | okay | 7 | https://fonts.studiofeixen.ch/ | ok |
-| Studio Few | okay | 10 | https://supply.family/ | 1 missing |
+| Studio Few | okay | 10 | https://supply.family/ | ok |
 | Studio Rene Bieder | best | 28 | https://www.renebieder.com/ | ok |
 | Studio Sascha Bente | okay | 9 | https://saschabente.com/ | ok |
 | Studio Triple | okay | 16 | https://studiotriple.fr/ | ok |
@@ -458,10 +458,10 @@
 | Supertype | okay | 33 | https://supertype.de/ | ok |
 | SWIM Type | okay | 1 | https://supply.family/ | ok |
 | Swiss Typefaces | best | 19 | https://www.swisstypefaces.com/ | ok |
-| Synthview | okay | 8 | https://typography.synthview.com/ | 2 missing |
+| Synthview | okay | 8 | https://typography.synthview.com/ | ok |
 | Tandem Type | okay | – | https://www.tandemtype.co | ok |
 | Taylor Penton | best | 65 | https://www.taylorpenton.com/ | ok |
-| Teaser | notgood | 1 | https://teaser.fonts.xyz/ | 1 missing |
+| Teaser | notgood | 1 | https://teaser.fonts.xyz/ | ok |
 | Teeline Fonts | okay | – | https://teelinefonts.com | ok |
 | Tegamitype | okay | 9 | https://tegamitype.com | ok |
 | Terminal Design | okay | 33 | https://www.terminaldesign.com/ | 1 missing |
@@ -509,7 +509,7 @@
 | Typemanufactur | okay | 20 | https://www.typemanufactur.com/en | ok |
 | TypeMates | okay | 49 | https://www.typemates.com/ | 46 bad |
 | Typeóca | okay | – | https://typeoca.com/ | ok |
-| Typeparties | okay | 32 | https://supply.family/ | 2 missing |
+| Typeparties | okay | 32 | https://supply.family/ | ok |
 | Typerepublic | okay | 29 | https://typerepublic.com | ok |
 | Typespec | best | 13 | https://typespec.co.uk/ | ok |
 | TypeThis!Studio | okay | 19 | https://www.typethis.studio/ | ok |
@@ -544,7 +544,7 @@
 | W Type Foundry | okay | 63 | https://wtypefoundry.com | ok |
 | Wabi Sabi Type | okay | 21 | https://wabisabitypeshop.com/ | ok |
 | Walden Font Co. | okay | – | https://www.waldenfont.com | ok |
-| We Love Fonts | notgood | 7 | https://we-love-fonts.fonts.xyz/ | 2 missing |
+| We Love Fonts | notgood | 7 | https://we-love-fonts.fonts.xyz/ | ok |
 | Weekend Type | okay | 9 | https://weekendtype.xyz/ | ok |
 | WELTKERN | okay | 8 | https://www.weltkern.com/ | ok |
 | WiseType | okay | 8 | https://wisetype.nl/ | ok |
