@@ -35,7 +35,12 @@ stealthChromium.use(StealthPlugin());
 // Matches the vision rejection reason (or a bare page title) when a bot-protection
 // challenge was captured instead of the real page — worth one retry through a
 // stealth-patched browser rather than accepting it as a plain miss.
-const BOT_BLOCK_RE = /cloudflare|just a moment|attention required|verify you are human|checking your browser|access denied/i;
+// Matched against the *vision verdict text*, not page HTML, so it has to cover
+// how the model describes a challenge screen as well as the vendor wording on
+// it. Canada Type (403s a plain request) was reported as "Security verification
+// page" / "Error page" on all 13 typefaces and never qualified for the stealth
+// retry, because the old pattern only knew Cloudflare's own phrasing.
+const BOT_BLOCK_RE = /cloudflare|just a moment|attention required|verify you are human|checking your browser|access denied|security verification|human verification|verification page|captcha|forbidden|rate limit/i;
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const OUT_DIR = join(root, "public", "specimens");
@@ -661,12 +666,22 @@ async function main() {
 
     // 3. Screenshot (always runs when --screenshots-only; fallback otherwise).
     // Use position "top" so the hero area fills the frame rather than being cropped from centre.
-    // Validated like the page-image; one retry with extra waits.
-    for (let attempt = 0; attempt < 2; attempt++) {
+    // Validated like the page-image; one retry with extra waits, then two scrolled
+    // attempts. The scroll pass exists for shops that stack a promo bar, nav and
+    // breadcrumb above the fold (RetroSupply is the clearest case — its 13 misses
+    // were all "sale popup obscures typeface", which was really just the top of
+    // the page being chrome rather than specimen). Scrolling a screenful at a time
+    // pushes that chrome out of frame and lands on the actual specimen.
+    const SCROLL_STEPS = [0, 0, 700, 1400];
+    for (let attempt = 0; attempt < SCROLL_STEPS.length; attempt++) {
       if (attempt === 1) {
         await dismissCookies(page);
         await page.evaluate(() => document.fonts?.ready).catch(() => {});
         await page.waitForTimeout(2500);
+      }
+      if (SCROLL_STEPS[attempt] > 0) {
+        await page.evaluate((y) => window.scrollTo(0, y), SCROLL_STEPS[attempt]).catch(() => {});
+        await page.waitForTimeout(600);
       }
       const buf = await page.screenshot({ type: "png" });
       const webp = await processWebp(buf, "top");
@@ -679,6 +694,7 @@ async function main() {
       }
       lastReason = verdict.reason;
     }
+    await page.evaluate(() => window.scrollTo(0, 0)).catch(() => {});
 
     return { ok: false, reason: lastReason, botBlocked: BOT_BLOCK_RE.test(lastReason ?? "") };
   }
