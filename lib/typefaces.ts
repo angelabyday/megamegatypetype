@@ -348,7 +348,8 @@ import elementType from "@/data/typefaces-element-type.json";
 import maxitype from "@/data/typefaces-maxitype.json";
 import serebryakov from "@/data/typefaces-serebryakov.json";
 import retrosupplyCo from "@/data/typefaces-retrosupply-co.json";
-import bitstream from "@/data/typefaces-bitstream.json";
+// Bitstream removed 2026-08-08: Monotype-owned legacy brand, same scope
+// exclusion as Monotype itself (see BLOCKED_FOUNDRIES in lib/foundry-map.ts).
 
 // Batch 28 — Latinotype
 import latinotype from "@/data/typefaces-latinotype.json";
@@ -962,7 +963,6 @@ export function getAllTypefaces(): Typeface[] {
         maxitype,
         serebryakov,
         retrosupplyCo,
-        bitstream,
         // Batch 24 — recent additions
         aboutType,
         alias,

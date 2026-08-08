@@ -61,7 +61,6 @@
 | Big Fog Foundry | okay | 4 | https://foundry.bigfog.co/ | ok |
 | Bijou Type | okay | 3 | https://bijoutype.com | ok |
 | Binnenland | best | 10 | https://www.binnenland.ch/ | 1 bad |
-| Bitstream | okay | 5 | https://www.monotype.com/ | 3 missing |
 | Black Foundry | okay | 41 | https://black-foundry.com/ | ok |
 | Blackletra | okay | 30 | https://blackletra.com | ok |
 | Blanco Letters | okay | 15 | https://www.blancoletters.com/ | 1 missing |
@@ -570,6 +569,7 @@
 | ATK Studio | Gumroad store dead, 404 on all products |
 | Authentic | shop closed |
 | Bad Type Club | loose tier |
+| Bitstream | removed 2026-08-08 — Monotype-owned legacy brand, same scope exclusion as Monotype itself |
 | Beržulis | site down |
 | California Type Foundry | domain squatted, gambling-affiliate redirects |
 | Castle Type | old static site, no structured listing |
