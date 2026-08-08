@@ -218,6 +218,28 @@ const COOKIE_SELECTORS = [
 // Text patterns for buttons that CSS selectors miss
 const COOKIE_TEXT_RE = /^(accept( all( cookies)?)?|agree|ok|got it|i agree|allow( all)?|yes( please)?)$/i;
 
+// Marketing/newsletter modals, which are a separate problem from consent walls:
+// they appear on a timer *after* load, cover the page centre, and have a close
+// affordance rather than an accept button, so none of the cookie handling above
+// touches them. Klaviyo is the common one on Shopify storefronts — RetroSupply's
+// "Summer Sale" overlay is a Klaviyo form, and it accounted for all 13 of that
+// foundry's misses.
+const POPUP_SELECTORS = [
+  ".klaviyo-close-form",
+  'button[aria-label*="close dialog" i]',
+  'button[aria-label*="close modal" i]',
+  'button[aria-label*="close popup" i]',
+  '[class*="popup"] button[class*="close"]',
+  '[class*="modal"] button[class*="close"]',
+  '[class*="newsletter"] button[class*="close"]',
+  "button.mfp-close",
+  "button.fancybox-close-small",
+];
+
+// Close-button glyphs and dismissal wording, for modals whose close control
+// carries no usable class or aria-label.
+const POPUP_TEXT_RE = /^(×|✕|✖|x|close|no thanks|no,? thanks|not now|maybe later|dismiss)$/i;
+
 function loadTypefaces() {
   const dataDir = join(root, "data");
   const files = readdirSync(dataDir).filter((f) => f.startsWith("typefaces-") && f.endsWith(".json"));
@@ -424,14 +446,23 @@ async function dismissCookies(page) {
   for (const sel of COOKIE_SELECTORS) {
     await page.locator(sel).first().click({ timeout: 400 }).catch(() => {});
   }
-  // Text-based pass — finds visible buttons whose full text matches the accept pattern
+  // Marketing/newsletter modal pass — a different overlay class to consent walls,
+  // so it gets its own selectors and its own text pattern (close glyphs and
+  // dismissal wording rather than accept wording).
+  for (const sel of POPUP_SELECTORS) {
+    await page.locator(sel).first().click({ timeout: 400 }).catch(() => {});
+  }
+
+  // Text-based pass — finds visible buttons whose full text matches either the
+  // accept pattern or a close/dismiss pattern. Deliberately does NOT break after
+  // the first hit: a page can carry a consent wall and a marketing modal at once,
+  // and stopping early leaves whichever one sorts second still covering the page.
   try {
     const buttons = await page.locator("button:visible").all();
     for (const btn of buttons) {
       const text = (await btn.innerText().catch(() => "")).trim();
-      if (COOKIE_TEXT_RE.test(text)) {
+      if (COOKIE_TEXT_RE.test(text) || POPUP_TEXT_RE.test(text)) {
         await btn.click({ timeout: 400 }).catch(() => {});
-        break;
       }
     }
   } catch {}
