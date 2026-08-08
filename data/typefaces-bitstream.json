@@ -41,46 +41,6 @@
     "foundry_blurb": "Charter was designed to be a versatile text typeface that would perform well even at the modest resolutions of 1980s laser printers — lean, efficient letterforms that still read beautifully today."
   },
   {
-    "name": "Bitstream Vera",
-    "foundry": "Bitstream",
-    "url": "https://www.gnome.org/fonts/",
-    "category": "sans-serif",
-    "subcategory": "humanist sans superfamily",
-    "classification_notes": "Humanist sans-serif superfamily covering sans, serif and monospaced variants. Released in 2003 under a liberal open source licence (created 2001). Full TrueType hinting for screen rendering. ~300 glyph coverage. Default font in Python's Matplotlib library. Parent of the DejaVu fonts project.",
-    "designer": "Jim Lyles",
-    "year": 2003,
-    "weights": [
-      "Roman",
-      "Bold"
-    ],
-    "optical_sizes_or_widths": [],
-    "subfamilies": [
-      "Bitstream Vera Sans",
-      "Bitstream Vera Serif",
-      "Bitstream Vera Sans Mono"
-    ],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": true,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "best",
-    "type": "free",
-    "tags": [
-      "humanist",
-      "open-source",
-      "screen",
-      "mono",
-      "system",
-      "technical",
-      "ui"
-    ],
-    "summary": "Jim Lyles's open source humanist superfamily covering sans, serif and mono variants, optimised for screen and foundational to the DejaVu project.",
-    "description": "Bitstream Vera is a three-family humanist superfamily released under a permissive open source licence in 2003. Jim Lyles built the design with full TrueType hinting for strong screen rendering, and the monospaced variant clearly distinguishes confusable characters like l and 1. Bitstream Vera Sans is the default font in Python's Matplotlib, and the expanded DejaVu project extends its glyph coverage substantially.",
-    "foundry_blurb": "Bitstream Vera is a humanist typeface superfamily optimised for on-screen use with full hinting, released under a licence permitting redistribution in software packages."
-  },
-  {
     "name": "Amerigo BT",
     "foundry": "Bitstream",
     "url": "https://www.myfonts.com/collections/amerigo-font-bitstream",

@@ -61,7 +61,7 @@
 | Big Fog Foundry | okay | 4 | https://foundry.bigfog.co/ | ok |
 | Bijou Type | okay | 3 | https://bijoutype.com | ok |
 | Binnenland | best | 10 | https://www.binnenland.ch/ | 1 bad |
-| Bitstream | okay | 6 | https://www.monotype.com/ | 4 missing |
+| Bitstream | okay | 5 | https://www.monotype.com/ | 3 missing |
 | Black Foundry | okay | 41 | https://black-foundry.com/ | ok |
 | Blackletra | okay | 30 | https://blackletra.com | ok |
 | Blanco Letters | okay | 15 | https://www.blancoletters.com/ | 1 missing |
@@ -125,7 +125,7 @@
 | Death of Typography | okay | 7 | https://deathoftypography.com/ | ok |
 | Delta Bravo Type | okay | – | https://www.deltabravotype.com | ok |
 | Delve Fonts | okay | 31 | https://delvefonts.com/ | ok |
-| Denis Serebryakov | best | 5 | https://type.today/en/journal/serebryakov | 3 missing |
+| Denis Serebryakov | best | 2 | https://type.today/en/journal/serebryakov | ok |
 | Dennis Grauel | okay | – | https://dennisgrauel.com | ok |
 | Department of Letters | okay | 4 | https://www.deptofletters.ca | ok |
 | Dharma Type | okay | 128 | https://dharmatype.com/ | ok |
@@ -179,10 +179,9 @@
 | Florian Runge | okay | 4 | https://florianrunge.com/ | ok |
 | FOLCH | okay | 7 | https://fontsfromfolch.com/ | 3 missing |
 | Fonderie Bretagne | okay | 23 | https://fonderiebretagne.fr/ | 23 bad |
-| Font Bureau | best | 13 | https://fontbureau.com/ | 13 missing — site down ("Coming Soon" parked page), all URLs 404 |
 | Font Club Belgica | okay | 6 | https://fontclubbelgica.com | ok |
 | Fontfabric | okay | 55 | https://www.fontfabric.com/ | ok |
-| FontFont | okay | 7 | https://www.fontfont.com/ | 3 missing |
+| FontFont | okay | 6 | https://www.fontfont.com/ | 2 missing |
 | Fonts from Folch | okay | – | https://www.fontsfromfolch.com/ | ok |
 | Fontshare | okay | 100 | https://www.fontshare.com/ | ok |
 | Fontwerk | best | 16 | https://fontwerk.com/ | ok |
@@ -293,7 +292,7 @@
 | Lift Type | best | 18 | https://www.lift-type.fr/ | 1 bad |
 | limitype | notgood | 48 | https://limitype.com/ | ok |
 | Lineto | best | 92 | https://lineto.com/ | ok |
-| Linotype | okay | 12 | https://www.linotype.com/ | 2 missing |
+| Linotype | okay | 11 | https://www.linotype.com/ | 1 missing |
 | lo-ol Type | okay | 10 | https://www.lo-ol.design/ | 9 bad |
 | London Type Foundry | okay | – | https://londontype.co.uk | ok |
 | Lost Type Co-op | okay | 69 | http://www.losttype.com/ | 3 missing |
@@ -333,7 +332,6 @@
 | Narrow Type | okay | 12 | https://www.narrowtype.com/ | ok |
 | Ndiscover | okay | – | https://ndiscover.com | ok |
 | Neoflix Studio | okay | 1 | https://supply.family/ | ok |
-| Netvarec Type | okay | 3 | https://nctype.com/ | 3 missing |
 | Neubau | okay | 12 | https://neubauladen.com/ | 1 missing |
 | Newglyph | okay | 25 | https://newglyph.com | 1 bad |
 | Newlyn | best | 42 | https://newlyn.com/ | 6 bad |
@@ -380,7 +378,6 @@
 | Peregrin Studio | okay | 3 | https://peregrinstudio.com/ | ok |
 | PFA Typefaces | okay | – | https://pfa-typefaces.com | ok |
 | Phantom Foundry | okay | 7 | http://phantom-foundry.com | ok |
-| Phil's Fonts | notgood | 1 | https://philsfonts.com/ | 1 missing |
 | Philatype | okay | 18 | https://philatype.com/ | 17 missing |
 | Pixelbuddha | okay | 7 | https://supply.family/ | ok |
 | Pizza Typefaces | okay | 27 | https://typefaces.pizza/ | ok |
@@ -589,6 +586,7 @@
 | En Travaux | notgood tier |
 | exljbris | notgood tier |
 | FOLCH Studio | agency site; fonts at fontsfromfolch.com (already indexed) |
+| Font Bureau | site down as of 2026-08-08 (fontbureau.com is a parked "Coming Soon" page, all 13 URLs 404). All typefaces removed from the directory. |
 | Font Bureau on TypeNetwork | hosted on TypeNetwork reseller platform |
 | FontHaus | reseller aggregator |
 | Fonts.gr | Greek aggregator site |
@@ -611,9 +609,11 @@
 | Monolith Foundry | domain dead, redirects to designer's personal free-download page |
 | Monotype | corporate conglomerate, not an independent foundry |
 | MoTyFo | notgood tier |
+| Netvarec Type | site down as of 2026-08-08 (nctype.com doesn't resolve, connection timeout on every page). All typefaces removed from the directory. |
 | Overlap Type | notgood tier |
 | P22 Type Foundry | notgood tier |
 | Paratype | large catalogue, no structured listing page |
+| Phil's Fonts | site down as of 2026-08-08 (philsfonts.com refuses connection). Only typeface removed from the directory. |
 | PSY/OPS Type Foundry | notgood tier |
 | Rajesh Rajput | Behance portfolio, not indexable |
 | Riegla & Riegraf | Readymag subscription expired; site dead |

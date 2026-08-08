@@ -483,45 +483,5 @@
     "summary": "Zapf's refined, lighter companion to Palatino, designed specifically for high-quality book printing.",
     "description": "Aldus was designed by Hermann Zapf in 1954 as a leaner, more refined companion to Palatino, intended for book-length text rather than display use. Its more condensed proportions and lighter colour suit smaller sizes and longer texts. Aldus Nova, released in 2005, brought the design up to OpenType standards alongside Palatino Nova.",
     "foundry_blurb": "Aldus is Zapf's distillation of Palatino's principles into a dedicated book face — more condensed, more refined and perfectly weighted for body text."
-  },
-  {
-    "name": "Linotype Didot",
-    "foundry": "Linotype",
-    "url": "https://www.myfonts.com/search/linotype-didot/fonts/?foundry=linotype",
-    "designer": "Adrian Frutiger",
-    "year": 1991,
-    "category": "serif",
-    "subcategory": "Didone",
-    "classification_notes": "Digital revival of the Didot tradition designed by Frutiger specifically for display use. Extreme contrast between thick and thin strokes. Not intended for body text at small sizes. Bundled with macOS.",
-    "weights": [
-      "Regular",
-      "Italic",
-      "Bold",
-      "Bold Italic",
-      "Headline"
-    ],
-    "optical_sizes_or_widths": [
-      "Headline"
-    ],
-    "subfamilies": [],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "reseller",
-    "tags": [
-      "didone",
-      "display",
-      "high-contrast",
-      "fashion",
-      "luxury",
-      "neoclassical"
-    ],
-    "summary": "Adrian Frutiger's digital revival of the Didot tradition, refined for display use and noted for extreme stroke contrast.",
-    "description": "Linotype Didot is a 1991 revival by Adrian Frutiger, designed expressly for display and headline use where the dramatic contrast between thick and thin strokes can be appreciated at scale. Frutiger's version is particularly elegant — clean and controlled rather than overwrought. A standard system font on macOS, it is widely used in fashion publishing and luxury branding.",
-    "foundry_blurb": "Linotype Didot brings the neoclassical French tradition into the digital age — a display face of austere elegance with extreme stroke contrast and fine hairline details."
   }
 ]

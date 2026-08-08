@@ -598,6 +598,9 @@ export const FOUNDRIES: FoundryInfo[] = [
 // domain matches foundries.json domain field.
 export const BLOCKED_FOUNDRIES: { domain: string; name: string; reason: string }[] = [
   { domain: "supply.family", name: "Zarma Type", reason: "reseller aggregator, not a single foundry page" },
+  { domain: "fontbureau.com", name: "Font Bureau", reason: "site down as of 2026-08-08, parked \"Coming Soon\" page" },
+  { domain: "nctype.com", name: "Netvarec Type", reason: "site down as of 2026-08-08, domain doesn't resolve" },
+  { domain: "philsfonts.com", name: "Phil's Fonts", reason: "site down as of 2026-08-08, connection refused" },
   { domain: "experim-etal.lettersetal.co.uk", name: "Lettersetal", reason: "JS-rendered" },
   { domain: "typokompanii.com", name: "Tüpokompanii", reason: "JS-rendered" },
   { domain: "behance.net", name: "Rajesh Rajput", reason: "Behance portfolio, not indexable" },

@@ -331,11 +331,11 @@ import writtenshape from "@/data/typefaces-writtenshape.json";
 import xoTypeCo from "@/data/typefaces-xo-type-co.json";
 
 // Batch 23 — featuredtype.com gap-fill
-import fontBureau from "@/data/typefaces-font-bureau.json";
+// Font Bureau and Phil's Fonts removed 2026-08-08: both sites down (see
+// BLOCKED_FOUNDRIES in lib/foundry-map.ts).
 import canadaType from "@/data/typefaces-canada-type.json";
 import mvbFonts from "@/data/typefaces-mvb-fonts.json";
 import urwTypeFoundry from "@/data/typefaces-urw-type-foundry.json";
-import philsFonts from "@/data/typefaces-phils-fonts.json";
 import rasmusAndersson from "@/data/typefaces-rasmus-andersson.json";
 import ogjTypeDesign from "@/data/typefaces-ogj-type-design.json";
 import markVanLeeuwen from "@/data/typefaces-mark-van-leeuwen.json";
@@ -487,7 +487,8 @@ import lostTypeCoOp from "@/data/typefaces-lost-type-co-op.json";
 import lucasfonts from "@/data/typefaces-lucasfonts.json";
 import markSimonson from "@/data/typefaces-mark-simonson.json";
 import moretype from "@/data/typefaces-moretype.json";
-import netvarecType from "@/data/typefaces-netvarec-type.json";
+// Netvarec Type removed 2026-08-08: nctype.com is down (see BLOCKED_FOUNDRIES
+// in lib/foundry-map.ts).
 import neubau from "@/data/typefaces-neubau.json";
 import nguyenGobber from "@/data/typefaces-nguyen-gobber.json";
 import nodoTypeFoundry from "@/data/typefaces-nodo-type-foundry.json";
@@ -946,11 +947,9 @@ export function getAllTypefaces(): Typeface[] {
         writtenshape,
         xoTypeCo,
         // Batch 23 — featuredtype.com gap-fill
-        fontBureau,
         canadaType,
         mvbFonts,
         urwTypeFoundry,
-        philsFonts,
         rasmusAndersson,
         ogjTypeDesign,
         markVanLeeuwen,
@@ -1098,7 +1097,6 @@ export function getAllTypefaces(): Typeface[] {
         lucasfonts,
         markSimonson,
         moretype,
-        netvarecType,
         neubau,
         nguyenGobber,
         nodoTypeFoundry,
