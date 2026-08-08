@@ -1080,53 +1080,6 @@
     "foundry_blurb": "DJR describes Megabase as a display gothic with strong horizontal stress, inspired by the clunkiness of 19th-century gothics like Gothic Bold and the space-age funkiness of 1970s designs such as Novarese's Sintex and Newman's Zipper. The typeface deliberately embraces uneven typographic colour, letting top-heavy, bottom-heavy and diagonal forms stand out, and offers variant forms for particularly disruptive letters so designers can calibrate how much disruption they introduce."
   },
   {
-    "name": "Forma DJR Mono",
-    "foundry": "David Jonathan Ross",
-    "url": "https://djr.com/forma-djr-mono",
-    "designer": "Ruggero Magrì, David Jonathan Ross",
-    "year": null,
-    "category": "mono",
-    "subcategory": "humanist monospace",
-    "classification_notes": "A monospaced sans derived from Nebiolo's 1968 Forma, itself a humanist grotesque. The monospace grid constrains proportions but the subtly rounded corners and tapered stems retain a humanist warmth.",
-    "weights": [
-      "Hairline",
-      "Thin",
-      "Extra Light",
-      "Light",
-      "Regular",
-      "Medium",
-      "Bold",
-      "Black"
-    ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Forma DJR Mono"
-    ],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": true,
-    "languages": [
-      "Latin Extended"
-    ],
-    "tier": "best",
-    "type": "foundry",
-    "tags": [
-      "monospace",
-      "humanist",
-      "revival",
-      "nebiolo",
-      "midcentury",
-      "coding",
-      "tabular",
-      "variable"
-    ],
-    "summary": "A monospaced revival of Nebiolo's 1968 Forma, designed by Ruggero Magrì and David Jonathan Ross, retaining the original's subtly rounded corners and tapered stems within a fixed-width grid.",
-    "description": "Derived from DJR's proportionally-spaced Forma revival, the family adapts the warmth of Aldo Novarese's midcentury grotesque to the constraints of a monospace grid, where narrow letters must widen and wide letters must compress. Magrì's approach avoids both distressed typewriter pastiche and purely digital austerity, landing in territory suited to code, tables and secondary text within brand systems already using Forma. Sixteen styles run from Hairline to Black with matching italics, plus a variable font and special unserifed alternates for f and r.",
-    "foundry_blurb": "DJR describe Forma DJR Mono as bringing the warmth of Nebiolo's 1968 Forma to the cold, sterile world of monospace typography. Designed by Ruggero Magrì, it preserves the subtly rounded corners and tapered stems that Roger Black sought to keep when commissioning the original revival, while solving the proportional distortions inherent to fixed-width type. The family was conceived as a companion to Forma DJR for use in tables, code snippets and secondary text, covering the full weight range from Hairline to Black with italics throughout."
-  },
-  {
     "name": "Indoor Kid",
     "foundry": "David Jonathan Ross",
     "url": "https://djr.com/indoor-kid",

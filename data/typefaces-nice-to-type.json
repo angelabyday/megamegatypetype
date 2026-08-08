@@ -617,51 +617,6 @@
     "foundry_blurb": "Nice To Type describe Balkenschrift as adhering to a straight-line construction principle, with alternate characters including a double-storey a, oldstyle figures and superscript punctuation. Wide styles include a complete alternate set that retains the small belly of certain forms. The variable fonts expose three axes: weight, slant angle and width, delivered as two separate files since the standard and rounded versions do not interpolate."
   },
   {
-    "name": "Massimo Grafia",
-    "foundry": "Nice To Type",
-    "url": "https://nicetotype.jp/retailtypefaces/massimo-grafia-normal/",
-    "designer": "Gabriel Richter and Andreas Uebele",
-    "year": 2018,
-    "category": "sans-serif",
-    "subcategory": "grotesque",
-    "classification_notes": "A grotesque sans with a hand-drawn origin, sitting in the broader grotesque tradition but with distinctive alternates derived from handwritten letterforms. The calm base and expressive variants mark it as a humanistically inflected grotesque.",
-    "weights": [
-      "Light",
-      "Regular",
-      "Medium",
-      "Bold"
-    ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Massimo Grafia",
-      "Massimo Grafia Semi Mono",
-      "Massimo Grafia Mono",
-      "Massimo Grafia Plain"
-    ],
-    "has_condensed": false,
-    "has_italic": false,
-    "has_mono": true,
-    "languages": [
-      "Latin Extended"
-    ],
-    "tier": "best",
-    "type": "foundry",
-    "tags": [
-      "grotesque",
-      "hand-drawn",
-      "alternates",
-      "variable",
-      "editorial",
-      "text",
-      "professional"
-    ],
-    "summary": "A grotesque with hand-drawn origins, built from letters Andreas Uebele wrote during a Rome residency and expanded into a full typeface by Gabriel Richter.",
-    "description": "The base family runs in four weights from Light to Bold, with a calm, constructed grotesque character suited to text and professional use. What distinguishes it is an extensive set of alternates, at least five per letter, drawn from Uebele's original handwritten correspondence, giving designers expressive range without leaving the grotesque idiom. The family spans proportional, semi-mono and mono subfamilies, and a variable font with weight and mono axes is included with purchase.",
-    "foundry_blurb": "Nice To Type describe Massimo Grafia as a well-constructed, calm but individual grotesque for everyday use, with superior and inferior figures, tabular and standard numerals, fractions and symbols for professional applications. It originates from 250 hand-written letters Andreas Uebele wrote during his scholarship at Villa Massimo in Rome; Gabriel Richter took the expressive individual characters and expanded them into a full typeface, adding a calm base as a backdrop for the numerous alternates."
-  },
-  {
     "name": "Golzheim Sans",
     "foundry": "Nice To Type",
     "url": "https://nicetotype.jp/retailtypefaces/golzheim-sans/",
@@ -711,54 +666,6 @@
     "summary": "A hand-drawn grotesque with comic origins, spanning ten weights with italics, variable font support, and over 300 bundled emojis.",
     "description": "Born from a student-era concept at the Düsseldorf University of Applied Sciences, Golzheim Sans pairs with its serif counterpart to form a family rooted in the tension between hairline pencil and ultra-black marker. Distinct spurs in the lowercase and intentionally unsteady strokes carry a sense of movement across the full weight range, while stylistic sets for open counters and continuous strokes extend the expressive palette. Both families ship as variable fonts with weight and italic axes, and every font includes over 385 emoji and custom symbols mapped to the Private Use Area.",
     "foundry_blurb": "Nice To Type describe Golzheim Sans as moving between light-heartedness, expressive linear stroke weight, and graphic clarity, balancing human craftsmanship with typographic precision. The family traces back to a hand-drawn, comic-like Bodoni conceived by Gabriel and Jonas during their studies, originally inspired by a comic character's hesitant confidence. Nearly a decade later the concept was revived and refined into both a serif and sans-serif family, each offering default letterforms alongside alternate sets with open counters and continuous strokes, plus a wide array of OpenType features and over 300 bundled emojis."
-  },
-  {
-    "name": "Neue Sammlung",
-    "foundry": "Nice To Type",
-    "url": "https://nicetotype.jp/retailtypefaces/neue-sammlung-default/",
-    "designer": "Yanik Hauschild and Gabriel Richter",
-    "year": 2025,
-    "category": "sans-serif",
-    "subcategory": "geometric sans",
-    "classification_notes": "Built explicitly on geometric principles with circular forms at its core, referencing Bauhaus construction while softening strict geometry with playful letterforms such as a wavy N and S.",
-    "weights": [
-      "Thin",
-      "Light",
-      "Regular",
-      "Medium",
-      "Bold",
-      "Black"
-    ],
-    "optical_sizes_or_widths": [
-      "Default",
-      "Text"
-    ],
-    "subfamilies": [
-      "Neue Sammlung",
-      "Neue Sammlung Text",
-      "Neue Sammlung Stencil"
-    ],
-    "has_condensed": false,
-    "has_italic": true,
-    "has_mono": false,
-    "languages": [
-      "Latin Extended"
-    ],
-    "tier": "best",
-    "type": "foundry",
-    "tags": [
-      "geometric",
-      "bauhaus",
-      "uniwidth",
-      "stencil",
-      "variable",
-      "stylistic-alternates",
-      "playful",
-      "contemporary"
-    ],
-    "summary": "A uniwidth geometric sans by Yanik Hauschild and Gabriel Richter, drawing on Bauhaus construction while allowing extensive character through 20 stylistic sets and a stencil variant.",
-    "description": "Built on circular, geometric principles, the family tempers its strict construction with deliberately playful letterforms, including a wavy N and S. Two optical subfamilies, Default and Text, address the spacing trade-offs inherent to uniwidth design, and a variable font combines weight and italic axes in a single file. Twenty stylistic sets plus a stencil cut give designers granular control over tone, from disciplined and systematic to loose and expressive.",
-    "foundry_blurb": "Nice To Type describe Neue Sammlung as built on geometric principles with playful shapes softening the strict circular construction. Twenty stylistic sets with multiple alternates let designers set their own tone, mixing and matching to personalise their 'new collection'. A Text subfamily corrects spacing in thinner cuts, and a variable font covers both weight and italic axes, with the stencil variant also available in italic and text options."
   },
   {
     "name": "Massimo Grafia Mono",

@@ -1585,42 +1585,6 @@
     "foundry_blurb": "TipoType's environmental awareness code, published August 2024, states the foundry's commitment to sustainable practices including use of renewable energy infrastructure in Uruguay and recyclable materials, with a goal of operating on 100% renewable energy."
   },
   {
-    "name": "Tipotype",
-    "foundry": "Tipotype",
-    "url": "https://tipotype.com/about-us/",
-    "designer": null,
-    "year": 2006,
-    "category": "sans-serif",
-    "subcategory": "grotesque",
-    "classification_notes": "This is a foundry about page rather than a specific typeface page; no typeface is described, so category defaults cannot be meaningfully assigned. Filed as sans-serif grotesque as a placeholder.",
-    "weights": [],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Tipotype"
-    ],
-    "has_condensed": false,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "independent",
-      "latin-american",
-      "corporate",
-      "branding",
-      "type-foundry",
-      "identity"
-    ],
-    "summary": "An independent Argentine type foundry operating since 2006, focused on corporate typographic projects for governments, NGOs and private clients across Latin America, Europe and beyond.",
-    "description": "Founded in 2006, Tipotype has built its practice around producing, adapting and licensing typefaces for institutional and corporate clients across Latin America, the USA, the UK, Germany, the Netherlands and India. The foundry keeps a deliberately lean structure, meaning client contact goes directly to the founding directors. Beyond commercial work, the team has been involved in organising the Letras Latinas and Tipos Latinos biennials, publishing books on type, and teaching at university level.",
-    "foundry_blurb": "Tipotype describe themselves as an independent type foundry focused on corporate projects, with over fifteen years of work in communication and design globally. They produce by researching market trends, adapt products to specific settings, and advise clients on licensing. The founding team has played an active role in the Latin American typographic industry through awards, biennials, university teaching and large-scale design projects."
-  },
-  {
     "name": "Latinoamérica",
     "foundry": "Tipotype",
     "url": "https://tipotype.com/latinoamerica/",
@@ -1678,39 +1642,6 @@
     "summary": "This URL points to Tipotype's GDPR data handling disclaimer page rather than any typeface product page.",
     "description": "The page scraped is Tipotype's data handling disclaimer, outlining their GDPR-compliant policies on data collection, storage and user rights. No typeface is featured or described on this page. No meaningful font metadata can be extracted.",
     "foundry_blurb": "Tipotype's data handling disclaimer outlines their approach to GDPR compliance, covering data collection, storage security, third-party sharing policy, user rights and retention periods, published in August 2024."
-  },
-  {
-    "name": "TipoType",
-    "foundry": "Tipotype",
-    "url": "https://tipotype.com/feed/",
-    "designer": null,
-    "year": null,
-    "category": "display",
-    "subcategory": "grotesque",
-    "classification_notes": "The page content is an RSS feed with no typeface-specific information; unable to determine category or subcategory from available data.",
-    "weights": [],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "TipoType"
-    ],
-    "has_condensed": false,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "okay",
-    "type": "foundry",
-    "tags": [
-      "foundry",
-      "latin",
-      "type"
-    ],
-    "summary": "No typeface-specific content was available at this URL, which returns only an RSS feed index for the Tipotype foundry.",
-    "description": "The provided URL resolves to an RSS feed rather than a specific typeface page, containing no design, weight, language or historical information. No typeface name, designer or release year can be determined from this content. A specific typeface product URL would be required to produce a meaningful entry.",
-    "foundry_blurb": "No foundry copy for a specific typeface was present at this URL."
   },
   {
     "name": "Code of Conduct and Ethics",

@@ -393,53 +393,6 @@
     "foundry_blurb": "Herzberg Design describe Cloisterfuch as a chunky, striking blackletter that takes the varying pen angles and waisted strokes of calligraphic scripts and pushes them to an extreme, producing an exaggerated, blocky display face best viewed large. Its letterforms draw mostly on Textura Quadrata with Fraktur influence in the majuscules, and the face includes Latin Plus language support alongside a range of OpenType features including swash caps, historical alternates, oldstyle figures and ligatures."
   },
   {
-    "name": "Thanatos",
-    "foundry": "Herzberg Design",
-    "url": "https://www.herzbergdesign.com/wms",
-    "designer": "Herzberg Design",
-    "year": 2021,
-    "category": "display",
-    "subcategory": "display serif",
-    "classification_notes": "Thanatos features extreme sharp serifs with an unusual contrast structure inspired by the woodcut forms of Albertus, placing it firmly in display serif territory with strong expressive character.",
-    "weights": [
-      "Thin",
-      "Light",
-      "Regular",
-      "Medium",
-      "Bold",
-      "Heavy",
-      "Black"
-    ],
-    "optical_sizes_or_widths": [
-      "Display",
-      "Text"
-    ],
-    "subfamilies": [
-      "Thanatos"
-    ],
-    "has_condensed": false,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "best",
-    "type": "foundry",
-    "tags": [
-      "display",
-      "serif",
-      "horror",
-      "sharp",
-      "high-contrast",
-      "woodcut",
-      "editorial",
-      "film"
-    ],
-    "summary": "A custom display serif designed for horror short film While Mortals Sleep, drawing on the woodcut forms of Albertus with extreme sharp serifs and a variable weight axis.",
-    "description": "Designed originally in 2021 as a custom typeface for the Sundance 2022 horror short While Mortals Sleep, Thanatos takes its structural cues from Albertus, the typeface associated with John Carpenter's credit sequences. Its defining characteristic is an aggressive sharpness in serifs and corners, offset by an unusual contrast structure that keeps letterforms readable at weight. A variable weight axis runs from Thin to Black, and an optical sizing axis was added to resolve the sharpest details muddying at small sizes.",
-    "foundry_blurb": "Thanatos was designed as a custom typeface for Alex Fofonoff's horror short While Mortals Sleep, which premiered at Sundance 2022. Named after the Jungian death drive, the face features extremely sharp serifs and corners alongside an unusual contrast structure inspired by the woodcut forms of Albertus, John Carpenter's signature credit typeface. It includes a weight axis from thin to black and an optical sizing axis for small-size legibility. Originally completed in 2021, it was subsequently developed into a retail release in May 2023."
-  },
-  {
     "name": "Idle Hour Books",
     "foundry": "Herzberg Design",
     "url": "https://www.herzbergdesign.com/idle-hour",
@@ -556,44 +509,6 @@
     "summary": "A vaudeville Victorian logotype designed for a New Jersey rhythm and roots band, built around warm, funky letterforms and a dark red, creme and charcoal palette.",
     "description": "Created as part of a broader rebranding project for The Shady Street Show Band of Asbury Park, NJ, the logotype draws on late 19th and early 20th century historical styles to produce a decorative Victorian lockup. The family includes a compact monogram variant for contexts where the full wordmark is too large, alongside an ornamental business card and electronic press kit. The warm palette and period-influenced forms are aimed squarely at the band's roots and rhythm identity.",
     "foundry_blurb": "Herzberg Design describe the project as a rebranding for an original rhythm and roots band, arrived at after exploring several historical styles from the late 19th and early 20th centuries. The chosen direction is a vaudeville Victorian lockup with warm and funky letterforms in a dark red, creme and charcoal palette, applied across a wordmark, compact monogram, ornamental business card and electronic press kit."
-  },
-  {
-    "name": "Bonkus",
-    "foundry": "Herzberg Design",
-    "url": "https://www.herzbergdesign.com/big-fun",
-    "designer": null,
-    "year": null,
-    "category": "display",
-    "subcategory": "geometric sans",
-    "classification_notes": "Described as a counterless geometric, used as a display supporting typeface in a brand identity context, suggesting a bold, open geometric sans character.",
-    "weights": [
-      "Regular"
-    ],
-    "optical_sizes_or_widths": [
-      "standard"
-    ],
-    "subfamilies": [
-      "Bonkus"
-    ],
-    "has_condensed": false,
-    "has_italic": false,
-    "has_mono": false,
-    "languages": [
-      "Latin"
-    ],
-    "tier": "loose",
-    "type": "foundry",
-    "tags": [
-      "geometric",
-      "display",
-      "counterless",
-      "bold",
-      "branding",
-      "retro"
-    ],
-    "summary": "A counterless geometric sans designed by Herzberg Design, used as a supporting typeface in a New Orleans-themed brand identity with a 1990s aesthetic.",
-    "description": "Bonkus is a geometric sans characterised by its counterless letterforms, giving it a bold, open quality suited to display use. It appears here as the supporting typeface in the Big Fun brand identity, paired with a hand-lettered brush script to achieve a 1990s-inflected aesthetic. Little further detail about weights or language coverage is available from this page.",
-    "foundry_blurb": "Herzberg Design describe Bonkus as their own typeface, used here as a supporting font in the Big Fun entertainment brand identity alongside a handwritten, scanned and vectored brush script logotype."
   },
   {
     "name": "Felices Para Siempre",
