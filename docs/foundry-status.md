@@ -26,12 +26,12 @@
 | Aiyari Studio | okay | 36 | https://aiyaristudio.com/ | 3 missing |
 | Alexandre Créquer | okay | 7 | https://www.alex-creq.com/ | ok |
 | AlfaType Fonts Foundry | okay | 2 | https://www.alfatypefonts.com/ | 2 missing |
-| Alias | okay | 14 | https://alias.fonts.xyz/ | 1 missing |
+| Alias | okay | 14 | https://alias.fonts.xyz/ | ok |
 | AllCaps | best | 10 | https://www.allcapstype.com/ | ok |
 | Almarena | best | 9 | https://almarenafoundry.com/ | ok |
 | ALT.tf | okay | 11 | https://alt-tf.com/ | ok |
 | Amorfa Type | okay | 37 | https://supply.family/ | ok |
-| Anton Koovit | best | 9 | https://antonkoovit.com/ | 4 missing |
+| Anton Koovit | best | 9 | https://antonkoovit.com/ | 2 missing |
 | Antonin Bertrand | okay | 1 | https://antoninbertrand.com/ | 1 missing |
 | Any-Type® Foundry | okay | 18 | https://supply.family/ | ok |
 | Apex Foundry | okay | 10 | https://www.apextypefoundry.com/ | ok |
@@ -45,7 +45,7 @@
 | Atipo Foundry | okay | 50 | https://www.atipofoundry.com/ | ok |
 | Atlas Fonts | okay | 15 | https://www.atlasfonts.com | ok |
 | Atypical | okay | 32 | https://atypical.gr/ | 7 missing |
-| AUTHENTIC | okay | 2 | https://authentic.website/ | 2 missing |
+| AUTHENTIC | okay | 2 | https://authentic.website/ | 1 missing |
 | Autograph | okay | 3 | https://supply.family/ | ok |
 | Avondale Type Co. | okay | – | https://avondaletypeco.com | ok |
 | b•v-h type | okay | 18 | https://bvhtype.com/ | 5 bad |
@@ -87,7 +87,7 @@
 | Burrow Lab | okay | 2 | https://burrow-lab.fonts.xyz/ | 1 missing |
 | Cake Type | okay | – | https://www.caketype.com | ok |
 | Calame.Bureau | okay | 8 | https://arthurcalame.com/ | 3 missing |
-| Calderón | best | 11 | https://www.estudiocalderon.com/ | 1 missing |
+| Calderón | best | 11 | https://www.estudiocalderon.com/ | ok |
 | Camelot | best | 9 | https://camelot-typefaces.com/ | ok |
 | Canada Type | best | 15 | https://canadatype.com/ | 15 missing |
 | Cantrell Type | okay | 11 | https://cantrelltype.com | ok |
@@ -117,7 +117,7 @@
 | Crown Type | okay | – | https://crowntype.com | ok |
 | Dalton Maag | best | 77 | https://www.daltonmaag.com/ | ok |
 | Darden Studio | okay | 8 | https://www.dardenstudio.com/ | ok |
-| Daria Cohen | best | 2 | https://contemporarytype.com/ | 2 missing |
+| Daria Cohen | best | 2 | https://contemporarytype.com/ | ok |
 | David Einwaller | okay | – | https://shop.deinwaller.com | ok |
 | David Jonathan Ross | okay | 29 | https://djr.com/ | 3 bad |
 | Daytona Mess | notgood | 1 | https://daytona-mess.fonts.xyz/ | ok |
@@ -131,7 +131,7 @@
 | Dharma Type | okay | 128 | https://dharmatype.com/ | ok |
 | Dinamo Typefaces | best | 85 | https://abcdinamo.com/ | ok |
 | Diorama Type Partners | okay | 4 | https://www.dioramatypepartners.com | ok |
-| Dirty Line Studio | okay | 45 | https://dirtylinestudio.com/ | 1 missing |
+| Dirty Line Studio | okay | 45 | https://dirtylinestudio.com/ | ok |
 | Displaay Type Foundry | best | 37 | https://displaay.net/ | ok |
 | dito-typo | okay | 4 | https://dito-typo.com/ | ok |
 | DK Type | best | 8 | https://dktype.com/ | ok |
@@ -414,7 +414,7 @@
 | Rellence | okay | 28 | https://rellence.com/ | 15 missing |
 | Renegadefonts | okay | 9 | https://www.renegadefonts.com/ | 7 missing |
 | Reset Type Studio | okay | 8 | https://reset-type.com/ | ok |
-| Resistenza Type | okay | 94 | https://www.resistenza.es/ | 2 missing |
+| Resistenza Type | okay | 94 | https://www.resistenza.es/ | 1 missing |
 | RetroSupply Co. | okay | 16 | https://www.retrosupply.co/ | 16 missing |
 | Retype | okay | 22 | https://www.re-type.com | ok |
 | Revolver Type Foundry | okay | 14 | https://www.revolvertype.com/ | ok |
@@ -435,7 +435,7 @@
 | Signal | best | 18 | https://signalfoundry.com/ | ok |
 | SilverStag Type | okay | 17 | https://silverstagtype.com/ | ok |
 | Simple Bits | okay | 18 | https://simplebits.shop | ok |
-| Skilline Fonts Co. | okay | 58 | https://supply.family/ | 1 missing |
+| Skilline Fonts Co. | okay | 58 | https://supply.family/ | ok |
 | Slanted Hall | okay | 2 | https://slantedhall.com/ | ok |
 | SM | okay | 8 | https://s-m.nu/ | 1 bad |
 | Smeltery | okay | 21 | https://www.smeltery.net | 21 bad |
