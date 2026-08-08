@@ -230,7 +230,14 @@ function outPath(t) {
 }
 
 // Minimum bytes for a valid specimen — anything below is likely a generic placeholder.
-const MIN_SIZE = 5000;
+// Deliberately low: a *clean* specimen (big black letterforms on flat white, no
+// photography or texture) is exactly the kind of image WebP compresses hardest,
+// so a high floor here rejects the best-composed pages first. Synthview's
+// Nerissimo — a full-width display specimen, nothing wrong with it — came in at
+// 4736b and was being thrown out by the old 5000 floor. Genuinely empty captures
+// land in the hundreds of bytes and are still caught, as is anything near-solid
+// (the stdev check below is the real blank detector; this is just a cheap guard).
+const MIN_SIZE = 2000;
 
 // "cover" crops to fill the frame — right for near-4:3 page screenshots, but a
 // tester element is often a short, very wide strip of text (e.g. 1141x120, a
@@ -336,10 +343,16 @@ async function validateSpecimen(webpBuf, t, { skipBlankCheck = false } = {}) {
               type: "text",
               text:
                 `This image was captured from ${t.foundry}'s website for the typeface "${t.name}". ` +
-                `Is it a usable specimen image, i.e. letterforms or type shown clearly as the main subject? ` +
-                `Answer no for: cookie/consent banners or walls, Cloudflare or human-verification pages, ` +
-                `error pages, blank or near-blank pages, language-coverage maps, photos without prominent type, ` +
-                `pages where the specimen area failed to render. ` +
+                `Question: can you see real letterforms clearly enough to judge this typeface? ` +
+                `Answer no ONLY for: cookie/consent banners or walls, Cloudflare or human-verification ` +
+                `pages, error pages (404/500), "coming soon" or parked pages, blank or near-blank ` +
+                `captures, language-coverage maps, or images where NO letterforms are visible at all ` +
+                `(a bare photo, a logo mark on its own, a diagram, a product shot with no type on it). ` +
+                `Answer YES whenever letterforms are legible, even if the shot is not ideal: body text ` +
+                `rather than a big display line, marketing copy rather than a pangram, a busy or ` +
+                `cropped composition, only one or two words, or a deliberately experimental / ` +
+                `distorted typeface showing its genuine character. Composition and copy choice are ` +
+                `not the test — legibility is. ` +
                 `Reply with JSON only: {"ok": true|false, "reason": "<max 6 words>"}`,
             },
           ],
