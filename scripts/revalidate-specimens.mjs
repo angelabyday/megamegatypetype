@@ -22,6 +22,8 @@ const MANIFEST = join(root, "lib", "specimens.json");
 
 const modelFlag = process.argv.indexOf("--model");
 const VISION_MODEL = modelFlag > -1 ? process.argv[modelFlag + 1] : "claude-haiku-4-5";
+const foundriesFlag = process.argv.indexOf("--foundries");
+const foundriesOverride = foundriesFlag > -1 ? process.argv[foundriesFlag + 1].split(",") : null;
 
 if (!process.env.ANTHROPIC_API_KEY && existsSync(join(root, ".env.local"))) {
   const env = readFileSync(join(root, ".env.local"), "utf8");
@@ -99,7 +101,7 @@ const manifest = existsSync(MANIFEST) ? JSON.parse(readFileSync(MANIFEST, "utf8"
 let checked = 0, kept = 0, removed = 0;
 const removedList = [];
 
-for (const foundrySlug of AFFECTED) {
+for (const foundrySlug of foundriesOverride ?? AFFECTED) {
   const dir = join(OUT_DIR, foundrySlug);
   if (!existsSync(dir)) continue;
   const names = loadTypefaceNames(foundrySlug);
